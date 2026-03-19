@@ -1,6 +1,6 @@
 # ICTY Dataset
 
-Scraping, parsing, and NLP analysis of court transcripts from the International Criminal Tribunal for the former Yugoslavia (ICTY).
+Scraping and parsing of court transcripts from the International Criminal Tribunal for the former Yugoslavia (ICTY).
 
 ## Project Structure
 
@@ -42,3 +42,7 @@ The `examples/` folder contains three representative cases with all pipeline sta
 | Erdemovic | 1996–98 | First guilty plea at ICTY | 14 |
 | Deronjic | 2003–05 | Later-era compact case | 13 |
 | Krstic | 2000–04 | First genocide conviction (Srebrenica) | 127 |
+
+## Full Dataset
+
+The complete dataset (8.8 GB raw archive, 1.8 GB converted text, 2.6 GB parsed JSON — 16,505 transcripts across 82 cases) is too large for GitHub. It is currently stored locally on the working computer of Suzana Sagadin.
