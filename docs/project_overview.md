@@ -9,13 +9,15 @@ ICTY/
   scraper/                   # Web scraper for ICTY archive
     icty_scraper.py
     ICTY_SCRAPER_README.md
-  parser/                    # Transcript parser (.doc → structured JSON)
-    icty_parser.py
-    run_parser.py
+  parser/                    # Transcript and CIS parsers
+    icty_parser.py           # Transcript parser (.doc → structured JSON)
+    run_parser.py            # Transcript parser CLI runner
+    cis_parser.py            # Case Information Sheet parser (PDF → JSON/CSV)
   data/                      # All generated data (gitignored)
     archive/                 # Raw scraped files (.doc/.tif/.pdf) — 8.8 GB
     converted_txt/           # Cached .txt conversions — 1.8 GB
     parsed/                  # Structured JSON output — 2.6 GB
+    cis_parsed/              # Parsed Case Information Sheets — ~2 MB
   logs/                      # Parse logs and reports (gitignored)
   .venv/                     # Python 3.12 virtual environment (gitignored)
 ```
@@ -192,6 +194,61 @@ This metric does **not** reflect overall parsing quality — speaker separation 
 - `MR. ERDEMOVIC` (accused addressed as `MR.` in early transcripts) is classified as `counsel` instead of `accused`
 - Counsel side (`prosecution` vs `defence`) is not yet resolved for `MR./MS.` speakers — currently all classified as `counsel`
 - ~0.6% of answers not linked to a question (mostly due to judge interjections or unusual formatting)
+
+## Case Information Sheet (CIS) Parser
+
+A separate parser (`parser/cis_parser.py`) extracts structured metadata from the **Case Information Sheet** PDFs stored in `data/archive/*/case_info_sheets/`. These are official ICTY summary documents that contain key facts about each case.
+
+### Pipeline
+
+1. **PDF discovery** — walks `data/archive/*/case_info_sheets/`, selects files matching `cis_*.pdf`
+2. **Text extraction** — uses pdfplumber to extract text page by page
+3. **Field extraction** — regex-based extraction of defendant names, case IDs, charges, outcomes, sentences, key dates, trial statistics, related cases, and more
+4. **Output** — one JSON per case, plus combined outputs (full JSON, summary JSON, CSV)
+
+### Usage
+
+```bash
+cd parser
+source ../.venv/bin/activate
+pip install pdfplumber                          # Additional dependency
+python cis_parser.py                            # Parse all CIS PDFs
+python cis_parser.py --archive-dir data/archive --output-dir data/cis_parsed
+```
+
+### Output format
+
+Output is written to `data/cis_parsed/`:
+
+- **69 individual JSON files** (`{case_slug}_cis.json`) — one per case, without full text
+- `all_cases_full.json` — combined JSON with full extracted text (for downstream NLP)
+- `all_cases_summary.json` — combined JSON without full text (for quick loading)
+- `all_cases.csv` — flat CSV for statistical analysis
+- `report.md` — summary report with aggregate statistics
+
+Each per-case JSON contains: `case_slug`, `case_id`, `case_name`, `defendant_name`, `defendants[]` (for multi-defendant cases), `plea`, `trial_outcome`, `final_outcome`, `sentence_years`, `life_sentence`, `charge_categories[]`, `crime_types[]`, key dates (`born`, `indictment_date`, `arrested_date`, `trial_judgement`, `appeals_judgement`, etc.), trial statistics (`trial_days`, `prosecution_witnesses`, `defence_witnesses`, etc.), and `related_cases[]`.
+
+### CIS corpus results
+
+| Metric | Value |
+|---|---|
+| Cases parsed | 69 / 85 case folders |
+| Convicted | 45 |
+| Acquitted | 15 |
+| Deceased (before trial) | 5 |
+| Guilty pleas | 22 |
+| Life sentences | 8 |
+| Mean sentence (determinate) | 16.7 years |
+| Multi-defendant cases | 12 |
+
+The 16 missing cases are duplicate/legacy folders, the `_statistics` metadata folder, or co-defendant cases covered by the joint CIS of their parent trial.
+
+### Known limitations
+
+- CIS PDFs come in at least 4 different formats spanning ~20 years; extraction is not fully consistent
+- 27 cases use a newer PDF format that does not include geographic cluster names
+- Some fields may be missing or imprecise — see `data/cis_parsed/report.md` for per-field completeness statistics
+- Multi-defendant case outcomes reflect the primary defendant; individual defendant outcomes are in the `defendants[]` array
 
 ## Unprocessed files (future work)
 
