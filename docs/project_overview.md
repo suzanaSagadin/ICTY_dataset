@@ -193,6 +193,7 @@ This metric does **not** reflect overall parsing quality — speaker separation 
 
 - `MR. ERDEMOVIC` (accused addressed as `MR.` in early transcripts) is classified as `counsel` instead of `accused`
 - Counsel side (`prosecution` vs `defence`) is not yet resolved for `MR./MS.` speakers — currently all classified as `counsel`
+- Metatext "Blank page inserted to ensure pagination corresponds between the French and English transcripts" inserted in some text fields (e.g. slobodan_milosevic/Public_Transcript_of_Hearing_3_June_2002.json)
 - ~0.6% of answers not linked to a question (mostly due to judge interjections or unusual formatting)
 
 ## Case Information Sheet (CIS) Parser
