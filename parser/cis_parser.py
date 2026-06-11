@@ -39,9 +39,15 @@ RE_SENTENCE = re.compile(
     re.IGNORECASE,
 )
 RE_SENTENCE_YEARS = re.compile(
-    r"(\d+)\s+years?['\u2019]?\s*imprisonment", re.IGNORECASE
+    r"(?<![\d.])(\d+(?:\.\d+)?)\s+years?['\u2019]?\s*imprisonment", re.IGNORECASE
 )
 RE_SENTENCE_LIFE = re.compile(r"life\s+imprisonment", re.IGNORECASE)
+
+
+def _years(match_group: str) -> int | float:
+    """7.5 stays a float, whole years become int."""
+    val = float(match_group)
+    return int(val) if val.is_integer() else val
 
 # Date patterns (e.g. "8 January 1960", "10 November 1995")
 RE_DATE = re.compile(
@@ -183,10 +189,16 @@ def find_defendant_name(text: str) -> str | None:
 
 
 def find_sentence(text: str) -> dict:
-    """Extract sentence information."""
+    """Extract sentence information.
+
+    The first "sentenced to ..." match is the header line with the primary
+    defendant's final sentence. Life/years are derived from that sentence text
+    only — "life imprisonment" elsewhere in the sheet (related cases,
+    prosecution appeal requests, overturned trial sentences) must not set the
+    flag.
+    """
     result = {"sentence_text": None, "sentence_years": None, "life_sentence": False}
 
-    # Search full text for sentence info (NEW format puts it later)
     m = RE_SENTENCE.search(text)
     if m:
         result["sentence_text"] = m.group(1).strip()
@@ -196,14 +208,15 @@ def find_sentence(text: str) -> dict:
     if m_field and not result["sentence_text"]:
         result["sentence_text"] = m_field.group(1).strip()[:100]
 
-    if RE_SENTENCE_LIFE.search(text):
+    sentence_text = result["sentence_text"] or ""
+    if RE_SENTENCE_LIFE.search(sentence_text):
         result["life_sentence"] = True
         result["sentence_years"] = None
     else:
-        # Look for years in sentence
-        m = RE_SENTENCE_YEARS.search(text)
+        # Look for years in the final sentence
+        m = RE_SENTENCE_YEARS.search(sentence_text)
         if m:
-            result["sentence_years"] = int(m.group(1))
+            result["sentence_years"] = _years(m.group(1))
         else:
             # Try to find "two and a half years" etc.
             m2 = re.search(
@@ -343,14 +356,23 @@ def find_related_cases(text: str) -> list[str]:
 
 
 def find_plea(text: str) -> str | None:
-    """Determine plea type: guilty or not guilty.
+    """Determine plea type: guilty or not guilty. See find_plea_note."""
+    return find_plea_note(text)[0]
+
+
+def find_plea_note(text: str) -> tuple[str | None, str | None]:
+    """Determine the initial plea and a note about later changes.
+
+    Returns (plea, note). The plea is the one entered at (or closest to) the
+    initial appearance; an accused who first pleaded not guilty and later
+    changed to guilty stays "not guilty" with a note recording the change.
 
     Tolerates quotes/punctuation between "pleaded" and the plea (CIS sheets
     often write pleaded "not guilty" with curly quotes). Also treats refusal
     to plead as "not guilty": under ICTY Rule 62 the Trial Chamber enters a
     not-guilty plea on the accused's behalf when they decline or fail to plead.
     Cases that never reached arraignment (died/withdrawn) match nothing and
-    return None.
+    return (None, None).
     """
     text_lower = text.lower()
     # Optional quote/space between the verb and the plea word
@@ -381,15 +403,16 @@ def find_plea(text: str) -> str | None:
     ))
 
     if withdrew_guilty_plea and has_not_guilty and not has_plea_agreement:
-        return "not guilty"
-    if has_plea_agreement or (has_guilty_plea and not has_not_guilty):
-        return "guilty"
-    elif has_guilty_plea and has_not_guilty:
-        # Changed plea during proceedings (common pattern)
-        return "guilty"  # ended up pleading guilty
-    elif has_not_guilty or refused_to_plead:
-        return "not guilty"
-    return None
+        return "not guilty", "initial guilty plea withdrawn"
+    if has_not_guilty and (has_guilty_plea or has_plea_agreement):
+        # Changed plea during proceedings (common pattern): the initial
+        # not-guilty plea counts, the later change is noted
+        return "not guilty", "later changed plea to guilty"
+    if has_plea_agreement or has_guilty_plea:
+        return "guilty", None
+    if has_not_guilty or refused_to_plead:
+        return "not guilty", None
+    return None, None
 
 
 def find_outcome(text: str) -> str | None:
@@ -415,14 +438,37 @@ def find_outcome(text: str) -> str | None:
     if is_deceased and not has_sentence and not has_conviction:
         return "deceased"
 
-    # Appeals acquittal overrides trial conviction
+    # Appeals verdict overrides trial conviction. Only the ~250 chars after
+    # the first "Appeals Chamber Judgement" label are inspected: that is the
+    # field line of the (primary) accused; a wider window reaches into
+    # co-accused blocks and statistics tables
     appeals_section = ""
     m = re.search(r"appeals?\s+chamber\s+judgement(.*)", text_lower, re.DOTALL)
     if m:
-        appeals_section = m.group(1)[:2000]
+        appeals_section = m.group(1)[:250]
 
     if appeals_section:
-        if re.search(r"acquitted|verdicts?\s+of\s+acquittal|reversed.*convictions?|entered.*acquittal", appeals_section):
+        # A re-sentencing means the conviction stood, however many counts
+        # were reversed (Blaškić: "reversed the majority of the ...
+        # convictions and sentenced Blaškić to 9 years")
+        resentenced = re.search(
+            r"sentenced\s+(?:\w+\s+)?to|sentence\s+(?:was\s+)?reduced\s+to|sentence\s+\d",
+            appeals_section,
+        )
+        if resentenced:
+            return "convicted"
+        if re.search(r"re-?trial\s+ordered", appeals_section):
+            # Outcome is whatever the re-trial decided, if the sheet has it
+            m_rt = re.search(r"re-?trial\s+judgement[^\n]{0,100}", text_lower)
+            if m_rt and "acquit" in m_rt.group(0):
+                return "acquitted"
+            if m_rt and re.search(r"convict|sentenc|guilty", m_rt.group(0)):
+                return "convicted"
+            return "retrial ordered"
+        if re.search(
+            r"acquitted|verdicts?\s+of\s+acquittal|reversed.*convictions?|entered.*acquittal",
+            appeals_section,
+        ):
             # Check if ALL defendants were acquitted or just some
             if "found not guilty" in text_lower[:1500] or re.search(r"all.*acquit|reversed.*all|acquitted\s+on\s+all", appeals_section):
                 return "acquitted"
@@ -506,7 +552,7 @@ def find_defendants(text: str) -> list[dict]:
         # Extract sentence per defendant
         m = RE_SENTENCE_YEARS.search(block)
         if m:
-            d["sentence_years"] = int(m.group(1))
+            d["sentence_years"] = _years(m.group(1))
         elif RE_SENTENCE_LIFE.search(block):
             d["sentence_years"] = None
             d["life_sentence"] = True
@@ -541,9 +587,21 @@ def parse_cis(pdf_path: Path, case_slug: str) -> dict:
     defendants = find_defendants(text)
     final_outcome = find_outcome(text)
 
-    # Determine trial chamber outcome (before appeals)
+    # Determine trial chamber outcome (before appeals) from the
+    # "Trial Chamber Judgement <date>, sentenced to/acquitted ..." field
+    # lines (one per accused in joint cases); a bare whole-text "convicted"
+    # search also hits related cases or contempt proceedings (e.g. Šešelj,
+    # acquitted at trial but convicted of contempt three times)
     text_lower = text.lower()
-    if re.search(r"found guilty|convicted", text_lower):
+    judgement_snippets = [
+        text_lower[m.end():m.end() + 200]
+        for m in re.finditer(r"trial\s+chamber\s+(?:sentencing\s+)?judgement", text_lower)
+    ]
+    if any(re.search(r"sentenc|convicted|found\s+guilty", s) for s in judgement_snippets):
+        trial_outcome = "convicted"
+    elif any("acquit" in s for s in judgement_snippets):
+        trial_outcome = "acquitted"
+    elif re.search(r"found guilty|convicted", text_lower):
         trial_outcome = "convicted"
     elif "guilty plea" in text_lower or "pleaded guilty" in text_lower:
         trial_outcome = "convicted"
@@ -576,7 +634,8 @@ def parse_cis(pdf_path: Path, case_slug: str) -> dict:
         # Sentence
         **sentence,
         # Outcome
-        "plea": find_plea(text),
+        "plea": (plea_and_note := find_plea_note(text))[0],
+        "plea_note": plea_and_note[1],
         "trial_outcome": trial_outcome,
         "final_outcome": final_outcome,
         "arrest_authority": find_arrest_authority(text),
@@ -684,7 +743,7 @@ def main():
     csv_fields = [
         "case_slug", "case_id", "case_name", "defendant_name", "all_defendants", "defendant_count",
         "sentence_text", "sentence_years", "life_sentence",
-        "plea", "trial_outcome", "final_outcome", "arrest_authority", "sentence_served_country",
+        "plea", "plea_note", "trial_outcome", "final_outcome", "arrest_authority", "sentence_served_country",
         "born", "indictment_date", "arrested_date", "transferred_date",
         "initial_appearance", "trial_commenced", "commencement",
         "closing_arguments", "trial_judgement", "appeals_judgement",

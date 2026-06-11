@@ -225,7 +225,7 @@ Output is written to `data/cis_parsed/`:
 - `all_cases_full.json` — combined JSON with full extracted text (for downstream NLP)
 - `all_cases_summary.json` — combined JSON without full text (for quick loading)
 - `all_cases.csv` — flat CSV for statistical analysis
-- `pleas.csv` — one row per accused (116 accused) with their individual plea, produced by `parser/extract_pleas.py`
+- `pleas.csv` — one row per accused (116 accused) with their individual initial plea (later changes in the `note` column), produced by `parser/extract_pleas.py`
 - `report.md` — summary report with aggregate statistics
 
 Each per-case JSON contains: `case_slug`, `case_id`, `case_name`, `defendant_name`, `defendants[]` (for multi-defendant cases), `plea`, `trial_outcome`, `final_outcome`, `sentence_years`, `life_sentence`, `charge_categories[]`, `crime_types[]`, key dates (`born`, `indictment_date`, `arrested_date`, `trial_judgement`, `appeals_judgement`, etc.), trial statistics (`trial_days`, `prosecution_witnesses`, `defence_witnesses`, etc.), and `related_cases[]`.
@@ -239,10 +239,10 @@ Each per-case JSON contains: `case_slug`, `case_id`, `case_name`, `defendant_nam
 | Convicted | 45 |
 | Acquitted | 15 |
 | Deceased (before trial) | 5 |
-| Guilty pleas | 17 accused (of 116, see `pleas.csv`) |
+| Guilty pleas | 17 accused (2 at initial appearance, 15 changed from not guilty later; see `pleas.csv`) |
 | Life sentences | 8 |
 | Mean sentence (determinate) | 16.7 years |
-| Multi-defendant cases | 12 |
+| Multi-defendant cases | 19 (50 single-accused) |
 
 Of the 16 unparsed case folders, seven are duplicate/legacy folders, eight are co-defendant cases covered by the joint CIS of their parent trial, and one (`sikirica`) has no CIS PDF in the archive (its accused, including three guilty pleas, are missing from the CIS data).
 
