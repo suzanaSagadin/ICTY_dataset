@@ -1,0 +1,2751 @@
+{
+  "case": "perisic",
+  "case_id": "IT-04-81-T",
+  "date": "2009-02-11",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good morning to everybody in and around the courtroom. Madam Registrar, would you please call the case."
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Good morning, Your Honours. Good morning, everyone in and around the courtroom. This is case number IT-04-81-T, The Prosecutor versus Momcilo Perisic."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. Could we please have appearances for today, starting with the Prosecution."
+    },
+    {
+      "id": 4,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good morning, Your Honours. Good morning, counsel. Appearing for the Prosecution today, Mark Harmon, Lorna Bolton, and Carmela Javier."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. And for the Defence."
+    },
+    {
+      "id": 6,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Good morning, Your Honours, and good morning to everyone, all the participants in the proceedings. Mr. Perisic is represented today by Tina Drolec; and Daniela Tasic, case manager; and Novak Lukic."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. Mr. Harmon."
+    },
+    {
+      "id": 8,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Ms. Bolton will lead the witness, Your Honour."
+    },
+    {
+      "id": 9,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good morning, Your Honours. The first witness for the Prosecution will be Afeza Karacic."
+    },
+    {
+      "id": 10,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good morning, ma'am."
+    },
+    {
+      "id": 11,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Good morning."
+    },
+    {
+      "id": 12,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Will you please make the declaration."
+    },
+    {
+      "id": 13,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 14,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. You may now sit down. Madam Bolton."
+    },
+    {
+      "id": 15,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 16,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good morning.",
+      "examination": "direct"
+    },
+    {
+      "id": 17,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good morning.",
+      "reply_to": 16
+    },
+    {
+      "id": 18,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Ms. Karacic, could you indicate for us your full name, please.",
+      "examination": "direct"
+    },
+    {
+      "id": 19,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "My name is Afeza Karacic.",
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what is your date of birth?",
+      "examination": "direct"
+    },
+    {
+      "id": 21,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "The 3rd of May, 1963.",
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And although your first name is of Afeza, do you have a nickname?",
+      "examination": "direct"
+    },
+    {
+      "id": 23,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "My name is Afeza, and my nickname is Hafiza.",
+      "reply_to": 22
+    },
+    {
+      "id": 24,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Now I understand during the siege of Sarajevo you were living in the city; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 25,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's correct.",
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what part of the city were you living in?",
+      "examination": "direct"
+    },
+    {
+      "id": 27,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, in the mid-section of the town. The part of the town is called Otoka.",
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I wonder, Madam Registrar, if you could bring up 65 ter 8600, please."
+    },
+    {
+      "id": 29,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "While we're waiting for that, ma'am, if you could just think back to the events of November 23rd, 1994. Do you recall that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 30,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 29
+    },
+    {
+      "id": 31,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did something of significance happen to you that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 32,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, something terrible happened to me.",
+      "reply_to": 31
+    },
+    {
+      "id": 33,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was that, ma'am?",
+      "examination": "direct"
+    },
+    {
+      "id": 34,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "On that day, I was wounded, and my life entirely changed from that day onward.",
+      "reply_to": 33
+    },
+    {
+      "id": 35,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "What were you doing when you were wounded?",
+      "examination": "direct"
+    },
+    {
+      "id": 36,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was riding on a tram.",
+      "reply_to": 35
+    },
+    {
+      "id": 37,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was it that wounded you?",
+      "examination": "direct"
+    },
+    {
+      "id": 38,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "A bullet.",
+      "reply_to": 37
+    },
+    {
+      "id": 39,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Before you, you should see on your monitor a photograph. Do you recognise the area in the photograph?",
+      "examination": "direct"
+    },
+    {
+      "id": 40,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 39
+    },
+    {
+      "id": 41,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "What area is that?",
+      "examination": "direct"
+    },
+    {
+      "id": 42,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is the area or the spot where I was at the moment when I was hit.",
+      "reply_to": 41
+    },
+    {
+      "id": 43,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Can you assist us.",
+      "examination": "direct"
+    },
+    {
+      "id": 44,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. Usher, could you assist the witness. She has some difficulty with mobility, so I'm hoping she can use the pen."
+    },
+    {
+      "id": 45,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you be able to make an X or a circle at the area where the tram was when you were hit with the bullet.",
+      "examination": "direct"
+    },
+    {
+      "id": 46,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I think Mr. --"
+    },
+    {
+      "id": 47,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. You have put a dot there and that's, for the record, in the area in front of the -- the yellow building which I understand is the Holiday Inn; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 48,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Approximately that's the spot. Maybe a bit further down. I'm not sure how to describe this.",
+      "reply_to": 47
+    },
+    {
+      "id": 49,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. In terms of we're talking about it being possibly further down, where -- which direction was the tram travelling in terms of the photo in front of you. Would it from right to left, or left to right?",
+      "examination": "direct"
+    },
+    {
+      "id": 50,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "From right to left.",
+      "reply_to": 49
+    },
+    {
+      "id": 51,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And so when you talk it possibly being further down, are you talking about it being possibly farther to the left from the dot you drew, or possibly farther to the right?",
+      "examination": "direct"
+    },
+    {
+      "id": 52,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Left of -- from the dot.",
+      "reply_to": 51
+    },
+    {
+      "id": 53,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Do you remember approximately what time of day it was when this incident occurred?",
+      "examination": "direct"
+    },
+    {
+      "id": 54,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do. It was in the afternoon, about 4.00 p.m., 4.30.",
+      "reply_to": 53
+    },
+    {
+      "id": 55,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what had you been doing before you got on the tram?",
+      "examination": "direct"
+    },
+    {
+      "id": 56,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I went with my sister downtown. We were looking for food, and it was already in the afternoon hours, so it was getting late; and we were to travel far, so we decided to get on the tram which had started service about an hour earlier. So I suggested that we get on the tram because we couldn't carry all the groceries that we had bought, so when we arrived at that spot I just felt a sting in my arm. The tram kept on going to the point from where they could evacuate us.",
+      "reply_to": 55
+    },
+    {
+      "id": 57,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let's just --",
+      "examination": "direct"
+    },
+    {
+      "id": 58,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "And --",
+      "reply_to": 57
+    },
+    {
+      "id": 59,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm sorry, I thought you were finished. Please continue.",
+      "examination": "direct"
+    },
+    {
+      "id": 60,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "At that point, I squatted and -- because I was standing when I was hit, and when I tried to get up, I realised that I had no control of my right arm. I told my sister to help me, because I no longer had an arm, and when they started to evacuating us from the tram, I had to step over a dead body, a man who had been killed and then we were taken to the hospital. That's how it was.",
+      "reply_to": 59
+    },
+    {
+      "id": 61,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can I just take you through some of that a little bit more slowly. First of all, when you were on the tram, you said you were standing. Which direction were you facing?",
+      "examination": "direct"
+    },
+    {
+      "id": 62,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was facing the back of the tram.",
+      "reply_to": 61
+    },
+    {
+      "id": 63,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And you mentioned something about being standing. Were you holding on to anything to keep your balance as the tram was moving?",
+      "examination": "direct"
+    },
+    {
+      "id": 64,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I was holding on to a pole on the tram.",
+      "reply_to": 63
+    },
+    {
+      "id": 65,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "So --",
+      "examination": "direct"
+    },
+    {
+      "id": 66,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's how I had my arm.",
+      "reply_to": 65
+    },
+    {
+      "id": 67,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "So for the record it should indicate that the witness raised her right arm up, to indicate that she was holding something. And can you just show us on your body where the bullet struck you?",
+      "examination": "direct"
+    },
+    {
+      "id": 68,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I can. Right here.",
+      "reply_to": 67
+    },
+    {
+      "id": 69,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you're showing, for the record, your right shoulder, towards the front of the shoulder. And can you show us where the bullet exited, if it exited?",
+      "examination": "direct"
+    },
+    {
+      "id": 70,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Right here.",
+      "reply_to": 69
+    },
+    {
+      "id": 71,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, for the record, the witness is showing an area just above her elbow on her right arm. Were there any military vehicles near the tram at the time that you were hit, as far as you could tell?",
+      "examination": "direct"
+    },
+    {
+      "id": 72,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I didn't see any vehicles.",
+      "reply_to": 71
+    },
+    {
+      "id": 73,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And after -- you indicated that after the bullet hit you, you got down. What was everybody else doing on the tram?",
+      "examination": "direct"
+    },
+    {
+      "id": 74,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, everybody tried to seek cover. People lay on the ground. They started screaming. There was panic. It was terrible. You couldn't really go anywhere from there. You were sort of boxed in there.",
+      "reply_to": 73
+    },
+    {
+      "id": 75,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 76,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Sorry, Mr. Usher, I abandoned you there. I don't think I'm going need your assistance again with the pen at the moment."
+    },
+    {
+      "id": 77,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I understand -- I'm going come back to your injuries in a moment ma'am. I understand that you occasion in the summer of 2006 to meet with an OTP investigator named Barry Hogan. Do you recall that?",
+      "examination": "direct"
+    },
+    {
+      "id": 78,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And I'm going to show you a video in a moment and ask you if you recognise that.",
+      "examination": "direct"
+    },
+    {
+      "id": 80,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And, Madam Registrar, that would be 65 ter 0 -- 04333."
+    },
+    {
+      "id": 81,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Before you go it that 65 ter, ma'am, what do you want to do with the one that is on the screen?"
+    },
+    {
+      "id": 82,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If it could be marked as an exhibit at this point, please."
+    },
+    {
+      "id": 83,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Would you like to do -- are we going to see just that dot."
+    },
+    {
+      "id": 84,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "The witness does have difficulty writing with her right hand, so I was going to suggest that maybe Mr. Usher could please a T or something next to it. I don't know that the witness can make that mark based on our meeting yesterday."
+    },
+    {
+      "id": 85,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Fine. Depends on what your opposite number says. Mr. Lukic, will we all remember what that dot is?"
+    },
+    {
+      "id": 86,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] That's right, I don't have a problem with it remaining as it is; and based on that, and what's in the transcript, we can identify the spot."
+    },
+    {
+      "id": 87,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. Do you want that tendered in."
+    },
+    {
+      "id": 88,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Please."
+    },
+    {
+      "id": 89,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is admitted into evidence. May it please be given an exhibit number."
+    },
+    {
+      "id": 90,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P546."
+    },
+    {
+      "id": 91,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. And then what was the 65 ter that you were now calling for? 4333."
+    },
+    {
+      "id": 92,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "B apparently. 433B."
+    },
+    {
+      "id": 93,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Is it two 3s or three 3s?"
+    },
+    {
+      "id": 94,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It's three 3s and a B."
+    },
+    {
+      "id": 95,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I should indicate for the record there was some kind of distortion there that is not in the original tape. I'm not sure why that is but perhaps we'll try to address that after court today."
+    },
+    {
+      "id": 96,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "And why are we not playing the original tape?"
+    },
+    {
+      "id": 97,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "This is the original tape, but for some reason there is feedback, at least it was for me, when it was playing that isn't there when we play it off the main system."
+    },
+    {
+      "id": 98,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Which is which, Madam Bolton. You said, \"I should indicate for the record there was some kind of distortion that is not in the original tape.\" Now you are saying this is the original tape. Which is which?"
+    },
+    {
+      "id": 99,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "As I understand it this is the same -- I'm not sure how the electronic system is set up here. This is the same recording that I access from my office. We have taken just a snip of it. For some reason when we are replaying it here there is an degree of feedback that I didn't hear yesterday, for example, when we played it. And I don't know why that is. I'm not very good with technology."
+    },
+    {
+      "id": 100,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "What is the feedback that we hear today that we didn't hear yesterday?"
+    },
+    {
+      "id": 101,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It was almost like a computer noise. There is certainly wind noise. I mean, the sound quality of the speaking isn't great, but there is an added layer of -- just sounded like computer noise the computer would make for example when a modem is dialing."
+    },
+    {
+      "id": 102,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "I didn't hear a word of what the people were saying because of background noise. I had to actually take off my earphones because it was more irritating than telling me anything."
+    },
+    {
+      "id": 103,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I will perhaps go through with the witness what she is demonstrating on the video. And I thank you for clarifying that for me, Your Honour."
+    },
+    {
+      "id": 104,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, you may proceed."
+    },
+    {
+      "id": 105,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Ms. Karacic, the sound quality on the video was very poor. So I have a few questions about what you were demonstrating. First, was that you on the video with Mr. Hogan?",
+      "examination": "direct"
+    },
+    {
+      "id": 106,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 105
+    },
+    {
+      "id": 107,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And am I correct that the first question he asked you, the first thing he asked you was to demonstrate was where the tram had been located at the time of the shooting; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 108,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, you're right.",
+      "reply_to": 107
+    },
+    {
+      "id": 109,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you were subsequently asked to show or to demonstrate how you had been standing at the time that it had occurred?",
+      "examination": "direct"
+    },
+    {
+      "id": 110,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "That, too, is correct, and I showed it.",
+      "reply_to": 109
+    },
+    {
+      "id": 111,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, lastly, you pointed up a street roughly opposite the hotel. What were you demonstrating there?",
+      "examination": "direct"
+    },
+    {
+      "id": 112,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was showing the direction from which the bullet might have come.",
+      "reply_to": 111
+    },
+    {
+      "id": 113,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 114,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "If that's what you meant. But at one point I also showed the direction of the tram, where it was coming from and which way it was headed.",
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. The last part of the video where you point up the street, what were you demonstrating there?",
+      "examination": "direct"
+    },
+    {
+      "id": 116,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "That last part, that was where the bullet had come from.",
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 118,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If that could be marked as an exhibit, Your Honour."
+    },
+    {
+      "id": 119,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is admitted into evidence. May it please be given an exhibit number as a videotape."
+    },
+    {
+      "id": 120,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P547."
+    },
+    {
+      "id": 121,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 122,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "I just want to come back briefly to your injuries, ma'am. After the -- you said the tram continued on a bit and at some juncture you were then able to exit the tram; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 123,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, the tram kept on driving, because he couldn't stay there lest other people be wounded too, and it went onwards until we -- until the spot where it was actually protected by the museum building and that's where it stopped in order to avoid further shooting or further being shot at.",
+      "reply_to": 122
+    },
+    {
+      "id": 124,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And after the tram had stopped in a safe location, did you attend for treatment of your injury that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 125,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I was taken to the hospital in some car, and since the cease-fire was in effect, and I don't know which one this was, which cease-fire, but there was -- it wasn't too busy at the hospital so that they could attend to me immediately. I just recall that when I woke up, when I came to, I thought that my arm had been in a bin, thrown away, because I couldn't feel it. But when I looked, I could see that it was still there.",
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And if I could have 65 ter 03067 brought up, please."
+    },
+    {
+      "id": 127,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recognise the B/C/S version of that document, ma'am?",
+      "examination": "direct"
+    },
+    {
+      "id": 128,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. It says Hafiza because I mentioned my nickname. Everything else is correct. This is me.",
+      "reply_to": 127
+    },
+    {
+      "id": 129,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And that is a medical record what from institution?",
+      "examination": "direct"
+    },
+    {
+      "id": 130,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Trauma clinic on Kosevo.",
+      "reply_to": 129
+    },
+    {
+      "id": 131,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. You indicated that you came to in the hospital. Were you able to tell at that point what kind of treatment they had administered to you for your injury?",
+      "examination": "direct"
+    },
+    {
+      "id": 132,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "After surgery, I had an IV and I spent three to four days in intensive care. I don't know everything that they did, administered, but I know that I was in a very bad shape. I was on an IV drip. I had pills. I don't know exactly what all they gave me, but I was in a lot of pain. There were four wires fixed on to my arm, and this was very painful; so I was under medication all the time, and I don't know what the names of those medicines were.",
+      "reply_to": 131
+    },
+    {
+      "id": 133,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 134,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If that could be marked as the next exhibit, please, Your Honour."
+    },
+    {
+      "id": 135,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is so marked. May it please be given an exhibit number."
+    },
+    {
+      "id": 136,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P548."
+    },
+    {
+      "id": 137,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 138,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you have to undergo surgery at any subsequent point of time as a result of the injuries you sustained on November 23rd, 1994?",
+      "examination": "direct"
+    },
+    {
+      "id": 139,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Three months later, I had to undergo surgery again. At that point, they took a piece of the bone from my hip, in order to maybe up the missing bone in my arm; but then it didn't work, so they had to make my arm shorter. It was three centimetres shorter at that point. But a year later when they were trying to assess my disability, they said that my arm was six centimetres shorter. The nerve radialis was cut off, and I couldn't move my arm at all. Now I do have some mobility.",
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. That subsequent surgery, where was it performed?",
+      "examination": "direct"
+    },
+    {
+      "id": 141,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "At the same clinic.",
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 143,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Could we bring up 65 ter 03070, please."
+    },
+    {
+      "id": 144,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Ma'am, this is an medical record in front of you from a woman named Hafiza Karacic and an indication of a date of birth, a father's name of Fehim and an address of Vrbovska 82, Sarajevo. Does that information correspond with you?",
+      "examination": "direct"
+    },
+    {
+      "id": 145,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, the information is correct. That refers to me.",
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 147,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If that could be marked as an exhibit as well, please, Your Honour."
+    },
+    {
+      "id": 148,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is marked as an exhibit. May it please be given an exhibit number."
+    },
+    {
+      "id": 149,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P549."
+    },
+    {
+      "id": 150,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 151,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "I just have a few additional questions of November 23rd, 1994, ma'am. Do you recall what the weather was like that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 152,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do. It was a clear day.",
+      "reply_to": 151
+    },
+    {
+      "id": 153,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And at that time of year, were there any leaves on the trees?",
+      "examination": "direct"
+    },
+    {
+      "id": 154,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, they were none.",
+      "reply_to": 153
+    },
+    {
+      "id": 155,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I believe those are all my questions for the witness, Your Honour."
+    },
+    {
+      "id": 156,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Microphone not activated]"
+    },
+    {
+      "id": 157,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, thank you."
+    },
+    {
+      "id": 158,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much, Madam Bolton. Yes, Mr. Lukic."
+    },
+    {
+      "id": 159,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, if I may, I'd like to consult my case manager as well as the OTP case manager. We had some problems this morning. It seems that all of my e-mails had been blocked, and courtesy of the OTP, I received some documents that I intended to use. In any case, I would like to double-check whether things are fine now and to consult with them once more before I continue. Well, it seems that I can go on. Again, I wish to thank the Prosecution for the technical assistance and the problem that befell us."
+    },
+    {
+      "id": 160,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Ms. Karacic, good morning. My name is Novak Lukic, and I appear on behalf of Mr. Perisic. I have a few questions for you.",
+      "examination": "cross"
+    },
+    {
+      "id": 161,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good morning.",
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "You now have e-mail unblocked. Are you okay now technically?"
+    },
+    {
+      "id": 163,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes. We dealt with it mechanically."
+    },
+    {
+      "id": 164,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The incident, Ms. Karacic, took place over 14 years ago; is that correct? As regards the incident, you provided several statements to various bodies. You also testify in the Dragomir Milosevic case before this very Tribunal.",
+      "examination": "cross"
+    },
+    {
+      "id": 165,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You will agree that your memory of the events was better during the previous years than it is today.",
+      "examination": "cross"
+    },
+    {
+      "id": 167,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Whatever took place that day is something that I will remember for the rest of my life. I will never forget it.",
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would kindly ask you to pause before you start answering for the sake of the interpreters, so that there is no overlap of what we say. Add regards the event, you had an interview with a police inspector in Sarajevo, Mr. Kemal Buco some three weeks after the incident while you were still in the hospital. Do you remember that?",
+      "examination": "cross"
+    },
+    {
+      "id": 169,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I do. I do remember the interview, but not the man mention.",
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we please have document 65 ter 1389 brought up on the screen, please."
+    },
+    {
+      "id": 171,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "These are the notes of an interview compiled by the Ministry of Interior in Sarajevo, dated the 15th of December, 1994. I don't know whether you can follow it on the screen. Can you read it?",
+      "examination": "cross"
+    },
+    {
+      "id": 172,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I can.",
+      "reply_to": 171
+    },
+    {
+      "id": 173,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The document is entitled Official Note. Below that it says taken down in -- on the premises of the Kosevo Hospital, in the course of an interview conducted with Hafiza Karacic and then we have your particulars and in the next paragraph it says: \"On the 23rd of November, 1994, around 3.30 p.m.\" --",
+      "examination": "cross"
+    },
+    {
+      "id": 174,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "If I may just interrupt you, Mr. Lukic. It doesn't like we've got the same page in the English or perhaps I'm just seeing something ..."
+    },
+    {
+      "id": 175,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes. Obviously this is not even the document. Now we have the right document in English as well."
+    },
+    {
+      "id": 176,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm reading from the middle of the first paragraph. The inspector notes the following: \"Given that the tram was hit at the very location where the two of them were, and that the bullet went through an open window, no window glass was heard breaking. The aforementioned passengers were hit by a single bullet which fragmented, hitting Hafiza Karacic in the top part of her shoulder with the bullet exiting in her right upper arm. Sabina Sabanic was also hit in the top part of her shoulder. The exit wound was in a lower part of her arm since the bullet had gone diagonally. After the tram was hit on its way from the Tehnicka Skola to the KMT in the -- in Zmaja Od Bosne Street, the driver continued driving.\" This is what the notes say; is that correct? Do you recall talking to the inspector about which part of the body you were hit in and where the incident took place?",
+      "examination": "cross"
+    },
+    {
+      "id": 177,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "The inspector probably went to the site where the tram had been hit. As for the rest of what he wrote down, I don't know. I don't know whether the window was open or not.",
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I agree. Do you remember indicating to the inspector the part of your body where you were hit, when he visited you in the hospital?",
+      "examination": "cross"
+    },
+    {
+      "id": 179,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I probably did. I probably showed him the -- my shoulder and my arm. He could see that for himself. I was in the hospital.",
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall having said to the inspector that he were hit in the vicinity of the Marshal Tito barracks?",
+      "examination": "cross"
+    },
+    {
+      "id": 181,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, it's in that area, if you are familiar with Sarajevo, it's in the parameter of 100 metres.",
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Let us move on. Regarding your statement given to the representatives of the OTP --",
+      "examination": "cross"
+    },
+    {
+      "id": 183,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we please have 1D00--- just before that, Your Honours, I would like to tender this document into evidence."
+    },
+    {
+      "id": 184,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "The document is admitted into evidence. May it please be given an exhibit number."
+    },
+    {
+      "id": 185,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours that will be Exhibit D46."
+    },
+    {
+      "id": 186,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 187,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Next I would kindly ask for 1D00-5846."
+    },
+    {
+      "id": 188,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "What's the number, Mr. Lukic?"
+    },
+    {
+      "id": 189,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] It was marked as 1D00-5846 by the Defence. It is the witness's statement."
+    },
+    {
+      "id": 190,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Ms. Karacic --",
+      "examination": "cross"
+    },
+    {
+      "id": 191,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we please see the bottom of the English page. I suppose you recognise your signature on this statement?"
+    },
+    {
+      "id": 192,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I do.",
+      "reply_to": 190
+    },
+    {
+      "id": 193,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You provided this statement to the representatives of the OTP about a year following the incident, on the 15th of November, 1995. I suppose you remember having talked to them?",
+      "examination": "cross"
+    },
+    {
+      "id": 194,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 193
+    },
+    {
+      "id": 195,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we please go to page 2. No, it seems that this is the statement from 2006. In any case, could we please go back to page one so as to avoid any confusion. This is the second statement, and I believe I misspoke for the transcript. That's right."
+    },
+    {
+      "id": 196,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let us now go to page 2 and then after that, we'll go to your first statement. This is the second interview you had with the representatives of the OTP in 2006. In paragraph 2, it says towards the middle -- well, you actually correct something from your first statement. You say that in the first statement the location where the tram was hit was near the Tito barracks but it should be described as Marindvor area. Do you remember having made this correction to the first statement.",
+      "examination": "cross"
+    },
+    {
+      "id": 197,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. But I only said what I just told you. It's in the same area.",
+      "reply_to": 196
+    },
+    {
+      "id": 198,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I do not seek to tender this statement. Next could we please have document 1D00-5847 shown to the witness."
+    },
+    {
+      "id": 199,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You can see your signature again on the English copy; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 200,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 199
+    },
+    {
+      "id": 201,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I reversed the chronology. In any case, this is your first statement of the 5th of November, 1995. This was the first interview you had with the representatives The Hague Tribunal, the Prosecutor's office?",
+      "examination": "cross"
+    },
+    {
+      "id": 202,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is right.",
+      "reply_to": 201
+    },
+    {
+      "id": 203,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Page 2, please."
+    },
+    {
+      "id": 204,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm reading from the second paragraph. In the statement it says, in the statement you signed, that is: \"On the map, I have put an arrow to show the direction that the tram was taking, and the red cross at the spot where I assumed the event happened in front of the Marshal Tito barracks.\" As we saw in the other statement you were a bit more precise there, having said that it was in your view in the area of Marindvor?",
+      "examination": "cross"
+    },
+    {
+      "id": 205,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, next to the museum at Marindvor.",
+      "reply_to": 204
+    },
+    {
+      "id": 206,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Since it says here, \"On the map, I have put an arrow ...\" do you remember in the course of the first interview having marked anything on a map or having drawn a sketch of the incident?",
+      "examination": "cross"
+    },
+    {
+      "id": 207,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "There was a map, although I'm not very familiar with maps. In any case, I tried to mark the spot as best I could, but I may have gone slightly wrong because I'm not well versed in topography.",
+      "reply_to": 206
+    },
+    {
+      "id": 208,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Therefore, you believe you used a map rather than a photograph?",
+      "examination": "cross"
+    },
+    {
+      "id": 209,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that is correct.",
+      "reply_to": 208
+    },
+    {
+      "id": 210,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Next could we go back to Exhibit P546. As for the other statement, I do not seek to tender it either."
+    },
+    {
+      "id": 211,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "We saw the footage with the OTP investigator, Mr. Hogan. You were there with him at the location where the incident took place and you described your idea of it.",
+      "examination": "cross"
+    },
+    {
+      "id": 212,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 211
+    },
+    {
+      "id": 213,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "That was before you testified in the Dragomir Milosevic case, if you recall.",
+      "examination": "cross"
+    },
+    {
+      "id": 214,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 213
+    },
+    {
+      "id": 215,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall that before you testified in the Dragomir Milosevic case you had an interview with an OTP representatives here in The Hague while being proofed, much like the one you gave yesterday preparing for this testimony?",
+      "examination": "cross"
+    },
+    {
+      "id": 216,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I do remember that.",
+      "reply_to": 215
+    },
+    {
+      "id": 217,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "On that occasion you were shown two statements I have just shown you, and you were able to go through them. In the course of that testimony, you said that you stood by the statements in full?",
+      "examination": "cross"
+    },
+    {
+      "id": 218,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 217
+    },
+    {
+      "id": 219,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "It is page 1181, line 24 of the transcript, open session in the Milosevic case, dated 29th of January, 2007. Basically, at that time, in the Milosevic case, you confirmed that the tram was hit at Marindvor. You said so under oath.",
+      "examination": "cross"
+    },
+    {
+      "id": 220,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, Marindvor, the museum, the Marshal Tito barracks, it's all in the same area, as I said.",
+      "reply_to": 219
+    },
+    {
+      "id": 221,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "That's why I wanted to use this photograph. We will indicate all those locations. For the time being, I have the following question for you. Do you remember having said under oath that the tram was hit in front of Marindvor?",
+      "examination": "cross"
+    },
+    {
+      "id": 222,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did confirm that, but I didn't think it would be that much of an issue. It's all within 100 metres.",
+      "reply_to": 221
+    },
+    {
+      "id": 223,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I asked you now -- or, rather, if I told you that you had never mentioned the Holiday Inn, would you confirm that?",
+      "examination": "cross"
+    },
+    {
+      "id": 224,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I would not confirm that. I've always said that it was the -- that location and the barracks. It's all within 100 metres.",
+      "reply_to": 223
+    },
+    {
+      "id": 225,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you please just answer my question. And it's going to be easy to actually determine the location. I suppose the photograph is clear enough. So I'm asking you this: Do you remember that at any point in any statement you ever mentioned, including your testimony in the Milosevic case, that you had been hit in front of Holiday Inn?",
+      "examination": "cross"
+    },
+    {
+      "id": 226,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, the Holiday Inn and the museum. It's all one and the same area.",
+      "reply_to": 225
+    },
+    {
+      "id": 227,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I do realise that you have difficulty with drawing because of your arm, but could you perhaps indicate on this photograph and tell us whether you can see Marindvor?",
+      "examination": "cross"
+    },
+    {
+      "id": 228,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 227
+    },
+    {
+      "id": 229,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "First of all, can we all agree that the yellow building there is the Holiday Inn Hotel; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 230,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 229
+    },
+    {
+      "id": 231,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would it be too difficult for you to indicate Marindvor, also with a dot? Perhaps using a different colour pen? Could you just pause for a moment. Yes, now you can go on. Because I don't want to put the witness through all of this trouble. Could you just put a dot in red ink to indicate Marindvor?",
+      "examination": "cross"
+    },
+    {
+      "id": 232,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 231
+    },
+    {
+      "id": 233,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you now indicate, or do you know, actually, where the technical school is?",
+      "examination": "cross"
+    },
+    {
+      "id": 234,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 233
+    },
+    {
+      "id": 235,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you see it in this photo? Could you please mark it with an X.",
+      "examination": "cross"
+    },
+    {
+      "id": 236,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is the spot.",
+      "reply_to": 235
+    },
+    {
+      "id": 237,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And one final request, if it's not too much trouble.",
+      "examination": "cross"
+    },
+    {
+      "id": 238,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, perhaps just for the record to say that the red line, the short line, next to the tall building, was marked by the witness as Marindvor, whereas the red dot to the left of the yellow building is -- was marked as the technical school."
+    },
+    {
+      "id": 239,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And let me ask you this: Could you please put an X next to the Marshal Tito barracks.",
+      "examination": "cross"
+    },
+    {
+      "id": 240,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "It begins here and then it stretches, there. Because you can't see it anymore in this photo.",
+      "reply_to": 239
+    },
+    {
+      "id": 241,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] For the transcript, let me just say that the red slanted line that is to the left of the red dot was marked by the witness as the site where the Marshal Tito barracks was. Could we please -- I'd like to tender this document into evidence and, Your Honour, I think it will be clear enough."
+    },
+    {
+      "id": 242,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "The document is admitted into evidence. May it please be given an exhibit number."
+    },
+    {
+      "id": 243,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honour, that will be Exhibit D46."
+    },
+    {
+      "id": 244,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Not 47?"
+    },
+    {
+      "id": 245,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "You're correct, Your Honour. D47. I apologise."
+    },
+    {
+      "id": 246,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 247,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Ms. Karacic, yesterday you were proofed for your evidence today; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 248,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 247
+    },
+    {
+      "id": 249,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Your husband was also present on that occasion; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 250,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 249
+    },
+    {
+      "id": 251,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did he help you with finding your bearings on the map, when you were indicating where the locations were?",
+      "examination": "cross"
+    },
+    {
+      "id": 252,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "He just suggested because I'm not very good with maps. He just suggested where certain areas were, nothing else.",
+      "reply_to": 251
+    },
+    {
+      "id": 253,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you shown this photograph yesterday?",
+      "examination": "cross"
+    },
+    {
+      "id": 254,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 253
+    },
+    {
+      "id": 255,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was your husband present when you discussed with the Prosecutor this photo?",
+      "examination": "cross"
+    },
+    {
+      "id": 256,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "He was there.",
+      "reply_to": 255
+    },
+    {
+      "id": 257,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did he make any comments in regard to any of the buildings shown on this photo?",
+      "examination": "cross"
+    },
+    {
+      "id": 258,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 257
+    },
+    {
+      "id": 259,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You did not hear the sound of the bullet when you were struck.",
+      "examination": "cross"
+    },
+    {
+      "id": 260,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I just felt it strike me, and that's all.",
+      "reply_to": 259
+    },
+    {
+      "id": 261,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you assumed that the bullet had come from the direction of Grbavica or the Jewish cemetery?",
+      "examination": "cross"
+    },
+    {
+      "id": 262,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, in view of how -- what my position was and how I was standing in the tram, that's the only place it could have come from.",
+      "reply_to": 261
+    },
+    {
+      "id": 263,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were -- your back was turned to the front of the tram, the direction where the tram was actually moving to; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 264,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 263
+    },
+    {
+      "id": 265,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did the Prosecutor mention during the proofing session what it -- what its position was or what it considered or thought about this incident?",
+      "examination": "cross"
+    },
+    {
+      "id": 266,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm sorry, I don't understand your question.",
+      "reply_to": 265
+    },
+    {
+      "id": 267,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did the Prosecutor read you to the indictment?",
+      "examination": "cross"
+    },
+    {
+      "id": 268,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 267
+    },
+    {
+      "id": 269,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you remember that the Prosecutor told you when reading the indictment that this incident was between the technical school and the Marshal Tito barracks?",
+      "examination": "cross"
+    },
+    {
+      "id": 270,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, in my view, it's all one and the same area. There's not a very big distance between these buildings. So they're not really distinct areas, the museum, the barracks, the -- they're all there.",
+      "reply_to": 269
+    },
+    {
+      "id": 271,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In any case, you cannot recall the way you said it, whether you were hit in front of the Holiday Inn or further down towards the barracks?",
+      "examination": "cross"
+    },
+    {
+      "id": 272,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, it was there. The corner where the Holiday Inn was and a bit further where the barracks was. I can't be precise to a millimetre or to a metre.",
+      "reply_to": 271
+    },
+    {
+      "id": 273,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So it is possible that you were not struck at the point, the site, where you told the Prosecutor that it happened. You couldn't be precise to the finest -- to the last metre?",
+      "examination": "cross"
+    },
+    {
+      "id": 274,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I couldn't, but it was there.",
+      "reply_to": 273
+    },
+    {
+      "id": 275,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also said that it was a clear day. Do you remember whether it was a cool day? It was in late November.",
+      "examination": "cross"
+    },
+    {
+      "id": 276,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it was a cool day, but it was clear and bright.",
+      "reply_to": 275
+    },
+    {
+      "id": 277,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall whether the window on the tram was open? Maybe it's asking too much. But maybe you can remember that.",
+      "examination": "cross"
+    },
+    {
+      "id": 278,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I have already said that I can't remember that. I didn't hear the breaking of the glass. I only felt this hit.",
+      "reply_to": 277
+    },
+    {
+      "id": 279,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, I seek to tender these statements into evidence because -- because of what the witness said when I asked about whether she had ever mentioned the Holiday Inn before. These are short statements, and they refer to what she had described because I only asked the witness about the portions to with the location; but I just wanted to have them tendered into evidence because of the fact that she said she -- she hadn't said that she had mentioned before the Holiday Inn. So I seek to tender into evidence 1D00-5846 and 1D00-5847."
+    },
+    {
+      "id": 280,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Now, you -- 1D00-5846, the document is admitted into evidence. May it please be given an exhibit number."
+    },
+    {
+      "id": 281,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours that will be Exhibit D48."
+    },
+    {
+      "id": 282,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. And 1D00-5847, the document is also admitted into evidence. May it please be given an exhibit number."
+    },
+    {
+      "id": 283,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "That will be Exhibit D49, Your Honours."
+    },
+    {
+      "id": 284,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 285,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 286,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Ms. Karacic, I only have one last question, if you can remember, when you were on site with Mr. Hogan, the OTP investigator, when we saw -- what we saw on the video footage earlier, do you remember whether there were any other witnesses present there that were involved in some other incident?",
+      "examination": "cross"
+    },
+    {
+      "id": 287,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I was the only one.",
+      "reply_to": 286
+    },
+    {
+      "id": 288,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Thank you, Ms. Karacic.",
+      "examination": "cross"
+    },
+    {
+      "id": 289,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I have no further questions, Your Honour."
+    },
+    {
+      "id": 290,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] May I just add something to do with the Holiday Inn building?"
+    },
+    {
+      "id": 291,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 292,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I think Ms. Bolton will probably try to clarify this in her re-direct, so you will be given an opportunity to clear up whatever you wish?",
+      "examination": "cross"
+    },
+    {
+      "id": 293,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Madam Bolton."
+    },
+    {
+      "id": 294,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 295,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "I have a few questions for you, ma'am.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 296,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "First, could I ask, Madam Registrar, I'd like to see the last page in the electronic version of the statement from November 19th, 1995. And I'm not sure if that was D48 or D49."
+    },
+    {
+      "id": 297,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. We have in the English -- in -- I guess a map tendered as part of the exhibit then. And on the map, is this the map that you were referring to in your statement about marking this -- marking a red cross at the stop where the incident occurred?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 298,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Madam Bolton, we haven't seen this map today in this format. I don't know that this witness has indicated that she hasn't got -- she's got problems with maps. We can't show her something she hasn't seen. You called a statement. Do you want to look at the statement, D49?"
+    },
+    {
+      "id": 299,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "The difficulty is my friend put a part of her statement to her from November 1995 where he was talking about her having marked a red cross at the spot where the event happened, and in light of that line of questioning, I think I need to clarify what was marked on the map, and this, I understand, is the map that they were discussing in cross-examination."
+    },
+    {
+      "id": 300,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "During cross-examination I didn't see a black-and-white map. I saw -- I saw a picture of Sarajevo that you had marked the point where the witness said in evidence-in-chief the tram was shot, using that map, that photograph. She indicated points to the right and left of that photograph. Now, this -- that was a colour photograph. This is a black-and-white photograph, which has not been used today in this --"
+    },
+    {
+      "id": 301,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "This, I understand, has been tendered as part of the Defence exhibit because it is attached to the statement of November 1995."
+    },
+    {
+      "id": 302,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "You go ahead, ma'am."
+    },
+    {
+      "id": 303,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 304,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just with respect to this map that's in front of you, ma'am, can you locate the mark that you placed on this map back in 1995?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 305,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can't. I really cannot find my bearings here. I don't understand this.",
+      "reply_to": 304
+    },
+    {
+      "id": 306,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. When you were dealing with this map back in 1995, was it any easier for you to understand it then than it is now?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 307,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, it was the same.",
+      "reply_to": 306
+    },
+    {
+      "id": 308,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. When you were being cross-examined, at one point, my friend was asking you whether your husband had assisted you in helping you find your bearings during the proofing session. I just want to ask, did that -- or he asked you if you [sic] helped you find your bearings. Did he assist you during the session or sometime after the session, in finding your bearings on the maps in Sarajevo?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 309,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "He didn't assist me. He just commented afterwards how it was that I couldn't find my way on the map, and that's all he said. Nothing else.",
+      "reply_to": 308
+    },
+    {
+      "id": 310,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And in terms of his participation during the session, was he participating and assisting you answering questions during the session?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 311,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. He didn't participate, nor did he assist in any way.",
+      "reply_to": 310
+    },
+    {
+      "id": 312,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "My friend also suggested to you in cross-examination that there was discussion during proofing of the indictment. Are you talking about the proofing session you had yesterday or another proofing session?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 313,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't understand what you're asking.",
+      "reply_to": 312
+    },
+    {
+      "id": 314,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "My friend suggested during cross-examination that the indictment had been read to you. Do you know what he means when he says \"the indictment\"?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 315,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't understand your question.",
+      "reply_to": 314
+    },
+    {
+      "id": 316,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Do you know what an indictment is?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 317,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 316
+    },
+    {
+      "id": 318,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Did anyone read to you from the indictment against General Perisic yesterday?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 319,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 318
+    },
+    {
+      "id": 320,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "So I'm just trying to understand what you meant, then, when my friend suggested there had been reading from the indictment in the proofing session yesterday. What were you talking about?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 321,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I wasn't read an indictment. I only had opportunity to read my own statements one more time, and I was proofed. That's it, nothing else.",
+      "reply_to": 320
+    },
+    {
+      "id": 322,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. My friend was asking you about the Holiday Inn. Was today the first time that you have mentioned the Holiday Inn to anyone associated with this investigation or prosecution?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 323,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Today is the first time that so much stress is put on the Holiday Inn. I haven't mentioned it before because it was behind me; and to me, the museum was the more important building because the tram tracks are closer to that side of the road, so -- and the Holiday Inn was behind my back, so that's why I haven't mentioned it so far, nor was it mentioned in the statements because I did not consider this relevant. The museum or outside the museum was the spot where this happened.",
+      "reply_to": 322
+    },
+    {
+      "id": 324,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 325,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If we could bring up Defence exhibit -- sorry, it's the map that he had the witness mark, and I think it was 47, D47. Sorry, not the map; it was the photograph."
+    },
+    {
+      "id": 326,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "You just mentioned the museum, and I don't think that was one of the buildings that my friend had asked you to mark, and I think for clarity, it would assist if you can show us where the museum is in that photograph.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 327,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And, Mr. Usher, the witness may need your assistance."
+    },
+    {
+      "id": 328,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] This refers to this building here, but I did not place the dot in the right place."
+    },
+    {
+      "id": 329,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Do you need to erase it then if it's not in the right place. Mr. Usher could assist you, if you wish to do that.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 330,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Could you please erase it. It should be closer.",
+      "reply_to": 329
+    },
+    {
+      "id": 331,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And to distinguish between that dot, that blue dot and the other blue dot that you had already marked, are you able to make that one larger?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 332,
+      "speaker": "AFEZA KARACIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 331
+    },
+    {
+      "id": 333,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Thank you.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 334,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If that could then be tendered."
+    },
+    {
+      "id": 335,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "That is admitted into evidence. May it please be given an exhibit number."
+    },
+    {
+      "id": 336,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P550."
+    },
+    {
+      "id": 337,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 338,
+      "speaker": "MS. BOLTON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Those are all my questions in re-examination. Thank you."
+    },
+    {
+      "id": 339,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 340,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Madam, that brings us to the end of your testimony. Thank you very much for coming to testify. You are now excused. You may stand down, and please travel well back home."
+    },
+    {
+      "id": 341,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 342,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 343,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think that would be a convenient time."
+    },
+    {
+      "id": 344,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, we have no additional witnesses for today."
+    },
+    {
+      "id": 345,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Oh."
+    },
+    {
+      "id": 346,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "So that concludes our evidence for today, Your Honour."
+    },
+    {
+      "id": 347,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 348,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 349,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "In that event ..."
+    },
+    {
+      "id": 350,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "I'm caught napping. In this event, then we must be -- we must postpone to next week, Monday, in the afternoon. I cannot say the courtroom. I think it's Courtroom II. Court adjourned."
+    },
+    {
+      "id": 351,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "to be reconvened on Monday, the 16th day of February, 2009. 21 22 23 24"
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 9.01 a.m."
+    },
+    {
+      "after_utterance": 9,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 13,
+      "text": "WITNESS: AFEZA KARACIC"
+    },
+    {
+      "after_utterance": 13,
+      "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 15,
+      "text": "Examination by Ms. Bolton:"
+    },
+    {
+      "after_utterance": 94,
+      "text": "[Videotape played]"
+    },
+    {
+      "after_utterance": 159,
+      "text": "Cross-examination by Mr. Lukic:"
+    },
+    {
+      "after_utterance": 174,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 294,
+      "text": "Re-examination by Ms. Bolton:"
+    },
+    {
+      "after_utterance": 339,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 342,
+      "text": "[The witness withdrew]"
+    },
+    {
+      "after_utterance": 349,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 350,
+      "text": "--- Whereupon the hearing adjourned at 10.14 a.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_11_February_2009.doc"
+}

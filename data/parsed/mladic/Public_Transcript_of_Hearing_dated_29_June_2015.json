@@ -1,0 +1,4427 @@
+{
+  "case": "mladic",
+  "case_id": "IT-09-92-T",
+  "date": "2015-06-29",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good morning to everyone in and around this courtroom. Mr. Registrar, would you please call the case."
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Good morning, Your Honours. This is case IT-09-92-T, the Prosecutor versus Ratko Mladic."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. Registrar. Mr. Lukic, the Chamber was informed that there was a preliminary matter you'd like to raise."
+    },
+    {
+      "id": 4,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Your Honour. Good morning, Your Honours. We would like to make an application at this moment for our colleague Sasa Lukic to be approved to lead our witness Simo Tusevljak probably in the week of the 6th of July."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Any response by the Prosecution?"
+    },
+    {
+      "id": 6,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No problem, Mr. President. Like last time, I don't see a problem."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Like last time, no objections. The Chamber will consider it and will let you know, Mr. Lukic."
+    },
+    {
+      "id": 8,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 9,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Then could the witness -- the next witness to be called would be Mr. Parsons. Could the witness be escorted in the courtroom. Meanwhile, I will use the time first for the status of documents that were provisionally admitted under seal. Last week a number of documents were admitted under seal and the Prosecution was asked to reconsider whether all of them needed to remain confidential. On the 26th of June, the Prosecution informed the Defence and the Chamber in an e-mail that Exhibits P7422, P7424, P7426, P7428, and P7429 can be made public, and the Registrar is instructed to lift the confidentiality of these exhibits. Exhibit P7427 should remain confidential for witness protection reasons. Then if there's sufficient time, Mr. Lukic, last week the Chamber inquired with the Defence when it intends to file its Rule 92 bis motions, and we gave you one week to look into the matter and we are looking forward to your answer."
+    },
+    {
+      "id": 10,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "One second. Good morning, Mr. Parsons. Apologies for not immediately addressing you. We were suddenly facing a tiny little problem. Mr. Parsons, you've testified before in this case."
+    },
+    {
+      "id": 11,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "That's correct."
+    },
+    {
+      "id": 12,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And you gave a solemn declaration that you would speak the truth, the whole truth, and nothing but the truth. Being recalled now as a witnesses, there's no need to again give that solemn declaration, but I'd like to remind you that you're still bound by that solemn declaration, that is, that you'll speak the truth, the whole truth, and nothing but the truth. You may be seated. Mr. Parsons, you'll first be examined by Mr. McCloskey. You'll find him to your right. Mr. McCloskey, I'm not going to explain to Mr. Parsons that you're counsel for the Prosecution, but you are. Please proceed."
+    },
+    {
+      "id": 13,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Mr. President. Good morning, everyone."
+    },
+    {
+      "id": 14,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good morning, Dr. Parsons. And can you tell us your name for the record, please.",
+      "examination": "direct"
+    },
+    {
+      "id": 15,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Thomas John Parsons.",
+      "reply_to": 14
+    },
+    {
+      "id": 16,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what is your current position?",
+      "examination": "direct"
+    },
+    {
+      "id": 17,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm the director of forensic science at the International Commission on Missing Persons.",
+      "reply_to": 16
+    },
+    {
+      "id": 18,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And as the President had mentioned, you testified in this very case back in July of 2013 regarding mostly the DNA results in relation to the Srebrenica primary and secondary mass graves; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 19,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And your position as director today, is that the same position you had back when you testified in 2013?",
+      "examination": "direct"
+    },
+    {
+      "id": 21,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Kindly pause between questions and answers. Thank you."
+    },
+    {
+      "id": 23,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you also testified as an expert on that same basic topic in the Popovic trial, the Tolimir trial, and the Karadzic trial; correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 24,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 23
+    },
+    {
+      "id": 25,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in your testimony in this trial, you said very succinctly what the three primary activities of the ICMP were. Can you just remind us very briefly what those primary activities are.",
+      "examination": "direct"
+    },
+    {
+      "id": 26,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, the ICMP as an organisation has a mission to assist governments to resolve issues associated with missing persons. So we have activities involving assistance with governmental policy, governmental structures, legal policy as one undertaking. A second is engagement with families and families' organisations in society. And then the third is forensic assistance in the recovery and identification of victims.",
+      "reply_to": 25
+    },
+    {
+      "id": 27,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Thank you. And did the ICMP conduct DNA tests on the remains of two mass graves known as Tomasica and Jakarina Kosa?",
+      "examination": "direct"
+    },
+    {
+      "id": 28,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The ICMP has been engaged in those forensic activities, yes.",
+      "reply_to": 27
+    },
+    {
+      "id": 29,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And in 2014 were you asked by the Prosecutor to review your results of DNA matches and other work and send those off to us?",
+      "examination": "direct"
+    },
+    {
+      "id": 30,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Relating to the Tomasica grave, yes.",
+      "reply_to": 29
+    },
+    {
+      "id": 31,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did that also relate to the Jakarina Kosa grave in some way?",
+      "examination": "direct"
+    },
+    {
+      "id": 32,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. The data that we compiled referred to all the DNA profiles and individuals that were detected in the Tomasica grave and those same individuals recovered from the Jakarina Kosa grave who were the same between both graves, different parts of the same individuals. So those list we provide included those matches to individuals from Jakarina Kosa.",
+      "reply_to": 31
+    },
+    {
+      "id": 33,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And we'll go over briefly those lists in a moment. And more recently within the last, well, I believe, few days, have you become familiar with the people -- the results related to the people identified at Jakarina Kosa that are independent from those identified at Tomasica?",
+      "examination": "direct"
+    },
+    {
+      "id": 34,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I have.",
+      "reply_to": 33
+    },
+    {
+      "id": 35,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And can you tell us how far along the DNA work is on those two mass graves, Jakarina Kosa and Tomasica?",
+      "examination": "direct"
+    },
+    {
+      "id": 36,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Without having done detailed investigations into the status of each and every sample related to these sites, my overall answer would be that as far as I'm aware we are essentially and very likely completely finished with that work.",
+      "reply_to": 35
+    },
+    {
+      "id": 37,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And so the first number I want to ask you about, taking the individuals detected from Tomasica through DNA and the individuals detected from Jakarina Kosa from DNA, how many total separate individuals were there combining both those -- those graves?",
+      "examination": "direct"
+    },
+    {
+      "id": 38,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "So total from Tomasica was 385 distinct DNA profiles indicating different individuals. As already stated, some of those individuals also had portions of bodies discovered at Jakarina Kosa. But for individuals found only in Jakarina Kosa, there is an additional 211 individuals. In addition we've recently provided information to the Office of the Prosecutor on eight DNA profiles from Jakarina Kosa that have not had matches. So if we add all those -- those figures together, the number of individuals detected by DNA in both of those graves is 604.",
+      "reply_to": 37
+    },
+    {
+      "id": 39,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And you mentioned that the people from Tomasica, there were a number of people found in the Tomasica graves whose remains were also found in the Jakarina Kosa grave. Do you have that number as well?",
+      "examination": "direct"
+    },
+    {
+      "id": 40,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "My recollection is that was 99 individuals.",
+      "reply_to": 39
+    },
+    {
+      "id": 41,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Now, let's go over just some of the material briefly that you have been reviewing.",
+      "examination": "direct"
+    },
+    {
+      "id": 42,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Let's start with 65 ter 31087."
+    },
+    {
+      "id": 43,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And we see here a letter on the ICMP letterhead dated 6th of May, 2014, entitled: Explanatory note to the DNA match list of samples from Tomasica and linked cases from Jakarina Kosa. What is this?",
+      "examination": "direct"
+    },
+    {
+      "id": 44,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is the explanatory note that ICMP provided together with the lists of DNA results relating to Tomasica that we provided to the Office of the Prosecutor.",
+      "reply_to": 43
+    },
+    {
+      "id": 45,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what role, if any, did you have in this notation?",
+      "examination": "direct"
+    },
+    {
+      "id": 46,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe I wrote it all.",
+      "reply_to": 45
+    },
+    {
+      "id": 47,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you talk -- well, we see right off that these are having to do with the two graves we've mentioned. And you say in paragraph 2 that the results are tabulated in three lists. And while we can see that, can you just tell us what list A is just briefly?",
+      "examination": "direct"
+    },
+    {
+      "id": 48,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, list A relates to those samples that gave DNA profiles which could then be matched to the family reference database that the ICMP maintains and this is the mechanism of DNA matching by which identifications are established. So list A would be individuals identified by DNA -- or let me rephrase that, samples that were identified by DNA. In some instances, multiple samples were identified as coming from the same individual.",
+      "reply_to": 47
+    },
+    {
+      "id": 49,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And list B?",
+      "examination": "direct"
+    },
+    {
+      "id": 50,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The process of DNA matching takes some time to complete and once matches are originally identified, initially identified, we then have a rigorous procedure of review of all the data to make sure that our final DNA match reports are complete and correct. And so list B was simply a very small subset of all the samples where the DNA match reports were in review and had not yet been formally issued.",
+      "reply_to": 49
+    },
+    {
+      "id": 51,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "So we can refer to that as work in progress?",
+      "examination": "direct"
+    },
+    {
+      "id": 52,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 51
+    },
+    {
+      "id": 53,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And list C?",
+      "examination": "direct"
+    },
+    {
+      "id": 54,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "List C relates to DNA profiles from samples and those DNA profiles at that time we were unable to associate to the family reference database and therefore were considered at that time as unidentified.",
+      "reply_to": 53
+    },
+    {
+      "id": 55,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "So is it fair when you say \"unidentified\" that you mean that you just don't know who the people are? You know that they are unique individuals, you just -- you don't have their names?",
+      "examination": "direct"
+    },
+    {
+      "id": 56,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 55
+    },
+    {
+      "id": 57,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And so we see in paragraph 3, you talk about combining the three lists and you come up with this number 334. Can you explain what -- explain that.",
+      "examination": "direct"
+    },
+    {
+      "id": 58,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, each of the three lists make up the entirety of the universe of the different categorisations of DNA profiles that we recovered from those graves. So we have the individuals who had then matched to families, the individuals who have been preliminarily matched to families and whose cases are in completion, and we have the individuals for whom no match was found. And between the three of those, that accounts for everyone that had been recovered, and at the time that we submitted that list, that total number was 334.",
+      "reply_to": 57
+    },
+    {
+      "id": 59,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And I think you earlier testified the number from Tomasica was 385. How can you explain this difference?",
+      "examination": "direct"
+    },
+    {
+      "id": 60,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "If we refer to point 4 on the exhibit that's up now, there's the notation that DNA testing and matching of additional samples from these sites is ongoing at the time of issue of that report. And indeed, we did continue to do additional work and were requested I believe in June of 2014 for yet another update on the progress of this work. And the -- the sum total number then was 385 instead of the 334 that was reported at that time in January, I believe.",
+      "reply_to": 59
+    },
+    {
+      "id": 61,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I would offer this exhibit into evidence."
+    },
+    {
+      "id": 62,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Registrar."
+    },
+    {
+      "id": 63,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "65 ter 31087 would be Exhibit P7436, Your Honours."
+    },
+    {
+      "id": 64,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Admitted into evidence. Please proceed."
+    },
+    {
+      "id": 65,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, Dr. Parsons, you mentioned that there was updated information that led you to the 385.",
+      "examination": "direct"
+    },
+    {
+      "id": 66,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Let's go to 65 ter 31089. This is a spreadsheet of -- that we received. It should not be broadcast. As we know, it's not clear that all the families have been notified of these matches. That's my understanding."
+    },
+    {
+      "id": 67,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, Doctor, have you had a chance to look at this before coming to court and can confirm that this is the up -- well, the first page of the updated sheet that led to the rise to 385 that you spoke of?",
+      "examination": "direct"
+    },
+    {
+      "id": 68,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 67
+    },
+    {
+      "id": 69,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 70,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I would offer -- well, let me go to another part of that before. Let's go to -- I think it should be page 18 in e-court."
+    },
+    {
+      "id": 71,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And just to get back, was that part A of the list that you talked about? That's the complete list?",
+      "examination": "direct"
+    },
+    {
+      "id": 72,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That would be the updated version of what I previously referred to as list A.",
+      "reply_to": 71
+    },
+    {
+      "id": 73,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And looking at this particular list, is this B, the in-progress list you spoke of, an updated version?",
+      "examination": "direct"
+    },
+    {
+      "id": 74,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It is.",
+      "reply_to": 73
+    },
+    {
+      "id": 75,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And going to the next page, page 19 --",
+      "examination": "direct"
+    },
+    {
+      "id": 76,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Can I put one question --"
+    },
+    {
+      "id": 77,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, please."
+    },
+    {
+      "id": 78,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "-- with respect to this list on the screen. In the last column headed: \"Status,\" we see there the word \"review.\" What does that mean in this context?"
+    },
+    {
+      "id": 79,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Yeah. This -- this refers to the list of cases where after comparing the DNA profile by computer to our DNA profiles from the families, we obtained a result indicative that this individual was identified. However, the process of -- the forensically rigorous process of checking all the data, confirming everything along every step, we go back to the very beginning and have each of the different units review all the data, it's just a final check of results, and so that was a process of review. Each of those had not completed that process prior to releasing a final report."
+    },
+    {
+      "id": 80,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "That means the -- while this spreadsheet was filed, the review process was not finished?"
+    },
+    {
+      "id": 81,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "That's correct."
+    },
+    {
+      "id": 82,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 83,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And can you just tell us, does this updated sheet that many of the in-progress cases were -- actually came to a positive conclusion?",
+      "examination": "direct"
+    },
+    {
+      "id": 84,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "If you could please repeat the question so I --",
+      "reply_to": 83
+    },
+    {
+      "id": 85,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can we see from -- my understanding of -- this is the ongoing cases section B here. Have the ongoing cases reduced any from the ongoing cases in the original material that we spoke of?",
+      "examination": "direct"
+    },
+    {
+      "id": 86,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Are you referring to additional work that has progressed since the time that we submitted this file? The answer is yes.",
+      "reply_to": 85
+    },
+    {
+      "id": 87,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Actually I was thinking not this particular file but the one before it from your June letter.",
+      "examination": "direct"
+    },
+    {
+      "id": 88,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Indeed, this would be indicative of the progress that went on between January and June.",
+      "reply_to": 87
+    },
+    {
+      "id": 89,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And from this sheet how many are still ongoing?",
+      "examination": "direct"
+    },
+    {
+      "id": 90,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Present day?",
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "No, just from this -- from this sheet. From what we can tell from this sheet. What --",
+      "examination": "direct"
+    },
+    {
+      "id": 92,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Oh, how many are listed here?",
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yeah.",
+      "examination": "direct"
+    },
+    {
+      "id": 94,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I -- my recollection is that it was 15.",
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what's the grey highlighting mean again?",
+      "examination": "direct"
+    },
+    {
+      "id": 96,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That refers to samples that were recovered prior to the most recent excavations at the Tomasica site.",
+      "reply_to": 95
+    },
+    {
+      "id": 97,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right.",
+      "examination": "direct"
+    },
+    {
+      "id": 98,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And let's go to the next page. It should be 19."
+    },
+    {
+      "id": 99,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Could I proffer a clarification to my previous statement?"
+    },
+    {
+      "id": 100,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please.",
+      "examination": "direct"
+    },
+    {
+      "id": 101,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "If we could call that previous one back up just for a moment.",
+      "reply_to": 100
+    },
+    {
+      "id": 102,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 103,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If we could go back to 18."
+    },
+    {
+      "id": 104,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "I mentioned that there were 15 cases relating to this list. There are more than 15 cases listed here. The 15 refers to the different individuals that are represented, so some of those are reassociation cases. So there are 15 persons for whom their reports were in review but somewhat more than 15 samples in total in question."
+    },
+    {
+      "id": 105,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. We've heard the discussions of cases --",
+      "examination": "direct"
+    },
+    {
+      "id": 106,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "If I may -- if I may just --"
+    },
+    {
+      "id": 107,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "-- in main cases but I hesitate to go into that.",
+      "examination": "direct"
+    },
+    {
+      "id": 108,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 109,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "In fact I wanted to ask Mr. Parsons what do main case and reassociation mean in context and what is the distinction between the two?"
+    },
+    {
+      "id": 110,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Okay. So it is not uncommon that the human remains we deal with have been recovered in separate portions, so we'll have partial bodies recovered either from the same site or from different graves. When we extract DNA from the samples and then compare them to the family reference database and find a match, thereby providing very strong evidence for the identification of an individual, that particular set of remains, that particular profile associated with that remains is classified as the main case, meaning this is the first indication we have that this individual has been recovered and identified. Later on, at any point, could be very soon, sometimes could be years later, we'll obtain a DNA profile from a different body part that is the same individual and that DNA profile will also be compared to the database. And then we determine that it's -- it's the same individual, and then we will issue that DNA match as a reassociation to someone who is already -- who is someone whose identity is already known."
+    },
+    {
+      "id": 111,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you so much."
+    },
+    {
+      "id": 112,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Let's go to this last part. It should be page 19 in e-court, so the section C from your explanatory note. How many individuals does this represent?",
+      "examination": "direct"
+    },
+    {
+      "id": 113,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That can be tabulated by the left-most column, so that is seven individuals.",
+      "reply_to": 112
+    },
+    {
+      "id": 114,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And what does this tell us, this chart?",
+      "examination": "direct"
+    },
+    {
+      "id": 115,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is a list of samples for which DNA profiles have been obtained, but there is no match to the family reference database. So we don't have an indication of the identity of these samples. And -- but there is some indication on this list of reassociation. Even if we don't know who these people are, we can tell that different body fragments come from the same individual. So if we refer to the upper left-most listing of Tomasica number 85, and then we go to the second column, in red there are two additional cases listed, those two additional cases come from the same individual as Tomasica number 85. So that's how we arrive at seven individuals represented here without a DNA match to families.",
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "So without a match, we don't have a name. But as individuals, they have gone into your final and total figure of individuals of 6004 in both graves?",
+      "examination": "direct"
+    },
+    {
+      "id": 117,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "604.",
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "604 --",
+      "examination": "direct"
+    },
+    {
+      "id": 119,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "-- excuse me.",
+      "examination": "direct"
+    },
+    {
+      "id": 121,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And, Your Honours, this is now in e-court. We have an Excel version of this on CD if you're interested. It came to us that way. So sometimes it's easier to use than it may be if -- we have that if you're interested. And I would offer this 65 ter number into evidence."
+    },
+    {
+      "id": 122,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I hear of no objections. Mr. Registrar, the number would be?"
+    },
+    {
+      "id": 123,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "65 ter 31089 will be Exhibit P7437 under seal."
+    },
+    {
+      "id": 124,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. We need to have this under seal, I'm reminded, because of the names identified."
+    },
+    {
+      "id": 125,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "P7437 is admitted under seal. Could I ask one additional question. This last series we see that you found several body parts that could be linked to one person although you had not identified that person. There was no match with the family database. In total, how many DNA profiles you obtained from bodies or body parts cases? How many were you unable to match with the family database? What's the percentage or what's the number? And let's speak about Tomasica."
+    },
+    {
+      "id": 126,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "What I will do is give you -- the answer to that question depends upon what period in time we're talking about. And we've referred here to a number of lists that have been submitted -- two different lists that have been submitted over time. I could also give you the present-day answer to that question, if you would like that."
+    },
+    {
+      "id": 127,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think the present-day situation would -- would be proper to hear."
+    },
+    {
+      "id": 128,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "From Tomasica presently, there's only one individual for whom -- whom we have detected in the Tomasica grave that has not been identified. And from the Jakarina Kosa graves, there are eight individuals who have not been identified."
+    },
+    {
+      "id": 129,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Now, that's very minor percentage on the whole of the bodies or body parts retrieved. I have one follow-up question which is the following: What is stored in your family database as -- well, let's say, a son, two brothers, and if you want to link that to the missing father, that there still is a possibility that what they think is the situation is that the two brothers are the sons of the father, they may not be the sons of that father, although not known, is there any way that these kind of situations would explain why body parts could not be linked to a missing person because they may be linked to well-known persons but not missing? You understand my --"
+    },
+    {
+      "id": 130,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "The last phrase of your last sentence, I wasn't -- I don't have a clear sense of the meaning, but I think know mostly what you're saying."
+    },
+    {
+      "id": 131,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "What I mean to say is that although the two brothers who are in the family database but do not match, there are two explanations, either the body part found isn't a body part of the father, or the person they think who is the father and that's the missing person is not the father of the two sons. That is my -- and I wonder to what extent that has been considered and to what extent that may explain also some of the failures to find a match."
+    },
+    {
+      "id": 132,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Well, you've rightly observed that that situation is inherent to any type of DNA identification effort of missing persons, and, indeed, those kind of issues where the reported relationships among reference samples may, for whatever reason, differ from the biological reality, indeed that will complicate the ability to make a match. So that is, yes, sir, a contributing factor in the case that matches may not be found."
+    },
+    {
+      "id": 133,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Thank you."
+    },
+    {
+      "id": 134,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, Doctor, slightly -- what comes to mind, another question: We hear these results that you're speaking of, and in this day and age can DNA still find every individual in a mass grave or is it possible that there's going to be remains from people that you're not just going to be able to get the DNA out of the bone or what's left?",
+      "examination": "direct"
+    },
+    {
+      "id": 135,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think I'll give sort of a very general-language answer to that question to get at the point that DNA is simply a very powerful scientific tool that we can bring to these kind of investigations but it's no magic wand for identifying. I mean, the many factors have to be present in order allow a successful DNA identification, and there are many reasons why in any particular instances an identification may not be achieved. Sometimes these bones that have been buried don't have enough DNA surviving, it's all been digested by bacteria, and we can't recover a profile at all. Sometimes we not have a single reference family member to provide a profile to match. Perhaps they've all been killed or perhaps they haven't come forward. And perhaps the circumstance that was referred to just a moment ago where the reference family information is incorrect and will not permit us to find a match. So ...",
+      "reply_to": 134
+    },
+    {
+      "id": 136,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Does that mean that there could be more than 604 people in these two -- from these two exhumations and DNA just couldn't find the others?",
+      "examination": "direct"
+    },
+    {
+      "id": 137,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "There could be.",
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. All right.",
+      "examination": "direct"
+    },
+    {
+      "id": 139,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Let's go to 65 ter 32714."
+    },
+    {
+      "id": 140,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, Doctor, are you aware that --",
+      "examination": "direct"
+    },
+    {
+      "id": 141,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And again, no -- please don't broadcast."
+    },
+    {
+      "id": 142,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you aware that Ewa Tabeau of this office has been able to retrieve the Jakarina Kosa DNA results from the ICMP?",
+      "examination": "direct"
+    },
+    {
+      "id": 143,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I am.",
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you just tell us where she was able to get it from.",
+      "examination": "direct"
+    },
+    {
+      "id": 145,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "As the Court is aware, in the past the ICMP has provided notification lists to the Office of the Prosecutor upon request that presents the type of information that we've just been reviewing. It's a notification and a set of lists of DNA match reports that have been issued. Our electronic database that we operate on at the ICMP is quite advanced and continues to be developed, and we reached the stage now where the primary information that we have in the database is linked to an inquiry tool that allows access to those lists on real time rather than the necessity for the ICMP to compile lists at a particular point in time and then distribute them. So the primary data by which the ICMP would compile a list can now be accessed by privileged users without the need of us to generate the lists. And so what I'm saying is that the Office of the Prosecutor has been granted privilege to access the ICMP's online inquiry centre of the Western Balkans notification list of DNA matches.",
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And looking at this first page up here, is it your understanding that this is -- that Ms. Tabeau has taken this information from your confidential database?",
+      "examination": "direct"
+    },
+    {
+      "id": 147,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 149,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And I won't offer that in evidence, Mr. President. We've leave that for Ms. Tabeau. And finally, can we go to 65 ter 32713."
+    },
+    {
+      "id": 150,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "While we're waiting for that, could I ask one follow-up question. Mr. McCloskey asked you whether -- although 604 individuals, I would say, unique DNA profiles were found, many of them identified, some of them not identified, whether there could have been more. How often does it happen that you find a body part, a case where you find that there's insufficient material, insufficient DNA material, to even make a profile? Is that -- does that happen very often? Which would, if I understand you well, would -- might lead to a conclusion that there could be many more than 604? Or is it rather seldom, which would mean that if there are more than 604, it would not be many more? Could you please tell us."
+    },
+    {
+      "id": 151,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "It's a very good question and one that we could spend a fair amount of time discussing. I'll try to condense my answer and say that in fact the DNA preservation in a bone sample can be highly variable, both between the environmental context from which it comes, how old it is, and the type of skeletal element involved. So different bones of the human body are much less resistant degradation than others. So if we have complete skeletons, we can then -- we then have the luxury of selecting the bone that is most likely to give a positive DNA result. In the context of the Western Balkans, such samples like thigh bones, femurs, or teeth have a greater than 90 per cent success rate. Other more highly -- other elements have lower rates and they may be particularly degraded. So to some extent, every case is unique and it can be hard to say. Overall in our experience in Bosnia, we have, I think, about a 70 per cent success rate on DNA extraction the first time we try. We have the ability to, in the case of failure, go back and try again, both on the original sample or we can request a second sample from the same body part, and in a reasonably high proportion of the time, we are then successful for the second time around. But I think I should take us back to your original question on the -- the probable proportion that we've recovered from Tomasica, Jakarina Kosa. And I will say that I'm sorry that I don't recall the success rate of DNA testing from those, but I do not believe -- the success right was high, and I don't consider that amongst the samples submitted to us that there should be a large number of additional missing persons."
+    },
+    {
+      "id": 152,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Please proceed, Mr. McCloskey."
+    },
+    {
+      "id": 153,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And finally Dr. Parsons, do you recognise what this sheet is? And let me ask you: We don't see names on this but is there confidential data that should not be broadcast?",
+      "examination": "direct"
+    },
+    {
+      "id": 154,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Not that I'm aware of.",
+      "reply_to": 153
+    },
+    {
+      "id": 155,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right.",
+      "examination": "direct"
+    },
+    {
+      "id": 156,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "So this can be opened."
+    },
+    {
+      "id": 157,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what is this?",
+      "examination": "direct"
+    },
+    {
+      "id": 158,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is a list of unmatched cases from Jakarina Kosa that do not relate to the Tomasica grave.",
+      "reply_to": 157
+    },
+    {
+      "id": 159,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what do you know about its preparation and where did it come from?",
+      "examination": "direct"
+    },
+    {
+      "id": 160,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Sometime in the last several weeks, we were contacted by your office for a summary of the unmatched DNA profiles from Jakarina Kosa and this is what we provided recently. And it's very similar to -- it's identical in structure to the lists from Tomasica where I described, so what we have here are eight individuals as represented by DNA who do not match our family reference database.",
+      "reply_to": 159
+    },
+    {
+      "id": 161,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I would offer this into evidence."
+    },
+    {
+      "id": 162,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Registrar."
+    },
+    {
+      "id": 163,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "That will be Exhibit P7438, Your Honours."
+    },
+    {
+      "id": 164,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Admitted into evidence."
+    },
+    {
+      "id": 165,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And lastly, Dr. Parsons, the updated to the present information that you provided this Court pursuant to the President's question, have you a chance to review the materials to come up with those up-to-date, up to the day conclusions?",
+      "examination": "direct"
+    },
+    {
+      "id": 166,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 165
+    },
+    {
+      "id": 167,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 168,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I have nothing further, Mr. President."
+    },
+    {
+      "id": 169,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. McCloskey. Is the Defence ready to cross-examine the witness? Mr. Parsons, you'll be cross-examined by Mr. Stojanovic. You find him to your left. Mr. Stojanovic is counsel for Mr. Mladic."
+    },
+    {
+      "id": 170,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Good morning, Professor. After two years, we have another opportunity to meet in this courtroom, and I will only briefly go through the list of questions that we discussed the previous time. I will ask you to tell us something briefly about the International Committee on Missing Persons. If I understood properly, the ICMP was founded at the initiative of G-7 in Lyon at a conference held in 1996. Is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 171,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The initiative came from the then-president of the United States, Bill Clinton; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 173,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "He played an important role in putting the initiative forward.",
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Today you briefly repeated what the duties of this commission were in answer to a question asked by Mr. McCloskey. You said that one of the three key duties is to help governments to locate and identify missing persons. My question is this: Do you feel that the work of the ICMP is assistance or is it crucial for the identification of bodies found in the territory of the Western Balkans?",
+      "examination": "cross"
+    },
+    {
+      "id": 175,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It is assistance in the sense that our work is conducted under the auspices of formal governmental structures of the domestic authorities in Bosnia and Herzegovina and other places where we work. With regard to the DNA identification, indeed, the ICMP has taken over all the technical aspects of the DNA laboratory work and matching, and those forensic activities are, indeed, crucial to the identification process. So I think you posed the question in an either/or scenario, but I think the answer to the question is: Yes, it is assistance; and, yes, it is crucial to the identification process.",
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "But that is just what I would like to clarify before I move on to more specific details. At the level of the Federation of Bosnia-Herzegovina, there is a commission for searching after missing persons. It's the federal commission for searching after the missing persons.",
+      "examination": "cross"
+    },
+    {
+      "id": 177,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That wasn't posed to me in the form of a question.",
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it true that at the level of the Federation of Bosnia-Herzegovina there is an independent governmental federal commission for searching after missing persons?",
+      "examination": "cross"
+    },
+    {
+      "id": 179,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The institution in Bosnia that is responsible for what you just mentioned is the Missing Persons Institute at the national level.",
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Does this institute have a crucial role in the system of ICMP which you explained and that's the DNA identification and pairing? Did this institute have any specific duty or role in this overall process?",
+      "examination": "cross"
+    },
+    {
+      "id": 181,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Let me give you an overview of how the system operates. DNA samples are taken from recovered remains -- let me take one step back, I apologise. Recovery activities at mass graves are authorised and conducted by the Bosnian court system. Once that authorised activity is conducted, state-appointed pathologists are in charge of the investigation and sampling for DNA. Under their authority, the ICMP sometimes assists with the examination and sampling for DNA of the remains that have been recovered. Under the authority of the court-appointed, state-recognised pathologists, the samples are sent to the ICMP where we undertake the forensic testing and matching in a blind manner that has no information about the case and it enters the DNA laboratory with a random bar code number so that we know nothing about its origin. Once this blind process of -- has taken place and DNA matches are found, the results of those DNA matches are submitted to the Missing Persons Institute which, again, is the national authority with responsibility for the issues of the missing in Bosnia. The Missing Persons Institute --",
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, let me stop you there for a moment because I would like to go through this step by step. Whose employees are the pathologists who collect DNA samples from the found remains?",
+      "examination": "cross"
+    },
+    {
+      "id": 183,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know specifically. There are different pathologists, and I don't know their employment structure. I believe many of them are cantonal employees. In one instance, the ICMP has maintained an employee who is also a court-appointed pathologist, but that's the -- it's the only instance.",
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And specifically - and we will return to something that you already told us - who took DNA samples found at the Jakarina Kosa grave?",
+      "examination": "cross"
+    },
+    {
+      "id": 185,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm sorry, I have not reviewed that information. I don't know the answer for you.",
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "May I then ask you a different question. Would you confirm to us that ICMP employees, the organisation that are you heading, were not the ones who collected samples from Jakarina Kosa; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 187,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm sorry, I'm not in a position to say that ICMP employees did not assist in the sample-taking process. I don't know.",
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let me follow on this. Do you know whose employees or, rather, whose pathologists or anthropologists took samples from the mortal remains found in the Tomasica grave?",
+      "examination": "cross"
+    },
+    {
+      "id": 189,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The most recent excavation?",
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes, I mean the most recent excavations that were carried out during the recent years.",
+      "examination": "cross"
+    },
+    {
+      "id": 191,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, many samples were taken, so I don't know the details of each and every case, but I can confirm that ICMP employees assisted in that process.",
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "This process was organised at the order of the judicial organs in the Una-Sana canton; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 193,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I do not object to that as it probably being correct.",
+      "reply_to": 192
+    },
+    {
+      "id": 194,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, the seat of your organisation is in Sarajevo; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 195,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The headquarters are in Sarajevo, yes.",
+      "reply_to": 194
+    },
+    {
+      "id": 196,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Does ICMP have its own laboratories in the territory of Bosnia and Herzegovina in which it performs its mission?",
+      "examination": "cross"
+    },
+    {
+      "id": 197,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 196
+    },
+    {
+      "id": 198,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When we talked last time, we mentioned three facilities - Banja Luka, Sarajevo, and Tuzla. You then told us about the status of the Tuzla laboratory, the forming of the Podrinje centre, and I now ask you this: During the two years that have passed since, has anything changed in the way that the ICMP laboratories work and function?",
+      "examination": "cross"
+    },
+    {
+      "id": 199,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Fundamentally, no.",
+      "reply_to": 198
+    },
+    {
+      "id": 200,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would that mean that the laboratory in Banja Luka is under the jurisdiction of ICMP?",
+      "examination": "cross"
+    },
+    {
+      "id": 201,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, the ICMP maintains complete control of its DNA laboratory facility in Banja Luka.",
+      "reply_to": 200
+    },
+    {
+      "id": 202,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And who controls the laboratory in Sarajevo?",
+      "examination": "cross"
+    },
+    {
+      "id": 203,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The ICMP.",
+      "reply_to": 202
+    },
+    {
+      "id": 204,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, finally, you do not control the laboratory in Tuzla; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 205,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "To answer that in a manner that provides any clear indication requires some -- some clarification. So, first of all, strictly speaking, there is not a DNA laboratory in Tuzla. However, the ICMP maintains what we refer to as the Identification Co-ordination Division in Tuzla, which is wholly within the ICMP and is integrally linked to the DNA identification process. With two sentences, I'll refer to the function of the ICD. This is a central point of collection of samples, both reference samples, and mortal remains samples, and by \"collection,\" I mean this is the place where the samples are taken to the ICMP and formally accessioned into our processes. So it is at that point that the quality management system, the accreditation requirements of the ICMP take over the process and result in a homogeneous, uniform forensic processing of everything that comes into that central facility. The bone samples are then -- once accessioned are sent to the Banja Luka DNA laboratory for critical pre-processing steps at which they are highly expert. And then once processed, the bone powder is sent to the central DNA laboratory facility in Sarajevo. But you asked about not -- the ICMP not being in control in Tuzla. I think you were referring to the Podrinje Identification Project which is a mortuary facility there, and in fact, that is not an ICMP facility at this time. The ICMP, in fact, built it and throughout the process has supported it very strongly with expert anthropologists to assist with the -- with the operations there.",
+      "reply_to": 204
+    },
+    {
+      "id": 206,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stojanovic, I'm looking at the clock. Could you tell us how much time you would still need? I know that you're only 15 minutes on your way, but ..."
+    },
+    {
+      "id": 207,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, I have announced that my examination will last for an hour and a half, and I intend to stay within the limit. So another hour and some minutes."
+    },
+    {
+      "id": 208,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "That's clear. Mr. Parsons, we'll take a break of 20 minutes. We'd like to see you back after the break. You may now follow the usher."
+    },
+    {
+      "id": 209,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We will resume at ten minutes to 11.00."
+    },
+    {
+      "id": 210,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could the witness be escorted in the courtroom. Mr. Lukic, meanwhile, I asked you before the -- at the beginning of this -- today's hearing whether you could provide the Chamber with the information about when the Defence intends to file the 92 bis motions?"
+    },
+    {
+      "id": 211,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, we can start filing them the next week."
+    },
+    {
+      "id": 212,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Next week."
+    },
+    {
+      "id": 213,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "But we cannot file all of them."
+    },
+    {
+      "id": 214,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Could you perhaps give a kind of a schedule so that we know what expect. Not all of them could also mean only one. It could also be all minus one, so if could you be a bit more precise and perhaps put that on paper, this week that witness, that week that witness, so that we can see whether that meets the -- what is required."
+    },
+    {
+      "id": 215,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And would you please do that, then, also by the end of this week or the -- at the latest, early next week. Mr. Stojanovic, please proceed."
+    },
+    {
+      "id": 216,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 217,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, we stopped while discussing the topic of the organisation of laboratory work, the laboratories, that is, that the ICMP relies on in its work. Bearing in mind our discussion of two years ago, I'd like to ask you about something briefly. The laboratory in Banja Luka, has it received its certification, and if that is the case, from whom?",
+      "examination": "cross"
+    },
+    {
+      "id": 218,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The ICMP laboratory in Banja Luka is an integral part of the ICMP DNA laboratory system that encompasses both DNA testing and DNA matching, and it is that entire system that falls under our ISO 17025 international accreditation and our internal all-encompassing quality management system. The accreditation agency that grants this a German national accreditation agency with the acronym DAkkS, and if you'll forgive me, I'd prefer not to try put forward the German name of that agency.",
+      "reply_to": 217
+    },
+    {
+      "id": 219,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "There's no need, Professor. I think you have discussed that topic last time. My question is this: Has the facility in Tuzla been appropriately certified by the DAkkS?",
+      "examination": "cross"
+    },
+    {
+      "id": 220,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The ICMP facility, the Identification Co-ordination Division that I referred to previously, is under that same accreditation mantle.",
+      "reply_to": 219
+    },
+    {
+      "id": 221,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In the meantime, has the ICMP become a member of the European network of forensic institutes?",
+      "examination": "cross"
+    },
+    {
+      "id": 222,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe that you are referring to the European Network of Forensic Science Institutes. I clarify only because they are widely known by their acronym ENFSI. And actually that is a body of -- a collaborative networking body that mostly deals with crime laboratories. As the ICMP is not itself a crime laboratory, we are not a member of ENFSI. However, they have recognised the importance of our work and invite us often as special guest participants in their regular meetings. But that would not be new since the last time we spoke; I have participated with ENFSI throughout the course of my employment at the ICMP.",
+      "reply_to": 221
+    },
+    {
+      "id": 223,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "To be more specific, would it be within your knowledge to tell us which laboratory worked on the preparation of samples exempted from the mortal remains found in the Jakarina Kosa grave?",
+      "examination": "cross"
+    },
+    {
+      "id": 224,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, that's an easy answer because every sample that the ICMP processes goes through all of the ICMP DNA laboratory facilities. They begin at the ICD in Tuzla, they process through the ICMP DNA laboratory preparation centre in Banja Luka, they are transferred to the DNA laboratory in Sarajevo, and the DNA results are transmitted back to the Identification Co-ordination Division in Tuzla. Every sample follows that entire circuit through our DNA identification system.",
+      "reply_to": 223
+    },
+    {
+      "id": 225,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The samples taken from the mortal remains found in the Tomasica grave, were they also treated the same way you just described: Tuzla, then extraction at Banja Luka, and the final matching process in Sarajevo?",
+      "examination": "cross"
+    },
+    {
+      "id": 226,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. But I want to clarify because I -- of the potential for some confusion with regard to this line of questioning. I am not stating that the primary examination of the mortal remains or the taking of bone samples from the mortal remains was done in any of the facilities that I just referred to. Those are the facilities where the sample that is submitted to the ICMP go through the DNA identification process.",
+      "reply_to": 225
+    },
+    {
+      "id": 227,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I understood properly this rather complex area for us, in the course of your work, you changed your methodological approach to taking samples for DNA profiling; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 228,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Really, no, and I don't know why you would think that.",
+      "reply_to": 227
+    },
+    {
+      "id": 229,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stojanovic, could you give a bit more of a clue where apparently you have reasons to believe that something was changed, whereas the witness says nothing was changed. Could give a further clue as to what you had as a possibility on your mind?"
+    },
+    {
+      "id": 230,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 231,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, let's go one step at a time. How many samples were taken from mortal remains and then used in the preparation for DNA matching of profiles?",
+      "examination": "cross"
+    },
+    {
+      "id": 232,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "From the Tomasica grave?",
+      "reply_to": 231
+    },
+    {
+      "id": 233,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "First I wanted to ask you from the beginning of your work, when you just set out to perform the tasks, and then gradually I was to move on to 2014.",
+      "examination": "cross"
+    },
+    {
+      "id": 234,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stojanovic, if you're asking for how many and then to say, \"I'd start here,\" then you should also say where it ends. Because otherwise the witness is -- unless he disagrees, he would not be in a position to give us any number. Could you please rephrase your question, therefore."
+    },
+    {
+      "id": 235,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I'll try."
+    },
+    {
+      "id": 236,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, I'll try a different approach. Was there any change of protocol used by the ICMP which would entail a different approach to the part of processes concerning the taking of samples from mortal remains?",
+      "examination": "cross"
+    },
+    {
+      "id": 237,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Could you clarify over what period of time you're referring to? Just so I can be more helpful in the answer.",
+      "reply_to": 236
+    },
+    {
+      "id": 238,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "First I wanted to ask you about the period between 2000 and 2004. Or, better put, between 2000 and 2007.",
+      "examination": "cross"
+    },
+    {
+      "id": 239,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I will try to keep my explanation succinct and brief. But I think it's important for the Court to understand that in any high-quality forensic laboratory or institution, methods are continually evaluated and improved and modified, and so, indeed, throughout the course of ICMP's pioneering work in this area, there have been countless lessons learned, countless ways to improve efficiency identified, and standard operating procedures modified throughout. With regard to sampling for DNA, we, over the course of our work, have learned empirically which bone samples have the highest DNA preservation. We've now tested almost 50.000 bones and we know which ones are going to give a good DNA profile and which aren't, and it took that learning process to now establish that scientific knowledge. Now, I note that you highlighted the year 2007, and I would -- might suspect that did you so because that was the year in which the ICMP achieved its international ISO 17025 accreditation.",
+      "reply_to": 238
+    },
+    {
+      "id": 240,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Professor, for your answer. Since 2000 and following the award of accreditation, how many samples were taken from mortal remains that were used in the course of your work on identification and matching?",
+      "examination": "cross"
+    },
+    {
+      "id": 241,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't have an exact figure, but I can give you the ballpark of 50.000 or so.",
+      "reply_to": 240
+    },
+    {
+      "id": 242,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "How many rules and protocols used by you require that in such cases samples need to be taken from one set of mortal remains that you wish to identify; i.e., if I understand it properly, how many relevant alleles are taken?",
+      "examination": "cross"
+    },
+    {
+      "id": 243,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Sir, I apologise, that question doesn't make sense to me. Maybe you can rephrase. There's a confusion of samples and alleles. They're completely different things.",
+      "reply_to": 242
+    },
+    {
+      "id": 244,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could you -- if you --"
+    },
+    {
+      "id": 245,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I understand. Perhaps it's my mistake."
+    },
+    {
+      "id": 246,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, and apart from that, \"alleles\" is a word unknown to me as a non-native English speaker. If you could explain what exactly it means, then -- I'd rather come forward with my lack of knowledge."
+    },
+    {
+      "id": 247,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "If you'd like me to, I can attempt. However, it is -- requires a bit of genetic background. So in order to do the DNA testing. We make use of vast amounts of scientific knowledge about variation in the human genome in the human DNA, and the forensic science community has identified a number of locations on various chromosomes in human DNA that have particular characteristics that allow them to differ greatly amongst individuals. So let's take a one single of these locations. When we do our standard work, we target 15 of them, of these locations. Our primary family reference database has 15 of these scattered locations that are tested. If we take one of those, on the chromosome you will actually two copies. Each chromosome has two arms, and through biology you got one of those chromosome pairs from your mother and the other of those chromosome pairs in your father. Now, this location in question is highly variable in the population. They're called short tandem repeats, and what that means - it's kind of easy to understand - is that one version on one of those chromosomal copies may have 15 repeats, but it changes frequently in the course of human population genetics, and the other that you have, maybe 17 repeats. The one you got from your mother has 17, the one you got from your father has 15. It's rare for another person to have a 15 and a 17 at that locus. They may have a 15 and a 19 or a 13 and a 16. And so already we can distinguish you from most of the people in the population at that one -- just using the data from that one locus. However, maybe one in 10, maybe 1 in 100 people also share that type by chance at that locus, so now we go on to the next one. Same situation applies. But they're independent so you can multiply them. All right. You asked about alleles, I'm sorry. Allele is what you call one of these variants. So the 15 thing is an allele, the 17 thing is an allele. So it's the character state at the position that we're looking at are the alleles."
+    },
+    {
+      "id": 248,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. And if I understand you well, then the sample is you take some kind of -- some material and the alleles are specific spots on the DNA string which you use for identification because you don't use them all. There would be too many. And you have selected carefully the ones who are most significant to establish whether there's a match or not."
+    },
+    {
+      "id": 249,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "That's very correct. I would just add the additional element that an allele is more like the flavour that that location has or the typification that that location has, yeah."
+    },
+    {
+      "id": 250,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Please proceed, Mr. Stojanovic. I think the witness invited you to rephrase your question. Perhaps the latest answer would assist you in doing so. Please proceed."
+    },
+    {
+      "id": 251,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] That is correct, Your Honour. I wanted to clarify one thing which was actually the point of my question."
+    },
+    {
+      "id": 252,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I understand you well, Professor, you tested for 15 relevant alleles. But in the course of the years, you perfected your work, making you capable of testing for additional, up to nine, samples or, rather, alleles. Is my understanding correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 253,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think we're making progress, but nine is not an increase over 15. I think I know where you're going here so if I may. Indeed our standard testing and database historically has targeted 15 alleles -- no, excuse me, 15 loci. Each locus has two alleles. And an improvement that we have been making over the years is the application of additional genetic systems that targets more of these loci and more of these alleles in cases that are difficult. One reason a case may be difficult is that we have, say, only a sister as a reference sample. Sometimes a sister and a brother will share enough genetic information that you can make a positive identification just on that, but more often you need more relatives than just a sister with these 15 loci. So we have situations where we don't have a definitive match based on the references at hand and only these 15 positions. To increase our ability to make identifications under such circumstances, of which I only gave one example, we now have the ability to test additional systems within our accreditation that add eight additional loci, therefore 16 additional alleles potentially, to the genetic testing. And in fact we have been successful in making identifications using this additional information that we weren't able to make before.",
+      "reply_to": 252
+    },
+    {
+      "id": 254,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. I asked you about all this, to the extent I can understand it, because I wanted to ask you the following: In the course of your work while identifying the bodies from the Tomasica mass grave, were you able to use these additional systems for identification of mortal remains?",
+      "examination": "cross"
+    },
+    {
+      "id": 255,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm going to apologise and say I haven't reviewed the cases specifically, so the formal answer to the question is: I don't know. But I will say, I think it's likely that a very small number of these were resolved by this additional testing.",
+      "reply_to": 254
+    },
+    {
+      "id": 256,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And where you say \"a very small number of these,\" that is, situations where you were unable to identify on the basis of the 15 loci?"
+    },
+    {
+      "id": 257,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "That's correct. It might be helpful for me to remind the Court that we issue DNA match reports only when they reach a certain level of certainty, and that would be 99.95 per cent surety or greater. So we would have a situation where we would be 90 per cent sure and not issue a DNA match report but instead go to these additional systems that usually increase the strength by a factor of 10.000, easily taking us above that threshold."
+    },
+    {
+      "id": 258,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Please proceed."
+    },
+    {
+      "id": 259,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 260,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I understood you well, Professor, you still hold the position of ICMP director; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 261,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Director of forensic science.",
+      "reply_to": 260
+    },
+    {
+      "id": 262,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you are not involved specifically with these tasks, operationally wise, on performing identification. It is done by other qualified professionals employed by the ICMP; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 263,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it is.",
+      "reply_to": 262
+    },
+    {
+      "id": 264,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Your answers, like the previous one, are general, given in principle, and you say this in view of the professional knowledge that you must have if you are to apply additional systems that are needed for identification; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 265,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct.",
+      "reply_to": 264
+    },
+    {
+      "id": 266,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, if someone was unhappy about ICMP's work, would such a person be able to lodge a complaint or make objections to someone against your work?",
+      "examination": "cross"
+    },
+    {
+      "id": 267,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, \"complaint\" is a general word. I think there are many people complaining about many things in the world. Can you specify, if you would, please, what -- what you mean more specifically about these kind of things?",
+      "reply_to": 266
+    },
+    {
+      "id": 268,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, is there a monitoring body or a supervisory body that would be able to monitor and control your work in the institutional sense?",
+      "examination": "cross"
+    },
+    {
+      "id": 269,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "There is no formal monitoring or supervisory body with regard to particular cases. I would refer, however, to the -- to the general monitoring that is an elemental part of our accreditation and in -- so, no, there is no umbrella over us that someone could go to and say: You need to tell the ICMP to do something or compel the ICMP to check something else. But let me talk about the accreditation and the quality management system of the ICMP because there's nothing informal or soft about it. In order to achieve our accreditation, our results have to be formally validated through experimentation in the laboratory and those experiments carefully documented and open for review by the accreditation auditors. Among the things that they audit is this thing called our quality management system and we have a formal quality manual associated with that, and that is based on a number of pillars of forensic quality that have been established by the international community in making these accreditation guide-lines. It's based on validated standard operating procedures, a system of internal audits whereby we check to make sure that the staff are using the protocols exactly as they are supposed to be used. So we write what we do and we do what we write in a manner that is externally and internally monitored. We have a formal system of training whereby anyone doing this work has to have documented training in that area and to be released through competency experiments to indicate that they get the same result. Additionally, we have to engage in external proficiency tests that can take a number of different forms. So we participate in genetic relationship proficiency testing through the International Society of Forensic Genetics formal programme, and we take part in DNA profile testing through a German agency known as GEDNAP. I apologise, I don't know what that is. It's a proficiency testing provider. And those instances -- sorry.",
+      "reply_to": 268
+    },
+    {
+      "id": 270,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If we can just make this shorter, Professor. The last time when we talked in the courtroom I asked you about GEDNAP too. Can you just briefly tell us this: If at any moment GEDNAP - and you told what the duty of GEDNAP is, it's a German agency which is in charge of quality management control - did at any moment while you headed the ICMP GEDNAP monitor or check the accuracy of some of your findings and matchings; yes or no?",
+      "examination": "cross"
+    },
+    {
+      "id": 271,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "GEDNAP does not check our findings with regard to the forensic work that we formally conduct. What they do is send us a sample of their own upon which we perform testing and then that -- those results are compared to the expected results.",
+      "reply_to": 270
+    },
+    {
+      "id": 272,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did anyone at any moment control the accuracy of individual matchings that you as ICMP did for Jakarina Kosa and Tomasica?",
+      "examination": "cross"
+    },
+    {
+      "id": 273,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Let me talk about some of the experiences that we've had that indicate concordance of the quality of our results with that of other internationally recognised laboratories.",
+      "reply_to": 272
+    },
+    {
+      "id": 274,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes, Professor, but just please answer my question whether anyone checked or inspected your work and the accuracy of individual matchings for Jakarina Kosa and Tomasica? Yes or no. And then please feel free to elaborate on that as you had intended to do.",
+      "examination": "cross"
+    },
+    {
+      "id": 275,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Now that your question is specifically stated - thank you - the answer is no.",
+      "reply_to": 274
+    },
+    {
+      "id": 276,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please now give us the explanation that you were about to tell the Chamber with regard to the manner in which ICMP conducts its work.",
+      "examination": "cross"
+    },
+    {
+      "id": 277,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "We've been involved in a number of international incidents where not only our laboratory is engaged in testing but other laboratories are engaged in testing with the result that there is a duplication of testing on the same samples, and in every instance the ICMP's results have been perfect. And in some instances, in fact, there was a discrepancy between the ICMP's results and that of another laboratory, which prompted a full in-depth review with the result that the ICMP's laboratories' results were confirmed to be correct and the other laboratory identified problems in its testing.",
+      "reply_to": 276
+    },
+    {
+      "id": 278,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, let me briefly go through something that we had an opportunity to hear in the courtroom two years ago during your previous testimony. On the basis of your results, the time of death of a missing person is not established; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 279,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Not on the DNA results at all.",
+      "reply_to": 278
+    },
+    {
+      "id": 280,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Also, it is not possible to establish the location where the said person died; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 281,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Not from the DNA, no.",
+      "reply_to": 280
+    },
+    {
+      "id": 282,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, finally, on the basis of the results of the work on matching, it is also not possible to establish the cause of death of the said person. Am I right?",
+      "examination": "cross"
+    },
+    {
+      "id": 283,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, the cause of death needs to be assessed through pathology and anthropology examination.",
+      "reply_to": 282
+    },
+    {
+      "id": 284,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stojanovic, on all of the last three questions, is there any dispute with the Prosecution about what cannot be established through DNA testing?"
+    },
+    {
+      "id": 285,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No. And he clearly said it in his testimony two years ago."
+    },
+    {
+      "id": 286,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. There's no need to repeat what the witness told us already, apart from that it is with a little bit of understanding of what DNA testing is about, that it -- the answer is, I would say, obvious to the extent the witness would allow us to make such a statement. Please proceed."
+    },
+    {
+      "id": 287,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] That's right, Your Honour, I just wanted to go through this and the -- to make sure that science hasn't gone any further during the last two years and I think wasn't in dispute two years previously, as I announced."
+    },
+    {
+      "id": 288,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And now, Professor, I would like to ask you this: Simultaneously with this procedure -- I will now deal with Jakarina Kosa and Tomasica and the taking of samples from mortal remains. So simultaneously with this, samples are also taken from living relatives who are looking for their missing relatives; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 289,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 288
+    },
+    {
+      "id": 290,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And now, specifically who took the samples from the living relatives in connection with identification of bodies from the Jakarina Kosa grave? And I mean who it was within your system.",
+      "examination": "cross"
+    },
+    {
+      "id": 291,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The way you phrased your last question indicated that you were interested in the names of individuals perhaps, which I don't know. But I will tell you that the sample collection programme involved a great deal of societal outreach and communication, and all those samples were taken by the ICMP in a well co-ordinated central effort. So that would be an effort that we have been well in control of and has been very well managed. The family members have a number of routes by which they can provide samples to the ICMP. They can come to centres that we have set up, offices, and they provide both information that is carefully recorded on forms, as well as the blood sample, and as well as a consent agreement that affords them privacy and assurances of what the profiles and data will be used for. Alternatively -- so over time, there have been a number of places and offices where people could go to meet with ICMP staff to do this. We also have had mobile teams that would go to either communities or specific families in order to collect these things. But in each case they are specifically trained staff in association with the Identification Co-ordination Division that would operate out of Tuzla.",
+      "reply_to": 290
+    },
+    {
+      "id": 292,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know and did you monitor the preservation of the samples taken from the living relatives?",
+      "examination": "cross"
+    },
+    {
+      "id": 293,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I would say the general answer to that question is yes. Those samples immediately came into the custody of the ICMP, were immediately transported to the Identification Co-ordination Division in Tuzla and kept within our forensic system under controlled environmental circumstances.",
+      "reply_to": 292
+    },
+    {
+      "id": 294,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could a problem occur in identifying the multitude of samples which are deposited and preserved there? Or, more precisely, are you aware of any such possible cases?",
+      "examination": "cross"
+    },
+    {
+      "id": 295,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Cases of what exactly, Mr. Stojanovic?"
+    },
+    {
+      "id": 296,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 297,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, when I ask you this, cases, I mean cases of mismatching of samples or wrong numbering of samples taken from living relatives.",
+      "examination": "cross"
+    },
+    {
+      "id": 298,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm sorry for the delay in responding. I'm trying to formulate a useful answer to you. Indeed, when handling tens of thousands of samples that require very precise associations of information, sample identifiers, and processes, you've hit on one of the central challenges to rigorous forensic conduct. With regard to that, I can aver to the Court that the ICMP's quality management systems are absolutely outstanding with regard to this. There are -- there have been in -- as monitored by our quality management system very small numbers of instances where problems will arise due to a sample switch or a mis -- what's the word? - misrecording of a number, something like that, but a couple of things about that. First of all, it's unavoidable. If I try to tell you anything different, it would be -- it would not make any sense. No process would be immune to these kind of things. The numbers involved are staggeringly low, handfuls of cases, virtually all of which have been caught and rectified. Maybe there's some we don't know about. We can only catch the ones that we can catch. But I would like to make the very important point that these kind of errors, should they occur, either frequently or rarely, will have the effect of causing identifications not to be made rather than misidentifications.",
+      "reply_to": 297
+    },
+    {
+      "id": 299,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Does the name Jasmin Odobasic mean anything for you; and do you know this man?",
+      "examination": "cross"
+    },
+    {
+      "id": 300,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know him. I do recognise the name.",
+      "reply_to": 299
+    },
+    {
+      "id": 301,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I will try to present to you very briefly the statement which the Trial Chamber has at its disposal, as do the parties in this trial, in which he, at one point, talked with Mr. Hanson. That was in June 2005. Inter alia, he indicated that with regard to Jakarina Kosa, according to the report on the analysis of DNA done by ICMP, the name of one of the missing persons was registered under two different numbers in the list: Once under JK, under Jakarina Kosa, 0102B; and the next time the body with the same name and father's name is registered under number JK, for Jakarina Kosa, 01 but now 07B. Were you aware of any such errors and how is it possible that they occurred within the system, if there were any?",
+      "examination": "cross"
+    },
+    {
+      "id": 302,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, first of all, let me say that the occurrence that there would be two samples, one labelled JK 0102B and another labelled JK 0107B, which is the only information you've given me, the occurrence of those two corresponding to a single individual with a particular name is not even slightly unusual, given the information that's been presented to this Court, where very frequently we obtained DNA from the same individual from different samples. So I would require more information to have any notion that there was a problem associated with what you just described to me.",
+      "reply_to": 301
+    },
+    {
+      "id": 303,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 304,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I would now ask to see document P7437 in e-court. And if we could please be shown --"
+    },
+    {
+      "id": 305,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Not to be broadcast because it's under seal."
+    },
+    {
+      "id": 306,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, the document is under seal so if it could please not be broadcast. If we could please have page 14 and let us zoom in on the lower part of this page."
+    },
+    {
+      "id": 307,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "And maybe we could use the entire screen for just one picture."
+    },
+    {
+      "id": 308,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I agree, Your Honour, and we need the right-hand bottom corner enlarged."
+    },
+    {
+      "id": 309,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, while preparing for cross-examining you, I looked through the case file and I tried to see these pages, but then I was in a situation that confused me.",
+      "examination": "cross"
+    },
+    {
+      "id": 310,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] If we can focus on the right-hand bottom part we could see it -- uh-huh, yes. Thank you."
+    },
+    {
+      "id": 311,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "It's recorded here that the name of the person which is indicated in the first part and his date of birth, the date when he went missing, and the place where he went missing is indicated as Srebrenica. Can you help us in interpreting or clarifying the situation?",
+      "examination": "cross"
+    },
+    {
+      "id": 312,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Can you please tell me what document I'm looking at?",
+      "reply_to": 311
+    },
+    {
+      "id": 313,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "It's a document, Professor, which the OTP included in the evidence as an ICMP report and now the number is --",
+      "examination": "cross"
+    },
+    {
+      "id": 314,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Can the number --"
+    },
+    {
+      "id": 315,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 316,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "57347, that's the updated list which had you a chance to see today in the examination-in-chief.",
+      "examination": "cross"
+    },
+    {
+      "id": 317,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, if I may start like this: First to zoom in on the first part and then we'll move from left to the right. And please, once again, it's not to be broadcast."
+    },
+    {
+      "id": 318,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "But, Professor, let's start from the beginning of this page.",
+      "examination": "cross"
+    },
+    {
+      "id": 319,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] We need -- yes, that's right."
+    },
+    {
+      "id": 320,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So we see the registration numbers and then the name in the next column. The first name and the father's name are the same.",
+      "examination": "cross"
+    },
+    {
+      "id": 321,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] And if we can move on to the right."
+    },
+    {
+      "id": 322,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And we can see that as it says here - you can move further to the right - according to this, he went missing on the 1st of January, 1992, in Srebrenica.",
+      "examination": "cross"
+    },
+    {
+      "id": 323,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "1993 --",
+      "reply_to": 322
+    },
+    {
+      "id": 324,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I see the date of 1st of January, 1993."
+    },
+    {
+      "id": 325,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, Your Honour, the 1st of January, 1993. And in the heading we can see what this column stands for."
+    },
+    {
+      "id": 326,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Yes, I would need to see the heading, please. Okay. Thank you."
+    },
+    {
+      "id": 327,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 328,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. And can you please help us with this, Professor.",
+      "examination": "cross"
+    },
+    {
+      "id": 329,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I think so. The information that is represented here comes to the ICMP from family members who report their loved one missing to us, and there's a form and a set of questions that is asked on that form where the family member provides the information, and amongst those are date of birth and place of disappearance. So let's keep in mind the diversity and state of the overall population of family members who are affected by the violent death of their loved ones. They can have all kinds of trauma. They are human beings whose memories are perhaps imprecise. And what is represented here is not the result of ICMP's investigatory efforts; in fact, we don't conduct those. As to -- it's simply a record of what the family told us. So what if we had two daughters of a man who left Bosnia during the war, and the last time they saw their father he was in Srebrenica. They've heard nothing since. Maybe they would put: \"Place of disappearance, Srebrenica,\" because that's all the information they had. I don't know. The only thing I know is that this man wound up in a grave in Tomasica.",
+      "reply_to": 328
+    },
+    {
+      "id": 330,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So would it then be correct to conclude that all the information from this table, such as date of birth, date of disappearance, place of disappearance, are documents with which ICMP practically has nothing to do with?",
+      "examination": "cross"
+    },
+    {
+      "id": 331,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "We recorded that information as reported by families. Now, if we're in a situation where there are two families -- members giving us information simultaneously and it's different, then our staff would probably point out the fact that there's an inconsistency and try to resolve that with them. But, in fact, no, we don't -- we don't conduct investigations to verify this information.",
+      "reply_to": 330
+    },
+    {
+      "id": 332,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could I ask you one follow-up question. Looking at this page, I see that I think four or five times the date of disappearance is recorded of the 1st of January of a year, whether that's 1992 or 1993. Is there any such habit, as I experienced in my work, that sometimes if the exact date of an event is unknown, that it is recorded as the 1st of January of that year? Is that something that you experienced? And, again, I'm quite -- I try to be very transparent. I had that in all kind of different cases, not specifically in DNA cases, but wherever dates of -- which were unknown were often put at the 1st of January of a year. Is that something that you experienced as well?"
+    },
+    {
+      "id": 333,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 334,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Therefore, the date, the 1st of January of certain year, would give you suspicion that it may not be the accurate date of the event that is described? Is that -- I'm talking about suspicion, not to say it's inaccurate but ..."
+    },
+    {
+      "id": 335,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Yes, I would agree with your general experience that a preponderance of such recording would suggest to me that the witness had little more information than the fact that that individual went missing in 1993."
+    },
+    {
+      "id": 336,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Thank you. Please proceed, Mr. Stojanovic."
+    },
+    {
+      "id": 337,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, I'm looking at the clock. I think it's time for a break. And when we come back, I think I'll wind it up in the next ten to 15 minutes."
+    },
+    {
+      "id": 338,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. We'll take that break first. Mr. Parsons, we'd like to see you back in 20 minutes. You may now follow the usher."
+    },
+    {
+      "id": 339,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We take a break, and we resume at quarter past 12.00."
+    },
+    {
+      "id": 340,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, the Chamber has considered your request that Sasa Lukic be approved to examine the witness Simo -- I don't think that the name is ..."
+    },
+    {
+      "id": 341,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Simo Tusevljak."
+    },
+    {
+      "id": 342,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Tusevljak, yes. It's spelled a bit differently on the transcript. That he would examine the witness in-chief and the Chamber grants permission for Sasa Lukic to do so."
+    },
+    {
+      "id": 343,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stojanovic."
+    },
+    {
+      "id": 344,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I would now like to have P7437 again. I would like to remind everyone that it is under seal. I'd like to see page 3, please. Page 3. Thank you. I think we can read it now."
+    },
+    {
+      "id": 345,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, I would like to ask you to explain another entry. It is the 16th registered case from the top. Let's focus on the central right part of the table where it reads that the mortal remains of the person -- apparently the person disappeared on the 18th of August, 1993, in Sanski Most. That's right. Perhaps focus on that part. So Sanski Most. Have you managed to find it, Professor?",
+      "examination": "cross"
+    },
+    {
+      "id": 346,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I think I know which one you're referring to.",
+      "reply_to": 345
+    },
+    {
+      "id": 347,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. My first question is this: Bearing in mind your last answer concerning the date of entry, in terms of disappearance, that is, we have a precise date here: The 18th of August, 1993. You, as an ICMP director, do you have any specific knowledge of people being buried in the Tomasica grave after the 18th of August, 1993?",
+      "examination": "cross"
+    },
+    {
+      "id": 348,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I do not.",
+      "reply_to": 347
+    },
+    {
+      "id": 349,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The next question then: The town of Sanski Most, does it tell you anything in terms of any information you may have encountered in the course of your work of people being buried there from Srebrenica or Sanski Most, as the towns designated here as the place of disappearance of certain people?",
+      "examination": "cross"
+    },
+    {
+      "id": 350,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "We've already addressed the fact that this is simply information that we recorded from a family member, and I'm here to testify as an expert with regard to the science that is being presented to the Court. You're asking me to speculate about vague name associations of a town with burials in Srebrenica. I really don't understand what you want me to respond to here.",
+      "reply_to": 349
+    },
+    {
+      "id": 351,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stojanovic, you earlier elicited evidence from this witness in which it was clearly outlined what one could learn from DNA testing and what one could not learn. It's even where I asked the Prosecution whether there was any disagreement on that, such as places or cause of death or -- and the witness clearly said and all parties agreed that that's not something you could learn from DNA testing. I even added to it that it seemed pretty obvious. Now you're asking all kind of questions which apparently ignore what the witness said. Unless, Mr. Parsons, you would disagree with this observation."
+    },
+    {
+      "id": 352,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "I would not."
+    },
+    {
+      "id": 353,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Please proceed."
+    },
+    {
+      "id": 354,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I'll move on, Your Honour."
+    },
+    {
+      "id": 355,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I asked you these questions given your position of ICMP director. In this sense, I would also like to ask you the following --",
+      "examination": "cross"
+    },
+    {
+      "id": 356,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stojanovic, first of all, don't comment on my ruling. Second, carefully consider your next question, whether you're not doing the same as I earlier said you should refrain from doing. Please proceed."
+    },
+    {
+      "id": 357,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I will continue, Your Honour."
+    },
+    {
+      "id": 358,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Parsons, do you know if in the area of Doboj municipality, in terms of storing the samples taken for DNA analysis, there were situations in which some samples were destroyed before any analysis of those was made?",
+      "examination": "cross"
+    },
+    {
+      "id": 359,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I have no information on that.",
+      "reply_to": 358
+    },
+    {
+      "id": 360,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know if there was a need in certain cases to re-exhume the mortal remains previously buried for another sampling that could be used for DNA analysis?",
+      "examination": "cross"
+    },
+    {
+      "id": 361,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't have the details with regard to the cases in question on this list, but that is something that is conducted with some frequency throughout our work.",
+      "reply_to": 360
+    },
+    {
+      "id": 362,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Can we have in e-court document 1D1123, please."
+    },
+    {
+      "id": 363,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, this is the statement of the person who, at the time of giving the statement, was the head of the federal commission for tracing missing persons. He provided the statement to an OTP investigator.",
+      "examination": "cross"
+    },
+    {
+      "id": 364,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Let us focus on page 8 in the B/C/S, paragraph 33, and page 6 in the English version."
+    },
+    {
+      "id": 365,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In the statement provided to the OTP investigator, the witness, inter alia, said the following. As the head of the federal commission for tracing missing persons, he knew that in the area of Prijedor there were re-exhumations taking place due to mistakes in the identification process. He goes on to say: \"They were buried as unidentified three or four years ago, but, firstly, the DNA samples that were taken before reburial were destroyed due to improper storage; and, secondly, the classical ID method was not done in a proper way.\" As an ICMP director, did you have information concerning situations such as this one?",
+      "examination": "cross"
+    },
+    {
+      "id": 366,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, your English phrasing -- the English phrasing that I received in your last sentence permits me to answer in a literal terms, is that I am -- that situations such as those alleged here - I have no information about these particular allegations of Mr. Odobasic - do occur in the course of our work in the Western Balkans. There were many efforts undertaken at many points in the post-war era to identify individuals. Many of those involved traditional identifications by any number of people to include family members themselves identifying who they think are their family members and burying them. And in the course of our work, it -- previous misidentifications, mis-associations, come up when we apply the exact and very strong evidence of DNA science that indicate that -- that checking of previous work may need to be done and that past errors may have been done.",
+      "reply_to": 365
+    },
+    {
+      "id": 367,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, is Ms. Eva Klonowski an ICMP employee?",
+      "examination": "cross"
+    },
+    {
+      "id": 368,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "She had been for some number of years up until just about the point that I joined the ICMP.",
+      "reply_to": 367
+    },
+    {
+      "id": 369,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could I ask one follow-up question to one of the previous questions. The previous question was: \"Did you have information concerning situations such as this one,\" which is a pretty vague question. Now, one of the elements included was that due to improper storage, that samples were destroyed. Are you familiar with that situation as well? I'm asking you this also in view of one of the previous answers."
+    },
+    {
+      "id": 370,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "I'm just trying to search my memory for those kind of circumstances. No, I can't think of any other situations where that would have happened."
+    },
+    {
+      "id": 371,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Mr. Stojanovic, for that reason, it's always good not to put everything in one bunch together and -- but rather take matters one by one. And, further, you are -- it's implicit more or less in your question that this has directly to do with ICMP storage, for example. Is that clear from the statement? And would you perhaps sit together with Mr. McCloskey and find out to what extent the implicit suggestion that criticism here is expressed on the work of the ICMP, whether that is accurate or not. Because the witness was read only one line of -- one paragraph of a statement without the context. For the time being, please proceed."
+    },
+    {
+      "id": 372,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] With pleasure, Your Honour. I'll sit down with Mr. McCloskey and deal with these issues. With your leave, can we have another page in this document, the page being number 5 in the English and 7 in the B/C/S; paragraph 27."
+    },
+    {
+      "id": 373,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The same official of the Federal Commission for Missing Persons Institute in his statement provided to the OTP goes on to say as follows: \"One of the bigger mistakes during the Bosanska Krajina exhumations was that the ICMP handed over the Sejkovaca hall with 1.000 bodies to one incompetent physician who had never worked on such jobs. This was Eva Klonowski's assistant, Nermin Sarajlic. He never carried out a single independent autopsy or exhumation.\" During your tenure with the ICMP, did a physician by the name of Nermin Sarajlic work for the ICMP?",
+      "examination": "cross"
+    },
+    {
+      "id": 374,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, Nermin Sarajlic worked at the KIP facility in Sanski Most as an ICMP employee.",
+      "reply_to": 373
+    },
+    {
+      "id": 375,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please tell the Court what were his tasks.",
+      "examination": "cross"
+    },
+    {
+      "id": 376,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know the breadth of his task but he was involved in mortuary management, examination of the bodies and sampling for DNA testing.",
+      "reply_to": 375
+    },
+    {
+      "id": 377,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If you have any experience with the physician, would it tend to confirm the opinion of the head of the Federal Commission for Missing Persons?",
+      "examination": "cross"
+    },
+    {
+      "id": 378,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 377
+    },
+    {
+      "id": 379,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Witness, could I ask you one follow-up question, which I would have expected before the last one. Was the -- performing autopsies or doing exhumations, was that part of the job of Nermin Sarajlic?"
+    },
+    {
+      "id": 380,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "My belief is that Nermin is a forensic pathologist with also training in anthropology, so he would be more engaged in the mortuary examination of the remains as opposed to the exhumation and recovery, if my knowledge is correct."
+    },
+    {
+      "id": 381,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And would you expect autopsy to be part of what you described as mortuary examination of the remains?"
+    },
+    {
+      "id": 382,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 383,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, thank you. Then perhaps one more question. Do you have any knowledge about whether he ever did an independent autopsy or whether he never did that?"
+    },
+    {
+      "id": 384,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "I think there's an issue of some timing here. I don't know when this -- these statements were made in relation to Dr. Sarajlic's experience. But, generally speaking, I would think that that is not a true statement."
+    },
+    {
+      "id": 385,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, the statement was taken, Mr. Stojanovic, if you would permit me, in 2005. Does that in any --"
+    },
+    {
+      "id": 386,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Yeah, I'm -- I don't want to go beyond my knowledge. It would surprise me greatly if that were true in 2005 but --"
+    },
+    {
+      "id": 387,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "It would suffice or surprise you --"
+    },
+    {
+      "id": 388,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "It would surprise me if this statement were correct."
+    },
+    {
+      "id": 389,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Please proceed."
+    },
+    {
+      "id": 390,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 391,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Professor, if experts wishing to assist the Defence had the need to carry out analysis of the report created by the ICMP with regard to matching and identification and the number of bodies, would they be able to access all necessary evidence material for them to be able to perform such a task today?",
+      "examination": "cross"
+    },
+    {
+      "id": 392,
+      "speaker": "THOMAS PARSONS [Recalled]",
+      "role": "witness",
+      "type": "answer",
+      "text": "You make reference to the report, and the answer theoretically is yes, that evidence exists. Would they be able to perform such a task would depend on agreements that were made. So we have some context here to answer that question. In the trial of Radovan Karadzic, a great deal of issue was made with regard to access to the DNA data and the scientific underpinnings of the DNA match reports of the ICMP, and we worked extensively with Defence and the Office of the Prosecutor to designate a representative sampling of DNA match reports representing different periods of time, different geographical regions, et cetera, to permit Defence to have reviewed those DNA case files. It's of critical importance in this aspect that these were only turned over to Defence under very narrow and negotiated conditions and, moreover, only with consent of all family members involved in the DNA match reports. The last part is very crucial, and so we went to vast amounts of effort to reach out to family members to ask them if they would be willing for their genetic and personal information to be released to the Court to permit Defence counter-examination, and we were very successful in obtaining a representative sampling of that -- of case files that were submitted to the Court.",
+      "reply_to": 391
+    },
+    {
+      "id": 393,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Professor. At this point, we have no further questions of you.",
+      "examination": "cross"
+    },
+    {
+      "id": 394,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. Stojanovic. Mr. McCloskey, any further questions for the witness?"
+    },
+    {
+      "id": 395,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No, Mr. President."
+    },
+    {
+      "id": 396,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Parsons, the Judges have no further questions for you either, which means that this concludes your evidence in this court. I may have said the same last time when you were here, and then it turned out not to be true because it did not conclude the evidence. Nevertheless, I wish you a safe return home again, and thank you very much for coming to The Hague."
+    },
+    {
+      "id": 397,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Thank you very much, Your Honours."
+    },
+    {
+      "id": 398,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "You may follow the usher."
+    },
+    {
+      "id": 399,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "No -- no speaking aloud. Mr. Stojanovic and/or Mr. Ivetic, I think we could now continue to hear the testimony and cross-examination of Mr. Franjic."
+    },
+    {
+      "id": 400,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's our understanding as well."
+    },
+    {
+      "id": 401,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Could -- I see the usher has left the courtroom so I don't know what initiative ..."
+    },
+    {
+      "id": 402,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. McCloskey."
+    },
+    {
+      "id": 403,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, and if I could be excused, Mr. President. Thank you."
+    },
+    {
+      "id": 404,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "You are excused."
+    },
+    {
+      "id": 405,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ivetic, not having reviewed the time sheets, is it a fair assumption that you would need at least the rest of this day?"
+    },
+    {
+      "id": 406,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's correct. And probably some -- I think it was 15 or 20 minutes tomorrow as well."
+    },
+    {
+      "id": 407,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. It's mainly for the next witness, that there's no need to have the next witness to remain on standby."
+    },
+    {
+      "id": 408,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I believe the next witness was actually already excused based upon my conversations with the Prosecution previously."
+    },
+    {
+      "id": 409,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. Then there's no problem there."
+    },
+    {
+      "id": 410,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Franjic, please be seated."
+    },
+    {
+      "id": 411,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 412,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Franjic, at the beginning of your testimony, you gave a solemn declaration that you'll speak the truth, the whole truth, and nothing but the truth. That solemn declaration is still binding upon you. Mr. Ivetic will now continue his cross-examination. Please proceed."
+    },
+    {
+      "id": 413,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 414,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, we left off talking about your first report, P7434 MFI, and we were at page 102 in the English and page 64 in the B/C/S, which we could call up just to refresh everyone's recollection.",
+      "examination": "cross"
+    },
+    {
+      "id": 415,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Jeremy."
+    },
+    {
+      "id": 416,
+      "speaker": "MR. JEREMY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good afternoon, Your Honours. Just to say we've got the colour copies of Mr. Franjic's report so --"
+    },
+    {
+      "id": 417,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's fine."
+    },
+    {
+      "id": 418,
+      "speaker": "MR. JEREMY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "-- perhaps it might make sense to give them out to him. With the assistance of the usher, please."
+    },
+    {
+      "id": 419,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Do you need to inspect them --"
+    },
+    {
+      "id": 420,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No, we did that last -- last time."
+    },
+    {
+      "id": 421,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "If it's the same."
+    },
+    {
+      "id": 422,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I trust them."
+    },
+    {
+      "id": 423,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 424,
+      "speaker": "MR. JEREMY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It's the same."
+    },
+    {
+      "id": 425,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The witness can be given the ... you may directly give it to the witness, Mr. Usher."
+    },
+    {
+      "id": 426,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And as you recall, sir, we left off talking about the lack of any comparison photographs or photomicrographs in your report for the part dealing with your conclusions from your analysis. The question I want to start with today is: Do you believe that your practice of not including photographs or photomicrographs of positive matches is in compliance with industry standards for this type of review as would be undertaken by other AFTE members?",
+      "examination": "cross"
+    },
+    {
+      "id": 427,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It all depends on a case-to-case basis. Members of the AFTE sometimes do not include photographs of matches, as you put it, in their reports or comparisons of microscopic traces of ejectors with traces of the firing pin and so on. It all depends on the policy of the laboratory which has asked for this analysis.",
+      "reply_to": 426
+    },
+    {
+      "id": 428,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What is the policy of the laboratory that you operate under for other cases apart from the Tomasica investigation? Do you provide photographic or photomicrographic comparisons of matches that have been determined?",
+      "examination": "cross"
+    },
+    {
+      "id": 429,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It all depends on the expert who is doing the expert analysis. As I stated here, individual characteristics have been explained by comparison of cartridges. As I say, there are seven cartridges of 7.62 millimetre by 39 millimetre characteristics. Joint and individual characteristics have been established and then I list the individual characteristics. The micro ridges, the traces of the breech face and so on. There are --",
+      "reply_to": 428
+    },
+    {
+      "id": 430,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Can the witness please slow down."
+    },
+    {
+      "id": 431,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Witness, could you please slow down because the interpreters have difficulties in following you. Please proceed."
+    },
+    {
+      "id": 432,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I apologise. So I have described that in addition to common characteristics which are manifested as common micro ridges, that is to say, the common form and position of the traces of the firing pin, the breech face, the ejector, the extractor, and the case cover, that common individual characteristics were also established which are manifested in the form of common micro ridges within the traces of the ejector, the breech face, and the case cover."
+    },
+    {
+      "id": 433,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, sir, your answer has dealt with the characteristics of a cartridge. Taking into account both cartridges and bullets, are you in a position to state what methodology and process was used by you, such as the minimum number of matching general individual characteristics or marks when compared with a known fired sample before reaching a determination of a match?",
+      "examination": "cross"
+    },
+    {
+      "id": 434,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "A comparison was made here of seven. Let's take these seven as an example. Seven disputed cartridges, bullets of 7.62 by 39 millimetre calibre, 8B, 9B, 36B, 38B, 42B, and from body number TOM-04-PRD-302T and from the body --",
+      "reply_to": 433
+    },
+    {
+      "id": 435,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, I'm going to stop you. We see all that in your report. What I'm asking is what's not in your report. What was the minimum number of matching general individual or other characteristics that was necessary in your comparison for you to conclude that either two cartridges matched or two spent bullets matched?",
+      "examination": "cross"
+    },
+    {
+      "id": 436,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "By contrast with identification of bullet and fragments of bullets which is made on the basis of common individual characteristics, such as common micro ridges, grooves, lands and grooves and their traces, where we can talk about the number of possible individual characteristics, identification of cartridges fired from a fire-arm is done based on common general and individual characteristics. So we then have also the trace of the firing pin and the trace of the breech face, the trace of the ejector, the trace of the extractor, the trace of the case cover, the trace of the bedding of the bullet, the trace of the clip. There are therefore several traces on the basis of which both general and individual identification is made. In the finding, common individual characteristics were established within the traces of the ejector, the breech face, and the case cover in the form of micro-rough surfaces, so it can be concluded with certainty that they were fired from one and the same fire-arm. As I stated previously, in addition to the expert report of the 7th of May, 2014, enclosed are all the cases that were analysed during the expert analysis, including the 18 disputed cartridges, so that what we are talking about now can be checked there.",
+      "reply_to": 435
+    },
+    {
+      "id": 437,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, sir, your report has been submitted to us as evidence, and I'm asking about your report. Where can we find in your report the number of characteristics that were matched for each of the cartridges and each of the bullets that you matched and said were fired from an either similar type of gun or similar gun?",
+      "examination": "cross"
+    },
+    {
+      "id": 438,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "There is no number here. The number of traces, as you say.",
+      "reply_to": 437
+    },
+    {
+      "id": 439,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, in a proofing note we received from the Prosecution on the 23rd of June, 2015, we, for the first time, learned that you not only manually examined bullets but that you also utilised a computer database as a way to ensure that no potential matches were missed. First of all, can you tell us why that information about the use of a computer database is not contained in your reports?",
+      "examination": "cross"
+    },
+    {
+      "id": 440,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "On page 5 of the written report on the analysis, in the section ballistics forensic analysis, the first paragraph says: \"The analysis was conducted by visually examining, measuring, weighing, using a Nikon SMZ1000 and Olympus SZX12 stereo microscope, then Leica FS C and Zrak MK-1 comparative microscopes, and by using various databases, et cetera.",
+      "reply_to": 439
+    },
+    {
+      "id": 441,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, sir --",
+      "examination": "cross"
+    },
+    {
+      "id": 442,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "This can be found in the English version on page 11."
+    },
+    {
+      "id": 443,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 444,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, sir, would you agree with me that neither the Nikon SMZ1000, nor the Olympus microscope, nor the Leica, nor Zrak MK-1 refer to a computer?",
+      "examination": "cross"
+    },
+    {
+      "id": 445,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, of course.",
+      "reply_to": 444
+    },
+    {
+      "id": 446,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you also agree that the identification of what computer software and system you used is essential to determining the reliability of any comparisons made by a computer?",
+      "examination": "cross"
+    },
+    {
+      "id": 447,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let's try to get things straight. Witness, before you answer that question, when you said that you used various databases, were these databases just hard copies or were they stored in any computer?"
+    },
+    {
+      "id": 448,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Both hard copies and on computer."
+    },
+    {
+      "id": 449,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "When you referred to having used computer databases, did you refer to the same or to different databases as you mentioned in your report? In your -- in ..."
+    },
+    {
+      "id": 450,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] By using various databases, including both those in hard copy and softwares. That is to say, computer databases."
+    },
+    {
+      "id": 451,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "How -- how did you use those computer databases? Did you -- was the -- were these programmes used for seeking matches based on that software, or did you consult those databases for the main characteristics of the cases and the bullets?"
+    },
+    {
+      "id": 452,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] They were primarily used in order to establish whether the disputed cartridges were fired from one fire-arm or from multiple fire-arms. That was why comparative microscope was used."
+    },
+    {
+      "id": 453,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I'm not, at this moment, talking about the use of microscope. My question is focused on how did you use those databases? Were those databases used as reference materials, or was it used in order to -- computerised comparison?"
+    },
+    {
+      "id": 454,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If I may assist, Your Honour. It might help to ask if it was automated or not. That might be a quicker way of getting to that."
+    },
+    {
+      "id": 455,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Thank you very much, Mr. Ivetic. Whether it was automatised through this software, automatised identification, or did you use those databases as reference materials such as then providing measurements, numbers, et cetera."
+    },
+    {
+      "id": 456,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] No automatised search of cartridges and rounds such as the IBIS system and others was used. No automatised systems, but data such as general rifling characteristics, where information is to be found for more than 20.000 different sorts of fire-arms of various calibres. It includes data on -- as for rounds, calibre, the number of lands and grooves, the direction and spiralling angle of the traces of lands and grooves, the width of lands and grooves."
+    },
+    {
+      "id": 457,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think you've answered my question. Perhaps there was more in those databases but this is the type of information you found there. Mr. Ivetic, please proceed."
+    },
+    {
+      "id": 458,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 459,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, getting back to the report that we have in front of us, and let's talk -- let's first deal with the seven disputed 7.69 by 39 millimetre cartridges that you concluded came from the same fire-arm but you could not determine if they came --",
+      "examination": "cross"
+    },
+    {
+      "id": 460,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Excuse me, you mean 7.62.",
+      "reply_to": 459
+    },
+    {
+      "id": 461,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes, I do. 7.62. And you determined that they came from Kalashnikov rifle -- pardon me. They could have come from a Kalashnikov rifle, an M70 rifle, or an M72 rifle machine-gun. Is it because all three of these classes of fire-arms have similar general characteristics in terms of the breech firing pin and the ejector, the reason why you could not further narrow the potential source of those fired cartridges?",
+      "examination": "cross"
+    },
+    {
+      "id": 462,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it is. They all have common general characteristics. The position and the pattern of the trace of firing pin, the trace of the breech face, the extractor, ejector, and the trace of the indication cover.",
+      "reply_to": 461
+    },
+    {
+      "id": 463,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Now, if we turn to page 21 in the English and page 13 in the B/C/S."
+    },
+    {
+      "id": 464,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And at the bottom of the page, I believe you detail the review of these cartridges and you say that you microscopically reviewed them against undisputed cartridges fired from an M70 and an M72. First of all, did you or someone else test fire and recover known sample cartridges for these two weapons or did you use some sort of computer or other database for your known sample?",
+      "examination": "cross"
+    },
+    {
+      "id": 465,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "At the Centre for Forensic and Information Support of the Federal Police Administration in the Section for Ballistics and Mechanoscopic Analysis, there are collections of undisputed cartridges and undisputed rounds which were received during test firings from fire-arms, which is the subject of expert analysis, so that this collection contains hundreds of thousands of cartridges and rounds originating from bullets fired from automatic rifles of the Kalashnikov type and also M70 and M72 machine-gun and others.",
+      "reply_to": 464
+    },
+    {
+      "id": 466,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm glad that you mentioned the --",
+      "examination": "cross"
+    },
+    {
+      "id": 467,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Microphone, please."
+    },
+    {
+      "id": 468,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It is."
+    },
+    {
+      "id": 469,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm glad that you mentioned the Kalashnikov. Your conclusion could not exclude -- also link the Kalashnikov as a possible source for this -- for these cartridges, but nowhere in your report do I see that you reviewed microscopically a known Kalashnikov bullet or cartridge with these in order to reach such a determination. Did you, in fact, review with a known sample of a test-fired Kalashnikov cartridge?",
+      "examination": "cross"
+    },
+    {
+      "id": 470,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Over the last 18 years, as long as I've been working on ballistic forensic analysis, I examined thousands of undisputed cartridges fired from Kalashnikovs.",
+      "reply_to": 469
+    },
+    {
+      "id": 471,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Witness, I think you're perhaps missing the gist of the question. In your report, you say that you compared 37B, 44B, 45B, 47B, 49B, and 56B with undisputed cartridges of bullets fired from the Crvena Zastava rifle. The question I think Mr. Ivetic is a seeking an answer for is: Did you also compare these cartridges with undisputed cartridges of other arms, such as arms of the Kalashnikov type?"
+    },
+    {
+      "id": 472,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, I did."
+    },
+    {
+      "id": 473,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ivetic, I think that was primarily your question, if --"
+    },
+    {
+      "id": 474,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Microphone not activated]"
+    },
+    {
+      "id": 475,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Please proceed."
+    },
+    {
+      "id": 476,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And then the other part of that was: Why is that not listed in this section of the report, which particular type of Kalashnikov weapon whose spent cartridge from a known sample you reviewed, since there is an entire family of Kalashnikovs with various characteristics?",
+      "examination": "cross"
+    },
+    {
+      "id": 477,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "All cartridges of bullets of the 7.62 by 39-millimetre calibre, as I already stated, have common general characteristics, including Kalashnikov, AK-47, AKM, the AKMS model, of various manufacturers, be they Russian produced or Romanian, Bulgarian, East Germany produced, and others. Therefore, it was not necessary to compare undisputed cartridges with undisputed cartridges. So all these cartridges of the 7.62 by 39-millimetre calibre have identical general characteristics.",
+      "reply_to": 476
+    },
+    {
+      "id": 478,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you therefore then agree that in order to link two cartridges as being fired from the same type of fire-arm, we would need to look at individual characteristics rather than these general class characteristics; and in doing so, it is customary to identify, by way of comparison photograph or number of minimum matching marks, those which these specific cartridges have in common which other cartridges fired from similar guns of the same calibre would not have?",
+      "examination": "cross"
+    },
+    {
+      "id": 479,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think you are mistaken. You're mixing up the comparison of general versus individual characteristics. In my report, I stated that the mutual comparison, for example, of seven cartridges of 7.62 by 39-millimetre calibre, in addition to common general characteristics, also common individual characteristics were found. Comparing the seven cartridges with undisputed cartridges resulted in some general common general characteristics being established. There were no individual characteristics involved as well as their number.",
+      "reply_to": 478
+    },
+    {
+      "id": 480,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could I just try to -- before we take the break. Witness, what Mr. Ivetic apparently wants to know is if you compared the six disputed cartridges with the Crvena Zastava, and if you compared them with other types of weapons as well, including Kalashnikov, why did you only report that the common characteristics matched the common characteristics of the Crvena Zastava and why didn't you say anything about the outcome of the other comparisons you have made with other types of weapons, including Kalashnikovs? That's the question, I think, Mr. Ivetic. Could you please answer that question."
+    },
+    {
+      "id": 481,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] As for the six cartridges you just mentioned, 37B, 44B, 47B, 49B, and 56B, in addition to common general characteristics, some common individual characteristics were found as well. On that basis, it can be concluded that they were fired from one and the same fire-arm. And then in the paragraph on page 14 of the expert analysis, it is stated that by detailed microscopic examination and by comparison of these six disputed cartridges with undisputed cartridges originating from bullets fired from semi-automatic rather than automatic rifle of Crvena Zastava make, M57/66, common general characteristics were found which manifest themselves as common shape and mutual position of imprints of traces of the ejector, cartridge extractor, the firing pin, and the face. In the opinion, which can be found on page 64 of the expert analysis, it is stated that the six disputed cartridges of 7.62 by 39-millimetre calibre, marked as 37B, 44B, 45B, 47B, 49B, and 56B, originate from bullets fired from one and the same fire-arm."
+    },
+    {
+      "id": 482,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could I stop you there. I think, perhaps, Mr. Ivetic, but certainly myself, do not understand that if those six cartridges were fired by the same fire-arm on the basis of individual characteristics found on those cartridges, why that necessarily is from a Crvena Zastava rifle rather than, for example, a Kalashnikov, all six cartridges fired by that Kalashnikov, which, if I understand you well, has the same general characteristics."
+    },
+    {
+      "id": 483,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] No, they do not have common general characteristics as the cartridges of 7.62 by 39-millimetre calibre rounds or bullets as the cartridges fired from Kalashnikov automatic rifles."
+    },
+    {
+      "id": 484,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I -- we take a break first, and then I leave it in your hands, Mr. Ivetic, to finally clarify the issue which apparently puzzles you and puzzles me to some extent as well. We take a break. We'd like to see you back in 20 minutes, and that will be quarter to 2.00."
+    },
+    {
+      "id": 485,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We resume at quarter to 2.00."
+    },
+    {
+      "id": 486,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ivetic, you may proceed."
+    },
+    {
+      "id": 487,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 488,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I will try to go step by step to clear up the matter that was first raised by Judge Orie's questions to you. Before I do that, sir, would you agree with us, with me at least, that explaining to the Judges and to I [sic] and to another expert would be much easier if you had comparison photographs or photomicrographs contained in your report clearly identifying those marks which you relied upon to confirm a match?",
+      "examination": "cross"
+    },
+    {
+      "id": 489,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I agree. I agree.",
+      "reply_to": 488
+    },
+    {
+      "id": 490,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If we could now turn to 1D5461 in e-court. 1D5461."
+    },
+    {
+      "id": 491,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "You see the message on the screen, Mr. Ivetic?"
+    },
+    {
+      "id": 492,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I do and I have it open on my e-court on the other screen, so I don't know ..."
+    },
+    {
+      "id": 493,
+      "speaker": "MR. JEREMY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, I can also see it on my e-court screen, so it might be a court-related problem."
+    },
+    {
+      "id": 494,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "But he says it is open on his screen."
+    },
+    {
+      "id": 495,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "As counsel said, it is opening on his as well."
+    },
+    {
+      "id": 496,
+      "speaker": "MR. JEREMY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I think maybe they're our personal e-court screens rather the court's e-court screen."
+    },
+    {
+      "id": 497,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Could it be that there is some kind of release necessary to get it us to as well, instead of having it available for the parties?"
+    },
+    {
+      "id": 498,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Only."
+    },
+    {
+      "id": 499,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That I don't know. I thought if it was released to the Prosecution and -- that the Court are the same entity, but let me see if I can try and find an alternative."
+    },
+    {
+      "id": 500,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "If Mr. Registrar could assist that would be -- there we are. We have it on our screen."
+    },
+    {
+      "id": 501,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 502,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, sir, this is a brochure that I found on the web site of the Unis Igman d.d. company. Would you agree that this is the same company that you referred to in your report as Igman Konjic as the manufacturer of the 7.62 by 39-millimetre cartridges that we have been talking about?",
+      "examination": "cross"
+    },
+    {
+      "id": 503,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it is. But the year of production is different. Or other years of production. These are newer bullets whereas the cartridges date back to the 1980s.",
+      "reply_to": 502
+    },
+    {
+      "id": 504,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And right now we're talking about the cartridges. I'd like to turn to page 2 which should related to the M67 ball, which I believe is a type of bullet you talked about in your report. And here, according to the manufacturer, we see that this cartridge --",
+      "examination": "cross"
+    },
+    {
+      "id": 505,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could we first seek verification of your assumption, Mr. Ivetic. You said you believe \"this is a type of bullet you talked about in your report.\" Is this the type of bullet or even the bullet you talked about in your report, Witness?"
+    },
+    {
+      "id": 506,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, it is. It is a bullet of 7.62 by 39-millimetres calibre, and its round is M67."
+    },
+    {
+      "id": 507,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Now, earlier you made a comment about the year of production. Is -- where -- was this projectile, was this produced in the same years as the projectiles you examined?"
+    },
+    {
+      "id": 508,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] The projectiles I examined are such that one cannot establish year of production. Year of production can only be ascertained according to the markings made on the bottom of the 18 cartridges."
+    },
+    {
+      "id": 509,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Well, I don't know whether we can see here what is on the bottom or not. But please proceed, Mr. Ivetic."
+    },
+    {
+      "id": 510,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If I can try to assist."
+    },
+    {
+      "id": 511,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, is it correct that in your analysis you identified certain cartridges with the Cyrillic letters I and K and concluded that they came from Igman Konjic of various years of manufacture from 1976 to approximately 1983 in your first report? Is that a fair rendition of what you contain in your report?",
+      "examination": "cross"
+    },
+    {
+      "id": 512,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. But not INK, but IK. The Cyrillic designation was IK.",
+      "reply_to": 511
+    },
+    {
+      "id": 513,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mm-hm.",
+      "examination": "cross"
+    },
+    {
+      "id": 514,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "All of the cartridges had the IK inscription in Cyrillic except for one. In Latinic script, it said PKI 1894 [as interpreted].",
+      "reply_to": 513
+    },
+    {
+      "id": 515,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "cross"
+    },
+    {
+      "id": 516,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "1984. 1984.",
+      "reply_to": 515
+    },
+    {
+      "id": 517,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Now in looking at what is reported in this brochure as the use for this round, we see the semi-automatic rifle M59/66, the automatic rifle M70, the light machine-gun M72, and weapons 7.62 Kalashnikov AK-47 SKS and RPK. Would you agree with this publication that this particular cartridge when attached with this particular bullet can be fired from all of the weapons that are listed here that I've just read out to you?",
+      "examination": "cross"
+    },
+    {
+      "id": 518,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 517
+    },
+    {
+      "id": 519,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And now I think to clarify the point where you and Judge Orie had confusion, I believe you were earlier saying that the M59 semi-automatic rifle, M59/66, can be distinguished from automatic rifles firing the same round because of different ejector marks. Am I generally speaking correct about what you were trying to explain before the break?",
+      "examination": "cross"
+    },
+    {
+      "id": 520,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "There was no confusion in my mind whatsoever.",
+      "reply_to": 519
+    },
+    {
+      "id": 521,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I agree --",
+      "examination": "cross"
+    },
+    {
+      "id": 522,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "But, again, I do not understand your question. Please repeat.",
+      "reply_to": 521
+    },
+    {
+      "id": 523,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could I try again, Mr. Ivetic --"
+    },
+    {
+      "id": 524,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes --"
+    },
+    {
+      "id": 525,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And I think we're both trying to fully understand the evidence of this witness. Did you tell us that the markings left on this projectile, when fired by an M59/66 are different from the markings left on this projectile, and that is bullet together with cartridge, when fired by an M70 and M72 or the Kalashnikov AK-47 SKS or RPK?"
+    },
+    {
+      "id": 526,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] There's no difference in terms of markings on the rounds and projectiles fired from a semi-automatic rifle, M59/66, and rounds fired from automatic rifles M70, a light machine-gun, M72, and the automatic rifles Kalashnikov. So one cannot identify which weapon was used to fire it because they share the same common general characteristics, but only when we discuss markings or traces on the rounds as opposed to the cartridges fired from those weapons."
+    },
+    {
+      "id": 527,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. So you say on the cartridge, you cannot distinguish whether it was fired by any of those weapons; but if you have the round itself, then you can distinguish which type of weapon was used, which of those four was used when firing that round? Is that --"
+    },
+    {
+      "id": 528,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] It's the other way around. In terms of bullets it cannot be done; in terms of cartridges it can."
+    },
+    {
+      "id": 529,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. That's now clarified. So if you see such a cartridge, you could know whether it was fired by an M59/66 or by any of the other weapons mentioned here?"
+    },
+    {
+      "id": 530,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, that's correct."
+    },
+    {
+      "id": 531,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ivetic, I leave it further in your hands."
+    },
+    {
+      "id": 532,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 533,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just one question before this we go on to another area. Now relation to the automatic weapons chambered for 7.62 by 39-millimetre round, you cannot tell if those cartridges were fired from a Crvena Zastava Kalashnikov-type rifle or a Kalashnikov-type rifle manufactured by someone else, such as a Chinese-type 56 or the Czech VZ-58, can you?",
+      "examination": "cross"
+    },
+    {
+      "id": 534,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct, it cannot be done.",
+      "reply_to": 533
+    },
+    {
+      "id": 535,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 536,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Can we -- if this is in e-court now, can we ask for it to be tendered as a -- perhaps even -- perhaps MFI'd if it's not, so we can sort out what pages are in e-court, if we need all of them, et cetera. It's about a four-page document but I'm only really concerned about the first page which shows the source --"
+    },
+    {
+      "id": 537,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. We'll reserve a number. You'll decide what pages you need. The Prosecution has an opportunity to add anything. And then we'll decide on admission once it has been uploaded."
+    },
+    {
+      "id": 538,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 539,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Registrar, the number would be reserved would be?"
+    },
+    {
+      "id": 540,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Will be D1085, Your Honours."
+    },
+    {
+      "id": 541,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "D1085 is admitted into evidence."
+    },
+    {
+      "id": 542,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If we can take a look at 1D5466."
+    },
+    {
+      "id": 543,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "That number, as I said before, is reserved for this exhibit still to be further defined and uploaded."
+    },
+    {
+      "id": 544,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ivetic, can you repeat the number again? It doesn't look like the same on the screen."
+    },
+    {
+      "id": 545,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Your Honours. 1D5466."
+    },
+    {
+      "id": 546,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, sir, this is a publication entitled: A survey of image processing techniques and statistics for ballistic specimens in forensic science. And it's from the Science & Justice journal, January 2012. I would like to look at page 5 together. And, first of all, if we look at the figure in the upper right-hand part of the page we see a diagram of a microscope. Does Figure 5 comport to the set-up that is typically used to perform the analysis and comparison of known to unknown cartridges as well as bullet rounds, with a camera mounted on the top of the microscope, then an eye piece, then an optical bridge connecting two sets of objective lenses, and then the stage holding the sample on the one side and the disputed on the other?",
+      "examination": "cross"
+    },
+    {
+      "id": 547,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it is.",
+      "reply_to": 546
+    },
+    {
+      "id": 548,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And is this the type of set-up that you used in your laboratory performing this analysis?",
+      "examination": "cross"
+    },
+    {
+      "id": 549,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, much the same way.",
+      "reply_to": 548
+    },
+    {
+      "id": 550,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ivetic, I noted that both this document but also the previous one apparently have no English -- no B/C/S translations."
+    },
+    {
+      "id": 551,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's correct."
+    },
+    {
+      "id": 552,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Now there are two issues. First of all, whether the Defence can live with a -- the absence of any B/C/S version but also whether the public can live with it. Because it's the -- the public character of this -- of this trial has both an internal and an external aspect. The internal aspect apparently seems to be no problem for you, but the external aspect, of course, is a bit different. The public can't follow what is said here. So if you would please also look at that when further --"
+    },
+    {
+      "id": 553,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I will, Your Honour. And I think you'll see that the ones that I'm using now are more pictures and I will read any text that I'm relying upon. But definitely with ones that are more substantive in nature we will want to have a translation, I think."
+    },
+    {
+      "id": 554,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "If it mainly about the pictures, then, of course, it's less of a problem."
+    },
+    {
+      "id": 555,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. If we could turn to the next page in this document and look at figure number 6 on the page at the top."
+    },
+    {
+      "id": 556,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "We have been talking about comparison photomicrographs. The top, I believe, are two such images: The one on the left of a round that has been fired and the one on the right of the cartridge that has been fired. Is that correct, sir?",
+      "examination": "cross"
+    },
+    {
+      "id": 557,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. Because on the left-hand side, we have a comparative photograph of two rounds, and on the right-hand side, a comparative photograph of two cartridges. So not one but two.",
+      "reply_to": 556
+    },
+    {
+      "id": 558,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And earlier you said you had taken photographs for purposes of the analysis did you in Tomasica. Did you take photographs and preserve photographs of this nature comparing two cartridges or two rounds in a photograph or photomicrograph?",
+      "examination": "cross"
+    },
+    {
+      "id": 559,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It was compared but it wasn't photographed.",
+      "reply_to": 558
+    },
+    {
+      "id": 560,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Now, if we could turn back to the prior page, I'd like to focus on the right-hand column and the second full paragraph on the right-hand column, the third paragraph in total, and I'll read it to you so you get a translation. It says as follows: \"As this paper is principally concerned with the identification of striae, identification of two bullets to a common source will be used as a first example. As the two bullets are aligned, the investigator looks for how well the striae are lined and the similarity in their width and amplitude. The test is considered a match if two fire-arm examiners concur that it is a match, as specified in the Association of Fire-arm and Tool Mark Examiners Theory of Identification.\" And that's the end of the citation. Sir, do you agree with this publication that the identification method as prescribed by the AFTE requires two fire-arm examiners to agree on a match after looking at the comparison before determining a match has been made?",
+      "examination": "cross"
+    },
+    {
+      "id": 561,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "What you quoted here refers to rounds, so the striae or the grooves are the traces on rounds within the traces of lands and grooves. In my report, I did not mention the striae but only the traces of lands and grooves which are appropriate for a general identification, but they are inappropriate for mutual comparison. As for -- or, rather, by contrast to traces on rounds, there are traces on cartridges here. The traces of the firing pin, the breech face, the ejector, the case cover, not the striae. In the findings, both I and my colleague, expert witness Alija Kotarevic, looked at cartridges, so first I and then he after me, and we came to a joint opinion which is provided in the findings of our expert report.",
+      "reply_to": 560
+    },
+    {
+      "id": 562,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, I agree as to the first report. But would you agree with me the second report, which we looked at last week, and I believe you even testified at transcript page 36403 that did you that report all by yourself, and yet that report also looked at cartridges in addition to rounds being analysed, would you agree the second report did not have a second forensic examiner looking at the comparisons that you saw and made?",
+      "examination": "cross"
+    },
+    {
+      "id": 563,
+      "speaker": "BRUNO FRANJIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I agree. However, by contrast with the first report, where 18 disputed cartridges were examined and their calibre was 7.62 by 39 millimetres, in the second report, there was just one cartridge of the 7.62 by 39 calibre and one cartridge of the 7.9 by 59 millimetres. So that this one cartridges of the 7.62 by 39-millimetres' calibre -- I'm sorry, but there is an error in the transcript. It should be 7.9 by 59 millimetres.",
+      "reply_to": 562
+    },
+    {
+      "id": 564,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "It now says 59, but in the English version of your second report, Witness, I think at the very bottom on e-court page 50 it says: 7.9 by 57 millimetres."
+    },
+    {
+      "id": 565,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, by 57. It should read: By 57."
+    },
+    {
+      "id": 566,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. That's hereby corrected. Please proceed."
+    },
+    {
+      "id": 567,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, we're at the stage --"
+    },
+    {
+      "id": 568,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, we're at the time where we should not proceed, as a matter of fact. Witness, we'd like to see you back tomorrow morning, and meanwhile I instruct you again that you should not speak or communicate in whatever way with whomever about your testimony, whether that is testimony already given or still to be given, and we'd like to see you back tomorrow morning at 9.30 in this same courtroom. You may now follow the usher."
+    },
+    {
+      "id": 569,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We adjourn for the day, and we'll resume tomorrow, Tuesday, the 30th of June, 9.30 in the morning, in this same courtroom, I."
+    },
+    {
+      "id": 570,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "to be reconvened on Tuesday, the 30th day of June, 2015, at 9.30 a.m."
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 9.30 a.m."
+    },
+    {
+      "after_utterance": 9,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 9,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 13,
+      "text": "WITNESS:  THOMAS PARSONS [Recalled]"
+    },
+    {
+      "after_utterance": 13,
+      "text": "Examination by Mr. McCloskey:"
+    },
+    {
+      "after_utterance": 169,
+      "text": "Cross-examination by Mr. Stojanovic:"
+    },
+    {
+      "after_utterance": 208,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 209,
+      "text": "--- Recess taken at 10.31 a.m."
+    },
+    {
+      "after_utterance": 209,
+      "text": "--- On resuming at 10.52 a.m."
+    },
+    {
+      "after_utterance": 214,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 338,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 339,
+      "text": "--- Recess taken at 11.53 a.m."
+    },
+    {
+      "after_utterance": 339,
+      "text": "--- On resuming at 12.16 p.m."
+    },
+    {
+      "after_utterance": 342,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 395,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 398,
+      "text": "[The witness withdrew]"
+    },
+    {
+      "after_utterance": 401,
+      "text": "[Trial Chamber and Registrar confer]"
+    },
+    {
+      "after_utterance": 404,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 409,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 413,
+      "text": "WITNESS:  BRUNO FRANJIC [Resumed]"
+    },
+    {
+      "after_utterance": 413,
+      "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 413,
+      "text": "Cross-examination by Mr. Ivetic: [Continued]"
+    },
+    {
+      "after_utterance": 484,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 485,
+      "text": "--- Recess taken at 1.23 p.m."
+    },
+    {
+      "after_utterance": 485,
+      "text": "--- On resuming at 1.46 p.m."
+    },
+    {
+      "after_utterance": 485,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 568,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 569,
+      "text": "--- Whereupon the hearing adjourned at 2.17 p.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_dated_29_June_2015.doc"
+}

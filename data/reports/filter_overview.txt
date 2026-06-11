@@ -1,0 +1,526 @@
+======================================================================
+ICTY TRANSCRIPT FILTER OVERVIEW
+======================================================================
+Total transcript files scanned: 16721
+
+BY LANGUAGE / STATUS:
+  English                                        16420
+  not analyzed (image/unsupported)                 202
+  undetermined (too little text)                    88
+  French                                            11
+
+BY CASE (total / english / non-eng / not-analyzed / undetermined):
+----------------------------------------------------------------------
+  case                             tot   eng  n-en   n/a   und
+  aleksovski                       655   629     0    11    15  *
+  babic                             10    10     0     0     0
+  banovic                           15    15     0     0     0
+  beara                              6     6     0     0     0
+  blagojevic_53                      2     2     0     0     0
+  blagojevic_jokic                 186   186     0     0     0
+  blagojevic_old                   127   127     0     0     0
+  blaskic                          655   629     0    11    15  *
+  borovcanin                         3     3     0     0     0
+  boskoski_tarculovski             164   164     0     0     0
+  bralo                             10    10     0     0     0
+  brdanin                          326   326     0     0     0
+  cermak                             9     9     0     0     0
+  cesic                             57    56     0     0     1  *
+  delic                            127   127     0     0     0
+  deronjic                          13    13     0     0     0
+  djordjevic                       531   531     0     0     0
+  djukic                             7     5     0     1     1  *
+  dokmanovic                       268   262     0     3     3  *
+  dragan_nikolic                    46    28     0    17     1  *
+  drago_nikolic                      3     3     0     0     0
+  dragomir_milosevic               378   376     2     0     0  *
+  erdemovic                         17    12     0     3     2  *
+  furundzija                        10    10     0     0     0
+  galic                            378   376     2     0     0  *
+  gotovina                         323   323     0     0     0
+  gotovina_old                       2     2     0     0     0
+  hadzic                           173   173     0     0     0
+  hadzihasanovic_kubura            237   237     0     0     0
+  halilovic                         96    96     0     0     0
+  haradinaj                        188   188     0     0     0
+  jelisic                           57    56     0     0     1  *
+  jokic_old                          3     3     0     0     0
+  karadzic                         556   539     0    17     0  *
+  kordic_cerkez                    655   629     0    11    15  *
+  krajisnik                        354   353     0     0     1  *
+  krnojelac                        112   111     0     0     1  *
+  krstic                           127   127     0     0     0
+  kunarac                            1     0     0     0     1  *
+  kupreskic                        137   137     0     0     0
+  kvocka                           158   157     1     0     0  *
+  limaj                            116   114     2     0     0  *
+  martic                           165   164     0     1     0  *
+  mico_stanisic                     12    12     0     0     0
+  milan_kovacevic                  205   201     0     0     4  *
+  milan_lukic_sredoje_lukic        178   178     0     0     0
+  milan_simic                      305   302     0     0     3  *
+  milutinovic                      531   531     0     0     0
+  miodrag_jokic                    135   135     0     0     0
+  mladic                           543   543     0     0     0
+  mrda                               7     7     0     0     0
+  mrksic                           268   262     0     3     3  *
+  mucic                            194   181     0     8     5  *
+  naletilic_martinovic             199   199     0     0     0
+  nikolic                          186   186     0     0     0
+  nikolic_old                        1     1     0     0     0
+  obrenovic                        186   186     0     0     0
+  obrenovic_old                      5     5     0     0     0
+  oric                             200   199     1     0     0  *
+  pandurevic_trbic                   5     5     0     0     0
+  pavkovic                           5     5     0     0     0
+  perisic                          225   225     0     0     0
+  plavsic                          354   353     0     0     1  *
+  popovic                          714   714     0     0     0
+  popovic_old                        2     2     0     0     0
+  prlic                            568   568     0     0     0
+  rajic                             15    15     0     0     0
+  seselj                           237   237     0     0     0
+  sikirica                          82    82     0     0     0
+  simic                            305   302     0     0     3  *
+  slobodan_milosevic               494   492     2     0     0  *
+  stakic                           205   201     0     0     4  *
+  stanisic_simatovic               269   269     0     0     0
+  strugar                          135   135     0     0     0
+  tadic                            264   144     0   116     4  *
+  talic                            326   326     0     0     0
+  todorovic                        305   302     0     0     3  *
+  tolimir                          714   714     0     0     0
+  vasiljevic                       178   178     0     0     0
+  zelenovic                          1     0     0     0     1  *
+  zupljanin                        326   326     0     0     0
+  zupljanin_stanisicm              374   373     1     0     0  *
+  (* = case has at least one non-English / unanalyzable file)
+
+CLEAN CASES - all transcripts confidently English (51 of 82):
+----------------------------------------------------------------------
+  babic (10)
+  banovic (15)
+  beara (6)
+  blagojevic_53 (2)
+  blagojevic_jokic (186)
+  blagojevic_old (127)
+  borovcanin (3)
+  boskoski_tarculovski (164)
+  bralo (10)
+  brdanin (326)
+  cermak (9)
+  delic (127)
+  deronjic (13)
+  djordjevic (531)
+  drago_nikolic (3)
+  furundzija (10)
+  gotovina (323)
+  gotovina_old (2)
+  hadzic (173)
+  hadzihasanovic_kubura (237)
+  halilovic (96)
+  haradinaj (188)
+  jokic_old (3)
+  krstic (127)
+  kupreskic (137)
+  mico_stanisic (12)
+  milan_lukic_sredoje_lukic (178)
+  milutinovic (531)
+  miodrag_jokic (135)
+  mladic (543)
+  mrda (7)
+  naletilic_martinovic (199)
+  nikolic (186)
+  nikolic_old (1)
+  obrenovic (186)
+  obrenovic_old (5)
+  pandurevic_trbic (5)
+  pavkovic (5)
+  perisic (225)
+  popovic (714)
+  popovic_old (2)
+  prlic (568)
+  rajic (15)
+  seselj (237)
+  sikirica (82)
+  stanisic_simatovic (269)
+  strugar (135)
+  talic (326)
+  tolimir (714)
+  vasiljevic (178)
+  zupljanin (326)
+
+######################################################################
+NOT-GUILTY PLEA CASES: 44
+######################################################################
+
+NOT GUILTY & CLEAN - all transcripts confidently English (24):
+----------------------------------------------------------------------
+  boskoski_tarculovski (164)
+  brdanin (326)
+  delic (127)
+  djordjevic (531)
+  furundzija (10)
+  gotovina (323)
+  hadzic (173)
+  hadzihasanovic_kubura (237)
+  halilovic (96)
+  haradinaj (188)
+  krstic (127)
+  kupreskic (137)
+  milan_lukic_sredoje_lukic (178)
+  milutinovic (531)
+  mladic (543)
+  naletilic_martinovic (199)
+  perisic (225)
+  popovic (714)
+  prlic (568)
+  seselj (237)
+  stanisic_simatovic (269)
+  talic (326)
+  tolimir (714)
+  vasiljevic (178)
+
+NOT GUILTY & (POTENTIAL) PROBLEM - has non-English / image / undetermined transcripts (20):
+----------------------------------------------------------------------
+  aleksovski (655): 11 image/unanalyzable, 15 undetermined
+  blaskic (655): 11 image/unanalyzable, 15 undetermined
+  djukic (7): 1 image/unanalyzable, 1 undetermined
+  dokmanovic (268): 3 image/unanalyzable, 3 undetermined
+  dragomir_milosevic (378): 2 non-English
+  galic (378): 2 non-English
+  karadzic (556): 17 image/unanalyzable
+  kordic_cerkez (655): 11 image/unanalyzable, 15 undetermined
+  krnojelac (112): 1 undetermined
+  kvocka (158): 1 non-English
+  limaj (116): 2 non-English
+  martic (165): 1 image/unanalyzable
+  milan_kovacevic (205): 4 undetermined
+  mrksic (268): 3 image/unanalyzable, 3 undetermined
+  mucic (194): 8 image/unanalyzable, 5 undetermined
+  oric (200): 1 non-English
+  slobodan_milosevic (494): 2 non-English
+  stakic (205): 4 undetermined
+  tadic (264): 116 image/unanalyzable, 4 undetermined
+  zupljanin_stanisicm (374): 1 non-English
+
+NON-ENGLISH TRANSCRIPTS: 11
+----------------------------------------------------------------------
+  dragomir_milosevic             2 French
+  galic                          2 French
+  kvocka                         1 French
+  limaj                          2 French
+  oric                           1 French
+  slobodan_milosevic             2 French
+  zupljanin_stanisicm            1 French
+
+FILES:
+  [French   1.00] dragomir_milosevic/Compte_rendu_d'audience_publique_du_11_juillet_2007.doc
+  [French   1.00] dragomir_milosevic/Public_Transcript_of_Hearing_14_June_2007.doc
+  [French   1.00] galic/Compte_rendu_d'audience_publique_du_11_juillet_2007.doc
+  [French   1.00] galic/Public_Transcript_of_Hearing_14_June_2007.doc
+  [French   1.00] kvocka/Public_Transcript_of_Hearing_May_30,_2001.doc
+  [French   1.00] limaj/Compte_rendu_d'audience_publique_du_19_mai_2005.doc
+  [French   1.00] limaj/Compte_rendu_d'audience_publique_du_1er_décembre_2004.doc
+  [French   1.00] oric/Compte_rendu_d'audience_publique_du_11_octobre_2005.doc
+  [French   1.00] slobodan_milosevic/Compte_rendu_d'audience_publique_du_22_février_2006.doc
+  [French   1.00] slobodan_milosevic/Compte_rendu_d'audience_publique_du_2_decembre_2003.doc
+  [French   1.00] zupljanin_stanisicm/Compte_rendu_d'audience_publique_du_12_septembre_2011.doc
+
+NOT ANALYZED - IMAGE/UNSUPPORTED (202):
+----------------------------------------------------------------------
+  aleksovski/Transcript_of_hearing_held_on_07.03.97.tif  [image scan (TIFF) - no text without OCR]
+  aleksovski/Transcript_of_hearing_held_on_14.02.97_(morning).tif  [image scan (TIFF) - no text without OCR]
+  aleksovski/Transcript_of_hearing_held_on_24.02.97_(morning).tif  [image scan (TIFF) - no text without OCR]
+  aleksovski/Transcript_of_hearing_on_17_june_1996.tif  [image scan (TIFF) - no text without OCR]
+  aleksovski/Transcript_of_the_Request_of_Provisional_release.tif  [image scan (TIFF) - no text without OCR]
+  aleksovski/Transcript_of_the_Status_Conference.tif  [image scan (TIFF) - no text without OCR]
+  aleksovski/Transcript_of_the_hearing_held_on_19.02.97.tif  [image scan (TIFF) - no text without OCR]
+  aleksovski/Transcript_of_the_hearing_held_on_22_09_97.tif  [image scan (TIFF) - no text without OCR]
+  aleksovski/Transcript_of_the_hearing_held_on_28.02.97_(morning).tif  [image scan (TIFF) - no text without OCR]
+  aleksovski/Transcript_of_the_hearing_on_16_04_97.tif  [image scan (TIFF) - no text without OCR]
+  aleksovski/Transcript_of_the_hearing_on_17_04_97.tif  [image scan (TIFF) - no text without OCR]
+  blaskic/Transcript_of_hearing_held_on_07.03.97.tif  [image scan (TIFF) - no text without OCR]
+  blaskic/Transcript_of_hearing_held_on_14.02.97_(morning).tif  [image scan (TIFF) - no text without OCR]
+  blaskic/Transcript_of_hearing_held_on_24.02.97_(morning).tif  [image scan (TIFF) - no text without OCR]
+  blaskic/Transcript_of_hearing_on_17_june_1996.tif  [image scan (TIFF) - no text without OCR]
+  blaskic/Transcript_of_the_Request_of_Provisional_release.tif  [image scan (TIFF) - no text without OCR]
+  blaskic/Transcript_of_the_Status_Conference.tif  [image scan (TIFF) - no text without OCR]
+  blaskic/Transcript_of_the_hearing_held_on_19.02.97.tif  [image scan (TIFF) - no text without OCR]
+  blaskic/Transcript_of_the_hearing_held_on_22_09_97.tif  [image scan (TIFF) - no text without OCR]
+  blaskic/Transcript_of_the_hearing_held_on_28.02.97_(morning).tif  [image scan (TIFF) - no text without OCR]
+  blaskic/Transcript_of_the_hearing_on_16_04_97.tif  [image scan (TIFF) - no text without OCR]
+  blaskic/Transcript_of_the_hearing_on_17_04_97.tif  [image scan (TIFF) - no text without OCR]
+  djukic/Minutes_of_the_preliminary_motion_hearing.tif  [image scan (TIFF) - no text without OCR]
+  dokmanovic/Transcript_corrections_for_the_hearing_held_on_20_March_1996.tif  [image scan (TIFF) - no text without OCR]
+  dokmanovic/Transcript_for_the_Article_61_hearing_held_on_20_March_1996_5b103d.tif  [image scan (TIFF) - no text without OCR]
+  dokmanovic/Transcript_for_the_Article_61_hearing_held_on_20_march_1996.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Draft_transcript_on_the_hearing_of_09_10_95.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Draft_transcript_on_the_hearing_of_09_10_95_e4746d.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Draft_transcript_on_the_hearing_of_10_10_95.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Draft_transcript_on_the_hearing_of_10_10_95_8d9675.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Draft_transcript_on_the_hearing_of_11_10_1995.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Draft_transcript_on_the_hearing_of_12_10_1995.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Draft_transcript_on_the_hearing_of_13_10_1995.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Transcripts_of_the_hearing_on_10_October_1995.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Transcripts_of_the_hearing_on_11_October_1995.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Transcripts_of_the_hearing_on_12_October_1995.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Transcripts_of_the_hearing_on_13_October_1995.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Transcripts_of_the_hearing_on_9_October_1995.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Transcripts_requests_for_correction.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Transcripts_requests_for_correction_112c40.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Transcripts_requests_for_correction_9c583f.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Transcripts_requests_for_correction_b210ab.tif  [image scan (TIFF) - no text without OCR]
+  dragan_nikolic/Transcripts_requests_for_correction_d0b158.tif  [image scan (TIFF) - no text without OCR]
+  erdemovic/Transcript_(and_corrections)_of_the_hearing_held_on_19_November_1996.tif  [image scan (TIFF) - no text without OCR]
+  erdemovic/Transcript_of_the_hearing_held_on_20_November_1996.tif  [image scan (TIFF) - no text without OCR]
+  erdemovic/Transcripts_of_the_hearing_on_29_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Corrections_of_the_transcript_of_the_Rule_61_hearing_held_on_3_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Corrections_of_the_transcripts_of_the_Rule_61_hearing_held_on_4_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Corrections_of_the_transcripts_of_the_Rule_61_hearing_held_on_8_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Corrections_of_transcripts_of_the_hearing_held_on_2_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Draft_transcript_of_the_hearing_of_16_May_1995.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcript,_Session_(Decision)_of_Tuesday_16_May_1995_a.m.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcript,_Session_Monday_15_May_1995_a.m.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcript_of_Open_session_regarding_Rule_61_held_on_27_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcript_of_Rule_61_hearing_held_on_1_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcript_of_Rule_61_hearing_held_on_5_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcript_of_Rule_61_hearing_held_on_8_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcript_of_continuation_of_open_session_on_28_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcript_of_the_Rule_61_hearing_held_on_3_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcript_of_the_Rule_61_hearing_held_on_4_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcripts_corrections.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcripts_corrections_transcripts_of_the_Rule_61_hearing_held_on_5_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  karadzic/Transcripts_of_the_Rule_61_hearing_held_on_2_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  kordic_cerkez/Transcript_of_hearing_held_on_07.03.97.tif  [image scan (TIFF) - no text without OCR]
+  kordic_cerkez/Transcript_of_hearing_held_on_14.02.97_(morning).tif  [image scan (TIFF) - no text without OCR]
+  kordic_cerkez/Transcript_of_hearing_held_on_24.02.97_(morning).tif  [image scan (TIFF) - no text without OCR]
+  kordic_cerkez/Transcript_of_hearing_on_17_june_1996.tif  [image scan (TIFF) - no text without OCR]
+  kordic_cerkez/Transcript_of_the_Request_of_Provisional_release.tif  [image scan (TIFF) - no text without OCR]
+  kordic_cerkez/Transcript_of_the_Status_Conference.tif  [image scan (TIFF) - no text without OCR]
+  kordic_cerkez/Transcript_of_the_hearing_held_on_19.02.97.tif  [image scan (TIFF) - no text without OCR]
+  kordic_cerkez/Transcript_of_the_hearing_held_on_22_09_97.tif  [image scan (TIFF) - no text without OCR]
+  kordic_cerkez/Transcript_of_the_hearing_held_on_28.02.97_(morning).tif  [image scan (TIFF) - no text without OCR]
+  kordic_cerkez/Transcript_of_the_hearing_on_16_04_97.tif  [image scan (TIFF) - no text without OCR]
+  kordic_cerkez/Transcript_of_the_hearing_on_17_04_97.tif  [image scan (TIFF) - no text without OCR]
+  martic/Transcript_of_the_hearing_held_on_Tuesday_27th_February_1996.tif  [image scan (TIFF) - no text without OCR]
+  mrksic/Transcript_corrections_for_the_hearing_held_on_20_March_1996.tif  [image scan (TIFF) - no text without OCR]
+  mrksic/Transcript_for_the_Article_61_hearing_held_on_20_March_1996_5b103d.tif  [image scan (TIFF) - no text without OCR]
+  mrksic/Transcript_for_the_Article_61_hearing_held_on_20_march_1996.tif  [image scan (TIFF) - no text without OCR]
+  mucic/Transcript_+_Transcript_corrections_of_the_hearing_held_on_Friday,_2_August_1996.tif  [image scan (TIFF) - no text without OCR]
+  mucic/Transcript_+_Transcript_corrections_of_the_hearing_held_on_Tuesday,_20th_August_1996.tif  [image scan (TIFF) - no text without OCR]
+  mucic/Transcript_of_the_hearing_of_Thursday,_11th_April_1996.tif  [image scan (TIFF) - no text without OCR]
+  mucic/Transcript_of_the_hearing_of_Thursday_9_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  mucic/Transcript_of_the_hearing_on_Tuesday_18,_1996.tif  [image scan (TIFF) - no text without OCR]
+  mucic/Transcript_of_the_hearing_on_Tuesday_18_June,_1996.tif  [image scan (TIFF) - no text without OCR]
+  mucic/Transcript_of_the_partly_closed_hearing_held_on_1st_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  mucic/Transcripts_corrections_of_the_hearings_of_Thursday,_11th_April_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Draft_transcript_of_the_hearing_of_25th_July_1995_(afternoon).tif  [image scan (TIFF) - no text without OCR]
+  tadic/Draft_transcript_of_the_hearing_of_25th_July_1995_(morning).tif  [image scan (TIFF) - no text without OCR]
+  tadic/Draft_transcript_of_the_hearing_of_26th_July_1995.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Draft_transcript_of_the_hearing_of_the_11th_May_1995.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Draft_transcript_of_the_hearing_of_the_26th_of_April_1995.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Draft_transcript_of_the_hearing_of_the_Interlocutory_Appeal_on_Jurisdiction_of_7th_Septemeber_1995.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Draft_transcript_of_the_hearing_of_the_Interlocutory_Appeal_on_Jurisdiction_of_8th_September_1995.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Draft_transcript_of_the_hearing_on_24th_October.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Final_transcript_of_the_hearing_held_31_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Final_transcript_of_the_hearing_of_the_26th_April_1995_(English_version).tif  [image scan (TIFF) - no text without OCR]
+  tadic/Final_transcript_of_the_public_session_held_on_3_May,_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Redacted_Transcript_of_the_confidential_hearings_held_on_13,_14_and_15_August_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Redacted_transcript_of_the_hearing_held_on_Friday_31_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Redacted_version_of_testimony_of_witness_L.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Redacted_Transcript_corrections_of_the_hearing_on_Thursday_30th_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_onThursday_01th_August_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Friday_10th_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Friday_14th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Friday_19th_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Friday_21th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Friday_24th_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Friday_24th_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Friday_24th_May_1996_882978.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Friday_26th_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Friday_7th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Friday_9th_August_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Monday_13th_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thrusday_25th_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thrusday_25th_July_1996_d318db.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thursday_13th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thursday_15th_August_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thursday_15th_August_1996_6e8ffb.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thursday_18th_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thursday_20th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thursday_30th_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thursday_6th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thursday_8th_August_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thursday_8th_August_1996_da885d.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Thursday_9th_May,_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Tuesday_11th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Tuesday_13th_August_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Tuesday_13th_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Tuesday_16th_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Tuesday_16th_July_1996_608f62.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Tuesday_18th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Tuesday_21th_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Tuesday_23th_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Tuesday_25th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Tuesday_30th_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Tuesday_6th_August_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Wednesday_12th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Wednesday_12th_June_1996_28d66b.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Wednesday_17th_July_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Wednesday_19th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Wednesday_26th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Wednesday_29th_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Wednesday_5th_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Wednesday_7th_August_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Wednesday_8th_May,_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Wenesday_15th_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_partly_closed_hearing_on_Friday_20_September_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_partly_closed_hearing_on_Friday_20_September_1996_d681c5.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_partly_closed_hearing_on_Tuesday_24_September_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_partly_closed_hearing_on_Tuesday_24_September_1996_82ff3a.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_held_on_Wednesday_25_September_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_held_on_Wednesday_25_September_1996_8cbd84.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Friday_18_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Friday_25_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Friday_25_October_1996_262932.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Friday_4th_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Friday_4th_October_1996_2c051c.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Monday_28_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Thursday_17_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Thursday_24_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Thursday_24_October_1996_faa38e.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Thursday_3rd_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Thursday_3rd_October_1996_e22d01.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Thursday_7_November_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Thursday_7_November_1996_c7344c.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_10_September_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_10_September_1996_df4d64.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_14th_November_1995_(English_version).tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_15th_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_22_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_22_October_1996_6aa300.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_22_October_1996_bb155f.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_29_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_8th_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_8th_October_1996_2752db.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_8th_October_1996_4a9ee4.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Tuesday_8th_October_1996_d85002.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Wednesday_11_September_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Wednesday_16_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Wednesday_23_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Wednesday_30_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Wednesday_6_November_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_+transcript_corrections_of_the_hearing_on_Wednesday_2nd_October_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_corrections.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_corrections_948370.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_of_closed_session_on_Friday_31_MAy_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_of_closed_session_on_Tuesday_4_June_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_of_closed_session_on_Tuesday_4_June_1996_d54b41.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_of_the_hearing,_8_November_1994,_morning.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_of_the_hearing_of_Tuesday,_25th_July_1995.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_of_the_hearing_of_Tuesday_7th,_May_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_of_the_hearing_of_Wednesday,_26th_July_1995.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_of_the_hearing_of_the_Interlocutory_Appeal_on_Jurisdiction_of_Friday,_8th_September_1995.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_of_the_hearing_of_the_interlocutory_Appeal_on_Jurisdiction_of_Thursday,_7th_September_1995.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_of_the_hearing_on_24th_October_1995.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcript_session_11_May_1995_am.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcripts_+_transcript_corrections_of_the_hearing_on_Monday,_25_November_1996_(Closing_speech).tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcripts_+_transcript_corrections_of_the_hearing_on_Wednesday,_27_November_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcripts_of_the_hearing_held_on_7_May_1997_(Judgement).tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcripts_of_the_hearing_on_Tuesday,_17th_September_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcripts_of_the_hearing_on_Tuesday_26_November_1996.tif  [image scan (TIFF) - no text without OCR]
+  tadic/Transcripts_of_the_hearing_on_Tuesday_26_November_1996_6cd7b0.tif  [image scan (TIFF) - no text without OCR]
+
+UNDETERMINED - TOO LITTLE TEXT (88):
+----------------------------------------------------------------------
+  aleksovski/Public_Transcript_of_Hearing_07_April_1999.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_15_May_1998.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_18_Feb.1998.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_23_Feb.1998.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_23_June_1997.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_23_June_1997_76f711.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_23_Sept.1997.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_24_Feb.1998.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_26_Jan.1998.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_27_January_1998.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_30_June_1997.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_8_January_1999_1132d4.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_August_24,_1998.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Hearing_December_09,_1997.doc  [too little text to detect]
+  aleksovski/Public_Transcript_of_Status_Conference_18_April_1997.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_07_April_1999.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_15_May_1998.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_18_Feb.1998.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_23_Feb.1998.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_23_June_1997.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_23_June_1997_76f711.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_23_Sept.1997.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_24_Feb.1998.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_26_Jan.1998.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_27_January_1998.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_30_June_1997.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_8_January_1999_1132d4.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_August_24,_1998.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Hearing_December_09,_1997.doc  [too little text to detect]
+  blaskic/Public_Transcript_of_Status_Conference_18_April_1997.doc  [too little text to detect]
+  cesic/Public_Transcript_of_Hearing_18_November_1998.doc  [too little text to detect]
+  djukic/Public_Transcript_of_Hearing_14th_March_1996.doc  [too little text to detect]
+  dokmanovic/Public_Transcript_of_Hearing_24_July_1997.doc  [too little text to detect]
+  dokmanovic/Public_Transcript_of_Hearing_27_November_1997.doc  [too little text to detect]
+  dokmanovic/Public_Transcript_of_Hearing_29_September_1997.doc  [too little text to detect]
+  dragan_nikolic/Public_Transcript_of_R61_Hearing_dated_10_July_1995.doc  [too little text to detect]
+  erdemovic/Public_Transcript_of_Hearing_October_16th,_1997.doc  [too little text to detect]
+  erdemovic/Public_Transcript_of_Hearing_October_18th,_1996.doc  [too little text to detect]
+  jelisic/Public_Transcript_of_Hearing_18_November_1998.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_07_April_1999.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_15_May_1998.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_18_Feb.1998.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_23_Feb.1998.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_23_June_1997.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_23_June_1997_76f711.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_23_Sept.1997.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_24_Feb.1998.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_26_Jan.1998.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_27_January_1998.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_30_June_1997.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_8_January_1999_1132d4.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_August_24,_1998.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Hearing_December_09,_1997.doc  [too little text to detect]
+  kordic_cerkez/Public_Transcript_of_Status_Conference_18_April_1997.doc  [too little text to detect]
+  krajisnik/Public_Transcript_of_Hearing_20_September_2001.doc  [too little text to detect]
+  krnojelac/Public_Transcript_of_Hearing_October_2nd,_1998.doc  [too little text to detect]
+  kunarac/Please_see_IT-96-23_&_96-23_1.doc  [too little text to detect]
+  milan_kovacevic/Public_Transcript_of_Hearing_12_May_1998_730d77.doc  [too little text to detect]
+  milan_kovacevic/Public_Transcript_of_Hearing_16_January_1998_f168f7.doc  [too little text to detect]
+  milan_kovacevic/Public_Transcript_of_Hearing_26_March_1998.doc  [too little text to detect]
+  milan_kovacevic/Public_Transcript_of_Hearing_27_February_1998.doc  [too little text to detect]
+  milan_simic/Public_Transcript_of_Hearing_June_4,_1998.doc  [too little text to detect]
+  milan_simic/Public_Transcript_of_Hearing_dated_3_September_1998.doc  [too little text to detect]
+  milan_simic/Public_Transcript_of_Hearing_dated_9_June_1999.doc  [too little text to detect]
+  mrksic/Public_Transcript_of_Hearing_24_July_1997.doc  [too little text to detect]
+  mrksic/Public_Transcript_of_Hearing_27_November_1997.doc  [too little text to detect]
+  mrksic/Public_Transcript_of_Hearing_29_September_1997.doc  [too little text to detect]
+  mucic/Public_Transcript_of_Hearing_14_March_1997.doc  [too little text to detect]
+  mucic/Public_Transcript_of_Hearing_21_May_1998_532f45.doc  [too little text to detect]
+  mucic/Public_transcript_of_Hearing_12_January_1998.doc  [too little text to detect]
+  mucic/Transcript_+_Transcript_corrections_of_the_hearing_held_on_Tuesday,_23_July_1996_(morning).pdf  [conversion produced no text]
+  mucic/Transcript_of_closed_session_hearing_on_17_January_1997.pdf  [conversion produced no text]
+  plavsic/Public_Transcript_of_Hearing_20_September_2001.doc  [too little text to detect]
+  simic/Public_Transcript_of_Hearing_June_4,_1998.doc  [too little text to detect]
+  simic/Public_Transcript_of_Hearing_dated_3_September_1998.doc  [too little text to detect]
+  simic/Public_Transcript_of_Hearing_dated_9_June_1999.doc  [too little text to detect]
+  stakic/Public_Transcript_of_Hearing_12_May_1998_730d77.doc  [too little text to detect]
+  stakic/Public_Transcript_of_Hearing_16_January_1998_f168f7.doc  [too little text to detect]
+  stakic/Public_Transcript_of_Hearing_26_March_1998.doc  [too little text to detect]
+  stakic/Public_Transcript_of_Hearing_27_February_1998.doc  [too little text to detect]
+  tadic/Public_Transcript_of_Hearing_18_April_1996.doc  [too little text to detect]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Monday_20th_May_1996.pdf  [conversion produced no text]
+  tadic/Transcript_+_Transcript_corrections_of_the_hearing_on_Monday_20th_May_1996_92e55a.pdf  [conversion produced no text]
+  tadic/Transcript_+_transcript_corrections_of_the_hearing_on_Wednesday_9th_October_1996.pdf  [conversion produced no text]
+  todorovic/Public_Transcript_of_Hearing_June_4,_1998.doc  [too little text to detect]
+  todorovic/Public_Transcript_of_Hearing_dated_3_September_1998.doc  [too little text to detect]
+  todorovic/Public_Transcript_of_Hearing_dated_9_June_1999.doc  [too little text to detect]
+  zelenovic/Please_see_IT-96-23_&_96-23_1.doc  [too little text to detect]
+
+======================================================================

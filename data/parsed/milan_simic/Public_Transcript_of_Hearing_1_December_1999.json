@@ -1,0 +1,4384 @@
+{
+  "case": "milan_simic",
+  "case_id": "IT-95-9-R77",
+  "date": "1999-12-01",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Will you call the case, please?"
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Good afternoon, Your Honours. Case number IT-95-9-R77."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Haynes, your examination-in-chief."
+    },
+    {
+      "id": 4,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you very much, Your Honour"
+    },
+    {
+      "id": 5,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Examined by Mr. Haynes:"
+    },
+    {
+      "id": 6,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Avramovic, yesterday afternoon we had just moved on to the stage where you told us you were telling us about collecting witness statements in preparation of your defence for these proceedings. Did you take a witness statement from Jasna Marosevic?"
+    },
+    {
+      "id": 7,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 6
+    },
+    {
+      "id": 8,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was she, prior to making that witness statement, shown any of the witness statements shown by Witness Agnes?"
+    },
+    {
+      "id": 9,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 8
+    },
+    {
+      "id": 10,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was she told the details of the allegations made against you and/or Mr. Simic?"
+    },
+    {
+      "id": 11,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 10
+    },
+    {
+      "id": 12,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Drago Vukovic, did you take a witness statement from him?"
+    },
+    {
+      "id": 13,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, but he wrote his own statement and after that it was typed out.",
+      "reply_to": 12
+    },
+    {
+      "id": 14,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was he shown any of the witness statements made by Witness Agnes prior to making his witness statement or indeed at any other time?"
+    },
+    {
+      "id": 15,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 14
+    },
+    {
+      "id": 16,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was he told the details of the allegations made against you and/or Mr. Simic?"
+    },
+    {
+      "id": 17,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 16
+    },
+    {
+      "id": 18,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you take the witness statement of Mr. Goran Neskovic?"
+    },
+    {
+      "id": 19,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was he either shown witness statements or told of the details of the allegations made by Agnes?"
+    },
+    {
+      "id": 21,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And lastly, can you deal with the same issues in relation to the witness Spasoje Pisarevic?"
+    },
+    {
+      "id": 23,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Also nothing was said to him.",
+      "reply_to": 22
+    },
+    {
+      "id": 24,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I think in addition to taking witness statements, you have collected a number of documents from various public authorities; is that correct?"
+    },
+    {
+      "id": 25,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "In corresponding with those public authorities, did you disclose Witness Agnes's real name or any of the details of the allegations he made?"
+    },
+    {
+      "id": 27,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I behaved fully in compliance with the ruling of the Trial Chamber.",
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, we have seen, on a number of occasions in the course of this case, a blue bag. Can you tell us how it -- how you came first to know about it?"
+    },
+    {
+      "id": 29,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I learnt about the existence of the bag in September this year or to be more precise, on the 16th or the 17th, because I was away in Bosanski Samac for two or three days, and I learnt about it from Ms. Jasna Marosevic.",
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "When and where did she first bring it to you?"
+    },
+    {
+      "id": 31,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "She brought the bag to the office of my colleague Spasoje Pisarevic and the investigator in the Defence team for Milan Simic.",
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who was present when she brought the bag to that office?"
+    },
+    {
+      "id": 33,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was there, Ms. Marosevic, and my colleague Tatjana Cmeric.",
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you describe for us what took place in that office at the handover of the bag?"
+    },
+    {
+      "id": 35,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "As the bag had been brought to the office in the presence of Jasna Marosevic and Ms. Cmeric, a list was made of the things it contained, and those things were examined, during which Ms. Marosevic took out each object, described it, and this was entered into the record or the document that we have in our files. At the end, Ms. Marosevic or, rather, that list was read out to her and she signed it.",
+      "reply_to": 34
+    },
+    {
+      "id": 36,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I want to deal firstly with the bag. I wonder if you could have a look at this. Is this the bag that was produced to you by Ms. Marosevic?"
+    },
+    {
+      "id": 37,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 36
+    },
+    {
+      "id": 38,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What happened to the items taken from the bag after they had been described by Ms. Marosevic?"
+    },
+    {
+      "id": 39,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Those things were placed in the bag by Ms. Marosevic, as far as I can recollect, in the same order in which they were shown.",
+      "reply_to": 38
+    },
+    {
+      "id": 40,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what did you do with the bag after it was handed to you by Ms. Marosevic?"
+    },
+    {
+      "id": 41,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "After that, with the bag and the contents that had been registered in the report, I took the bag to my office, considering it to be evidence and intending to bring it to this court.",
+      "reply_to": 40
+    },
+    {
+      "id": 42,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you at any time add to the contents of that bag?"
+    },
+    {
+      "id": 43,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 42
+    },
+    {
+      "id": 44,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you at any time alter or interfere with any document in that bag?"
+    },
+    {
+      "id": 45,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 44
+    },
+    {
+      "id": 46,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you, in fact, bring the bag to The Hague?"
+    },
+    {
+      "id": 47,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 46
+    },
+    {
+      "id": 48,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "When?"
+    },
+    {
+      "id": 49,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "A day or two prior to the beginning of the hearing scheduled for the 29th of September.",
+      "reply_to": 48
+    },
+    {
+      "id": 50,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, the list compiled and signed by Jasna Marosevic, or at last signed by Jasna Marosevic, did you bring that to The Hague?"
+    },
+    {
+      "id": 51,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "When did you first bring it?"
+    },
+    {
+      "id": 53,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The same time as the bag. When I arrived in The Hague, together with the other documents that I had in my possession.",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you show the list and the bag to anybody when you got to The Hague?"
+    },
+    {
+      "id": 55,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The bag and the list I showed to my Defence counsel, Mr. Haynes.",
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Since then, or since the commencement of this hearing, where has the bag been stored?"
+    },
+    {
+      "id": 57,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The bag was brought to the Tribunal, and it was in the Tribunal, as far as I can remember, from that moment, but we took it to our room during the adjournment, but the contents were not in any way interfered with in the meantime.",
+      "reply_to": 56
+    },
+    {
+      "id": 58,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you say \"our room\", what do you mean?"
+    },
+    {
+      "id": 59,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm referring to our hotel room.",
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Now, I do move that bag formally into evidence now, the chain of custody having been established."
+    },
+    {
+      "id": 61,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Mr. Ryneveld."
+    },
+    {
+      "id": 62,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "With respect, I'm not -- we take the position that the bag has not been -- the chain of custody has not been properly -- the foundation for that has not been properly laid, and we would oppose its being moved into evidence at this point."
+    },
+    {
+      "id": 63,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Where is the break in the chain, if you could just point that out to me?"
+    },
+    {
+      "id": 64,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "With respect, it is our view that Ms. Marosevic did not have continual custody of the bag at all times. She said it was in her closet, but we've established that there is ample opportunity for persons to have access and control to the bag. We would submit it's simply not appropriate at this point, on the chain of custody, to have it admitted as my friend now seeks to do."
+    },
+    {
+      "id": 65,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Does that not go to the weight and not to the admissibility of it? What you have said does go to the weight, clearly."
+    },
+    {
+      "id": 66,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 67,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Does it go to the admissibility of it?"
+    },
+    {
+      "id": 68,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Perhaps not, in that sense."
+    },
+    {
+      "id": 69,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, then is it not admissible?"
+    },
+    {
+      "id": 70,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "On reflection, yes."
+    },
+    {
+      "id": 71,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Have it admitted."
+    },
+    {
+      "id": 72,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "The document will be marked D6."
+    },
+    {
+      "id": 73,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just before we leave the topic of the preparation of your own case, when you corresponded with companies and public authorities, seeking evidence from them, without being able to refer to Mr. Agnes by his real name, how was it that you phrased your letters to them?"
+    },
+    {
+      "id": 74,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I phrased my letters, in the case of certain correspondence which was not relevant for the proceedings, using very general wording, saying that I needed a certificate. For instance, if Milan Simic's firm existed in a certain building, I needed proof of that. So when taking that kind of a document which is in the public domain, there was no need to give any reasons because I am a lawyer and it is in my legal capacity to make such a request.",
+      "reply_to": 73
+    },
+    {
+      "id": 75,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you place a time frame on the information you sought in most cases?"
+    },
+    {
+      "id": 76,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Do you mean addressing the authorities, the institutions from which I was seeking information? I'm not sure I understood you quite.",
+      "reply_to": 75
+    },
+    {
+      "id": 77,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. Did you seek information from them on the basis that you wanted to know, between two certain dates, whether an event had or had not happened?"
+    },
+    {
+      "id": 78,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. In the case of certain documents which were relevant for a particular time period, my request mentioned that time period.",
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Now, lastly I just want to ask you these few questions. Have you ever driven in the middle of the night to the village of Martinci?"
+    },
+    {
+      "id": 80,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "In the course of the night, no, except that once I had my return trip in the evening on the 28th. But I was driving towards Belgrade, as far as I can recollect. That was the return journey.",
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you ever hung around outside Mr. Agnes' house in the middle of the night --"
+    },
+    {
+      "id": 82,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "-- or fired shots in the air outside his house?"
+    },
+    {
+      "id": 84,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. Why would I?",
+      "reply_to": 83
+    },
+    {
+      "id": 85,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you ever asked anybody to do that on your behalf?"
+    },
+    {
+      "id": 86,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 85
+    },
+    {
+      "id": 87,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you ever made phone calls to Mr. Agnes' house in the middle of the night of a threatening or a mysterious nature?"
+    },
+    {
+      "id": 88,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, never. There was never any such need. I didn't do that in the daytime. Why would I do such a thing at night?",
+      "reply_to": 87
+    },
+    {
+      "id": 89,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you ever have the telephone number of that house?"
+    },
+    {
+      "id": 90,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I had the number of the mobile telephone of his relative. That is what I was told, that it was his relative's. And I was given that telephone number from Mr. Vukovic, as I have said, because he had received that number.",
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you ever put pressure on Mr. Agnes to say one thing or the other about what happened in 1992?"
+    },
+    {
+      "id": 92,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. There is absolutely no reason why I would do that.",
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you ever offer him the sum of 10.000 Deutschmarks and a flat and a job if he was prepared to give evidence?"
+    },
+    {
+      "id": 94,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, never. There was absolutely no reason or justification, nor did anyone ask me to do such a thing.",
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 96,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. Ryneveld."
+    },
+    {
+      "id": 97,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour. Cross-examined by Mr. Ryneveld:"
+    },
+    {
+      "id": 98,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, let me see if I understand you correctly, Mr. Avramovic. You've told this Court that when you took a statement from Jasna, you did not explain to her at all what Mr. Agnes had alleged against you or Mr. Simic; is that correct?"
+    },
+    {
+      "id": 99,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 98
+    },
+    {
+      "id": 100,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you asked her to give a statement, what did you ask her to do?"
+    },
+    {
+      "id": 101,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I told her that it was necessary for her, if she was willing, to tell me everything she knew about the contacts she had had with Mr. Agnes.",
+      "reply_to": 100
+    },
+    {
+      "id": 102,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So as far as you're concerned, she did not know anything about these allegations at any stage prior to coming to court today; is that correct? Or coming to court yesterday, sorry."
+    },
+    {
+      "id": 103,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Absolutely not, and it was -- it suited me that she shouldn't know, regardless of the ruling of the Trial Chamber. It was extremely important for me to be able to take such statements, not only this one but others as well, without saying what was involved so that I would learn everything about contacts with that individual.",
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Avramovic, then why is it that Jasna brought the blue bag to your attention at Mr. Pisarevic's office? What possible use would that be to you?"
+    },
+    {
+      "id": 105,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "During my visit in September in 1999 and talking to Ms. Marosevic, an informal conversation, she mentioned it to me. Until then, she had never mentioned it because I hadn't asked her about it, nor did I know about its existence. I just asked her about the contacts she had had with Mr. Agnes, and she told me about them. And then in September when I came to Samac on one of my visits and when I was preparing to come to The Hague, she told me that she had this bag. Naturally, my reaction was to ask her to bring me that bag and to ask her whether she was ready to accept us making a list of the contents if that was his bag. She agreed. She brought the bag to the office. In my presence and my assistant, as I have said, we carried out the listing of the items.",
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What possible reason would there be for you to discuss Mr. Agnes with Jasna after May of this year?"
+    },
+    {
+      "id": 107,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I have already told you a moment ago. The first reason was to take the first statement for the needs of the Defence. The second reason was that in July, again during my visit to Samac, she told me that she didn't feel safe, that there were threats, that she was receiving anonymous phone calls, and a statement was made about that, which was then filed with this Trial Chamber. And finally, as you yourself mentioned, in September, again during my visit, in an entirely informal conversation which had nothing to do with the case, she told me about the existence of this bag, because she knew I had taken two statements from her, but not knowing what the relevance of it was, I assume.",
+      "reply_to": 106
+    },
+    {
+      "id": 108,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So the offer of the fact that she had Mr. Agnes's blue bag in her cupboard, as you say, was purely coincidence; is that correct?"
+    },
+    {
+      "id": 109,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Absolutely so. I am a witness of that.",
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just for the sake of interest, what authority did you have to go through Mr. Agnes's blue bag?"
+    },
+    {
+      "id": 111,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "My authority emanated from the fact that I have been accused in this Tribunal of certain acts, and I was under the obligation to prepare my defence and produce all relevant evidence to my Defence counsel. I considered this to be a relevant piece of evidence and that is why I took it. That is something that Ms. Jasna Marosevic certainly could not have been aware of.",
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So your evidence, as I understand it, is that Jasna brought this bag to the office of Mr. Pisarevic, where you happened to be, but you, of course, have no idea where it came from, just what she told you; is that correct?"
+    },
+    {
+      "id": 113,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Certainly. I learnt about it on that day.",
+      "reply_to": 112
+    },
+    {
+      "id": 114,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "That's not the question. The question is: You have no idea where it came from other than what Jasna told you?"
+    },
+    {
+      "id": 115,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "She brought it from her house, because I was present when she went off to her apartment to fetch the bag, and we went together to Pisarevic's office.",
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sorry. I understood that you told us that she brought the bag to the office where you were, but now I understand that you accompanied her to her house and you removed it from the closet. Is that it?"
+    },
+    {
+      "id": 117,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. No. That is a misinterpretation of what I said. From the Lotos restaurant where I was sitting with her, after she had told me that she had had this bag, with my car and with my colleague we went to her house. She climbed up to her apartment. She came back to the car, and together we drove to the office. That is how it was. I didn't go with her into the apartment. I just waited for her. As the appropriate place for doing such a thing was an office, we went to the office, and she physically brought the bag to the office. But the distance is perhaps 200 or 300 metres, and it is on the way between the restaurant and the office.",
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "My original question to you, sir, perhaps you didn't understand my question, is: Apart from Jasna telling you that she got it from her house, you have no idea how it got to her house; is that right?"
+    },
+    {
+      "id": 119,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "She told me that Mr. Agnes had left it there.",
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "During the months of May to September, did Jasna ever try to make contact with you about the whereabouts of Mr. Agnes?"
+    },
+    {
+      "id": 121,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't quite understand your question. Could you be kind enough to repeat it, please?",
+      "reply_to": 120
+    },
+    {
+      "id": 122,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, sir, as I understand your evidence, you had sort of informal discussions with Jasna throughout those months, did you not?"
+    },
+    {
+      "id": 123,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did.",
+      "reply_to": 122
+    },
+    {
+      "id": 124,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you went to Bosanski Samac, I take it you would visit in the Lotos Cafe and you would meet with Jasna?"
+    },
+    {
+      "id": 125,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I didn't go to see her, as is known in the course of the preparations for the Defence. I had other tasks I had to carry out in the territory of Bosanski Samac. And when I was in Bosanski Samac on one or two occasions, I did drop in to see her or I met her in the town itself. It is a very small town, and one can hardly avoid coming across acquaintances. Sometimes we met by chance, sometimes we met in the cafe where she was working.",
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "My questions aren't complicated, I hope, sir. All I really need to hear from you is whether or not you met with her from time to time."
+    },
+    {
+      "id": 127,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Certainly.",
+      "reply_to": 126
+    },
+    {
+      "id": 128,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "During any of the those times when you met with her, either formally or informally, by chance or by design, did she ever ask you as to the whereabouts of Mr. Agnes or whether you had heard from him?"
+    },
+    {
+      "id": 129,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. During the first statement, I told her to tell me everything she knew about Mr. Agnes, whereas I was not in a position to convey to her any information about Mr. Agnes.",
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "My question was: Did she make an inquiry?"
+    },
+    {
+      "id": 131,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 130
+    },
+    {
+      "id": 132,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And this is despite the fact that he had stayed with her for a number of times, according to her evidence, and had left this blue bag with her; is that right?"
+    },
+    {
+      "id": 133,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Mr. Ryneveld, you asked me whether from May onwards -- we are talking about the period when Mr. Agnes, as is known, was not in Samac, he was not there -- whether I, in contact with Jasna Marosevic, had spoken to her about the whereabouts of Mr. Agnes and whether she had asked me about it. My answer is: From the 7th or, rather, the 9th of June onwards until today, in fact, I have not spoken to her about that matter, nor did I give her any information along those lines. That is my answer.",
+      "reply_to": 132
+    },
+    {
+      "id": 134,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Fine, Mr. Avramovic. I'll move on. Now, as I understand your evidence, you admit that you went to Mr. Agnes's uncle's house at Sremska Mitrovica on at least a couple of occasions, did you not?"
+    },
+    {
+      "id": 135,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct. I went to the house of the relations of Mr. Agnes on the 28th of September and later on in November when I went with Mr. Agnes to the Mimoza Motel.",
+      "reply_to": 134
+    },
+    {
+      "id": 136,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it fair to say that on those visits that you made to the house that sometimes you were accompanied by other people and sometimes you went alone?"
+    },
+    {
+      "id": 137,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "To the first meeting that I had on the 28th of September, I was accompanied by Mr. Neskovic; and the following time, when I went together with him to the Mimoza Motel, I went alone in my own car.",
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you met him with Mr. Vukovic, where was that?"
+    },
+    {
+      "id": 139,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was in Sremska Mitrovica, in a restaurant or cafe called Bingo, opposite the law courts, in the sports hall.",
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Your evidence is you did not go to his house on that occasion?"
+    },
+    {
+      "id": 141,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. No. On that occasion, we did not go to his house. I didn't even know at the time where he lived, so that it was only then that I learnt of the village, the address, and other facts related to his place of temporary residence.",
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Avramovic, what kind of car do you drive? Would it happen to be an Opel Ascona?"
+    },
+    {
+      "id": 143,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What colour is that?"
+    },
+    {
+      "id": 145,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "A metallic grey colour.",
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And does it have Belgrade plates?"
+    },
+    {
+      "id": 147,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I'm going to deal next, if I may, with what we can refer to as the lengthy meeting with Mr. Agnes, the one you described where you went to his house and you took notes of that meeting. You know the one I'm talking about?"
+    },
+    {
+      "id": 149,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 148
+    },
+    {
+      "id": 150,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "That would be your second meeting with Mr. Agnes; is that correct?"
+    },
+    {
+      "id": 151,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 150
+    },
+    {
+      "id": 152,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And just so that we've got the time frame correct, this is towards the end of September, the 28th of December [sic] or early October, somewhere in that area?"
+    },
+    {
+      "id": 153,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct. It was September, the 29th of September.",
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you admit that you took a lot of notes on that occasion; is that correct?"
+    },
+    {
+      "id": 155,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I wouldn't say that I took a lot of notes, but I did make some notes, yes, the chronology of events, of facts, which he related to me on that occasion.",
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you say you did not use a tape-recorder on that occasion?"
+    },
+    {
+      "id": 157,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "During our conversation, that conversation, no, I did not.",
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you have a tape-recorder?"
+    },
+    {
+      "id": 159,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I have an old tape-recorder/cassette player in my office, and I don't think actually it belongs to me personally. It was in the office, so that --",
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you ever use such a tape-recorder in the course of your business and taking statements from time to time?"
+    },
+    {
+      "id": 161,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I don't use the cassette player for taking statements, but I can use it and I used to use it to convey some of the notes on conversations which I gave to my assistant to put into the computer, to file it, or to store it in some other medium. And I did this too when I was a judge, for example. My verdicts, my rulings when I worked in the ministry, I would dictate them into a dictaphone and then hand them over to my secretary to type out.",
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Your evidence, though, is that you did not use the tape-recorder on this occasion, even though Mr. Agnes says that you did; is that correct?"
+    },
+    {
+      "id": 163,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did not use a tape-recorder to talk to him directly.",
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you read back to him your notes?"
+    },
+    {
+      "id": 165,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I did not read him anything of what I had jotted down. And I said yesterday that the talk between him and myself on the occasion was rather confusing because we were all hurrying to get back to Belgrade, and also I was aware of the fact that he could not supply me with any essential data which I was basically interested in, and that was why I scheduled the meeting for the 28th at his house.",
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Avramovic, I appreciate the fact that you wish to give as full an answer as possible, but my question was really quite specific. I just wanted to know whether or not you used the tape-recorder, as he said you did. The answer, I take it, from all of that is, \"No.\""
+    },
+    {
+      "id": 167,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you try to get a statement from him? Did you get him to sign a statement?"
+    },
+    {
+      "id": 169,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. He did not ask ...",
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you discuss with him that you would like him to give evidence in The Hague about what he had told you?"
+    },
+    {
+      "id": 171,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, no.",
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you bring your notebook with you to the court proceedings today?"
+    },
+    {
+      "id": 173,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I have several notebooks in which I record my notes on my conversations, and I think I do indeed have a notebook but it is not my complete documentation related to the preparation of the Defence case and the conversation that I had.",
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, Mr. Avramovic, it will probably be good to know that I wasn't referring to all of your notebooks about the preparation of the Defence case. Quite clearly, what I'm interested in is the notebook that you used to record the notes of your conversation on the 28th or 29th of September with Mr. Agnes. Do you have that notebook?"
+    },
+    {
+      "id": 175,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I do not have that notebook with me because the data on the conversation with him I have not saved, and I did not wish to save them.",
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you not save notes of potential witnesses that you are writing notes about? What's the purpose of notes if you don't keep them?"
+    },
+    {
+      "id": 177,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The Defence is a process, an ongoing process, and when you work on a Defence case, you collect and gather information. The position of a Defence case is far different from the Prosecution. My method is a method of work with people, which implies the gathering of information and having talks and conversations with people. As you well know, the territory of Bosanski Samac is a highly-sensitive area with regard to the subject matter discussed here at the Tribunal, and that fact alone demands that I have a process of thought rather than taking statements automatically, as I can only assume that the Prosecutor does when he approaches victims or when victims come to them. So the process of my work and the methodology that I use has been conceived in such a way that I gather information and have conversations and talks, and what I consider to be essential I retain, what I do not I get rid of, because if I were to save everything, I would be buried with all the notebooks. Now why do I do this? I assess the information I'm given, I evaluate it, and in time, with the passage of time, in the course of my work I'm able to judge what I feel to be relevant and what I do not feel to be relevant. And that is my general principle and attitude, not only with relation to Mr. Agnes but it is the way I work, and in this case as well.",
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Avramovic, apparently you're speaking too fast for the interpreter. Try to slow down."
+    },
+    {
+      "id": 179,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I apologise. I'll try.",
+      "reply_to": 176
+    },
+    {
+      "id": 180,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So as I understand it, you don't have any notes of this very vital conversation with Mr. Agnes. Is that right?"
+    },
+    {
+      "id": 181,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, but not only with him, not only for Mr. Agnes. There are other people, and the notes referring to those people I have not saved. Some of them I still have with me, but I am thinking about getting rid of them.",
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And just so that I have it clear, you were in the courtroom when Mr. Vukovic told us about a lengthy discussion with Mr. Agnes on a Saturday afternoon. Do you recall that?"
+    },
+    {
+      "id": 183,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do recall it.",
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when he transferred the file to you, did you have any notes of his conversation with Mr. Agnes available?"
+    },
+    {
+      "id": 185,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I recall, I did not save any notes, nor did I receive any pertaining to that conversation, other than the fact that he informed me of the contents of the conversation that he had.",
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So it was clear from his evidence that Mr. Agnes was considered an important-enough person for the Defence to know about that he accompanied you to go and talk to him and introduce you to him; isn't that correct?"
+    },
+    {
+      "id": 187,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I would say the reverse and understand Mr. Vukovic to have said the opposite.",
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, did you or did you not go with Mr. Vukovic at a time when you were introduced to Mr. Agnes by Mr. Vukovic?"
+    },
+    {
+      "id": 189,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you've told us, in some great detail in chief, about Mr. Vukovic telling you about his impressions of Mr. Agnes as a potential witness; isn't that true?"
+    },
+    {
+      "id": 191,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right, before that meeting.",
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So is it safe to say that he thought, at least, that it was important for you to know as much as you could about Mr. Agnes?"
+    },
+    {
+      "id": 193,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Actually, at that particular moment, as I was talking over the case, at my own request he agreed that I have an additional talk with Mr. Agnes because of the need to ask him some things which he did not have the possibility of asking him at the time, nor was he interested in them, and that is the persecution. And I mentioned that yesterday, and that is why that meeting was scheduled, because we could contact that kind of man for that purpose, as I did from October on.",
+      "reply_to": 192
+    },
+    {
+      "id": 194,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And all of this was done without the assistance of any notes from Mr. Vukovic?"
+    },
+    {
+      "id": 195,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I said yesterday in the course of my testimony, and I'm going to repeat it here today, that Mr. Vukovic's knowledge about the events talked to him about by Mr. Agnes was so modest that it would not have even taken up half a piece of paper, so I see no reason why I should exchange any documentation on that subject matter with him.",
+      "reply_to": 194
+    },
+    {
+      "id": 196,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Anyway, the long and short of it, you have no notes and you don't have Mr. Vukovic's notes; correct?"
+    },
+    {
+      "id": 197,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't.",
+      "reply_to": 196
+    },
+    {
+      "id": 198,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Did Mr. Neskovic give you his notes?"
+    },
+    {
+      "id": 199,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Mr. Neskovic, as far as I remember, several days prior to our joint visit to the village of Martinci, got from me a -- in that same notebook, a note of mine that I jotted down pertaining to a talk I had on the 22nd of September in Sremska Mitrovica. And he, as far as I recall, used that same notebook to introduce certain corrections in the sense of possible questions to be raised in the discussion with Mr. Agnes, and I told him that I planned to hold that talk. So that was also written down in my notebook.",
+      "reply_to": 198
+    },
+    {
+      "id": 200,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ryneveld, could I just have something clarified from the witness? He did, in fact, take notes of his conversation with Mr. Agnes. He doesn't have any notes now, the reason being that he got rid of the notes; is that so?"
+    },
+    {
+      "id": 201,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's what I was hoping to find out. I'm not sure whether I did. I'm still working on it."
+    },
+    {
+      "id": 202,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Would you answer that?"
+    },
+    {
+      "id": 203,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Quite so. Quite so, Your Honour. It was precisely like that, and as I said at the beginning. And this isn't -- wasn't only the case with Mr. Agnes.",
+      "reply_to": 198
+    },
+    {
+      "id": 204,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "We understand that. Now, just so that I'm clear, you had them and you got rid of them. That's it?"
+    },
+    {
+      "id": 205,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Absolutely so. In October or perhaps somewhat later.",
+      "reply_to": 204
+    },
+    {
+      "id": 206,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Didn't Mr. Agnes, during the course of that discussion you had with him, give you the names of other potential witnesses that he may be able to contact for you, according to your evidence?"
+    },
+    {
+      "id": 207,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. It was a question of three witnesses, and I mentioned their names yesterday.",
+      "reply_to": 206
+    },
+    {
+      "id": 208,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you not have taken down their names in those notes?"
+    },
+    {
+      "id": 209,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "If I do not have an address or an identification or any more precise detail on individuals of that kind, then I would have no reason to retain them in the notebook. And you yourself say -- you talk about him as a witness, but for me he was just an informer. So this was of negligible importance to me. It was -- he was saying that he knew those individuals.",
+      "reply_to": 208
+    },
+    {
+      "id": 210,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you wrote the names down. Is that fair to say?"
+    },
+    {
+      "id": 211,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "You can say that on that page where I jotted down the gist of our conversation, that I made a note of the names. Possibly I made a note of it on the lists that I looked through, whether ticking the names off of the people that he remembered, that he knew; although, I said yesterday that those individuals, for the most part, he knew by their nicknames, and it was difficult for him to reconstruct lists and help me to tell me exactly which individuals were in the primary school building. So I just ticked off each name as I came to it, the names that he sort of seemed to remember, that he remembered -- that perhaps he could get in touch with. But apart from Mirsad Sahanic, he did not have any details about anybody else.",
+      "reply_to": 210
+    },
+    {
+      "id": 212,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you already knew about Mr. Sahanic?"
+    },
+    {
+      "id": 213,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I learnt about Mr. Sahanic from him. I personally think -- I don't remember exactly, but I do believe that Mr. Vukovic knew about that too. I can't be certain. But at all events, I learnt this fact, and I knew about it on the 28th of September when I concluded my conversation with him.",
+      "reply_to": 212
+    },
+    {
+      "id": 214,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm going to move on, Mr. Avramovic. We've established you didn't bring a notebook with you because you no longer have it. All right. How about telephone bills?"
+    },
+    {
+      "id": 215,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, no. I didn't say that. I didn't say that. I did not say that the way you have just stated it. I apologise, but I didn't put it that way.",
+      "reply_to": 214
+    },
+    {
+      "id": 216,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, that's what I was trying to establish, Mr. Avramovic. Please correct me. Let's do it one-word answers to simple questions. Do you have the notebook?"
+    },
+    {
+      "id": 217,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I have the notebook. I have several notebooks.",
+      "reply_to": 216
+    },
+    {
+      "id": 218,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you have the relevant notebook containing the entries of your discussion with Mr. Agnes?"
+    },
+    {
+      "id": 219,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I do not have a notebook of that kind. I do not have the pages of it, the pages pertaining the conversation I had with him, and I explained this a moment ago. All irrelevant data I rip out of my notebook and throw them away. So they are notebooks with metal bindings, and I use them for my fieldwork. That's what it is.",
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Let me rephrase the question, because we seem to be equivocating about words. You have the notebook which once contained pages upon which you recorded your discussions. You have since ripped out those pages but still have the balance of the notebook; is that correct?"
+    },
+    {
+      "id": 221,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right. But not only about Mr. Agnes, and that is the essential point; not only about Mr. Agnes.",
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "It's not a point, sir. My point is you ripped those pages out and, therefore, you cannot bring them to court with you today; is that correct?"
+    },
+    {
+      "id": 223,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Absolutely so. Absolutely, yes.",
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Phone bills. Do you get phone bills for the work that you do on your defence cases?"
+    },
+    {
+      "id": 225,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "If I understand you correctly, let me say that I get telephone bills to pay from the post office, which sends them in to me in Belgrade. Is that what you mean? In that sense, yes, I do receive phone bills, of course.",
+      "reply_to": 224
+    },
+    {
+      "id": 226,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And please help me here. Do your phone bills record your long-distance charges when you call from Belgrade to, say, people in Bosanski Samac or people in Sremska Mitrovica or anywhere else?"
+    },
+    {
+      "id": 227,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Let me answer that question but let me just try to think for one moment. I do apologise. I do understand you, but give me a moment to think about it. Two telephone lines in the office in which I work are on the old exchange and cannot give you recorded information of that kind. The third telephone line, which was installed several months ago, has an up-to-date telephone exchange which allows you to receive records and reports on the telephone conversations you have had. If you have that in mind, then I think that what I have just answered is precise and detailed information.",
+      "reply_to": 226
+    },
+    {
+      "id": 228,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So do I understand correctly that prior to a few months ago, the telephone network did not give you printouts of your long distance phone calls; is that correct?"
+    },
+    {
+      "id": 229,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct. Allow me to repeat once again, if necessary. There are technical possibilities only for one telephone line, and that exists only as of recently.",
+      "reply_to": 228
+    },
+    {
+      "id": 230,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. I got that. Did you bill for your work on the Defence case?"
+    },
+    {
+      "id": 231,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Certainly.",
+      "reply_to": 230
+    },
+    {
+      "id": 232,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you have billed for your trip with Mr. Neskovic, with Mr. Vukovic, for your meetings with Mr. Agnes?"
+    },
+    {
+      "id": 233,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Regarding meetings held, in September, on the 22nd and the 28th of September, I think that from roughly that period of time onwards I have not billed for that period. In fact, I think that because those trips were not carried out within the deadline set by the Registry, I was unable to bill for them, but I will be doing so. In the case of these trips, as it is Sremska Mitrovica that we are talking about, apart from bills for fuel that I may have, I have no other bills that I could submit to the Tribunal for reimbursement. But I do not remember billing for this, though I'm not quite sure.",
+      "reply_to": 232
+    },
+    {
+      "id": 234,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Avramovic, the time period that we're talking about starts over a year ago; is that correct? September of 1998. Is it your evidence that you have not billed for your time either?"
+    },
+    {
+      "id": 235,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. No. I haven't submitted bills for the entire period of my engagement. If you have in mind expenses, there are other things, other bills that I compile on the basis my monthly activities. I'm talking about bills for business trips. That I haven't done, but I do have the necessary documents and I will be doing it. I will be submitting them.",
+      "reply_to": 234
+    },
+    {
+      "id": 236,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "That was not my question. Pardon me for not being clear. Let me be explicit. Did you bill for the time incurred in all of your dealings with Mr. Agnes? In other words, the hour and a half to two hours that you spent at his uncle's house on the 28th or the 29th of September, in the trip in the park with -- I think it was Mr. Vukovic? All of the times you were spending time with Mr. Agnes on this file, did you bill for that?"
+    },
+    {
+      "id": 237,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did submit a bill for my monthly activities, and I submitted an invoice as my professional engagement. If that's what you have in mind, I have done that. I express this in hours spent on interviews.",
+      "reply_to": 236
+    },
+    {
+      "id": 238,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you have itemised with which witness you would have spent the time? Is it a detailed bill such as \"hour and a half, Mr. Agnes,\" and then a location and a date?"
+    },
+    {
+      "id": 239,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I had a methodology of work prescribed by the Registry, and I marked my contacts with certain codes, as is customary.",
+      "reply_to": 238
+    },
+    {
+      "id": 240,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. I'm going to move on to another topic, Mr. Avramovic. I'm conscious of the time here. You told us yesterday, I believe, that Mr. Agnes told you that he could testify that Milan Simic was not at the primary school; isn't that correct, what you told us yesterday? It's a simple question."
+    },
+    {
+      "id": 241,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. A very simple question. He said that he had some information about events in the school and that he would be ready to talk about them.",
+      "reply_to": 240
+    },
+    {
+      "id": 242,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you told us about what he told you, that his evidence would be that he did not see Mr. Milan Simic at the primary school. Is that right?"
+    },
+    {
+      "id": 243,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. In effect, yes.",
+      "reply_to": 242
+    },
+    {
+      "id": 244,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I understood you correctly, you said that that testimony was not significant, in your view."
+    },
+    {
+      "id": 245,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. And I explained why yesterday, and I can repeat and give those reasons again.",
+      "reply_to": 244
+    },
+    {
+      "id": 246,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "No. Are you telling this Chamber that you felt, as the Defence counsel, that someone being able to say that he didn't see Milan Simic harm anyone at the primary school, in light of the charges that are against him, would not be of interest to the Defence?"
+    },
+    {
+      "id": 247,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I apologise, but you have interpreted this in your own words, and let me put it in my words. If somebody says that he hadn't seen Milan Simic ever in the elementary school, and Milan Simic himself says that he was in the elementary school, then such a testimony would be quite insignificant. In the context of other facts which I referred to yesterday, I assume that you yourself would treat such a person merely as a source of information and nothing more, not as a witness. Nor did he sign any kind of statement about it, nor did I ask him to do that.",
+      "reply_to": 246
+    },
+    {
+      "id": 248,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Avramovic, you were aware that Mr. Agnes had been detained with the very people against whom it is alleged that these crimes were committed in the indictment; isn't that true? You knew that and accepted that, did you not?"
+    },
+    {
+      "id": 249,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 248
+    },
+    {
+      "id": 250,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, if he said, since he was detained with these very people, that he never saw Milan Simic at the elementary school in relation to these people, wouldn't that be of interest to the Defence?"
+    },
+    {
+      "id": 251,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, not bearing in mind the overall picture about the events that I described yesterday; that is, my definite position as Defence counsel for Milan Simic.",
+      "reply_to": 250
+    },
+    {
+      "id": 252,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay, you're the Defence counsel, sir. Now, moving on to Mirsad Sahanic, you say that the purpose for continuing contact with Mr. Agnes was because he said he could put you in touch with other witnesses; is that right? That's the only reason you gave us for continued contact?"
+    },
+    {
+      "id": 253,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I wouldn't call it continued contact, continuous contact, but that was the reason, yes.",
+      "reply_to": 252
+    },
+    {
+      "id": 254,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Shall we say \"repeated contact\"?"
+    },
+    {
+      "id": 255,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I said yesterday two telephone calls in that connection.",
+      "reply_to": 254
+    },
+    {
+      "id": 256,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, you've already told us that you had by then decided that you would not call him as a witness; is that correct?"
+    },
+    {
+      "id": 257,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 256
+    },
+    {
+      "id": 258,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And therefore his only purpose would be to locate these other witnesses for you?"
+    },
+    {
+      "id": 259,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Exactly.",
+      "reply_to": 258
+    },
+    {
+      "id": 260,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did I understand you correctly yesterday that when you were at the meeting at his uncle's house and he told you the names of a number of these other witnesses and that he may be able to locate them for you, that you told him that you would leave it up to him to decide whether he wanted to do that or not?"
+    },
+    {
+      "id": 261,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Certainly.",
+      "reply_to": 260
+    },
+    {
+      "id": 262,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Here we have a witness who is offering you up these names on a silver platter, and you're saying to him, \"You don't have to. It's up to you, if you choose.\" Is that your evidence?"
+    },
+    {
+      "id": 263,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Absolutely so. I mustn't exert any pressure even on a source.",
+      "reply_to": 262
+    },
+    {
+      "id": 264,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "That's not pressure, sir. Wouldn't you jump at the chance of getting him to; \"Hey, by all means, by all means\"?"
+    },
+    {
+      "id": 265,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Why would I insist on it? It is up to his free will to do it or not.",
+      "reply_to": 264
+    },
+    {
+      "id": 266,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. So --"
+    },
+    {
+      "id": 267,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I hope we understand one another. It is up to him to decide whether he wishes to get in touch with somebody. I explained that yesterday, and I would like to make that very clear, that he himself told me that such contacts were an extremely delicate matter and that he would try. He offered to do it. But he added that it would be difficult to achieve. And why should I then, knowing that, having been told that, insist on something that he said himself was a sensitive matter and which I know to be sensitive even if he hadn't told me?",
+      "reply_to": 266
+    },
+    {
+      "id": 268,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So do I take it, then, that not only did you not exert any pressure on him to give you a statement, but you also cautioned him that he needn't do what he offered to do unless he really wanted to do it; is that right?"
+    },
+    {
+      "id": 269,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is how I deal with everybody. That is my approach.",
+      "reply_to": 268
+    },
+    {
+      "id": 270,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I think I asked you this moments ago. Mirsad Sahanic, you said you heard his name for the first time from Mr. Agnes?"
+    },
+    {
+      "id": 271,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. As far as I can remember, that was on the 28th of September when we had that conversation.",
+      "reply_to": 270
+    },
+    {
+      "id": 272,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You're aware, are you not, sir, that Jasna had already contacted Mirsad Sahanic, are you not?"
+    },
+    {
+      "id": 273,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. At that point in time, no.",
+      "reply_to": 272
+    },
+    {
+      "id": 274,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Hadn't Jasna already given you his name and address and phone number?"
+    },
+    {
+      "id": 275,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 274
+    },
+    {
+      "id": 276,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You now know that she was the one that got the phone number in Tuzla?"
+    },
+    {
+      "id": 277,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I learned that later.",
+      "reply_to": 276
+    },
+    {
+      "id": 278,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "In fact, as it turned out, Mr. Agnes didn't know where Mirsad lived, did he?"
+    },
+    {
+      "id": 279,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "He told me on the 28th, I remember that well, that he thinks that he lives in Tuzla or, rather, that his family is in Tuzla and that he is somewhere abroad. I don't remember whether he said Germany or some other country, but that he had been told something to that effect. That I knew.",
+      "reply_to": 278
+    },
+    {
+      "id": 280,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were in the courtroom when both Jasna and Mr. Agnes told the Court that he got the phone number from Jasna; he had no idea where he was?"
+    },
+    {
+      "id": 281,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I see my friend on his feet."
+    },
+    {
+      "id": 282,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I've studied the transcripts with some care, and the assertion that Mr. Agnes told the Court that he got the phone number from Jasna is misleading. I can draw my friend's attention to the passages where Mr. Agnes deals with this particular question."
+    },
+    {
+      "id": 283,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. Ryneveld."
+    },
+    {
+      "id": 284,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm not sure if it's necessary at this point, if my friend tells me the words are somewhat different. I've paraphrased my understanding of the evidence, but I'm going to move on."
+    },
+    {
+      "id": 285,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 286,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, did you at any time encourage Jasna to make contact with Mirsad?"
+    },
+    {
+      "id": 287,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. Talking to Jasna in October, I learned that Agnes knew Mirsad and that if he had promised to get in touch with him, he could do so. More than that, Jasna and me, we did not talk about that. At that time, I did not get from Jasna any information about her having a telephone number, or being in touch with him, or anything else linked to Mirsad Sahanic.",
+      "reply_to": 286
+    },
+    {
+      "id": 288,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "When did you find out that Jasna and Mr. Agnes had Mirsad's phone number?"
+    },
+    {
+      "id": 289,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I didn't learn that throughout the period while I was working on Mr. Milan Simic's Defence, except that talking to Mr. Agnes at his request at the end of the year, I learned that he had learned that Mirsad was coming to Tuzla. Where he got the telephone number from, whether he personally found out or someone else, I didn't ask him and I wasn't interested in learning.",
+      "reply_to": 288
+    },
+    {
+      "id": 290,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were encouraging Mr. Agnes to contact Mirsad, weren't you?"
+    },
+    {
+      "id": 291,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I wasn't encouraging him. He offered to do so if I thought it necessary.",
+      "reply_to": 290
+    },
+    {
+      "id": 292,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you think it necessary?"
+    },
+    {
+      "id": 293,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Certainly it would have been useful, I felt, to get in touch with anyone who had been detained in the primary school, and therefore including Mirsad Sahanic. If he were willing and if he were to be a credible witness, certainly.",
+      "reply_to": 292
+    },
+    {
+      "id": 294,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You needed Mr. Agnes to contact Mirsad and lure him into Bosnia, didn't you?"
+    },
+    {
+      "id": 295,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. He was my source.",
+      "reply_to": 294
+    },
+    {
+      "id": 296,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you're telling us that you were not aware that Jasna was also trying to contact Mirsad and lure him, through whatever ways she had of luring Mirsad, back to Bosnia?"
+    },
+    {
+      "id": 297,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, never, until these contempt hearings started.",
+      "reply_to": 296
+    },
+    {
+      "id": 298,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, do you know whether calls from the Republika Srpska to Germany are expensive?"
+    },
+    {
+      "id": 299,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I really couldn't give you a reliable answer because the prices differ from those in Serbia, I'm quite sure. I don't know how much they cost.",
+      "reply_to": 298
+    },
+    {
+      "id": 300,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Long-distance phone calls are generally quite expensive, are they not, sir, in the area where you live?"
+    },
+    {
+      "id": 301,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, certainly they are expensive. We must agree on that. It depends, of course, how long they are.",
+      "reply_to": 300
+    },
+    {
+      "id": 302,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was it clear, from your discussions with Mr. Vukovic, that Jasna was doing everything she could to assist in the Defence of Mr. Milan Simic's case?"
+    },
+    {
+      "id": 303,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was never my impression, nor was that what Mr. Vukovic conveyed to me, nor did I get that impression from my few meetings with Ms. Marosevic, not the kind of impression you have just described.",
+      "reply_to": 302
+    },
+    {
+      "id": 304,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Then why, sir, would you have contact with Agnes through Jasna Marosevic?"
+    },
+    {
+      "id": 305,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The contact was established through Jasna Marosevic for the benefit of my colleague Drago Vukovic. That is an established fact. Later on, all my contacts with Mr. Agnes were direct between the two of us in the scope which I described yesterday. I do not see why Jasna Marosevic would be somebody I would need from then on as a person for contact, if I understand you well.",
+      "reply_to": 304
+    },
+    {
+      "id": 306,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you deny that she was a contact between you and Mr. Agnes on many occasions?"
+    },
+    {
+      "id": 307,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "We have to be very precise when talking about these things. The contact I had with her in October was a logical follow-up of my needs to talk to a person who knew him personally, and she was such a person. Drago Vukovic told me that, to talk to her about certain things linked to the credibility of Mr. Agnes and to collect information about that. From then on, my contacts were direct, as I described them yesterday. And never did I engage Ms. Jasna Marosevic for that purpose, nor did I make any particular requests of her. To be quite frank, I saw her only a couple of times throughout that period. Do not forget that I had a great deal of work to do, and I didn't have time, among the many contacts I had to make, for this particular contact which I'm not going to say was not interesting, but it was not overly significant. I had other sources of information, and I still have other sources.",
+      "reply_to": 306
+    },
+    {
+      "id": 308,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, sir, we know of at least a number of occasions where Jasna was present during your dealings with Mr. Agnes, one of which was in the Cafe Lotos that she testified to a day or two ago, when she sat down and had a drink with you and you moved off with Mr. Agnes to another office. That was one occasion; correct?"
+    },
+    {
+      "id": 309,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. You're talking about April. About April. Yes. Correct.",
+      "reply_to": 308
+    },
+    {
+      "id": 310,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you had a meeting with Jasna over the blue bag. You've told us about that today."
+    },
+    {
+      "id": 311,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, but that was not the context of the contempt hearing. This is another case altogether.",
+      "reply_to": 310
+    },
+    {
+      "id": 312,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you've heard Mr. Agnes tell the Court about all the contacts that he had allegedly with you and/or Mr. Simic in Jasna's presence. You heard him tell the Court about those instances. You deny those?"
+    },
+    {
+      "id": 313,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, indeed I heard it. I'm not only denying it but I think the whole impression given is like fata morgana. I really don't know where such an image came from.",
+      "reply_to": 312
+    },
+    {
+      "id": 314,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "What do you mean by that, sir? What do you mean by that expression. I think it was \"fata morgana.\""
+    },
+    {
+      "id": 315,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I apologise, Your Honour. As the Prosecutor somehow prompted me to say that I had listened to the testimony of Mr. Agnes, and everything I heard that relates to our mutual contacts is so unreal and so full of various numbers, dates, meetings, that it appears to be a product of a fanciful imagination. And I apologise for using this expression. Maybe it's not the best.",
+      "reply_to": 312
+    },
+    {
+      "id": 316,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ryneveld, maybe on this note we could take a break."
+    },
+    {
+      "id": 317,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. Absolutely."
+    },
+    {
+      "id": 318,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Before we take a break, Judge Hunt."
+    },
+    {
+      "id": 319,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Haynes, are you going to tender the interview which Mr. Simic had with the Prosecution that was referred to in the evidence yesterday?"
+    },
+    {
+      "id": 320,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I don't believe so, no."
+    },
+    {
+      "id": 321,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, what do we do, we just accept that that is stated there, do we?"
+    },
+    {
+      "id": 322,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, it may well be there is some means of accommodation."
+    },
+    {
+      "id": 323,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "I don't mean the whole but --"
+    },
+    {
+      "id": 324,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No. No."
+    },
+    {
+      "id": 325,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "-- I think it may be important the way it was said or the context in which it was said, because my recollection was your client, your current witness, said that Mr. Simic had stated to the Prosecution that he had been at the elementary school on one occasion."
+    },
+    {
+      "id": 326,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's correct."
+    },
+    {
+      "id": 327,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, I think, if I may say so, it might help us if we saw the context in which that was said."
+    },
+    {
+      "id": 328,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. It may well be that that's not achievable in a practical form until tomorrow."
+    },
+    {
+      "id": 329,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. That's why we're raising it now."
+    },
+    {
+      "id": 330,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 331,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Haynes, just to clarify, do you have one more witness after Mr. Avramovic?"
+    },
+    {
+      "id": 332,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, there is one more witness. Then I shall move documents into evidence that have already been filed, but we've put them in a more digestible and comprehensible form, and then we will have to consider whether the evidence of Mr. Spasoje Pisarevic is in an admissible form as an affidavit or, rather, statement. I know there is an amendment to that Rule, that I've just seen this morning, and that should conclude the --"
+    },
+    {
+      "id": 333,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "The amendment to the Rule, unfortunately, does not come into operation until next Monday, and the Prosecution has already taken the somewhat technical view that we are bound by the Rules of Procedure and Evidence as they presently stand."
+    },
+    {
+      "id": 334,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, it may well be, therefore, that we have to consider briefly whether the evidence of Mr. Spasoje Pisarevic is currently in the form of an affidavit, because I think the crucial difference between the two Rules is the addition of the phrase \"some form of statement.\" I don't have the Rule currently before me."
+    },
+    {
+      "id": 335,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "The Rule is amended to take into account what we were informed was the absence of any affidavits or any procedure for taking affidavits in the former Yugoslavia. The answer may be, of course, if the Prosecution really wants to rely on such a technicality, to withhold and tender it after next Monday."
+    },
+    {
+      "id": 336,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's very helpful."
+    },
+    {
+      "id": 337,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ryneveld?"
+    },
+    {
+      "id": 338,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Perhaps I may have some clarification. I'm not quite clear on Judge Hunt's comment on the technical view that --"
+    },
+    {
+      "id": 339,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "It was a document which was filed yesterday in other proceedings in this trial, in which we had suggested that we should hear an application for provisional release upon the basis that the Rule which has been amended -- we took that into account but gave our decision after the Rule had been, in fact, amended and come into operation. There is a very solemn and long and rather dreary document filed in which we are reminded solemnly that we are bound by the Rules as they currently stand. That's why I described it as a somewhat technical point."
+    },
+    {
+      "id": 340,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you. Just so that I was clear. I was at a loss in terms of something that perhaps I or my colleagues said during the course of this aspect of the case."
+    },
+    {
+      "id": 341,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "No, but your colleagues have signed the document. They'll explain it to you."
+    },
+    {
+      "id": 342,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you. But now I understand that this is something -- thank you."
+    },
+    {
+      "id": 343,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Happily, you're not involved in those proceedings."
+    },
+    {
+      "id": 344,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you very much. I was a bit taken at a loss in terms of what I had done to -- thank you."
+    },
+    {
+      "id": 345,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Not so much at a loss as we were when the point was taken."
+    },
+    {
+      "id": 346,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "We will take the adjournment for 20 minutes."
+    },
+    {
+      "id": 347,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. Ryneveld."
+    },
+    {
+      "id": 348,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Your Honours. Prior to proceeding with the cross-examination, if I may, may I clarify the position that I would like to take as senior trial attorney on this aspect of the case with respect to my friend's submission as to the introduction of the document from Mr. Pisarevic, I believe it was, Spasoje Pisarevic. I have absolutely no concern or problem with that document being entered. As a matter of fact, I believed, when I asked for the motion yesterday by way after housekeeping motion, that all of the documents that had been filed. It was my understanding that that document, having already been filed, would be one of the documents that would be moved into evidence. So just so that I'm clear, I'm not taking a technical approach to the introduction of that document. We're quite content to have it moved in."
+    },
+    {
+      "id": 349,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. I see you are in your role as Minister of Justice. Please continue."
+    },
+    {
+      "id": 350,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "You are commended."
+    },
+    {
+      "id": 351,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour. If I may now proceed."
+    },
+    {
+      "id": 352,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm going to shorten my cross-examination, I'm sure you will be happy to know, but there are a couple of areas I want to still touch upon. I will also try and speak closer to the microphone. I understand they're having difficulty hearing me. Now, sir, you've told us that Mr. Agnes offered you his assistance in finding witnesses for Milan Simic. Isn't that correct? It was his offer?"
+    },
+    {
+      "id": 353,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 352
+    },
+    {
+      "id": 354,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, why do you think he would do that? I mean, you know that he was detained by the Serbs in Bosanski Samac for a number of months, and you know that it's alleged that Mr. Milan Simic was one of the people who was there at the camp; correct?"
+    },
+    {
+      "id": 355,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 354
+    },
+    {
+      "id": 356,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Why would Mr. Agnes possibly come forward to offer to testify for someone linked to his captors? As Milan Simic's lawyer, does that make sense to you?"
+    },
+    {
+      "id": 357,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "His wish to tell the Defence team of Milan Simic everything that he knew about the primary school was not anything strange for me. I didn't at any time -- regardless of the reasons that you have just brought up, which can be put forward with a lot of argument that an individual of that kind should not talk to the Defence counsel for Milan Simic, and that is what I came to understand when Mr. Vukovic conveyed to me the conversation he had had, that he did so voluntarily and wished to state what he stated to him and subsequently to me, it did not appear to me to be especially unusual, that is to say, that somebody who had been in the primary school should tell the Defence team something, of course, unless he was a Prosecution witness. As far as I was able to see from the list of individuals, there were lots of people who were not Prosecution witnesses, that is to say, people who had been detained in the primary school building and who would come forward to testify about the events that had taken place in the primary school. This wasn't strange -- didn't appear strange to me, particularly in view of the fact that for a given length of time, he had lived in the Republika Srpska. And I felt that this was acceptable, it was acceptable for me to hear him out.",
+      "reply_to": 356
+    },
+    {
+      "id": 358,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you found nothing surprising about a victim coming forward offering to assist one of the people who were his captors; is that correct?"
+    },
+    {
+      "id": 359,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Let me be quite frank in answering your question. There are many people who can be considered victims who will, nonetheless, be witnesses testifying here. At least I can only assume that there will be.",
+      "reply_to": 358
+    },
+    {
+      "id": 360,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "But in terms of Mr. Agnes, what was in it for him; a job, an apartment, money maybe?"
+    },
+    {
+      "id": 361,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, absolutely not. It was a friendly relationship coming from Ms. Marosevic, from a circle of friends, from the people she herself knew personally, and that's what Mr. Drago Vukovic told me. And later on this really did turn out to be so. Possibly the motives were related to Ms. Jasna Marosevic, but I didn't delve into the motives more deeply. But as I say, it wasn't a great surprise to me that somebody did offer to come forward and tell the Defence something about it.",
+      "reply_to": 360
+    },
+    {
+      "id": 362,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Before I move on to the next topic, I'm just reminded, sir, that yesterday you said something about you had checked with a number of people about Mr. Agnes, including Prosecution witnesses, and I remember I objected at that point in time about the source of your information. Who were those Prosecution witnesses that you referred to? Could we have their names?"
+    },
+    {
+      "id": 363,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Ah, that was completely incorrect. It was a completely erroneous understanding on your part about what I was talking about yesterday, what I said here yesterday. No, they were not my contacts at all with the Prosecution witnesses. I said something quite different, and I want you to understand that in very precise terms and that it be recorded in the transcript, that searching for the need to inform myself on certain issues which were to have given me a full picture and allow me to decide upon the status of Mr. Agnes, I had a certain number of talks in the town of Samac very shortly afterwards. These were not Prosecution witnesses. Quite the contrary. They were citizens who live in Samac to this day and who know Mr. Agnes, and it is from those sources that I received additional information. And one of these pieces of information was the piece I brought up here yesterday, and that is that there was knowledge to the fact that Mr. Agnes, during his detention period, was in conflict with other detainees. And he himself told me that the local -- if I can use that word -- detainees from Samac were not very nice to people who had come in from elsewhere, from other territories or from other towns, and it was in that sense that it seems he had a conflict with them. And according to the information that I received, it boiled down to the fact that a number of these detainees or several individuals beat him up or quarrelled with him with respect to certain events that had taken place during the detention period. And so I followed along this logically and thought that if these individuals were possibly witnesses for the Prosecution, because I didn't know who these individuals were, then quite certainly Mr. Agnes, as a Defence witness, would not be credible because possibly people could have known this and then checked out the credibility of my witness, for example, if I were to put him forward. So it is in that context that I said what I did yesterday. So it is a piece of information that reached me. Of course, it need not be a correct piece of information. But on the basis of that information, I was able to make a decision as to the credibility of somebody who would one day make me a statement and that I could perhaps put forward as a potential witness for Mr. Milan Simic. So that is the essence of what I was trying to say yesterday here in this courtroom.",
+      "reply_to": 362
+    },
+    {
+      "id": 364,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So is that a long way of telling me you don't have the names of witnesses for me?"
+    },
+    {
+      "id": 365,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The witnesses that I received information from, you mean? Well, I can, of course, give you them. There isn't a problem there. But I see no reason why I should here. Let me be quite frank. I'll tell the Trial Chamber -- I'm willing to tell the Trial Chamber everything. One of the people I talked to was my investigator, Mr. Spasoje Pisarevic, who had this kind of information given him, and he drew my attention to it. Of course, he did not check it out either, and that is why I said that it was a piece of information which need not be true, need not be correct. But it allowed me to make my own conclusions. And I had some other very strong arguments leading me to decide that I should treat this individual as an informer and not as a witness or potential witness. So that is what I know about that subject. I had quite a number of talks with people in Samac, you know.",
+      "reply_to": 364
+    },
+    {
+      "id": 366,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Your source of information wasn't independent witnesses at all; it was your investigator and it was rumour and innuendo?"
+    },
+    {
+      "id": 367,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, it's like this: I make my own decisions on the basis of the evidence that I have at my disposal. But when I paint a picture of something, then you can believe me that I can also paint a picture on the basis of rumours and innuendo. However, if rumour and innuendo were the sole source of information, then I probably wouldn't have brought in that kind of decision. But I heard what I heard from Ms. Jasna Marosevic, and I checked out my information in the field, and all this indicated that an individual of that kind could not be a credible witness in the Defence case for Mr. Milan Simic, and so I made a definite decision and severed all further contacts with him in treating him as a potential witness in the case before this Tribunal. So that is what I can tell you about that particular matter at this particular point.",
+      "reply_to": 366
+    },
+    {
+      "id": 368,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Sir, I want to move on to another area."
+    },
+    {
+      "id": 369,
+      "speaker": "JUDGE BENNOUNA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] Mr. Ryneveld, I should like you to ask the witness. The witness has told us that he decided at a certain point in time not to use Mr. Agnes anymore as a witness due to the absence of credibility that he thought he had and decided to use him as an informer, as a source of information. Could you ask the witness what prompted him to use Mr. Agnes as an informer?"
+    },
+    {
+      "id": 370,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour. I will."
+    },
+    {
+      "id": 371,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, you've heard His Honour's question. I will repeat it. What prompted you to use Mr. Agnes as an informer, if not any longer as a witness?"
+    },
+    {
+      "id": 372,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'll give you a brief answer, although I do believe that I spoke about that yesterday. I had several pieces of information given to me by Mr. Agnes which indicated that it was an individual -- I was dealing with an individual whom I could not believe, whose credibility I could not believe in. He told me himself that he had two names, one name which he used during his sojourn in the Republika Srpska and the other name which he used while he was in Serbia. He himself told me that he had changed his name in a way as he put before this Tribunal, although I think when he told me about this change of name, he said he changed his religion as well, that is to say, that he changed his religion in church. And he also told me that he was a refugee. Now, I can consider myself highly competent at least in that area, because in the course of my professional life and work, I drew up and drafted rules and regulations relating to that subject matter and I knew that that was a lie. When he told me this, I knew for a fact that he had lied to me or he was lying to me, because he could not have been able to do that officially, above board, he could not have done that; not because he was a Muslim but because no individual who was a refugee in Serbia, even if he was a Serb or any other nationality, could change his surname, because refugees are not entitled to avail themselves of the right to change their surname. This can only be done by citizens --",
+      "reply_to": 371
+    },
+    {
+      "id": 373,
+      "speaker": "JUDGE BENNOUNA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] Mr. Avramovic, you're moving away from the question. We already have a full page of the transcript on the screen, at least, without me getting an answer to my question. What made you, once you decided not to use Mr. Agnes as a witness -- that we have understood, but you maintained contact with him after that -- what was it that prompted you to use him as a source of information, and which kind of information did you expect from him, and did you get that information from him? That is the gist of the question."
+    },
+    {
+      "id": 374,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I understand you, Your Honour. I would merely like, as the Prosecutor has just asked me, to tell you of some details which made me decide that I wouldn't use him. First, the fact that he had committed a criminal offence on the territory of the Republika Srpska; next the fact that he was in the army of the Republika Srpska and for unknown reasons had stepped down from it; also the fact that Ms. Marosevic --",
+      "reply_to": 371
+    },
+    {
+      "id": 375,
+      "speaker": "JUDGE BENNOUNA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] No, I have to interrupt you. That was not what I wanted. We already have all that information. The Tribunal has heard all that through the very testimony and cross-examination of Mr. Agnes himself, so there's no point in repeating that for a second or third time. You yourself, you're testifying now. Mr. Agnes has already testified. Why did you decide to use Mr. Agnes as an informer, and what information did you expect to get from him?"
+    },
+    {
+      "id": 376,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "My decision to take him on as an informer was exclusively guided by his proposal and desire to get me in touch with the individuals whom I had ascertained he, in fact, could get me in touch with. For that, you don't need credibility of any kind. So my sources of information are also criminals or people who have been convicted of certain offences, and I expected that he could perhaps give me some information related to another contact that he could schedule for me, which he did not do. He did not put me in touch with anybody. This does not mean that I need not -- that I would not perhaps decide to call him as a witness one day in the proceedings here. So I think that that would be my answer to the question posed by Your Honour.",
+      "reply_to": 371
+    },
+    {
+      "id": 377,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "So following up from that -- sorry."
+    },
+    {
+      "id": 378,
+      "speaker": "JUDGE BENNOUNA",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 379,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Following up from that, Mr. Avramovic, you are quite content to use an unreliable, as you put it, informer; is that right?"
+    },
+    {
+      "id": 380,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, an informer is somebody who can be very unreliable but who can give you a piece of information which you check out later on. It's a contact man, somebody who puts you in touch with somebody else, who informs you about something, and it is up to you to determine the truth of the information you've been given. So an informer is a well-known category in any proceedings and in preparing a defence case as well.",
+      "reply_to": 379
+    },
+    {
+      "id": 381,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And I take it informers are usually rewarded for their efforts, aren't they?"
+    },
+    {
+      "id": 382,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It depends what subject and before what organs and institutions. If you're thinking about informers officially working for certain services, then I can only assume that they are remunerated for their work, depending on the service which has engaged those individuals to provide them with information. But when we're talking about a defence case, this is done on a voluntary basis, absolutely, and something which is left to the personal discretion of the individual, whether he wishes to do so or not. So you must behave towards these individuals according to the book and according to the principle of voluntariness. And if they wish to do so, they do; and if they don't, they don't.",
+      "reply_to": 381
+    },
+    {
+      "id": 383,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And Mr. Agnes was going to do this from the goodness of his heart for one of the people who was present when he was detained; is that it?"
+    },
+    {
+      "id": 384,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot enter into his motives, nor can I explain his motives fully. I said a moment ago that his motives could be through the friendship that he had with Ms. Marosevic. Why shouldn't an individual, quite simply, be held in that status regardless of whether he was a detainee? That is my view, and that is what I decided to do in October 1998.",
+      "reply_to": 383
+    },
+    {
+      "id": 385,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'll move on. Sir, you've told us that you shared office space with Mr. Pantelic and Mr. Vukovic, is that correct, in Belgrade?"
+    },
+    {
+      "id": 386,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. But there's some other colleagues -- I apologise, yes.",
+      "reply_to": 385
+    },
+    {
+      "id": 387,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "There were some other colleagues. Okay. You would share office space, share expenses, share phone lines, share secretarial maybe?"
+    },
+    {
+      "id": 388,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, you could say that the majority of the things you enumerated, the sort of logistics of it, are shared.",
+      "reply_to": 387
+    },
+    {
+      "id": 389,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you have separate practices?"
+    },
+    {
+      "id": 390,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Absolutely so.",
+      "reply_to": 389
+    },
+    {
+      "id": 391,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "But in a collegial setting, would you help each other out? For example, if somebody was sick or on holidays or tied up in trial, would you assist each other with each other's cases?"
+    },
+    {
+      "id": 392,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "In practice, we can always ask for a replacement of any lawyer who is not able to attend trials. In concrete terms, I always can and have the right to ask somebody -- some of my colleagues to replace me in a trial and that is something that we avail ourselves of, but we always take an expert, theoretically viewed, and hypothetically. I'm answering your question hypothetically. For example, if somebody who could replace me was in my own environment, then I would ask him to replace me at a trial or anything else, at some proceedings before a court.",
+      "reply_to": 391
+    },
+    {
+      "id": 393,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Avramovic, the questions I'm about to pose to you are not technical, they're not hypothetical, and I'm going to direct them specifically. Did you have the kind of working relationship with your colleagues, your -- I won't call them partners because that has another legal expression, but with your colleagues in practice, that you would assist each other?"
+    },
+    {
+      "id": 394,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I wouldn't put it that way. I think that we all worked for ourselves as individual private practices.",
+      "reply_to": 393
+    },
+    {
+      "id": 395,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you knew about each other's cases?"
+    },
+    {
+      "id": 396,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, we would socialise, of course, outside the office as well, and we would exchange information about our clients or potential cases which we decided to take on. We're friends, yes.",
+      "reply_to": 395
+    },
+    {
+      "id": 397,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And Milan Simic's case was one of those cases that you discussed?"
+    },
+    {
+      "id": 398,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "If you have in mind the defence of Milan Simic, then myself and Drago Vukovic were involved in that case from the very beginning, and when I was officially appointed his assistant, we did talk about it, yes.",
+      "reply_to": 397
+    },
+    {
+      "id": 399,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Pantelic knew what you were up to as well, didn't he?"
+    },
+    {
+      "id": 400,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "He did, of course, know the case that I was involved in.",
+      "reply_to": 399
+    },
+    {
+      "id": 401,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And would you discuss the names of potential witnesses with your colleagues?"
+    },
+    {
+      "id": 402,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, in exchanging information about our work and in exchanging the knowledge that we came by sometimes, it would be possible sometimes to impart information about potential witnesses as well or individuals which could give you information. I would tell that to my colleague Mr. Pisarevic were that relevant for his client.",
+      "reply_to": 401
+    },
+    {
+      "id": 403,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sure. Now, I suggest to you, sir, that you had discussions with Mr. Agnes about a rehearsal programme that you wanted him to attend, didn't you? A rehearsal of evidence."
+    },
+    {
+      "id": 404,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "A rehearsal of testimony that I heard for the first time through his statements. That is when I first learned that type of terminology; that is to say, between myself and Mr. Agnes it was never a topic of discussion, nor was I able to understand what it meant.",
+      "reply_to": 403
+    },
+    {
+      "id": 405,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, didn't you discuss with him that there would be a time when he would come for a week and someone would pretend to be a Prosecutor and someone would pretend to be a Defence counsel and his evidence would be rehearsed? Didn't that happen?"
+    },
+    {
+      "id": 406,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. We never discussed that.",
+      "reply_to": 405
+    },
+    {
+      "id": 407,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, sir, Mr. Agnes is not a lawyer, is he? To your knowledge."
+    },
+    {
+      "id": 408,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right.",
+      "reply_to": 407
+    },
+    {
+      "id": 409,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "How would he know about such a programme of rehearsed evidence unless someone had talked to him about that?"
+    },
+    {
+      "id": 410,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I think I am going to object to that question."
+    },
+    {
+      "id": 411,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ryneveld, I think that's more in the form of a comment."
+    },
+    {
+      "id": 412,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, it's a comment that I would ask the witness to -- yes, you're right. Sorry."
+    },
+    {
+      "id": 413,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think it's a matter for us to make that assessment."
+    },
+    {
+      "id": 414,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "You're right. Well, let me go on."
+    },
+    {
+      "id": 415,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, at the time when all of this occurred in, say, April and May, there was a scheduled trial date for this case, was there not, the 22nd of June? Do you recall?"
+    },
+    {
+      "id": 416,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. At that time in May, at a conference which was held, I think, on the 27th, 8th, or 9th of April, a trial date had been set for the 23rd, I think, of June. Yes. I remember that quite well. That was the first time I learnt that the trial would begin.",
+      "reply_to": 415
+    },
+    {
+      "id": 417,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, I'd suggested to you that you had, in fact, discussed with Mr. Agnes, that there was such a programme of rehearsal and that your colleagues knew about it. I suggested that to you and you denied it; is that correct?"
+    },
+    {
+      "id": 418,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I absolutely deny something I never talked about nor discussed. And at the end, when I learnt about the trial, I didn't see that man again.",
+      "reply_to": 417
+    },
+    {
+      "id": 419,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, did you listen to the tape of the telephone conversation of the 10th of May, 1999, where there is a discussion with your colleague Mr. Pantelic, followed by a discussion with you? Did you listen to that tape, all of it?"
+    },
+    {
+      "id": 420,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 421,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "We dealt with this, and that portion of the tape is not part of the evidence in this case."
+    },
+    {
+      "id": 422,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "My response is: Not yet. It's now quite clearly an issue of credibility, and I'm about to launch my cross-examination of this witness on the basis of the foundation which I have just laid on the issue of credibility of an extremely significant issue, that there is reference in the portion of the tape referring to a programme. Mr. Pantelic, in that tape, actually talks about the timing of the programme being changed, and he calls him by the name \"Daki.\""
+    },
+    {
+      "id": 423,
+      "speaker": "JUDGE BENNOUNA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] Mr. Haynes, if my recollection is correct, you yourself, in your examination of this witness, you referred to this conversation, and it is normal, it is quite pertinent for the cross-examination to refer to it. I think that this kind of objection should not be repeated frequently. The cross-examination fits within the framework of the examination-in-chief, even if it has not been admitted into evidence. I think that you should not raise this kind of objection."
+    },
+    {
+      "id": 424,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I'm sorry if anything in my examination-in-chief was misleading or was not easy to follow, but I think Your Honour will find that the telephone conversation I referred to was the one between Mr. Agnes and Mr. Avramovic and only that conversation, and there can be no sensible suggestion that that is inadmissible, and I do not suggest it's inadmissible, and if he needs to be cross-examined about that, then he can be. But we're now moving into an area where the conversation referred to is between Mr. Agnes and a third party."
+    },
+    {
+      "id": 425,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "That's the problem. You see, it was excluded before, or at least it was not admissible because it looked as if it was seeking to involve Mr. Pantelic in some form of contempt, and that had been a matter that had been dealt with at some earlier stage. Well, this evidence now goes in as a fact relevant to credit, not to show that Mr. Pantelic has been guilty of contempt but to show there was some discussion about a rehearsal. Why is it not admissible as hearsay evidence?"
+    },
+    {
+      "id": 426,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I say it's not admissible because it's a conversation between Mr. Agnes and a third party, and --"
+    },
+    {
+      "id": 427,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "So what?"
+    },
+    {
+      "id": 428,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, it's not something upon which this witness can properly comment."
+    },
+    {
+      "id": 429,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "No. No, no. He's not being asked to comment on the fact of the conversation but the truth of what was said."
+    },
+    {
+      "id": 430,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Then that would make it pure hearsay."
+    },
+    {
+      "id": 431,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "If he says he knows nothing about it, that's the end of the cross-examination, but it would not make the rest of the tape inadmissible."
+    },
+    {
+      "id": 432,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Haynes, we have considered this matter. We think that there is a sufficient foundation for the question."
+    },
+    {
+      "id": 433,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I think we better think about the practicality of this then, because at the moment, we, none of us, have heard it in evidence in this case, nor seen any transcript of it in any language. It's simply not part of the evidence. It hasn't been moved into evidence."
+    },
+    {
+      "id": 434,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ryneveld?"
+    },
+    {
+      "id": 435,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour. The tape is primed and ready to go. I have transcripts of it, and the original transcript, I believe, has already been filed and is in evidence before this Court."
+    },
+    {
+      "id": 436,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, I don't know. I haven't seen the documents that came in with that tender. But it's certainly a document that I have seen."
+    },
+    {
+      "id": 437,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. And my friends have a copy of the tape -- my friends have a copy of the tape itself. They've heard the entire tape. They've had this for quite some time."
+    },
+    {
+      "id": 438,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No. I wasn't seeking to suggest that as a matter of fact this had not been disclosed, I was seeking to discover how this is going to affect the course of these proceedings, whether it is to be adduced as evidence now or as some form of rebuttal in due course, and of course it raises the very obvious possibility if not probability that the Defence will be calling a further witness."
+    },
+    {
+      "id": 439,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "We'll come to that. Mr. Ryneveld, proceed."
+    },
+    {
+      "id": 440,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "To repeat my question, sir, did you listen to the tape, all of it?"
+    },
+    {
+      "id": 441,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 440
+    },
+    {
+      "id": 442,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Including the portion between \"Daki\" -- and just so we're clear, that's Mr. Agnes; correct -- and \"Igor\"?"
+    },
+    {
+      "id": 443,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. But may I just make a brief comment? I heard the tape at Mr. Morrison's, who was my Defence counsel at the time, who took that document on a tape recorder he had in his apartment, and the truth of the matter is that I focused on the part of the conversation between me and Mr. Daki or, rather, Agnes. So I did hear it but I didn't really pay full attention to every detail of that conversation.",
+      "reply_to": 442
+    },
+    {
+      "id": 444,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "No problem, sir. I think it's only about 30 seconds long."
+    },
+    {
+      "id": 445,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "With the Court's permission, I propose to have the first minute or so of the tape played for the portion. I have copies of the transcript for the assistance of the Chamber, and I believe my friend has copies."
+    },
+    {
+      "id": 446,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I think we all have copies because notwithstanding the ruling that was made earlier on, the transcript of both of these telephone conversations went into the evidence anyway."
+    },
+    {
+      "id": 447,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "For ease of location --"
+    },
+    {
+      "id": 448,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Would you have those transcripts passed up?"
+    },
+    {
+      "id": 449,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 450,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "[Voice-over] \"Daki: Hello. Daki speaking. Hello. Hey, who's is on the phone? \"Igor: It's Igor. Hello. Yes, yes. \"Daki: Hey, where's Bani? \"Igor: Hello. \"Daki: Bani. Bani, where is Bani? \"Igor: Call him on his mobile: 207. \"Daki: 207 203. \"Igor: That's right, call him. \"Daki: And where is he? \"Igor: He's in Belgrade. \"Daki: Can I get him there? I've been calling him for an hour at that number, 207 203. Do you understand me? \"Igor: What did you say? \"Daki: I have been calling him at 207 203 for about an hour. I can't get through. Well, I can't get him. What? \"Igor: Yes, yes. Well, call him later in the afternoon, or he will be in Samac on Tuesday. \"Daki: In Samac on Tuesday? Hey, Igor, listen. When does that programme with Bani start? \"Igor: That will be towards the end of the year. \"Daki: Okay. I was in contact with him and he mentioned May, mid-May. \"Igor: That doesn't matter. It's not urgent yet. \"Daki: All right. I'll call Bani and arrange it with him. \"Igor: Try to get hold of him in the afternoon. Okay. \"Daki: Goodbye.\""
+    },
+    {
+      "id": 451,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's sufficient."
+    },
+    {
+      "id": 452,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall hearing that conversation, sir? Were you able to hear it -- no, Daki, quite clearly? That's Mr. Agnes; correct?"
+    },
+    {
+      "id": 453,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 452
+    },
+    {
+      "id": 454,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "\"Igor,\" that's your colleague Mr. Pantelic?"
+    },
+    {
+      "id": 455,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Yes.",
+      "reply_to": 454
+    },
+    {
+      "id": 456,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "The phone number referred to, that's your phone number, 207-203?"
+    },
+    {
+      "id": 457,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct.",
+      "reply_to": 456
+    },
+    {
+      "id": 458,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you see that Mr. Agnes asks Mr. Pantelic, \"When is that programme with Bani start?\" And the answer was, \"Towards the end of the year,\" or words to that effect, I'm paraphrasing. \"Daki, I was at your place with him and now he's something about May, mid-May.\" What programme does that refer to, sir, if it isn't the rehearsal programme that Mr. Agnes talked about?"
+    },
+    {
+      "id": 459,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It is very difficult to answer that question with complete certainty on the basis of what I have just heard, and it is a good thing that you have reminded me of this because I said a moment ago that the last time I listened to this, I didn't pay any attention to this part. Mr. Agnes, it seems to me, uses the word \"programme\", and he says \"in May.\" Mr. Pantelic, as far as I was able to understand, says it's not May but some other date. That is what I heard. What was implied, what is he asking him about which programme and what Mr. Pantelic understood him to mean, it is very difficult for me to give you a very unequivocal answer. From what I have heard, I am not convinced that this has anything to do with a programme of rehearsal. Even now that I've heard it -- maybe I should hear it once again to see whether any mention of a rehearsal is made -- only the word \"programme\" is used. And what Mr. Agnes means under that word addressing Mr. Pantelic, and what Mr. Pantelic meant when he gave him his answer, it is really difficult for me to give you a clearcut answer, under oath, to that question.",
+      "reply_to": 458
+    },
+    {
+      "id": 460,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm not asking you what Mr. Pantelic had in mind. I'm asking you, sir, what do you think that Daki, Mr. Agnes, was referring to when he said, \"That programme with Bani that was first discovered about May, mid-May\"? Do you know of any programme with Bani, you, with Daki in mid-May?"
+    },
+    {
+      "id": 461,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "There was no programme agreed between him and me linked to any kind of trial or any methodology of work, if that is what you are asking me. That is something I never discussed with him, never.",
+      "reply_to": 460
+    },
+    {
+      "id": 462,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right."
+    },
+    {
+      "id": 463,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can give you a complete answer to that.",
+      "reply_to": 462
+    },
+    {
+      "id": 464,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you deny that there was a programme, despite what Mr. Agnes said on the phone to your partner, Mr. Pantelic?"
+    },
+    {
+      "id": 465,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. Between me and Agnes, there was no programme planned in the sense that you are implying. Perhaps he is trying to provoke Mr. Pantelic. I really don't know. He uses slang a lot anyway, so I don't know. I simply don't know.",
+      "reply_to": 464
+    },
+    {
+      "id": 466,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, sir, let's move on to something that you should know something about. That's the conversation that you had with Daki later on in the phone call. When he said, near the end of the phone call, and I'm sure you'll refresh your memory -- page 3 near the bottom, My Lords -- \"All right, then. So there's no --\" I'm sorry, back up a little bit. Daki: Hey, listen. I definitely need the money. Did you hear me? Bani: What? Daki: Do you understand me? You know the situation is I have nowhere to go, apartment, this or that. Bani: I shall send you -- And then there is an unintelligible portion. Daki: We'll sort it out. Bani: Unintelligible. Daki: Tomorrow afternoon? Bani: Unintelligible. Daki: Ah-hah. Bani: Unintelligible. Daki: All right. If it should be or you call you, that is, I shall call you, you know when to come. All right, get in touch with her. Our -- And then there is nothing further. Then the answer: Daki: All right. So there is no problem about the money? Bani: We'll be in touch through her. A couple of questions arising out of that. Who is \"her\"?"
+    },
+    {
+      "id": 467,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Jasna Marosevic.",
+      "reply_to": 466
+    },
+    {
+      "id": 468,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was the money?"
+    },
+    {
+      "id": 469,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I hear for the first time in my life in that conversation.",
+      "reply_to": 468
+    },
+    {
+      "id": 470,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You had never heard the reference to money in the conversation when you heard the tape played last time?"
+    },
+    {
+      "id": 471,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I told you that this was the first time in my life and in contact with him that I heard him mention money. No, I didn't say I hadn't heard it. Of course, I heard it and I read it, although there are certain corrections to be made in the transcript that I've drawn Mr. Haynes' attention to, and he tried to intervene and to correct the transcript, because that transcript has not been correctly translated. That is the problem. And this is a highly-relevant fact, and that relevant fact is linked to my answer to the question. What? Because it is the first time I hear him mention such a thing on the phone, and, anyway, I never heard it, and my answer is, \"I'll call you,\" without wishing to chase him away and to hang up. In translation of that transcript, it says, \"I'll send it,\" which is not what I said. \"I'll call you.\" The meaning of the whole conversation is we'll see each other in Bosanski Samac, through her, so as to talk about what I assumed he wanted to discuss, and that is his existential problem, because that is what he had told me at the meeting in April. Therefore, neither did I promise him anything, nor did I in any way intimate a positive solution to his requests. That is the only fact that I can quite definitely state my opinion about. His comments are leading. That is, he is saying something that I have not said in my answers. What I keep saying is, \"I'll call you when I get to Bosanski Samac.\" Furthermore, that transcript doesn't contain some other parts which I have managed, in cooperation with my Defence team, to reconstruct, and that is why Mr. Haynes has suggested that those texts be amended to be a correct translation of the conversation. That is the conversation.",
+      "reply_to": 470
+    },
+    {
+      "id": 472,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I have a copy of the translation that your counsel has provided me, and I can assure you I have no difficulty with that going to the Court. But in the translation that you have provided or in the translation that the Court now has, do you see anything in the conversation with Mr. Agnes and you whereby you say, \"What the heck are you talking about, money?\" Did you say anything like that to him? Did you ever say, \"What do you mean, money?\" Did you say that to him? Sorry, sir. \"Yes\" or \"No\" would really help. Did you say it?"
+    },
+    {
+      "id": 473,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I know you would like me to give you such an answer, but I would need to have a complete transcript, a translation of everything that the two of us said. And as important parts of sentences are missing in this translation, you're asking me to say \"Yes\" or \"No\", and I'm telling you that from our conversation, one could adduce that regarding the question he's asking me, my answer is, \"We can talk about it when we see each other, because I don't know what you're talking about.\" He may have had a contact. Maybe he needs reimbursement of expenses he has had. Maybe he needs some other service from me that he would convey to me in person but not by telephone, and that is why I refused to discuss that subject. He is making leading questions. What the agreement was is for us to see each other in Bosanski Samac and to discuss the matter, because these are things I never discuss by telephone. That is the point, and that is why I am saying, once again, one has to bear in mind two things; the contents and the circumstances of the conversation. I tried to explain yesterday the circumstances, and today I am giving you the answers regarding the contents of the conversation.",
+      "reply_to": 472
+    },
+    {
+      "id": 474,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So your response to the reference to money and an apartment is, \"We will talk about it and we'll get in touch with Jasna, through Jasna\"; is that it?"
+    },
+    {
+      "id": 475,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did say that we will discuss at Jasna's what he mentions at the beginning without being specific. I cannot give him an answer to that question when I don't see any explanations. That may be a question of expenses. It may be a quite insignificant matter that we need to discuss. But as the transcript is obviously devoid of significant parts, I cannot give you an authoritative answer.",
+      "reply_to": 474
+    },
+    {
+      "id": 476,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think we should move on now, Mr. Ryneveld."
+    },
+    {
+      "id": 477,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. I'm going to move on to sitting down. Those are my questions. Thank you."
+    },
+    {
+      "id": 478,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Those are your questions. Any re-examination?"
+    },
+    {
+      "id": 479,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, since Mr. Ryneveld says he has no difficulty with the amended transcript that we've provided --"
+    },
+    {
+      "id": 480,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Not at all."
+    },
+    {
+      "id": 481,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "-- I've only got two copies at the moment. I wonder if I could lead --"
+    },
+    {
+      "id": 482,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I have one here."
+    },
+    {
+      "id": 483,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good."
+    },
+    {
+      "id": 484,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's a clean copy that you provided me, Mr. Haynes."
+    },
+    {
+      "id": 485,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you. I think logically they should be Exhibit 1B, the Prosecution translation having been Exhibit 1A."
+    },
+    {
+      "id": 486,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Perhaps my friend could clarify, but I believe just the changes are in bold print, as I understand it. Is that correct?"
+    },
+    {
+      "id": 487,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's correct, yes."
+    },
+    {
+      "id": 488,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Haynes, don't start --"
+    },
+    {
+      "id": 489,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Microphone, Your Honour, please."
+    },
+    {
+      "id": 490,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Don't commence yet."
+    },
+    {
+      "id": 491,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Haynes, we have seen the document that you have presented representing the translation of the conversation. What the Chamber will do is bring it to the attention of the official translators of the Tribunal and ask them to comment in particular on certain portions."
+    },
+    {
+      "id": 492,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I'm a little confused as to how I should proceed now, then. Would you prefer that the re-examination of Mr. Avramovic be deferred until tomorrow afternoon?"
+    },
+    {
+      "id": 493,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "No. I think you should proceed, I think you should proceed."
+    },
+    {
+      "id": 494,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Are we going to be told how this particular translation was brought into being? I know that Mr. Avramovic has said that he made certain suggestions to you, but did you have somebody independent translate it?"
+    },
+    {
+      "id": 495,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "The history of the document is that the Prosecution translation was handed to us the morning, I think, that it was played."
+    },
+    {
+      "id": 496,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "When you say \"the Prosecution translation\", it was, in fact, done by the official translators."
+    },
+    {
+      "id": 497,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, that's as it may be, but it was the first sight we had had of the translation, and it was just before the morning it was played. We had the tape listened to, and we made suggested amendments. I don't proffer any criticism, but, in fact, that document has been in the possession of the Prosecution for in excess of a month now, and we invited them to agree that there were supplements to the translation and corrections. Until now, we had received no answer. The answer, it appears, is they have no difficulty with that. I assume they --"
+    },
+    {
+      "id": 498,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "No difficulty with us saying it was the words. I don't know what that quite means, but it wasn't an acceptance of its accuracy."
+    },
+    {
+      "id": 499,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, that was why it was submitted to them several weeks ago, so that they might consider its accuracy. I'm afraid I took that as a concession that it was accurate."
+    },
+    {
+      "id": 500,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, what was it intended to be, Mr. Ryneveld?"
+    },
+    {
+      "id": 501,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you. My friend gave it to me at the close of one of the days. I must take full responsibility. It was given to me. It was shuffled into my briefcase, along with a number of other papers, and frankly I did not have it translated. It was brought to our attention again, I believe, today, and I indicated that I had not had an opportunity to have it checked out. But we did look at the documents and thought that the changes did not -- were not of great significance to my cross-examination. So I had no objection to the Court seeing it or even considering it. But I cannot vouch for its accuracy, because apart from receiving it, yes, I admit well in advance I did not have it sent to the official translators for verification. But I didn't want to take paltry advantage of the fact that I hadn't had it checked to prevent my friend from at least introducing it. So in that respect, I take full responsibility that I am unable to do anything more than say to you I have no objection to it going in. I cannot, of course, vouch for its veracity or correctness."
+    },
+    {
+      "id": 502,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Well, Mr. Haynes, you haven't really revealed the source of your translation. Was it an independent translation?"
+    },
+    {
+      "id": 503,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It was in house, in effect."
+    },
+    {
+      "id": 504,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "That's hardly independent. The answer to it is it was not independent."
+    },
+    {
+      "id": 505,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No. I mean the difficulty is, with this particular piece of evidence, that there are actually three sources to it. Mr. Agnes has given evidence about what he says --"
+    },
+    {
+      "id": 506,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "We're worried about the accuracy of this transcript."
+    },
+    {
+      "id": 507,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 508,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "You haven't had it done independently, so that all we need to do, then, is to have it checked, for our translators to say, \"Well, it could be that,\" or, \"It is not that.\""
+    },
+    {
+      "id": 509,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm happy that that is done. I don't know in what time scale that can be achieved."
+    },
+    {
+      "id": 510,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "I believe that can be done very expeditiously. Proceed with your re-examination."
+    },
+    {
+      "id": 511,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Just a few questions, Mr. Avramovic. Re-examined by Mr. Haynes:"
+    },
+    {
+      "id": 512,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Dealing with the question of the blue bag briefly, when the blue bag was handed to you, that was, you say, in September?"
+    },
+    {
+      "id": 513,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, the 17th of September.",
+      "reply_to": 512
+    },
+    {
+      "id": 514,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "In vague terms, did you have any idea where Mr. Agnes was at that time?"
+    },
+    {
+      "id": 515,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "On the 17th of September, I assumed that he was probably in the Netherlands. I wasn't sure of that. I don't know.",
+      "reply_to": 514
+    },
+    {
+      "id": 516,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did it appear to you at that stage he was likely to want to come back and reclaim his belongings that were in that bag?"
+    },
+    {
+      "id": 517,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The proceedings were ongoing, so I really couldn't assess what would happen. But I must believe that I didn't believe that he would come to pick up his things, as the proceedings were under way and I knew he was here, so I didn't expect him to come back.",
+      "reply_to": 516
+    },
+    {
+      "id": 518,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you actually take anything out of the bag on the day that it was handed to you?"
+    },
+    {
+      "id": 519,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I didn't take anything. I put it away in the way I have told you.",
+      "reply_to": 518
+    },
+    {
+      "id": 520,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Now, one other thing. Going back a year to September of 1998, if we may, there was a hearing in the trial on indictment between September the 2nd and September the 4th, I think, of 1998; is that correct?"
+    },
+    {
+      "id": 521,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 520
+    },
+    {
+      "id": 522,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Prior to that date, what charge had Milan Simic faced?"
+    },
+    {
+      "id": 523,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Milan Simic was charged for events in the elementary school or, rather, for an event in which Milan Simic allegedly participated in beating up certain people. That would be the charge in brief, in summary.",
+      "reply_to": 522
+    },
+    {
+      "id": 524,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "After the hearing in early September 1998, what charge did he then face?"
+    },
+    {
+      "id": 525,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "After the Status Conference or the hearing that was held at the beginning of September, the accused pleaded on the amended indictment in which the charges were expanded with respect to Milan Simic to include the charge of persecution.",
+      "reply_to": 524
+    },
+    {
+      "id": 526,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "How did that change in the charge that he faced, from an isolated incident to one of persecution, affect your decision to meet Mr. Agnes in late September of 1998?"
+    },
+    {
+      "id": 527,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I must rise. Didn't we cover this before in chief, and how does it arise out of cross-examination?"
+    },
+    {
+      "id": 528,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Was there any cross-examination upon this, Mr. Haynes?"
+    },
+    {
+      "id": 529,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I believe there was."
+    },
+    {
+      "id": 530,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "You believe. I don't. At least I don't remember it. But I'm happy to accept your assurance if you're right, but I certainly don't remember it. What was the nature of the cross-examination?"
+    },
+    {
+      "id": 531,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "The nature of the cross-examination was that Drago Vukovic, having formed certain impressions of the witness that were unfavourable, there would thus be no point in Mr. Avramovic going to see him and see what he had to say. The point is that there had been a material change in the case between the time that Drago Vukovic had seen him and when Mr. Avramovic first saw him."
+    },
+    {
+      "id": 532,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "We heard that in chief."
+    },
+    {
+      "id": 533,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "That's right."
+    },
+    {
+      "id": 534,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Fine."
+    },
+    {
+      "id": 535,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Nextly, Mr. Avramovic, dealing with the question that was put to you earlier on, you understand the meaning of the word \"lure\"?"
+    },
+    {
+      "id": 536,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 535
+    },
+    {
+      "id": 537,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was it your understanding that Mr. Agnes was to lure Mirsad Sahanic to come to Bosnia?"
+    },
+    {
+      "id": 538,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 537
+    },
+    {
+      "id": 539,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Now, between May -- between September of 1998 and May of 1999, did you have a lot of work to do in relation to the preparation of the trial and indictment?"
+    },
+    {
+      "id": 540,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I think we heard that ad nauseam."
+    },
+    {
+      "id": 541,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I don't think we did."
+    },
+    {
+      "id": 542,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Go ahead, Mr. Haynes. We must try to conclude."
+    },
+    {
+      "id": 543,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, of course."
+    },
+    {
+      "id": 544,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you do a lot of work in relation to the trial and the indictment between September of 1998 and May of 1999?"
+    },
+    {
+      "id": 545,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Let me answer your question very briefly. In professional terms, that period in my life was, in the first place for my family, a very difficult one, because I had entirely forgotten my family and dedicated my entire time to the case. Because of the facts I had to prepare and to produce for this Trial Chamber, I worked literally daily from 7.00 until 10.00, 11.00 at night. I worked virtually all Saturdays and very many Sundays. I worked non-stop on travel and in the office. I spent on the case and the indictment at least 10 to 15 hours a day, and I devoted everything to that case. In fact, I lost my clients. I lost everything that I had been building up in my career because I wished to give my all to this case. And I sacrificed even my family. And now I understand Mr. Vukovic, when he realised at the beginning of September where further involvement in this case would take him. We in the Defence, Mr. Haynes, have very modest possibilities compared to the Prosecution. We have very limited staff to deal with such a complex charge as persecution. If the indictment had remained unchanged when the proceedings had started, it would have been an easier undertaking. But to delve into the issue of persecution, such a very broad charge is a very difficult one, so that my life was exclusively devoted to that task. That is, frankly, what I did.",
+      "reply_to": 544
+    },
+    {
+      "id": 546,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, again, just briefly if you can, how difficult is it to find people to tell you what happened in Bosanski Samac in 1992?"
+    },
+    {
+      "id": 547,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Extremely difficult.",
+      "reply_to": 546
+    },
+    {
+      "id": 548,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You spoke to Mr. Agnes on the 28th of September, and you formed the view that he might be useful for information. What was the basis of that view that you took?"
+    },
+    {
+      "id": 549,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The basis for my view was the wish, through him, to reach potential new witnesses for certain events. And when I said a moment ago that it is difficult to find witnesses, what I meant was something that I need to explain. The environment in which the events allegedly occurred, according to the indictment, is a very small community. It is a community in which it is very difficult to do anything without these things being revealed, so that it is very difficult to work in such an environment. The charge is broad. There are many witnesses. The Defence had contact with many. The Defence can prepare in a qualitative manner for the case, but I'm saying that it is very hard to work because of the scope of the charges in the indictment. And also this is not in my own town, so that I have to travel.",
+      "reply_to": 548
+    },
+    {
+      "id": 550,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you were -- spoke to Mr. Agnes on the 28th of the September and he looked at lists and indicated that he knew some people, what expectation did you have that he would be able to get in touch with people?"
+    },
+    {
+      "id": 551,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, at that time I didn't have any special expectations, because he himself showed reservations as to the success with these contacts. But, of course, I did hope that if he succeeded in doing so, it would be a good thing. It would be a good thing if we were able to reach more credible or completely credible witnesses.",
+      "reply_to": 550
+    },
+    {
+      "id": 552,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "In the scheme of things, after the 28th of September, how important was he to you in the conduct of this case?"
+    },
+    {
+      "id": 553,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I can tell you, quite frankly, that I have a lot of people like him on hold, so to speak, so that he is not a key source of information, so I didn't devote any particular attention to him. That is being very frank.",
+      "reply_to": 552
+    },
+    {
+      "id": 554,
+      "speaker": "UNKNOWN EXAMINER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And just lastly, because of something that appeared in the transcript earlier on, after you spoke to Jasna Marosevic, I think you said in about October of 1998, was there any possibility that he would be called as a witness in the defence of Milan Simic?"
+    },
+    {
+      "id": 555,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. That was my stand as Defence counsel for Milan Simic.",
+      "reply_to": 554
+    },
+    {
+      "id": 556,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you. Questioned by the Court:"
+    },
+    {
+      "id": 557,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Avramovic, the Chamber has a question for you. It relates to the report done by the senior legal officer of the billing records which were submitted to the Registry. A copy of the senior legal officer's report was submitted to you and to Mr. Haynes. I'm going to pass a copy to you and ask you to identify from the pseudonyms which one relates to Mr. Agnes. Pages 3, 4, and 5 contain the pseudonyms?"
+    },
+    {
+      "id": 558,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Your Honour, I have looked through this document, and the pseudonyms are on the last page; that is to say, page 5. They are the dates the 22nd of September and the 28th of September. Those are the pseudonyms.",
+      "reply_to": 554
+    },
+    {
+      "id": 559,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "That relate to Mr. Agnes?"
+    },
+    {
+      "id": 560,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Yes, of course, because there are no other witnesses.",
+      "reply_to": 554
+    },
+    {
+      "id": 561,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Witness --"
+    },
+    {
+      "id": 562,
+      "speaker": "BRANISLAV AVRAMOVIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. There is no other witness from Mitrovica, so then that is sure.",
+      "reply_to": 554
+    },
+    {
+      "id": 563,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. Before we adjourn, I think we have to make an assessment. Mr. Haynes, how long will your witness be?"
+    },
+    {
+      "id": 564,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I see no reason to dissemble. My last witness is Mr. Simic. He will be short in chief, but I would have thought it unrealistic to suppose that in total he'll be much less than an hour, I suppose. The spectre has been raised today of a further witness being called, and thereafter some documents need to be introduced into evidence before I close my case."
+    },
+    {
+      "id": 565,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "The further witness is to deal with the transcript of the telephone conversation."
+    },
+    {
+      "id": 566,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 567,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "That would not be long, would it?"
+    },
+    {
+      "id": 568,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No."
+    },
+    {
+      "id": 569,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "And how long would your address be, your submission?"
+    },
+    {
+      "id": 570,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I wouldn't have thought they would be much less than an hour."
+    },
+    {
+      "id": 571,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Ryneveld, how long do you think your cross-examination will be, and what is the estimate of your time for your address?"
+    },
+    {
+      "id": 572,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Since I have asked Ms. Paterson to deliver the closing address, I've just asked her, and she tells me less than an hour. I think we can assume up to an hour and that's safe."
+    },
+    {
+      "id": 573,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "So realistically, we should try to find some time beyond tomorrow afternoon's session, although we should try as hard as we can to see how far we can go."
+    },
+    {
+      "id": 574,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I suppose the other possibility that's certainly been raised with me by the senior legal officer is that if we do need to look for another date, perhaps a substantial amount of closing statement could be put into written form. Again, I want to be completely up front. The submissions I make are going to be substantially evidentiary in their nature, but also they're going to touch upon the scope of Rule 77 itself, and I wonder whether that might be helpful."
+    },
+    {
+      "id": 575,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Well, we'll take the adjournment now, and tomorrow we'll make the assessment. In the meantime, the Chamber will make an effort to see whether there is any possibility for any session to be held on Friday."
+    },
+    {
+      "id": 576,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Can I make a request that is utterly selfish and it really dictates whether I'm going to be burning the midnight oil tonight, and that is: Does the Chamber envisage hearing closing oral arguments tomorrow or not?"
+    },
+    {
+      "id": 577,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "We would like to take it as far as possible, certainly. We would like to have this case concluded."
+    },
+    {
+      "id": 578,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Oh, I understand that, and so would I."
+    },
+    {
+      "id": 579,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "And concluded this week, so that we would be making efforts to try to see whether it's possible to fit something in on Friday. It will be very difficult, but we'll try. But in the meantime, we have to try to finish tomorrow."
+    },
+    {
+      "id": 580,
+      "speaker": "JUDGE BENNOUNA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] Mr. Haynes, if I understood well, you have another witness who will not take very long for you. You said -- how much will your witness take, the examination-in-chief of Mr. Simic?"
+    },
+    {
+      "id": 581,
+      "speaker": "MR. HAYNES",
+      "role": "counsel",
+      "type": "statement",
+      "text": "A very short period of time."
+    },
+    {
+      "id": 582,
+      "speaker": "JUDGE BENNOUNA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] And the cross-examination?"
+    },
+    {
+      "id": 583,
+      "speaker": "MR. RYNEVELD",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm sure that's going to depend on what he has to say, but I would imagine up to half an hour."
+    },
+    {
+      "id": 584,
+      "speaker": "JUDGE BENNOUNA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] Then perhaps we could try and finish tomorrow afternoon. I'm speaking in my own name, but I think we should make an effort to finish tomorrow."
+    },
+    {
+      "id": 585,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Judge Bennouna has spoken for the Chamber. We'll make every effort to conclude tomorrow afternoon. So we adjourn until 2.30 tomorrow. Mr. Avramovic, you are reminded that in the adjournment, you are not to discuss your evidence with anybody."
+    },
+    {
+      "id": 586,
+      "speaker": "JUDGE HUNT",
+      "role": "judge",
+      "type": "statement",
+      "text": "He's finished."
+    },
+    {
+      "id": 587,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "I'm sorry. You are released."
+    },
+    {
+      "id": 588,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 589,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "at 5.45 p.m., to be reconvened on Thursday, the 2nd day of December, 1999 at 2.30 p.m. 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25"
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Rule 77 Hearing]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 2.32 p.m."
+    },
+    {
+      "after_utterance": 4,
+      "text": "WITNESS:  BRANISLAV AVRAMOVIC [Resumed]"
+    },
+    {
+      "after_utterance": 346,
+      "text": "--- Recess taken at 4 p.m."
+    },
+    {
+      "after_utterance": 346,
+      "text": "--- On resuming at 4.27 p.m."
+    },
+    {
+      "after_utterance": 449,
+      "text": "[Audio tape played]"
+    },
+    {
+      "after_utterance": 485,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 490,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 588,
+      "text": "[The witness withdrew]"
+    },
+    {
+      "after_utterance": 588,
+      "text": "--- Whereupon the hearing adjourned"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_1_December_1999.doc"
+}

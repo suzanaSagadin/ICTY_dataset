@@ -1,0 +1,2833 @@
+{
+  "case": "zupljanin_stanisicm",
+  "case_id": "IT-08-91-T",
+  "date": "2010-05-21",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Good morning, Your Honours. Good morning everyone in and around the courtroom. This is case number IT-08-91-T, the Prosecutor versus Mico Stanisic and Stojan Zupljanin. Thank you, Your Honours."
+    },
+    {
+      "id": 2,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. Registrar. Good morning to everyone, including those in the field office. The -- may we have the appearances, please."
+    },
+    {
+      "id": 3,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good morning, Your Honours. Joanna Korner and Crispian Smith again for the Prosecution."
+    },
+    {
+      "id": 4,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Good morning, Your Honours. Appearing for Mr. Stanisic, Slobodan Cvijetic and Eugene O'Sullivan."
+    },
+    {
+      "id": 5,
+      "speaker": "MR. PANTELIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good morning, Your Honours. For Zupljanin Defence, Igor Pantelic and Dragan Krgovic. Thank you."
+    },
+    {
+      "id": 6,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Judge Peric, can you hear me?"
+    },
+    {
+      "id": 7,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, I can."
+    },
+    {
+      "id": 8,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Mr. Krgovic indicated he has about 20 minutes left, so I would invite him resume his cross-examination at this point. And, of course, I remind you you're still on your oath."
+    },
+    {
+      "id": 9,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Good morning, Mr. Peric. Yesterday, if you remember, I showed you those criminal reports that were filed directly, as you explained, to the military prosecutor's office in Bijeljina concerning crimes committed in Teslic, and the criminal reports were filed by the police. Do you remember that?",
+      "examination": "cross"
+    },
+    {
+      "id": 10,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, of course.",
+      "reply_to": 9
+    },
+    {
+      "id": 11,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you answered some questions by the Prosecutor and provided us with some mini-statistics about the reported persons from the area of Teslic, you did not include that number.",
+      "examination": "cross"
+    },
+    {
+      "id": 12,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I couldn't have.",
+      "reply_to": 11
+    },
+    {
+      "id": 13,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If we wanted to have a real picture of how many people were reported for what types of crimes, we would also need to have the log-book of this military court in Bijeljina, right?",
+      "examination": "cross"
+    },
+    {
+      "id": 14,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "And the military court in Banja Luka, if you wish.",
+      "reply_to": 13
+    },
+    {
+      "id": 15,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Because criminal reports were filed to both criminal courts; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 16,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I suppose that there were criminal reports filed directly to them as well.",
+      "reply_to": 15
+    },
+    {
+      "id": 17,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, Mr. Peric, I'd like to move to a different subject. In the former Yugoslavia, where you worked as a prosecutor, and in Republika Srpska, in Bosnia-Herzegovina, under Article 191, remand in custody could be ordered for a number of reasons. If you want to look at the Law on Criminal Procedure, it's P120 and your tab in the binder of Mr. Cvijetic is 23. Look at Article 191.",
+      "examination": "cross"
+    },
+    {
+      "id": 18,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Have you found it, Your Honours? That's ERN 0025-2976."
+    },
+    {
+      "id": 19,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "It says remand in custody is always ordered against persons suspected of committing a crime for which the law prescribes a certain length sentence; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 20,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 19
+    },
+    {
+      "id": 21,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now turn the next page. And look at the other standards. In paragraph 2, item 1, if the person is hiding, or the identity cannot be determined, or, in the presence of other circumstances pointing to a risk of escape.",
+      "examination": "cross"
+    },
+    {
+      "id": 22,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct.",
+      "reply_to": 21
+    },
+    {
+      "id": 23,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If there is a well-grounded suspicion that the person may destroy evidence or interfere with the investigation, intimidate witnesses, accomplices, or those hiding him.",
+      "examination": "cross"
+    },
+    {
+      "id": 24,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct.",
+      "reply_to": 23
+    },
+    {
+      "id": 25,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Point 3: If particular circumstances indicate the person may continue the crime, complete the crime, or commit or execute a threat already issued.",
+      "examination": "cross"
+    },
+    {
+      "id": 26,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct.",
+      "reply_to": 25
+    },
+    {
+      "id": 27,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If the crime committed is subject to a ten-year sentence of imprisonment, and the circumstances of the crime risk causing such a disturbance among the citizens, that may endanger the investigation and thus justifies remand in custody. Now, after a person is remanded in custody and then the investigating judge decides to terminate remand in custody within 30 days, that decision needs consent by the public prosecutor; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 28,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 27
+    },
+    {
+      "id": 29,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Peric, in this specific case of the Mice Group, all the legal requirements for remand in custody were met for all those persons reported.",
+      "examination": "cross"
+    },
+    {
+      "id": 30,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, all of them.",
+      "reply_to": 29
+    },
+    {
+      "id": 31,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just help me from a technical point of view. Once remand in custody is ordered and investigation starts, this KI number is given to every decision made in the course of the investigation.",
+      "examination": "cross"
+    },
+    {
+      "id": 32,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Every court decision.",
+      "reply_to": 31
+    },
+    {
+      "id": 33,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In this specific case, the number under which procedure was taken against these persons for the crime in Teslic, the number is 35/92. Now look at P15312 [as interpreted] that's in the prosecutor's binder; tab 26.",
+      "examination": "cross"
+    },
+    {
+      "id": 34,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Counsel, can you kindly repeat the number of that exhibit, please."
+    },
+    {
+      "id": 35,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] It's P1312; tab 26 in the Prosecution binder."
+    },
+    {
+      "id": 36,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Of which it has been removed, if I'm not wrong."
+    },
+    {
+      "id": 37,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Microphone not activated] We removed it because I wasn't going to use it, but I think it's in Judge Peric's binder. And we can put it on the screen."
+    },
+    {
+      "id": 38,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And give the relevant numbers then, because it's not on the list."
+    },
+    {
+      "id": 39,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It's P1312."
+    },
+    {
+      "id": 40,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Microphone not activated] Thank you."
+    },
+    {
+      "id": 41,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 42,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Peric, have you found it? Have you found this document? It's a decision to conduct investigation.",
+      "examination": "cross"
+    },
+    {
+      "id": 43,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I have another document here. But if I remember well, that's the right number.",
+      "reply_to": 42
+    },
+    {
+      "id": 44,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now let us go back to this Mice case you spoke about. The criminal report was filed against 16 persons, and the police arrested and brought before an investigating judge 16 persons; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 45,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 44
+    },
+    {
+      "id": 46,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The investigating judge, on the 16th of July, terminated remand in custody with your consent for three persons: Predrag Karagic, Mr. Tadic, and Mr. Subotic?",
+      "examination": "cross"
+    },
+    {
+      "id": 47,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I saw, I think, in the prison document that these persons were released on the basis of a certain court decision.",
+      "reply_to": 46
+    },
+    {
+      "id": 48,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Look at tab 28 in the Prosecution's binder. It's P1314. That's a letter from the President of the high court. Look at the first sentence, where it says: \"Under a subsequent decision from the investigating judge, release was ordered for Predrag Subotic, Zoran Tadic, and Predrag Karagic.\"",
+      "examination": "cross"
+    },
+    {
+      "id": 49,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's in the document.",
+      "reply_to": 48
+    },
+    {
+      "id": 50,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "There were no legal requirements for their release from custody.",
+      "examination": "cross"
+    },
+    {
+      "id": 51,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "If remand in custody was terminated, then the legal requirements existed.",
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were these persons members of the Mices Group?",
+      "examination": "cross"
+    },
+    {
+      "id": 53,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's correct.",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the crime for which they were reported is certainly a serious crime, subject to a prison sentence of over ten years.",
+      "examination": "cross"
+    },
+    {
+      "id": 55,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't think they were permanent members of that group. I think they joined two or three days before the arrest and they had not been involved with all the other conduct with which the others were charged. You can check that in the decision to investigate. I know that Karagic was not based in Teslic. He was invited to come to Teslic. I think these three persons came just three days before the arrest. They're invited to join to work as a security detail or something. I think that was all considered and it was found there was no reason to keep them in custody.",
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I think there is a small problem going on here. Nothing's on the screen at all. Oh, there we go. But what Mr. Krgovic read out, \"under a subsequent decision from the investigating judge,\" I don't see those words anywhere. I see the words 16th July 1992, \"An investigating judge ruled that detention be cancelled,\" but I don't see anything subsequent -- or anything as read out by Mr. Krgovic."
+    },
+    {
+      "id": 57,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Perhaps it's not on the screen in the translation."
+    },
+    {
+      "id": 58,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Was that -- were you reading that -- you were reading the second paragraph, were you? On the 16th -- which begins on 16th of July, 1992?"
+    },
+    {
+      "id": 59,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes. By a subsequent decision of the investigating judge, that's the beginning of the paragraph I read. Remand in custody was terminated."
+    },
+    {
+      "id": 60,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "We're talking here about a Mr. Karagic who is currently on trial before the Court of Bosnia and Herzegovina for war crimes. I think he was convicted to 22 years.",
+      "examination": "cross"
+    },
+    {
+      "id": 61,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think there was a trial, but I don't know if it was completed. I don't know whether he was charged with war crimes either.",
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now please look at P1313. It's in the Prosecution binder, tab 68.",
+      "examination": "cross"
+    },
+    {
+      "id": 63,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I'm sorry, the last name of this person is not \"Karadzic\"; it's Karagic."
+    },
+    {
+      "id": 64,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you please turn to page, in e-court, 30 and 30 in English. In your copy, the number in the right top corner is 04155935.",
+      "examination": "cross"
+    },
+    {
+      "id": 65,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "What number? What are the last four numbers?",
+      "reply_to": 64
+    },
+    {
+      "id": 66,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "5935, in the right hand top corner.",
+      "examination": "cross"
+    },
+    {
+      "id": 67,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "All right.",
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you found it? Now turn to the next page.",
+      "examination": "cross"
+    },
+    {
+      "id": 69,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 68
+    },
+    {
+      "id": 70,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Look at 151, 152, 153, 154, and 155, and 156. These are the Mices, right?",
+      "examination": "cross"
+    },
+    {
+      "id": 71,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. A military unit.",
+      "reply_to": 70
+    },
+    {
+      "id": 72,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in the column on the right, on page 33, you will see, first, that they were transferred to the prison in Doboj on the 17th of July, 1992.",
+      "examination": "cross"
+    },
+    {
+      "id": 73,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can't see it. Which column?",
+      "reply_to": 72
+    },
+    {
+      "id": 74,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "It's the first column; the date of placement in prison. The number on the page is 04155937. Just after the name.",
+      "examination": "cross"
+    },
+    {
+      "id": 75,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Date of birth, place of birth, place of residence, date of imprisonment. Yes, can I see it.",
+      "reply_to": 74
+    },
+    {
+      "id": 76,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You see that they were remanded in custody by the lower court in Teslic, by decision KI 5/92.",
+      "examination": "cross"
+    },
+    {
+      "id": 77,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think they must have been remanded in custody earlier, because this is not a decision to remand them in custody.",
+      "reply_to": 76
+    },
+    {
+      "id": 78,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now look at the next column. They were released on the 24th of July 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 79,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 78
+    },
+    {
+      "id": 80,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And they were released, all these persons mentioned on this page, based on -- or pursuant to the decision of the first instance court in Teslic, KI, as mentioned here.",
+      "examination": "cross"
+    },
+    {
+      "id": 81,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's what it says. I suppose that there is a decision to release them from prison, but I have problems understanding the decision dated 11th of July, 1992, because that's not possible. They were arrested on the 1st, and they must have been placed in custody on the 3rd. Anyway, much earlier than this date, so I don't know what this is about. So if have you the decision we could take a look at it.",
+      "reply_to": 80
+    },
+    {
+      "id": 82,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I don't have it on me at the moment. The problem is that earlier they were in police custody for three days?",
+      "examination": "cross"
+    },
+    {
+      "id": 83,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "But that expired on 3rd of July.",
+      "reply_to": 82
+    },
+    {
+      "id": 84,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And later on you will see from the criminal report the problem was the jurisdiction with regard to their arrest. So they were put up in the Kardijal, so they were not really in detention for a certain while.",
+      "examination": "cross"
+    },
+    {
+      "id": 85,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yeah, but it was detention, but only physically. They were not in prison. They were in Kardijal, but they could have -- could have been kept there only based on a relevant decision.",
+      "reply_to": 84
+    },
+    {
+      "id": 86,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And Kardijal is a hotel at Vanja Vrucica [phoen], right?",
+      "examination": "cross"
+    },
+    {
+      "id": 87,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, in Teslic, that is correct. That's where they were kept for a while.",
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So let us sum up Mr. Peric. All these persons I have mentioned, six persons on this page, were released based on a decision of the first instance court in Teslic, right?",
+      "examination": "cross"
+    },
+    {
+      "id": 89,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I suppose that there is a decision on release from custody. This group of persons was not involved in most of the crimes committed by the group that belonged to the police, so that with regard to them, there were no more reasons to keep them in detention and that's why their custody was terminated.",
+      "reply_to": 88
+    },
+    {
+      "id": 90,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, go back one page, please. That is page 0415935. And you will see these two person, Roboljub Sjilic [phoen], and Ranko Stjuka?",
+      "examination": "cross"
+    },
+    {
+      "id": 91,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 90
+    },
+    {
+      "id": 92,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "That's serial numbers 149 and 150. And these two were released pursuant to a decision of the first instance court in Teslic, file number KI 35/92.",
+      "examination": "cross"
+    },
+    {
+      "id": 93,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Probably. And probably they belonged to a military unit.",
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you have a reason to doubt the truthfulness of the information contained in this document, this log-book?",
+      "examination": "cross"
+    },
+    {
+      "id": 95,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe that there is a decision on release of -- from detention of this group of military personnel, because they were not involved in most of the crimes committed by the members of this police formation. I believe that was the only reason, but we should check by looking at the decision and the reasons stated there.",
+      "reply_to": 94
+    },
+    {
+      "id": 96,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "From this log-book it follows that the higher instance court in Doboj terminated detention for Pijunovic, Tekic, Culibrk, Djuric, and Spesevic [phoen]; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 97,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Pursuant to an appeal by defence.",
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In August 1992; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 99,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Pursuant to an appeal by the defence.",
+      "reply_to": 98
+    },
+    {
+      "id": 100,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Talking about criminal reports against military personnel, isn't it true that this military wing of the Mice was reported for the execution of 40 Muslims at places outside Teslic?",
+      "examination": "cross"
+    },
+    {
+      "id": 101,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct. Some of them took part in the execution, but they admitted they did, which was established in the investigation.",
+      "reply_to": 100
+    },
+    {
+      "id": 102,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Peric, were there legal grounds for releasing this group of persons from detention with regard to the circumstances, because for murder the death penalty could be imposed and they -- it was required that they remain in detention.",
+      "examination": "cross"
+    },
+    {
+      "id": 103,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe that that was a court decision. They were transferred to Doboj. Under the law, detention could be terminated after six months so that regardless of this legal requirement, with regard to the situation regarding their transfer to Doboj, detention would have been terminated anyway. They were transferred to Doboj to be released. This is obvious from the entire scenario of their transfer from Banja Luka. I even think that they were not really in prison, that they were only filed as being in prison, that they were on the list, but that they were actually at large.",
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "How did the release of the Mice affect the police and the persons who had arrested them? Namely, this group of hardboiled [as interpreted] criminals was at once at large again. How did that affect the work of the police? Very badly, right?",
+      "examination": "cross"
+    },
+    {
+      "id": 105,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know how it affected the work of the police. In Doboj, this was hailed and celebrated in the streets. But to the people who had arrested them, probably were not delighted by that.",
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Immediately after that, there were threats to the people who had arrested them, specifically Mr. Radulovic and the others. You know about that, don't you?",
+      "examination": "cross"
+    },
+    {
+      "id": 107,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. No, I don't. I suppose there may have been threats due to the circumstances of the arrest. You saw that there were injuries in the process, torture, et cetera.",
+      "reply_to": 106
+    },
+    {
+      "id": 108,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And such a court decision to release them and this attitude toward the arrest certainly discourages the police and undermines their work, because we saw that this case was perfectly processed and then the criminals were released.",
+      "examination": "cross"
+    },
+    {
+      "id": 109,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, that is your conclusion. I need more context to comment. From this point of view, I cannot draw conclusions as to how this may have affected the police and the military psychologically or Teslic, Doboj, or Banja Luka.",
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You saw that brigade report that I showed which -- from which it follows that the soldiers from the brigade complain about the Mice re-appearing. It is a known fact that the Mice appeared again and started threatening the people who had arrested them?",
+      "examination": "cross"
+    },
+    {
+      "id": 111,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Some of them came to Teslic and those were the reactions. But, at the time, I didn't even know that they were coming to Teslic again. But obviously they started reappearing in some situations. You must bear in mind that the relations between Teslic and Doboj throughout the war were very bad.",
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Peric, let's me sum up and finish this topic. These people, even today -- or, rather, there are no proceedings against these people even today for the crimes they committed in Teslic; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 113,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is unfortunately true, with the exception of Karagic.",
+      "reply_to": 112
+    },
+    {
+      "id": 114,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Radulovic even today has problems because of this arrest and the investigation he conducted, right?",
+      "examination": "cross"
+    },
+    {
+      "id": 115,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know that. Mr. Radulovic is an attorney nowadays, as far as I know, and I don't know of any problems, or his problems.",
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And these criminals who committed these offences are at large. And Mr. Radulovic is now an attorney, and Mr. Zupljanin, who ordered the arrest, is standing trial for the crimes of these Mice.",
+      "examination": "cross"
+    },
+    {
+      "id": 117,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Could the witness please repeat his answer. We didn't hear the answer to this last question."
+    },
+    {
+      "id": 118,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, apart from the fact that it's a comment and not a question. I don't know what the question was and I don't know what the answer was because we didn't get the translation. I didn't hear anything that Mr. Krgovic said at the end."
+    },
+    {
+      "id": 119,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Microphone not activated]"
+    },
+    {
+      "id": 120,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Microphone, please. Microphone."
+    },
+    {
+      "id": 121,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 122,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I asked you about these facts about the result of all this, that the Mice are at large, Mr. Radulovic is no longer with the police, Mr. Zupljanin is standing trial -- Mr. Zupljanin who ordered the arrest of these Mice is standing trial for the crimes they committed.",
+      "examination": "cross"
+    },
+    {
+      "id": 123,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, just a minute. That's not a question. It's a comment, and I object to that."
+    },
+    {
+      "id": 124,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 125,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "But is -- is what I said correct and true -- or, rather, do you know that? Do you know that?",
+      "examination": "cross"
+    },
+    {
+      "id": 126,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It's still a comment, and it's not a question."
+    },
+    {
+      "id": 127,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Naturally. Of course, I know. Today I'm certainly aware of that."
+    },
+    {
+      "id": 128,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 129,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Mr. Peric. No more questions.",
+      "examination": "cross"
+    },
+    {
+      "id": 130,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Krgovic. Mr. Krgovic, please, could you assist me from where we have the evidence that Mr. Zupljanin ordered the arrests of the Mice Group?"
+    },
+    {
+      "id": 131,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 132,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Overlapping speakers] Redacted."
+    },
+    {
+      "id": 133,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Sorry, Ms. Korner, please. Can I just reply to Mr. --"
+    },
+    {
+      "id": 134,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "You can, but, Your Honour, it needs to be redacted; the whole speech by Mr. Krgovic."
+    },
+    {
+      "id": 135,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I apologise for this, I mentioned about the gentleman. Yes, I agree that this should be redacted."
+    },
+    {
+      "id": 136,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, it should be redacted. My comment was just that I'm aware of the evidence that we had from previous witnesses. I just wanted to make sure that we have not received this evidence from this witness. That was my question. Thanks."
+    },
+    {
+      "id": 137,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And Your Honours, as a matter of interest, we haven't had that witness from any witness directly either. So it -- what Mr. Krgovic has said is not correct. Having said that, I anticipate that is the evidence that will be given."
+    },
+    {
+      "id": 138,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Sorry, the accused Zupljanin seems to be trying to get our attention. Perhaps his counsel. Is this -- Mr. Krgovic, is there --"
+    },
+    {
+      "id": 139,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour. I don't have further question."
+    },
+    {
+      "id": 140,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Re-examination."
+    },
+    {
+      "id": 141,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes I do, Your Honours."
+    },
+    {
+      "id": 142,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Judge, first of all, I want to deal with the question of your resignation about which you were asked yesterday, and your interview was referred to by Mr. Cvijetic. I think we better just have that up.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 143,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It's page 4 of the second interview. Sorry. Oh, 65 ter 10359.02. And as it's -- the fourth, yes, the fourth page at the bottom. No, that's not it. Page 4, please. Yep."
+    },
+    {
+      "id": 144,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "At the bottom of the page you were asked: What was the reason given why they wanted you removed? And you said: They gave several reasons. Amongst other things, they wrote that before the war I'd associated with a Muslim man who was a war criminal, and this was a young man I used to have a publishing house together with from Bosanski Brod. And I did associate with him before the war. He was a poet, he was a painter. And you go on to describe that. And then you said at the end of that paragraph: And this is the main reason they stated, for when they said that I wasn't a Serb, that I didn't support the state, and that I didn't support their politics or their policy. And could we go to the next page, please, the top of it. Then they said that I also wrote for Nin, and I remember them saying that I was the ideologist behind the creation of the socialist party in Teslic, that I was providing assistance to certain people within the socialist party, which is in fact true because there was a group of people within that party who were the opposition, the only opposition to the SDS and who had believed that the socialist party that Milosevic were against the SDS and they would have support from Belgrade. Was there any reason ever suggested ... you were not performing your duties properly as a public prosecutor? Not at all. There was not a single sentence in connection with work.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 145,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Right. Can we go back to the Judge. Yes."
+    },
+    {
+      "id": 146,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Judge Peric, you said that in interview in 2002. Was that your view at the time and is it your view today of why you were removed?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 147,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is completely true. I saw that SDS document from Teslic. I wrote it in its entirety. It was brought to me by the chief prosecutor to show me who demands my removal and why. And that there had been several such letter and that he was saying to Karagic several times that I was a regular prosecutor and that there was no reason for him to remove him, and finally he was told, Either you remove Peric or I remove you, because I cannot cope with this Knezovic and the deputies from Teslic anymore.",
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Right. Now, that was reopened the question of your resignation by Mr. Cvijetic who showed you a document for which there was no translation available and read you a selected bit. And that's at page 10572 of the transcript. And the document, for which there is now a translation, is 1D277 -- sorry, it was at page -- I think it was at a later stage you were shown this document. Anyhow, can we have it up, please, 1D277. I don't think it was MFI'd at all. Was it?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 149,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "I thought it was."
+    },
+    {
+      "id": 150,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Oh was it."
+    },
+    {
+      "id": 151,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what you said about it, Judge, when you were shown it, with the implication, I imagine, that you were corrupt, although it wasn't stated in those terms, because you were asked about the apartment that you got?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 152,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Sorry, it's page 10580 and 81 of the transcript yesterday."
+    },
+    {
+      "id": 153,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you said Mr. Rade Pavlovic was a man who was not supporting the policies of the SDS. He openly fought against such policies. All the claims here about his criminal activities is untrue. The purpose of it was to discredit him and to dismiss him. He was a man with a reputation with authority who was protecting his employees of Bosniak and Croat nationality, and the SDS did not like this. I'm not interested in this, said Mr. Cvijetic, only the bit related to you. Well, now let's have a look at what is clear from the letter or the report I should say. Can we have it up on the screen, please. And go in it to the -- it will be the fourth page, please, in English. That's the bottom of page 3 of the English, I think. Sorry, can we go back one page in English, and I don't know where it is in B/C/S at all. Yes, that last paragraph, please. Page 4 of B/C/S. This is the report: After a litany of complaint about his alleged corrupt activities, in which you were dragged into it, his stance towards Muslims and Croats who are moving out voluntarily is rather unorthodox, especially in the current climate. He gives valuable gifts to more prominent Muslims and Croats who are leaving as a sign of gratitude, in inverted commas, for everything they have given to Teslic. In these circumstances, he never fails to apologise to the Muslims and Croats for having to leave their hearths, adding that there are many Serbs who regret their leaving. Because of such actions on his part Radio Tesanj has -- Could we go to the next page. -- has been of late referring to Pavlovic as the most humane Serb and in other laudatory terms. Is that, Judge Peric, what you were referring to when you give that answer to Mr. Cvijetic?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 154,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's correct. Pavlovic was really an honourable man who want to help people, and I also wanted to help Pavlovic for that apartment to be preserved for the people who had renovated it and lived in it. That was a complete lie. If that was an official police report, you can see what the police were dealing with. Pavlovic was never accused or suspected. They tried to remove him after the war. They circled his company and there was a clash between the workers and the police, and he was -- he was a nuisance to many people, but such reports were a complete fabrication.",
+      "reply_to": 153
+    },
+    {
+      "id": 155,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Interpreter's correction: On page 16, line 13, of the current transcript the first word should be \"read,\" \"I read it in its entirety.\""
+    },
+    {
+      "id": 156,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, I don't know whether Your Honours want this to be exhibited. Your Honours, I do say that it would have been proper for Mr. Cvijetic, knowing there was no translation and having heard the answer the Judge, to have referred him there and then or at least us to that paragraph. Now, can I -- as I say, I don't know whether Your Honours think this is something that you want to have exhibited."
+    },
+    {
+      "id": 157,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Inasmuch as it was -- one of the lines of the cross-examination was to attack the credibility and honesty of this witness, and this was a document relied on, in order to give a context to that bit of evidence I should it should be exhibited."
+    },
+    {
+      "id": 158,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, then, Your Honours now that we've got the translation, Your Honours have seen exactly what this is about."
+    },
+    {
+      "id": 159,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "So the -- as I said, my recollection is that it was marked for identification so -- yes, so it would -- that -- that would now be lifted."
+    },
+    {
+      "id": 160,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can I move then, Judge Peric, to another matter that you were asked about Mr. Cvijetic, and this is at page 10560 of the transcript. You were being taken through the Criminal Code and the duties of a prosecutor. And --",
+      "examination": "re-direct"
+    },
+    {
+      "id": 161,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Sorry, Your Honours, I just want to make sure I've got the... yes."
+    },
+    {
+      "id": 162,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And it was put to you that citizens -- you were asked question at the top of page: Were you ever in a situation as a public prosecutor that a citizen comes to you and verbally tells that you a crime was committed and that he or she wants the proceeding to be launched against the perpetrator? No. I've been a prosecutor for three years and I was a prosecutor for three years, I've never been in such a situation. Citizens normally report crimes to the police and never has any citizen come to me to report a crime. Now, first, leaving that aside for a moment, supposing a citizen had filed a criminal report with you, what would you have to do with that criminal report? Who would be -- would have to investigate whether there was substance to this report?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 163,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The police, of course. What I would do with the report is write a letter to the police and ask police inspectors to collect information related to that report, to question certain persons, et cetera. Simply collect evidence. I, as a prosecutor, could not do that. I could possibly invite some persons to talk to them, but this was mostly done through the police. And this procedure applies to date. Even the minister would ask the police and other agencies to provide logistical support in collecting evidence.",
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. You say you never ever had a citizen reporting a crime to you in the whole of your three years as a prosecutor; is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 165,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct. It's simply part of our legal culture. It is the police to which crimes are reported and it is the police that enforces security, protects public order and morale.",
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Next, can I move to another matter that you were asked about. And that was the processing, if you like, of an investigation. It was put to you: Mr. Peric, let me summarise the position of the Defence in relation to the implementation of the provisions you were looking at. The prosecution of the perpetrators and their processing before the judicial organs at the time was exclusively part of the authorities of the public prosecutor, and then further processing would be under the authority of the relevant court. And your reply was: Prosecution, yes, but preparation and collection of evidence was something that had -- was to be done by the police. One must make a distinction here. So effectively, who conducted the first investigation?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 167,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Preliminary investigation in the pre-indictment stage was always handled by the police. Always. And the results of these pre-indictment steps were submitted to the prosecutor, either in the form of a criminal report or by briefing the prosecutor about the steps that had been taken, especially if they found there were no elements of crime.",
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Right.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 169,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The police had a service, the Criminal Investigation Service, which had its chief, and this service dealt exclusively with the discovery of crime and collection of evidence. That was a special service within the police.",
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, once an investigative judge had become involved, who would he have to rely on, for example, to arrest the perpetrators of the alleged crimes?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 171,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "On the police, of course, and only the police.",
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who would be responsible for locating the witnesses to the crimes?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 173,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The police, of course. They would have to find out his or her address, bring him or her in, or even deliver a subpoena regarding persons who did not want to appear in court. They had to rely solely on the police. Otherwise, they would be unable to do their job.",
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And was that the same in respect of the conduct of searches and the seizure of evidence?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 175,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct. All the searches, all crime scene investigations. Everything was done with the help of the police.",
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, just a moment of your time. Perhaps it would be fair to ask the witness on whose orders and under whose supervision the police did that work when a case was in the stage of investigation and who led all these procedures."
+    },
+    {
+      "id": 177,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] The prosecutor gives authority to the police, unless he leads a particular investigating step. He could, for instance, take charge of a crime scene investigation, but he could also assign his authority to the police and did not normally take part in those investigative steps."
+    },
+    {
+      "id": 178,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Ms. Korner asked you who orders these steps to be taken."
+    },
+    {
+      "id": 179,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] The investigating judge does not --"
+    },
+    {
+      "id": 180,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I truly object to this. I'm in the middle of re-examination and suddenly Mr. Cvijetic gets up again to continue his cross-examination. I mean -- this is outrageous."
+    },
+    {
+      "id": 181,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "I agree, Ms. Korner. Please proceed."
+    },
+    {
+      "id": 182,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm sorry, but Your Honours I -- I'm sorry, would Your Honour like to point out to Mr. Cvijetic it's utterly improper."
+    },
+    {
+      "id": 183,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Well, I must explain with all due respect that the witness has to be asked a fair question. The witness was led to give a wrong answer. Well, only now did he give an answer that is in conformity with the law. If we go on with questioning of this kind, we will not get to the truth."
+    },
+    {
+      "id": 184,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Pantelic."
+    },
+    {
+      "id": 185,
+      "speaker": "MR. PANTELIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, I do apologise. I just have an intervention to the transcript. It's page 21, line 18, beginning with the word \"They had to rely,\" actually witness said, \"the prosecution had to rely solely on police.\" That was his word. Maybe my learned friend, Ms. Korner, can clarify that with the witness. Thank you."
+    },
+    {
+      "id": 186,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is that right, Judge Peric? Did you say the prosecution had to rely. I understood you to say -- I was asking you -- can I make this absolutely clear, the questions I asking related to once the investigating judge was in charge of the investigation.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 187,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "So I was not misleading the witness, and I take strong objection to Mr. Cvijetic's intervention at any stage in the middle of re-examination. Now, I was asking specific questions about the time at which the investigative judge became involved. On whom the investigative judge had to rely."
+    },
+    {
+      "id": 188,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, Judge Peric, I'm sorry for this somewhat unseemly interruption but --",
+      "examination": "re-direct"
+    },
+    {
+      "id": 189,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let's wait for the witness to answer to be clear."
+    },
+    {
+      "id": 190,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, I'm just about to go back to this."
+    },
+    {
+      "id": 191,
+      "speaker": "MR. PANTELIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I do apologies. Judge answered on your question, it was line 5: \"Is that right, Judge Peric? Did you say the prosecution had to rely ...\" and then he said, \"yes,\" but it was not in the transcript so maybe you can ask him again in relation to my objection to the transcript."
+    },
+    {
+      "id": 192,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you Mr. Pantelic."
+    },
+    {
+      "id": 193,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Judge Peric, when you were answering my questions - and I will go back to the actual question and answer - I've forgotten what line you said it was, now. 21, line 19. Right. And I'll go back and read the whole series to you. My question was: \"Now once an investigative judge has become involved, who would he have to rely on, for example, to arrest the perpetrators of the alleged crimes?\" And your answer was: \"On the police, of course, and only the police.\" \"Q. Who would be responsible for locating the witnesses to the crimes?\" \"A. The police, of course. They would have to find out his or her address, bring him or her in, or even deliver a subpoena regarding the person who is did not want to appear in court. They had to rely solely on the police.\" Now did you say then instead of \"they,\" \"the prosecution\"?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 194,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can clarify. Everyone relies on the police. The prosecutor, the investigating judge, and even the court, during trial, if it is necessary to ensure the presence of a witness. At all stages, only the police for the prosecutor and for the court and for the judge, the police is the supporting body, the force that supports their work at all stages.",
+      "reply_to": 193
+    },
+    {
+      "id": 195,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. And one final question on this topic before I move to the next. Is -- at what stage does an investigation become a prosecution?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 196,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "With the request to conduct an investigation.",
+      "reply_to": 195
+    },
+    {
+      "id": 197,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "At that stage it's a prosecution as opposed to an investigation?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 198,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct. That's correct. Those are criminal proceedings.",
+      "reply_to": 197
+    },
+    {
+      "id": 199,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I don't know, Your Honours. And I've lost track of when -- is that about the time for the break?"
+    },
+    {
+      "id": 200,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "No, we have a ways to go yet."
+    },
+    {
+      "id": 201,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Oh, I see. Yes, I'm sorry. I've slightly lost track this morning. Right."
+    },
+    {
+      "id": 202,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can I then next move to the question, you were asked by, I believe, Mr. Krgovic, this was, about the attacks on Stenjak and Rankovici, of the operations which is 10957. Page 10957 in the transcript. I apologies, 10597, yes. Yes, yes. You were asked about by Mr. Krgovic about the military operations in Stenjak and Rankovici. And it was put to you that you don't know anything about the reasons for the operation or the causes of the operation; 10598. And you said: Yes, that's correct, I don't know anything about the details. Now, I think we better clarify that because you were asked about this in your interview, second interview at page 71. You were asked, first of all, about Stenjak, and you described the attack -- perhaps we better have the page up. Page 71 of this interview.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 203,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "10359.02. Page 71."
+    },
+    {
+      "id": 204,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "The investigator said he was going to ask you about the military operations in Stenjak and Rankovici. And you explained that it was a large village, inhabited exclusively by Muslims, and you were asked: Did you actually see the tank firing on Stenjak, and you said that you heard it because it was about 2 to 3 [sic] metres away from the Court. And then it was one tank or is that other fire coming from places. And you said, I think there was another one firing from the direction of what is called the cattle market? Was there any response, you were asked, any firing from the village. I couldn't see that nor do I know that. I am not aware of any resistance being put up. I never heard anything about it, but I remember hearing that people said many people had left the village before the attack. And, next page, please. You were asked, at the top of the page, next page. So why do you think there was a military -- military operation carried out there then. Your answer was intimidation, to set an example for other villages. Then you were asked about the shells. And you said you didn't see that anything was destroyed. Did the infantry enter Stenjak, you were asked. And you said, yes, I think it was the military and police groups that entered, and I think that several people were killed. I was -- I was told by -- about this by the people who actually buried those people who got killed, and I think they couldn't even establish the identity of two or three people who were killed. And then you were asked if you knew had killed them, and you said no. And then you were asked about Rankovici. Now, first of all, dealing alone with Stenjak, that evidence that you gave then or -- sorry, that information you gave then, was that your recollection and understanding at the time that you gave this interview?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 205,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's it. But I meant direct knowledge before that action. That it would happen. Later, I heard about several dead who could be identified. I heard the fire, because it was very close. I saw the tank and the fire from the tank -- I heard the fire from the tank.",
+      "reply_to": 204
+    },
+    {
+      "id": 206,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Interpreter's correction: The dead who could not be identified."
+    },
+    {
+      "id": 207,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So when you were answering Mr. Krgovic's questions, you were dealing with the direct -- whether you had direct information?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 208,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, precisely.",
+      "reply_to": 207
+    },
+    {
+      "id": 209,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you, yourself, heard the tank firing at the time of the -- the -- the attack on the village?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 210,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I heard of the tank. I perhaps even saw it because it was 200 metres away from the court-house by the road to Doboj. Stenjak is a town neighbourhood. It's very central.",
+      "reply_to": 209
+    },
+    {
+      "id": 211,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And then you moved on -- you were then asked about Rankovici. If we just go back to the interview for a moment, the same page. You then -- you thought it was on the 8th or 12th of May, and then you corrected that to say it was June, later on. And then at the bottom of the page you were asked, before we cover Rankovici, do you think there's any relationship between the arrival of the Mices and the attack on Stenjak. And you -- it said, yes [sic], of course, it was their action, operation. And then over the next page. How [sic] do you mean it was their operation. They participated in the same [sic] thing -- sorry, the whole thing. It was part of their strategy of installing order. You were asked how did they participate. I don't know. And then the tanks, they didn't arrive with tanks, they were regular army tanks. No, they came to the brigade, to Bilanovic and Petricevic - I'm sorry, that one I have a real difficulty with - was his duty, and it was all co-ordinated with the Crisis Staff. They brought them in and arranged for everything. They were just a tool in the strategy of the Crisis Staff. Let's talk about the attack on Rankovici. It was after the attack of Stenjak; correct. Yes. Can you describe the military operation that had happened in that village. I can. Whatever I can tell you comes from the investigation we conducted. Apparently, somebody from that village shot -- fired shots at police or a military patrol. I don't know whether that's true or not. Maybe this was just a way for them to justify their operation, but they put that down as the reason for the operation. And then the police and the army went there. It was the same as in Stenjak. It was a co-ordinated action. Just in case the police, both the police and army. And in this operation on Rankovici, one of the Mice was wounded and one policeman or one man was killed. And then you describe what happened afterwards. So was this your conclusion, having investigated this matter as to how this attack came about?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 212,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "All that I said was based on what I heard during the investigations we conducted at the court. I did not see anything with my own eyes, and I did not participate.",
+      "reply_to": 211
+    },
+    {
+      "id": 213,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you talk about the -- a joint operation between the military and the police, are you just talking about the Mices or other members outside the Mices, or both the military and the police?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 214,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The local police was involved, the Mices, and the army.",
+      "reply_to": 213
+    },
+    {
+      "id": 215,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And then you were asked, over the page, just very briefly -- sorry, can we go back to ... Yep. And then you talked about the interrogations you carried out. You talked about what happened to the village -- the people who had been in the village. You said Rankovici was a village exclusively inhabited by Muslims. And you were asked then, were the Croats -- where were the Croats based largely. And you said, after this operation on Rankovici there was a similar operation done on the village of Komusina where the Catholic church is and the holy edifice as well. The Croatian villages gravitated toward the Zenica municipal boundaries. So their town was towards the end when the inside operations were finished. And was that again something you discovered as a result of your investigations into the Mice?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 216,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That happened later. And that's also indirect knowledge on my part, regarding actions or people who participated.",
+      "reply_to": 215
+    },
+    {
+      "id": 217,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I don't remember this arises from my cross-examination. I don't remember mentioning Komusina and this operation. We talked about two operations, Rankovici and Stenjak."
+    },
+    {
+      "id": 218,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, as I understand it, the suggest -- I know those are the only two villages mentioned, but the suggestion was that in each case the judge was unaware of the actual nature of these operations with which, on the face of it, the judge agreed, which is why I was dealing with all of them, and the three operations run as one, even though specifically Komusina wasn't mentioned."
+    },
+    {
+      "id": 219,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Perhaps you should confine yourself to the [overlapping speakers]."
+    },
+    {
+      "id": 220,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I dealt with the topic in any event."
+    },
+    {
+      "id": 221,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can I move, please, to the next matter that was put to you, namely, that after the Mice were arrested in July, and this is at page 10599, you said, in the period when the people from Banja Luka were there, all Muslims and Croats that were in detention at different locations were released with the exception of several against whom indicts were issued and they were still being prosecuted. Now from whom did you get the information that all of these people who had been arrested by the Mice and were being held in various detention places were released?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 222,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Got it from Radulovic Predrag. Together with him, I went to the prison of the Territorial Defence because he invited me to be present at the disbanding of that prison. So I came together with him to that prison and was present when the detainees were released and regarding other prison, I heard from him they were disbanded.",
+      "reply_to": 221
+    },
+    {
+      "id": 223,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Right. So the only one that you're aware of where you actually saw people -- or you were present when people were released was the one in the Territorial Defence building. And for the rest, you're relying on information that Mr. Radulovic gave you; is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 224,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right.",
+      "reply_to": 223
+    },
+    {
+      "id": 225,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Well, Your Honours, I think that is now time for the break because I'm moving to a marginally different topic.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 226,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "If --"
+    },
+    {
+      "id": 227,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It will take me more than five minutes. But, Your Honours, as I say, I completely lost track of when we're having breaks at moment, but I'm perfectly happy to go on for another five."
+    },
+    {
+      "id": 228,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "If it will take you more than five minutes, we can conveniently take the break at this time."
+    },
+    {
+      "id": 229,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Certainly."
+    },
+    {
+      "id": 230,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "As a matter of interest, Ms. Korner, how much longer do you think you would be in total in your re-examination?"
+    },
+    {
+      "id": 231,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No more than half an hour."
+    },
+    {
+      "id": 232,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Judge, just a couple more questions about the -- these detention places. Were you aware that -- that there was a -- a detention facility at Pribinic?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 233,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I was. There was even before the arrival of the Mice and I believe that it was closed down, but it was re-opened when the Mice came, as far as I know.",
+      "reply_to": 232
+    },
+    {
+      "id": 234,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Right. Were you aware that people were actually kept there until the 5th -- at least the 5th of October?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 235,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot assert that with certainty. It's a -- it's possible, but I'm not sure.",
+      "reply_to": 234
+    },
+    {
+      "id": 236,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And were you aware of another detention facility at the partisan handball place?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 237,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think it was a sort of open-air collection centre. It was not a usual prison.",
+      "reply_to": 236
+    },
+    {
+      "id": 238,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "No, I absolutely agree with you. But were you aware, again, that apparently people were detained there, non-Serbs, until at least the 20th of October?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 239,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot comment this time reference, but I know that it existed, and I saw people there.",
+      "reply_to": 238
+    },
+    {
+      "id": 240,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Now, as I said, I wanted to move to another topic that you were asked about. It was put to you effectively that when you were looking -- when you were asked to look again at your report for September - perhaps you'd better have that. It's in tab 84 for you, Judge, and the number is P1353.15. And effectively you were asked about the section which is on -- just a moment ... find it myself. I think it's page 1, and you were asked about the relationship between -- yes. It's the last paragraph of -- paragraph 1, the introduction. Relations between the public prosecutor's office and the public security station were within the limits of correctness and professionalism, although they were marked by subjective organisational weaknesses in one period. And at page 10604, you were asked by Mr. Krgovic: Were you referring to the time when the Mices were in Teslic. And you said: Yes, that's the period I had in mind. And then in the period after that, covered by your report, your relations were good. Yes, concerning the criminal reports that arrived, the co-operation with regard to them was good. Now, you told us yesterday -- when I was asking you questions in-chief, that the police were not, in fact, reporting crimes to you. I think I better find my actual question. I think you said it in your interview as well. When you talked about relations being bad during the period of the Mice, were you referring to reports of crimes being not given to you at all, obviously; or were you referring to something else? What did you mean by \"relations were good\"?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 241,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "This statement of mine refers to those cases that were processed and good cooperation with regard to the cases or files that were forwarded to the prosecutor's office. With regard to that, the relations were good. All the reports were professional, contained enough evidence, and professionally done. That's what I meant. Everything in connection with those reports was all right.",
+      "reply_to": 240
+    },
+    {
+      "id": 242,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I see. Right. That's -- so it's in the reports that you actually submitted. All right. Thank you. That's clarified that. Thank you very much. You were then -- it was put to you, and you agreed with it, and this is on page 10603 of the transcript, that the main complaint about crimes committed pertains to the army. And you said: Yes, that was the greatest problem. The army did not have a -- doesn't quite make sense in the transcript, but did not organise, I think it should be \"organised\" the military police and did nothing to exert control over the armed persons while those people were not at the front line. You told the Court when I was asking you question about the type of people that were being prosecuted, that I think that the people processed were criminals of classical type so to speak, this is page 10537 of the transcript, and in the case where the people weren't prosecuted, these were people either that were under the control of the police, or the case was that maybe the police didn't want them to be prosecuted. That's the only conclusion I can reach. Now, were the -- the crimes only committed by those who were in the military; or were there also those not in the military committing crimes?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 243,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was my conclusion also. Whatever was not reported and investigated, I suppose that was, in a way, under the control of either the police or the military, or both. I cannot strictly distinguish between the military and the police. I believe that there was some sort of joint action. After all, both the commander and the chief of police were members of the Crisis Staff, so they had to know about all these events. I concluded from all that that cases of common crime were being investigated, whereas other crimes were under some sort of control of either the police or the military, or they were tolerated from a political level. These -- these were my conclusions.",
+      "reply_to": 242
+    },
+    {
+      "id": 244,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. And then, really, finally, you were asked a number of questions in relation to the entries in your register which show the arrest of Serbs for crimes committed against non-Serbs. And you were also -- it was effectively put to you that the arrests of Croats and Muslims stopped once the Mice were out. Now, in relation to the second aspect - that is, the arrest of Croats and Muslims stopped once the Mice were removed - is that actually right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 245,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is right, but only applies to the period where -- while the police from Banja Luka was there and carried out policing in Teslic. After that, things went bad again.",
+      "reply_to": 244
+    },
+    {
+      "id": 246,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And as -- it's right, I think, we can see from the KT log-book, in fact, that there were further prosecutions of Muslims and Croats for such things as armed rebellion and illegal possession of weapons. Yes. Thank you very much, indeed, Judge Peric, for coming. That's all I ask.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 247,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Questioned by the Court:"
+    },
+    {
+      "id": 248,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Judge Peric, when you are to deal with a group of criminals and when proceedings are started against them, you normally proceed against every member of the group, right?"
+    },
+    {
+      "id": 249,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 247
+    },
+    {
+      "id": 250,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Was there any decision ordering the arrest of Mr. Savic, as far as you know?"
+    },
+    {
+      "id": 251,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, there was no such decision. We never received one from the police. I don't know what exactly the explanation was. Mr. Radulovic could say more about that. I don't know why he was not included in the criminal report.",
+      "reply_to": 247
+    },
+    {
+      "id": 252,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The fact that he was not in Teslic, that he couldn't be found in Teslic, has nothing to do with the question whether there are investigations, whether there are proceedings against him or not. The fact that he is not there, not in Teslic, or cannot be found, does not prevent investigations to be started against someone, right?"
+    },
+    {
+      "id": 253,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct. But I believe that, at that moment, it wouldn't have been possible to arrest him because he was in Doboj under the control of the people who had sent him to Teslic. So for those reasons at that moment we didn't carry out investigative measures with regard to him. Instead, we waited for a more convenient moment. That's the only reason I can mention. I don't know why he was left out. It -- it was Predrag Radulovic and the police who didn't include him in the criminal report.",
+      "reply_to": 247
+    },
+    {
+      "id": 254,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And if I'm not wrong, the same goes for, I don't recall his name, but head of the military part of the group; is that right? What was his name Petricevic or something like that?"
+    },
+    {
+      "id": 255,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct, Ljubisa Petricevic. The explanation for him that we received -- got for him was that he was taken to detention to Banja Luka by the military police.",
+      "reply_to": 247
+    },
+    {
+      "id": 256,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 257,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Judge. I also have just one small question for you. And my question relates to your testimony -- or not your testimony, sorry, your interview with the Prosecution on the 10th of January, 2002. And I don't know whether it's possible to bring up these statements on the screen. I would like you to see what, in the English version, is page 7 of your statements to the Prosecution of 10th January, 2002."
+    },
+    {
+      "id": 258,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, it is possible to bring it up. It's 10359.02. Tab 76 for the Judge."
+    },
+    {
+      "id": 259,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Are you there, Judge."
+    },
+    {
+      "id": 260,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm sorry, Your Honour. He doesn't have it because it wasn't in B/C/S. He listened to the tapes. It."
+    },
+    {
+      "id": 261,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ah."
+    },
+    {
+      "id": 262,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "But it is up on the screen, and if Your Honour reads it out in English, it will be translated to him."
+    },
+    {
+      "id": 263,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Very well. Judge, what I wanted to raise with you was the issue of political pressure that was put on your office. And speak about this at several places in your statement, and one of these places is on page 7, and I will read out slowly to you what you said. It was Ms. Korner who asked you whether what you told at the first interview was right; namely - and this is a quotation of what you said: \"Most important was the pressure exerted on the police in criminal, in that role, in criminal proceedings. Control exerted by the political parties, in this case, the SDS. What were\" - and this is Ms. Korner's question to you - \"what were, in your experience, happening between May 1992 and roughly September or October 1992, what sort of control was being brought on the police.\" And your answer was: \"The chief of police was member of the Crisis Staff, and they had meetings every morning. And they controlled the entire situation on the territory of the municipalities. So, all the members of the Crisis Staff knew what happened. And all the members of the Crisis Staff could influence the chief of police as to what he would do. I even think they asked the police to perform certain duties which did not fall into the police duties and, on the other hand, do not imply what the police should have done.\" Judge, this was your response to Ms. Korner's questions at the time, and I would like to follow up on your answer. Could you tell us a bit about the political pressure that was being put on the police. And my question would be: Was your office also under some sort of pressure from the political level?"
+    },
+    {
+      "id": 264,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that is correct. What you read is my statement and I still think today that influence was exerted on the police and that the police was under political pressure. The chief of police was, I believe, at the same time, the president of the SDS of Teslic, and he was a member of the Crisis Staff. He knew -- he had access to information and could exert influence on the police. When I said at the first meeting of -- that we didn't want to take part in the work of the Crisis Staff and that we didn't want to be involved in politics in any way, they left us in peace. They left us alone. Only once was I called up to bring some file to the municipality, and I answered that, And this is the last time you're asking something like that from me. But taking into consideration the huge number of unprocessed cases, I believe that it was the position of the Crisis Staff that some cases should not be investigated and, what's more, that some things should be done in contravention of the law. But these are my conclusions.",
+      "reply_to": 247
+    },
+    {
+      "id": 265,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thanks. But, Judge, when you say that political pressure was also put on the prosecutor's office, could you tell us a little more about just how that pressure was exerted? You -- you seemed to have indicated just now that you were left alone, and yet, in your previous answer, you seem to imply that political pressure was, indeed, put on you. So how was this political pressure applied?"
+    },
+    {
+      "id": 266,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I explained those were attempts of political influence and pressure. I mentioned the case when we were invited to a meeting of the Crisis Staff; and the second time I was asked to bring a file to the president of the municipality; and the third indirect sort of pressure was they wanted to remove me. But there was no other political pressure on the public prosecutor's office.",
+      "reply_to": 247
+    },
+    {
+      "id": 267,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "So your testimony today is that the political pressure that was exerted was mainly on the police and not directly on the prosecutor's office; is that correct?"
+    },
+    {
+      "id": 268,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 247
+    },
+    {
+      "id": 269,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Very well then. So your assertion that the police was under pressure, under political pressure, is based on your observation that the chief of police was member of the Crisis Staff. Is that the way we should understand it?"
+    },
+    {
+      "id": 270,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. A member of the Crisis Staff and the President of the political party that had absolute power.",
+      "reply_to": 247
+    },
+    {
+      "id": 271,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Right so this leads to the next question. Who was formulating the political pressure? Was that the political party that you have just spoken of, the SDS; or was it in a wider sense, the Crisis Staff? Are you able to make that distinction, if such a distinction exists?"
+    },
+    {
+      "id": 272,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think that it was the political party, the SDS who had the dominant influences and the deputies who were members of that party. If we want to establish a hierarchical connection, then it's the SDS, the political party that was the ruling party.",
+      "reply_to": 247
+    },
+    {
+      "id": 273,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "So I understand that the SDS was controlling the political priorities of the Crisis Staff in Teslic. Is that -- that the way we should take this?"
+    },
+    {
+      "id": 274,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Those were the political priorities of the highest government level and the local level. They were -- they belonged to the same political party.",
+      "reply_to": 247
+    },
+    {
+      "id": 275,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "What do you know exactly of this policy of the SDS at the time? Do you -- are you able to form an opinion about whether it was a distinct and clear policy of the SDS to remove non-Serbs from Teslic and its nearby villages?"
+    },
+    {
+      "id": 276,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I've never been able to make a conclusion as to the official policy of the SDS. It was never published anywhere. You could only draw conclusions from what you observed or from what was happening in reality.",
+      "reply_to": 247
+    },
+    {
+      "id": 277,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "And so your conclusion then is, that, based on the events as they happened on the ground, you infer that it must have been the policy of the SDS to have non-Serbs removed from the area. Is that a correct reflection of your opinion?"
+    },
+    {
+      "id": 278,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it is.",
+      "reply_to": 247
+    },
+    {
+      "id": 279,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Now, this policy that was then, in your view, applied by the SDS in -- in Teslic, do you know if this was a policy that also applied in -- in Doboj and Banja Luka and other municipalities? Or maybe throughout the Republika Srpska?"
+    },
+    {
+      "id": 280,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot be certain. I believe that there were differences between municipalities. There were some municipalities that were considered extreme, that -- where was extreme nationalism and in others there were no extreme occurrences so that the situation was rather varied. Doboj was considered one of the extreme municipalities, and it's still considered one, in which the SDS has strong influence.",
+      "reply_to": 247
+    },
+    {
+      "id": 281,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let's get back to Teslic. Do you know if any objections to the policy was ever raised in the Crisis Staff in Teslic?"
+    },
+    {
+      "id": 282,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The only objections were outside the institutions, non-institutional, because there was no political opposition. Only people such as Rade Pavlovic and others who fought their own private war against these structures and were rather successful in opposing them but it wasn't very significant. But I haven't heard of any public or institutionalised resistance or reactions or opposition.",
+      "reply_to": 247
+    },
+    {
+      "id": 283,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, suppose someone from the police, or the army, didn't want to go along with the priorities handed down by the Crisis Staff, then what would happen? I mean, were you ever aware of any such differences in opinion?"
+    },
+    {
+      "id": 284,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, that person would certainly be removed from their position. I believe there were cases like that, although I can't remember any particular ones now. There were many dismissals, removal, replacements, brigade commanders were removed. New ones were brought in. The situation was pretty chaotic. I don't know any details, but I suppose anyone who didn't think the same had to tow the line or they would be removed, or called up to the army, like I was, after my dismissal.",
+      "reply_to": 247
+    },
+    {
+      "id": 285,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Now, finally, I would be grateful if you could explain to us - if you know - a bit about the relations between the Crisis Staff and -- and the army. And the reason I'm putting this question is that, ordinarily, after the declaration of an imminent threat of war, one would assume that the -- that the army was in control of all activities in the area, yet you seem to suggest that it was really the Crisis Staff that was controlling events in the areas. So, you know, it couldn't be both ways. Either it was the army who decided and the army would then have taken control over -- and authority over the police, or it was the Crisis Staff. How was this dual authority exercised in -- in real terms; do you know?"
+    },
+    {
+      "id": 286,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I'll try. I think Teslic was a rather peculiar case in that sense. The army did not have control over the Crisis Staff. On the other hand, the Crisis Staff -- sorry, the SDS tried to control the army through the Crisis Staff and officers inclined towards the SDS were made brigade commanders, and there was constantly talk that Teslic needs commanders who were natives of Teslic rather than commanders from outside. I know that former JNA officers were not popular because they were thought to be closer to the socialist party and that they were not patriotic enough. I think the Crisis Staff had the key role rather than brigade commanders in the army.",
+      "reply_to": 247
+    },
+    {
+      "id": 287,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Judge. That's all I have to ask you."
+    },
+    {
+      "id": 288,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, may I have leave to ask a few questions after the Judges' questions, questions put by Judge Harhoff specifically, a few clarifications to be precise. Further Cross-examination by Mr. Krgovic:"
+    },
+    {
+      "id": 289,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Peric when you are answering questions put by honourable Judge Harhoff you were talking about the work of the Crisis Staff and its composition. Isn't it true that in July, or starting with July the Crisis Staff no longer existed and the Assembly of the municipality of Teslic operated regularly?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 290,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think the Crisis Staff existed throughout the war. It was called the Crisis Staff and then the War Staff and it existed in parallel with the Assembly. The Assembly was like a democratic embassy of sorts. It didn't decide on anything.",
+      "reply_to": 289
+    },
+    {
+      "id": 291,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you haven't seen a single decision of the Crisis Staff in Teslic.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 292,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm sure such decisions existed and these people sat every day, and they made decisions rather than the parliament. The parliament, when it made decisions, made decisions that they had formulated previously.",
+      "reply_to": 291
+    },
+    {
+      "id": 293,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you look at 65 ter 866. It's in my binder --",
+      "examination": "re-direct"
+    },
+    {
+      "id": 294,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm sorry, Mr. Krgovic. The transcript -- you have to keep an eye on the screen. The translation was still continuing."
+    },
+    {
+      "id": 295,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay."
+    },
+    {
+      "id": 296,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] It's the Zupljanin Defence binder, tab 4. This is, Mr. Peric, an excerpt from the minutes of the Assembly session held on 20th August.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 297,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 296
+    },
+    {
+      "id": 298,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You can see what the discussion was about, you can see who participated, and you can see there is reference to the same thing you mentioned on page 1, where they endorse the agenda -- sorry, the minutes of the previous Assembly session, and the conclusion of the Assembly that the military police at battalion level was not doing its job. That's on page 1. And after that, please look at page 6 where Mr. Perisic, in his contribution, says that the issue of paramilitary units has to be dealt with, and he proposes to the military command to arrest and started proceedings against any brigade members involved in illegal activities, and you can see the other persons who respond, the previous chief of police, Kuzmanovic, and Djordjevic, and all these differences of opinion at the Assembly session. Isn't it the case that from the month of July the Assembly met regularly?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 299,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. It held sessions but in parallel with the Crisis Staff. And I believe the Assembly was used exclusively for mutual settlements of accounts between the chief of the Crisis Staff, the brigade commander, Perisic, the Assembly was supposed to --",
+      "reply_to": 298
+    },
+    {
+      "id": 300,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Previous translation continues] ... sorry, Judge Peric, I just want to intervene with counsel. You do appreciate that the document we now have on the screen is under seal, do you?"
+    },
+    {
+      "id": 301,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Probably Your Honour, I didn't -- I really -- I didn't notice that. What's the position of Prosecution?"
+    },
+    {
+      "id": 302,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, I -- I have to confess I had forgotten that as well. But it needs to come off the screen, and that's for sure."
+    },
+    {
+      "id": 303,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Necessary instructions have been conveyed to the AV unit."
+    },
+    {
+      "id": 304,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "All right. Thank you."
+    },
+    {
+      "id": 305,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 306,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I'm sorry, I really didn't mean to."
+    },
+    {
+      "id": 307,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Peric, broadly speaking, can you tell us if you have ever seen after July, and you brought some documents to the Prosecution during your interview, documents you had in your possession. But after the month of July 1992, did you ever see a decision of the Crisis Staff published or not?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 308,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think there were such decisions.",
+      "reply_to": 307
+    },
+    {
+      "id": 309,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you ever seen?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 310,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can't be sure, but I think there were such decisions.",
+      "reply_to": 309
+    },
+    {
+      "id": 311,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What content? What did they relate to?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 312,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Precisely these issues that were first discussed at the Crisis Staff and then they passed through the Assembly. And you can see in these minutes all the people from the Crisis Staff sitting at the Assembly session. Jokic, Markovic, Kuzmanovic, and others, they're all sitting in the Assembly, and they are the same people who made decisions.",
+      "reply_to": 311
+    },
+    {
+      "id": 313,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Markovic at the time was not on the police force. He was not police commander. Kuzmanovic either.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 314,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm talking about the minutes that you referred me to, in paragraph 3, look at the --",
+      "reply_to": 313
+    },
+    {
+      "id": 315,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Krgovic, haven't you made your point within the context of the -- what arose directly out of the questions of Judge Harhoff? Aren't you wondering ..."
+    },
+    {
+      "id": 316,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, Your Honour. I have only one question."
+    },
+    {
+      "id": 317,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just answer with a yes or no. Have you ever seen or known about a decision signed Crisis Staff, after, after the month of July 1992?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 318,
+      "speaker": "BRANKO PERIC [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm sure, I believe it was even the War Staff and the War Presidency.",
+      "reply_to": 317
+    },
+    {
+      "id": 319,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Mr. Peric. I have no further questions.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 320,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "I don't suppose the Prosecution have anything arising out the Judge Harhoff's questions?"
+    },
+    {
+      "id": 321,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No. Thank you very much, Your Honours."
+    },
+    {
+      "id": 322,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, thank you. Judge Peric, we thank you for your attendance before the Tribunal and assisting us with respect to your testimony. You are now released as a witness. Thank you."
+    },
+    {
+      "id": 323,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 324,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "I assume that there is nothing that need engage our attention before I take the adjournment for the weekend?"
+    },
+    {
+      "id": 325,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, there is. If you recall, I said I would like to ask Your Honours to reconsider Your Honours' ruling in respect of the articles, and I would like to take the opportunity, really, to deal with the whole question of hearsay, because as Your Honours know, we were taken by surprise, first of all, by Mr. O'Sullivan's general submission and secondly by Your Honours ruling. And so, I'm sorry, I know it's Friday, but I would like to take a little time, because we've got a bit of time which we won't have next week. If I could, I would be very grateful."
+    },
+    {
+      "id": 326,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Are you ready to begin?"
+    },
+    {
+      "id": 327,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I am, yes. Your Honours, it seems to me that effectively because this is an ongoing saga, I ought to deal with Mr. O'Sullivan's really general submission although he has related it specifically to the documents produced by Mr. Traynor about this question of the admission into evidence of newspaper articles. As Your Honour says, you have in some cases admitted them and in others not, but the general principle, as Your Honours are perfectly well aware, is set out under Rule 89 of the Rules of Procedure and Evidence, and which has been interpreted on a number of occasions, that, under Rule 89(A), a Chamber shall apply the rules of evidence set forth in the section and not bound by national rules; and (C) ..."
+    },
+    {
+      "id": 328,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ms. Korner, before you expand on that, our ruling was -- was not -- was in no way upon Mr. O'Sullivan's objection. The reasons why we ruled as we did had nothing to do with Mr. O'Sullivan's objection."
+    },
+    {
+      "id": 329,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I perfectly understand that Your Honours, I do. I'm simply, as it were, using the opportunity just to deal with the general principle because it's our submission that it wasn't perhaps altogether properly enunciated by Mr. O'Sullivan, as I say. And I will come on to the reasons Your Honours' ruling why we're asking for reconsideration. Your Honours, in (C): \"A Chamber may admit any relevant evidence which it deems to have probative value.\" I know I'm repeating the obvious. Your Honour, that includes hearsay. But the various cases on hearsay do not distinguish between, as Mr. O'Sullivan put it, admissible hearsay and inadmissible hearsay. There is no such distinction in the authorities on the matter. The key factor for the admission of hearsay evidence is that of reliability. Your Honours, there have been three appeals decisions, decision on this matter, none of them -- and Your Honour, may I say straight away to Ms. Frew, who did the research for me while I was slightly otherwise occupied. There is no specific case which has dealt with newspaper articles as such. The hearsay cases are all on slightly different aspects. But Aleksovski was the first in 1999, Kordic, which was not referred to by Mr. O'Sullivan, was the second in 2000, and Milosevic was the third of the three cases, all decided before Milutinovic in which Mr. O'Sullivan was counsel. The Milosevic decision is the 30th of September, 2002. And, in effect -- Your Honour, the situation there, just to set that out, related to a statement which had been taken from a dead -- sorry, a dead witness. Not taken from -- the witness from whom the witness had been taken from had died before the trial. And the question was whether --"
+    },
+    {
+      "id": 330,
+      "speaker": "MR. O'SULLIVAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Sorry, I don't believe that's Milosevic."
+    },
+    {
+      "id": 331,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm sorry, that's Kordic. You`re quite right. Thank you, Mr. O'Sullivan. I'm muddling up with Kordic. The Milosevic case was the -- sorry, Your Honours, just let me ... Yes, the application was in relation to -- I'm so sorry. It was an investigator giving evidence which was a summary of a large number of witness statements. The Kordic one was the dead witness. In any event, the trial -- the Appeals Chamber went through the previous authorities including those of Aleksovski and quoted Aleksovski at page 6 of the Judgement and said that hearsay evidence -- the Chamber is given a broad discretion to admit relevant hearsay evidence, that it's admitted to prove the truth of its contents. Like me, Ms. Pidwell, had not had a chance to research the authorities before she stated that it was not being put forward for the truth of the contents. That it should be admitted. It's been shown to be reliable. And it's for this purpose the Chamber may consider both the content of the hearsay statement and the circumstances under which the evidence arose, (E) of the probative value of a hearsay statement will depend upon the context and character of the evidence in question. The Appeals Chamber also stated that the absence of opportunity to cross-examine the person who made the statements and whether the hearsay is first-hand or more removed are relevant to the probative value. And I emphasise that. It's also acknowledged that though it depends on infinitely variable circumstances of the particular case, the weight or probative value to be afforded to hearsay evidence will usually be less than that given to a testimony of a witness who has given it under a form of oath and has been cross-examined. And that goes without saying. But that doesn't prevent it in any way from being admissible. The court went on, the Appeals Chamber, went on to say that the reliability and this is at top of page 7 of the hearsay statement is relevant to its admissibility and not just to its weight. And then at -- it dealt with statements for the purpose of legal proceedings, which is not something that's relevant to this particular issue. And then at paragraph 22 it approved -- it proved the following: \"As stated in the Aleksovski decision, the passage on which the Prosecution did not rely, the Chamber must first consider whether the summary is first-hand hearsay; that is, whether the persons who made the statement summarised personally saw or heard the events recorded in their statements, and whether the absence of the opportunity to cross-examine those persons affects the reliability. \"According to the submission of the Prosecution, the opportunity to cross-examine the person who summarised those statements does not overcome the absence of opportunity to cross-examine the persons who made them. In different cases, of course, the statements may contain their own indicia of reliability which does overcome the absence of that opportunity.\" Now, Your Honours, the -- Mr. O'Sullivan relied very heavily on the decisions in Milutinovic. There were in fact a total of three of them. The first on the 1st of September, 2006; on the 8th of September, 2006; and then on the 29th of November, 2007, although the last was in relation to newspaper articles. I'll come back to that. And the first two were in relation to the witnesses who had prepared a report one was called Mitchell and Abrahams -- or two were called Mitchell and Abrahams, and somebody was called Hax -- a completely unpronounceable name, Haxhibeqiri, H-a-x-h-i-b-e-q-i-r-i."
+    },
+    {
+      "id": 332,
+      "speaker": "MR. O'SULLIVAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That would be Haxhibeqiri."
+    },
+    {
+      "id": 333,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, of course, you'd be there so you'd know how to pronounce it. I'm not even going to attempt to pronounce that one. Your Honour, they were all people who were called to talk about publicly a report, Mitchell and Abrahams, that had been done by OSCE on Kosovo. It was called \"Kosovo as Seen as Told.\" And the report contained extracts from a number of people who had been interviewed but who had not been interviewed by these two witnesses personally. And that was the distinction, the very great distinction which Mr. O'Sullivan didn't refer to between that and where you're interviewing the people who'd give you the information. They were unable to say who had actually interviewed them because it was just a report and had not themselves spoken to the witnesses. Your Honour, so there is the, we submit, the great distinction between that case and the ones -- the one that Your Honour was dealing with. In the third judgement, which was an admission of documents from the bar table, this was an article from the \"Politika\" newspaper, and this was the Chamber's decision. All of these, of course, are discretionary decisions, and not in the way that an Appeals Chamber decision is a binding. \"The Chamber has previously indicated it will not generally consider newspaper articles admissible solely to prove the truth of their contents.\" And they went on to deal with that. Now, Your Honours those are the authorities and that's the background to this, and we say that the test is, as the Appeals Chamber enunciated, looking at the surrounding circumstances, is the information -- is it reliable information which we can admit. And it doesn't matter whether it's first-hand or second-hand hearsay. Now, Your Honours, that's the background to this case or to -- to -- to Mr. Traynor. And can I just add one further thing on this, because I raised this because Mr. Pantelic, in his eloquent address at the end of the day, nothing to do with adjudicated facts and what Your Honours should do about that, which was a totally different subject to that under discussion, said that, in -- in discussing JCE he said that -- this is page 10469 of the transcript, that the honourable Judge Agius who was quite, I would say, he was an excellent judge, found Brdjanin discussing the issue of JCE. Well, the excellent judge, which obviously I totally agree with that assessment of Judge Agius, dealt with -- or the Trial Chamber in Brdjanin dealt with at some length the question of newspaper articles in the context of a case, and this is of in the Trial Judgement in the 1st of September, 2004, headed general considerations regarding the evaluation of evidence. At paragraph 28, it dealt with hearsay evidence: \"As regards hearsay evidence, the Trial Chamber reiterates that it's well settled in the practice and jurisprudence of this Tribunal that hearsay evidence is admissible. The approach taken by the Trial Chamber has been that since such evidence is admitted to prove the truth of its contents it ought to be satisfied that such evidence is reliable for that purpose in the sense of being voluntarily, truthful, and trustworthy and as appropriate.\" And then it goes on to say the probative value of a hearsay statement will depend upon the context and character of the evidence in question. The absence of the opportunity to cross-examine the person who made the statements, and whether the hearsay is first-hand or more removed has also been considered relevant to the probative value of the evidence. It's not the admission. It's the probative value. And then at paragraph 33, it dealt with -- specifically with newspaper articles. Your Honours will not be surprised to hear that they start by saying in that paragraph: \"The Defence objects to all newspaper articles and reports introduced into evidence by the Prosecution submitting that they are unreliable and they amount to hearsay. Some of them come from hostile sources prone to propaganda and that the accused has not been given the opportunity of cross-examination or confrontation of evidence.\" Your Honours, they then -- exactly as what's been going on here. Your Honours, they then said, and, Your Honours, may I say straight away this is just a Trial Chamber decision, but it may help Your Honours when considering this. The Trial Chamber considers that when reliable newspaper reports and articles and similar items of evidence challenged may be important not only because they originate from the time of events they report upon but also because they very often corroborate the information provided by other evidence and confirm that the facts referred to are public and generally known. As such, they can be appropriate instruments for verifying the truth of the facts of a case.\" Your Honour, that's the background to the -- the evidence of the articles that were produced by Mr. Traynor. Now, Your Honours can I go back, please, to your decision on Mr. Traynor's, the admission of Mr. Traynor's evidence under 92, Rule 92 ter, if I can just find that for a moment, which I had. Your Honours gave a ruling on this matter on the 2nd of October of last year. And said in paragraph 12: \"The Trial Chamber notes that the Prosecution identified what it considers to the relevant portions of the transcripts and statements for the witnesses. The Trial Chamber,\" and I quote, \"has undertaken its own review of the evidence submitted and finds that for most witnesses the portions identified by the Prosecution are indeed relevant. The Trial Chamber does consider for some witnesses the Prosecution's indications are too inclusive and not related with the evidence of the witnesses. The Trial Chamber sets out below the portions.\" And you dealt with ST-155 and ST-198. With the exception of the portions identified above, the Trial Chamber is satisfied the transcripts and statements are relevant and probative and will therefore admit them. Paragraph 14: \"The Prosecution tenders into evidence several documents that accompany the transcripts and statements of the witnesses. It submits that without those exhibits the witness's prior testimony cannot be fully evaluated for relevance and probative value, and then you deal with the fact that it must be on our exhibit list and that some -- some were included, others were not.\" And paragraph 15: \"The Trial Chamber, in its review of the accompanying documents, finds that most of them do indeed form an inextricable and indispensable part of the evidence they accompany. Save for the following.\" And Your Honours then identified with ST-173 a number of documents. ST-180, and ST-183 Colonel -- ST-183, and then ST-189, the list of newspaper articles which was included. So excluded the list of newspaper articles. Your Honours, the test as enunciated partly there but also in, I think, Your Honours' first decision on the 2nd of October 2009, was the inextricable and indispensable part of the evidence they accompany. Your Honour, we had here the journalist - going back to the hearsay point for a moment - the journalist who actually wrote the articles and who testified that he had spoken to the people directly about what he recorded in those newspaper articles. He could have been cross-examined -- it's rare. Normally we don't have the journalist, for once we did. Mr. O'Sullivan, who had raised the original point, asked no questions at all in respect of how accurate his notes were or anything of that nature. Mr. Pantelic, on behalf of Zupljanin, raised the question of bias, Your Honour heard the answers, and in one or two occasions challenged the witness's notes of what he had said to Mr. Zupljanin. But they had here, effectively, someone who said, I spoke to these people and whom, in particular, Mr. Zupljanin, but also to the others whose statements I recorded direct into my articles. Now, Your Honours' ruling, and can I take entirely the point that was raised right at the beginning my address by Judge Delvoie, was on the basis - can I just find that for a moment, thank you. Yes, Your Honours ruled at page 10457 that: \"We will admit into evidence the two statements made by the witness in 1999 and 2000 and that's it; that is to say, the 15 articles which were also part of the package will not be admitted into evidence. The reason is that we don't think they have sufficient evidentiary value. They're interesting articles, they're good, but we wouldn't rely on them for the purpose of reaching our conclusions in the case.\" Your Honours, that was despite, in fact, Mr. Pantelic, at page 10454, saying that he actually did not object to two of the articles, and I've forgotten which they are now. Your Honours, the reason for introducing this evidence was twofold. First, to rely on the truth of its contents given that they are newspaper articles and that they're hearsay. But, second, because of the notice that they provided to the leadership, in this case, in particular to Mr. Zupljanin, about what the international press was actually saying."
+    },
+    {
+      "id": 334,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could I ask you to expand on that, Ms. Korner."
+    },
+    {
+      "id": 335,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 336,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Because the -- one of the questions that immediately occurs to me at least, on that proposition, is that Mr. Traynor was a journalist for a newspaper from a particular country. In other words, there would have been a number of persons similarly placed, and the straight line that, as I understand it, you're seeking to draw between the newspaper articles and the -- the actions of the government seems to me to be a bit difficult to -- to make apart from the -- I suppose the basic argument that can be made about confusing sequence with consequence. But a government would have, by its nature have had --"
+    },
+    {
+      "id": 337,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "A press bureau."
+    },
+    {
+      "id": 338,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "-- been informed by a variety of sources, not least among them being its intelligence services and that of other agencies to which it would have had access. So what then becomes the magic, for want of a better word, of this particular journalist's story?"
+    },
+    {
+      "id": 339,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, I -- magic is not that. But Your Honour knows that one of the issues in the case is what did either accused know about what was happening, in Mr. Zupljanin's case, within the area of the Autonomous Region, and, Mr. Stanisic, more generally. And, Your Honours, I anticipate, will hear evidence from the next witness that he, the next witness, specifically brought to the attention of Mr. Zupljanin -- now, I cannot say they were Mr. Traynor's articles particularly but articles that were being written in the international press about what was happening in Banja Luka. And this is just one example. And, Your Honours, one of the difficulties is if we want to put -- let us say that Mr. Zupljanin gave evidence, then if we wanted to put to him, Mr. Zupljanin, you were put on notice, weren't you, by this article, of Mr. Traynor, or other articles that we may have, that what was happening in Hambarine or in Kozarac was shelling. And people -- innocent people being carted off to camps. Now, if we don't have the article there, I can't show it to him, and that's the next problem I'm going to come onto with the way that the evidence came out, Your Honours, because -- and I direct Your Honours specifically to the parts where Mr. Traynor was asked about the articles, because we didn't realize that was going to be the ruling, the articles weren't read out at all. Mr. Traynor was asked about individual lines within those particular articles, and without the articles being in evidence it is impossible, when reading the transcript, to know what he is talking about. Your Honours, can I -- can I give you an example. Your Honours, he was shown, and I -- just find the transcript again. And, Your Honours, I should add that he was asked about his knowledge of languages and how he came to write his articles. But, Your Honours, for example, this is at page 10336 and on the screen was put his article, which is now 103583.03, and Ms. Pidwell said: \"Sir, this isn't the first article you wrote in a series of three during your time in Visegrad, and my question is: \"You refer -- you use the term 'Serbian irregulars' throughout. You can see it at the beginning and throughout the text. And I'm asking you if you'll explain what you mean by that?\" Now, the problem is when we come back to this, which we may want to, particularly when we're dealing with Visegrad and whatever, we've no idea what the text is because Ms. Pidwell, for the reasons I've enunciated, that we thought that these articles were in, didn't go through it. So that's the first example. And it goes on like that, I'm afraid. He explain what he means by Serbian irregulars. Your Honour, the next one was at page 10354 of the transcript. Ms. Pidwell says: \"Could I have 65 ter 3375, please. This is an article you wrote. It's dated the 29th of September. And in the second paragraph of the English you used the term 'ubiquitous police,' can you please expand on that?\" Now, again, we don't know when we go back to this how the term \"ubiquitous police\" arises and in what context of the article. Your Honour -- and so -- and then she goes on the next page 10355: \"And later in that article in paragraph four, you use a term 'a demented, crazed, and brutalised town,' can you expand on that, please?\" Again, Your Honour, we can't see the context because we haven't got the article. And, Your Honour, when it comes, as I say, to the interview with Stojan Zupljanin, directly with the defendant, and Mr. Traynor has been cross-examined about that in -- it really is, we say, important that that article becomes an exhibit. So, Your Honours, I am sorry that I spent some time on general principles of hearsay, but in the context of this evidence we do ask you to reconsider your admission at least of the specific articles that Ms. Pidwell asked him about. She didn't ask him about all of them that were in the package so that when we come back to look at this transcript we can see what on earth it relates to. And that's really the upshot."
+    },
+    {
+      "id": 340,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "For the record, could you assist us by -- if not immediately, the -- you said the specific articles."
+    },
+    {
+      "id": 341,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 342,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "You're asking to us to reconsider which articles. As I said, if you aren't in a position to answer that immediately, if you could come back --"
+    },
+    {
+      "id": 343,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm not."
+    },
+    {
+      "id": 344,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "We understand the thrust of your --"
+    },
+    {
+      "id": 345,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. Well, if Your Honours are going to take a break, then I can give Your Honours the numbers immediately after the break of the actual articles she showed him, which are part of the transcript."
+    },
+    {
+      "id": 346,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "The --"
+    },
+    {
+      "id": 347,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Or can I do it at some other -- if Your Honours want to ... to rise now, then I can do it at some other stage."
+    },
+    {
+      "id": 348,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Can we anticipate a response from the Defence on this? The context in which we're asking this is whether we should take a break now and come back, or whether we should adjourn for -- for the day."
+    },
+    {
+      "id": 349,
+      "speaker": "MR. O'SULLIVAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Perhaps the solution is to sit five extra minutes. I can respond; then we can break. I will be very brief. And there's no point in breaking and coming back for -- for ten minutes, is what I'm suggesting. If the interpreters can survive for ten more minutes."
+    },
+    {
+      "id": 350,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Are you ready to proceed, Mr. O'Sullivan?"
+    },
+    {
+      "id": 351,
+      "speaker": "MR. O'SULLIVAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Your Honour. In a motion for reconsideration, the moving party must demonstrate that there's been an error of law or that there's been an injustice. Your Honours have ruled on the admission, or the inadmission -- inadmissibility of these articles in your -- in the transcript; pages 10457 to 10456 [sic]. And I include all those pages because after Judge Harhoff expressed the view of the Chamber, in turn, each of you expressed or gave explanations of the reasons why these articles are not admissible. There's been no suggestion and no showing that you abused your discretion because, under Rule 89(C), it is a matter of discretion for you whether or not hearsay is admissible. There has been no showing of that. You properly considered the submissions, you came to the conclusion on your own, and no one is suggesting that you made an error. So there's no basis for any second reconsideration. In fact, the Prosecution had a full-blown opportunity on the 18th of May, right after Traynor left, we had the contradictory and irreconcilable positions that it's for the truth of their contents/it's not for the truth of their contents. The confusion reigned at that point. So we say that it is furthermore incorrect, incorrect for the Prosecution to say that any one of the not-admitted articles could not be used in a future cross-examination. Well, of course, it could. If a witness took the stand, the Prosecution could show the witness one of the articles that Traynor wrote. Nothing precludes that by the fact that you didn't admit them through Traynor. So there's been no showing of abuse of your discretion, there's been no showing that you didn't apply the law correctly, and there's no basis for you to grant the second attempt at this reconsideration. Thank you."
+    },
+    {
+      "id": 352,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Mr. Krgovic, did you wish to be heard on this point?"
+    },
+    {
+      "id": 353,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Very briefly only. In essence, what Ms. Korner says has nothing to do with the facts. The whole story about camps where prisoners were kept was -- started much earlier, before any -- by my -- by my client before any journalist arrived. So the possibility that this document may be shown to Zupljanin here -- in this trial has -- is not related to any facts. All the activities of Mr. Zupljanin relate to the period before the time described in Mr. Traynor's articles, so this is not a valid argument put forward by the Prosecution."
+    },
+    {
+      "id": 354,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Previous translation continues] ..."
+    },
+    {
+      "id": 355,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Put forward by the Prosecution."
+    },
+    {
+      "id": 356,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I thought I heard an interruption. Just on the question of injustice, Mr. O'Sullivan says that we haven't shown injustice. I thought I'd made that clear. Because, Your Honours, Your Honours' ruling - and I forgot to read this part out, on this - was under paragraph 16: \"The Trial Chamber will, when admitting into evidence the prior transcripts and written statements of a witness, will admit all the accompanying documents, save those identified herein above for the reason that it views this as an integral whole,\" and you accepted - or at least we thought you did - all the documents. And as a result, when Ms. Pidwell went through it, she didn't go into the detail she would have gone, had she known that they would not -- that the articles themselves would not go in. And as I pointed out, indeed, the whole transcript makes no sense now. So that's, we say, the reason why you should reconsider your ruling on at least those documents that the witness was specifically asked about."
+    },
+    {
+      "id": 357,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, we thank counsel for their assistance in this matter, and, of course, we should rule sometime next week. So we will take the adjournment now, to resume in Courtroom I at -- on Monday morning -- sorry, Tuesday morning - thank you - and, indeed, for -- straight through -- through the first week in June, we are all in morning sessions, unless there is some new change in the schedule. And I wish everyone a safe weekend."
+    },
+    {
+      "id": 358,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "to be reconvened on Tuesday, the 25th day of May, 2010, at 9.00 a.m. 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25"
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 9.05 a.m."
+    },
+    {
+      "after_utterance": 8,
+      "text": "WITNESS:  BRANKO PERIC [Resumed]"
+    },
+    {
+      "after_utterance": 8,
+      "text": "[Witness testified through interpreter]"
+    },
+    {
+      "after_utterance": 8,
+      "text": "[Witness testified via videolink]"
+    },
+    {
+      "after_utterance": 8,
+      "text": "Cross-examination by Mr. Krgovic: [Continued]"
+    },
+    {
+      "after_utterance": 118,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 130,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 130,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 130,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 130,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 130,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 130,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 130,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 130,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 130,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 141,
+      "text": "Re-examination by Ms. Korner:"
+    },
+    {
+      "after_utterance": 225,
+      "text": "[Trial Chamber and Registrar confer]"
+    },
+    {
+      "after_utterance": 229,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 231,
+      "text": "--- Recess taken at 10.22 a.m."
+    },
+    {
+      "after_utterance": 231,
+      "text": "--- On resuming at 10.56 a.m."
+    },
+    {
+      "after_utterance": 246,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 256,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 323,
+      "text": "[The witness withdrew]"
+    },
+    {
+      "after_utterance": 327,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 345,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 347,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 357,
+      "text": "--- Whereupon the hearing adjourned at 12.13 p.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_21_May_2010.doc"
+}

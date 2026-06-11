@@ -1,0 +1,4372 @@
+{
+  "case": "hadzic",
+  "case_id": "IT-04-75-T",
+  "date": "2012-11-30",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good morning to everyone in and around the courtroom. Mr. Registrar, could you call the case, please."
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Good morning, Your Honours. This is case number IT-04-75-T, the Prosecutor versus Goran Hadzic. Thank you."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "May we have the appearances, please, starting with the Prosecution."
+    },
+    {
+      "id": 4,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good morning, Mr. President, Your Honours. Douglas Stringer, with our intern Antonio Garza, and Thomas Laugel for the Prosecution."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. For the Defence, Mr. Zivanovic."
+    },
+    {
+      "id": 6,
+      "speaker": "MR. ZIVANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good morning, Your Honours. For the Defence of Goran Hadzic, it's Zoran Zivanovic and Christopher Gosnell. Thank you."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Mr. Stringer, do we have a witness?"
+    },
+    {
+      "id": 8,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Your Honour, we have the next witness. I believe he's waiting outside."
+    },
+    {
+      "id": 9,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. May the witness be brought in. There are no protective measures, I see. Okay."
+    },
+    {
+      "id": 10,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good morning, Witness. First of all, do you hear me in a language you understand?"
+    },
+    {
+      "id": 11,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes."
+    },
+    {
+      "id": 12,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Could you please tell us your name, your date of birth, and your ethnicity."
+    },
+    {
+      "id": 13,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Ivica Pinter, 18 February 1963, born in Croatia. I currently live in Canada, and I'm a Canadian national."
+    },
+    {
+      "id": 14,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. You are about to read a solemn declaration by which witnesses commit themselves to telling the truth. I need to point out to you that by making that solemn declaration, you expose yourself to the penalties of perjury should you give misleading or untruthful information to the Tribunal. So could you now stand up for a moment and read the solemn declaration. Thank you."
+    },
+    {
+      "id": 15,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 16,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. You may be seated. Mr. Stringer, your witness."
+    },
+    {
+      "id": 17,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Mr. President."
+    },
+    {
+      "id": 18,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good morning, Mr. Pinter. Let me remind you -- I mentioned this to you yesterday when we met that -- I know you can understand English quite fluently. If you would just wait until -- give a pause after I've asked my question and not start answering it until there's been a pause so that the interpreters can keep the pace with us. Let me ask you first, Mr. Pinter, you've indicated that you currently live in Canada. Where were you born and where did you grow up?",
+      "examination": "direct"
+    },
+    {
+      "id": 19,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was born in Osijek and bred there, I grew up there.",
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you living there in 1991?",
+      "examination": "direct"
+    },
+    {
+      "id": 21,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And were you married at that time?",
+      "examination": "direct"
+    },
+    {
+      "id": 23,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 22
+    },
+    {
+      "id": 24,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was -- if I could ask, what was the ethnicity of your spouse?",
+      "examination": "direct"
+    },
+    {
+      "id": 25,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "[In English] Serb.",
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "How were you employed in 1991?",
+      "examination": "direct"
+    },
+    {
+      "id": 27,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Interpretation] I worked at the emergency centre in Osijek, emergency ward.",
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you tell the Trial Chamber, please, what specific function or position you held at the emergency centre.",
+      "examination": "direct"
+    },
+    {
+      "id": 29,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I completed a medical school and I worked as a male nurse or a paramedic.",
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "How long had you been employed as a nurse in 1991? How long had you been working in that capacity?",
+      "examination": "direct"
+    },
+    {
+      "id": 31,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "More than ten years.",
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And as a nurse, did you work in a hospital? Did you have another function? What did you typically do during a working day?",
+      "examination": "direct"
+    },
+    {
+      "id": 33,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I worked at the ER emergency room; in other words, dealing with victims of traffic accidents, home visits.",
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you ever go out into the field and treat people who were injured or who had been subjected to trauma in the field?",
+      "examination": "direct"
+    },
+    {
+      "id": 35,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that was the job we did. We didn't work indoors. We worked out in the field.",
+      "reply_to": 34
+    },
+    {
+      "id": 36,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I'd like to ask you to -- or I direct your attention to the 1st of August in 1991. If you could tell the Trial Chamber generally in a few sentences what happened on that day and then we'll go into more detail about that. What happened on the 1st of August, 1991?",
+      "examination": "direct"
+    },
+    {
+      "id": 37,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "On the 1st of August, 1991, I can't recall exactly whether I was working on that day because we were on a duty on-call. If needed, we would be called out. The Osijek emergency ward covered quite a large area of a radius of some 30 kilometres. If an accident occurred, we would be dispatched to the location. In this particular instance we were supposed to go to Dalj. I do recall that on that day there were clashes in Dalj, and we were supposed to visit there to see if there were any injured. We set out with some four or five ambulances, if I recall correctly. The column was headed by a military APC. We were supposed to pass through Bijelo Brdo and some other areas that weren't under the control of Croatian policemen, so we knew that we would come across Serbs. As we reached the location, we stopped by the police station. After a while, we were let into the police station --",
+      "reply_to": 36
+    },
+    {
+      "id": 38,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay --",
+      "examination": "direct"
+    },
+    {
+      "id": 39,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "-- and then --",
+      "reply_to": 38
+    },
+    {
+      "id": 40,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let me just stop you there and ask just a few follow-up questions about what you've told us so far. Do you recall who actually dispatched you and the team to go to Dalj, how you learned that you would be going?",
+      "examination": "direct"
+    },
+    {
+      "id": 41,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "We learnt that when we arrived at the ER. They would normally ring us up and tell us that they needed a certain number of people and we would show up. When we reported there, they made up the various teams and told us where we were going. I believe that it went via the police administration in Osijek, and then they co-ordinated it with the army.",
+      "reply_to": 40
+    },
+    {
+      "id": 42,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was the competition -- excuse me, the composition of the teams that were organised before you left, the medical teams?",
+      "examination": "direct"
+    },
+    {
+      "id": 43,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Normally there was a driver, a paramedic, and a physician. I think we had four or five ambulances, but we had only two to three physicians. So in my ambulance, there were just the driver and I. We didn't have a physician on that day, although normally we would have one.",
+      "reply_to": 42
+    },
+    {
+      "id": 44,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, you indicated that you passed through a place called Bijelo Brdo. If you could just give us a general idea of what was the situation at Bijelo Brdo.",
+      "examination": "direct"
+    },
+    {
+      "id": 45,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Bijelo Brdo was the the first location that wasn't under the control of the Croatian policemen; in other words, there was a check-point between Sarvas and Bijelo Brdo that we had to get past. From then on, the next location was Dalj. But our journey went smooth on our way to Dalj, nothing happened.",
+      "reply_to": 44
+    },
+    {
+      "id": 46,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You mentioned that you were led by a military APC. Can you recall which military organisation that APC was associated with?",
+      "examination": "direct"
+    },
+    {
+      "id": 47,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "It was the Yugoslav People's Army.",
+      "reply_to": 46
+    },
+    {
+      "id": 48,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And just so the record's clear then, after you passed through Bijelo Brdo, then you were in an area that was under the control of the Serb police or the Serb side, if I can put it that way?",
+      "examination": "direct"
+    },
+    {
+      "id": 49,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "You can put it that way. At that time, there were police forces still present in Dalj, whereas Bijelo Brdo was under the control of the locals.",
+      "reply_to": 48
+    },
+    {
+      "id": 50,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. You've indicated that you were dispatched to Dalj and then you arrived at the police station. Were you initially instructed to go to the police station there, or is that where you were led by the JNA APC?",
+      "examination": "direct"
+    },
+    {
+      "id": 51,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "The APC was at the head of the column and they were our guide. We didn't know where we were supposed to go to.",
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall how long approximately it took for your team to make it to the Dalj police station after leaving Osijek?",
+      "examination": "direct"
+    },
+    {
+      "id": 53,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Around an hour.",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If, with the Registrar's assistance, we could pull up 65 ter 6329."
+    },
+    {
+      "id": 55,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stringer, are we now at the Dalj police station? Because I thought we had the story up until the arrival at the -- what is the name?"
+    },
+    {
+      "id": 56,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Bijelo Brdo."
+    },
+    {
+      "id": 57,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The Bijelo Brdo police station."
+    },
+    {
+      "id": 58,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I can clarify that, Mr. President."
+    },
+    {
+      "id": 59,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 60,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Pinter, you've heard Judge Delvoie's question. You passed through the check-point at Bijelo Brdo and then were led by the JNA to what place?",
+      "examination": "direct"
+    },
+    {
+      "id": 61,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "To Dalj, to the police station there.",
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And is that where you stopped?",
+      "examination": "direct"
+    },
+    {
+      "id": 63,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And we will -- in just a minute we'll talk about what happened after you arrived at the Dalj police station, but first I'd like to direct you to what should be a map on the screen in front of you. Do you see that, Mr. Pinter?",
+      "examination": "direct"
+    },
+    {
+      "id": 65,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 64
+    },
+    {
+      "id": 66,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And there's a pen that's attached to the screen in front of you and it might be necessary for the Registrar to assist, but I just wanted to ask if you could, with a line or some arrows, just indicate on the map the route that your team took when you travelled from Osijek to Dalj.",
+      "examination": "direct"
+    },
+    {
+      "id": 67,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "From Osijek through Nemetin, Sarvas, Bijelo Brdo, to Dalj.",
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And if you could perhaps just place a circle around the word \"Bijelo Brdo,\" just so that we see the location of the check-point.",
+      "examination": "direct"
+    },
+    {
+      "id": 69,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 68
+    },
+    {
+      "id": 70,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 71,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, we tender that exhibit."
+    },
+    {
+      "id": 72,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Admitted and marked as marked by the witness."
+    },
+    {
+      "id": 73,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "This shall be assigned Exhibit Number P311. Thank you."
+    },
+    {
+      "id": 74,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 75,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, Mr. Pinter, upon arriving at the Dalj police station, do you recall whether there was armed conflict taking place? What was the general situation in the town?",
+      "examination": "direct"
+    },
+    {
+      "id": 76,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "It was peaceful. There were no clashes. There was no gun-fire, nothing.",
+      "reply_to": 75
+    },
+    {
+      "id": 77,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I don't know if I've asked this yet. Approximately -- again, to the best of your recollection, it was a long ago. Approximately the time that you left Osijek and then the approximate time you arrived at the Dalj police station?",
+      "examination": "direct"
+    },
+    {
+      "id": 78,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think we set out at around noon or perhaps 1.00 p.m.",
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Before you arrived in Dalj, did you have an idea in advance of the nature of the injuries or the people who you were called to attend to? Did you have any idea what had been going on?",
+      "examination": "direct"
+    },
+    {
+      "id": 80,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, not at all.",
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now when you arrived at the Dalj police station, can you -- well, just tell us in your own words, what transpired then? What happened? What did you observe outside the police station?",
+      "examination": "direct"
+    },
+    {
+      "id": 82,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "As we arrived at the police station, we parked in the street. We weren't able to get out of the ambulance right away. We were waiting to be told that we could come out. So we were waiting in the car. When we got the permission to come out, I went to the police station which was partly destroyed. We saw several dead bodies at the front door to the police station. I stepped in. We saw several dead bodies of individuals who were wearing police uniforms. And then we went back out.",
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you see any people outside the police station who were living?",
+      "examination": "direct"
+    },
+    {
+      "id": 84,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I saw Goran Hadzic who was speaking with the commander, the officer of the JNA. We first saw them actually talk, and it was only then that we got into the police station.",
+      "reply_to": 83
+    },
+    {
+      "id": 85,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "The JNA commander that you've referred to here was the same JNA commander part of the JNA that led you down into Dalj.",
+      "examination": "direct"
+    },
+    {
+      "id": 86,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, yes.",
+      "reply_to": 85
+    },
+    {
+      "id": 87,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall -- well, did you see -- you said you saw some dead bodies at the front door to the police station. I take it, is that on the inside of the police station or were there dead bodies outside?",
+      "examination": "direct"
+    },
+    {
+      "id": 88,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "There were several dead bodies of civilians outside, and within the police station there were only dead bodies in police uniforms.",
+      "reply_to": 87
+    },
+    {
+      "id": 89,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you give us an idea roughly the distance between you and Mr. Hadzic and the dead bodies outside the building that you observed.",
+      "examination": "direct"
+    },
+    {
+      "id": 90,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "20 to 30 metres; less even.",
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you speak to Mr. Hadzic or do you remember anything he said?",
+      "examination": "direct"
+    },
+    {
+      "id": 92,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I didn't speak to him. I don't recall anything in particular.",
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "How did you recognise that it was Goran Hadzic?",
+      "examination": "direct"
+    },
+    {
+      "id": 94,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I had seen him quite a few times on TV. He was the sort of person you saw frequently on TV.",
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know what position he held at the time?",
+      "examination": "direct"
+    },
+    {
+      "id": 96,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. No. I know that he was -- he had frequently featured on TV, and I know that he represented the Serb people, something like that.",
+      "reply_to": 95
+    },
+    {
+      "id": 97,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said that you went inside the police station. Do you recall roughly how much time you spent inside? If you could just give us a bit more detail about what you saw when you entered the structure.",
+      "examination": "direct"
+    },
+    {
+      "id": 98,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe we spent half an hour inside. We went all through the building. I think it had two floors and a basement. I specifically remember the body of one policeman there, but I do believe that there were more. At one point, as I was passing by one of the bodies, I saw that there was his police ID card next to the body with his photo, name, and particulars. I spontaneously reached for the ID and I took it with me. Later on, I took it to the Osijek police station.",
+      "reply_to": 97
+    },
+    {
+      "id": 99,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "The interpreter notes that we didn't hear what the witness said just now."
+    },
+    {
+      "id": 100,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Witness, could you speak up a little bit and more into the microphone. The interpreters have difficulty hearing you."
+    },
+    {
+      "id": 101,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Pinter, maybe if you could just -- you had indicated that you had reached for the identification and you took it with you to the Osijek police station. Was there anything else you wanted to add to that?",
+      "examination": "direct"
+    },
+    {
+      "id": 102,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, yes. That was it. I took the ID along, and a day or two later, I took it to the Osijek station to let them know that this policeman was there and that he had been killed. And the person I talked to made an unofficial note of it. I handed it over. I explained to him what I had seen and why I brought the ID along.",
+      "reply_to": 101
+    },
+    {
+      "id": 103,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, could you describe the condition of the Osijek police station? How did it look from outside? How did it look from inside upon your arrival?",
+      "examination": "direct"
+    },
+    {
+      "id": 104,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Sorry, I think that it may not be the Osijek police station that you're asking about."
+    },
+    {
+      "id": 105,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Oh, apologies. I appreciate the correction."
+    },
+    {
+      "id": 106,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "The Dalj police station. If you could describe the Dalj police station.",
+      "examination": "direct"
+    },
+    {
+      "id": 107,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "When we reached the street at which the police station was located, we saw tracks of -- caterpillar tracks, in fact. The police station itself was in quite a state of disrepair. I had this feeling by looking at it that they had shelled it, that it had been shelled by tank shells. When we got in, everything was destroyed. All the bodies that were there were -- it's hard to describe it. Well, at any rate, what sticks in my mind is that the heads of these policemen were quite weird. It seemed as if somebody had shot them in their heads.",
+      "reply_to": 106
+    },
+    {
+      "id": 108,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You say it seemed as if someone had shot them. Was this just your impression, or was it based upon anything that you'd seen in your experience at the time as a nurse attending trauma victims in the field?",
+      "examination": "direct"
+    },
+    {
+      "id": 109,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did have previous experience. I went to other locations, such as Tenja, which is a place close to Osijek, so I had occasion to see war injuries. But what I saw in Dalj appeared to me to be head injuries. And it was hard for me to believe that they had all received shots in their heads as the fighting was going on. I rather had the idea that it happened after they were killed.",
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you find any wounded police officers who were alive in the police station?",
+      "examination": "direct"
+    },
+    {
+      "id": 111,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Now, Mr. President, we have a video-clip - it's already in evidence at P00003 - that we would like to play and then we'll ask the witness to comment on it. And, just for the record, the video portion is in evidence; I think the audio is not. And we're not offering the audio. It's the images that we're going to ask the witness to comment on."
+    },
+    {
+      "id": 113,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, this is the police station. You can see the body of one police officer. And this is the exterior, the parking-lot. You can see the traces of tank caterpillars on the road. This is the street leading towards the police station. You can see the church there, and the police station is just across the street from the church. And the staircase leading upstairs from the entrance of the police station. Again, the church. We came from the direction of the church."
+    },
+    {
+      "id": 114,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "All right. With the Chamber's permission, I'd like to just go through the video one more time and just to stop at a couple of places, just so that we can indicate the time signature where the witness has made various comments. So if we could start it again, and I'll ask that it be stopped a couple times along the way."
+    },
+    {
+      "id": 115,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay, if we could stop it here."
+    },
+    {
+      "id": 116,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You'd indicated that this was one of the bodies or -- that you found inside. Is the image you're seeing there consistent with what you've told us about the head wounds that you observed when you were inside? I know it's not the best image.",
+      "examination": "direct"
+    },
+    {
+      "id": 117,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I suppose so. I don't know -- yes, I guess.",
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 119,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay, we can continue to run."
+    },
+    {
+      "id": 120,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay, if we can stop here just for a moment."
+    },
+    {
+      "id": 121,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You'd made reference to having seen what you said civilians -- civilian bodies outside the building. Would these be among the civilians or the -- what you indicate were civilians outside the building? This is at 2 hours, 37 -- 2 minutes, 37.6.",
+      "examination": "direct"
+    },
+    {
+      "id": 122,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I believe that this is behind the building, whereas the bodies of the civilians were in front of the police station building, very close to the entrance into the building.",
+      "reply_to": 121
+    },
+    {
+      "id": 123,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you see -- well, that's a good clarification then. So this appears to be the back side of the police station?",
+      "examination": "direct"
+    },
+    {
+      "id": 124,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "It should appear so, yes.",
+      "reply_to": 123
+    },
+    {
+      "id": 125,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Have you seen what you believe is the front side of the police station on the video? And we'll continue to let it run, and you stop us when we're looking at the front side of the police station now.",
+      "examination": "direct"
+    },
+    {
+      "id": 126,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] This is the front."
+    },
+    {
+      "id": 127,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay. Okay. We can -- if we can stop it there."
+    },
+    {
+      "id": 128,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You mentioned caterpillar tracks, and you made reference to a tank. Were those markings on the front or the back side of the Dalj police station, as far as you recall?",
+      "examination": "direct"
+    },
+    {
+      "id": 129,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, they were on the road.",
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And just for the record, that would be on the front, the front of the police station. Is that correct? The road that runs along the front of the police station.",
+      "examination": "direct"
+    },
+    {
+      "id": 131,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 130
+    },
+    {
+      "id": 132,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, this video-clip's already in evidence so it won't be tendered again."
+    },
+    {
+      "id": 133,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, Mr. Pinter, while you -- well, how many -- you were at the police station. Were there other members of the medical team with you looking at the police station or in your area?",
+      "examination": "direct"
+    },
+    {
+      "id": 134,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. One or two ambulances were sent to the elementary school in Dalj, which is close to the police station. And later on, when I spoke to the guys who had been sent there, I learned that they had seen human bodies and those bodies were piled up. According to them, there were some 10 to 15 naked bodies without uniforms and the uniforms were next to them. And those uniforms belonged to SNG members.",
+      "reply_to": 133
+    },
+    {
+      "id": 135,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would that be ZNG, just for the record?",
+      "examination": "direct"
+    },
+    {
+      "id": 136,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, yes, ZNG.",
+      "reply_to": 135
+    },
+    {
+      "id": 137,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, did you personally go over to the elementary school?",
+      "examination": "direct"
+    },
+    {
+      "id": 138,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I did not.",
+      "reply_to": 137
+    },
+    {
+      "id": 139,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "After you completed your inspection of the police station and came back out, did you see Mr. Hadzic anymore?",
+      "examination": "direct"
+    },
+    {
+      "id": 140,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't recall.",
+      "reply_to": 139
+    },
+    {
+      "id": 141,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was the JNA commander still nearby at that time, when you finished inspecting the police station?",
+      "examination": "direct"
+    },
+    {
+      "id": 142,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "They were outside. They never entered the police station.",
+      "reply_to": 141
+    },
+    {
+      "id": 143,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "After you finished inspecting the police station, you mentioned that others were at the elementary school. Did anyone on the medical team find any wounded persons, soldiers, police, civilians? Were there any wounded people that were found to be returned or taken to Osijek for treatment?",
+      "examination": "direct"
+    },
+    {
+      "id": 144,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, nobody.",
+      "reply_to": 143
+    },
+    {
+      "id": 145,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you remember generally what was the condition of the town of Dalj? You've described the condition of the police station. Did you observe similar destruction or evidence of conflict in other parts of the town that you saw?",
+      "examination": "direct"
+    },
+    {
+      "id": 146,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, nothing else. No.",
+      "reply_to": 145
+    },
+    {
+      "id": 147,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you observe whether there were any sort of what we call mopping-up activities? That would be --",
+      "examination": "direct"
+    },
+    {
+      "id": 148,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, I think there's -- counsel's risen."
+    },
+    {
+      "id": 149,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I'm sorry."
+    },
+    {
+      "id": 150,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Objection, leading."
+    },
+    {
+      "id": 151,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stringer."
+    },
+    {
+      "id": 152,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you observe any armed Serb personnel moving around the town, the streets of Dalj?",
+      "examination": "direct"
+    },
+    {
+      "id": 153,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, we didn't see anybody.",
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "After you were finished at the police station and after your colleagues were finished at the elementary school, were you directed to any other structures or locations in Dalj to look for injured people?",
+      "examination": "direct"
+    },
+    {
+      "id": 155,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, we were not. But somebody did decide - and I don't know who it was - to take a different road on the way out. So we stopped several times on the main road, and the military officer who guided us stopped and called out to people to come out if any of them were wounded, and women and children started coming out. We put them in the ambulance and we took them to Osijek. But that's already when we were on the way back to Osijek. We did not find any wounded, as a matter of fact.",
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said the military officer who guided you called out people to come if they were wounded. Is this the same JNA commander you've mentioned already or was it a different person?",
+      "examination": "direct"
+    },
+    {
+      "id": 157,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that was the same officer.",
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And were you again being led by this commander in the JNA APC?",
+      "examination": "direct"
+    },
+    {
+      "id": 159,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, he was the leader. He was in the APC. We followed him.",
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall approximately how many of the women and children you picked up and then returned to Osijek with?",
+      "examination": "direct"
+    },
+    {
+      "id": 161,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Five to six people in each ambulance. At that point in time, I didn't know exactly how many there were. When we arrived in Osijek, we saw that there were about 30 to 40 people, mostly women and children.",
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall any men who accompanied you back to Osijek?",
+      "examination": "direct"
+    },
+    {
+      "id": 163,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I know that there was one, the father of one of our doctors. We picked both the parents up, the parents of that doctor who worked with us.",
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall their ethnicity?",
+      "examination": "direct"
+    },
+    {
+      "id": 165,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "They were Serbs.",
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were both the parents Serbs?",
+      "examination": "direct"
+    },
+    {
+      "id": 167,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think so.",
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you know the ethnicity of the women and children? Were you able to determine that or not?",
+      "examination": "direct"
+    },
+    {
+      "id": 169,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was not. I think that they may have been Croats, but I'm not sure.",
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If we could, with the Registrar's assistance, pull up exhibit 65 ter 6237.1."
+    },
+    {
+      "id": 171,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, Mr. Pinter, this is quite obviously an aerial image. Are you able to, from looking at this, orientate yourself and indicate what this place is?",
+      "examination": "direct"
+    },
+    {
+      "id": 172,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is Dalj, an image of Dalj, an aerial image of Dalj obviously.",
+      "reply_to": 171
+    },
+    {
+      "id": 173,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And would it be possible for you, taking the pen again, first to indicate with an arrow the direction that your medical team came into Dalj when you arrived from Osijek? What's the road you were on? Which direction were you moving?",
+      "examination": "direct"
+    },
+    {
+      "id": 174,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is the road that we took.",
+      "reply_to": 173
+    },
+    {
+      "id": 175,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 176,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "We arrived from the direction of Osijek, from here. And this is where the police station is. And this is the church that you saw in the other clip.",
+      "reply_to": 175
+    },
+    {
+      "id": 177,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Could you put a number 1 outside the circle around the Dalj police station, please.",
+      "examination": "direct"
+    },
+    {
+      "id": 178,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 177
+    },
+    {
+      "id": 179,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And then a number 2 around the church.",
+      "examination": "direct"
+    },
+    {
+      "id": 180,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 179
+    },
+    {
+      "id": 181,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you please place a circle around the elementary school.",
+      "examination": "direct"
+    },
+    {
+      "id": 182,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 181
+    },
+    {
+      "id": 183,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And a number 3 underneath that.",
+      "examination": "direct"
+    },
+    {
+      "id": 184,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 183
+    },
+    {
+      "id": 185,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And then, just for the record, inside the circle at number 1, would that be the location where you saw Mr. Hadzic with the JNA commander?",
+      "examination": "direct"
+    },
+    {
+      "id": 186,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 185
+    },
+    {
+      "id": 187,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you now indicate the road that you -- the path, I guess, that you followed when you were picking up people, when you were being led out of the town by the JNA commander when you were picking up some people. What was the -- was it the same road or was it a different road?",
+      "examination": "direct"
+    },
+    {
+      "id": 188,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is the road we took.",
+      "reply_to": 187
+    },
+    {
+      "id": 189,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you led by the JNA commander back to the check-point at Bijelo Brdo?",
+      "examination": "direct"
+    },
+    {
+      "id": 190,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 189
+    },
+    {
+      "id": 191,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you describe what happened at Bijelo Brdo, the check-point?",
+      "examination": "direct"
+    },
+    {
+      "id": 192,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "As we were leaving Bijelo Brdo, they had set up a -- barricades in the direction of Sarvas that was under the control of the Croatian police. We were stopped by the local people there, those who manned the check-point. Some of them started approaching the vehicles, and they started interrogating us about the people in the ambulance, who they were, where were they being taken to. This may have lasted for four -- or ten minutes at the most, and at one point fire was opened. Bursts of fire could be heard. The APC started moving and we followed it. In the meantime, there was some commotion, shouting, but we managed to pass between the buses and the barricades, and we arrived in Osijek.",
+      "reply_to": 191
+    },
+    {
+      "id": 193,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, at this time, we'd like to show another video-clip. It's already in evidence as P000 --"
+    },
+    {
+      "id": 194,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Sorry --"
+    },
+    {
+      "id": 195,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Oh, I apologise."
+    },
+    {
+      "id": 196,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "The -- Mr. Witness, your reference to fire being opened, were you able to say from which group? Who opened fire? You mentioned that this check-point was under the control of the Croats, and of course, your convoy was led by the -- a JNA APC. Were you able to tell which side opened fire?"
+    },
+    {
+      "id": 197,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] The barricade on Bijelo Brdo was under the control of the Serbs who were in Bijelo Brdo. That's where we stopped. Before we entered the area in the direction of Sarvas, which was under the control of the Croatian forces, we were stopped there. I can't say who was the first to open fire, how it transpired. In any case, shooting started, and the officer that led us decided to get going and we just followed him."
+    },
+    {
+      "id": 198,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 199,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stringer, this marked exhibit --"
+    },
+    {
+      "id": 200,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, we tender that --"
+    },
+    {
+      "id": 201,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Admitted and marked as marked by the witness."
+    },
+    {
+      "id": 202,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "This shall be assigned Exhibit Number P312. Thank you."
+    },
+    {
+      "id": 203,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 204,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Now the next -- we have a video, Mr. Pinter, another video that we want to look at. This one's been acting a little bit troublesome for us in Sanction so we're going to use Windows Media Player here, so we're pulling that out of its file at the moment. It's already in evidence as P00095. It was 65 ter 6338.1.",
+      "examination": "direct"
+    },
+    {
+      "id": 205,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay. We're good. If we could just play this."
+    },
+    {
+      "id": 206,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "[Voiceover]: \"No wounded? All dead? There is no one in a van? \"The fighting was going on in Aljmas, Dalj, Erdut. The ambulance is from Osijek. \"Were on their way to pick up the wounded. \"No wounded? All dead?\""
+    },
+    {
+      "id": 207,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I've just asked Mr. Laugel to stop it there."
+    },
+    {
+      "id": 208,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Pinter, before we look at more, can you tell us if you recognise this, and, in particular, whether you recognise the people whose images we're looking at here?",
+      "examination": "direct"
+    },
+    {
+      "id": 209,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 208
+    },
+    {
+      "id": 210,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So tell us about this. What's going on, who are these people?",
+      "examination": "direct"
+    },
+    {
+      "id": 211,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is on the way back from Dalj where we were stopped when leaving Dalj. This is the first week and the first -- this first man is Dr. Franjo Sot, and the other is Luka Bacic, who is from Dalj; he's a Serb, a native of Dalj. This is where we were stopped.",
+      "reply_to": 210
+    },
+    {
+      "id": 212,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay. We can continue."
+    },
+    {
+      "id": 213,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "[Voiceover]: \"No children in the van, no, no. These are children. \"All right. All right. Where did you go to, to Aljmas or to Dalj? \"To both places. \"Was it all on fire? \"Was there shooting all over the place. \"Who was firing? \"We don't know. We don't know anything. \"And how is in Dalj now? \"It's bad. \"Are there any wounded? \"We don't know anything. We were in a cellar ... \"We were in a cellar and there were shells around us. \"And while the column ambulance is escorted by the APCs of the JNA, fire was opened from Sarvas on Bijelo Brdo where the column stopped. \"Hold fire. Hold fire. Hold fire.\""
+    },
+    {
+      "id": 214,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay."
+    },
+    {
+      "id": 215,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, there was just a reference to Sarvas. How far away from Bijelo Brdo was Sarvas?",
+      "examination": "direct"
+    },
+    {
+      "id": 216,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Under a kilometre.",
+      "reply_to": 215
+    },
+    {
+      "id": 217,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And perhaps on this it would be useful to come back to 65 ter 6329, which was the map we looked at earlier. 6329. Now here, Mr. Pinter, we can see Sarvas which is located to the west of Bijelo Brdo on that main road. Recognising that you were not a military person, just to try to clarify, the Serbs were holding the position at Bijelo Brdo, the Croats were holding Sarvas. Do you know what was the status of the territory in between?",
+      "examination": "direct"
+    },
+    {
+      "id": 218,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "It was no man's land. It wasn't under anyone's control.",
+      "reply_to": 217
+    },
+    {
+      "id": 219,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Now in the video, we just heard gun-fire and someone shouting \"hold your fire.\" Are you able to say, based on your recollection of what you've seen, whether that was fire from the Serb side or from the Croat side?",
+      "examination": "direct"
+    },
+    {
+      "id": 220,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 221,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Objection. I'm not sure if it was asked, but it has been answered."
+    },
+    {
+      "id": 222,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think, indeed, Mr. Stringer, that it was asked and answered."
+    },
+    {
+      "id": 223,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know if there were Croatian guns in the vicinity of Bijelo Brdo?",
+      "examination": "direct"
+    },
+    {
+      "id": 224,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't.",
+      "reply_to": 223
+    },
+    {
+      "id": 225,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, after you passed through the check-point at Bijelo Brdo, were you then able to make it back to Osijek without any more difficulty?",
+      "examination": "direct"
+    },
+    {
+      "id": 226,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 225
+    },
+    {
+      "id": 227,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Pinter, now just to switch to a different topic, I'd like to ask if you were a member of a group sent to receive people who arrived in the Osijek area from Aljmas?",
+      "examination": "direct"
+    },
+    {
+      "id": 228,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I was at Nemetin, the river port where the refugees from Aljmas and Dalj and the general area were supposed to arrive. They were supposed to arrive on a dredger or a trailer ship. It's the river port of Nemetin close to Osijek.",
+      "reply_to": 227
+    },
+    {
+      "id": 229,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall approximately when these people arrived? Perhaps in relation to the 1st of August that you've just been talking about.",
+      "examination": "direct"
+    },
+    {
+      "id": 230,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can't recall the exact date. I think it was three or four days later.",
+      "reply_to": 229
+    },
+    {
+      "id": 231,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And to come back to - again, the map, with the Registrar's assistance - 6329, you've mentioned the river port of Nemetin close to Osijek, Mr. Pinter. I want to ask if you could place a circle around Nemetin here, if you see it.",
+      "examination": "direct"
+    },
+    {
+      "id": 232,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Nemetin is right here, and the port would be here.",
+      "reply_to": 231
+    },
+    {
+      "id": 233,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And then this boat or this dredge, barge, would have arrived from Aljmas, as you've indicated, by what route?",
+      "examination": "direct"
+    },
+    {
+      "id": 234,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "They set out from Aljmas and then along the Drava river, here.",
+      "reply_to": 233
+    },
+    {
+      "id": 235,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when those people arrived, were you present when they were taken off the boat?",
+      "examination": "direct"
+    },
+    {
+      "id": 236,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I was.",
+      "reply_to": 235
+    },
+    {
+      "id": 237,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know anything, did you learn anything about their -- the trip, the event, their condition upon their arrival?",
+      "examination": "direct"
+    },
+    {
+      "id": 238,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "They were all tired. I think that the whole journey from Aljmas and Dalj took some two hours. They were all exhausted.",
+      "reply_to": 237
+    },
+    {
+      "id": 239,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And then just upon their arrival, what was done with these people?",
+      "examination": "direct"
+    },
+    {
+      "id": 240,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I know, the Red Cross saw to it that they were found accommodation in various schools. They were transported on buses to Osijek and put up at various accommodation centres.",
+      "reply_to": 239
+    },
+    {
+      "id": 241,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "At this time, we'd like to show another video already in evidence P00094. It was 65 ter 63 --"
+    },
+    {
+      "id": 242,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "How about this marked map?"
+    },
+    {
+      "id": 243,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'll tender this, Mr. President."
+    },
+    {
+      "id": 244,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Admitted and marked as marked by the witness."
+    },
+    {
+      "id": 245,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "65 ter document 6329 marked by the witness for the second time today shall be assigned Exhibit Number P313. Thank you."
+    },
+    {
+      "id": 246,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stringer, with this video-clip, are we still with the people on the boat?"
+    },
+    {
+      "id": 247,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 248,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay."
+    },
+    {
+      "id": 249,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Interpreter's note we don't have the transcript."
+    },
+    {
+      "id": 250,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I was just going to say the commentary is not being tendered by the Prosecution. Again, it's just the images so it's not necessary to interpret."
+    },
+    {
+      "id": 251,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Pinter, recognising, of course, that you were not present in Aljmas, are you able to indicate whether this appears to be the boat or the vessel that brought the people from Aljmas up to Nemetin by Osijek?",
+      "examination": "direct"
+    },
+    {
+      "id": 252,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 251
+    },
+    {
+      "id": 253,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, we have no further questions."
+    },
+    {
+      "id": 254,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I have perhaps two small questions of the witness in relation to people arriving on the boat. How many people did arrive on that boat, Mr. Witness? Can you estimate the number?"
+    },
+    {
+      "id": 255,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] 200, 300, 400. I don't have a clear idea."
+    },
+    {
+      "id": 256,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Do you know where that boat came from? I know it came from Aljmas, but who organised it, do you know that?"
+    },
+    {
+      "id": 257,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes. The boats were sent from Osijek to Aljmas to collect these people, the refugees."
+    },
+    {
+      "id": 258,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "So from Osijek that would mean they were sent by the Croatian side to collect refugees?"
+    },
+    {
+      "id": 259,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes."
+    },
+    {
+      "id": 260,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Cross-examination."
+    },
+    {
+      "id": 261,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, good morning. I will be playing a video, and unfortunately there's some technical arrangements that need to be made before I can play a video. I was wondering whether it might not be best to just take the break now and then start in half an hour. Is that possible or ..."
+    },
+    {
+      "id": 262,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. So, Mr. Witness, we will take the break now and come back at quarter to 11.00. The court usher will escort you out of court."
+    },
+    {
+      "id": 263,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Court adjourned."
+    },
+    {
+      "id": 264,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Pinter, I have one more small question of you about the boat. Just before the break you told us the boat went to Osijek to Aljmas. More than one boat?"
+    },
+    {
+      "id": 265,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I wouldn't be able to tell you. I think that they were talking about two boats. Whether there were indeed two, I'm not sure."
+    },
+    {
+      "id": 266,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "You saw just one boat arriving loaded with people?"
+    },
+    {
+      "id": 267,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes."
+    },
+    {
+      "id": 268,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Mr. Gosnell, cross-examination."
+    },
+    {
+      "id": 269,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Mr. President. Thank you. I think my microphone is working even though the light is not illuminated. Is that correct?"
+    },
+    {
+      "id": 270,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, it is."
+    },
+    {
+      "id": 271,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Mr. President."
+    },
+    {
+      "id": 272,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good day, Mr. Pinter.",
+      "examination": "cross"
+    },
+    {
+      "id": 273,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good day to you.",
+      "reply_to": 272
+    },
+    {
+      "id": 274,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "My name is Christopher Gosnell. I represent Mr. Hadzic in these proceedings and I'll be asking you a few questions. If any of my questions are not clear, please feel free to ask me for further clarification and, as mentioned by my colleague earlier of course, I know you can speak English, so if you could just pause after the finish of my questions before you answer, that would be helpful to the interpreters. Do you understand?",
+      "examination": "cross"
+    },
+    {
+      "id": 275,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 274
+    },
+    {
+      "id": 276,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Am I right in understanding your testimony that prior to your trip to Dalj that you've been describing about on the 1st of August, 1991, you had only seen Mr. Hadzic on television; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 277,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 276
+    },
+    {
+      "id": 278,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "How many times do you think you had seen him on television before the 1st of August, 1991?",
+      "examination": "cross"
+    },
+    {
+      "id": 279,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "[In English] Ten times. [Interpretation] Ten times.",
+      "reply_to": 278
+    },
+    {
+      "id": 280,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And on what television programmes had you seen him?",
+      "examination": "cross"
+    },
+    {
+      "id": 281,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Croatian television and Serbian television, Radio Belgrade.",
+      "reply_to": 280
+    },
+    {
+      "id": 282,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And how long before the 1st of August do you believe that you had seen these images of him on television?",
+      "examination": "cross"
+    },
+    {
+      "id": 283,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Can you clarify your question?",
+      "reply_to": 282
+    },
+    {
+      "id": 284,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, let me put it this way: When was the last time before the 1st of August that you saw his image on television?",
+      "examination": "cross"
+    },
+    {
+      "id": 285,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can't tell you.",
+      "reply_to": 284
+    },
+    {
+      "id": 286,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you see his image on television frequently after the 1st of August?",
+      "examination": "cross"
+    },
+    {
+      "id": 287,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 286
+    },
+    {
+      "id": 288,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And was that -- did you see him more frequently, more than ten times after the 1st of August? Let me rephrase the question. Did you see him more times after the 1st of August than you had seen him before the 1st of August, on television?",
+      "examination": "cross"
+    },
+    {
+      "id": 289,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know.",
+      "reply_to": 288
+    },
+    {
+      "id": 290,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "How far were you standing from the man who you believe was Mr. Hadzic on the 1st of August in front of the police station?",
+      "examination": "cross"
+    },
+    {
+      "id": 291,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "20 to 30 metres, perhaps less.",
+      "reply_to": 290
+    },
+    {
+      "id": 292,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did he --",
+      "examination": "cross"
+    },
+    {
+      "id": 293,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "20 metres.",
+      "reply_to": 292
+    },
+    {
+      "id": 294,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And aside from speaking to the commander of the JNA escort who accompanied you to Dalj, did you see him doing anything else?",
+      "examination": "cross"
+    },
+    {
+      "id": 295,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 294
+    },
+    {
+      "id": 296,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did he appear to be escorted by anyone?",
+      "examination": "cross"
+    },
+    {
+      "id": 297,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I don't remember.",
+      "reply_to": 296
+    },
+    {
+      "id": 298,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you don't remember what he was wearing; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 299,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's correct.",
+      "reply_to": 298
+    },
+    {
+      "id": 300,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, in total, how many people were present on this occasion in the vicinity where Mr. Hadzic was speaking with this commander of your escort? How many people were there, in total?",
+      "examination": "cross"
+    },
+    {
+      "id": 301,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't remember other people at all.",
+      "reply_to": 300
+    },
+    {
+      "id": 302,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, let me take you back to your testimony and you said that when you first arrived at the police station the APC pulled up and stopped and that the rest of you remained inside of your ambulances before you got out, because you were waiting for permission. Is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 303,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 302
+    },
+    {
+      "id": 304,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And were all of the ambulances in the convoy present at that moment in time when you stopped at the police station? Let me put it a different way. Had the convoy split before you arrived at the police station?",
+      "examination": "cross"
+    },
+    {
+      "id": 305,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know. I can't tell you. I don't remember.",
+      "reply_to": 304
+    },
+    {
+      "id": 306,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And was that the first stop of the convoy when you arrived in Dalj? Was the first stop at the police station?",
+      "examination": "cross"
+    },
+    {
+      "id": 307,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, to the best of my recollection.",
+      "reply_to": 306
+    },
+    {
+      "id": 308,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you don't recall that anyone left the scene, anyone from your group I mean, left the scene before this conversation between Mr. Hadzic and the commander of the escort; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 309,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 308
+    },
+    {
+      "id": 310,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "So there were other technicians, doctors, drivers present there when you witnessed this conversation between Mr. Hadzic and the commander of the escort; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 311,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 310
+    },
+    {
+      "id": 312,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And how many people amongst your group were present there while this conversation was ongoing?",
+      "examination": "cross"
+    },
+    {
+      "id": 313,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm not able to tell. I was there with the driver, and I can only speak for the two of us.",
+      "reply_to": 312
+    },
+    {
+      "id": 314,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was the name of your driver?",
+      "examination": "cross"
+    },
+    {
+      "id": 315,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm not sure. I think it was Djordje Drazic, though I'm not sure. I can't remember.",
+      "reply_to": 314
+    },
+    {
+      "id": 316,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you remember the name of anyone else who accompanied you in the convoy, other than the two people you've identified already from the video. Can you remember the names of anyone else who went with you in this convoy to Dalj that day?",
+      "examination": "cross"
+    },
+    {
+      "id": 317,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I can't.",
+      "reply_to": 316
+    },
+    {
+      "id": 318,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "But didn't you work with these people on a regular basis?",
+      "examination": "cross"
+    },
+    {
+      "id": 319,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I did. But I don't know who else was there with us at that point.",
+      "reply_to": 318
+    },
+    {
+      "id": 320,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you went out on these missions to provide first aid and assistance to people, did you generally go with the same group of people who were accompanying you on your trip to Dalj?",
+      "examination": "cross"
+    },
+    {
+      "id": 321,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, it wasn't always the same group of people. It was always different, in fact. There were always a different set of people.",
+      "reply_to": 320
+    },
+    {
+      "id": 322,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Could we go into private session briefly, Mr. President?"
+    },
+    {
+      "id": 323,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Private session, please."
+    },
+    {
+      "id": 324,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "1 2 3 4 5 6 7 8 9 10 11 Page 1912 redacted. Private session. 12 13 14 15 16 17 18 19 20 21 22 23 24 25"
+    },
+    {
+      "id": 325,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "We're back in open session, Your Honours. Thank you."
+    },
+    {
+      "id": 326,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, sir, when you say \"we were escorted\" -- \"we were again escorted by the military,\" do I understand \"military\" to mean the JNA?",
+      "examination": "cross"
+    },
+    {
+      "id": 327,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 326
+    },
+    {
+      "id": 328,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And so these three occasions that we've just been discussing - Tenja, Bobota, and Dalj - aside from these three occasions, you can't recall any other occasions when you may have crossed through check-points to assist wounded or to provide medical care to anyone. It's just those three occasions; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 329,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, but when we went to Bobota we were not escorted. We were on our own without any escorts.",
+      "reply_to": 328
+    },
+    {
+      "id": 330,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was the rank, if you know, of the JNA officer who was commanding your escort to Dalj?",
+      "examination": "cross"
+    },
+    {
+      "id": 331,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I wouldn't know that.",
+      "reply_to": 330
+    },
+    {
+      "id": 332,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And would I presume correctly that you also don't know his name?",
+      "examination": "cross"
+    },
+    {
+      "id": 333,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I don't know that.",
+      "reply_to": 332
+    },
+    {
+      "id": 334,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, I'd like to show you a couple of images from the video that we've been looking at earlier; this is P3. Now, you've previously identified this as the Dalj police station; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 335,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "You can pause it."
+    },
+    {
+      "id": 336,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Well, yes."
+    },
+    {
+      "id": 337,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And can we just -- can we just look at the first several seconds of this video repeatedly."
+    },
+    {
+      "id": 338,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, sir, I want to direct your attention to the man who is walking out apparently onto the steps. Do you see that man?",
+      "examination": "cross"
+    },
+    {
+      "id": 339,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 338
+    },
+    {
+      "id": 340,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, seeing that, does that in any way remind you or does that look like - and I know you cannot see his face from the video - but judging from his attire, could that have been the man who you saw speaking to the commander of the JNA escort? And perhaps we can go back and play it again.",
+      "examination": "cross"
+    },
+    {
+      "id": 341,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I wouldn't be able to tell you that.",
+      "reply_to": 340
+    },
+    {
+      "id": 342,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you can't exclude that the person who you saw speaking with the JNA escort commander was dressed in that fashion; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 343,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know. I don't recall that at all.",
+      "reply_to": 342
+    },
+    {
+      "id": 344,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, I'd like to now show you a -- we're done with that video for the moment. I'd like to now show you a photograph. And this is an extract from 1D00172.",
+      "examination": "cross"
+    },
+    {
+      "id": 345,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Now, 1D00172 provides an indication of the identity of the person, and I would simply like to show the photograph in a non-suggestive manner to the witness, and I've mentioned this to the Prosecutor. I don't know if there's an objection."
+    },
+    {
+      "id": 346,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stringer."
+    },
+    {
+      "id": 347,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I had understood that we were not going to show the entire page, rather just the photograph itself. If we're going to go with the entire page, I think we would ask that it's the Defence position that the man appearing in this photograph is correctly indicated as Goran Hadzic or not. In other words, are they representing that this is correct, the name \"Hadzic\" linked to the photograph as it appears on the page that's being put to the witness."
+    },
+    {
+      "id": 348,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "We're not making any such representation and certainly not in front of the witness. For the time being, all I want to do is put an image in front of the witness and have -- hear his reaction. The fact that it's related to 1D00172 may be significant at some subsequent time, but initially this is the only purpose that I want to show the image to the witness for."
+    },
+    {
+      "id": 349,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President -- well, I don't want to interrupt."
+    },
+    {
+      "id": 350,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "No, no, go ahead."
+    },
+    {
+      "id": 351,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And I don't know if it's the appropriate time to raise this issue, but I'm looking at Rule 90(H)(ii), which requires a party to put it to the witness if there's a proposition that would materially -- that is -- well, we all know what the Rule says. If a witness is able to give evidence relevant to the case for the cross-examining party, counsel shall put to the witness the nature of the case of the party for whom that counsel appears. If it's the Defence position that Hadzic wasn't there, or if the witness is mistaken in his identification, at some point, and I think that we're quite close to it, they should simply put it to the witness. They're required to under the Rule. Rather than sort of floating around the issue which is -- appears to be what's happening at present. I'm not saying they can't bring photos and question it, but I think it's something that ought to be put to the witness under the Rule."
+    },
+    {
+      "id": 352,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm certainly going to put in a very precise fashion our position on that very soon, but I would prefer not to do that before going through a couple more photographs. And I believe that's appropriate, but I'm not sure whether we have disagreement with the Prosecution on that."
+    },
+    {
+      "id": 353,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Apart from that, Mr. Gosnell, I heard you about this photograph. The problem is that it's not only a photograph. There is a name under it."
+    },
+    {
+      "id": 354,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, Mr. President, I propose to put only the photograph without the name, and that's why we've extracted the image. This is an image extracted from 1D00172. Unfortunately, we weren't able to extract this in time and so we're left with the image and that's all I would like to put to the witness."
+    },
+    {
+      "id": 355,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "First of all, the witness shouldn't have been in court during this exchange between parties, because you see what the consequence is of this. I have one further question which I do not want to put in the presence of the witness, so I would ask the witness to leave court for a brief moment."
+    },
+    {
+      "id": 356,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The problem is that now the witness has been shown this picture with the name under it."
+    },
+    {
+      "id": 357,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I didn't -- I'm sorry, Mr. President, I didn't understand that that had happened."
+    },
+    {
+      "id": 358,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Registrar? The picture was on the witness's screen; right?"
+    },
+    {
+      "id": 359,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "The document with 65 ter document 1D172 was called and presented."
+    },
+    {
+      "id": 360,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay."
+    },
+    {
+      "id": 361,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "And the name was shown under the picture, yes. Thank you."
+    },
+    {
+      "id": 362,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. So now I have to ask you, Mr. Gosnell, is it your position that this is not a photo of -- a picture of Mr. Hadzic?"
+    },
+    {
+      "id": 363,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, the position is that this is not a photograph of Mr. Hadzic. However, it's a photograph that has been floating around in the public domain for a long time which purports to be. And the point is to present to the witness a photograph of -- and I have to be honest, I actually myself don't know who this person is. But apparently there has -- this confusion is not the first time that it's happened, and I want to see whether the witness recognises this photograph, firstly; and then, secondly, to see whether he will say that this is the person that he saw on that occasion. I don't know what he'll say in response to that."
+    },
+    {
+      "id": 364,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And do you think -- do you think that's a fair question now that the witness has seen the name under the photograph?"
+    },
+    {
+      "id": 365,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, the point of it is now -- yeah, I mean, I did not intend that, and I apologise if I called the document in the wrong way. I should have perhaps prefaced the calling of the document more explicitly and so that may well be my mistake and I apologise. That was not my intention. I wished to present the document -- the photograph first and have his reaction."
+    },
+    {
+      "id": 366,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gosnell, the Chamber is of the view that for the moment and this photograph is so much contaminated that, A, it is not fair to the witness to ask him about this photograph; and B, it would not be helpful for the Chamber to do so. But if you have other photographs, please do."
+    },
+    {
+      "id": 367,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I do. And thank you, Mr. President."
+    },
+    {
+      "id": 368,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The witness may be brought in."
+    },
+    {
+      "id": 369,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Sorry, while the witness is on his way back in, Mr. Gosnell, now that I fully appreciate the -- this line of inquiry that you're pursuing, in the event that I forget to do it myself, I would wish some clarification on his answer to the suggestion that you put to him when you showed him repeatedly the clip of the man in uniform coming out of the damaged police station. Because now -- as I said, now that I appreciate the -- fully the issue, I get the impression the witness may not have fully understood your answer -- or I may not have understood his answer. So if you could clarify that, please. Thank you."
+    },
+    {
+      "id": 370,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'll do my best, Your Honour. I felt that I had come to the end of his memory on this issue, but I'll certainly try further."
+    },
+    {
+      "id": 371,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 372,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The witness may be brought in."
+    },
+    {
+      "id": 373,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And just to make the position clear, it's our position that Mr. Hadzic was not there on this occasion."
+    },
+    {
+      "id": 374,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let's take this off the screen, Mr. Registrar, please."
+    },
+    {
+      "id": 375,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Sorry, can I just ask, was the previous image that was on the screen, was that -- was it displayed in the same manner on the witness's screen as it was displayed on the rest of our screens? Because -- I only say that because that, unless it was moved, the last time I saw the image -- actually, it was just the top."
+    },
+    {
+      "id": 376,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "It was shrinked."
+    },
+    {
+      "id": 377,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Oh, somebody moved. All right. That's -- yeah, I was checking to see."
+    },
+    {
+      "id": 378,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Witness, I would like to go back and just show you the video, if I may, that we were looking at.",
+      "examination": "cross"
+    },
+    {
+      "id": 379,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Now what I want -- let's stop it there."
+    },
+    {
+      "id": 380,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "I want to ask you, sitting there right now, to the best of your recollection, can you exclude that that is the person who you saw talking to the JNA escort commander? That person that we've just seen on the screen. Can you say that that is to a certainty not the person that you saw?",
+      "examination": "cross"
+    },
+    {
+      "id": 381,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can't say whether it was or wasn't. I can't see the face at all.",
+      "reply_to": 380
+    },
+    {
+      "id": 382,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "But leaving aside the face and looking at -- and let's play it.",
+      "examination": "cross"
+    },
+    {
+      "id": 383,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Looking at the attire, looking at the clothing he's wearing, looking at the boots, looking at the belt, looking at the colour of the camouflage uniform, looking at those things, can you say whether that corresponds in any way to your recollection of the person that was there that day speaking to the JNA escort commander?",
+      "examination": "cross"
+    },
+    {
+      "id": 384,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't even remember the uniform, what that person was wearing. I have no memory of that at all.",
+      "reply_to": 383
+    },
+    {
+      "id": 385,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "You have no memory of that at all, and yet you testify that you know it was Goran Hadzic. How do you know it was Goran Hadzic if your memory is so faint of this event?",
+      "examination": "cross"
+    },
+    {
+      "id": 386,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "The only thing I remember is the face, the face is all I recall. I don't remember anything else of that man.",
+      "reply_to": 385
+    },
+    {
+      "id": 387,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the face, you say, is the face of Goran Hadzic and you're sure about that. Is that your testimony, that you're sure that it was Goran Hadzic's face that you saw on that occasion?",
+      "examination": "cross"
+    },
+    {
+      "id": 388,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe it was Goran Hadzic.",
+      "reply_to": 387
+    },
+    {
+      "id": 389,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "You believe. What does that mean, that you believe it was Goran Hadzic?",
+      "examination": "cross"
+    },
+    {
+      "id": 390,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "What I mean is when I saw that person I thought that it was Goran Hadzic the way I'd seen him before. It may have been somebody else, but the way I remember that scene in my head, that was Goran Hadzic. That's all I know.",
+      "reply_to": 389
+    },
+    {
+      "id": 391,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And is it possible that your belief that this may have been Goran Hadzic was affected by the fact that you had seen his face on television, as you say, several times and then when you saw a man who resembled him you believed it was him? Is that possible?",
+      "examination": "cross"
+    },
+    {
+      "id": 392,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Perhaps yes; perhaps no. I don't know. I can't tell you.",
+      "reply_to": 391
+    },
+    {
+      "id": 393,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Could we have 1D169, please."
+    },
+    {
+      "id": 394,
+      "speaker": "JUDGE MINDUA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] Mr. Gosnell, I apologise. While you're looking for the document and before you move on to another piece of evidence, to another exhibit, I would like to come back to the question of the commander who was in charge of the escorts. Witness, you told us that on page 33 of the transcript, lines 17 through 19, page 33, you told us that you didn't know what the rank of the JNA officer was. He was in command of the escorts until Dalj, but you didn't know his rank; right? That's it, yes. My question, sir: At that time when things were happening, did you make a distinction between various ranks of the JNA? Did you know how to distinguish between them?"
+    },
+    {
+      "id": 395,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes."
+    },
+    {
+      "id": 396,
+      "speaker": "JUDGE MINDUA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] Thank you. That officer that we're talking about, did he wear any markings of his rank? Did he have any patches?"
+    },
+    {
+      "id": 397,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I can't tell you. I was not in close contact with him. I did not have an occasion to come closer to him and to look at him. I didn't know who he was. I didn't see him that well. I don't know. I did not pay attention to his rank or his patches or the markings of the rank."
+    },
+    {
+      "id": 398,
+      "speaker": "JUDGE MINDUA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] And you did not hear any of the soldiers addressing him by his rank on that day?"
+    },
+    {
+      "id": 399,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] No, I didn't hear that at all."
+    },
+    {
+      "id": 400,
+      "speaker": "JUDGE MINDUA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] Thank you, sir."
+    },
+    {
+      "id": 401,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just to follow-up on that, Mr. Pinter, are you sure that this person was even an officer?",
+      "examination": "cross"
+    },
+    {
+      "id": 402,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "What do you mean when you say \"an officer\"? He led us. He issued orders. I don't know what his rank was. Maybe he was a sergeant or perhaps something else. I don't know.",
+      "reply_to": 401
+    },
+    {
+      "id": 403,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "How many men did he have under his command, as far as you could perceive?",
+      "examination": "cross"
+    },
+    {
+      "id": 404,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know how many people there were in the APC. I don't know how many soldiers.",
+      "reply_to": 403
+    },
+    {
+      "id": 405,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And was he in command of one APC or more than one APC?",
+      "examination": "cross"
+    },
+    {
+      "id": 406,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I can remember, there was just that one in front of us. I don't know whether there were any behind us, but I believe that there was just that one that led us.",
+      "reply_to": 405
+    },
+    {
+      "id": 407,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you very much for those answers, sir. Now I'd like to turn your -- ask you to turn your attention to 1D00172, which is there on the screen in front of you. In particular, at the man with the beard who is not wearing a hat on the left-hand side of your screen.",
+      "examination": "cross"
+    },
+    {
+      "id": 408,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 407
+    },
+    {
+      "id": 409,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I believe this is actually 1D00169 for the record."
+    },
+    {
+      "id": 410,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, that man there on the left, is it possible that that's the man who you saw in front of the Dalj police station?",
+      "examination": "cross"
+    },
+    {
+      "id": 411,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I don't think so. I don't know. I can't tell.",
+      "reply_to": 410
+    },
+    {
+      "id": 412,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "You're not sure?",
+      "examination": "cross"
+    },
+    {
+      "id": 413,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm not sure.",
+      "reply_to": 412
+    },
+    {
+      "id": 414,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, we would seek to tender this on the basis that it is a still taken -- extracted from a video which, as I understand it, has been admitted. I don't have the number handy, but I just wanted to put a place marker here to let you know that we'll be tendering this, and I'll give you the proper exhibit number when I can."
+    },
+    {
+      "id": 415,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And will you also tell us who this man is?"
+    },
+    {
+      "id": 416,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I can tell you who he is. It's -- well, actually, out of caution, I'm not sure that I can definitively tell you who he is. So I think I should just perhaps -- I can tell you who I believe it to be, but I'm not certain as to who it is. And if Your Honour wishes that information, I'm happy to provide it."
+    },
+    {
+      "id": 417,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And is there anything indicating that this man could have been -- could have been at the scene?"
+    },
+    {
+      "id": 418,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Indeed, Mr. President."
+    },
+    {
+      "id": 419,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay."
+    },
+    {
+      "id": 420,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "His name, as I understand it, is Marko Loncarevic."
+    },
+    {
+      "id": 421,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 422,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Our position is not necessarily that it was he who was there. Our position is that it may have been he who was there."
+    },
+    {
+      "id": 423,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And who is this Marko Loncarevic?"
+    },
+    {
+      "id": 424,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "He was in the Dalj TO. He was a member of the Crisis Staff. And there has been testimony heard about him already."
+    },
+    {
+      "id": 425,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. So admitted and marked for identification. Is that it, Mr. Gosnell?"
+    },
+    {
+      "id": 426,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yeah, the difficulty is I have a 65 ter number for the video that we extracted it from, but I don't have the P number."
+    },
+    {
+      "id": 427,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. So you will upload a -- you don't have the P number? The P number is 241."
+    },
+    {
+      "id": 428,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "The Registrar is, once again --"
+    },
+    {
+      "id": 429,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes --"
+    },
+    {
+      "id": 430,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "-- diligently on top of everything that's in evidence, and I thank him for that."
+    },
+    {
+      "id": 431,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And I just have a few more questions for you, sir --",
+      "examination": "cross"
+    },
+    {
+      "id": 432,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yeah, we would tender that, Mr. President."
+    },
+    {
+      "id": 433,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "But it has already an exhibit number."
+    },
+    {
+      "id": 434,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "So it's a new number for the still you mean? Yeah. Okay."
+    },
+    {
+      "id": 435,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, please, Mr. President."
+    },
+    {
+      "id": 436,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Admitted and marked."
+    },
+    {
+      "id": 437,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "It shall be assigned Exhibit Number D18. Thank you."
+    },
+    {
+      "id": 438,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 439,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Before the arrival of the refugees from Aljmas, were preparations under way in Osijek for their arrival?",
+      "examination": "cross"
+    },
+    {
+      "id": 440,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe so, but I don't have any information about it.",
+      "reply_to": 439
+    },
+    {
+      "id": 441,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And why do you say you believe so?",
+      "examination": "cross"
+    },
+    {
+      "id": 442,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Because they knew that they were coming. It was an organised thing. They sent boats over there. They didn't know how many were going to come. That's the extent of information we had as we were waiting there for them. They did dispatch boats to collect them. We knew that we were to receive them.",
+      "reply_to": 441
+    },
+    {
+      "id": 443,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did the boats arrive in Osijek on -- well, what date did they arrive in Osijek?",
+      "examination": "cross"
+    },
+    {
+      "id": 444,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know the exact date.",
+      "reply_to": 443
+    },
+    {
+      "id": 445,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was it the day after you yourself had been to Dalj?",
+      "examination": "cross"
+    },
+    {
+      "id": 446,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know whether it was on the following day, two or three days later. I don't know.",
+      "reply_to": 445
+    },
+    {
+      "id": 447,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can we say, as best you can recall, that it was no less than a day after you had been in Dalj?",
+      "examination": "cross"
+    },
+    {
+      "id": 448,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, yes, definitely at least a day later.",
+      "reply_to": 447
+    },
+    {
+      "id": 449,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And by \"a day later,\" you mean at least the next day; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 450,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 449
+    },
+    {
+      "id": 451,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And prior to your trip to Dalj, do you recall whether there were any preparations under way by any authorities in Osijek to receive refugees? Let's not say refugees from anywhere. Let's just say refugees in general. Were any preparations underway in Osijek to receive refugees?",
+      "examination": "cross"
+    },
+    {
+      "id": 452,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't have any information about that. I don't know.",
+      "reply_to": 451
+    },
+    {
+      "id": 453,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "You testified earlier today at page 11 of the provisional transcript that you saw caterpillar tracks in front of the police station. Would those also be tracks that you would recognise as the tracks of tanks?",
+      "examination": "cross"
+    },
+    {
+      "id": 454,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 453
+    },
+    {
+      "id": 455,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Pinter, thank you very much for your testimony.",
+      "examination": "cross"
+    },
+    {
+      "id": 456,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, no further questions."
+    },
+    {
+      "id": 457,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could we have D18 back on the screen, please. Mr. Stringer, is there a common understanding between you and the Defence that -- who the man on the still is? Or at least that the man on the still is not Goran Hadzic?"
+    },
+    {
+      "id": 458,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, it's clear that the man is not Goran -- the man on the still is not Goran Hadzic. There is not an understanding or I can't say that we at this moment agree that it is the other individual whose name was given."
+    },
+    {
+      "id": 459,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "So -- but there is an understanding that it is not Goran Hadzic?"
+    },
+    {
+      "id": 460,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 461,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Mr. Stringer, re-direct?"
+    },
+    {
+      "id": 462,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Mr. President."
+    },
+    {
+      "id": 463,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If I could, I would like to call up --"
+    },
+    {
+      "id": 464,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "First, Mr. Pinter, I'm just going to ask you one or two brief questions. At page 10 of your testimony earlier today on direct, you testified that after you returned to Osijek with that identification card of the Croatian police officer that you'd found you gave it to the Croatian police in Osijek. Do you recall that testimony?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 465,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 464
+    },
+    {
+      "id": 466,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you said that when you turned that over to the Croatian police you described or you told them what you'd observed in Dalj and that they made a note of that; correct?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 467,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Objection. That misstates the record. The witness said that an unofficial note had been prepared of some sort."
+    },
+    {
+      "id": 468,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Pinter, you said, page 10, line 21, that the person you talked to made an unofficial note of it and that you explained to him what you had seen and why you had brought the ID along. Do you remember that testimony?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 469,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 468
+    },
+    {
+      "id": 470,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And have you ever seen the note, the unofficial note, that was -- that you've referred to?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 471,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gosnell."
+    },
+    {
+      "id": 472,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I object very strongly to this line of inquiry, Mr. President. It goes beyond the scope of the chief, it goes beyond the scope of the cross. Both the Prosecution and the Defence were fully aware of the document in question, and now this is a fishing expedition to obtain some information that was not elicited in chief very intentionally, and we've now been deprived of the opportunity to cross-examine on it, and this is highly improper."
+    },
+    {
+      "id": 473,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I strongly disagree. Although it's not been put to the witness, the witness's recollection of what he saw at the police station has been inquired into during the cross-examination. The issue of his recollection that I wish to question him about now goes directly to that identification which has been challenged during the cross-examination."
+    },
+    {
+      "id": 474,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I didn't hear anything in cross-examination about Mr. Pinter's visit to the police station."
+    },
+    {
+      "id": 475,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It was during the direct examination. He mentioned that after he returned from Dalj he had - this is on page 10 of today's --"
+    },
+    {
+      "id": 476,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I remember that. I do remember that --"
+    },
+    {
+      "id": 477,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "But it -- what I'm hoping to go into now, Mr. President, relates to the issue of his identification of Mr. Hadzic at the Dalj police station."
+    },
+    {
+      "id": 478,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "But still, if -- if his statement to the police, when going there with the identification card, did not come up in cross-examination, where's your foundation to deal with it in re-direct? Why didn't you deal with it in -- so if you have this note, why didn't it come up in chief?"
+    },
+    {
+      "id": 479,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Because the issue --"
+    },
+    {
+      "id": 480,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well --"
+    },
+    {
+      "id": 481,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Of --"
+    },
+    {
+      "id": 482,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I'm --"
+    },
+    {
+      "id": 483,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Could I suggest, Mr. President, respectfully I could make a fuller explanation perhaps if the witness was not able to hear us."
+    },
+    {
+      "id": 484,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. Mr. Witness, Mr. Pinter, could you please leave the courtroom for a moment."
+    },
+    {
+      "id": 485,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "By way of a proffer, Mr. President, the note that the witness has referred to, it's actually called an Official Note. It is a part of his OTP witness statement; however -- and much of this Official Note that the Croatian authorities made is reflected in the OTP statement. But of course he's viva voce; no statements of this witness are being tendered. The note was taken on the 2nd of August, 1991, and on that day the witness told the Croatian police that according to this note he saw Goran Hadzic at the Dalj police station. Now, during the direct examination, the witness's recollection on this point ..."
+    },
+    {
+      "id": 486,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. Stringer, we interrupted you."
+    },
+    {
+      "id": 487,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "The direct examination was the direct examination --"
+    },
+    {
+      "id": 488,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stringer, before I let you continue, it would be good if you would not read into the transcript the content of the note before we decide whether you can use it or not."
+    },
+    {
+      "id": 489,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I apologise, Mr. President. If I could just simply put it this way: I would like to ask the witness if he recalls telling the Croatian police, the day after the incident when the note was made, whether he, at that time, indicated that he had seen Mr. Hadzic. The witness's recollection on this issue was not in dispute until the cross-examination. It's not something -- back where I come from we would say bolstering. I don't know that it would have been appropriate to bolster the evidence during the direct by asking, inviting the witness, to talk about having talked to this -- talked to the Croatian authorities about it the following day. He simply saw what he saw. What's relevant now that his recollection -- the identification's been challenged is, in our view, the fact that on the very next day he identified Hadzic to local authorities."
+    },
+    {
+      "id": 490,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "But, Mr. Stringer, please tell me if I'm missing something. This isn't a situation where we're dealing with a witness's account of events and where, because of the passage of time, it is of assistance in terms of his initial report. What is under challenge here is a much narrower question. It is the issue of the quality of his identification at the time. So does it matter what his report was the following today as contrasts all the way up to when he gave evidence this morning? Because that is what the challenge is. So how would we be assisted by this?"
+    },
+    {
+      "id": 491,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "We see that it's relevant because the video that was shown of the man walking out of the building that was shown repeatedly -- I mean, the witness has indicated he can't say or he doesn't remember. He doesn't remember. And to the extent that the witness has now indicated he doesn't remember, it may not be the dispositive fact. Obviously it's all before the Trial Chamber. But if, in fact, the witness said the very following day to an official that he identified or he saw Goran Hadzic on this location, we think it is a relevant piece of evidence that is a part of -- that ought to be part of the Chamber's consideration, given that the events we're talking about here occurred about 21 years ago or more."
+    },
+    {
+      "id": 492,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Anything from you, Mr. Gosnell?"
+    },
+    {
+      "id": 493,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Just very briefly, Mr. President. To the extent that it's relevant in terms of what was said during the chief, the witness actually didn't refer to the note in question. What the witness said was that he brought the ID and the person -- so he hands the ID over and he says: \"The person I talked to made an unofficial note of it. I handed it over.\" There's no indication that this witness actually knows or at the time knew of the creation of this Official Note, which is an entirely different thing. It's an account of, allegedly, what he saw. That's not what he referred to in direct examination. So to the extent that that's relevant to Your Honours, that part of the record needs to be corrected. Secondly, the Prosecutor said that he felt constrained not to raise this document on chief because it would be improper bolstering. Well, if it's improper bolstering on chief, it's improper bolstering -- far more improper on re-direct. That's the second point. And the third point is that I couldn't agree more with Judge Hall's remark that the challenge was in respect of the witness's identification. Nothing in the intervening years makes any difference to that, and so, therefore, this document is not relevant. Unless, Your Honours, a whole bunch of relevant material from the document starts coming in, and then you'll find that the entire line of examination was conducted very deliberately to avoid it, and the cross was conducted in a way to -- in a manner that reflected their avoidance of those issues. And now that the cross has been conducted, the horse is out of the barn, and the Prosecutor's trying to get a second bite of the apple. It's as simple as, that, and it's not proper."
+    },
+    {
+      "id": 494,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Objection sustained."
+    },
+    {
+      "id": 495,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "There will be no -- let me double-check before I say. There's no further re-direct, Mr. President."
+    },
+    {
+      "id": 496,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. Then we'll have the witness brought back in."
+    },
+    {
+      "id": 497,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If I could make one remark after the witness has completed his testimony, and perhaps if there's time raise one other issue that's unrelated."
+    },
+    {
+      "id": 498,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay."
+    },
+    {
+      "id": 499,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Just to clarify, I've been instructed the ruling is that we cannot ask the witness if he referred to having seen Hadzic on the following day when he spoke to the Croatian police; is that correct?"
+    },
+    {
+      "id": 500,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Microphone not activated]."
+    },
+    {
+      "id": 501,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, if that's the ruling, I would like to ask the question without referring to the document."
+    },
+    {
+      "id": 502,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Please proceed, Mr. Stringer."
+    },
+    {
+      "id": 503,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Pinter, earlier we were talking about the occasion when you turned over that identification to the Croatian authorities in Osijek. Do you recall when that occurred?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 504,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "It was on the following day or the day after I returned from Dalj. I think it was on the following day.",
+      "reply_to": 503
+    },
+    {
+      "id": 505,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And at that time, do you recall if you mentioned to them that you had seen Mr. Hadzic at the Dalj police station?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 506,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, Mr. President, I am going to object on the same grounds as previously. I know Your Honour has just indicated that the ruling was that he can't use the note. You didn't say whether or not you would allow him to go further. So now I am interposing an objection to the question itself for the same reasons that have previously been mentioned. Whether the note is used or not is somewhat neither here nor there. It's going into the issue that could have been gone into during the direct examination, and they chose not to."
+    },
+    {
+      "id": 507,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "If the Prosecution would have known about your position on this issue, Mr. Gosnell, objection overruled."
+    },
+    {
+      "id": 508,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Pinter, do you want me to ask the question again?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 509,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, please.",
+      "reply_to": 508
+    },
+    {
+      "id": 510,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "At the time you met with the Croatian authorities, do you recall if you mentioned to them that you had seen Mr. Hadzic at the Dalj police station?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 511,
+      "speaker": "IVICA PINTER",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I remember that.",
+      "reply_to": 510
+    },
+    {
+      "id": 512,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Mr. Pinter.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 513,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No further questions, Your Honour."
+    },
+    {
+      "id": 514,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Mr. Pinter, this is the end of your testimony. You're now released as a witness. We thank you very much for coming to The Hague to assist us. The court usher will escort you out of court, and we all wish you a safe journey back home."
+    },
+    {
+      "id": 515,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 516,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stringer."
+    },
+    {
+      "id": 517,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Mr. President. Prosecution submits that the record should reflect that the Defence did not put to the witness the proposition that he was mistaken in his identification and that Hadzic was not present. That's how we interpret the cross-examination. The issue might surface in the future. It might be useful. I don't know if the Chamber or if the Defence even shares the Prosecution view on this, but in our view, it was not put to the witness certainly in the way that, in our respectful submission, ought to be done. And it perhaps would be useful to know whether that view is shared because I'm not -- we will not raise objections of -- along these lines if, in fact, the Chamber views that we got close enough to it today that it was put to the witness. I just mention that, that in our view it was not put to the witness, and the issue has not been perfected, if I may put it that way."
+    },
+    {
+      "id": 518,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stringer, the line of questions that was put, can there be any possible other interpretation but that it was a challenge to the witness's initial assertion that he saw the accused when he went to Dalj?"
+    },
+    {
+      "id": 519,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Certainly that interpretation can be drawn, Your Honour. My experience in this institution is that different Judges coming from different backgrounds could possibly differ on whether, despite whatever interpretation can be drawn, the express rule of the language has been met, and that's why I raise it as a way of asking for the Chamber's guidance. I can tell Your Honour I've been called out by a Judge from a different country for not having put it more directly on a very similar issue. And so it's something I think that possibly Judges can disagree on. And being an American, it's not an issue that I've dealt with tremendously in my pre-Tribunal experience, I should add."
+    },
+    {
+      "id": 520,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gosnell."
+    },
+    {
+      "id": 521,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Just a brief remark -- well, two remarks. Specifically, I do believe that the issue was put squarely and fairly to the witness, challenging whether or not he had -- could identify this person as Mr. Hadzic. I think his testimony was clear on that. And I don't think that Rule 90(H) is a technical rule involving perfection of questions. I believe what Rule 90(H) is about is to prevent either party from holding back an issue with a highly relevant witness and not asking questions about it and then, at the end of the case, putting together evidence in a certain sequence to present a certain proposition that is directly contrary to what a highly relevant witness would have been able to comment upon. I believe that's the purpose of Rule 90(H), not, you know, whether or not you call the witness a liar or say: Did you completely -- you know, isn't it true that you can't say that that's Mr. Hadzic after a line of ten questions, in which he said: I can't identify. So I don't believe it's a technical rule. I believe it has a broader purpose. And when you look at the way in which Rule 90(H) has been interpreted in Judgements, it certainly hasn't been given that technical interpretation."
+    },
+    {
+      "id": 522,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "But, Mr. Gosnell, did you put to the witness your position that Mr. Hadzic was not present at that moment and at that time?"
+    },
+    {
+      "id": 523,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I --"
+    },
+    {
+      "id": 524,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And does that make any difference?"
+    },
+    {
+      "id": 525,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I believe that once you've received certain answers from a witness in which he indicates that he cannot say for certain who it was, then the additional question, I would say, is redundant. Especially -- especially, Your Honours, when it was on the record what our position is. It's not really so much the witness being -- answering an obvious question in an obvious way when you've already got the predicate answers."
+    },
+    {
+      "id": 526,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Do you have another question, Mr. Stringer?"
+    },
+    {
+      "id": 527,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "This is unrelated. For future practice -- and this relates generally to the conduct of the trial and the public's right to -- or the public nature of the trial. Because, of course, the trial is being followed, and that's a good thing, in our view. The Prosecution -- our 92 ter witnesses, it's our understanding that when a 92 ter witness testifies and a 92 ter statement is admitted even as a public document, it's not readily available to the public. And so the essence of the witness testimony is not readily, therefore, available to the public because, of course, as a 92 ter witness, we simply cut to specific issues or clarifications. In its pre-trial guide-lines, the Chamber indicated that it -- that the Prosecution need not read a summary of the witness's testimony before beginning, and that's been done in other cases. It's not been required here, and we've not been doing it. But the end result is that for the public who wish to follow the proceedings, it's -- can be difficult for them to really have an idea of what the witness evidence is about, at least on the direct examination, because the bulk of it is in the statement itself. And the Prosecution would like to -- we were -- are considering changing the practice to provide some very brief summary or overview of the witness's evidence. We would prefer to do it, however, outside the presence of the witness, because it's probably something that's better done without the witness listening to the Prosecution purporting to summarise their evidence. So there's some tension there. But we think that there's a public trial issue. There is an access issue, if I can put it that way, that needs to be addressed, and it's certainly not something to be decided today or, you know, urgently. But I just wanted to mention it to the Chamber, and it's perhaps a conversation that -- communications can continue among the parties and the Chamber in the coming weeks because we would -- the Prosecution would like to have -- find a way to address this so that more information can be available to those who wish to follow the case, particularly in respect of these 92 ter witnesses."
+    },
+    {
+      "id": 528,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. Stringer. Does the Defence have an instant view on this?"
+    },
+    {
+      "id": 529,
+      "speaker": "MR. GOSNELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "The initial view is that summaries are not particularly helpful. They are, of course, one party's interpretation of the statement, usually not entirely shared in all regards by the other party. And we believe that the agencies that cover this Tribunal do an excellent job of reviewing witness testimony and making it available to such news sources as are interested to pick them up. SENSE agency does an excellent job of reviewing and summarising testimony. So we would say there's no particular reason to make such summaries available for the purposes of publicity, and given that they're often somewhat biased and slanted, it's not particularly helpful to the trial."
+    },
+    {
+      "id": 530,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Stringer, do you want to add something?"
+    },
+    {
+      "id": 531,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Just to mention that, in fact, SENSE is one of the parties - there have been several - who've expressed frustration, if I can put it that way, with the issue. And so that's among a number of reasons why I've raised the issue."
+    },
+    {
+      "id": 532,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We'll consider the issue and come back to you later, as soon as possible. Anything else?"
+    },
+    {
+      "id": 533,
+      "speaker": "MR. STRINGER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Just to say with trepidation that the Prosecution does not have any additional witnesses for today, Mr. President. Again, I regret the down time that we've had this week and we're working to prevent that in the future, but it does happen."
+    },
+    {
+      "id": 534,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Anything from the Defence? Court adjourned."
+    },
+    {
+      "id": 535,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "to be reconvened on Monday, the 3rd day of December, 2012, at 9.00 a.m. 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25"
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 9.00 a.m."
+    },
+    {
+      "after_utterance": 9,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 15,
+      "text": "WITNESS:  IVICA PINTER"
+    },
+    {
+      "after_utterance": 15,
+      "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 17,
+      "text": "Examination by Mr. Stringer:"
+    },
+    {
+      "after_utterance": 112,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 114,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 119,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 125,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 205,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 212,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 248,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 250,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 261,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 262,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 263,
+      "text": "--- Recess taken at 10.15 a.m."
+    },
+    {
+      "after_utterance": 263,
+      "text": "--- On resuming at 10.45 a.m."
+    },
+    {
+      "after_utterance": 263,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 271,
+      "text": "Cross-examination by Mr. Gosnell:"
+    },
+    {
+      "after_utterance": 323,
+      "text": "[Private session]"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 323,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 324,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 334,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 337,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 354,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 355,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 365,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 373,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 378,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 382,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 413,
+      "text": "[Defence counsel confer]"
+    },
+    {
+      "after_utterance": 433,
+      "text": "[Trial Chamber and Registrar confer]"
+    },
+    {
+      "after_utterance": 454,
+      "text": "[Defence counsel confer]"
+    },
+    {
+      "after_utterance": 456,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 462,
+      "text": "Re-examination by Mr. Stringer:"
+    },
+    {
+      "after_utterance": 484,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 485,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 493,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 501,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 515,
+      "text": "[The witness withdrew]"
+    },
+    {
+      "after_utterance": 525,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 534,
+      "text": "--- Whereupon the hearing adjourned at 12.09 p.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_30_November_2012.doc"
+}

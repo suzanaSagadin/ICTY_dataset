@@ -1,0 +1,5318 @@
+{
+  "case": "perisic",
+  "case_id": "IT-04-81-T",
+  "date": "2009-01-29",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good morning to everybody in and around the courtroom. Madam Registrar, will you please call the case."
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Morning Your Honours. Good morning everyone in and around the courtroom. This is case number IT-04-81-T, the Prosecutor versus Momcilo Perisic."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. Could we have appearances for the day, starting with the Prosecution, please."
+    },
+    {
+      "id": 4,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, good morning, Your Honours. Good morning to everybody in and around the courtroom. Firstly, Your Honours, our apologies for the slight delay this morning our witness was placed in a room nowhere near this courtroom, and it just took us a little while to track him down."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "That's fine."
+    },
+    {
+      "id": 6,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mark Harmon, Barney Thomas, Bronagh McKenna, Salvatore Cannata, and Carmela Javier for the Prosecution."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. And for the Defence."
+    },
+    {
+      "id": 8,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Good morning, Your Honours. And good morning to everyone in the courtroom. For the Defence of Mr. Perisic today in the courtroom we have Mr. Milos Androvic, Daniela Tasic, Gregor Guy-Smith and Novak Lukic as his Defence."
+    },
+    {
+      "id": 9,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. Just before you call the witness, a small administrative matter by way of corrigendum to the oral decision that was given the other day on the deposition, just to say that apparently during the deposition three questions -- on three occasions the Defence objected to the Prosecution's questions. And just for the record, just to say that after a careful review of the transcript, the Trial Chamber overrules those objections. Thank you so much. May you call the witness."
+    },
+    {
+      "id": 10,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That you have, Your Honours. The Prosecution calls Major Overgard, please."
+    },
+    {
+      "id": 11,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Is he lost again?"
+    },
+    {
+      "id": 12,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I was just thinking, Your Honours, I haven't actually sighted him myself this morning. But apparently he has been found."
+    },
+    {
+      "id": 13,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "If you say so."
+    },
+    {
+      "id": 14,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, if I could just step outside and make -- we have him. Thank you."
+    },
+    {
+      "id": 15,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good morning, sir."
+    },
+    {
+      "id": 16,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Good morning."
+    },
+    {
+      "id": 17,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Will you please make the declaration."
+    },
+    {
+      "id": 18,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 19,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. You may now be seated. Mr. Thomas."
+    },
+    {
+      "id": 20,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours."
+    },
+    {
+      "id": 21,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Major, can you begin please by giving us your full name and date of birth?",
+      "examination": "direct"
+    },
+    {
+      "id": 22,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "My name is Thorbjorn Overgard, and I'm a major in the Norwegian air force.",
+      "reply_to": 21
+    },
+    {
+      "id": 23,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Your date of birth, Major?",
+      "examination": "direct"
+    },
+    {
+      "id": 24,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "13th of April, 1958.",
+      "reply_to": 23
+    },
+    {
+      "id": 25,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, did you testify about certain matters related to Sarajevo and the Dragomir Milosevic case?",
+      "examination": "direct"
+    },
+    {
+      "id": 26,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I did.",
+      "reply_to": 25
+    },
+    {
+      "id": 27,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I wonder, Your Honours, if we could please have Exhibit 65 ter 09386 on the screen. And Your Honours, I should have signalled Major Overgard is a 92 ter witness."
+    },
+    {
+      "id": 28,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 29,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Major, you'll see there at the top of the page that the testimony is dated the 18th of January, 2007.",
+      "examination": "direct"
+    },
+    {
+      "id": 30,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I wonder if we could turn over the next page, please, Madam Registrar. And scroll down and the next page, please."
+    },
+    {
+      "id": 31,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, major, do you recognise that as a transcript of your testimony given in the Dragomir Milosevic case on the 18th of January 2007?",
+      "examination": "direct"
+    },
+    {
+      "id": 32,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 31
+    },
+    {
+      "id": 33,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you have the opportunity to review that transcript of testimony yesterday?",
+      "examination": "direct"
+    },
+    {
+      "id": 34,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did yesterday, yes.",
+      "reply_to": 33
+    },
+    {
+      "id": 35,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And is it true and correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 36,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 35
+    },
+    {
+      "id": 37,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if you were asked the same questions this morning, would you answer in the same way?",
+      "examination": "direct"
+    },
+    {
+      "id": 38,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I would.",
+      "reply_to": 37
+    },
+    {
+      "id": 39,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. If that could please be tendered as a Prosecution exhibit."
+    },
+    {
+      "id": 40,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "From which page to which -- from this page to where?"
+    },
+    {
+      "id": 41,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, the entire exhibit is the redacted version of the transcript for that day. The pages themselves have been notified in the 92 notice which has been filed with the Chamber. The non-relevant parts have been redacted so that all that remains is the relevant testimony of Major Overgard."
+    },
+    {
+      "id": 42,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you so much. That exhibit is admitted. May it please be given an exhibit number."
+    },
+    {
+      "id": 43,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P479."
+    },
+    {
+      "id": 44,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 45,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. Thank you, Madam Registrar."
+    },
+    {
+      "id": 46,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Major, did you also testify on the following day, the 19th of January?",
+      "examination": "direct"
+    },
+    {
+      "id": 47,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I did.",
+      "reply_to": 46
+    },
+    {
+      "id": 48,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Could we please have, Your Honours, Exhibit 65 ter 09387 on the screen, please."
+    },
+    {
+      "id": 49,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Major, again we can see the date of Friday the 19th of January on the top of the page.",
+      "examination": "direct"
+    },
+    {
+      "id": 50,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If we could please go to the next page, Your Honours."
+    },
+    {
+      "id": 51,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And do you see there the commencement of your cross-examination?",
+      "examination": "direct"
+    },
+    {
+      "id": 52,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Yes.",
+      "reply_to": 51
+    },
+    {
+      "id": 53,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Again, Major, did you have the opportunity to review this transcript of your testimony yesterday?",
+      "examination": "direct"
+    },
+    {
+      "id": 54,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I did.",
+      "reply_to": 53
+    },
+    {
+      "id": 55,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it true and correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 56,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 55
+    },
+    {
+      "id": 57,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if you were asked the same questions today, would you answer in the same way?",
+      "examination": "direct"
+    },
+    {
+      "id": 58,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I will.",
+      "reply_to": 57
+    },
+    {
+      "id": 59,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. Again if that redacted transcript could please be tendered as a Prosecution exhibit."
+    },
+    {
+      "id": 60,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is tendered, and it is admitted. May it please be given an exhibit number."
+    },
+    {
+      "id": 61,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P480."
+    },
+    {
+      "id": 62,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 63,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. Thank you, Madam Registrar."
+    },
+    {
+      "id": 64,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, in addition to the two transcripts, Major, did you also earlier provide a statement to OTP, Office of the Prosecutor investigators in April 1996?",
+      "examination": "direct"
+    },
+    {
+      "id": 65,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I did, a couple of times I think I gave in Bura.",
+      "reply_to": 64
+    },
+    {
+      "id": 66,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 67,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Can we begin please with 65 ter 0388 [sic], please."
+    },
+    {
+      "id": 68,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Major, do you recognise -- wait for the -- Major, do you recognise that as the statement that you provided to OTP officials in 1996?",
+      "examination": "direct"
+    },
+    {
+      "id": 69,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 68
+    },
+    {
+      "id": 70,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Again, did you review the contents of that statement yesterday?",
+      "examination": "direct"
+    },
+    {
+      "id": 71,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 70
+    },
+    {
+      "id": 72,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it true and correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 73,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 72
+    },
+    {
+      "id": 74,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Again, if you were asked about the same matters referred to in that statement, would you answer in the same way?",
+      "examination": "direct"
+    },
+    {
+      "id": 75,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I will.",
+      "reply_to": 74
+    },
+    {
+      "id": 76,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. If that statement, which a redacted statement could also be tendered as a Prosecution exhibit."
+    },
+    {
+      "id": 77,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is admitted. What 65 ter number did you give it?"
+    },
+    {
+      "id": 78,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It is 09388, Your Honours."
+    },
+    {
+      "id": 79,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "09388. May it please be given an exhibit number."
+    },
+    {
+      "id": 80,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P481."
+    },
+    {
+      "id": 81,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. Thank you, Madam Registrar."
+    },
+    {
+      "id": 82,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Finally, Major, in preparation for your testimony in the D. Milosevic case, did you provide some limited further information to OTP investigators?",
+      "examination": "direct"
+    },
+    {
+      "id": 83,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 82
+    },
+    {
+      "id": 84,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If we could please have, Your Honours, 65 ter number 09389 on the screen."
+    },
+    {
+      "id": 85,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Major, do you recognise that as a record of the remarks that you made prior to your testimony in the D. Milosevic case?",
+      "examination": "direct"
+    },
+    {
+      "id": 86,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I did.",
+      "reply_to": 85
+    },
+    {
+      "id": 87,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Again, did you have the opportunity to review that document yesterday?",
+      "examination": "direct"
+    },
+    {
+      "id": 88,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 87
+    },
+    {
+      "id": 89,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are the contents true and correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 90,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if you were asked about those matters again today, would your answers be the same?",
+      "examination": "direct"
+    },
+    {
+      "id": 92,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "They would be the same answers.",
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Major. Your Honours, could we please tender that as an exhibit also."
+    },
+    {
+      "id": 94,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It's admitted. May it please be given an exhibit number."
+    },
+    {
+      "id": 95,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P482."
+    },
+    {
+      "id": 96,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, if I may be permitted, I have a short summary of the testimony and remarks contained in that statement which I'd like to read into the record at this stage."
+    },
+    {
+      "id": 97,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "You may."
+    },
+    {
+      "id": 98,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. Major Overgard was posted to Sarajevo as a United Nations Military Observer, UNMO, during the period from late October 1994 to 1 May, 1995. After an initial posting for around ten days and an area held by VRS forces, he was posted to Hrasnica within territory held by the army of Bosnia and Herzegovina. He remained there until 1 May, 1995. During his time in Hrasnica, Major Overgard and his team investigated many shelling and sniping incidents. During his time there, there were casualties almost every day, most of them civilian. The greatest casualties occurred during November and December, 1994, and April 1995. Of all the shelling and sniping investigations undertaken by Major Overgard and his team during the six month period in Hrasnica, identified VRS-held territory as the source of fire. Most of the shelling incidents investigated by Major Overgard involved civilian victims. All the incidents of sniping investigated by Major Overgard involved civilian victims. The VRS had mortar positions between Ilidza and Blazuj and in the area of the Lukavica barracks. It was mainly from these two directions that Hrasnica, including the areas of Butmir and Sokolovic were shelled. The centre of Hrasnica was a residential civilian area with no military installations. Sniping from Butmir to came from Ilidza and the Famos factory. There was regular shelling and sniping of civilians using the road by forces of the VRS and Ilidza. There was also a lot of sniping of civilians using a bridge at Butmir by those VRS forces. Major Overgard estimates that during his time in Hrasnica, 30 to 40 civilians were killed as a result of the sniping and shelling incidents he investigated alone. Thank you, Your Honours, and finally there are some matters raised in the 92 ter materials that have been provided which I'd like to ask some questions on to clarify. They fall into two categories. Firstly a number of occasions which I'd like Major Overgard to demonstrate for us on a map; and secondly to clarify some comments he has made about air-bombs."
+    },
+    {
+      "id": 99,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "You may proceed."
+    },
+    {
+      "id": 100,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. I wonder, Your Honours, if we could please have Exhibit P439 up on the screen. And it is map number 8 in the court binder."
+    },
+    {
+      "id": 101,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Major, in your testimony and in your statements, you mention a number of different locations in Sarajevo, locations where you were posted, locations where civilians were targeted by VRS forces, and the location of VRS forces. And what I'd like to do with you is to just identify some of those locations you speak of in your previous testimony, and in your statements, and identify those on this map. What you see here is a map of Sarajevo. What we can do with the technology that we have is to enlarge this map.",
+      "examination": "direct"
+    },
+    {
+      "id": 102,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And Your Honours, if we could just, thank you, enlarge the -- if we could scroll down just a fraction and scroll to the left just a fraction. A little more."
+    },
+    {
+      "id": 103,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "First of all, Major, do you recognise what is shown on the map?",
+      "examination": "direct"
+    },
+    {
+      "id": 104,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it's from the airport and south Hrasnica area in the foot of Igman mountain.",
+      "reply_to": 103
+    },
+    {
+      "id": 105,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. First of all the airport that you just mentioned which is referred to in your statement, is that -- I wonder if Mr. Usher -- Madam Usher, if we could provide the Major with the electronic pen. If you could just draw a line along the runway of the airport, please?",
+      "examination": "direct"
+    },
+    {
+      "id": 106,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 105
+    },
+    {
+      "id": 107,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, and maybe mark that with the letter A.",
+      "examination": "direct"
+    },
+    {
+      "id": 108,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 107
+    },
+    {
+      "id": 109,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you make that A a little bit clearer.",
+      "examination": "direct"
+    },
+    {
+      "id": 110,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 109
+    },
+    {
+      "id": 111,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Now, first of all, you mentioned that your -- when you first arrived in Sarajevo, Major, you were posted in VRS territory at a location known to UNMOs as Sierra Whiskey 1?",
+      "examination": "direct"
+    },
+    {
+      "id": 112,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 111
+    },
+    {
+      "id": 113,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you mark on that map where Sierra Whiskey 1 was?",
+      "examination": "direct"
+    },
+    {
+      "id": 114,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "If I'm correct I believe it was in this area they had a team location.",
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Could you mark that please with SW1.",
+      "examination": "direct"
+    },
+    {
+      "id": 116,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. You say in your testimony that you were there for a period of ten days or so before you were moved to a second location, Sierra Sierra 2?",
+      "examination": "direct"
+    },
+    {
+      "id": 118,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you mark, please, for us where Sierra Sierra 2 was?",
+      "examination": "direct"
+    },
+    {
+      "id": 120,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "River comes down, okay, so here.",
+      "reply_to": 119
+    },
+    {
+      "id": 121,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the settlement in which we see Sierra Sierra 2, is that Hrasnica?",
+      "examination": "direct"
+    },
+    {
+      "id": 122,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 121
+    },
+    {
+      "id": 123,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Thank you. Hrasnica was territory held by the ABiH?",
+      "examination": "direct"
+    },
+    {
+      "id": 124,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 123
+    },
+    {
+      "id": 125,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the area you've marked as Sierra Whiskey 1 was territory held by the VRS; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 126,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it was.",
+      "reply_to": 125
+    },
+    {
+      "id": 127,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, could we first produce that marked map as a Prosecution exhibit."
+    },
+    {
+      "id": 128,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "The map is admitted. May it please be given an exhibit number."
+    },
+    {
+      "id": 129,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P440 [sic]."
+    },
+    {
+      "id": 130,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 131,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. Thank you, Madam Registrar. Sorry the exhibit number? 440."
+    },
+    {
+      "id": 132,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is 440 or 483."
+    },
+    {
+      "id": 133,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "It's 483, I apologise, Your Honours."
+    },
+    {
+      "id": 134,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 135,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Could we please go back to a blank version of the map which is P439, Your Honours."
+    },
+    {
+      "id": 136,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Major, you then mention a number of areas where civilians were targeted or at least shelled and sniped by VRS forces. The first of those that I'd like to talk about is the Igman Road. Can you draw a line for us please, along the Igman Road?",
+      "examination": "direct"
+    },
+    {
+      "id": 137,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "The road comes here.",
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is there an area along that road that was more susceptible to shelling and sniping than any other part of the road?",
+      "examination": "direct"
+    },
+    {
+      "id": 139,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, the lower part here, you can see from this big turn up here and down longwards, there were direct missile contacts to the Ilidza area there was heavy shelling, sniping, and shooting to that area.",
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Would you please mark that line with IR.",
+      "examination": "direct"
+    },
+    {
+      "id": 141,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks] Okay.",
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And is this the road that you also refer to in your testimony or statements as \"the blue road\" or the \"convoy road\"?",
+      "examination": "direct"
+    },
+    {
+      "id": 143,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it is.",
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also describe in addition to Hrasnica being shelled and sniped, an area called Butmir?",
+      "examination": "direct"
+    },
+    {
+      "id": 145,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you see that on the map?",
+      "examination": "direct"
+    },
+    {
+      "id": 147,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Has to be, it's a bit here, so it has to be this area here.",
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Could you mark that with a B, please.",
+      "examination": "direct"
+    },
+    {
+      "id": 149,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 148
+    },
+    {
+      "id": 150,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You talk about the bridge and civilians being shot on the bridge as they entered Sarajevo. Can you see the bridge on the map?",
+      "examination": "direct"
+    },
+    {
+      "id": 151,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe the bridge is the one marked here.",
+      "reply_to": 150
+    },
+    {
+      "id": 152,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 153,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also mention an area that was targeted called Sokolovic?",
+      "examination": "direct"
+    },
+    {
+      "id": 155,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you see that on the map?",
+      "examination": "direct"
+    },
+    {
+      "id": 157,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think it's more to the right. I'm not sure anymore about the precise location of Sokolovic.",
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you say to the right, to the right of where?",
+      "examination": "direct"
+    },
+    {
+      "id": 159,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "The right on the map. The right on the side of the airport.",
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "To the right of the airport at some point?",
+      "examination": "direct"
+    },
+    {
+      "id": 161,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yeah, yeah.",
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Thank you. Could you circle Hrasnica for us?",
+      "examination": "direct"
+    },
+    {
+      "id": 163,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And maybe put an H next to that.",
+      "examination": "direct"
+    },
+    {
+      "id": 165,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And Your Honours, could we please tender that as a Prosecution exhibit."
+    },
+    {
+      "id": 167,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It's so admitted. May it please be given an exhibit number."
+    },
+    {
+      "id": 168,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that is Exhibit P484."
+    },
+    {
+      "id": 169,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 170,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. Thank you, Madam Registrar. And to a blank version of the map one more time, please. P439."
+    },
+    {
+      "id": 171,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "This time, Major, I want to talk about the VRS positions that you referred to in your testimony and in your statements. Firstly, you describe the source of a lot of the shelling and sniping as being Ilidza. Can you mark Ilidza for us on that map?",
+      "examination": "direct"
+    },
+    {
+      "id": 172,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 171
+    },
+    {
+      "id": 173,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. You also describe an area called Blazuj.",
+      "examination": "direct"
+    },
+    {
+      "id": 174,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 173
+    },
+    {
+      "id": 175,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do we see that on the map as well?",
+      "examination": "direct"
+    },
+    {
+      "id": 176,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "We can say Blazuj is this area here, where the team location was for Sierra Whiskey 1.",
+      "reply_to": 175
+    },
+    {
+      "id": 177,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. You also describe some sniping as coming from the Famos factory, or the area of the Famos factory?",
+      "examination": "direct"
+    },
+    {
+      "id": 178,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it was this area.",
+      "reply_to": 177
+    },
+    {
+      "id": 179,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is the Famos factory actually that collection of dark buildings?",
+      "examination": "direct"
+    },
+    {
+      "id": 180,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 179
+    },
+    {
+      "id": 181,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "It is?",
+      "examination": "direct"
+    },
+    {
+      "id": 182,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 181
+    },
+    {
+      "id": 183,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You mention also firing from the Lukavica barracks?",
+      "examination": "direct"
+    },
+    {
+      "id": 184,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 183
+    },
+    {
+      "id": 185,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do we see those on the map, or do we need to move the map?",
+      "examination": "direct"
+    },
+    {
+      "id": 186,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "They are somewhere in this area. I do not remember the exact position.",
+      "reply_to": 185
+    },
+    {
+      "id": 187,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Could you -- we'll need to mark those so that we can refer to those later. Could you please put an LB next to that line that you've just drawn?",
+      "examination": "direct"
+    },
+    {
+      "id": 188,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 187
+    },
+    {
+      "id": 189,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you please put an F next to the marking around the Famos factory?",
+      "examination": "direct"
+    },
+    {
+      "id": 190,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 189
+    },
+    {
+      "id": 191,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you please put an I around the marking you've drawn to Ilidza?",
+      "examination": "direct"
+    },
+    {
+      "id": 192,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 191
+    },
+    {
+      "id": 193,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And a B please around Blazuj. Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 194,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 193
+    },
+    {
+      "id": 195,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And, Your Honours, can we please tender that map as a Prosecution exhibit."
+    },
+    {
+      "id": 196,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is admitted. May it please be given an exhibit number."
+    },
+    {
+      "id": 197,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours that will be Exhibit P485."
+    },
+    {
+      "id": 198,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 199,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Madam Registrar."
+    },
+    {
+      "id": 200,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Finally, Major, during your testimony in Dragomir Milosevic, you spoke of modified air-bombs. Air-bombs with rocket motors attached to them that were used by the VRS. Firstly, can you tell us which forces or from where, which VRS forces used those air-bombs?",
+      "examination": "direct"
+    },
+    {
+      "id": 201,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I experienced one of these bombs during my time in Hrasnica, and it came from Ilidza and into a town 300 metres from our accommodation in Hrasnica.",
+      "reply_to": 200
+    },
+    {
+      "id": 202,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Thank you, Major, those are all the question that I have for you at this stage. My learned friend for the Defence may have some questions for you if you kindly wait there.",
+      "examination": "direct"
+    },
+    {
+      "id": 203,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. Mr. Thomas. Yes, Mr. Lukic."
+    },
+    {
+      "id": 204,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Good morning, Mr. Overgard. My name is Novak Lukic, and I am the Defence counsel for Mr. Perisic; and on behalf of his Defence now, I will put some questions to you. First of all, I'd like to ask you about your service and what kind of jobs you did while you were in Sarajevo. If I understood correctly, you were part of the UNMO team in Sarajevo in charge of investigating and establishing the sites where missiles fell including infantry weapons and air-bombs, modified air-bombs; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 205,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I can say also mortars, mortar fire, artillery. Missiles are, you can say, kind of guided missile, and all the rest are bombs.",
+      "reply_to": 204
+    },
+    {
+      "id": 206,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Earlier you attended a three week course in Finland for these -- to prepare for these activities; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 207,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 206
+    },
+    {
+      "id": 208,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in the course among others, you learned about the analysis of the matters or issues that you were later to carry out or conduct, and this included the effects or consequences or impacts of these projectiles; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 209,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 208
+    },
+    {
+      "id": 210,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Before this course during your military service, you had never been involved in criminal investigations, as it were, if I may put it in general terms?",
+      "examination": "cross"
+    },
+    {
+      "id": 211,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 210
+    },
+    {
+      "id": 212,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you arrived in the former Yugoslavia, you spent a few days in Zagreb to begin with, where you also attended a course about -- for about six days, but this course did not relate to this particular area of investigation; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 213,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 212
+    },
+    {
+      "id": 214,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall what type of instruments did you have at your disposal when you would arrive at a site to investigate an incident?",
+      "examination": "cross"
+    },
+    {
+      "id": 215,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Mostly we always had the compass to give the exact direction where we believe the mortar or the artillery piece came from. It is a summary of what you find when what angle hits the ground with, which side of the crater the splints have gone into the ground, and you can find out from where it fired.",
+      "reply_to": 214
+    },
+    {
+      "id": 216,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "As a layperson, I'd like to ask you this, is there any particular instrument that can be used to establish the angle from which a projectile or a shell is arriving?",
+      "examination": "cross"
+    },
+    {
+      "id": 217,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Not as I know that there are anything to give exact position, but you can give a direction and from the angle also if you are very good at it, find what distance approximately it's fired from.",
+      "reply_to": 216
+    },
+    {
+      "id": 218,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you tell us on the basis of what you established the distance from which the shell was fired?",
+      "examination": "cross"
+    },
+    {
+      "id": 219,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I can't give the exact distance. I only in my reports pointed at directions, and I never had the education to find correct distance.",
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was there anyone on your team who was an expert on determining exactly the distance and not just the direction?",
+      "examination": "cross"
+    },
+    {
+      "id": 221,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you decided on the direction that you supposed that that was where the projectile had come from, this was just in general terms. You could never establish with any kind of precision where it exactly came from; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 223,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct. If you are not hearing outgoing bang, from that when it lands, you can say from where, but that was very seldom.",
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "For my better understanding, could you just explain to us what was more seldom, was it more seldom that you could see where a projectile had been fired from; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 225,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Very seldom that we heard the outgoing, you could say bang then and then could also identify a landing, an explosion from an artillery piece or a mortar piece. But it happened when we was close to the confrontation line against Ilidza, and we could hear from the hill-side behind the barracks in Ilidza; and we could hear come from there, and then it landed somewhere inside our AOR. And AOR is area of responsibility.",
+      "reply_to": 224
+    },
+    {
+      "id": 226,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were frequently on site for these investigations together with members of the local authorities, primarily the police, and I mean the authorities of the Republic of Bosnia-Herzegovina; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 227,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "We had also -- we worked together also with them but we did our investigation, they did theirs, there were no cooperation but they were given our conclusions and we always two UNMOs doing the investigation together so there should be -- should not be any misunderstandings.",
+      "reply_to": 226
+    },
+    {
+      "id": 228,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "My question was not whether you worked together, but whether you were on site at the same time, whether you could observe how they did their job, whether they were there at the same time? Just that, yes or no?",
+      "examination": "cross"
+    },
+    {
+      "id": 229,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 228
+    },
+    {
+      "id": 230,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did the members of those teams who conducted investigations have some instruments that you did not have in their investigations?",
+      "examination": "cross"
+    },
+    {
+      "id": 231,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 230
+    },
+    {
+      "id": 232,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did they ever complain to you about your lack of expertise, perhaps?",
+      "examination": "cross"
+    },
+    {
+      "id": 233,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Never.",
+      "reply_to": 232
+    },
+    {
+      "id": 234,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You wanted to offer them some expert assistance because you felt that they were not as well trained as you were; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 235,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, we did not offer them assistance. We gave them the results of our investigation.",
+      "reply_to": 234
+    },
+    {
+      "id": 236,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you thought that among them, there were also people who were policemen, not necessarily professional, not necessarily professional policemen, but people who had just been put through a course for policemen?",
+      "examination": "cross"
+    },
+    {
+      "id": 237,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's correct. We found that.",
+      "reply_to": 236
+    },
+    {
+      "id": 238,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you agree with me, Mr. Overgard, that the most reliable method in conducting an investigation properly, regardless of what the cause of the accident is, is to leave everything as it is until the sight can be thoroughly reviewed and observed?",
+      "examination": "cross"
+    },
+    {
+      "id": 239,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yeah, can't do too much damage to a crater from an artillery piece or a mortar. You are just doing the observations. We might also find the tail of the artillery piece in the crater, but that's all.",
+      "reply_to": 238
+    },
+    {
+      "id": 240,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is crater analysis the only way that you can determine where a projectile had come from, the direction?",
+      "examination": "cross"
+    },
+    {
+      "id": 241,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, when it comes to artillery mortar firing, that's the only thing.",
+      "reply_to": 240
+    },
+    {
+      "id": 242,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it relevant in determining the direction whether a projectile had hit a hard surface or the ground or a wall or some other object?",
+      "examination": "cross"
+    },
+    {
+      "id": 243,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, of course. If it hits a wall, you can only see the hole, and we will not have anything to investigate from to determine where it come from. It has to hit the ground whether it is hard ground or soft ground, it's real not as long as the detonation has been there when it hits, we will find a way.",
+      "reply_to": 242
+    },
+    {
+      "id": 244,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So if I understood correctly, the direction can only be determined if the crater is in the ground regardless of what type of surface it is?",
+      "examination": "cross"
+    },
+    {
+      "id": 245,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that is for sure. If it hits a roof, for instance, it might not detonate; and from the angle when it stops in the roof or it goes into some furniture inside, you can also find the direction without -- not on the ground, but that is when it's detonation has been there, it is hard to find if you are not on the ground.",
+      "reply_to": 244
+    },
+    {
+      "id": 246,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also took advantage of eye-witnesses who would provide you information about where they think the projectile had come from?",
+      "examination": "cross"
+    },
+    {
+      "id": 247,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yeah, we took statements from witnesses. Sometimes it was, I can't give you numbers, but there's been a few occasions we had witnesses telling us from where it was fired. Especially is that when it comes to sniping we had to rely on witnesses because we had to know what direction the victim faced when it was hit, then to find out on the body from where the shot has been fired.",
+      "reply_to": 246
+    },
+    {
+      "id": 248,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you remember, speaking of the sniping incidents that you investigated, whether you -- when you arrived on site whether there were dead bodies there or whether you only could look at the dead bodies in the morgue?",
+      "examination": "cross"
+    },
+    {
+      "id": 249,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "We had both -- incidents of both. We have sometimes we came early enough to see the bodies before they were transported to the morgue, but we never inspected them before they came to the morgue.",
+      "reply_to": 248
+    },
+    {
+      "id": 250,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I suppose that witness statements were interpreted to you by the local interpreters who were in your team; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 251,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, we had local interpreters in teams that always followed us.",
+      "reply_to": 250
+    },
+    {
+      "id": 252,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "While you were on the Sarajevo battle-field, did you ever -- were you actually ever on site at the moment when the incident occurred, you personally?",
+      "examination": "cross"
+    },
+    {
+      "id": 253,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, not as I remember now.",
+      "reply_to": 252
+    },
+    {
+      "id": 254,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So, when you arrived on site, the witnesses would introduce themselves and then you would take statements from them; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 255,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. If we -- we asked around if anybody saw what happened, and we got witnesses in.",
+      "reply_to": 254
+    },
+    {
+      "id": 256,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we now please pull up the same map on the screen. I believe it's P439, the blank exhibit. Could we have that on the screen. And especially could we have the Hrasnica area blown up. A bit more, please. Very well, thank you."
+    },
+    {
+      "id": 257,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you please mark the building where your base was in Hrasnica, if you could just give us a general idea or would you like this to be blown up a bit more?",
+      "examination": "cross"
+    },
+    {
+      "id": 258,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think I'll manage. Let me see. We were somewhere around here. Just in the [indiscernible].",
+      "reply_to": 257
+    },
+    {
+      "id": 259,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you please put a number 1 next to this mark?",
+      "examination": "cross"
+    },
+    {
+      "id": 260,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 259
+    },
+    {
+      "id": 261,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "We also know that the command post of the 4th Motorised Brigade of the BH Army was in Hrasnica as well. Could you please show us if you can where that location was?",
+      "examination": "cross"
+    },
+    {
+      "id": 262,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "They had a location, a HQ in a big building, I believe it is this one.",
+      "reply_to": 261
+    },
+    {
+      "id": 263,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you please mark that with a 2. Number 2.",
+      "examination": "cross"
+    },
+    {
+      "id": 264,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 263
+    },
+    {
+      "id": 265,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also know that there was another command post there of a BH Army unit of a lower level, which was also in Hrasnica; correct? Would you please mark that spot as well?",
+      "examination": "cross"
+    },
+    {
+      "id": 266,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "There was a company in the area of the confrontation line have to be in somewhere here in this area here.",
+      "reply_to": 265
+    },
+    {
+      "id": 267,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you please mark that with a 3.",
+      "examination": "cross"
+    },
+    {
+      "id": 268,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 267
+    },
+    {
+      "id": 269,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know that there was -- that the command post of the 155th Motorised Brigade of the BH Army was in Butmir, which was not too far from your location?",
+      "examination": "cross"
+    },
+    {
+      "id": 270,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I know that they said that they should be there, but I never was there myself.",
+      "reply_to": 269
+    },
+    {
+      "id": 271,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The locations that you marked, are those institutions, as it were, the HQs, they were on civilian premises; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 272,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's correct.",
+      "reply_to": 271
+    },
+    {
+      "id": 273,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In view of the fact that you had meetings with a commander of the 4th Motorised Brigade, did you know or do you know now how many men that brigade numbered?",
+      "examination": "cross"
+    },
+    {
+      "id": 274,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't remember now.",
+      "reply_to": 273
+    },
+    {
+      "id": 275,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I were to tell you that it numbered anywhere between 3.000 to 3.500 men, would that help jar your memory?",
+      "examination": "cross"
+    },
+    {
+      "id": 276,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, it will not because I never saw so many soldiers in Hrasnica.",
+      "reply_to": 275
+    },
+    {
+      "id": 277,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 278,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I would please like this map to be entered into evidence."
+    },
+    {
+      "id": 279,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is admitted into evidence. May it please be given an exhibit number."
+    },
+    {
+      "id": 280,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit D33."
+    },
+    {
+      "id": 281,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 282,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 283,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "During your work did you have any contacts with the corps HQ in Sarajevo, with some man from the command of that corps?",
+      "examination": "cross"
+    },
+    {
+      "id": 284,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't remember now.",
+      "reply_to": 283
+    },
+    {
+      "id": 285,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "A few moments ago, at the request of my learned colleague Mr. Thomas, you marked the road leading to Mount Igman. Do you know whether that road was protected by BH Army units?",
+      "examination": "cross"
+    },
+    {
+      "id": 286,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "There were some positions and -- in that area, but you see where I marked the area 3, that was the area where they had some positions and there was some fire extension against Ilidza area. That was the only position. The road up to Igman, I drove it a lot of times myself, and never had -- there were no positions protecting the road. It's late in 1995, the French brigade had a position in the lower part of the road.",
+      "reply_to": 285
+    },
+    {
+      "id": 287,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you agree with me that Mount Igman was under the control of the BH Army during the conflict?",
+      "examination": "cross"
+    },
+    {
+      "id": 288,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 287
+    },
+    {
+      "id": 289,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And would you also agree that the Igman Road was a line that connected Sarajevo to the other parts of the territory that were under the control of BH?",
+      "examination": "cross"
+    },
+    {
+      "id": 290,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "It might be so, yes, they got their delivery of food and so on coming down that road. It came to Hrasnica and somehow they managed to get it into Sarajevo.",
+      "reply_to": 289
+    },
+    {
+      "id": 291,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Everything that came from Igman went via Hrasnica, right, towards the parts of Sarajevo that were under the control of the BH Army; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 292,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I have to believe that, yes.",
+      "reply_to": 291
+    },
+    {
+      "id": 293,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also know that all military assistance and aid, military equipment, personnel arrived only along that road to Sarajevo to meet the needs of the BH Army; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 294,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think if they had equipment, people, they were walking down the mountain all over, I believe.",
+      "reply_to": 293
+    },
+    {
+      "id": 295,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And then again went via Hrasnica; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 296,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 295
+    },
+    {
+      "id": 297,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we please still have this map here. Another copy, because I'd like to ask the witness to mark something else, if he remembers, while the map is still there."
+    },
+    {
+      "id": 298,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "At one point you saw a tunnel being dug by the Butmir airport. You saw that with your very own eyes. Could that be marked on this map, the place where you saw the tunnel being dug?",
+      "examination": "cross"
+    },
+    {
+      "id": 299,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yeah. I just can give a general area and had to be somewhere here. I don't know the exact position anymore.",
+      "reply_to": 298
+    },
+    {
+      "id": 300,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you please place number 1 there.",
+      "examination": "cross"
+    },
+    {
+      "id": 301,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 300
+    },
+    {
+      "id": 302,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you saw that something was being dug there at that locality, the local authorities told you that they were digging something there for water supply purposes; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 303,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, there was some explanation; it could not be correct, so we just waited when inspector regularly to see what was being done there. But we were not, never allowed to stop in that area.",
+      "reply_to": 302
+    },
+    {
+      "id": 304,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "They did not let you stop in that area?",
+      "examination": "cross"
+    },
+    {
+      "id": 305,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, they didn't.",
+      "reply_to": 304
+    },
+    {
+      "id": 306,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When I say \"they\" --",
+      "examination": "cross"
+    },
+    {
+      "id": 307,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "So the -- there was people in civilian clothes mostly doing the work there, but they didn't want us to stop.",
+      "reply_to": 306
+    },
+    {
+      "id": 308,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When I say \"they,\" I mean the authorities of the Federation of Bosnia-Herzegovina; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 309,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 308
+    },
+    {
+      "id": 310,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Later on you heard that a tunnel had been dug underneath the airport and that that was the route that was used for bringing people and equipment to the area that was under the control of the BH Army; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 311,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 310
+    },
+    {
+      "id": 312,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "While we still have map there, so that we don't have to go back to that again, do you see Kovaci on the map? Could you please mark that with a number 2, or would you like us to zoom in on it?",
+      "examination": "cross"
+    },
+    {
+      "id": 313,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "A bit more in.",
+      "reply_to": 312
+    },
+    {
+      "id": 314,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It's going to delete."
+    },
+    {
+      "id": 315,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, yes, if this map will be admitted into evidence, then I will ask for it to be enlarged."
+    },
+    {
+      "id": 316,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. Then that map is admitted into evidence. May it please be given an exhibit number."
+    },
+    {
+      "id": 317,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, this marked map will be Exhibit D35, and I would like to state for a record that I stated a different number for the previous document, that should be D35 exhibit."
+    },
+    {
+      "id": 318,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "I don't quite understand what you are saying, Madam Registrar."
+    },
+    {
+      "id": 319,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "The Exhibit number assigned to the previous document tendered by Mr. Lukic was given a number D33, where instead, it should have been given a number Exhibit D34. And the current map will then be Exhibit D35."
+    },
+    {
+      "id": 320,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you so much."
+    },
+    {
+      "id": 321,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Now I would like to have the same map, but could it please be enlarged a bit, rather the Hrasnica area. The left hand part of the map, that's what I'd like to deal with now. Could it go up a bit -- no, it's fine, thanks."
+    },
+    {
+      "id": 322,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would just like us to mark two more locations Kovaci or rather the place where you saw the BH Army mortars, I'd like to ask you something about that, so could you show us where that was, where the four mortars were?",
+      "examination": "cross"
+    },
+    {
+      "id": 323,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, there were some houses close, it has to be in this area here. Doesn't look ...",
+      "reply_to": 322
+    },
+    {
+      "id": 324,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I think that this will do.",
+      "examination": "cross"
+    },
+    {
+      "id": 325,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "In this area here somewhere.",
+      "reply_to": 324
+    },
+    {
+      "id": 326,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you please put an M there.",
+      "examination": "cross"
+    },
+    {
+      "id": 327,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 326
+    },
+    {
+      "id": 328,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Is that the area called Kovaci?"
+    },
+    {
+      "id": 329,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, Your Honours."
+    },
+    {
+      "id": 330,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "And the M stands for?"
+    },
+    {
+      "id": 331,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Now I would like to put a question to the witness. I thought well, we were dealing with another topic but now I'd like to put this question."
+    },
+    {
+      "id": 332,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "At one point when you toured the area, you saw four mortars of the BH Army at this location; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 333,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. They were after we had confronted the brigade with it, they were removed.",
+      "reply_to": 332
+    },
+    {
+      "id": 334,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Now that we are dealing with this map, let me ask you about another incident too. The place where you saw a 17-year-old girl being hit by sniper fire in Sokolovic, can that be shown on this map or do we need another map?",
+      "examination": "cross"
+    },
+    {
+      "id": 335,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think I can see that, that was somewhere along this road here, in this particular -- in this area, I believe it was.",
+      "reply_to": 334
+    },
+    {
+      "id": 336,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you please put the letter S there.",
+      "examination": "cross"
+    },
+    {
+      "id": 337,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 336
+    },
+    {
+      "id": 338,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now I'm going to ask you about that incident specifically. You saw this girl walking down the road. You were in your vehicle and you went on; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 339,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 338
+    },
+    {
+      "id": 340,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And then after about an hour, an inspector of the BH Army police asked you to come to the morgue, and that's where you recognised the girl that you had seen previously on the road. You actually recognised her body; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 341,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 340
+    },
+    {
+      "id": 342,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You did not see the actual moment when she was hit, it was subsequently that you saw her corpse at the morgue?",
+      "examination": "cross"
+    },
+    {
+      "id": 343,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 342
+    },
+    {
+      "id": 344,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "She was hit -- or rather, that was concluded on the basis of the postmortem that was done afterwards. The exit/entry wound was so big that a conclusion drawn was that a 12.7-millimetre bullet had been used, which was rather unusual for a sniper, wasn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 345,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "It was. But there was some heavy firing into that area that day.",
+      "reply_to": 344
+    },
+    {
+      "id": 346,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The fire that you heard that day at that location, did it come from both sides, if I can put it that way? Did you hear it from different locations? Or was it that you had just heard that there had been firing? Did you personally hear any gun-fire?",
+      "examination": "cross"
+    },
+    {
+      "id": 347,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that day I heard the firing. I heard that it was a heavier weapon than a normal machine-gun, so it had to be something like 12.7, 14.6, whatever; and the fire came from east of the airport area.",
+      "reply_to": 346
+    },
+    {
+      "id": 348,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "At that time when you were touring the locations at Igman, you saw these same weapons being used by the BH Army; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 349,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I saw one 12.7 sniper gun late that winter, yes.",
+      "reply_to": 348
+    },
+    {
+      "id": 350,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just one more question in relation to this incident. As for the location from which the bullet came, the one that hit the girl, you established that on the basis of the wounds in her body and also the direction of movement that you saw before that; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 351,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 350
+    },
+    {
+      "id": 352,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "At any rate, you don't know whether in the meantime she turned around and started walking the other way, you have no way of concluding what the situation actually was; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 353,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct. You just had to assume that she was still walking somewhere and had -- she will not be out there walking for no reasons because there was firing in the area.",
+      "reply_to": 352
+    },
+    {
+      "id": 354,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now I'm going to put a few questions to you in relation to the shelling. From whom did you receive information in terms of you having to go to a particular location to carry out an onsite investigation related to shelling?",
+      "examination": "cross"
+    },
+    {
+      "id": 355,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, we could get information from the civilian police, or if we heard a detonation, we went on site on our own in initiative.",
+      "reply_to": 354
+    },
+    {
+      "id": 356,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I read in your statement that for the most part you went out with an investigating judge. Was that a regular thing? Would an investigating judge always be there when you would come, or would you go together, or what happened?",
+      "examination": "cross"
+    },
+    {
+      "id": 357,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, with some occasions, she was with us. It was especially the days after the bomb that exploded, and then she was present in the area; so she followed everything we investigated on that side for that incident.",
+      "reply_to": 356
+    },
+    {
+      "id": 358,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "A general question in relation to the incidents that you dealt with. Generally speaking, from the moment when you would find out that an incident had occurred, how many time would elapse until you would actually arrive at the actual site? Can you give us any idea about the time involved?",
+      "examination": "cross"
+    },
+    {
+      "id": 359,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "It all depended on if it still was shelling going on or it was just a single detonation. If there was a single detonation, you could be there within ten minutes. If there was shelling going on, we had to wait until that had stopped. And then there was a lot of incidents or detonation we never saw because we couldn't go to the area.",
+      "reply_to": 358
+    },
+    {
+      "id": 360,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just one more question, and then I think I will have completed this particular line of questioning. While you were working on onsite investigation, there were never any representatives of the Bosnian Serb authorities in any sense, the Army of Republika Srpska, an investigating judge, the police, no one; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 361,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Not in Hrasnica area, no. As long as I was in the team in Hrasnica.",
+      "reply_to": 360
+    },
+    {
+      "id": 362,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I think that we can take the break now, Your Honours. And I would like to tender this document into evidence, the map that hasn't been admitted yet."
+    },
+    {
+      "id": 363,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "The map is admitted into evidence. May it please be given an exhibit number."
+    },
+    {
+      "id": 364,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit D36."
+    },
+    {
+      "id": 365,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you so much. And on that note, can we take a break and come back at quarter to 11.00. Court adjourned."
+    },
+    {
+      "id": 366,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 367,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Overgard, when you wanted to tour the frontline, if I can put it that way, you had to address the military authorities and they had to make it possible for you to go to these more dangerous zones; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 368,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "They wanted us to do that, yes. Although, investigations done close to the front line we also did that on our own initiative.",
+      "reply_to": 367
+    },
+    {
+      "id": 369,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "There were also cases when you were told that you shouldn't go, and then you didn't go to visit certain zones; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 370,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 369
+    },
+    {
+      "id": 371,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Tell me, when you toured the frontline, that's what I'm going to call it, but let me put it this way, did you go close to the line of separation or the frontline of the BH Army?",
+      "examination": "cross"
+    },
+    {
+      "id": 372,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, a couple of times I was there.",
+      "reply_to": 371
+    },
+    {
+      "id": 373,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "During your stay in Sarajevo and in Hrasnica, did you notice that the line moved in any way --",
+      "examination": "cross"
+    },
+    {
+      "id": 374,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 373
+    },
+    {
+      "id": 375,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "-- to anyone's advantage?",
+      "examination": "cross"
+    },
+    {
+      "id": 376,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 375
+    },
+    {
+      "id": 377,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So we can conclude that it was stable, the line of separation; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 378,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 377
+    },
+    {
+      "id": 379,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I'm going to put a few more questions to you, with regard to something completely different. You said that once you had an onsite investigation in relation to an air-bomb. I'm not going to ask you about the incident itself, but I'm going to ask but the procedure involved. I would be interested in hearing about your relationship with the Bosnian authorities on that occasion. So you can just give me yes or no answers whether I understood the information provided by you correctly with regard to that incident. On that day you heard a loud explosion in the morning when you were still at your base; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 380,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 379
+    },
+    {
+      "id": 381,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Then you tried to contact the local police and you even went to the police station; however, you didn't find anyone there?",
+      "examination": "cross"
+    },
+    {
+      "id": 382,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 381
+    },
+    {
+      "id": 383,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Immediately afterwards, you went to the scene, and among the debris, you noticed legs and feet belonging to a man who was wearing camouflage uniform and boots; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 384,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct.",
+      "reply_to": 383
+    },
+    {
+      "id": 385,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you discovered that on the spot, then the commander of the 4th Motorised Brigade showed up; and he asked you to go back to your base, and he removed you from the scene; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 386,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Right.",
+      "reply_to": 385
+    },
+    {
+      "id": 387,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you would return to the base, and you stayed there until the late afternoon in the building at your base; and the BH Army put three soldiers at the entrance into the building, and they did not let you leave the building; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 388,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct.",
+      "reply_to": 387
+    },
+    {
+      "id": 389,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In the meantime, two members of the French battalion came to see what was going on, and they were not allowed to leave your base either; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 390,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right.",
+      "reply_to": 389
+    },
+    {
+      "id": 391,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, may I just interrupt you and find out something. I notice that you are asking questions on the redacted part of the tendered statement. You are doing that deliberately and purposefully. Are you opening the redaction and saying that we can also have sight of up redacted version because we have a copy of it, but I notice that what was tendered by the Prosecution, this part is redacted."
+    },
+    {
+      "id": 392,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] That's correct, Your Honour. All of these questions pertain to his testimony and, indeed, his witness statement, the part that is redacted too. I uploaded the unredacted part too in e-court. So if the witness challenges something then I'm going to show you a certain page -- show him, rather, the page of the transcript involved. I just wanted to go through this entire procedure with him without going into the entire testimony with regard to this incident because it's rather lengthy. However, it's a public transcript. His entire testimony is. I can give you page references in respect of the questions that I'm putting to the witness so that you would have that for your own information."
+    },
+    {
+      "id": 393,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "I don't have any quarrel with you doing what you are doing, all I -- I'm -- the reason I'm asking the question is whether the unredacted version of the statement should now be tendered?"
+    },
+    {
+      "id": 394,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] No, no. I don't want it to be tendered. I just want to get to some facts that I'd like to get through his answers. I don't want the statement or parts of the transcript in the evidence. However, if there are some contradictions, in terms of the answers he is giving me now, then I'm going to show him parts of his previous testimony. That's the way we handled it before too. If there's anything contradictory then I'm going to put a particular transcript page to him or a page of a statement and ask him about that."
+    },
+    {
+      "id": 395,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. Lukic. You may proceed."
+    },
+    {
+      "id": 396,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you, too, Your Honour."
+    },
+    {
+      "id": 397,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So I'll go back to the chronology. Sometime in the late afternoon you were allowed to go back to the scene because your liaison officer had contacted the BH authorities, and late in the afternoon around 1900 hours you came to the scene once again; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 398,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't remember the exact timings, but late in the evening, yes, or afternoon.",
+      "reply_to": 397
+    },
+    {
+      "id": 399,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "At that time, at the scene you no longer found any trace of the legs and feet with camouflage uniform and boots that you had observed beforehand; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 400,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct.",
+      "reply_to": 399
+    },
+    {
+      "id": 401,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you went to the site itself on those two occasions on that day, that is to say, after the police station first, and then later on in the late afternoon, on the scene you did not find any fragments that could have been helpful to you in terms of reconstructing what had happened?",
+      "examination": "cross"
+    },
+    {
+      "id": 402,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "We found some fragments but we did not know what this was. I believe it was that way.",
+      "reply_to": 401
+    },
+    {
+      "id": 403,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the next morning again the Bosnian authorities did not allow you to go to the scene, you stayed on base until around noon; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 404,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 403
+    },
+    {
+      "id": 405,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Then when you came to the scene, the investigation authorities of the BH side showed you certain fragments and pieces of clothing and so on that were used to reconstruct the incident; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 406,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 405
+    },
+    {
+      "id": 407,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "After that with the inspector, you went to the morgue where you were shown the corpse of a woman and you were told that she was a casualty in that incident; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 408,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 407
+    },
+    {
+      "id": 409,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Another question that I did not find anywhere in the transcript. As for the inspector that took you to the morgue or any other representatives of the BH authorities that you contacted during those days, did you tell them about having seen the traces of the feet in boots that you observed on that day? Did you tell them that you had observed that?",
+      "examination": "cross"
+    },
+    {
+      "id": 410,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe so because I got the explanation that this was a soldier and he was not badly hurt, so he was alive. It would only be one casualty in that bomb.",
+      "reply_to": 409
+    },
+    {
+      "id": 411,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Do you say he was not badly hurt, or --"
+    },
+    {
+      "id": 412,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 413,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Or was he badly hurt?"
+    },
+    {
+      "id": 414,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "He was not badly hurt. He was nearly unharmed."
+    },
+    {
+      "id": 415,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 416,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 417,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did that story sound convincing to you since you had seen the area yourself?",
+      "examination": "cross"
+    },
+    {
+      "id": 418,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I should not speculate in that because he was not there anymore, and I was not able to find out anything more about it. Of course, he could be alive and sound, but I have no evidence one way or the other so we just left that story.",
+      "reply_to": 417
+    },
+    {
+      "id": 419,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm just going to ask you now to explain what it was that you saw, the image that you saw. In the debris, you saw these legs and feet of a man in camouflage uniform wearing boots, that's what you saw on the first day; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 420,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I saw the legs coming out of a lot of stones from the house and this wall that fell down.",
+      "reply_to": 419
+    },
+    {
+      "id": 421,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you saw this, the brigade commander asked that you be removed from the scene; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 422,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "He came -- as I discovered this, he came at the same moment and he wanted us to go back to our accommodation.",
+      "reply_to": 421
+    },
+    {
+      "id": 423,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "To be completely clear, let me ask you, so when you subsequently discussed this with the local authorities they told you that there had been a BH Army soldier there who had been slightly injured; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 424,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, there was a person. They did not mention a soldier especially. But just I saw only was the legs and the camouflage trousers and boots, military boots.",
+      "reply_to": 423
+    },
+    {
+      "id": 425,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Because on page 35, you mention the word \"soldier,\" that the soldier had not been seriously wounded. You said that a few moments ago, that it was a soldier who hadn't been seriously wounded?",
+      "examination": "cross"
+    },
+    {
+      "id": 426,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, you can assume that it was a soldier since he had a uniform and boots, but they referred to it as a person, not badly injured.",
+      "reply_to": 425
+    },
+    {
+      "id": 427,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just another question in relation to this incident and what you yourself saw, and what you were unable to see later on. Were you able to compile a report to your superiors that you had gone to the scene and that you weren't able to remain there because you had a sort of clash with local authorities. Is that something that you mentioned in your report to your superior?",
+      "examination": "cross"
+    },
+    {
+      "id": 428,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe it was mentioned because we were detained in our house.",
+      "reply_to": 427
+    },
+    {
+      "id": 429,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Your Honours, I have no further questions. Thank you Mr. Overgard."
+    },
+    {
+      "id": 430,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much, Mr. Lukic. Any re-examination, Mr. Thomas."
+    },
+    {
+      "id": 431,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, please, Your Honours. Thank you."
+    },
+    {
+      "id": 432,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Could we please have Exhibit D34 on the screen, please, Your Honours."
+    },
+    {
+      "id": 433,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, Major, you recognise this map as one that you marked during the course of your testimony this morning. The number 2, the circle with the number 2, just to refresh your memory, was where you marked the headquarters of the 4th Motorised Brigade of the ABiH.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 434,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 433
+    },
+    {
+      "id": 435,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You want to ask you about those headquarters and the location of those headquarters, and the shelling activity that Hrasnica was subjected to. During your time there, was the premises of the -- or the buildings occupied by the 4th Motorised Brigade the subject of shelling by VRS forces?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 436,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "We never had any investigations in their buildings, no.",
+      "reply_to": 435
+    },
+    {
+      "id": 437,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was there anything like a pattern of shelling focused around that building?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 438,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "The shelling was all over Hrasnica. We had investigations all along in all the areas. Not anything specific where there were soldiers.",
+      "reply_to": 437
+    },
+    {
+      "id": 439,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "If you had -- if those military headquarters were the target, would you have expected a different pattern of shelling?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 440,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I would believe that the shelling will be closer to the specific buildings, yes.",
+      "reply_to": 439
+    },
+    {
+      "id": 441,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was the headquarters of the 4th Motorised Brigade actually in the centre of what we would describe the centre of the settlement, the focus of the town?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 442,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yeah, it was in a big block with the -- in a basement, it was a big house for civilians, it was in the basement on that building.",
+      "reply_to": 441
+    },
+    {
+      "id": 443,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "In the immediate vicinity of the headquarters was there a -- any civilian concentration?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 444,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it was civilians all around in that area, yes.",
+      "reply_to": 443
+    },
+    {
+      "id": 445,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in the other areas of Hrasnica where the shells landed, were there any other such military installations?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 446,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Not to my knowledge.",
+      "reply_to": 445
+    },
+    {
+      "id": 447,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were asked a series of questions about a 17-year-old girl who was shot by snipers, and this was not a part of the information you gave in your statement or testimony which is before this Tribunal as part of your 92 ter package, your evidential package that we already put in. But because you were asked about that, I just want to just go over that a little briefly with you. First of all, can you explain a little -- can you tell Your Honours about this incident?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 448,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I believe we had been into the headquarters in the centre of Sarajevo, me and one other UNMO, and on our way passing the place where they were digging tunnel, we saw this girl, she was walking against the houses. This was along where, you could say along this road where there was no houses, just where we saw her; but then closer to the houses on the end of the road when we came there, there was a lot of shooting, and it was heavy shooting this time. It was not only light machine-gun, it was heavy machine-gun. When we came to accommodation, the local police after awhile they contacted us, and I had, because the other guys were occupied with maintenance and generator and car, I went with the policeman alone to the morgue for that one.",
+      "reply_to": 447
+    },
+    {
+      "id": 449,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, the shooting you describe as going on at the time, was -- was this shooting at the confrontation lines? What sort of shooting was it?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 450,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "It was shooting. And when we protested to our liaison officer in the HQ, we got the answer that they were shooting to get the people away from the area where they were digging.",
+      "reply_to": 449
+    },
+    {
+      "id": 451,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Digging the tunnel?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 452,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yeah.",
+      "reply_to": 451
+    },
+    {
+      "id": 453,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who was shooting?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 454,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "This was from the Serbian side.",
+      "reply_to": 453
+    },
+    {
+      "id": 455,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You spoke of the bullet that killed this girl. Firstly, was she civilian or military?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 456,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "She was civilian definitely.",
+      "reply_to": 455
+    },
+    {
+      "id": 457,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would that have been apparent to anyone who cared to look?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 458,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yeah.",
+      "reply_to": 457
+    },
+    {
+      "id": 459,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said that she was killed using a 12.7-millimetre round, and my learned friend asked you whether you had ever seen such a weapon in the hands of the army of the ABiH, but what I want to ask you is whether the VRS forces had such weapons as well?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 460,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Not as I had seen.",
+      "reply_to": 459
+    },
+    {
+      "id": 461,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm sorry?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 462,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did never see that, as I remember. But for sure when they also had heavier weapons because we found fragments on the convoy road from 30 millimetres and 20 millimetres.",
+      "reply_to": 461
+    },
+    {
+      "id": 463,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. When you say that this girl was shot by the Bosnian/Serb army, where had the shots come from?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 464,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "The shots came from the hill-side west of the air field.",
+      "reply_to": 463
+    },
+    {
+      "id": 465,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "West of the air field?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 466,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yeah.",
+      "reply_to": 465
+    },
+    {
+      "id": 467,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. I wonder --",
+      "examination": "re-direct"
+    },
+    {
+      "id": 468,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Sorry, Lukavica barracks are around there, as I remember. Okay. Show that again. Of course, east of the air field.",
+      "reply_to": 467
+    },
+    {
+      "id": 469,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 470,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Maybe we can have Exhibit D35 on the screen, which is the map that deals with this incident, I think."
+    },
+    {
+      "id": 471,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I think this is the map that deals with that incidents. Do you recall what you marked on the map as being the site of where this girl was killed?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 472,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 471
+    },
+    {
+      "id": 473,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you mark on the map there where you found the source of fire to be?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 474,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Has to be somewhere in here, this area.",
+      "reply_to": 473
+    },
+    {
+      "id": 475,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And who held that territory?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 476,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was Serbian territory.",
+      "reply_to": 475
+    },
+    {
+      "id": 477,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. If you could just mark -- VRS forces?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 478,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yeah.",
+      "reply_to": 477
+    },
+    {
+      "id": 479,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "If you could just put \"VRS\" there, please.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 480,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 479
+    },
+    {
+      "id": 481,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. If that could please be produced as an exhibit."
+    },
+    {
+      "id": 482,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "D35 as marked is admitted as an exhibit. May it please be given an exhibit number."
+    },
+    {
+      "id": 483,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P486."
+    },
+    {
+      "id": 484,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 485,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. If I could just have a brief moment with one of my learned colleagues."
+    },
+    {
+      "id": 486,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "By all means."
+    },
+    {
+      "id": 487,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, you were asked about the occasion where you saw a 12.7-millimetre weapon in the position of the army -- in the position of the ABiH. Where did you see that?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 488,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe it was on Mount Igman. We had just passed a group of soldiers up there.",
+      "reply_to": 487
+    },
+    {
+      "id": 489,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And were all of those soldiers armed with that weapon?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 490,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, that was only one weapon with that one. That was a brand new roaming 12.7 sniper rifle.",
+      "reply_to": 489
+    },
+    {
+      "id": 491,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "From there position, did they have a line of sight into the area where this girl was killed or any part of ABiH-held Sarajevo?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 492,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "They had to be very far up in the hill-side on Mount Igman then, but from that position they did not have -- where I saw the weapon there was not any line of sight.",
+      "reply_to": 491
+    },
+    {
+      "id": 493,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you able to mark on the map that's still on the screen the sort of area where you saw this weapon?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 494,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm not sure where it was anymore. I have to ... but I was on the road, convoy road somewhere.",
+      "reply_to": 493
+    },
+    {
+      "id": 495,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Which we see in the bottom left-hand corner of the map; is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 496,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 495
+    },
+    {
+      "id": 497,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Thank you. Now, we've spoken about the tunnel, and you've spoken about the tunnel. Was the tunnel of strategic significance to the people of ABiH-held Sarajevo?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 498,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "For sure it would be because it would do it a lot more easy to get equipment, food, into Sarajevo pocket.",
+      "reply_to": 497
+    },
+    {
+      "id": 499,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Why did they need to built a tunnel to do that?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 500,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm not sure, but it would do it more easy and more safe to take things into -- to go underground with things than pass the airfield with it.",
+      "reply_to": 499
+    },
+    {
+      "id": 501,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were there more conventional points of entry into Sarajevo that they could have used?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 502,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know. I think the best way for all supplies was to come down convoy road into Hrasnica area and then from there get it into Sarajevo.",
+      "reply_to": 501
+    },
+    {
+      "id": 503,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Finally, Major, I want to ask you about the mortars that were placed for a period at Kovaci?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 504,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And the map I want to look at is D36, please."
+    },
+    {
+      "id": 505,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, do you recognise that map and the markings you were asked to make during your earlier testimony?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 506,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 505
+    },
+    {
+      "id": 507,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "First of all, to correct myself, I think the circle you drew with an S next to it marked the spot where the 17-year-old girl was shot; is that not a proper recollection of mine?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 508,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 507
+    },
+    {
+      "id": 509,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. But the part I'm interested in is the area you've circled marked with the letter M, presumably for mortars.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 510,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Mm-hmm.",
+      "reply_to": 509
+    },
+    {
+      "id": 511,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You described these four mortars in your statement as 81-millimetre mortars; is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 512,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 511
+    },
+    {
+      "id": 513,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you said that as soon as you discovered that the mortars were positioned there that you made sure they were removed; is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 514,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 513
+    },
+    {
+      "id": 515,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know when that was?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 516,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "The day after we discovered them when we were going up convoy road again, they were removed. So during that evening night.",
+      "reply_to": 515
+    },
+    {
+      "id": 517,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "You didn't have them removed."
+    },
+    {
+      "id": 518,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "No, we complained about them, and they -- BiH forces removed them."
+    },
+    {
+      "id": 519,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Just that line 7 of paragraph 44 suggests that you had them removed, so I just wanted to make sure."
+    },
+    {
+      "id": 520,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "No, we complained about them."
+    },
+    {
+      "id": 521,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you so much."
+    },
+    {
+      "id": 522,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "In terms of trying to place a rough date, was this something that happened early in your time in Hrasnica, or late?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 523,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "I had been there for awhile when we saw that, yes.",
+      "reply_to": 522
+    },
+    {
+      "id": 524,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And after you had made the request to have the mortars removed, was there any sign that they were still there, still being used?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 525,
+      "speaker": "THORBJORN OVERGARD",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, we passed that backyard several times but never saw things like that again.",
+      "reply_to": 524
+    },
+    {
+      "id": 526,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Major, that's all that I have for you. Their Honours may have some questions for you, if you kindly wait there for a moment.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 527,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much, Mr. Thomas. Thank you very much, Mr. Overgard, that concludes your testimony for today and thank you so much for coming and testifying at the Tribunal, you are now excused. You may stand down, and please travel well back home."
+    },
+    {
+      "id": 528,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 529,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. Thomas."
+    },
+    {
+      "id": 530,
+      "speaker": "MR. THOMAS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours. Mr. Cannata will lead the next witness. That concludes the business of myself and Ms. McKenna before Your Honours this morning. If I could please be excused."
+    },
+    {
+      "id": 531,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "You are excused. Mr. Cannata."
+    },
+    {
+      "id": 532,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good morning, Your Honour. With your indulgence, I will switch on to that computer."
+    },
+    {
+      "id": 533,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "You are indulged."
+    },
+    {
+      "id": 534,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you very much. Your Honours, the Prosecution calls Dr. Youssef Hajir."
+    },
+    {
+      "id": 535,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It looks like we have a problem getting witnesses into the courtroom today, Your Honour. I apologise for that."
+    },
+    {
+      "id": 536,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good afternoon, Doctor."
+    },
+    {
+      "id": 537,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Good afternoon."
+    },
+    {
+      "id": 538,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "May you please make the declaration."
+    },
+    {
+      "id": 539,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Oh, okay."
+    },
+    {
+      "id": 540,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "She will help you."
+    },
+    {
+      "id": 541,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 542,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. You may now be seated."
+    },
+    {
+      "id": 543,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 544,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "May I proceed, Your Honour?"
+    },
+    {
+      "id": 545,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "You may, Mr. Cannata."
+    },
+    {
+      "id": 546,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you very much. Let me reminds Your Honours that Dr. Hajir is a 92 ter witness."
+    },
+    {
+      "id": 547,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, good morning.",
+      "examination": "direct"
+    },
+    {
+      "id": 548,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good morning.",
+      "reply_to": 547
+    },
+    {
+      "id": 549,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you please state your full name for the record, please?",
+      "examination": "direct"
+    },
+    {
+      "id": 550,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Dr. Youssef Hajir.",
+      "reply_to": 549
+    },
+    {
+      "id": 551,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Doctor, can you tell the Court what was your profession from May 1992 up to the end of the war, up to the end of 1995? Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 552,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "At the beginning of the war, I lived in Vrace, and since I was unable to get to work because there were barricades on the road around Sarajevo at Vrace, I was unable to reach my hospital, the clinic, the medical clinic.",
+      "reply_to": 551
+    },
+    {
+      "id": 553,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sorry, let me stop you here. Would you mind answering the question I've asked you. Now, the question would be, what was your profession between May 1992 up to the end of the war in 1995? Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 554,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "I opened the Dobrinja Hospital, I worked there as a director. I was a surgeon and for the most part in this period, I really managed the hospital and performed surgery.",
+      "reply_to": 553
+    },
+    {
+      "id": 555,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, can I have 65 ter 9396 on the screen, please."
+    },
+    {
+      "id": 556,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, do you remember giving a statement to the Office of the Prosecutor of the ICTY on 17 June, 2008?",
+      "examination": "direct"
+    },
+    {
+      "id": 557,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 556
+    },
+    {
+      "id": 558,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is that the document in front of you displayed on e-court, the statement you gave and signed on 17 June, 2008?",
+      "examination": "direct"
+    },
+    {
+      "id": 559,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it is.",
+      "reply_to": 558
+    },
+    {
+      "id": 560,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Sir, were you asked to review medical documents issued by the Dobrinja Hospital which are listed in your statement?",
+      "examination": "direct"
+    },
+    {
+      "id": 561,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, some medical documents.",
+      "reply_to": 560
+    },
+    {
+      "id": 562,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Can we move to page 2 of this statement, please. Thank you."
+    },
+    {
+      "id": 563,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you confirm that the documents that are listed at page 2 and 3 of this statement are copies of authentic medical records and certificates issued by the Dobrinja Hospital?",
+      "examination": "direct"
+    },
+    {
+      "id": 564,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "I reviewed the documents, and I concluded based on the form of the documents, and the doctors who signed the documents and who were my associates, and also based on documents that I signed, in other words, both based on the signatures, the findings, and the form, they correspond, are consistent with the documents of the Dobrinja Hospital.",
+      "reply_to": 563
+    },
+    {
+      "id": 565,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you very much. Now, do you confirm that this statement, the one that you signed on 17 June, 2008, is true and accurate to the best of your knowledge?",
+      "examination": "direct"
+    },
+    {
+      "id": 566,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I can recall, yes.",
+      "reply_to": 565
+    },
+    {
+      "id": 567,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Does the statement accurately reflect what you would say today if asked to speak about the same matters once again?",
+      "examination": "direct"
+    },
+    {
+      "id": 568,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Absolutely.",
+      "reply_to": 567
+    },
+    {
+      "id": 569,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, at this point I will tender into evidence the statement and some of the medical records associated with that. I have a 65 ter number for each of the documents I would like to tender into evidence."
+    },
+    {
+      "id": 570,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. Can we deal with 65 ter 09396 first."
+    },
+    {
+      "id": 571,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 572,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is admitted into evidence. May it please be given an exhibit number."
+    },
+    {
+      "id": 573,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P487."
+    },
+    {
+      "id": 574,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 575,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, the next exhibit will be 65 ter 3030. Now, it is a long document. On this occasion, the Prosecution only tenders some pages from this document under seal. The pages will be page 12, 13, 14, and 16 to 29 of the B/C/S original document. And the corresponding pages in the English document which are 17, 18, 19, and 21 to 34 of the English translation. Under seal, thank you."
+    },
+    {
+      "id": 576,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "65 ter 3030, those page that is are mentioned in both English and the B/C/S are admitted into evidence. May it please be given an exhibit number."
+    },
+    {
+      "id": 577,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, those pages --"
+    },
+    {
+      "id": 578,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Under seal."
+    },
+    {
+      "id": 579,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Those pages would be Exhibit P488 under seal."
+    },
+    {
+      "id": 580,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 581,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 582,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, I'd like you now to move to your testimony in the Galic case. Do you remember testifying before this Tribunal in the case Prosecutor versus Galic on 17 January, 2002?",
+      "examination": "direct"
+    },
+    {
+      "id": 583,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do remember that.",
+      "reply_to": 582
+    },
+    {
+      "id": 584,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, did you have an opportunity to review the transcript of your hearing in that case before appearing today in court?",
+      "examination": "direct"
+    },
+    {
+      "id": 585,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I did.",
+      "reply_to": 584
+    },
+    {
+      "id": 586,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Does it accurately reflect what you will say if asked the same questions again today in court?",
+      "examination": "direct"
+    },
+    {
+      "id": 587,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Absolutely.",
+      "reply_to": 586
+    },
+    {
+      "id": 588,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, at this stage I would tender into Exhibit 65 ter number 9397, which is the transcript of Dr. Hajir's testimony in the Prosecutor versus Stanislav Galic case."
+    },
+    {
+      "id": 589,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Where is it? We don't have it up on the screen."
+    },
+    {
+      "id": 590,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Can we have 65 ter 9397 on the screen, please. As Your Honours see, it's a redacted copy of the transcript."
+    },
+    {
+      "id": 591,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. The 65 ter 9397 is admitted. May it please be given an exhibit number."
+    },
+    {
+      "id": 592,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, that will be Exhibit P489."
+    },
+    {
+      "id": 593,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 594,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, with your leave at this moment I will read out a very brief summary of Dr. Hajir's evidence for the record."
+    },
+    {
+      "id": 595,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "You may."
+    },
+    {
+      "id": 596,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Dr. Hajir, Youssef Hajir was the director of Dobrinja Hospital in Sarajevo since its establishment in May 1992 and throughout the war. Dr. Hajir authenticated medical records and that certificates issued at the Dobrinja Hospital pertaining to the civilian casualties of the shelling incident of 18 June, 1995 at the Simon Bolivar School it Dobrinja, which is schedule shelling incident A7 of the Perisic indictment. Your Honour, this concludes the summary and the examination-in-chief. Thank you."
+    },
+    {
+      "id": 597,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much, Mr. Cannata. Mr. Lukic."
+    },
+    {
+      "id": 598,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Good afternoon, Dr. Hajir.",
+      "examination": "cross"
+    },
+    {
+      "id": 599,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good afternoon.",
+      "reply_to": 598
+    },
+    {
+      "id": 600,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm Novak Lukic and on behalf of General Perisic's Defence team, I will put a few questions to you. It won't take very long.",
+      "examination": "cross"
+    },
+    {
+      "id": 601,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Very well.",
+      "reply_to": 600
+    },
+    {
+      "id": 602,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "However, we do need some clarifications in respect of what was admitted into the evidence now in terms of your testimony.",
+      "examination": "cross"
+    },
+    {
+      "id": 603,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's fine.",
+      "reply_to": 602
+    },
+    {
+      "id": 604,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You and I both speak a language that we both understand, and this has to be interpreted; so when I put my question, could you wait for a few seconds so that the interpreters can catch up, otherwise we are really going to run into problems with the transcript. If I understood things correctly you actually established the hospital in Dobrinja. Did that exist before the war; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 605,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right.",
+      "reply_to": 604
+    },
+    {
+      "id": 606,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did it have the status of a military hospital?",
+      "examination": "cross"
+    },
+    {
+      "id": 607,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "At first they called it the military hospital, that's what the civilian protection people called it, and they also called it after me, they said, Dr. Hajir's hospital. Later on when it was registered in court, you know, and when it was recognised by the Ministry of Health then it became the general hospital of Dobrinja. But at first, yes. Sorry, I have to explain one more thing, well, there is a difference isn't it, so I had to explain all of this.",
+      "reply_to": 606
+    },
+    {
+      "id": 608,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So when was it that it became a general hospital?",
+      "examination": "cross"
+    },
+    {
+      "id": 609,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Sometime in 1993. I don't know exactly.",
+      "reply_to": 608
+    },
+    {
+      "id": 610,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Just can we just suggest that indeed try to stick to what you said at the beginning. You speak the same language, you got to give each other a break, and when you do speak, speak a little bit slowly. The interpreter was running at 150 kilometres an hour to try to keep up with you. Thank you, you may proceed."
+    },
+    {
+      "id": 611,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I do apologise to the interpreters in my own name and on behalf of the doctor too."
+    },
+    {
+      "id": 612,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you so much."
+    },
+    {
+      "id": 613,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]."
+    },
+    {
+      "id": 614,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The hospital was in Dobrinja. In Omladinska Street; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 615,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 614
+    },
+    {
+      "id": 616,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In the same street there was the command post of the Dobrinjska Brigade of the BH Army; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 617,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "It's not exactly the same place. I mean, there must be at least 150 metres between the hospital and the headquarters.",
+      "reply_to": 616
+    },
+    {
+      "id": 618,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Doctor, may I suggest, ask you to please stop a little bit to give the interpreters an opportunity to interpret the question before you start answering."
+    },
+    {
+      "id": 619,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[In English] I'm very sorry."
+    },
+    {
+      "id": 620,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "That's okay, Doctor. You may proceed, Mr. Lukic."
+    },
+    {
+      "id": 621,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 622,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What about your colleagues from the hospital, were any of them members of the BH Army, I'm just talking about the war period, did any one of them have the status of the BH Army?",
+      "examination": "cross"
+    },
+    {
+      "id": 623,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Interpretation] Yes, quite a few of them. Quite a few of them. I think that out of the 150 people who worked at the hospital, there were about 30 to 40 that became members of the army. It was first that the hospital was established and only later they joined --",
+      "reply_to": 622
+    },
+    {
+      "id": 624,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "They join the army?",
+      "examination": "cross"
+    },
+    {
+      "id": 625,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, but their role didn't really change.",
+      "reply_to": 624
+    },
+    {
+      "id": 626,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you have any status in the BH Army, you personally?",
+      "examination": "cross"
+    },
+    {
+      "id": 627,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, of course, you know. I was -- well, you know what it was like. When the BH Army was established, they called he me up too because I am a citizen of Bosnia-Herzegovina, so I was supposed to be mobilised; however, I was already in the army. I had the status of the director of the hospital. You know, I was already a military person. However, no rank, no nothing.",
+      "reply_to": 626
+    },
+    {
+      "id": 628,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Zlatko Kravic was a colleague of yours; right? He was a surgeon, if I remember correctly?",
+      "examination": "cross"
+    },
+    {
+      "id": 629,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right. Dr. Kravic was the deputy director, and later on he was chief of the medical corps.",
+      "reply_to": 628
+    },
+    {
+      "id": 630,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "That is what I wanted to ask over the 5th Dobrinjska Motorised Brigade; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 631,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right.",
+      "reply_to": 630
+    },
+    {
+      "id": 632,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Doctor, do you know perhaps how many members the 5th Dobrinjska Motorised Brigade had perhaps?",
+      "examination": "cross"
+    },
+    {
+      "id": 633,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "I really don't know, whatever I would say would not be right. I really don't know.",
+      "reply_to": 632
+    },
+    {
+      "id": 634,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sometimes armed soldiers came to the hospital building and actually entered the hospital; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 635,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, this is what I can tell you, there's one thing that's for sure. At first, yes. However, I met up with a commander, and I said that he had to issue an order that they should all leave their weapons at the entrance and then enter the hospital. As far as the organisation of the hospital was concerned, I think that people for the most part abided by that.",
+      "reply_to": 634
+    },
+    {
+      "id": 636,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Will you agree with me that the hospital from the time when it was established, that is to say, from the summer of 1992; right? Or perhaps I may be wrong.",
+      "examination": "cross"
+    },
+    {
+      "id": 637,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 636
+    },
+    {
+      "id": 638,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "There was considerable aid coming from donors, and there was humanitarian aid, and it could function rather well, couldn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 639,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Absolutely.",
+      "reply_to": 638
+    },
+    {
+      "id": 640,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And will you agree with me that from 1993 onwards there were supplies. I'm referring to medicine, everything that is indispensable for the functioning of a hospital, supplies got better and better?",
+      "examination": "cross"
+    },
+    {
+      "id": 641,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, absolutely. We started from scratch. You see, I mean I carried out my first surgeries with dental equipment, and afterwards when I handed over my duty, there were seven warehouses that were full of equipment. Especially the French battalion, they were very generous with their humanitarian aid.",
+      "reply_to": 640
+    },
+    {
+      "id": 642,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let's be very specific, when you say at the end when you handed over, when was that?",
+      "examination": "cross"
+    },
+    {
+      "id": 643,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, when the hospital was closed --",
+      "reply_to": 642
+    },
+    {
+      "id": 644,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Pause, pause, pause, please. Thank you. You may proceed."
+    },
+    {
+      "id": 645,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 646,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When was it that you handed over the hospital, and could you just pause?",
+      "examination": "cross"
+    },
+    {
+      "id": 647,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "I really cannot remember the date. I really cannot remember. It's not that I don't want to tell you; I mean, really, I cannot. Sometime toward the end of 1998, beginning of 1999.",
+      "reply_to": 646
+    },
+    {
+      "id": 648,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you remember that during the war, you received some medical assistance from the Federal Republic of Yugoslavia?",
+      "examination": "cross"
+    },
+    {
+      "id": 649,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't remember. I really do apologise, but I really do not remember. Possibly it did happen but --",
+      "reply_to": 648
+    },
+    {
+      "id": 650,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I have some information to the effect that you had some material that was manufactured by Hemofarm from Vrsac. Do you remember that and do you know where Vrsac is?",
+      "examination": "cross"
+    },
+    {
+      "id": 651,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "You know, when we started, we really had nothing. We had very serious patients that bled a lot. We were in Dobrinja. And we found three big warehouses in Dobrinja, and we found IV fluids, and we even found dialysis fluids. Hemofarm, yes, they did have a warehouse in Dobrinja that was transported to the hospital, and all of these fluids and medicines that we found we did use.",
+      "reply_to": 650
+    },
+    {
+      "id": 652,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You had a lab in the hospital?",
+      "examination": "cross"
+    },
+    {
+      "id": 653,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right.",
+      "reply_to": 652
+    },
+    {
+      "id": 654,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also had a plaster room?",
+      "examination": "cross"
+    },
+    {
+      "id": 655,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Right.",
+      "reply_to": 654
+    },
+    {
+      "id": 656,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You had a blood transfusion department?",
+      "examination": "cross"
+    },
+    {
+      "id": 657,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right, but that was later. We really had to train people for blood treatments.",
+      "reply_to": 656
+    },
+    {
+      "id": 658,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "My information says that it existed in May 1994 and afterwards, am I making a mistake?",
+      "examination": "cross"
+    },
+    {
+      "id": 659,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, not really.",
+      "reply_to": 658
+    },
+    {
+      "id": 660,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also had a sterilisation department; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 661,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 660
+    },
+    {
+      "id": 662,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "From some Islamic humanitarian organisations, you got a Ford vehicle that was used as an ambulance?",
+      "examination": "cross"
+    },
+    {
+      "id": 663,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Right.",
+      "reply_to": 662
+    },
+    {
+      "id": 664,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The in-flow of wounded persons and any patients coming in, in 1994 and 1995, did it actually go down in relation to the preceding period, can you give us an approximation?",
+      "examination": "cross"
+    },
+    {
+      "id": 665,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, perhaps slightly, slightly. In relation to 1993, 1993 was the most difficult year of all. Then you know, perhaps it went down by a shade.",
+      "reply_to": 664
+    },
+    {
+      "id": 666,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When admitting people into hospital, did you ever distinguish between different people? Did you establish whether the person being admitted a civilian or soldier?",
+      "examination": "cross"
+    },
+    {
+      "id": 667,
+      "speaker": "YOUSSEF HAJIR",
+      "role": "witness",
+      "type": "answer",
+      "text": "We really didn't, sir. We really didn't. Our objective was, and I mean I sat there with the people who were there, our objective was to save as many people as possible. Once we enter the hospital. Later on, we tried to introduce some records, but I wasn't all that happy. You know, I'm a bit of a perfectionist, and I really want to have things in proper order; so I personally was not satisfied. I did manage to improve things as much as I wanted to, but then you know, I'm a surgeon, and I trained all these people. I worked a lot in logistics too in terms of asking for the medicine that would really help patients. We really did not distinguish between and among people in terms of whether they were civilians or military personnel, or on the basis of religious affiliation, or whatever, indeed. Perhaps somebody else kept records of some kind or realised what was going on, but I really did not.",
+      "reply_to": 666
+    },
+    {
+      "id": 668,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Your Honours. I have concluded my examination. Thank you, Mr. Hajir, I have no further questions for you.",
+      "examination": "cross"
+    },
+    {
+      "id": 669,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much, Mr. Lukic."
+    },
+    {
+      "id": 670,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you too."
+    },
+    {
+      "id": 671,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Cannata."
+    },
+    {
+      "id": 672,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No re-examination, Your Honours."
+    },
+    {
+      "id": 673,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. Doctor, thank you very much for taking time off your busy schedule to come and testify at the Tribunal. This brings us to the conclusion of your testimony. You are now excused. You may stand down. And will you please travel well back home."
+    },
+    {
+      "id": 674,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you too."
+    },
+    {
+      "id": 675,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Cannata."
+    },
+    {
+      "id": 676,
+      "speaker": "MR. CANNATA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, the Prosecution has no other witnesses for today."
+    },
+    {
+      "id": 677,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. That being the case then that brings us to the conclusion of our deliberations for today. The matter stands adjourned to next Monday, the 2nd of February at quarter past 2.00 in courtroom II. Court adjourned."
+    },
+    {
+      "id": 678,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "to be reconvened on Monday, the 2nd day of February 2009, at 2.15 p.m. 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24"
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 9.07 a.m."
+    },
+    {
+      "after_utterance": 14,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 18,
+      "text": "WITNESS: THORBJORN OVERGARD"
+    },
+    {
+      "after_utterance": 20,
+      "text": "Examination by Mr. Thomas:"
+    },
+    {
+      "after_utterance": 203,
+      "text": "Cross-examination by Mr. Lukic:"
+    },
+    {
+      "after_utterance": 365,
+      "text": "--- Recess taken at 10.16 a.m."
+    },
+    {
+      "after_utterance": 365,
+      "text": "--- On resuming at 10.46 a.m."
+    },
+    {
+      "after_utterance": 431,
+      "text": "Re-examination by Mr. Thomas:"
+    },
+    {
+      "after_utterance": 486,
+      "text": "[Prosecution counsel confer]"
+    },
+    {
+      "after_utterance": 528,
+      "text": "[The witness withdrew]"
+    },
+    {
+      "after_utterance": 535,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 541,
+      "text": "WITNESS: YOUSSEF HAJIR"
+    },
+    {
+      "after_utterance": 541,
+      "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 546,
+      "text": "Examination by Mr. Cannata:"
+    },
+    {
+      "after_utterance": 597,
+      "text": "Cross-examination by Mr. Lukic:"
+    },
+    {
+      "after_utterance": 674,
+      "text": "[The witness withdrew]"
+    },
+    {
+      "after_utterance": 677,
+      "text": "--- Whereupon the hearing adjourned at 11.49 a.m."
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_29_January_2009.doc"
+}

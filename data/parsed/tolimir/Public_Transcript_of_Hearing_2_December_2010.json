@@ -1,0 +1,2232 @@
+{
+  "case": "tolimir",
+  "case_id": null,
+  "date": "2010-12-02",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good afternoon to everybody in the courtroom, especially good afternoon, Ms. Hasan. Welcome back to the trial. Is the next witness ready?"
+    },
+    {
+      "id": 2,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good afternoon, Mr. President, Your Honours, and everyone else in and around the courtroom. The next witness is ready and can be brought in. And in the meantime, just to --"
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, please, the witness should be brought in."
+    },
+    {
+      "id": 4,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Just to situate this witness in the context of the case, the witness is going to testify about events that Prosecution 92 bis Prosecution witnesses who are not going to be called for cross-examination, Dr. Zoran Begovic, and the former chief of the medical centre for the Zvornik Brigade and Dr. Radivoje Novakovic a surgeon from the Zvornik Brigade -- sorry, Zvornik Medical Centre, their evidence will also go in in addition to the testimony of protected witnesses PW-061 and PW-057 whose testimony you have yet to hear. And just very briefly, just for completeness, the -- just note for the Chamber that the events this witness will testify relate to paragraphs 21.15 in the third amended indictment, as well as paragraphs 129 to 130 from the Prosecution's pre-trial brief."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 6,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Sir, welcome to the Tribunal. The Presiding Judge is speaking at the moment. Welcome and good afternoon. Would you please read aloud the affirmation on the card which is shown to you now."
+    },
+    {
+      "id": 7,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 8,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. Please sit down and make yourself comfortable."
+    },
+    {
+      "id": 9,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 10,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "At the beginning, for the Prosecution, Ms. Hasan has some questions for you. Ms. Hasan, please."
+    },
+    {
+      "id": 11,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good afternoon, sir. Would you please state your name for the record.",
+      "examination": "direct"
+    },
+    {
+      "id": 12,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Jugoslav Gavric.",
+      "reply_to": 11
+    },
+    {
+      "id": 13,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And Dr. Gavric, have you recently had the opportunity to listen to the testimony you gave in the Popovic case?",
+      "examination": "direct"
+    },
+    {
+      "id": 14,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 13
+    },
+    {
+      "id": 15,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are there any corrections you wish to make to the evidence that you gave in that case?",
+      "examination": "direct"
+    },
+    {
+      "id": 16,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 15
+    },
+    {
+      "id": 17,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And was the evidence that you gave in the Popovic case true and accurate, to the best of your knowledge?",
+      "examination": "direct"
+    },
+    {
+      "id": 18,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I consider my testimony entirely true.",
+      "reply_to": 17
+    },
+    {
+      "id": 19,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if you were asked those very same questions that you were asked in the Popovic case, would you provide the same answers today?",
+      "examination": "direct"
+    },
+    {
+      "id": 20,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 19
+    },
+    {
+      "id": 21,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, I would then ask that the transcript of Dr. Gavric's testimony from the Popovic case be admitted into evidence as Exhibit P1168."
+    },
+    {
+      "id": 22,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "It will be received with this exhibit number."
+    },
+    {
+      "id": 23,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "As well, I'd also ask that the associated exhibits that were admitted through Dr. Gavric in the Popovic case, namely P1169 through P1171, be admitted into evidence."
+    },
+    {
+      "id": 24,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "They will be admitted into evidence."
+    },
+    {
+      "id": 25,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And with your leave, Mr. President, I would like to read a brief summary of Dr. Gavric's evidence."
+    },
+    {
+      "id": 26,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, please go ahead."
+    },
+    {
+      "id": 27,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Dr. Gavric was the director of the Zvornik Medical Centre in 1995. In the middle of July in 1995, Dr. Gavric received an order from the chief medical officer of the VRS, Colonel Dr. Ratko Rokvic, to transfer wounded Muslim patients from Sveti Nikola war hospital in Milici to the Zvornik Hospital. In response to this order, Dr. Gavric arranged for a bus and set off to Milici accompanied by one nurse, a police officer wearing a camouflage uniform, and the, driver who wore a military uniform, to pick up the wounded Muslim patients pursuant to this order. Dr. Gavric, the nurse, the police officer, and the driver arrived at Milici Hospital sometime between 12 and 1 p.m. and spent approximately one hour there before they returned to Zvornik. While at Milici Hospital, Dr. Gavric received a list of the names of the patients and was briefed on the medical treatment they had received at Milici Hospital. He was also informed that each patient was carrying their own medical history. Dr. Gavric estimates that he -- that there were between 10 to 15 wounded Muslims that had to be transferred to Zvornik. Some of these patients were heavily wounded and could not walk. After assisting the Muslim patients board the bus, the group, including Dr. Gavric, departed Milici Hospital towards Zvornik Hospital. They arrived in the evening, before the sun set. As the Muslim patients were unloaded from the bus, local Serbian residents began to protest their admission to the hospital. Some patients in the hospital were also protesting their admission. Once they entered the hospital, Dr. Gavric handed over the care of the wounded Muslims to the chief of surgery, Dr. Zoran Lazarevic. Given the protests, Dr. Gavric also asked for security to be put in place to ensure that the Muslim patients were separated from the other patients in the hospital. When Dr. Gavric returned to Zvornik Hospital for his next shift, he inquired whether all the wounded were alive, given their serious condition at the time of their admission. Dr. Gavric testified that his assistant, Sinisa Cirkovic, advised him that the patients had survived the night and that they had been evacuated to Tuzla in order to be exchanged. Dr. Gavric also testified that no one told him that the patients had been transferred to the infirmary at the Zvornik barracks. That concludes my summary, and I will just ask Dr. Gavric a few questions now."
+    },
+    {
+      "id": 28,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Dr. Gavric, does that summary fairly and accurately reflect your evidence?",
+      "examination": "direct"
+    },
+    {
+      "id": 29,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you born on the 6th of May, 1933?",
+      "examination": "direct"
+    },
+    {
+      "id": 31,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And can you tell us where you were born?",
+      "examination": "direct"
+    },
+    {
+      "id": 33,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was born at or in Drinjaca, near Zvornik.",
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And are you currently employed?",
+      "examination": "direct"
+    },
+    {
+      "id": 35,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 34
+    },
+    {
+      "id": 36,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was your profession in 1995?",
+      "examination": "direct"
+    },
+    {
+      "id": 37,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Until 1995, I was a doctor with a specialisation, and as of 1995, I retired.",
+      "reply_to": 36
+    },
+    {
+      "id": 38,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And Dr. Gavric, what was your specialisation?",
+      "examination": "direct"
+    },
+    {
+      "id": 39,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "My specialisation was industrial medicine, and my subspecialisation was the assessment of workers' health and ability to work.",
+      "reply_to": 38
+    },
+    {
+      "id": 40,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you mention that you retired. When did you retire?",
+      "examination": "direct"
+    },
+    {
+      "id": 41,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I retired toward the end of 1995. I can't recall the exact date, but approximately that's it.",
+      "reply_to": 40
+    },
+    {
+      "id": 42,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when did you start working at the Zvornik Medical Centre?",
+      "examination": "direct"
+    },
+    {
+      "id": 43,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I started working in June 1993. As far as I can recall.",
+      "reply_to": 42
+    },
+    {
+      "id": 44,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Interpreter's note: I'm a specialist of occupational medicine."
+    },
+    {
+      "id": 45,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you worked at the Zvornik Medical Centre in June of 1993, what position did you hold?",
+      "examination": "direct"
+    },
+    {
+      "id": 46,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was the general manager of the medical centre in Zvornik.",
+      "reply_to": 45
+    },
+    {
+      "id": 47,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And prior to working at the Zvornik Medical Centre, where did you work?",
+      "examination": "direct"
+    },
+    {
+      "id": 48,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "From 1968 onwards, I worked at Zvornik. I was the chief of occupational safety, that service, and in 1992, during the war, I was recruited as a battalion doctor of the Zvornik Brigade, where I performed the duties of the battalion doctor up until June 1993, when I was appointed director or general manager at the medical centre, and that would be about it.",
+      "reply_to": 47
+    },
+    {
+      "id": 49,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And as a director or general manager of the medical centre, what facility or facilities fell within the scope of your responsibility?",
+      "examination": "direct"
+    },
+    {
+      "id": 50,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "The medical centre in Zvornik dealt with primary and secondary medical treatment, and we -- we had under control the health centres in Bratunac, Sekovici, Vlasenica, and Milici. These were smaller medical centres where -- which mostly saw local patients from the local areas. And during the war, they were no longer under our supervision and they did not communicate with us anymore. What was -- what were my responsibilities? Well, I was the director and it was my responsibility to ensure that all the aspects of the medical work in that institution were unfolding in a regular and proper manner. I dealt with doctors, mainly, and chiefs of various medical services, whereas for the other type of work at the hospital, supplies, medical supplies, administrative work, and so on, this was something that was within the purview of my assistant whose name was Sinisa Cirkovic.",
+      "reply_to": 49
+    },
+    {
+      "id": 51,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you familiar with the infirmary at the Zvornik Brigade, at the Standard barracks?",
+      "examination": "direct"
+    },
+    {
+      "id": 52,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did not go there, although I'm familiar with it. This was an infirmary, and it primarily had surgical patients, and it was used mainly for wounded and injured people, patients, because the emergency services were provided in Zvornik itself. So that the infirmary was more tightly connected with the Zvornik Brigade and the command of the Zvornik Brigade, which was located in the same area where the infirmary was. In other words, there was no need for me to be in communication with that department unless they needed some doctors of a certain specialisation, and in which case we tried to provide our assistance when we could, and we provided our services for that infirmary when it was required and when it was possible.",
+      "reply_to": 51
+    },
+    {
+      "id": 53,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall who the chief of the medical centre for the Zvornik Brigade was in 1995?",
+      "examination": "direct"
+    },
+    {
+      "id": 54,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "There were several people, as far as I know, younger doctors, who were conscripts, and as far as I know, there were several of them who were assigned to that infirmary practically throughout the time. So in other words, they had no contacts and no ties with the centre itself but dealt with the patients at the infirmary.",
+      "reply_to": 53
+    },
+    {
+      "id": 55,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And where were they assigned from?",
+      "examination": "direct"
+    },
+    {
+      "id": 56,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "If you're referring to doctors and other medical staff, they were all employees of the medical centre. However, as required by that department, that infirmary, they were assigned exclusively to work there.",
+      "reply_to": 55
+    },
+    {
+      "id": 57,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And do you recall who the chief was of the medical centre of the Zvornik Brigade?",
+      "examination": "direct"
+    },
+    {
+      "id": 58,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, as I sit here, I can't really recall. I know the names of some of my colleagues, but who their chief was or whether there was a chief, I really -- I really can't talk about that. I don't know.",
+      "reply_to": 57
+    },
+    {
+      "id": 59,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you familiar with someone, a doctor called Dr. Zoran Begovic?",
+      "examination": "direct"
+    },
+    {
+      "id": 60,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 59
+    },
+    {
+      "id": 61,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you tell me who he was?",
+      "examination": "direct"
+    },
+    {
+      "id": 62,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "At that time, he was a primary care physician, a GP. During the war, he completed his specialisation and specialised in urology. He was one of the junior colleagues who had just started their work.",
+      "reply_to": 61
+    },
+    {
+      "id": 63,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And was he working at the Zvornik Medical Centre or at the infirmary or elsewhere?",
+      "examination": "direct"
+    },
+    {
+      "id": 64,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "He was an employee of the medical centre but he was deployed or employed by the Zvornik Brigade to do the work there, at the infirmary of the brigade.",
+      "reply_to": 63
+    },
+    {
+      "id": 65,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And just for clarification, the hospital in Milici, did that facility fall within your scope of responsibility in 1995?",
+      "examination": "direct"
+    },
+    {
+      "id": 66,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. The Milici Hospital existed independently. There was a hospital and there was also a medical centre. However, their director, Dr. Davidovic, and I, in the course of those war years, cooperated in terms of if we needed sometimes, because of the circumstances, to send our doctors and surgeons to Milici at their request, we would do that. However, those doctors who were sent to Milici, they were employees and staff of the medical centre in Zvornik.",
+      "reply_to": 65
+    },
+    {
+      "id": 67,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And Dr. Gavric, do you remember Dr. Davidovic's first name?",
+      "examination": "direct"
+    },
+    {
+      "id": 68,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm sorry, I cannot recall. You see, we all addressed him as Colleague Davidovic. I'm sorry, I really can't recall.",
+      "reply_to": 67
+    },
+    {
+      "id": 69,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 70,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I know, Dr. Davidovic passed away a few years ago, if I'm not mistaken. As far as I know, that's what happened.",
+      "reply_to": 69
+    },
+    {
+      "id": 71,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "I don't know if this helps to refresh your memory, but as far as I understand, his first name was Radomir Davidovic. Does that --",
+      "examination": "direct"
+    },
+    {
+      "id": 72,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm really sorry, but I'm not sure. It is possible, but this is perhaps the first time that I hear his first name, that it was Radomir. I'm sorry.",
+      "reply_to": 71
+    },
+    {
+      "id": 73,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And Dr. Gavric, you testified in Popovic that sometime in the middle of July in 1995, you went to pick up some patients from the Milici Hospital. What prompted you to do this?",
+      "examination": "direct"
+    },
+    {
+      "id": 74,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I received information or, rather, an order. When I provided my statement I couldn't remember, but now I do. It was a written order, informing me that a group of wounded persons, wounded Muslims, could be found in Milici, and that they had to be treated by a surgeon at our centre. They were primarily taken care of by doctors in Milici and the treatment had to be continued in our centre, and in that sense I received an order to evacuate them or, rather, to transport them and to take them over into our centre. Pursuant to that information, or pursuant to that order, rather, I took steps that you have already described for everybody in the courtroom.",
+      "reply_to": 73
+    },
+    {
+      "id": 75,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And can you tell us who issued that order that you received?",
+      "examination": "direct"
+    },
+    {
+      "id": 76,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "That order was from the Army of Republika Srpska, from its medical staff or the head of the medical corps of the Army of Republika Srpska. As far as I can remember, the order was signed by Dr. Davidovic, as the director of their hospital, and since we had cooperation, we had telephone contacts as well, I did not dwell long upon the details of the order. I wasn't that concerned with who issued the order; I knew that people had to be taken care of and that that was to be done in our centre.",
+      "reply_to": 75
+    },
+    {
+      "id": 77,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you have any recollection today of the name of the chief medical officer of the VRS?",
+      "examination": "direct"
+    },
+    {
+      "id": 78,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was Dr. Rokvic, Rokvic. Again, I can't remember his first name. He was my colleague from school. I knew him very well. We were even friends. We knew each other socially. And you see, again, I can't remember the name. Yes.",
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know what rank he had in the army?",
+      "examination": "direct"
+    },
+    {
+      "id": 80,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe that Dr. Rokvic was either Lieutenant-Colonel or Colonel.",
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you said that he was a good doctor -- Colonel Dr. Rokvic was a good friend of yours whom you knew very well. Did you have any --",
+      "examination": "direct"
+    },
+    {
+      "id": 82,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "We knew each other. We went to school together. We studied together. We did not have any particularly close contacts. We cooperated during the war, when he was in that position, and whenever he needed assistance or whenever there were health-care issues that had to be dealt with. And if I may add to that, we didn't only discuss the issue of wounded and injured. In Zvornik we also saw cases of patients with contagious diseases, for example. From Pale to Zvornik, there was no other institution that was capable of dealing with such patients. They didn't have staff trained to do that.",
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you communicate with Colonel Dr. Rokvic about this order that you received to pick up the patients from Milici Hospital?",
+      "examination": "direct"
+    },
+    {
+      "id": 84,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 83
+    },
+    {
+      "id": 85,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "May we have Exhibit P1169 displayed on the screen."
+    },
+    {
+      "id": 86,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] No. I did not talk to him personally. I didn't talk to Dr. Rokvic personally about this particular order."
+    },
+    {
+      "id": 87,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Dr. Gavric, you'll see a document here on the screen. I'll just ask you to read that.",
+      "examination": "direct"
+    },
+    {
+      "id": 88,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I have read this document from the Milici Hospital, and I can confirm that what I read in here is all correct. And that's in the first document; the other one is in English.",
+      "reply_to": 87
+    },
+    {
+      "id": 89,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And is that the -- at the bottom right-hand corner there, can you tell who signed this document?",
+      "examination": "direct"
+    },
+    {
+      "id": 90,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I can tell, the document was signed by Dr. Davidovic. Dr. Davidovic, this is his facsimile in any case.",
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And is that the Dr. Davidovic that we were talking about earlier?",
+      "examination": "direct"
+    },
+    {
+      "id": 92,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I don't know any other.",
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And Dr. Gavric, you told us that you received a written order. That written order, should it be in the archives of the Zvornik Medical Centre, or do you know where the order would have been put?",
+      "examination": "direct"
+    },
+    {
+      "id": 94,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Most probably the document has been archived but I really don't know where. Probably in the archives of the Zvornik Medical Centre, but I'm not sure, you know.",
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you, yourself, have a copy of that order?",
+      "examination": "direct"
+    },
+    {
+      "id": 96,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 95
+    },
+    {
+      "id": 97,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you said you confirm -- you've confirmed what this document that's before us now, the contents of it. Do you know who the head of the municipality was?",
+      "examination": "direct"
+    },
+    {
+      "id": 98,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know who it was at the time. I don't know.",
+      "reply_to": 97
+    },
+    {
+      "id": 99,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the document --",
+      "examination": "direct"
+    },
+    {
+      "id": 100,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I apologise. Are you referring to Milici municipality?",
+      "reply_to": 99
+    },
+    {
+      "id": 101,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "direct"
+    },
+    {
+      "id": 102,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I don't know, no.",
+      "reply_to": 101
+    },
+    {
+      "id": 103,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the document also refers to the chief of the Milici Public Security Station. Do you know who that was?",
+      "examination": "direct"
+    },
+    {
+      "id": 104,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 103
+    },
+    {
+      "id": 105,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in having read this document and confirmed the contents, would you -- is this document related to the order that -- the written order that you received from Colonel Dr. Rokvic?",
+      "examination": "direct"
+    },
+    {
+      "id": 106,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe so.",
+      "reply_to": 105
+    },
+    {
+      "id": 107,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you received the order from Dr. Rokvic, were you provided with any other information about these patients?",
+      "examination": "direct"
+    },
+    {
+      "id": 108,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. Unfortunately, there was nothing else, no other information. When I arrived in Milici, my colleagues related to me the nature of their wounds, each of them had a medical history. I didn't dwell long upon any of that. I'm not a surgeon, that was not my specialty, so I didn't think that I could do much to help them.",
+      "reply_to": 107
+    },
+    {
+      "id": 109,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "I mean, when you received the order, were you told how long these patients would have to be accommodated at your hospital?",
+      "examination": "direct"
+    },
+    {
+      "id": 110,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I wasn't told anything. I was of the opinion that their treatment had to be continued, that was all. However, on the following day, or, rather, in the morning when I arrived at work, I inquired about them, whether they had all survived and what was the situation at the ward. I fully expected that they would be hospitalised for longer, for at least a few more days, and that's when they told me what you already know, what I've already told you.",
+      "reply_to": 109
+    },
+    {
+      "id": 111,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And let me just go back. Having received the order that you -- from Dr. Colonel Rokvic, did you make any arrangements to go pick up these patients?",
+      "examination": "direct"
+    },
+    {
+      "id": 112,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, on the same day, having heard in a telephone conversation that a few of them, four of them, were bed-ridden, I spoke to our transport company to inquire about a bus that would be fit to transport bed-ridden patients. I primarily wanted to see whether there was a bus that could accommodate a number of stretchers. Everything was okay. I was provided with a bus sometime before noon and, together with a nurse, I headed for Milici. As a matter of fact, I tried to find a colleague who could do that instead of me because, as I have already said, that was not my duty, that did not constitute a part of my job description, but since there was no younger colleagues available, I decided that I had to do it myself.",
+      "reply_to": 111
+    },
+    {
+      "id": 113,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was the transport company you contacted to get this bus?",
+      "examination": "direct"
+    },
+    {
+      "id": 114,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "In Zvornik, there was just one transport company. The name of that company was Drinatrans. They had a fleet of buses and other types of vehicles, but most of them transport passengers.",
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "So this bus that you received, was it specially fitted for this particular trip to accommodate stretchers?",
+      "examination": "direct"
+    },
+    {
+      "id": 116,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, yes. Wounded on stretchers had to be put on the bus, and it would not have been possible to do it through a normal door. And also, some of the seats had been taken out, although there were still some seats left, where other injured and wounded individuals could be seated.",
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "So did your medical centre use that bus before?",
+      "examination": "direct"
+    },
+    {
+      "id": 118,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. As far as I can remember, we never required the services of that bus, either before that case or thereafter.",
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Dr. Gavric, do you know if that bus was used in Potocari before it was made available to you for this particular trip?",
+      "examination": "direct"
+    },
+    {
+      "id": 120,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, no.",
+      "reply_to": 119
+    },
+    {
+      "id": 121,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you take any medical supplies with you, or equipment, on that bus when you went to Milici?",
+      "examination": "direct"
+    },
+    {
+      "id": 122,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I took my bag with the standard contents, the standard equipment and supplies, but there was no need for me to intervene when I got there.",
+      "reply_to": 121
+    },
+    {
+      "id": 123,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, you said that you received -- the bus was delivered to the hospital before noon, before you took off to Milici. Do you recall when you had received the written order from Colonel Dr. Rokvic? Was it that same day or the day before?",
+      "examination": "direct"
+    },
+    {
+      "id": 124,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I'm not sure whether that was the day before or the same day in the morning. I'm sorry, but I'm really not sure. However, I took the matter very seriously, and I took all the necessary steps, and I think that I did it very urgently.",
+      "reply_to": 123
+    },
+    {
+      "id": 125,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know how long it took from the moment -- from the time you contacted the Drina bus company and when you received the bus? Did you contact that company that day or did you contact them the day before and have to wait overnight?",
+      "examination": "direct"
+    },
+    {
+      "id": 126,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe that -- actually, it was my assistant who requested the bus. He did that and he did it very efficiently, and I believe that on the same day, when he requested a bus, it took the bus perhaps an hour to arrive.",
+      "reply_to": 125
+    },
+    {
+      "id": 127,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And does that help you clarify when you would have received the written order?",
+      "examination": "direct"
+    },
+    {
+      "id": 128,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I really can't say. I don't know.",
+      "reply_to": 127
+    },
+    {
+      "id": 129,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, when you -- when you got on that bus and you went with the nurse and the driver and the policeman to Milici to pick up the patients, did you see, on your way, a long column of buses and trucks driving towards Zvornik that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 130,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. As far as I can remember, there was no traffic at all on this stretch of the road. It seems to me that there was no traffic at all. I have a -- another reason to claim that. On the way back -- halfway back, actually, the bus ran out of fuel. You know that at that time there were shortages of fuel, and we were actually standing there, on the road, for nearly an hour, and no vehicles came by, nobody that we could perhaps borrow five or ten litres of oil for our bus from. And finally, an acquaintance came by and I asked him to give me a lift to a cafe that was a couple of kilometres away. I know the owner of the place. Actually, I asked my acquaintance to go to that cafe and to ask the owner to lend us five or ten litres of oil. And he did that and returned, and that's how we were able to proceed on our way to Zvornik. This is how I remember things.",
+      "reply_to": 129
+    },
+    {
+      "id": 131,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you ever learn that there were thousands of Muslims who were being driven in buses and trucks up from Bratunac that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 132,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did have an occasion to learn that, but to be honest, I was nowhere near there. The only time I was on that road was on that particular occasion, and after that I was in the medical centre in Zvornik. I was never anywhere close to the Srebrenica-Zvornik road, so there is no way I could see any of that.",
+      "reply_to": 131
+    },
+    {
+      "id": 133,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ms. Hasan, sorry for interrupting you. You have now used exactly 45 minutes in examination-in-chief. That was the time the Prosecution had indicated it would need, 45 minutes. I would like to recall, and remind you, that this is a 92 bis witness. The evidence of the other trial is already in evidence now in our trial. You should focus on additional questions to the core of his evidence, and please give us an indication how many more time you would need."
+    },
+    {
+      "id": 134,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I will restrict the questions that I have to those that are the most significant ones, and I would say perhaps another 15 minutes."
+    },
+    {
+      "id": 135,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "In that case, go ahead, please."
+    },
+    {
+      "id": 136,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Dr. Gavric, can you tell me about the condition of the patients when you saw them at Milici.",
+      "examination": "direct"
+    },
+    {
+      "id": 137,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "As we were loading them onto the bus, there were three or four on stretchers. They were bed-ridden. They were seriously wounded. They had suffered abdominal wounds, chest wounds, and things like that. Some are looking quite normal, in a normal condition, as it were. And when we were all on the bus and when we started moving, I had a white coat on and I introduced myself to them, fully expecting then that somebody would recognise me, since I had worked for four years in Srebrenica and I was familiar with the area and people knew me. However, none of the wounded reacted. Nobody asked me any questions.",
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And could you tell what would have caused the injuries that these patients had sustained?",
+      "examination": "direct"
+    },
+    {
+      "id": 139,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I did not focus on that. Although my colleague in Milici, when we were taking over the patients, told me about their wounds, and he even told me what therapeutical procedures had been undertaken. I remember that all the wounded had received an anti-tetanus shot, as a rule, and some other things that are normally given to such patients. And when my colleague told me all that, I found nothing out of the ordinary. Everything was clear to me, and I realised from his words that most of their wounds were quite severe.",
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And would you say that some of the patients had injuries that were life-threatening?",
+      "examination": "direct"
+    },
+    {
+      "id": 141,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. However, when I put my question first thing in the morning at 7.00, that's exactly what I had on my mind. My first question was whether all of them had survived.",
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And Dr. Gavric, did you communicate with Dr. Begovic at any point about the transfer or the provision of some medical staff to the infirmary to treat these particular patients?",
+      "examination": "direct"
+    },
+    {
+      "id": 143,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. During the handover of the wounded that evening, I didn't think it necessary for me to contact my colleague, Dr. Begovic, especially after having heard that they had all been evacuated to Tuzla.",
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And do you -- when the patients -- when you came to the Zvornik Medical Centre with the patients and you handed them over to Dr. Lazarevic, do you know if those patients were registered?",
+      "examination": "direct"
+    },
+    {
+      "id": 145,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I gave my list to Dr. Lazarevic. Whether the patients were registered in some special records or logbook, I really don't know. They already had charts with their medical histories, with all the details. I suppose that the documents were complete in the medical sense of the word. Whether the documents were transferred or recorded anywhere else, I don't know.",
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it standard practice at your hospital that when patients arrive they get registered in some -- in a logbook?",
+      "examination": "direct"
+    },
+    {
+      "id": 147,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "It all depends on the type of patient. For example, the gynaecology ward has its own records, paediatrics have their own, internal diseases their own, which means that each service had its own protocols, its own logbooks, its own admission logbooks and all the other administrative things.",
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If I may just have 65 ter 1326 displayed. This is an under-seal document, so it shouldn't be broadcast."
+    },
+    {
+      "id": 149,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 150,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And I have the -- a colour copy of this document, of the original, and I'd like to just show that to Dr. Gavric to see if he can identify the cover."
+    },
+    {
+      "id": 151,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "It should be given to him. Mr. Gajic, has your client had the opportunity to look at it, to this document -- to this binder, which is now in front of the witness?"
+    },
+    {
+      "id": 152,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] It is not clear to me whom do you mean when you say \"client\"; whether my client was ..."
+    },
+    {
+      "id": 153,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I understand this confusion. Because of your profession, you had many clients. I was asking the legal assistant of the accused, Mr. Gajic."
+    },
+    {
+      "id": 154,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, good afternoon. We wish good afternoon to everyone. The Defence did have occasion to see this document and, if need be, we may request the original, but we did see the copy."
+    },
+    {
+      "id": 155,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "This is a quite similar name. I apologise for that, Mr. Gajic and Mr. Gavric. Please carry on, Ms. Hasan."
+    },
+    {
+      "id": 156,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Dr. Gavric, do you recognise this document, the first page of this document?",
+      "examination": "direct"
+    },
+    {
+      "id": 157,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if I may just ask you to have a look through it and just tell me if you know what it is.",
+      "examination": "direct"
+    },
+    {
+      "id": 159,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think there is no need to go through the whole notebook. I can say that this is one of the standard protocols or forms that are used to keep records of admitted patients, and if I look at the title, I assume that this is the surgical department. I'm judging that on the basis of the abbreviation that is jotted down. This is a standard form where certain information is input, and there is even a column for signatures of the doctors who -- and there is my assumption -- who admitted a patient.",
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, the patients that you brought from Milici, which ward did you hand them over to?",
+      "examination": "direct"
+    },
+    {
+      "id": 161,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "The surgical ward.",
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if they were admitted, would they be registered in that book?",
+      "examination": "direct"
+    },
+    {
+      "id": 163,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. They should be.",
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And we can look -- have a look through the logbook, but I've taken a look and the particular patients that you brought from Milici to Zvornik are not recorded in that logbook. You've told me that they should have been. Do you have any explanation for why they would not have been in there?",
+      "examination": "direct"
+    },
+    {
+      "id": 165,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Well, I'm not sure if I'm going to be able to give you the actual explanation, but we arrived in Zvornik around 7 or 8.00 p.m. That is the end of the typical workday, and if the medical history and the charts were already there for the patients who were admitted from the Milici Hospital, perhaps they did not write that down in the protocols in this logbook, because sometimes if a patient is admitted during the night, as an emergency, it is possible that the information is not entered immediately in the logbook. So that is one of the possibilities. But normally, at the time of a patient's admission, the information should be registered in these logbooks. However, we can see here in this logbook that there are columns indicating the therapy, the tests that were administered, and so on and so forth. So based on that, and the patients that I can see listed there, this would imply that these patients had been held at the hospital there for a number of days -- oh, for a moment I thought there was a signature of mine here, but it isn't. But I can say, and I have to point it out, that there is also a signature here of Dr. Gavric but his first name was Ljubisav and mine is Jugoslav, so that's kind of similar and at times patients would confuse the two.",
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, if the patients came in at night for an emergency, you said that they perhaps were not immediately registered in the logbook. Would you have expected that they would have eventually been registered in the logbook?",
+      "examination": "direct"
+    },
+    {
+      "id": 167,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "If a patient was brought in overnight as an emergency case, and that was most often the rule, then the emergency service would register the information for those patients, whereas here we have the surgical ward, so that's a different department. Now, the emergency service should have the information for emergency cases, and then, once the patient was transferred to another ward, then they would have to be registered at that department. That was a standard practice in our hospital.",
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay. I believe that would have been my final question, but if I could just have one moment to confer? Thank you."
+    },
+    {
+      "id": 169,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Dr. Gavric, just one final question: Do you know that within approximately 10 days of these patients being taken out -- taken from your hospital that you worked in, that they were never heard of again and that there was an order that they be killed?",
+      "examination": "direct"
+    },
+    {
+      "id": 170,
+      "speaker": "JUGOSLAV GAVRIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know anything about an order for, as you say, an execution of these patients. I've never heard of anything of that sort, and I never had occasion to hear anything to that effect, especially not from my associates, and it is hard to imagine that they would have ended up like that. But we never had any further information on those wounded, and I never had occasion to hear anything subsequently about them, so I couldn't really say anything about that. I have to repeat: To me, at that time, it seemed that the most logical solution was, and that appeared quite logical to me, that they were or would be taken and transferred to Tuzla, but we had no communication with Tuzla so I wouldn't have received any feedback from them to that effect.",
+      "reply_to": 169
+    },
+    {
+      "id": 171,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Dr. Gavric. And that concludes my direct examination."
+    },
+    {
+      "id": 172,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. Before I give the floor to Mr. Tolimir, I would like to get some clarification from the witness. When we have listened to Ms. Hasan and the summary of your previous testimony in the Popovic case, she mentioned that these 10 to 15 patients were Muslims. Do you have such an information that they were Muslims? And if so, how do you know that?"
+    },
+    {
+      "id": 173,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Well, you see, the documents that they had with them, I really never gave them much notice, and I really didn't know who the wounded people were. I didn't know that. I didn't even read a single name on those documents because in that case I would have been able to conclude whether they were Muslims or not. So I did not really go into such detail."
+    },
+    {
+      "id": 174,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Can you tell me something about the Milici Hospital: Was it a civilian hospital or a military hospital?"
+    },
+    {
+      "id": 175,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Well, that was primarily a health centre, which means that it only provided primary health care in Milici municipality. However, during the war, because of where the front line and the fighting was, a part of or some parts of the facility of the Milici Health Centre were actually transformed into a clinic. So they had some 10 to 15 beds for some patients, gynaecology, for instance. As for Dr. Davidovic, he was a neurosurgeon - in other words, he was a surgeon - and he actually made sure that he could practise his own specialty there, where he was. In other words, he performed operations on patients who had neurological problems. For instance, the herniated disk or something to that -- of that sort."
+    },
+    {
+      "id": 176,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Once again, I would like to know if this institution, medical centre or hospital, was under the authority of the army or under the authority of a civilian administration."
+    },
+    {
+      "id": 177,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] It was a civilian facility, as far as I know. However, because of where it was, it too admitted injured patients and those who were wounded in fighting, in the war. However, the most serious cases were transferred and referred to our hospital in Zvornik, but they too had, and kept for a while after providing treatment, some wounded persons as patients."
+    },
+    {
+      "id": 178,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. We saw the document P1169 on the screen. That was this kind of order signed by Mr. Davidovic -- Dr. Davidovic, and I read in this document that he was referred to as director of the Milici Hospital. Earlier today, you said, and this is page 9 to 10, page 9, line 24: \"That order was from the Army of Republika Srpska, from its medical staff or the head of the medical corps of the Army of Republika Srpska. As far as I can remember, the order was signed by Dr. Davidovic as the director of their hospital.\" When I read this, I have formed the impression that that was a military hospital in Milici. Could you help me to understand what kind of hospital it was."
+    },
+    {
+      "id": 179,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I'm afraid I will speak at length. Now, to be registered as a hospital, you have to be registered, you have to receive approval from the ministry, and the facilities have to meet certain standards, in terms of equipment, staff, and so on. However, what I mentioned a few moments ago, that facility was, in fact, a health centre, a small clinic. But in view of the fact that Milici was in an area where there was need to also treat wounded persons, then that facility, or, rather, the building was adapted so that it could, in addition to its regular work, which was primary care, provide also care as a hospital facility. And I know that Milici and Dr. Davidovic, in fact, did receive certification from the Ministry of Health so that they could operate as a hospital. However, as far as I know, nowadays that is no longer the case and I believe that Milici is again just a primary care facility."
+    },
+    {
+      "id": 180,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Dr. Gavric, I must confess that was not my question. I wanted to know if there was a civilian authority, like Ministry of Health or an institution from the municipality, or if it was a military hospital or military health care centre. That was my question."
+    },
+    {
+      "id": 181,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I apologise. As far as I knew, that was a civilian facility, a facility of the civilian authorities, and as I mentioned a moment ago, the Ministry of Health issued its permit so that this facility could operate as a hospital. That's as far as I know."
+    },
+    {
+      "id": 182,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "That clarifies the situation. Thank you very much. However, you said earlier in your testimony, \"That order\" to transport the patients from Milici to your Zvornik Hospital \"was from the Army of Republika Srpska, and the order was signed by Dr. Davidovic.\" I would like to know the link between Dr. Davidovic and the Army of Republika Srpska. Can you help me?"
+    },
+    {
+      "id": 183,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] In wartime conditions, in those years, civilian institutions, including the medical centre in Zvornik, practically functioned also, and operated and worked, as required by the military authorities as well, so that there was a level of cooperation. I can only assume that Dr. Davidovic had the same sort of cooperation with the military authorities. After all, we were a single institution, and we all worked together in handling these health issues."
+    },
+    {
+      "id": 184,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "After this explanation, I take it that the hospital in Zvornik, your hospital, was also a civilian hospital but, in war times, with a certain relation to the military; is that correct?"
+    },
+    {
+      "id": 185,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes. We had to provide personnel, for instance. The army did not have this profile necessarily, and as required, we would provide all kinds of, or all specialties of health care personnel, including lab technicians, doctors, and so on."
+    },
+    {
+      "id": 186,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I have an additional question. These patients you were transferring from Milici to Zvornik, were they men or women, or both?"
+    },
+    {
+      "id": 187,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, they were all men."
+    },
+    {
+      "id": 188,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Were these acknowledged as emergency cases?"
+    },
+    {
+      "id": 189,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, although there were also patients who were slightly injured."
+    },
+    {
+      "id": 190,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. And my last question is, the infirmary at the Zvornik Brigade, was that part of the army, the facilities and the staff there, or was it a civilian institution?"
+    },
+    {
+      "id": 191,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] The infirmary was within the military structure exclusively. However, we did provide our staff, the staff from the medical centre, and they were conscripts, as opposed to us who worked at the other facility where we were not conscripts."
+    },
+    {
+      "id": 192,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. Now Judge Mindua was a question for you."
+    },
+    {
+      "id": 193,
+      "speaker": "JUDGE MINDUA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] Dr. Gavric, I just would like you to clarify something. I have concluded that the hospital in Zvornik, so that you wanted to know from the hospital, at the hospital in Zvornik, you would be concerned with their wounds, and you were concerned because no doubt you, yourself, took them from Milici to Zvornik. However, could you tell me this: Once they were released from your hospital, discharged from your hospital in Zvornik, and sent to Tuzla, and in view of the gravity of the wounds of some of them, why is it that you did not inquire further about their general condition and also specifically about the condition of their health? Because, as you've said in the transcript on page 22, line 7 -- lines 7 through 14, it's a standard practice within your profession."
+    },
+    {
+      "id": 194,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] If I may reply now. Well, as I've already said, my working hours were regular working hours. In other words, I did not work in shifts, especially not on the night shift. Every morning I would start my work at 7.00, and it was customary or, rather, it was our practice that all the heads of departments should come and report on the situation. If a problem arose, then we would discuss how to resolve it. Now, the first information that I received was from my assistant, who was also there, who told me that all of those wounded people, patients, had been transferred to Tuzla overnight so that there was no longer, for me, to deal with that matter and to -- for me, that was the end of that matter. And I have to reiterate, I never heard from any other of my associates any additional information about them. And so in this maelstrom of war, in this urgency and urgent handling of matters, this information was no longer my focus, because there were new problems that were arising all the time."
+    },
+    {
+      "id": 195,
+      "speaker": "JUDGE MINDUA",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Interpretation] Thank you very much."
+    },
+    {
+      "id": 196,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ms. Hasan, you have used the Zvornik Hospital medical log with the witness, 65 ter 1326. Are you tendering this?"
+    },
+    {
+      "id": 197,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, I should have done so. It's -- yes. That was 65 ter 01326. Now it's one of the -- perhaps I should ask the witness to take off his headset so I can just give you some background on where this document comes from."
+    },
+    {
+      "id": 198,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "If you don't want to examine him on that, it's not necessary to explain something at the moment. Is that already in e-court, the whole logbook?"
+    },
+    {
+      "id": 199,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, it is in e-court."
+    },
+    {
+      "id": 200,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gajic?"
+    },
+    {
+      "id": 201,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, there is no need for any explanation with regard to the logbook. The witness's explanation suffices, so Ms. Hasan doesn't need to do it either in front of the witness or in the absence of the witness."
+    },
+    {
+      "id": 202,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The logbook will be received as a document, as an exhibit in this case."
+    },
+    {
+      "id": 203,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "As Exhibit P1438, under seal, Your Honour."
+    },
+    {
+      "id": 204,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. We have to adjourn now. We must have a break now, sir. The Court Usher will assist you during the break and we will perhaps resume. Mr. Tolimir? I wanted to give you the floor after the break."
+    },
+    {
+      "id": 205,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. I apologise to everybody. I would like to greet everybody, including Dr. Gavric. May God's peace reside in this house and may God's will be done in these proceedings and not necessarily mine. There is no need for Mr. Gavric to come back at all after the break. We will not have any questions. The Prosecutor's examination suffices. She put a lot of questions, she received a lot of answers. There is no need for us to cross-examine Mr. Gavric. On behalf of myself and the Defence, I would wish to -- wish you a safe journey back home."
+    },
+    {
+      "id": 206,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. Tolimir."
+    },
+    {
+      "id": 207,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much, Mr. Tolimir. Ms. Hasan, after the questioning by the Chamber, do you have any re-examination?"
+    },
+    {
+      "id": 208,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, I do. It will take perhaps ten minutes or so. So, or 15 minutes. Perhaps we can break and then resume after the break, if that's --"
+    },
+    {
+      "id": 209,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Tolimir?"
+    },
+    {
+      "id": 210,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "type": "statement",
+      "text": "[Interpretation] I don't know whether this is in keeping with the procedure and the rules. This was not announced. And since there has been no cross-examination, I don't see a need for any re-examination on the part of the Prosecutor."
+    },
+    {
+      "id": 211,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Nevertheless, the parties should consider the situation. The Chamber will do the same. We must have our break now, and we will resume quarter past 4.00. Please be patient. The Court Usher will assist you during the break but you can be sure it will not be a very long time after the break. We adjourn."
+    },
+    {
+      "id": 212,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I was told during the break that the Prosecution wants to raise an issue in the absence of the witness."
+    },
+    {
+      "id": 213,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Mr. President, and that's simply to explain why it is that I have some further questions for this witness after the questions posed by this Chamber. There is two points, actually, that arise from the answers this witness gave and the questions posed, the first one being that he was -- it was put to him that the summary that I had read out, summarising his previous testimony in the Popovic case, mentioned that there were 10 to 15 patients that were Muslims and he was asked whether he had any information that they were Muslims; and if so, how did he know that? And he responded that he didn't know that. Now, the summary that I prepared is based on his prior testimony in the Popovic case, which incorporates his prior statements as well, and in both his testimony and his statement, he has indicated that he had knowledge that these patients were Muslim. So I think, in fairness, given that the summary is being questioned for its accuracy, that I should clarify with him the answer that he gave. Otherwise, it certainly leaves the impression that the summary that we've presented to this Court is inaccurate and does not reflect what he's said in open court. That would be the first matter. The second one is the question -- he responded to one of the questions and he said, in answer to the question, that he was told that the wounded Muslims were taken to Tuzla, and he emphasised that, for him, that was no longer the matter -- no longer -- that was the end of the matter for him. And again, he has -- his own doctors went to the infirmary from his hospital, his staff members, the employees of that hospital, to treat those patients, those very same patients, at the infirmary in the Standard barracks, and for him to suggest that he had -- that was the end of the matter for him, there is some evidence from witnesses who have testified in the Popovic case, Dr. Begovic, which is going to come in through -- he's a 92 bis witness without cross, that there was discussion about -- that there was conversations between Major Obrenovic, Dr. Begovic, about arrangements between the Zvornik Hospital and the infirmary and the use of some of the hospital staff to treat these patients at the infirmary. So on that point as well I wish to pose some questions to the witness to address the comment that he made in response to one of the questions from the Bench."
+    },
+    {
+      "id": 214,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Tolimir, you wanted to get the floor?"
+    },
+    {
+      "id": 215,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "type": "statement",
+      "text": "[Interpretation] Yes, thank you, Mr. President. There is no foundation for the first question. The patient [as interpreted] said that he had -- knew about the transfer. He said that in the course of the examination-in-chief, in answering the Prosecutor's question. He said that. So why should there be a cause for additional examination? He already answered that in answering the Prosecutor's question and in answering your questions, Your Honours, he said, yes, I know. And he said literally this: \"I knew. I was told they were Muslims.\" He was asked whether they were all male and there were some additional questions, and he also told us that he knew that they had been transferred to Tuzla. He said that in the course of his examination-in-chief in answering the Prosecutor's questions. He never mentioned the fact that they were transferred to the infirmary, as the Prosecutor now claims. That was not said in answering either the Prosecutor's questions or the Judges' questions. There were no questions to the effect whether they were transferred from the Zvornik Medical Centre to the Zvornik Brigade infirmary. Why should there be questions to that effect since that was not raised either during the examination-in-chief or the examinations by the Judge. And why should the Judges' questions be a foundation for additional questions? In any case, what the Prosecutor has just mentioned goes beyond the scope of either the examination-in-chief or the Judges' questions. Thank you."
+    },
+    {
+      "id": 216,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ms. Hasan? Do you want to respond?"
+    },
+    {
+      "id": 217,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. In respect of him having said \"I knew I was told they were Muslim,\" he contradicts that in answer to the questions from the Bench. So the record needs to be straight one way or the other, and I think that warrants clarification. And then the -- in respect to the second point, that he -- that they were transferred to Tuzla, well, what he said in answer to the question from the Bench was that, \"For me, that was the end of the matter,\" that he -- it's not about his knowledge whether they were transferred to Tuzla. That's what he claims to have been told. But the question is he says he had no involvement otherwise, and what we have is evidence that he was involved. And there is other witnesses who say -- Dr. Begovic, who says that he had involvement in the arrangements that were made to bring staff members over from the Zvornik Hospital to the infirmary."
+    },
+    {
+      "id": 218,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "So we have the position of the Prosecution clear on the record: Are you impeaching your own witness on these questions?"
+    },
+    {
+      "id": 219,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. Since he's contradicted himself, I will have to impeach him."
+    },
+    {
+      "id": 220,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The Chamber will consider the positions of the parties. Mr. Tolimir, do you want to respond? I'm sorry."
+    },
+    {
+      "id": 221,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Just one other point, if I may just briefly confer."
+    },
+    {
+      "id": 222,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you. Just the final point, which is, of course, whether we have an opportunity to ask further questions of this witness after questions have been posed by the Bench is -- we acknowledge is certainly a matter for the discretion of the Chamber. However, I can imagine that Mr. Tolimir himself would not -- will want, probably in the rest of the case, an opportunity to put questions to a witness after questions that have been put forward -- put to that witness by the Chamber. So if -- you know, although it's a discretionary matter, it's certainly one that can be exercised fairly between the two parties."
+    },
+    {
+      "id": 223,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The Chamber will consider -- Mr. Tolimir?"
+    },
+    {
+      "id": 224,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, in the explanation, we heard that there are other witnesses' statements speaking about the knowledge of this witness, but those statements were not created before this witness appeared before the Bench. They were known to the OTP before that and they could have used it in their examination-in-chief. The witness told us, before he told us where and when he was born, he said that nobody told him that they had ended up in the outpatient clinic in Zvornik. He said that. And the foundation for additional examination on the part of the OTP can only be your questions, but that goes beyond the scope of your questions, Your Honours. The Prosecutor cannot re-examine based on her own questions put to the witness during the examination-in-chief. And second of all, the accused stated that he did not have any questions arising from the Judges' questions, which means I don't have any questions. I don't think we should create a precedent here, because it's not important at all. It is up to the Bench to decide. There was no cross-examination at all. It was stated that there would be none after the Judges' questions. I made my position clear. There will be no cross-examination. I don't know why I have to repeat that. I might reconsider it if some new issues are reopened during the additional examination. Thank you."
+    },
+    {
+      "id": 225,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think it is clear from the record that you stated not to have cross-examination for this witness after the questioning by the Judges. This is clear on the record. The Chamber will consider the positions of the parties."
+    },
+    {
+      "id": 226,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you for your patience. The Chamber has considered the positions of the parties seriously. The request of the Prosecution to re-examine the witness is denied on the following reasons: The first one has to do with the witness summary read out in the courtroom by the Prosecution. The witness summary is not in evidence. It's not part of the evidence. It is just information, informal information. It might happen that sometimes there are differences between testimony of witnesses in one case and in the other case. It is up to the Chamber to give weight to that difference, if there is a difference, at the end of the trial. The Chamber has the discretion to allow, after questions by the Bench, to put additional questions in relation to these questions of the Bench. I asked the Prosecution if they want to impeach their own witness. The Chamber has the discretion to allow that or to deny that. The Chamber does deny that in this case because there is no need for that, even if there is a slight difference. In respect of the second question the Prosecution wants to put to the witness, this goes far beyond the questions of the Judges from the Bench. Nothing was asked in relation to the personal relation of the witness to the infirmary of the Zvornik Brigade, so that -- and if he used the word, \"this was the end of the matter,\" there is a -- can -- there may be some interpretation how to judge this sentence. The Chamber will give weight to that at a later stage of this trial. I would like to remind everybody that the Chamber has the discretion to allow additional questions, if they arise from the questioning of the Bench, and that was at the end of the whole testimony of a witness. We expected, after our questions, that there would be cross-examination. There was no cross-examination, therefore it was the end of the examination of this witness. And therefore, we had the discretion to allow or not to allow to put additional questions. In this case, the Chamber didn't allow that, or doesn't allow it. So that we should bring the witness into the courtroom again to explain the situation, and that this concludes the examination of the witness."
+    },
+    {
+      "id": 227,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Dr. Gavric, please sit down for a moment. Please sit down. I apologise for the delay, the very long break. We had a procedural discussion about some procedural matters, and the Chamber has decided that this concludes now your examination here in the courtroom. There are no more questions for you, you are free to return to your normal activities, and we wish you a safe journey back. The Chamber wants to thank you for your attendance here, for the answers you were able to provide, and we wish you good health and a safe journey back. Thank you very much. Now you are free to leave the courtroom."
+    },
+    {
+      "id": 228,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you very much."
+    },
+    {
+      "id": 229,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I was informed that the Prosecution has no more witness available for today. Is that the case, Mr. McCloskey?"
+    },
+    {
+      "id": 230,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, it is, Mr. President. And if I could just outline how that has occurred so that you're fully apprised of that. Good afternoon, everyone; Mr. President. I was fully prepared to begin the week with Dr. Haglund, and as you may have -- I don't know how much of the details you know, but he is a very willing and a well-travelled man, though he is getting older, like the rest of us, and he was ready to come, but at the very last minute he had a -- had to have an urgent stent put in."
+    },
+    {
+      "id": 231,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Thayer gave us some information about that."
+    },
+    {
+      "id": 232,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good. As you know, I wasn't completely around. So it's actually turned out, in a way, better this way, because if Dr. Haglund had testified, we would have kept Dr. Gavric here himself, who, over the long -- probably over the long weekend, and this way we are -- instead of doing that, we are losing roughly two hours. The other problem that I know you're aware of is the Skorpion video, which was hotly contested by the Defence, they gave us a three-hour estimate for Mr. Stojkovic, this very important witness, so that was incorporated, of course, into our estimate. This witness on the Milici patients part of the indictment, the one live witness that we have for this very important event, the -- we had an hour and a half estimate. So -- and when we get estimates from the Defence, they've actually, as we've looked at them over the period of months now, they are usually reliable. When we get them, they have been fairly reliable, as reliable as lawyers or parties are -- can be in these things. So Mr. Thayer, I know, took that into account, so having that in play, I think it worked out better than it would have had we -- had we had Dr. Haglund, which was our original design, though I don't like losing the two hours and I know that's not good for any of us, but I think overall it is part of the cost of how we do this. I'm sure you understand the incredible stress of this -- of any trial on the parties, and the stress of bringing the witnesses and organising that and dealing with heart patients and victims and everyone is a tremendous thing, and Mr. Thayer is working hard, as I know you know. We regret that two hours, but that's the explanation, sir."
+    },
+    {
+      "id": 233,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "In this case, we are not too much concerned about that because we see you had the problem with the witness, Dr. Haglund, and we have heard two witnesses who have been subpoenaed this week and this is always a problem to schedule them in the right way. Mr. Gajic, you want to respond?"
+    },
+    {
+      "id": 234,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, just briefly. As far as the announcement of three hours for the witness that we heard yesterday, if the Prosecutor's question had been different, if the witness had been asked the customary questions about Skorpions, if he had been shown different pieces of evidence, we would have certainly needed three hours. Maybe that would have been too short. Since the witness testified viva voce, since we were happy with the answers provided to the Prosecutor's questions, we did not have any cross-examination. We are mindful of the Trial Chamber's words about the economical use of the courtroom time. That's why we did not cross-examine. And as far as Mr. McCloskey's explanation about Skorpions is concerned, I believe that the Defence position is quite clear. I don't know what Mr. McCloskey meant when he said the Defence challenges that Skorpions video and their involvement. I believe that the Defence has clearly stated their position with this regard so far. And let me just add, we were even favourable to admitting the judgement from that trial into our case. So I really don't know what Mr. McCloskey meant when he said that the Defence is challenging the Skorpions' involvement and the Skorpions video."
+    },
+    {
+      "id": 235,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. McCloskey?"
+    },
+    {
+      "id": 236,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. I am very happy to hear that they are -- that they are clearly not challenging that incident. That was not my impression from the questions from the response to our motion to provide this material. This material has always come in before under stipulation just because it's so ghastly and no one has required us to bring it in and bring in witnesses. So I'm very clear that they've come around to that wisdom and there is no longer -- I would point out to the general and to Mr. Gajic, their position is generally about as clear as mud because they say We take no position, is usually what they take, which sometimes translates into We have no objection, sometimes it translates to We agree and sometimes it translates to an objection. So if they could clarify that continuing repetition of how they respond, we will understand better and perhaps be able to save some time. I've also noted and I would like to propose to General Tolimir, since I don't get the chance to talk to him directly, Mr. President, on something that may help save some time. We have seen, I know the Court understands, that there have been many cases of 92 -- witnesses that we proposed as 92 bis now that they hotly contested 92 bis, and then we put them on, there is no questions. Now, we, like the Court, like everyone, appreciates that and understands the strategies involved and that may be part of their -- the strategy that they don't really need one when they thought they might have. But I would ask the general to please, as this is becoming quite numerous, to review those 92 bis witnesses, and perhaps there are others where we can reach some kind of an agreement on some point you wanted to make on cross-examination or that you won't have any questions and so we don't have to call them. So that's just something I ask. We are willing to reach agreements on things, on points you want to make, I'm sure we are going to agree on things, especially basic military issues. And so I offer that as a proposal. It might help us save some time so that we, especially with these 92 bis, with cross witnesses and that, that's all I wanted to propose. Thank you."
+    },
+    {
+      "id": 237,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gajic?"
+    },
+    {
+      "id": 238,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, the Defence sometimes says that they don't take any position, like, for example, with regard to the searches of the Mladic family houses. We are very clear; we don't take any position. If we challenge something, we say it clear and loud. As far as 92 bis witnesses are concerned, the witness who testified yesterday testified viva voce. There are different reasons why we wish to cross-examine a witness. If the Trial Chamber puts questions that would have been asked by the Defence, if the Prosecutor put questions to the witness that would have been asked by the Defence, then obviously we won't have any cross-examination. In most of the cases, we do have questions and our cross-examinations are quite lengthy. Our position is contrary to many of the positions taken by Mr. McCloskey or the OTP in general. Sometimes there may be overlapping, but there is no overlapping between the OTP and the Defence in terms of some essential military issues raised in this case. It is very important for us to see witnesses in the courtroom, for the witnesses to provide their statement. Like, for example, yesterday the witness who was a member of the Skorpions came and testified and confirmed many of the things that the Defence proposes. In other words, some of the witness's positions were contrary to the positions of the OTP, and if he stated that clear and loud during the examination-in-chief, there was no need for us to cross-examine. If the Prosecution wanted the judgement to be one of the pieces of evidence admitted into evidence, just like we did, then there is no disagreement, although originally that judgement was not on the OTP list according to the 65 ter rule. I believe that so far we've had very successful cooperation and work here in the courtroom, and when it comes to procedural issues, I don't think that there have been major problems between the parties, especially not such problems which would not be able to find a solution. And it's important that we see the witnesses here in the courtroom. There are many reasons for that. And most of the reasons were presented by us in our submission in reply to the OTP's motion pursuant to 92 bis rule. But, again, let me reiterate this: The Defence, just like the OTP, is not in a position to envisage what a certain witness will say in the courtroom. We don't have any contact whatsoever with those witnesses. More often than not, when they appear in the courtroom that's the first time we see them. I believe that, so far, everything in this trial has followed a normal course of action and I don't see any reasons why that should not be the case from now on."
+    },
+    {
+      "id": 239,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gajic, I highlighted here one sentence: I believe that so far we have had a very successful cooperation and work here in the courtroom. I think this is true and everybody would agree to that. Otherwise, we have to discuss sometimes the situation, and the Chamber has invited both parties to consider the situation until February, how many witnesses are really necessary to be called. I would invite both parties to liaise in the next weeks to discuss this matter and come to a mutual understanding. First, Mr. McCloskey, I don't think that there is a real need to have a lengthy discussion only because we have no witness available this afternoon."
+    },
+    {
+      "id": 240,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, I was merely going to restate what you just stated. Fundamentally, there is a good cooperation, and I thought mostly that was the tenor of my proposal. On the -- but I did want to address the issue of the judgement of the Skorpion video in Belgrade. Mr. Gajic and I have, of course, like we do many times, have spoken about that after he offered it, and we discussed potential options for that. One of the things I discussed with him was that he offered to take some time or the general take some time and argue the relevance of that before the Court so I could understand what it was, why they wanted to read it in open court and make a comment on it. I am open to that kind of creativity. This is a long trial. Both sides may need to make points to help clarify issues related to witnesses, and if we get around to only making those points in our trial brief and in our closing brief, it's going to be rather difficult because none of us are really going to remember the details of the day. So the idea that they have something that they think was important for that witness to read in to the Court and make an argument on it, I welcome that. I would like, of course, to have my own chance to respond to connect the way I may want you to connect, you know, given the same amount of time. Of course, there may be the rub. But we've offered that, we have discussed that, and he has not -- and the general has not discounted that out of hand. So we continue to speak like that, to offer that to you for your consideration. We haven't gotten there yet, but since he brought that piece up, I do remain open for that coming into evidence. Of course, I may want another judgement on the Skorpion video along with it but we haven't gotten there yet. So we do remain open for that and we can do that, of course, at any point. But that's all I needed to say."
+    },
+    {
+      "id": 241,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gajic?"
+    },
+    {
+      "id": 242,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, of course we have frequent occasion to -- for exchanges with the OTP. We spend four days a week in the courtroom. We have discussed many issues. Some of those discussions have been informal, others a bit more formal. However, our application yesterday with respect to the judgement on the Skorpion case only related to the quote of Mr. Vanderpuye who quoted the summary of the Defence of Branislav Medic and my only intervention was our desire to actually present to the Trial Chamber what the nature of the Defence case of Branislav Medic was, and that was what we wanted to read out in the courtroom yesterday, just the brief paragraph from this judgement, and the assessment by the Belgrade Court of that portion of Branislav Medic's testimony. Why did we insist? Because this witness was unable to say anything about it because he's not qualified to compare different statements and testimonies, especially if they are only summaries of testimonies or statements. In other words -- and in the final analysis, he didn't even have to know them. He spoke and testified about what knowledge he had about the events, and he shouldn't have been asked to comment on others. Now, we consider that we could be given the opportunity to read that portion of the judgement. However, if the Trial Chamber decides that we can do it at a later stage and perhaps in our closing arguments, we will comply with that. However, I think that when we -- when factual matters are at hand, we should not really have lengthy discussions about it, between the parties. We have witnesses and, of course, when the time comes we will have to provide our clarifications, and I believe that that's what the Prosecution has been doing throughout this, throughout their case, beginning with the series of witnesses who were involved in their intercepts where Mr. Vanderpuye gave an intro into their testimony. I did not find that this was something quite out of the ordinary in this case. Therefore, I feel that, of course, we should not insist on that too much but we should also not be deprived of such an opportunity."
+    },
+    {
+      "id": 243,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I would like to know what is the purpose of reading a part of a document into the record which is already in evidence? I really don't understand the purpose. You are not giving evidence, Mr. Gajic. Reading a text, fine. It doesn't take too much time. But what is the real purpose of it? If you could indicate the part of the document, the lengthy document, everybody present in the courtroom can do it by his own."
+    },
+    {
+      "id": 244,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, the purpose of that reading was for the Defence to present their position on a very important issue. So that was the purpose and the reason why we wanted to read and highlight this one paragraph from the judgement, and to point out that the Defence position actually takes the same position that the Chamber -- the war crimes Chamber in Belgrade took. We have had occasion to hear many OTP witnesses here who are OTP investigators, and they, of course, present the OTP position. Now, here we wanted to perhaps depart from a general rule and do that ourselves, and just point out one portion of -- to one portion of this judgement. That was our only intention and purpose."
+    },
+    {
+      "id": 245,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. McCloskey?"
+    },
+    {
+      "id": 246,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. Mr. Gajic's explanation was clear in what I thought he meant, and that was a chance to intervene and make a small argument and make a small point during the Prosecution's case, be it small or large, because it's a long case, because they have to wait for a while to put on their own evidence. Very unusual in an adversarial system, but this is not an adversarial system, and I applaud that. I would like the ability, especially if we had a day period or a two-day period where there weren't witnesses, for the Defence to get up and give their two hours of putting the case as they've seen it together in the last week or two weeks, and saying what they say about one witness or another witness. Of course, then the Prosecution gets the same time. And that way the point that he wanted to make could have been made and I could have responded or made my own point. Unusual, but I think warranted in these long trials. I'm trying to remember what happened two weeks ago, and it's difficult. And I've heard much of this evidence four times. So I applaud this. I think it's a good idea, and I welcome it. Especially if it will help us productively provide something the Court is interested in, of course, on down time. That's the most important thing. If it doesn't sound of interest to the Trial Chamber, we certainly don't want to go there, but it does help the parties clarify a long case."
+    },
+    {
+      "id": 247,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gajic, if the text you want to read is shorter than the discussion we just had about this matter, then you should read this text into the record."
+    },
+    {
+      "id": 248,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, it certainly is shorter than this discussion that we've had here. It is a very short text. My apologies, Mr. Tolimir would like to say a few words before I begin."
+    },
+    {
+      "id": 249,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Tolimir?"
+    },
+    {
+      "id": 250,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "type": "statement",
+      "text": "[Interpretation] Thank you. Mr. President, Mr. Vanderpuye yesterday, toward the end of our court day, asked whether the Defence would have any questions for the accused [as interpreted]. However, we said that if it was necessary for the witness to leave, we had no cross-examination and, instead, we just wanted to read out this portion of the judgement. So that was the only reason why we wanted to do that. If you so wish, he may read it out now."
+    },
+    {
+      "id": 251,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, I will start by reading. This is case P1437, page 82, in e-court, the last paragraph, and the first paragraph on the next page, as well as page 111 in e-court, in the English version. The relevant portion reads as follows: \"The accused --\""
+    },
+    {
+      "id": 252,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Sorry, I saw Ms. Hasan on her feet and this is -- the Chamber would not accept to have this instead of a cross-examination. The words of Mr. Tolimir could be misunderstood. The witness yesterday was not under time pressure. He should have or could have come back to the courtroom today. This was not the question. You didn't have any cross-examination, Mr. Tolimir, and there is no replacement of cross-examination by reading a text. But despite of that, despite of that, Mr. Gajic should read the text now, and Ms. Hasan is no longer on her feet. Please continue, Mr. Gajic."
+    },
+    {
+      "id": 253,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Interpreter's note: This being an official document, we would appreciate having it on the screen."
+    },
+    {
+      "id": 254,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] In the relevant portion the document reads as follows: \"The accused Branislav Medic, in his Defence --\""
+    },
+    {
+      "id": 255,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The interpreters asked for the document on the screen. I think that would be helpful for the interpreters. You said this is P1437, page 82, in e-court. In that case, we need both versions. We have now only the English."
+    },
+    {
+      "id": 256,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] In the English version, that's paragraph -- second paragraph on this page. Yes, now we have the right versions in both languages. In the Serbian language it is in the last paragraph of this page. With the Chamber's permission, I would like to read out this portion: \"The accused Branislav Medic said in his defence that on the critical date he had received an order to transport the prisoners to the place of execution from Republika Srpska army officers whom he had never seen before and never saw again. Such a defence by the accused Branislav Medic was obviously aimed at easing the position of the accused Slobodan Medic and the same is contradictory to the -- in contradiction to the defence of the accused Petrasevic, Pera, and Aleksandar Medic as well as the testimony of Stojkovic Slobodan, whose words the Court believed and on the basis of which the Court established that it was Slobodan Medic himself who was the one who had sent them on assignment on the relevant morning and issued a concrete order to Petrasevic to execute those prisoners.\""
+    },
+    {
+      "id": 257,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much. This was part of this document read into the record which itself is already in evidence as we have received the judgement yesterday as an exhibit. Mr. Gajic, you want to add something?"
+    },
+    {
+      "id": 258,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, Mr. President. And I will be very brief. Because of the nature of the -- of this paragraph we did not wish to read it out in the witness's presence. That's the first thing I meant to say. And secondly, I just wanted -- we just wanted to read it out in order to underline the position of this Defence on this particular issue."
+    },
+    {
+      "id": 259,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "That means the Defence in this case. Thank you. Mr. McCloskey?"
+    },
+    {
+      "id": 260,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, and this was clearly the kind of argument that I was mentioning, and if I could have 30 seconds to underline the Prosecution's position on that point?"
+    },
+    {
+      "id": 261,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Please go ahead."
+    },
+    {
+      "id": 262,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you. It's the Prosecution's position, Mr. President, that it wasn't just the Skorpion group that we saw that decided on their own to kill these six men. It is clearly the result of orders from high above, and I would point out for you that these men came all the way across -- the Srebrenica victims that you've seen, it's been already proven, came all the way across Bosnia from Srebrenica, were distributed to these people. There was no way this was just one unit doing this, that it came on orders from a much higher authority, and you will see the evidence related to that and I believe you will conclude that it came from a higher authority, which happens to be consistent with this particular Defence. Thank you."
+    },
+    {
+      "id": 263,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Just for the record, that was the position of the OTP and you were not giving evidence."
+    },
+    {
+      "id": 264,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No. And as I would imagine, we must view the same thing from what Mr. Gajic did; and I referred to some evidence and he's referred to some evidence, and I hope that you find that helpful."
+    },
+    {
+      "id": 265,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think this concludes this matter. I would like to turn to another matter. On Monday, the 29th of November, this Monday, the parties made submissions regarding the cross-examination of the witness Tomasz Blaszczyk. The Chamber has considered carefully the submissions of the parties and the Chamber now wishes to request the accused to clarify his request. Mr. Tolimir, there are some unclear issues. The first one is we understood that you requested more time. Could you tell us for what purpose?"
+    },
+    {
+      "id": 266,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. We have to review all those diaries in order to see whether what Mr. Blaszczyk was telling us about these diaries is credible or not. Those diaries were found so much time after the war. Some people raised an issue of their authenticity, and that's why we need time to form our own opinion. I told you clearly when I spoke about that, when Mr. Blaszczyk testified, that General Tolimir accepted everything that his commander either wrote or said about him during the war but I don't know whether I have anything to add to that or not. Thank you."
+    },
+    {
+      "id": 267,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you very much for this clarification. I take it that you are referring your request just to the diaries tendered through the witness Tomasz Blaszczyk on the hearing and during the examination-in-chief on Monday. Is that correct?"
+    },
+    {
+      "id": 268,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "type": "statement",
+      "text": "[Interpretation] Yes, thank you. That's correct. That's what I meant. The material is voluminous and I never had an opportunity to read those materials before, so I would like to see whether anything was added to them after the war."
+    },
+    {
+      "id": 269,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. McCloskey? You are on your feet and could you please remind us, when were these diaries of Mr. Mladic were disclosed?"
+    },
+    {
+      "id": 270,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Mr. President. There is two sets of disclosure. Two different searches of the Mladic residence. One was a few years ago and -- where the diary from 1995, the most relevant period for this case, was retrieved. It's the one you may recall that was on the video that you can see him writing in. This has been around for a long time. Ms. Stewart is going to tell me exactly when. But it was provided to the Defence early on in this case, and they've had several months, if not years, to review it. Having said that, I don't feel the need to rush the general on these points, but the most relevant in many respects, the 1995 diary, was provided -- and I will give you the date because I see she's about to write it down. There is the -- 20th April 2009. So, yes, years ago. And the second group, when the Serb authorities went back into the same house and found -- as you heard, found this secreted behind a wall or something, was provided on the 8th of April 2010. This is a more recent group. It is -- there is important material in there. There is actually some material from 1995 in that second group as well. So I don't mean to rush the general with this, but when he says, \"I never have had a chance to review it,\" he needs to be reminded that he's had it for a long time."
+    },
+    {
+      "id": 271,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you for this clarification. Mr. Gajic?"
+    },
+    {
+      "id": 272,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, one thing that I would like to say, something has not been recorded, as Mr. Tolimir told me. This was not done not because we didn't have enough time; the disclosures followed the schedule explained to us by Mr. McCloskey. However, the materials were not on the 65 ter list before the trial, and in the course of the trial, most of our attention is dedicated to the materials that the OTP intends to use during trial. That's number 1. Secondly, the notebooks cover a long period, even the period that is not covered by the indictment. Here, we have about 20 binders of material that have been admitted into evidence. Thousands of pages. It's a very tall order to review all those pages, a task which takes time. If we are talking about relevance, Mr. Tolimir stated here that, yes, we reviewed the key dates in 1995. We have reviewed all those. However, everything that has been seized has been entered into evidence. We have not had an occasion to see all that, and that was due to the lack of time. We couldn't believe that the OTP would ever tender all of that into evidence. That's the main reason why we are asking for additional time before we are able to cross-examine Mr. Blaszczyk. If the Prosecution has requested admission only of the materials covering the year 1995, we would have been ready to start our cross-examination the moment the Prosecutor finished his examination-in-chief."
+    },
+    {
+      "id": 273,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gajic, please clarify something. You triggered again some confusion. Mr. Tolimir was referring to the diaries, I think 29 diaries, of Mr. Mladic. Now you say here we have about 20 binders of the material that have been admitted into evidence, thousands of pages. What is that about? We need some information about that. I'm really confused."
+    },
+    {
+      "id": 274,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I apologise. I may not have been clear enough. We are talking about materials that have been admitted through Witness Blaszczyk. We are talking about a volume of 20 binders. I'm not sure about the exact number of items of evidence. However, the notebooks plus the material introduced through Mr. Blaszczyk is what we have received, we as a Defence, in the form of 20 binders of printed material, and you will agree with us that that's a lot, a very voluminous read. I'm not sure about the number of pages. Please don't hold me to the number of pages that I mentioned. If necessary, we will be able to provide you with the precise figure."
+    },
+    {
+      "id": 275,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gajic, in the list before me from the search of the 22nd of February 2010, I only see \"Description of material: Handwritten notebook, handwritten notebook,\" and so on. I think quite a lot of them. Only the last one is -- has a title, \"Original spiral-bound notebook with handwritten entries of Ratko Mladic.\" Are you referring solely to these materials?"
+    },
+    {
+      "id": 276,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Those, plus the materials, and if I remember well, there was a table used by the Prosecution in order to establish the authenticity of the materials, i.e. the notebooks, which were being admitted. Again, another quite voluminous read, a lot of pages that have to be reviewed very carefully. All that constitutes about 20 binders. Our associates in this case have printed the relevant portions, the relevant material, and we have ended up with a total of 20 binders."
+    },
+    {
+      "id": 277,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Are these copies of the notebooks?"
+    },
+    {
+      "id": 278,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, copies of the notebooks, plus some other materials. Notebooks account for some 90 per cent of the total read."
+    },
+    {
+      "id": 279,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gajic, Mr. Tolimir told us that he was only referring to, I think, 29 notebooks. And you always say \"additional material.\""
+    },
+    {
+      "id": 280,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] In order to make myself very clear, let's ignore the additional material. However, the notebooks themselves are voluminous and they cover a period from 1991 through 1995 or 1996. Just to leaf through all that material would take a lot of time. All that has been admitted into evidence already."
+    },
+    {
+      "id": 281,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Mr. McCloskey?"
+    },
+    {
+      "id": 282,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "To clarify and to request that they get their facts straight when they make these kind of arguments, because I'm really getting tired of it, and trying to build 65 ter into something it is not, which is some sort of Rule for the admissibility of evidence. The key 1995 Mladic diary that he's had for years has had 65 ter number 5490 since the beginning and they've had it from the beginning. So enough of that nonsense. The same with two other of the diaries. Now, I will agree with him the other, newer diaries are voluminous and the materials in support of them are voluminous and we don't have a problem with him and the general getting time to take a look at those materials. There is no problem there. But this illustrates the problem of having no legal representation. They keep taking this \"no position.\" They didn't object to the Mladic diaries. They took no position. Now they are clearly taking an objection position. Any lawyer knows that this position of no position constantly used over and over again is no strategy. It's not lawyering. It's inappropriate, it's confusing, and it will lead to this kind of dialogue. So I would please, if they would consider this position of no position, it takes us nowhere except to a proper lawyer, because this is not proper lawyering, in my view."
+    },
+    {
+      "id": 283,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Gajic?"
+    },
+    {
+      "id": 284,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, I believe that this was inappropriate. This reaction was inappropriate. And we are not in a position to take a position on something that we have not had an occasion to review completely. At the moment when we do review all those things, we will have a position, we will take a position. I don't see a problem even in not taking a position on something. This is the Prosecution case, is it not? And the Prosecutor is the one that has to prove things beyond reasonable doubt. The Prosecutor is the one who, in this stage, holds the primary responsibility of admitting things into evidence. And if the Defence does not take a position but leaves it to the Chamber to do that, isn't that a legitimate position? We do not have to have a position on every single thing."
+    },
+    {
+      "id": 285,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think we should stop this discussion. We just wanted to know what is the position in respect to the material. I take it you are referring to those materials tendered and admitted through the evidence of Mr. Blaszczyk and that you need more time to examine -- to cross-examine Mr. Blaszczyk on this material. If that is the case, I think we have reached an agreement."
+    },
+    {
+      "id": 286,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, yes. I believe that we have indeed reached an agreement. There is no doubt about that, we need some more time. I apologise, I forgot to respond to something else that Mr. McCloskey raised. Not all the diaries were on 65 ter list. We didn't take a position, we didn't voice an objection either. Everything was admitted. We didn't have any objection, so I don't see a -- any reason for any heightened emotions in the courtroom. I believe that our cooperation regarding procedural issues has been good. Defence had a liberal position on the expansion of the 65 ter list, and in this specific situation we are not asking for anything else but some additional time. That's all."
+    },
+    {
+      "id": 287,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I repeat: We should stop this discussion. We -- the Chamber invites the Defence to provide us with a specific request during our hearing on Monday what you mean by \"additional time,\" what amount of time do you need for preparation of the cross-examination of Mr. Blaszczyk, and then the Prosecution will be in the position to respond to that and the Chamber will make a finding. I hope this request to the Defence is clear. Thank you very much. We are at the end of today's hearing. We adjourn and resume on Monday, in the afternoon, 2.15, in this courtroom."
+    },
+    {
+      "id": 288,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "type": "statement",
+      "text": "to be reconvened on Monday, the 6th day of December, 2010, at 2.15 p.m. 16 17 18 19 20 21 22 23 24 25"
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open Session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 2.21 p.m."
+    },
+    {
+      "after_utterance": 5,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 7,
+      "text": "WITNESS:  JUGOSLAV GAVRIC"
+    },
+    {
+      "after_utterance": 7,
+      "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 10,
+      "text": "Examination by Ms. Hasan:"
+    },
+    {
+      "after_utterance": 168,
+      "text": "[Prosecution counsel confer]"
+    },
+    {
+      "after_utterance": 211,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 211,
+      "text": "--- Recess taken at 3.48 p.m."
+    },
+    {
+      "after_utterance": 211,
+      "text": "--- On resuming at 4.25 p.m."
+    },
+    {
+      "after_utterance": 221,
+      "text": "[Prosecution counsel confer]"
+    },
+    {
+      "after_utterance": 225,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 226,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 228,
+      "text": "[The witness withdrew]"
+    },
+    {
+      "after_utterance": 246,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 287,
+      "text": "--- Whereupon the hearing adjourned at 5.35 p.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_2_December_2010.doc"
+}

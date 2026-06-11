@@ -1,0 +1,4231 @@
+{
+  "case": "tolimir",
+  "case_id": "IT-05-88-T",
+  "date": "2006-09-26",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Madam Registrar, good afternoon to you. Could you kindly call the case, please."
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Good afternoon, Your Honours. This is case number IT-05-88-T, the Prosecutor versus Vujadin Popovic et al."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Merci. I see everyone is here. I notice that Mr. Bourgon has new company."
+    },
+    {
+      "id": 4,
+      "speaker": "MR. BOURGON",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good afternoon, Mr. President, good afternoon, Your Honours. It's my pleasure to introduce Ms. Nathalie Marville, legal intern, who will be working with us until the Christmas -- the winter recess. Thank you, Mr. President."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. I thank you. And welcome, Madam. I see that Mr. McCloskey is left all alone today. The rest is pretty much full house. Colonel, good afternoon to you. Welcome back. As a sign of respect to you in particular but mainly because of my interest, our interest, in justice I make an appeal to the last three Defence teams to make an effort, a real effort, to try and finish with Colonel Boering today, if possible. I know that you have required two hours and two hours and I don't know how much more. If you can make an effort to avoid repetitive questions, let's try and finish today with him."
+    },
+    {
+      "id": 6,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Madam Fauveau. Colonel, you're still testifying pursuant to your solemn declaration that you made the first day you started testifying. That's just to refresh your memory. Madam Fauveau."
+    },
+    {
+      "id": 7,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]Thank you, Mr. President."
+    },
+    {
+      "id": 8,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel Boering, at page 11 of yesterday's transcript you mention reports made to your superior in Tuzla once a week. Could you tell me whom you were sending these reports to exactly?",
+      "examination": "cross"
+    },
+    {
+      "id": 9,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It was a major or colonel inside the CIMIC working in Tuzla, an American. I don't recall his name. And these reports related specifically to the CIMIC, so the NGO and the situation that was present in the enclave.",
+      "reply_to": 8
+    },
+    {
+      "id": 10,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also stated that the battalion sent daily reports to their superiors in Tuzla. Could you tell me who, within the battalion, was in charge of drafting such reports?",
+      "examination": "cross"
+    },
+    {
+      "id": 11,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "In the end, the report was signed by Lieutenant-Colonel Karremans, and the staff made its contributions.",
+      "reply_to": 10
+    },
+    {
+      "id": 12,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did DutchBat also send reports to the Dutch authorities?",
+      "examination": "cross"
+    },
+    {
+      "id": 13,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I assume so. However, at this moment, I'm not absolutely sure of that.",
+      "reply_to": 12
+    },
+    {
+      "id": 14,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yesterday, page 16 of the transcript, you said that before you came here, you asked the Prosecutor to sort of refresh your memory and that you were able to look at certain things as well as the NIOD report. On that occasion, did the Prosecutor provide you with your previous statements?",
+      "examination": "cross"
+    },
+    {
+      "id": 15,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The NIOD report was not applicable during the preparations with the Prosecutor. That was something of me. The Prosecutor gave me a bundle with earlier statements.",
+      "reply_to": 14
+    },
+    {
+      "id": 16,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "In this binder, did you find a statement you gave to -- for the sake of the NIOD report in 2001?",
+      "examination": "cross"
+    },
+    {
+      "id": 17,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't think so.",
+      "reply_to": 16
+    },
+    {
+      "id": 18,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You did give a statement to NIOD on the 14th of December, 2001, didn't you?",
+      "examination": "cross"
+    },
+    {
+      "id": 19,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "On the 19th of September, page 1871 of the French transcript, you mentioned leave for DutchBat soldiers and you said that they didn't want to go back to the enclave. Is it true to say that you had a week leave -- a week's leave?",
+      "examination": "cross"
+    },
+    {
+      "id": 21,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "They wanted to come back, in fact, but they did not get permission to come back. No permission from the Serb authorities.",
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "There may have been a mistake in the interpretation, and the answer given by the witness was right. Did you go on leave for a week?",
+      "examination": "cross"
+    },
+    {
+      "id": 23,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Somewhere around the end of February.",
+      "reply_to": 22
+    },
+    {
+      "id": 24,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "And after that week's leave, you came back, you returned?",
+      "examination": "cross"
+    },
+    {
+      "id": 25,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was it not fair to say that Corporal Koster left the enclave in order to be there for the burial of his father, for the funeral of his father?",
+      "examination": "cross"
+    },
+    {
+      "id": 27,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I don't recall that.",
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you can confirm that Corporal Koster was in the enclave until it fell?",
+      "examination": "cross"
+    },
+    {
+      "id": 29,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, at this moment, I don't get any sort of pictures in my head with this name.",
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "On 19th of September, page 1868 of the French transcript, you stated that your mandate was to ensure security in the enclave, to demilitarise it, and to provide humanitarian aid within the enclave, also but chiefly in Bratunac. Can we agree that one of your tasks was demilitarisation?",
+      "examination": "cross"
+    },
+    {
+      "id": 31,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, if he stated it already, I think you need to take it for granted that he agrees with that."
+    },
+    {
+      "id": 32,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Fine, Mr. President."
+    },
+    {
+      "id": 33,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it fair to say that you were to confiscate weapons if you were to come across people carrying weapons within the enclave?",
+      "examination": "cross"
+    },
+    {
+      "id": 34,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 33
+    },
+    {
+      "id": 35,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "So did the Muslims not have any good reasons to hide their weapons so that you wouldn't see them? And can we therefore say that the people in the enclave would hide their weapons from the personnel?",
+      "examination": "cross"
+    },
+    {
+      "id": 36,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "I heard him answer the first part of your question. [Microphone not activated] ... question is as follows. Yes, Mr. Meek?"
+    },
+    {
+      "id": 37,
+      "speaker": "MR. MEEK",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm sorry, Your Honour, there is no translation here. No sound."
+    },
+    {
+      "id": 38,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "It's one after the other. I can hear myself, which is unfortunate in the circumstances because it becomes very difficult for me to contradict you. Can you hear me now?"
+    },
+    {
+      "id": 39,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Now we can, yes."
+    },
+    {
+      "id": 40,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Is it all right now? So let me just repeat what I said. In the meantime, Colonel Boering, were you receiving interpretation of what I was saying into your own language?"
+    },
+    {
+      "id": 41,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, I did."
+    },
+    {
+      "id": 42,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. The only problem is that I will just repeat my intervention for the sake of those who could not hear. Also I would like to know whether the accused were receiving interpretation in Serbo-Croat of what I was saying all the time. All right. I see some nods. The problem was the following: That Madam Fauveau started asking you a question and you immediately gave an answer to that which doesn't show up in the transcript, and she followed with her second sequential question which you haven't answered because of my intervention. I'm going to put both questions again to you myself, one after the other. And if you could be kind enough to answer them one by one, as I put them to you. Madam Fauveau put it to you that the Muslims had any good reason to hide their weapons so that you, that is the DutchBat, wouldn't see them. Would you agree with that statement?"
+    },
+    {
+      "id": 43,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes."
+    },
+    {
+      "id": 44,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. That's what I had heard you [Microphone not activated] ... did not show up in the transcript. The next question is the following, and this is again not my question but Madam Fauveau's question. Can we therefore say that the people in the enclave would hide their weapons from the personnel, personnel I mean DutchBat. Would you agree with that statement?"
+    },
+    {
+      "id": 45,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Definitely in the first part of my stay at the enclave, that is true. As of mid-June, early June, when the tension was mounting somewhat and some more people were carrying hand arms already."
+    },
+    {
+      "id": 46,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Does that mean that around about June, when the situation worsened, people didn't care any much more or longer to hide weapons? Is that what you mean to convey to us?"
+    },
+    {
+      "id": 47,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] In any case, you would see more people running around with arms and they were less worried about them being taken away from them."
+    },
+    {
+      "id": 48,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. That answers the question and gives even further information than you had asked, Madam Fauveau. You may proceed with your next question."
+    },
+    {
+      "id": 49,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Quite, Mr. President. Thank you."
+    },
+    {
+      "id": 50,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you saw these people with arms as of mid-June, did you try to disarm them?",
+      "examination": "cross"
+    },
+    {
+      "id": 51,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, and we would simply bring this up in the weekly conversations with the Muslim leaders, both civil and military.",
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "But it would be fair to say, wouldn't it, that you did not succeed in disarming them?",
+      "examination": "cross"
+    },
+    {
+      "id": 53,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "If I remember correctly the --",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Just one moment. What's the problem, Mr. McCloskey?"
+    },
+    {
+      "id": 55,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, this is not a contested fact. This is part of the Prosecution's case. It's been gone over and over and over again. I would just at this point object to the continuing part of non-contested facts that have been dealt with repeatedly. We agree they weren't able to disarm the enclave. That's been a historical and established fact for 11 years."
+    },
+    {
+      "id": 56,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "All right. Thank you. That's being conceded to you as a fact. Incidentally while you are mentioning agreed facts, you haven't come forward with any agreed facts, and I think basically you can -- it's high time you sit down round the table and try and provide the Chamber with some agreed facts. We, on our part, are handing down two decisions between today and tomorrow, one I have signed five minutes ago, namely that these -- or disposes of the motion for judicial notice of facts of common knowledge, and later on in the day or early tomorrow morning, we will hand down the decision dealing with the other motion proposing judicial notice of adjudicated facts. So and that should prompt you to sit round a table and in the most constructive manner and come forward with further agreed facts that we couldn't incorporate in either of our two decisions. Yes, Madam Fauveau, apologies to you for this short interruption."
+    },
+    {
+      "id": 57,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you very much, Mr. President."
+    },
+    {
+      "id": 58,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "On the 22nd of September, page 2074 of the French transcript, you stated that you had the opportunity to meet the mayor of the town in uniform. Is it true that until then you did not know that the mayor of the town had connections or relationships with the army?",
+      "examination": "cross"
+    },
+    {
+      "id": 59,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I met -- I asked him several times beforehand whether he himself held any functions in the army, and he always emphatically denied this. So when I saw him in a uniform with a weapon for the first time, we had a brief discussion about this.",
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can we an agree that it was indeed very hard to know which man of a fighting age was in the military or not, and it was very hard to distinguish any of them from civilians?",
+      "examination": "cross"
+    },
+    {
+      "id": 61,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did not have a lot of contact with people to make a really accurate estimation of that. People whom I spoke to, of a number of them, I suspected that they didn't have anything to do with the army. A number were doubtful in that respect.",
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would it be fair to say that indeed you could not really assess who among the men was a military and who was a civilian regarding men of fighting age?",
+      "examination": "cross"
+    },
+    {
+      "id": 63,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think he's answered that question already, Madam Fauveau. He's not in a position to answer it because he didn't have that much contact with the people."
+    },
+    {
+      "id": 64,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. I'm quite happy with the answer."
+    },
+    {
+      "id": 65,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You mentioned the Bandera triangle and you said that you couldn't have access to that part of the Srebrenica enclave; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 66,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "We could use a number of roads in the direction of observation post but let's say the inner roads we did not really have freedom of movement on.",
+      "reply_to": 65
+    },
+    {
+      "id": 67,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can we agree that you have no idea whatsoever of the number of weapons stored in the area called the Bandera triangle?",
+      "examination": "cross"
+    },
+    {
+      "id": 68,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Of course there were reconnoitres in the Bandera triangle by troops of DutchBat, in particular, a platoon of Special Forces which we had with us. However, the exact information about the armaments and their findings were not told to me.",
+      "reply_to": 67
+    },
+    {
+      "id": 69,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "It is -- is it is fair to say that throughout your stay in the enclave, weapons were brought into the enclave, being smuggled?",
+      "examination": "cross"
+    },
+    {
+      "id": 70,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Does the Prosecution contest this as a fact? At least in relation to a specific period."
+    },
+    {
+      "id": 71,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No, Mr. President, it's part of our case, as a matter of fact. It always has been. We can talk about the helicopters. We can talk about the name of the programme that the Muslims used to bring them in. We can provide some more information on it. We will agree to all of this, and to that degree, unless it goes to his credibility, I don't see how relevant it all is."
+    },
+    {
+      "id": 72,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "So Judge Kwon."
+    },
+    {
+      "id": 73,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Madam Fauveau, I'm sure you understand that my interventions are meant to not necessarily speed up by streamline the inflow of evidence on certain issues that are involved in this case, and I, after discussing with the other Judges, I think that you can safely move ahead to your next line of questions, unless you think you need to go deeper into this matter, particularly if it relates to the credibility of the -- of the witness, but otherwise, I think you can take into -- or you should take into consideration that the Prosecution is conceding this as a fact."
+    },
+    {
+      "id": 74,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] This witness has stated categorically that weapons had been introduced into the enclave, so this is the last question I'm asking in this line, if you will allow me. Can we agree that the witness and the personnel of DutchBat had no idea of how many weapons were in the enclave during their stay in the enclave?"
+    },
+    {
+      "id": 75,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Objection. That calls for a conclusion. He can't speak for all of DutchBat."
+    },
+    {
+      "id": 76,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, let him say so. Maybe he had information on this. Colonel, can you answer that question?"
+    },
+    {
+      "id": 77,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] No."
+    },
+    {
+      "id": 78,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 79,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can we therefore say that your estimation of a thousand weapons was a personal appraisal, estimate?",
+      "examination": "cross"
+    },
+    {
+      "id": 80,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think you need to refer the witness to which specific part of his either statement or testimony you are referring him to. Because I'm not quite sure that he's focused on that."
+    },
+    {
+      "id": 81,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 82,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "This was on the 19th of September.",
+      "examination": "cross"
+    },
+    {
+      "id": 83,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Colonel, do you recall this part of your testimony?"
+    },
+    {
+      "id": 84,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I can remember that I said that I thought there were about a thousand soldiers present in the hard core of ABiH and that is a number which stuck to my mind because of the battalion."
+    },
+    {
+      "id": 85,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 86,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "My question was: Do you agree this estimation is your personal estimation, quite personal estimation?",
+      "examination": "cross"
+    },
+    {
+      "id": 87,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. It was an assessment which I already indicated, as far as I can recall, that was the number who were in the battalion, and also it was based on observations made by others.",
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "And this concerned only the weapons which you could see in this part of the enclave in which you were able to go, isn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 89,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "I hate to interrupt you, Madam Fauveau, but I don't think you have understood what I told you before, namely that my intervention mainly concerned the fact that the Prosecution was conceding to you more, much more, than the witness himself had conceded. If you want to proceed with your questions, go ahead, but at the end of the day, I don't know where it's going to lead you."
+    },
+    {
+      "id": 90,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] No, Mr. President. I will pursue another subject."
+    },
+    {
+      "id": 91,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said that while you were with the DutchBat, you had to keep contact with the commanders of the battalion and the civil and military chiefs within the enclave and the different members of the Republika Srpska, on the 19th of September, page 1872. Do you remember this statement?",
+      "examination": "cross"
+    },
+    {
+      "id": 92,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can remember that I said that different members of the Republika Srpska -- what I meant -- I meant representatives also of Bratunac, both military and civilians. And also the military LOs, Vukovic, where I did have contact.",
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also had contact with people inside the enclave, with the civil and military authority, the Muslims' civil and military authorities, no?",
+      "examination": "cross"
+    },
+    {
+      "id": 94,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct. And I also had contact to specific Muslim projects in the enclave; for example, the social kitchen, schools.",
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Before taking your post, had you been briefed by your predecessor about the military structure of the Bosnia army inside the enclave? The ABiH.",
+      "examination": "cross"
+    },
+    {
+      "id": 96,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 95
+    },
+    {
+      "id": 97,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would like the witness to be shown SD 51. 5 D51, 5 D51. This is a United Nations document, or rather June 1994, UNPROFOR. I would like to see -- know if you saw it when you were in the enclave.",
+      "examination": "cross"
+    },
+    {
+      "id": 98,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot recall.",
+      "reply_to": 97
+    },
+    {
+      "id": 99,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you know -- did you know that the 8th Operational Group of the ABiH army was in Srebrenica?",
+      "examination": "cross"
+    },
+    {
+      "id": 100,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 99
+    },
+    {
+      "id": 101,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you arrived in the enclave, did you know that this group belonged to the 2nd Corps of the army of the ABiH army?",
+      "examination": "cross"
+    },
+    {
+      "id": 102,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I can remember that.",
+      "reply_to": 101
+    },
+    {
+      "id": 103,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could the witness be shown 5 D50? To move the document so that the higher part can be seen. No. That's enough. Thank you. That's all right. Did you have the opportunity of seeing this document?",
+      "examination": "cross"
+    },
+    {
+      "id": 104,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot recall, but the names seem familiar to me.",
+      "reply_to": 103
+    },
+    {
+      "id": 105,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you see the numbers 280, 281 and so forth, which are on the lower part of the page, which are to be seen on the lower part of the page?",
+      "examination": "cross"
+    },
+    {
+      "id": 106,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I can see them.",
+      "reply_to": 105
+    },
+    {
+      "id": 107,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can we agree that these numbers represent brigades, the brigades?",
+      "examination": "cross"
+    },
+    {
+      "id": 108,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 107
+    },
+    {
+      "id": 109,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just above 281, you can see the name of Zulfo Tursunovic, can you?",
+      "examination": "cross"
+    },
+    {
+      "id": 110,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 109
+    },
+    {
+      "id": 111,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would it be the same Zulfo who took you as a hostage?",
+      "examination": "cross"
+    },
+    {
+      "id": 112,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I assume so.",
+      "reply_to": 111
+    },
+    {
+      "id": 113,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "And this Zulfo, according to this document, would be the commander of the 280th Brigade, isn't it so, 281st?",
+      "examination": "cross"
+    },
+    {
+      "id": 114,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Previous translation continues] ... evidence in the paper in front of you.",
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it true that the commander of the 28th Division was stationed at Srebrenica?",
+      "examination": "cross"
+    },
+    {
+      "id": 116,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "[No interpretation].",
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Perhaps I wasn't clear enough. It's not on the document. I'm asking you if you knew that the command of the 28th Division was stationed in Srebrenica?",
+      "examination": "cross"
+    },
+    {
+      "id": 118,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm not going to presume that. I cannot say.",
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "This means that when you were in the enclave of Srebrenica from January to July 1995, you didn't know whether the commander of the 28th Division was in Srebrenica or not?",
+      "examination": "cross"
+    },
+    {
+      "id": 120,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Are you referring to Naser Oric?",
+      "reply_to": 119
+    },
+    {
+      "id": 121,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I think there is a translation problem, President. I was not talking of commander but of command."
+    },
+    {
+      "id": 122,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "So let's go back to your original question. Colonel, the document that you are being shown on the screen there, is -- refers to the 8th Division of the BiH 2nd Corps and you've been specifically referred to the 281st, I would take it Battalion, Brigade, of that division. For the time being, the 28th Division has got nothing to do with Madam Fauveau's question, even though you see it in the transcript on line 22 of the previous page. So with that background, I will now pass on again the role to Ms. Fauveau to put the question again."
+    },
+    {
+      "id": 123,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 124,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel Boering, is it true that at a given moment during your stay in the enclave, the 8th Operational Group became the 28th Division of the ABH army?",
+      "examination": "cross"
+    },
+    {
+      "id": 125,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe so. I think they did combine, because it was a separate unit in the enclave.",
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you know that the headquarters of the 28th Division was stationed at Srebrenica?",
+      "examination": "cross"
+    },
+    {
+      "id": 127,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. That was the headquarters.",
+      "reply_to": 126
+    },
+    {
+      "id": 128,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you tell me in which building this headquarters was?",
+      "examination": "cross"
+    },
+    {
+      "id": 129,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think I drove past it once. It was a bit at the edge, in the outskirts of the enclave, in an area with mountains but I'm sure it wasn't in the centre.",
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you mean to say that you never entered the headquarters of the 28th Division?",
+      "examination": "cross"
+    },
+    {
+      "id": 131,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. That is correct. As I can recall, the discussions that were held were held in the PTT building.",
+      "reply_to": 130
+    },
+    {
+      "id": 132,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it true that the last landing of the post was being used by the intelligence of the 28th Division? The top floor?",
+      "examination": "cross"
+    },
+    {
+      "id": 133,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I once saw a meeting there, as far as I can recall, but at other times I never went to the top. There was a discussion with UNMO, that it could not and should not be the headquarters. I have that somewhere in my mind. But I wasn't present at all the discussions.",
+      "reply_to": 132
+    },
+    {
+      "id": 134,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it true that the members of the 28th Division were using the PTT building for their communications with the 2nd Corps in Tuzla?",
+      "examination": "cross"
+    },
+    {
+      "id": 135,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I assume so, that they also used it for their communication.",
+      "reply_to": 134
+    },
+    {
+      "id": 136,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, if you look the brigades which are in the 8th Operational Group, these brigades did exist indeed when the group was transformed into 28th Division. These brigades still existed; isn't it correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 137,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that is correct. And if I remember properly, the various units of DutchBat were linked to the brigade commandants. I didn't have real contact with brigade commandants over Mandzic and Zuric later, and Zanovic that was with the -- company commanders, company. I repeat, the company command.",
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know where was the headquarters of the 280th Brigade?",
+      "examination": "cross"
+    },
+    {
+      "id": 139,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I would be guessing. I can remember some names, but the combination between them is something I can't say anymore, as regards the company. There was one place near Potocari and another in Srebrenica, if I'm not mistaken, but I'm not sure anymore.",
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you think -- would you consider these brigades have headquarters in the centre of Srebrenica?",
+      "examination": "cross"
+    },
+    {
+      "id": 141,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I can't recall where -- I don't know where they were and what they did.",
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said a while ago that there was near Potocari a place. When you say chose to Potocari, are you thinking of the bases of UNPROFOR near Potocari?",
+      "examination": "cross"
+    },
+    {
+      "id": 143,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. There was a small village just to the north, the north-west of the enclave, when looking at Potocari itself. There was a small village. Somewhere there. I've never been there, I know there was a brigadier commandant who was there, but I don't really know how he operated from that base.",
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "And this base, not very far from Potocari, was in a house, an ordinary house; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 145,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can't say that. It could well be but I never -- I never went there, so I can't answer.",
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel Boering, do you agree that the seat of a brigade or a division could be a legitimate military goal, target?",
+      "examination": "cross"
+    },
+    {
+      "id": 147,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Are you testing his knowledge of international law or what's the purpose of your question?"
+    },
+    {
+      "id": 148,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] No. His military knowledge, President. He's military. I suppose he knows what are the legitimate targets."
+    },
+    {
+      "id": 149,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "It's a very fine distinction that you draw, Ms. Fauveau. Anyway, go ahead, Colonel. Would you accept the proposition that has been made to you by -- or put to you by Madam Fauveau?"
+    },
+    {
+      "id": 150,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Well, I think you could have a very big discussion on that. Right now --"
+    },
+    {
+      "id": 151,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Microphone not activated] Let's move to the next question, Madam Fauveau."
+    },
+    {
+      "id": 152,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 153,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "It's true that you couldn't enter in that house and inspect what was in these houses?",
+      "examination": "cross"
+    },
+    {
+      "id": 154,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think I've already answered that question several times.",
+      "reply_to": 153
+    },
+    {
+      "id": 155,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes yesterday he stated categorically that not even for a simple search for weapons, that they did not have that authority, to search houses, in other words, for weapons."
+    },
+    {
+      "id": 156,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, indeed, President."
+    },
+    {
+      "id": 157,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said that you saw several times house that was burnt. Is it true that when you saw the burnt house you didn't know whether in these houses weapons were there and if these weapons were used for military meetings? Whether these houses were used for military purposes?",
+      "examination": "cross"
+    },
+    {
+      "id": 158,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "That's two questions in one. Let's take them one by one, please. When you saw these burnt houses that Madam Fauveau is referring to, she is suggesting that you didn't know whether there were any weapons in them at the time, before they were burnt, of course."
+    },
+    {
+      "id": 159,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I wasn't in the house, so I can't confirm."
+    },
+    {
+      "id": 160,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. And the second question is whether you are in a position to enlighten us as to whether any of these houses were used for military purposes."
+    },
+    {
+      "id": 161,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I don't think I'm in that position to answer."
+    },
+    {
+      "id": 162,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, I want to change completely the topic."
+    },
+    {
+      "id": 163,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel Boering, you spoke of the living conditions in Srebrenica, and you said that it was on the 19th of September, on page 1892, that the water supply was no good. Is it true?",
+      "examination": "cross"
+    },
+    {
+      "id": 164,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 163
+    },
+    {
+      "id": 165,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you described your tasks, you said it was to give humanitarian aid in the enclave and also outside the enclave, and you mentioned Bratunac. I would like to know if you were aware that the humanitarian situation in particular concerning the water supply was also bad in -- as bad in Bratunac as in Srebrenica.",
+      "examination": "cross"
+    },
+    {
+      "id": 166,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Several times I tried to have contact with civilian authorities in Bratunac. Generally speaking, they were rejected. I wasn't referred to them. And we didn't discuss projects or offers. At some point in time, we had contact with the hospital in Bratunac and there we did provide aid. Requests from improving the water is something that coming from Bratunac is something that I'm not aware of.",
+      "reply_to": 165
+    },
+    {
+      "id": 167,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You spoke about power, electricity, and you said there were big problems with power in Srebrenica. Did you know that all Republika Srpska had severe restrictions on power during the whole war?",
+      "examination": "cross"
+    },
+    {
+      "id": 168,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It could well be.",
+      "reply_to": 167
+    },
+    {
+      "id": 169,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You spoke a moment ago of the hospital in Bratunac and you said that you had given some help to this hospital. Is it true that there wasn't enough medicines and other equipment for this hospital, they were lacking?",
+      "examination": "cross"
+    },
+    {
+      "id": 170,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can remember that it was a restricted hospital. Some equipment weren't working properly, and therefore we tried to repair the equipment and provide doctors with more information about them. As regards medicine provisions, as regards the equipment they had, all the details, I can't remember anymore.",
+      "reply_to": 169
+    },
+    {
+      "id": 171,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mentioning medical care, you stated that there was a problem with drugs and medical supplies or instruments in the hospital.",
+      "examination": "cross"
+    },
+    {
+      "id": 172,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I'm going to move and mention several names. It might be better to move into private session, Mr. President."
+    },
+    {
+      "id": 173,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let's go into private session for a while, please."
+    },
+    {
+      "id": 174,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "We are in open session."
+    },
+    {
+      "id": 175,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could the witness be shown 5 D03? It's a document that has already been tendered into evidence."
+    },
+    {
+      "id": 176,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "First page, second paragraph, please. Sir, could you please read the second paragraph and tell me if you can see that this is in relation to acts of sabotage carried out on the 23rd of June in Ovmace [phoen] and Bjelovcinje [phoen]? Can you see it?",
+      "examination": "cross"
+    },
+    {
+      "id": 177,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, thank you.",
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Right at the top first paragraph, you can see that these are soldiers of the 28th Division in Srebrenica and Zepa, and they contributed to the fight against aggressors by the ABiH through such acts of sabotage. Can you see this in the first paragraph?",
+      "examination": "cross"
+    },
+    {
+      "id": 179,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I can see that.",
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Further on, in the third paragraph, there is another act of sabotage carried out on the 26th of June, 1995. It is an attack on Visnjica. Is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 181,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can see it here.",
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "And according to this document, over 40 Chetniks were killed. This is an estimation, sir. Is this correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 183,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. McCloskey."
+    },
+    {
+      "id": 184,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, this witness clearly doesn't know anything about this. This is something I mentioned in my opening statement we would stipulate that this was the policy of the ABiH. Again, it's been a historical fact that they were sending out raids to tie down Serb forces from going to the Sarajevo front. This is a historical and well-known fact. I will stipulate to it again as I mentioned in my opening statement. I don't see how it really ties into this witness. It's not contested."
+    },
+    {
+      "id": 185,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "And this Visnjica, the 26th June attack, is also included amongst the proposed adjudicated facts to be taken judicial notice of. So -- respect to whether they will be taken judicial cognizance or notice of, you have a statement by the Prosecution stipulating that that did indeed happen. Is there a problem? I heard General Miletic. If you have a problem, do speak out. All right. Are you in a position to answer -- we haven't had the question as yet. What's your question in any case, Ms. Fauveau, now that you've heard the Prosecutor acknowledging that these were part of policy that was being implemented by the Bosnian Muslims at the time."
+    },
+    {
+      "id": 186,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 187,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "I wanted to know whether such acts of sabotage or military actions did contribute to the worsening of the security situation around the enclave.",
+      "examination": "cross"
+    },
+    {
+      "id": 188,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 187
+    },
+    {
+      "id": 189,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "And is it fair to say that humanitarian convoys would not go through zones where there were -- where there was fighting?",
+      "examination": "cross"
+    },
+    {
+      "id": 190,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 189
+    },
+    {
+      "id": 191,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you mean to say that humanitarian convoys would go into combat zones when there was combat, when there was fighting happening, they would go through them?",
+      "examination": "cross"
+    },
+    {
+      "id": 192,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I regularly -- I was regularly in touch with a Russian civilian who worked for UNHCR and was responsible for the convoys and regularly came on them, and he was a fair estimate of the situation.",
+      "reply_to": 191
+    },
+    {
+      "id": 193,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] [No interpretation]."
+    },
+    {
+      "id": 194,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "I'm sorry, I can't hear you."
+    },
+    {
+      "id": 195,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Sorry, it's just that the witness mentioned a humanitarian organisation, so we might need to redact this, line 14, page 28."
+    },
+    {
+      "id": 196,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Particularly -- I don't think we need to. I take the responsibility for that because we haven't got the name of the individual mentioned and the fact that UNHCR was involved there is a known fact which UNHCR has never tried to hide in any case. Shall we have a break now? I see Mr. McCloskey. Do you disagree with me, Mr. McCloskey?"
+    },
+    {
+      "id": 197,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No, I have no problem with that. That is a known fact. I was a little concerned that the witness, it was hard to tell that he -- he may have been interrupted in his answer. But, yeah, I think a break is a good idea."
+    },
+    {
+      "id": 198,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. Let's have a break and then we'll put the question back to him."
+    },
+    {
+      "id": 199,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Madam Fauveau, please."
+    },
+    {
+      "id": 200,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 201,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel Boering, I interrupted you just before we stopped and I want to repeat my question. Do you mean to say that the humanitarian convoy passed by the combat zone?",
+      "examination": "cross"
+    },
+    {
+      "id": 202,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. That was not my intention.",
+      "reply_to": 201
+    },
+    {
+      "id": 203,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can we conclude that when there were fights, the military activities around the enclave, the humanitarian convoys could not pass?",
+      "examination": "cross"
+    },
+    {
+      "id": 204,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I believe that such a conclusion should not be drawn.",
+      "reply_to": 203
+    },
+    {
+      "id": 205,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Another subject. On the 19th of September, page 1897 of the LiveNote, in June 1995, you saw the shelling of houses twice. Do you remember your statement?",
+      "examination": "cross"
+    },
+    {
+      "id": 206,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do remember that.",
+      "reply_to": 205
+    },
+    {
+      "id": 207,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "This document which you have in front of you spoke of military activities of the Muslims on the 23 and 26 June. I would like to know can you tell us whether the attacks, the shelling of the houses which you've seen, happened on the 23rd and the 26th June?",
+      "examination": "cross"
+    },
+    {
+      "id": 208,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I really wouldn't know.",
+      "reply_to": 207
+    },
+    {
+      "id": 209,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, I would like to refer to HCR document. Can I do so in public hearing?"
+    },
+    {
+      "id": 210,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel Boering, the members of the DutchBat in June 1995 [Microphone not activated] a vehicle of the HCR [as interpreted]?",
+      "examination": "cross"
+    },
+    {
+      "id": 211,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "I don't know if there is an interpretation problem with the question. The transcript isn't clear, although I know of course what you're referring to. But are you reading from an UNHCR document, Madam Fauveau? And if you are, could you read through again slowly? Because the transcript here, and I suppose you can follow, it says: \"Colonel Boering, the members of DutchBat in June 1995, a vehicle of HCR.\" And that's it. And if that is what has been translated to the witness, I'm pretty sure he doesn't know what's being asked."
+    },
+    {
+      "id": 212,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 213,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, my question was, the members of the DutchBat in June 1995 did search vehicles of the HCR? That was my question.",
+      "examination": "cross"
+    },
+    {
+      "id": 214,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I do not remember that.",
+      "reply_to": 213
+    },
+    {
+      "id": 215,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could the witness be shown 5 D54? Page 4, last paragraph, please. Can you scroll down? It's an extract of the NIOD report. Can you see at the beginning of the last paragraph: \"[In English] At Yellow Bridge, both on the outward and on the return journey, carefully checked the quantity of fuel in the vehicles' tanks. The VRS soldiers appeared friendly but the convoy leader would not say that about DutchBat. The DutchBat soldiers were instructed to check the vehicles which was done conscientiously.\" [Interpretation] Do you remember this?",
+      "examination": "cross"
+    },
+    {
+      "id": 216,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I do not recall any such thing.",
+      "reply_to": 215
+    },
+    {
+      "id": 217,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. McCloskey."
+    },
+    {
+      "id": 218,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I think again the same problem, if he could be given time to read at least the paragraph above it. It's hard to get it out of context."
+    },
+    {
+      "id": 219,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "All right. Having heard you say so, do you wish to repeat the question after the witness has read what goes before? But I think he has already more or less given an indication of what his answer would be if he's asked the same question again."
+    },
+    {
+      "id": 220,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "At this point, I can withdraw the objection. But just in the future if he could be allowed to take a look at something a little bit longer, I think it would make more sense."
+    },
+    {
+      "id": 221,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Mr. President, I have no problem with that."
+    },
+    {
+      "id": 222,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "All right. It depends. It can vary from document to document. It depends what the question is all about. I think this could stay on its own actually. But anyway, let's go ahead. Next question."
+    },
+    {
+      "id": 223,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 224,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you remember that at a given moment members of the HCR threatened to stop activities, humanitarian activities in the enclave?",
+      "examination": "cross"
+    },
+    {
+      "id": 225,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. At this point in time I cannot recall that.",
+      "reply_to": 224
+    },
+    {
+      "id": 226,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you have a look at page 6 of this document?",
+      "examination": "cross"
+    },
+    {
+      "id": 227,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "One moment. Let's go into private session for a while."
+    },
+    {
+      "id": 228,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "We are in open session now."
+    },
+    {
+      "id": 229,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 230,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] President, if I can help the Chamber, it's a document which is completely public which you can find on the internet. I have no objection to see it redacted but it's public. And here, indeed --"
+    },
+    {
+      "id": 231,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Previous translation continues] ... only protecting persons. That's the whole idea. Because these persons may be in the field still somewhere else. They need to be protected."
+    },
+    {
+      "id": 232,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we look at page 6 of the document? Indeed, in this case one has to be careful because in the following paragraph, a name is mentioned. I will not mention the name in my question."
+    },
+    {
+      "id": 233,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you look at the beginning of the second paragraph? \"[In English] ... meanwhile the consequence of the friction between UNHCR on the one hand and DutchBat and the ABiH on the other was the UNHCR via its local employee informed the opstina that no more UNHCR convoys would be sent until the ABiH dropped the requirement of an extensive check.\" [Interpretation] What I'd like to know is, do you remember this incident?",
+      "examination": "cross"
+    },
+    {
+      "id": 234,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I do not recall that.",
+      "reply_to": 233
+    },
+    {
+      "id": 235,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said on the 19th of September, page 1891 of the LiveNote in French, that during all this time in the enclave, there was a black market going on in Srebrenica; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 236,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that is correct.",
+      "reply_to": 235
+    },
+    {
+      "id": 237,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also spoke of your suspicions against military and civil authorities and that there was some contraband going on. Do you remember this?",
+      "examination": "cross"
+    },
+    {
+      "id": 238,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. There were suspicions.",
+      "reply_to": 237
+    },
+    {
+      "id": 239,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you inform the north-east sector of the suspicions, for those who were in Tuzla, UNPROFOR in Tuzla?",
+      "examination": "cross"
+    },
+    {
+      "id": 240,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I do not remember it. I assume that it was the case. Once or twice we received visits from Tuzla where we had lengthy discussions on the situation in the enclave about provisions, so I assume that there were oral discussions on this. As to written documents, at least we did report on the prices of consumer goods, to give an impression of the situation on the ground.",
+      "reply_to": 239
+    },
+    {
+      "id": 241,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said on -- that it was on the 6th of July -- you said on the 6th of July, 19 September, that a shell damaged your base at Potocari, and on this occasion, on the 19th of September, you spoke of an analysis made by the service in charge of explosives. Could you explain what sort of analysis it was?",
+      "examination": "cross"
+    },
+    {
+      "id": 242,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "If I recall correctly, it was conducted by a staff member of the electronics investigation service, the EOD service, as it is called, which specialises in investigations into explosive devices. This service conducted an investigation. They specialise in mines, grenades, and the effects of these explosives. So this is a very highly specialised service. If I recall correctly, they visited the site, they conducted an inspection visit.",
+      "reply_to": 241
+    },
+    {
+      "id": 243,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you tell me what was the goal of this investigation?",
+      "examination": "cross"
+    },
+    {
+      "id": 244,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "To me he hasn't answered the previous question as yet. He was in the process of answering. He can answer both now."
+    },
+    {
+      "id": 245,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] The purpose of this investigation was as follows. Whenever we came under fire, we needed to have the possibilities of submitting proper reports, and this was a standard procedure in such a case. This would allow us to submit detailed reports."
+    },
+    {
+      "id": 246,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 247,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was this analysis made to know who had fired this shell?",
+      "examination": "cross"
+    },
+    {
+      "id": 248,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "What kind of grenade, from which direction, this allowed better to determine the position. This was standard procedure.",
+      "reply_to": 247
+    },
+    {
+      "id": 249,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did a report -- was a report made after this analysis, or drafted after this analysis?",
+      "examination": "cross"
+    },
+    {
+      "id": 250,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I assume that, but I have no details available as to the facts.",
+      "reply_to": 249
+    },
+    {
+      "id": 251,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it true that there were suspicions that it could have been the Muslim forces which would have shot this shell?",
+      "examination": "cross"
+    },
+    {
+      "id": 252,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot remember that.",
+      "reply_to": 251
+    },
+    {
+      "id": 253,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "On the 10th of July you were in Srebrenica; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 254,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I was.",
+      "reply_to": 253
+    },
+    {
+      "id": 255,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You came back to Potocari only on the 11th of July; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 256,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that is the case.",
+      "reply_to": 255
+    },
+    {
+      "id": 257,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You spoke on the 19th of September, page 1934, of a shell which fell close to Bravo Company and who injured a little boy. Talking about this shell, did you hear about suspicions that it was ABH army which would have fired this shell?",
+      "examination": "cross"
+    },
+    {
+      "id": 258,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I do not remember such a thing.",
+      "reply_to": 257
+    },
+    {
+      "id": 259,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was an analysis made to determine where this shell was coming from?",
+      "examination": "cross"
+    },
+    {
+      "id": 260,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It was not conducted by the EOD, the explosives disposal service. As to any further investigations, I do not know about them.",
+      "reply_to": 259
+    },
+    {
+      "id": 261,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you hear about an incident which happened on 7th of July when members of the DutchBat which were at Post N had instructions to shoot on Serb positions?",
+      "examination": "cross"
+    },
+    {
+      "id": 262,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I cannot specifically recall that incident. I do recall that instructions were given that in case of attacks or threats, our soldiers had the right to shoot back, in general.",
+      "reply_to": 261
+    },
+    {
+      "id": 263,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you remember this incident, if I tell you that because of a wrong calculation of the distance, a mistake, the shot fell on the enclave instead of falling on the Serb position?",
+      "examination": "cross"
+    },
+    {
+      "id": 264,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I don't remember anything about such an event.",
+      "reply_to": 263
+    },
+    {
+      "id": 265,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it true that you took part in a meeting in the night of 10/11 with representatives of the ABiH army?",
+      "examination": "cross"
+    },
+    {
+      "id": 266,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I do remember that.",
+      "reply_to": 265
+    },
+    {
+      "id": 267,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would ask now Exhibit 5 D56. Can we show this to the witness, please?",
+      "examination": "cross"
+    },
+    {
+      "id": 268,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Are you sure of the number?"
+    },
+    {
+      "id": 269,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I'm told that it is indeed Exhibit 5 D56."
+    },
+    {
+      "id": 270,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Please make sure for the time being that nothing is shown on the video until I've seen the document, we have seen the document ourselves. I can't find it either. You're not the only one."
+    },
+    {
+      "id": 271,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Does the counsel have a hard copy, please?"
+    },
+    {
+      "id": 272,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let's see the hard copy. It's all right. The fact that it is highlighted as it is without any annotations doesn't really matter. So you can -- show it to Mr. McCloskey first to make sure that he hasn't got any objections. If you have any objections, speak out, Mr. McCloskey. I think it's harmless as it is."
+    },
+    {
+      "id": 273,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "We found it."
+    },
+    {
+      "id": 274,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "You've found it? All right. We found it anyway."
+    },
+    {
+      "id": 275,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 276,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you look at page 2, paragraph 3, please, scroll it. Look at this paragraph 3, second sentence, you can read. \"[In English] Shortly after midnight when, according to Pilav, a decision had been taken in favour of the counter-offensive. Pilav thought that the decision had been taken. DutchBat officer Major Boering entered the meeting as if he had known about the meeting and the decision that had been taken. Boering announced that NATO air-strikes, laid a map on the table, pointed to the targets and asked the Bosnian Muslims to say -- to stay away from those areas due to the risk entailed. He called it 'zones smrt,' or dead zone. The time of the air-strike was given at either before or at dawn.\" [Interpretation] What I'd like to know is whether this description of the events of the night between 10 and 11 July correspond to what really happened.",
+      "examination": "cross"
+    },
+    {
+      "id": 277,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Again, before he answers that question, Mr. McCloskey, I didn't see you stand up this time asking that he is allowed to read the preceding paragraphs."
+    },
+    {
+      "id": 278,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I was looking at the above paragraph, and I think this one, given the situation, I don't think it's a problem unless the witness wants to look at it. I think it's clear enough in the paragraph that they are talking about."
+    },
+    {
+      "id": 279,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "All right. It's such a unique event that it refers to that I don't think he needs to refer to the whole chapter 3 or whatever chapter it is. Yes, Colonel, could you answer the question, please?"
+    },
+    {
+      "id": 280,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Could you repeat the question, please?"
+    },
+    {
+      "id": 281,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "What Madam Fauveau would like to know is whether this description of the events of the night between the 10th and the 11th of July correspond to what really happened. In other words, what you read in this paragraph that has been read out to you, does it correspond to the real events as you know them?"
+    },
+    {
+      "id": 282,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I'm not -- it's not very clear in my mind anymore. I know that there was a discussion, and that we were going to get air support, with changes, and according to me it was indicated through Commander Karremans rather than through myself. I think I was more in the background, and it was Colonel Karremans who took over. That's how I remember it. But in this document, I seem to have a very direct role with warnings and authorisation. I can't remember having played that role. It is correct that there was a meeting, that I did enter the meeting, that we waited for a while because the ABiH leaders were involved in their own discussions and in consultation, and then we had a talk with the ABiH leaders and there was also the mayor from opstina there. That I can remember. And I didn't -- I didn't play that major a role but rather Karremans. So I don't see myself truly reflected. My role wasn't that important."
+    },
+    {
+      "id": 283,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 284,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right, Colonel. But do you remember that this zone, this death zone, would have been mentioned during the meeting by you or by Lieutenant-Colonel Karremans?",
+      "examination": "cross"
+    },
+    {
+      "id": 285,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm trying to remember. But I can't imagine that with certainty. Probably we spoke about targets, but I can't remember the details anymore.",
+      "reply_to": 284
+    },
+    {
+      "id": 286,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel Boering, when you attended this meeting with the Muslim military commanders, did you know already that the population was to be evacuated from Srebrenica?",
+      "examination": "cross"
+    },
+    {
+      "id": 287,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 286
+    },
+    {
+      "id": 288,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it fair to say that when you left on the 11th of July, when you left Srebrenica, the population was also going towards Potocari?",
+      "examination": "cross"
+    },
+    {
+      "id": 289,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 288
+    },
+    {
+      "id": 290,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it not fair to say that whilst this population was moving from Srebrenica to Potocari, you did not observe any shooting, any firing?",
+      "examination": "cross"
+    },
+    {
+      "id": 291,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can't remember.",
+      "reply_to": 290
+    },
+    {
+      "id": 292,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I were to tell you that in the Krstic case, on the 24th of March, 2000, page 1219, you stated that while you were driving on the road there was no shelling, would this be an accurate description?",
+      "examination": "cross"
+    },
+    {
+      "id": 293,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 292
+    },
+    {
+      "id": 294,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would like to show you a video excerpt, the Srebrenica trial video shown by the Prosecutor. It's about 20 seconds long. It's P1577, V000-4458 on their 65 ter list. I'd like to ask to move to 13:20 on the counter.",
+      "examination": "cross"
+    },
+    {
+      "id": 295,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 296,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel Boering, is this the departure from Srebrenica on the 11th of July, 1995?",
+      "examination": "cross"
+    },
+    {
+      "id": 297,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I assume so.",
+      "reply_to": 296
+    },
+    {
+      "id": 298,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "In the crowd of people we saw, we can see a UN vehicle, can't we?",
+      "examination": "cross"
+    },
+    {
+      "id": 299,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 298
+    },
+    {
+      "id": 300,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "I now want to show you the arrival in Potocari. So this is the same video but this is now in the -- on the counter 14:52.",
+      "examination": "cross"
+    },
+    {
+      "id": 301,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 302,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is this a UN or UNPROFOR truck driven by DutchBat personnel?",
+      "examination": "cross"
+    },
+    {
+      "id": 303,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 302
+    },
+    {
+      "id": 304,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the people we can see on the truck are refugees from Srebrenica?",
+      "examination": "cross"
+    },
+    {
+      "id": 305,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I assume so.",
+      "reply_to": 304
+    },
+    {
+      "id": 306,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can 5 D55 be shown to the witness? Page 2, paragraph 2, please. At the end of the paragraph -- second paragraph, please. Towards the end, you can see a description by a DutchBat serviceman who says the following: \"[In English] Perhaps there were 80 people on the truck. You just don't believe it when you see that truck. They were hanging from it. They were on it, under it. Two small boys were lying on the batteries. There were people who got under the wheels but I couldn't stop. I had to keep going.\" [Interpretation] Well, this description and the images we saw, is this a fair description of what happened on the road from Srebrenica to Potocari on the 11th of July, 1995?",
+      "examination": "cross"
+    },
+    {
+      "id": 307,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "At that time, yes. In the beginning, there was personnel which broke the fences of the Bravo Company and then began to transport the refugees. At a later stage, in one of the last vehicles, I was there, and there again you saw human mass of people who were walking. There were no vehicles anymore. So I think that was the beginning of the movement towards Potocari.",
+      "reply_to": 306
+    },
+    {
+      "id": 308,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you aware of the fact that at the beginning of this movement towards Potocari, some people were killed by DutchBat vehicles?",
+      "examination": "cross"
+    },
+    {
+      "id": 309,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. It could have well been if there were so many people.",
+      "reply_to": 308
+    },
+    {
+      "id": 310,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'll move to another topic. On the 22nd of September, page 2013 of the French transcript, you mentioned the house in Potocari where -- to which the men were brought, and you said that when you got out of the house you could not continue walking because you were stopped by soldiers with dogs, and then thereafter you heard shooting from behind the house. Do you remember that statement?",
+      "examination": "cross"
+    },
+    {
+      "id": 311,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I can remember.",
+      "reply_to": 310
+    },
+    {
+      "id": 312,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "For the record, because the transcript doesn't refer to the house as the \"White House,\" we are referring to or rather you are referring to the \"White House,\" Madam Fauveau?"
+    },
+    {
+      "id": 313,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, I do."
+    },
+    {
+      "id": 314,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "All right. Thank you. It's just for the record because I think we are all in agreement."
+    },
+    {
+      "id": 315,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I could ask the witness whether he agrees."
+    },
+    {
+      "id": 316,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Because the house you referred to, that was a house being built, wasn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 317,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I remember that already in a previous session that we had a discussion on that.",
+      "reply_to": 316
+    },
+    {
+      "id": 318,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "The question was asked and he answered it. It was actually referred to the document to his statement where he uses that expression, house under construction, which was still under construction. Do you have any other different questions that you wish to put to him on the subject, please go ahead. Otherwise, no repetitive questions."
+    },
+    {
+      "id": 319,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, absolutely, Mr. President. I did not intend to talk about entering the house. I was interested in the back of the house. Could the witness be shown his statement made on the 10th of February? It's the Popovic statement 1 D18. The exhibit concerning Popovic, 1 D18. Page 10, please. The last-but-one paragraph."
+    },
+    {
+      "id": 320,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel, please read this paragraph and tell me whether it has to do with the house mentioned here as the \"White House,\" mentioning the events that took place around that house?",
+      "examination": "cross"
+    },
+    {
+      "id": 321,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. The \"White House.\"",
+      "reply_to": 320
+    },
+    {
+      "id": 322,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you see, that's towards the end of the paragraph, the following can be seen: \"[In English] I could hear gun-shots frequently at that time but I can't say that they were fired from behind the house. Potocari was in a valley and sometimes it was difficult even for a professional soldier to determine the direction of fire.\"",
+      "examination": "cross"
+    },
+    {
+      "id": 323,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I see that.",
+      "reply_to": 322
+    },
+    {
+      "id": 324,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Is this your statement?",
+      "examination": "cross"
+    },
+    {
+      "id": 325,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 324
+    },
+    {
+      "id": 326,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can we therefore conclude today that then, in July 1995, you were not able to determine the direction of fire?",
+      "examination": "cross"
+    },
+    {
+      "id": 327,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 326
+    },
+    {
+      "id": 328,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "You left Potocari on the 12th of July with the first convoy that was taking the population to Kladanj, and you were together with Captain Voerman; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 329,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that is correct.",
+      "reply_to": 328
+    },
+    {
+      "id": 330,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "It is also correct to say that there were other members of DutchBat that left with that first convoy?",
+      "examination": "cross"
+    },
+    {
+      "id": 331,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. But that's something I didn't know about myself, but it seemed that there were other vehicles who joined the convoy, but I wasn't informed about that.",
+      "reply_to": 330
+    },
+    {
+      "id": 332,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "And do you know that these other soldiers, other DutchBat soldiers, also arrived there where the Serbs took the people from Potocari, that is in Tisce?",
+      "examination": "cross"
+    },
+    {
+      "id": 333,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. That's something I quite -- I can't quite recall.",
+      "reply_to": 332
+    },
+    {
+      "id": 334,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "On the 21st of September, page 1943 of the French transcript, you said that DutchBat could feed the people in Potocari only for a few days. This is what I'd like to know: In such a situation, is it not true to say that a fast evacuation of the population was the only possible solution to save them?",
+      "examination": "cross"
+    },
+    {
+      "id": 335,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Or an emergency convoy with food and care.",
+      "reply_to": 334
+    },
+    {
+      "id": 336,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it not fair to say that the local population rather wanted to leave?",
+      "examination": "cross"
+    },
+    {
+      "id": 337,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot remember that I discussed this with the population.",
+      "reply_to": 336
+    },
+    {
+      "id": 338,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can the witness be shown 5 D40? Page 2, please. Towards the top of the page, you can see small b, next sentence, it reads as follows: \"[In English] A UNHCR local staff member in Srebrenica reported today that virtually everyone in the enclave wishes to leave.\" [Interpretation] Sir, do you have any reason to doubt this statement by a UNHCR representative?",
+      "examination": "cross"
+    },
+    {
+      "id": 339,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 338
+    },
+    {
+      "id": 340,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Further on, you can see this. Not the sentence right after that, the second one after this. Reads as follows: \"[In English] Following consultation with the Bosnian government and in order to avoid a continuing humanitarian catastrophe, agreement will be solicited from the Bosnian Serbs to allow all residents of Srebrenica, including all men, to leave for Tuzla if they so wish.\" [Interpretation] Colonel Boering, is it not correct to say that Lieutenant-Colonel Karremans asked the Serbian authorities to let the population go, the population that was then in Potocari?",
+      "examination": "cross"
+    },
+    {
+      "id": 341,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot really remember.",
+      "reply_to": 340
+    },
+    {
+      "id": 342,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'd like to show you a video clip from the same video concerning the first meeting in the Fontana Hotel. It's a two-minute long, and this will be my last question. 46:25 on the counter, please.",
+      "examination": "cross"
+    },
+    {
+      "id": 343,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 344,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel Boering, is this Lieutenant-Colonel Karremans we see?",
+      "examination": "cross"
+    },
+    {
+      "id": 345,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. McCloskey has doubts about that. Serious doubts."
+    },
+    {
+      "id": 346,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "My problem is is looking into the future. This is about the fourth question where we basically have, here is a video of a red hat. Is this a red hat? Yes, it's a red hat. That is really an inappropriate question. If she wants to get to the point and put her question to the witness, fine, but that's not the proper way to do it. That will take us years to go through this if it continues like this. I don't mind a question but --"
+    },
+    {
+      "id": 347,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. McCloskey, may I remind you all that we are still at the experimental stage, which is soon coming to an end, and I suppose you will hear the big bang after that, so let's move with the question."
+    },
+    {
+      "id": 348,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 349,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "This is Lieutenant-Colonel Karremans we saw, isn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 350,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 349
+    },
+    {
+      "id": 351,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could we all hear him say, or ask General Mladic, to let DutchBat go, to let the civilian population, women and children, go?",
+      "examination": "cross"
+    },
+    {
+      "id": 352,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. You are just citing the video.",
+      "reply_to": 351
+    },
+    {
+      "id": 353,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did Colonel Karremans also ask for help of General Mladic, for him to assist the -- for the withdrawal of the population and the withdrawal of DutchBat?",
+      "examination": "cross"
+    },
+    {
+      "id": 354,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "We are not deaf and we are not blind. I mean, it's -- thank God. Go to the substantive question, if you have one. I mean, we all heard him say what he actually said. We don't have a problem of translation because the interpretation was from English into Serb."
+    },
+    {
+      "id": 355,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 356,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel, is it fair to say that on the day after, the women and the children could go to Kladanj?",
+      "examination": "cross"
+    },
+    {
+      "id": 357,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It might be a problem with the interpretation, but I do not understand the question.",
+      "reply_to": 356
+    },
+    {
+      "id": 358,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, the question I think is one follows from the other. First you were shown a two-minute video clip. Then you were asked whether Colonel -- Lieutenant-Colonel or whatever his rank was at the time, Karremans, actually said what we all know that he said. And as a follow-up you're being asked to confirm whether the day after this plea, this request was made to General Mladic, effectively women and children and elderly were allowed or were escorted from Potocari to Kladanj."
+    },
+    {
+      "id": 359,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] A convoy took place the next day. It was organised by the VRS. At least that's how I see it."
+    },
+    {
+      "id": 360,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] No further questions, Mr. President."
+    },
+    {
+      "id": 361,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "I thank you so much, Madam Fauveau. Now, it's Mr. Josse who is defending, together with Mr. Krgovic, General Gvero, who will go next. We'll have a break at quarter to 6.00."
+    },
+    {
+      "id": 362,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "You've been asked a number of questions about your knowledge of Muslim attacks from the enclave in the period that you were stationed there, and as I understand your evidence, you have said that your information for the most part came from Momir Nikolic. That's correct, isn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 363,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 362
+    },
+    {
+      "id": 364,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you log any of the information that Momir Nikolic gave to you?",
+      "examination": "cross"
+    },
+    {
+      "id": 365,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "We wrote down the information, we passed it through, and then it was processed by the battalion. And in meetings we usually had Susan Morava [as interpreted], and it was her function to write things down. The sergeant-major wrote the things down.",
+      "reply_to": 364
+    },
+    {
+      "id": 366,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "I think there may have been a mistranslation there. The Sergeant-Major Rave's job, not someone called Susan; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 367,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, it was Sergeant-Major Rave.",
+      "reply_to": 366
+    },
+    {
+      "id": 368,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And this information was sent to Tuzla?",
+      "examination": "cross"
+    },
+    {
+      "id": 369,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, it was passed through the battalion with your daily discussions. And then it is given to the Lieutenant-Colonel Karremans to decide what he's going to do with all the information.",
+      "reply_to": 368
+    },
+    {
+      "id": 370,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you have any idea whether he passed it on to Tuzla or Sarajevo?",
+      "examination": "cross"
+    },
+    {
+      "id": 371,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I assume he did.",
+      "reply_to": 370
+    },
+    {
+      "id": 372,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you any knowledge as to whether Mr. Karremans sought confirmation from other sources of the accuracy of what Momir Nikolic was telling you?",
+      "examination": "cross"
+    },
+    {
+      "id": 373,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That kept him busy.",
+      "reply_to": 372
+    },
+    {
+      "id": 374,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Perhaps you --",
+      "examination": "cross"
+    },
+    {
+      "id": 375,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "That doesn't answer the question. Perhaps, Colonel, if you could answer the question that Mr. Josse has put to you, whether you know, whether you have any knowledge, as to whether your superior, Mr. Karremans, sought confirmation from other sources of the accuracy of what Momir Nikolic was reporting to you."
+    },
+    {
+      "id": 376,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] As regards the accuracy, he called upon his own Special Forces to check the information. Also within the enclave, he did look for verification as regards the information he received. And he also talked to the population and HUMINT to see what happened. That did take place, I'm sure of it."
+    },
+    {
+      "id": 377,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was the result; can you tell us?",
+      "examination": "cross"
+    },
+    {
+      "id": 378,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. Right now, I can't recall.",
+      "reply_to": 377
+    },
+    {
+      "id": 379,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And by \"Special Forces,\" what do you mean, please?",
+      "examination": "cross"
+    },
+    {
+      "id": 380,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "We had a platoon of Special Forces with us from the Dutch army, which were more specialised. They carried out extra patrols, special patrols, with specific objectives in order to collect information, both -- also as regards the borders of the enclave as well as inside the enclave.",
+      "reply_to": 379
+    },
+    {
+      "id": 381,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were they distinct from intelligence services of your battalion?",
+      "examination": "cross"
+    },
+    {
+      "id": 382,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, they weren't.",
+      "reply_to": 381
+    },
+    {
+      "id": 383,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is your evidence that at the moment, you can't recall what information came back to you from these sources, other than Momir Nikolic, as to the veracity of what Momir Nikolic was telling you?",
+      "examination": "cross"
+    },
+    {
+      "id": 384,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. The reports were done in the two lines, and they discussed it through with Lieutenant-Colonel Karremans and Franken.",
+      "reply_to": 383
+    },
+    {
+      "id": 385,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "The question was perhaps a little long-winded. Put simply, you can't remember what these reports said?",
+      "examination": "cross"
+    },
+    {
+      "id": 386,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I've never seen the majority of the reports.",
+      "reply_to": 385
+    },
+    {
+      "id": 387,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "What Momir Nikolic was telling you was of real importance, I suggest, because you knew that if what he was saying was right, it placed the enclave in some sort of jeopardy of attack.",
+      "examination": "cross"
+    },
+    {
+      "id": 388,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 387
+    },
+    {
+      "id": 389,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "I want to move on to the fall of the enclave. Do you remember which day you became aware of the fact that Private Van Renssen had been very badly wounded?",
+      "examination": "cross"
+    },
+    {
+      "id": 390,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "This was already discussed.",
+      "reply_to": 389
+    },
+    {
+      "id": 391,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Do you remember the date when you became aware of his being badly wounded? This was the question."
+    },
+    {
+      "id": 392,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, but I find it a bit difficult to answer these questions time and time again and to try and remember whether it was the 8th, 9th or the 10th."
+    },
+    {
+      "id": 393,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "To be fair to the witness, Your Honour, from recollection, Mr. Nicholls refreshed his memory by agreement from an earlier statement, and I'm not trying to take advantage of the fact the witness couldn't remember in the first place."
+    },
+    {
+      "id": 394,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "From recollection, your evidence was that it was the 8th of July. Was it on the day of the attack on the private that you learnt of the fact that he had been very badly wounded? That's really what I'm trying to get at.",
+      "examination": "cross"
+    },
+    {
+      "id": 395,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. When he was wounded, I can remember that, I heard it on the radio.",
+      "reply_to": 394
+    },
+    {
+      "id": 396,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And was it clear to you immediately or almost immediately that he was wounded as a result of action by the ABiH?",
+      "examination": "cross"
+    },
+    {
+      "id": 397,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 396
+    },
+    {
+      "id": 398,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "When did that become clear?",
+      "examination": "cross"
+    },
+    {
+      "id": 399,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It finally became clear to me when Ramiz Becirevic offered his apologies and said that it was a soldier from the ABiH.",
+      "reply_to": 398
+    },
+    {
+      "id": 400,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "I want to suggest to you that as a result of that attack, certain members of DutchBat fled the enclave to Bratunac. Do you agree with that proposition?",
+      "examination": "cross"
+    },
+    {
+      "id": 401,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Nonsense.",
+      "reply_to": 400
+    },
+    {
+      "id": 402,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Why is that nonsense?",
+      "examination": "cross"
+    },
+    {
+      "id": 403,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Because I don't agree with it.",
+      "reply_to": 402
+    },
+    {
+      "id": 404,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, where were you physically when you heard this radio report that the private had been very badly wounded?",
+      "examination": "cross"
+    },
+    {
+      "id": 405,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was then in Potocari.",
+      "reply_to": 404
+    },
+    {
+      "id": 406,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when was the next time you communicated with those troops who ended up in Bratunac?",
+      "examination": "cross"
+    },
+    {
+      "id": 407,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was on the 11th of July.",
+      "reply_to": 406
+    },
+    {
+      "id": 408,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you went to the Hotel Fontana; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 409,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Or the 10th or the 11th.",
+      "reply_to": 408
+    },
+    {
+      "id": 410,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And help the Chamber with this: Do you recall when the badly wounded Private Van Renssen was taken to Bratunac?",
+      "examination": "cross"
+    },
+    {
+      "id": 411,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I remember that he was transported to Potocari. I believe that he died there, and his remains or his body was later, after a while, transported through Bratunac in the direction of the Netherlands.",
+      "reply_to": 410
+    },
+    {
+      "id": 412,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you remember when that was?",
+      "examination": "cross"
+    },
+    {
+      "id": 413,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, not the exact date, but I know it happened and that I was involved in that.",
+      "reply_to": 412
+    },
+    {
+      "id": 414,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you see the private after he was wounded but before his body was taken to Bratunac?",
+      "examination": "cross"
+    },
+    {
+      "id": 415,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, what's the objection?"
+    },
+    {
+      "id": 416,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Relevance. It's more time-consuming than probative."
+    },
+    {
+      "id": 417,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "What's the relevance?"
+    },
+    {
+      "id": 418,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, I'm probing the denial of the witness to the suggestion that I made and, well, without telegraphing where I'm going -- perhaps I should telegraph where I'm going."
+    },
+    {
+      "id": 419,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "I think so, because at the end of the day what he denied in a very vehement way was the proposition that the other soldiers fled or tried to flee. So go straight to where you need to go."
+    },
+    {
+      "id": 420,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, may I ask that question again, Your Honour?"
+    },
+    {
+      "id": 421,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "No. If he's -- he's answered that question already."
+    },
+    {
+      "id": 422,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No, no, the question --"
+    },
+    {
+      "id": 423,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "If you have any other pertinent question, yes, go ahead. But whether he saw the body of this private before it was removed, I mean, what's the relevance of that?"
+    },
+    {
+      "id": 424,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Because, Your Honour, what we're suggesting is that the private was taken to Bratunac for some form of treatment. As I say --"
+    },
+    {
+      "id": 425,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Then ask the --"
+    },
+    {
+      "id": 426,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I telegraphed the answer now."
+    },
+    {
+      "id": 427,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Then ask the question. You have every right to ask the question."
+    },
+    {
+      "id": 428,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I've rather given my line away, haven't I?"
+    },
+    {
+      "id": 429,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you see the Private Renssen in Potocari after he had been wounded?",
+      "examination": "cross"
+    },
+    {
+      "id": 430,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 429
+    },
+    {
+      "id": 431,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the DutchBat soldiers whom you saw at the Hotel Fontana on the 11th of July, did you see them at any time between the 8th and the 11th of July?",
+      "examination": "cross"
+    },
+    {
+      "id": 432,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 431
+    },
+    {
+      "id": 433,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. I'll move on. Last set of questions I want to ask you relate to the 10th of July. You've told us at page 78 of your evidence on the 19th of September that you walked through Srebrenica several times on that day. Did you, in the course of walking through the city, see any military action whatsoever by either members of the ABiH or other Muslims?",
+      "examination": "cross"
+    },
+    {
+      "id": 434,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did see some military with their hand arms and they were sort of in between the other people.",
+      "reply_to": 433
+    },
+    {
+      "id": 435,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were they firing at anyone?",
+      "examination": "cross"
+    },
+    {
+      "id": 436,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I did not see this.",
+      "reply_to": 435
+    },
+    {
+      "id": 437,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And on your walks through the city, presumably you went to Bravo Company.",
+      "examination": "cross"
+    },
+    {
+      "id": 438,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The Bravo Company and the PTT buildings. That's what I mainly walked, and they are not very far apart, couple hundred yards maybe. However, my stay, where I was residing in those days, was at Bravo.",
+      "reply_to": 437
+    },
+    {
+      "id": 439,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "For how many hours would you say you were in Srebrenica that day?",
+      "examination": "cross"
+    },
+    {
+      "id": 440,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "24 hours.",
+      "reply_to": 439
+    },
+    {
+      "id": 441,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall where the petrol station was in relation to Bravo Company?",
+      "examination": "cross"
+    },
+    {
+      "id": 442,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I'd have to see images of it. But if this was a location at which there used to be a bus stop, where you could get on the bus, then I do have that image, yes.",
+      "reply_to": 441
+    },
+    {
+      "id": 443,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, assuming it's there, how far?",
+      "examination": "cross"
+    },
+    {
+      "id": 444,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, maybe a hundred, 200 metres. However, I believe that for a clear image one should see a picture. Otherwise it's going to be too vague for me.",
+      "reply_to": 443
+    },
+    {
+      "id": 445,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm not going to argue with that, Colonel Boering. What I'd now like to you do is have a look at a video which has been played to this Chamber before but not to you. It's V00-4417, also known as 4 D14. Perhaps that could be played.",
+      "examination": "cross"
+    },
+    {
+      "id": 446,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 447,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is that the petrol station that you had in mind in relation to the questions I just asked you?",
+      "examination": "cross"
+    },
+    {
+      "id": 448,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 447
+    },
+    {
+      "id": 449,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "I am told that the images depicted in that video occurred on the 10th of July of 1995. Did you see anything like that whilst you were there?",
+      "examination": "cross"
+    },
+    {
+      "id": 450,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I did not.",
+      "reply_to": 449
+    },
+    {
+      "id": 451,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 452,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "So I think we can have the break now and then Mr. Sarapa will start his cross-examination afterwards. 25 minutes, please. I beg your pardon. It's 30 minutes, not 25 minutes, and that's because of the redaction. Thank you."
+    },
+    {
+      "id": 453,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. Sarapa. Do you think you can finish in 45 minutes?"
+    },
+    {
+      "id": 454,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I'll do my best. My predecessors have covered a lot of questions that I intended to ask, so I sincerely hope that I'll be able to finish within that time."
+    },
+    {
+      "id": 455,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "It's a classic case of great minds think alike."
+    },
+    {
+      "id": 456,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you for those words."
+    },
+    {
+      "id": 457,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel, sir, I would like to ask you some personal questions, not personal as such but some related to your career. When you spoke about your military career, you have provided us with some detail of the offices that you held before arrival in Srebrenica. Can you please repeat that? Can you provide us with some more detail as to what you did before arriving in Srebrenica?",
+      "examination": "cross"
+    },
+    {
+      "id": 458,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I went to the military academy from 1987 to 1982 [as interpreted]. Then I became lieutenant, and after that, from 1982 to 1989, I served in Germany with artillery. During that time I was involved in manoeuvring units as a sort of liaison person. Infantry, reconnaissance unit. After that, for six months, I took leave. I wasn't in the army. So we can skip that. Then I joined the army in the artillery centre in Breda, where I was for one year. From then, I did a course in The Hague, and then for two and two and a half years I was placed in the Ministry of Defence in The Hague, with the procurement of material was one of my tasks. And following on from that, I went back to Seedorf in the brigade where I was an artillery officer. And following on from that, after one year, there was talk that I be sent to the Dutch patrol, so I went from the brigade staff and I became seconded to Assen, and I was in the programme with some other external people in order to reinforce them. I was there for about two, three months, where I was involved in preparation and then I was detached or sent. That's it in brief. I was sent on missions after that.",
+      "reply_to": 457
+    },
+    {
+      "id": 459,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "During your stay in Srebrenica, during your mission, did you have the right of command?",
+      "examination": "cross"
+    },
+    {
+      "id": 460,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. You don't have it as a staff officer. I played a more coordinating role, and I played an advising -- advisory role.",
+      "reply_to": 459
+    },
+    {
+      "id": 461,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Can we please play 7 D00028? Very well. This document is in B/C/S. It was found rather late. We did not have the time to translate it. So I would like the interpreters to interpret what I'm going to read. This is a document by the BiH army, by the command of the 8th Operations Group Srebrenica, the security sector. The number is 130503 and the date is 11 January 1995, in Srebrenica, and it is delivered to the security sector of the -- security organ of the 2nd Corps in Tuzla."
+    },
+    {
+      "id": 462,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "May it be noted that the interpreters do not have that on the screen."
+    },
+    {
+      "id": 463,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "No one has it on the main screen. It appears now. You should have it now. Please confirm to me if you don't."
+    },
+    {
+      "id": 464,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Yes, thank you."
+    },
+    {
+      "id": 465,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 466,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "This is the beginning: \"Due to the enemy attack to take Ravni Buljim, TT 820, and due to the fact that the UNPROFOR did not agree to place an observation at that place, the command of the 8th OG Srebrenica has banned the UNPROFOR members to approach the area and to reinforce the Buljim-Jabucno line.\" And later on there is another part of the text. \"The 8th OG Srebrenica has given an ultimatum to the members of the United Nations and asked them to return the enemy soldiers to their initial positions. Should they not comply with that condition, the command will forbid the movement by the UNPROFOR in this zone.\" Colonel, sir, could you please tell us whether you have any information about this document? The date is 11 January 1995, and this was the time when you were already there.",
+      "examination": "cross"
+    },
+    {
+      "id": 467,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I didn't know anything about this.",
+      "reply_to": 466
+    },
+    {
+      "id": 468,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 469,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let's be clear, because you never know in this place. The question that you asked is whether he knows anything about this document, whether you have any information about this document. And he --"
+    },
+    {
+      "id": 470,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] No, no, no."
+    },
+    {
+      "id": 471,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "And he has answered that he hasn't. Perhaps if we could rephrase the question to make sure that what you meant to elicit from the witness is whether he can tell us anything about the contents of this document that you read out to him. In other words about --"
+    },
+    {
+      "id": 472,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, yes."
+    },
+    {
+      "id": 473,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Colonel, this is not a question as to whether you've seen this document before or whether you know anything about it. It's a question of whether you know anything about the facts or the events that it refers to."
+    },
+    {
+      "id": 474,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I can recall that there were talks about the number of observation posts around the enclave. I didn't carry them out myself, but Lieutenant-Colonel Karremans did. In the beginning, I wasn't the military LO yet, but I do remember there were talks about the need or the desirability to have other locations for observation posts."
+    },
+    {
+      "id": 475,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] This is precisely what I meant. I wanted to discuss the contents of the document, not the document itself. And now I would kindly ask for 7 D0030 to be put on the screen. Yes. We have it on the screen now."
+    },
+    {
+      "id": 476,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "This is a document by the General Staff of the army, the army staff, Kakanj, 29 January 1995. And it was sent to the command of the 8th OG Srebrenica. It was signed by the Chief of Staff, General Enver Hadzihasanovic. At the beginning of the document, it says: \"The UNPROFOR in your zone has very well defined tasks that they are supposed to follow. In conversations with the liaison officer of the UNPROFOR, make sure that the UNPROFOR complies with their commitments. Do not allow them to go to possible new observation points.\" My question to you is this: Do you know who the liaison officer was at the time? And I'm referring to the 29th of January, 1995.",
+      "examination": "cross"
+    },
+    {
+      "id": 477,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "What's the objection?"
+    },
+    {
+      "id": 478,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It's a short document and we don't have it in English."
+    },
+    {
+      "id": 479,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yeah, but the question is whether he knows who was the LO at this time, January 1995. I don't even know whether he had arrived then."
+    },
+    {
+      "id": 480,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, under the old rules as I remember them, the appropriate question would be that question, without a document. There is no reason to refresh his recollection or impeach him. He just can ask him: Do you know who the LO was? And there is no reason for a document."
+    },
+    {
+      "id": 481,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "But we have advanced 13 years since this Tribunal started. You know that."
+    },
+    {
+      "id": 482,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If you think that's an advance. These documents, and reading them is taking quite a bit of time. I think there were some reasons for those old rules."
+    },
+    {
+      "id": 483,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "You're 100 per cent right, Mr. McCloskey, but let's proceed with the question because that's what we really should be concentrating upon. You're being asked, Colonel, whether you know who the liaison officer was in January, end of January of 1995. If you can answer that question, if you know?"
+    },
+    {
+      "id": 484,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I don't know whether it was the LO that was intended in this letter, but I had a colleague, and together we had prepared some discussion points. I can't recall that we discussed something as appears in this document."
+    },
+    {
+      "id": 485,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "That answer is more than you bargained for, Mr. Sarapa. So let's proceed. Thank you."
+    },
+    {
+      "id": 486,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] May we now have 7 D00026 on the screen?"
+    },
+    {
+      "id": 487,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Again, we don't seem to have a translation of this document into English."
+    },
+    {
+      "id": 488,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] It exists only in B/C/S, I'm afraid."
+    },
+    {
+      "id": 489,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "I have an impression of having seen this document already during the proceedings. No, but that referred to June or July. No. No. This is February."
+    },
+    {
+      "id": 490,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Now we have the right document on the screen. The previous one was a wrong one."
+    },
+    {
+      "id": 491,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "This is a document of the BIH army, the command of the 28th Division. The number is 01-17/95.",
+      "examination": "cross"
+    },
+    {
+      "id": 492,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Go to the question, Mr. Sarapa."
+    },
+    {
+      "id": 493,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 494,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm going to read one part of the document and then I'll put my question to the witness. \"On 27 April 1995, the command of the DutchBat of UNPROFOR in Srebrenica started to reinforce -- to reinforce their lines in order to set up an observation point in the sector of Lozina village. This will allow for the control of the corridor between Srebrenica and Zepa, and this will directly have an impact on the security and the confidentiality of the transport of MTS which is delivered to Srebrenica in this way. The liaison officer of the 28th Division of the Srebrenica army asked for an urgent meeting with the representatives of the DutchBat, and he met with them on two occasions, the first time on the 28th of April, 1995, at 10.00 and at 1600 hours.\" Colonel, sir, do you know anything about these particular meetings?",
+      "examination": "cross"
+    },
+    {
+      "id": 495,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can remember the subject matter, yes.",
+      "reply_to": 494
+    },
+    {
+      "id": 496,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you attend either both of these meetings or at least one of them?",
+      "examination": "cross"
+    },
+    {
+      "id": 497,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is not quite clear in my memory. What I do recall is that we have discussed whether or not to establish an additional observation post. That is something that I do remember. However, whether that took place in this precise period is something that is possible. It certainly does connect.",
+      "reply_to": 496
+    },
+    {
+      "id": 498,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 499,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Can we now have number 7 D00036 on the screen?"
+    },
+    {
+      "id": 500,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. This is a document, again, a document by the army of Republic of Bosnia-Herzegovina, the date is 29 April 1995, sent to the command of the 28th Division. This is an order which reads: \"The command of the 28th Division of the army in cooperation with the civilian structures of Srebrenica municipality should take all measures and prevent further works leading towards the setting up of an observation point of the UNPROFOR in the Lozina village sector.\" Under 3 it says: \"The civilian organs of authorities have to get in touch with the Dutch Battalion and they should be provided with some instructions, and the SJB has to provide physical security to the axis where the works are taking place.\" Colonel, sir, are you familiar with this event? Do you know what transpired after this? Especially what about the provision of physical security at the place where the works are taking place?",
+      "examination": "cross"
+    },
+    {
+      "id": 501,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I cannot remember anything about this.",
+      "reply_to": 500
+    },
+    {
+      "id": 502,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Can we now have 7 D00034 on the screen, please?"
+    },
+    {
+      "id": 503,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "The date on the document is 29 April 1995. It was sent to the command of the 28th Division and to the command of the 2nd Corps. It says: \"In your document, we received order regarding the observation point of the UN in the sector of Lozina on the corridor of the demilitarised zone, Srebrenica-Zepa. At 10.00 on the same day the representatives of the command of the 28th Division and the civilian authorities held a meeting with the representatives of the UN and military observers.\" My question to you is this: Do you know who military observers were?",
+      "examination": "cross"
+    },
+    {
+      "id": 504,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I assume that these were the United Nations military observers present in the enclave. These were about four individuals and they would take turns in carrying out their work. There was a Major Kingori, Major de Haan, and there were several other observers. However, their names are not quite clear to me at the moment.",
+      "reply_to": 503
+    },
+    {
+      "id": 505,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you be able to remember the names of the UN liaison officers?",
+      "examination": "cross"
+    },
+    {
+      "id": 506,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I know the names of the UNMOs. I just gave you two names. As to liaison officers, well, at that point, that was me.",
+      "reply_to": 505
+    },
+    {
+      "id": 507,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. Thank you. My next question is whether you attended this meeting. Do you remember having attended this meeting?",
+      "examination": "cross"
+    },
+    {
+      "id": 508,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't believe I did. It's possible that either Lieutenant-Colonel Karremans or Commander Franken, or Lieutenant Franken organised a meeting themselves, in presence of the company commander as well.",
+      "reply_to": 507
+    },
+    {
+      "id": 509,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel, sir, do you remember whether you attended any meetings that were held with the representatives of the Muslim army that had to do with the observation points? Apparently there was a problem, and I suppose these were not the only meetings. These are the only documents that I have at my disposal. However, I assume there were other meetings, and my question to you is whether you attended any other meetings of the kind of -- on any other days, at any other times.",
+      "examination": "cross"
+    },
+    {
+      "id": 510,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "During meetings with the ABiH, the issue of observation posts was mentioned regularly. The matter was discussed whether posts should or could be removed, whether there were positions in the right way. These matters were discussed. However, I haven't been involved in this personally, and when this issue would be raised, it would be on the competence of either Lieutenant-Colonel Karremans or Mr. Franken. I never dealt with these matters myself. And whenever there were meetings dealing with this issue, then whenever possible, I would not participate in them.",
+      "reply_to": 509
+    },
+    {
+      "id": 511,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we look at document 7 D00041, please?"
+    },
+    {
+      "id": 512,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Document of the 29th of April, 1995, sent by the army of the Republic of Bosnia-Herzegovina to the command of the 2nd Corps in Tuzla, the 28th Division. Item 1 states: \"UNPROFOR's claim is correct in Srebrenica that the same de jure has an unlimited freedom of movement and selection of locations for observation posts, in the territory of Srebrenica. Agreement on the demilitarisation of Srebrenica and Zepa dated 8th May 1993. \"Item 2: UNPROFOR's claim is correct that based on the agreement on the demilitarisation, they are obliged to prevent any attempt of entry by uniformed persons, military equipment and combat vehicles to the demilitarised zone. In view of the above and understanding the possible serious consequences of setting up UNPROFOR observation posts, as far as the army of Republic of Bosnia-Herzegovina is concerned, i.e., the jeopardy of the corridor for Zepa, we suggest the following: The subject problem should not be raised at the level of the GSA, BH command of UNPROFOR, because the UNPROFOR unit in Srebrenica would in that way have enough time to set up the command post -- the observation posts.\" My question is as follows: It transpires clearly on the basis of this that the objective was to gain time. You, Colonel, were you familiar, and you confirmed that earlier, that you knew about the problem of the observation posts and were you aware at the time that the actions of the military authorities of the B and H army were actually intended to drag things out?",
+      "examination": "cross"
+    },
+    {
+      "id": 513,
+      "speaker": "PIETER BOERING [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "When I take a very deep look in my memories, then I can affirm that, yes.",
+      "reply_to": 512
+    },
+    {
+      "id": 514,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 515,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Can we move into private session now, please?"
+    },
+    {
+      "id": 516,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Let's move into private session. One moment."
+    },
+    {
+      "id": 517,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Colonel, we have to end here today. Unfortunately, you haven't finished. We require 15 minutes minimum, or a little bit more than that, depending on whether there is going to be re-examination tomorrow. And then you're free to go. But your presence is required again, unfortunately. So I wish to thank you for bearing with us, and have a nice evening, and I'll see you again -- we'll see you again tomorrow afternoon. Thank you."
+    },
+    {
+      "id": 518,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "to be reconvened on Wednesday, the 27th day of September, 2006, at 2.15 p.m. 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25"
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 2.21 p.m."
+    },
+    {
+      "after_utterance": 5,
+      "text": "WITNESS:  PIETER BOERING [Resumed]"
+    },
+    {
+      "after_utterance": 5,
+      "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 7,
+      "text": "Cross-examination by Ms. Fauveau:"
+    },
+    {
+      "after_utterance": 72,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 173,
+      "text": "[Private session]"
+    },
+    {
+      "after_utterance": 173,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 173,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 173,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 173,
+      "text": "Pages 2184-2190 redacted. Private session."
+    },
+    {
+      "after_utterance": 173,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 173,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 173,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 173,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 198,
+      "text": "--- Recess taken at 3.48 p.m."
+    },
+    {
+      "after_utterance": 198,
+      "text": "--- On resuming at 4.19 p.m."
+    },
+    {
+      "after_utterance": 227,
+      "text": "[Private session]"
+    },
+    {
+      "after_utterance": 227,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 227,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 227,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 227,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 227,
+      "text": "Page 2197 redacted. Private session."
+    },
+    {
+      "after_utterance": 227,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 227,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 294,
+      "text": "[Videotape played]"
+    },
+    {
+      "after_utterance": 300,
+      "text": "[Videotape played]"
+    },
+    {
+      "after_utterance": 342,
+      "text": "[Videotape played]"
+    },
+    {
+      "after_utterance": 361,
+      "text": "Cross-examination by Mr. Josse:"
+    },
+    {
+      "after_utterance": 445,
+      "text": "[Videotape played]"
+    },
+    {
+      "after_utterance": 452,
+      "text": "--- Recess taken at 5.41 p.m."
+    },
+    {
+      "after_utterance": 452,
+      "text": "--- On resuming at 6.18 p.m."
+    },
+    {
+      "after_utterance": 456,
+      "text": "Cross-examination by Mr. Sarapa:"
+    },
+    {
+      "after_utterance": 516,
+      "text": "[Private session]"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "Pages 2230-2231 redacted. Private session."
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 516,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 517,
+      "text": "--- Whereupon the hearing adjourned at 7.02 p.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_26_September_2006.doc"
+}

@@ -1,0 +1,4181 @@
+{
+  "case": "popovic",
+  "case_id": "IT-05-88-T",
+  "date": "2007-11-29",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good afternoon. Madam Registrar, could you please call the case, please."
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Good afternoon, Your Honours. This is the case number, IT-05-88-T, the versus Vujadin Popovic et al."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Madam. All the accused are here. Amongst the Defence teams, I notice the absence of Mr. Haynes and Mr. Bourgon. The Prosecution present, Mr. McCloskey and Mr. Thayer. Any preliminaries?"
+    },
+    {
+      "id": 4,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "None from the Prosecution, Mr. President."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "The witness doesn't need any protective measures, I suppose?"
+    },
+    {
+      "id": 6,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No, Mr. President."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "All right. Then we are ready for him."
+    },
+    {
+      "id": 8,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Do you still intend to take three and a half hours, Mr. Thayer?"
+    },
+    {
+      "id": 9,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I've tried to reduce my examination, Mr. President. I will try to keep it to three hours or -- or even less, if possible. I think I've already cut out a decent amount, including exhibits."
+    },
+    {
+      "id": 10,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "All right. Thank you. Which means that, if Mr. Thayer keeps to his estimate, one of you at least would be required to start his or her cross-examination today."
+    },
+    {
+      "id": 11,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good afternoon to you, General."
+    },
+    {
+      "id": 12,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Good afternoon."
+    },
+    {
+      "id": 13,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "And welcome to this Tribunal. I am the Presiding Judge. My name is Carmel Agius. To my right I have Judge Kwon and Judge Stole. To my left, I have Judge Prost. Together we compose this Trial Chamber. You are about to start giving evidence. And before you do so, you're kindly requested to enter a solemn declaration required by our Rules that you will be testifying the truth. Go ahead."
+    },
+    {
+      "id": 14,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I swear that I will state the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 15,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. I thank you, General. Please make yourself comfortable."
+    },
+    {
+      "id": 16,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "You first are going to be asked questions by Mr. Thayer, who will then be followed by the various Defence teams on cross-examination. Not all of them, but most of them. Mr. Thayer."
+    },
+    {
+      "id": 17,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Mr. President. Good afternoon to you and Your Honours. Good afternoon, everyone."
+    },
+    {
+      "id": 18,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good afternoon, sir.",
+      "examination": "direct"
+    },
+    {
+      "id": 19,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good afternoon.",
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you please state your name and spell it for the record.",
+      "examination": "direct"
+    },
+    {
+      "id": 21,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm Cornelis Nicolai.",
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And how old are you, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 23,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm 60 years old.",
+      "reply_to": 22
+    },
+    {
+      "id": 24,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Am I correct, sir, you were commissioned as an officer in the Dutch army in 1969 and retired with the rank of major-general?",
+      "examination": "direct"
+    },
+    {
+      "id": 25,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "In 1965, I entered the service. And I left the service as a general-major.",
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when did you retire, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 27,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "2004.",
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you served in Bosnia for approximately six months in 1995; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 29,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct. From the end of February 1995 until early September I was there.",
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And would you please tell the Trial Chamber how you came to serve with UNPROFOR in Bosnia. Was this a posting you sought out?",
+      "examination": "direct"
+    },
+    {
+      "id": 31,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "In this specific case, I did. That's not usual. Ordinarily you're appointed to a post. But previously I had been offered another position that was inconvenient for me for personal reasons, and when asked what I did want, I said that I wanted to be deployed.",
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was your position when you entered your service in Bosnia?",
+      "examination": "direct"
+    },
+    {
+      "id": 33,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "In Bosnia I served as Chief of Staff of what was originally called the Command for Bosnia-Herzegovina, the BH Command. The name was later exchanged to UNPROFOR.",
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what were your duties and responsibilities as Chief of Staff to the BH commander?",
+      "examination": "direct"
+    },
+    {
+      "id": 35,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "A commander is supported in his duties by a staff, run by the Chief of Staff, who is responsible for day-to-day command of the operations, ensuring that the reports are ready on time, that the commander is properly informed, that the assignments are executed, and that plans are drafted and that the situation is kept track of, all daily routine duties by the staff are on its -- the aegis of the Chief of Staff.",
+      "reply_to": 34
+    },
+    {
+      "id": 36,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And just so the record is clear, General, who was the BH commander under whom you served as Chief of Staff?",
+      "examination": "direct"
+    },
+    {
+      "id": 37,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "With the British Lieutenant General Rupert Smith.",
+      "reply_to": 36
+    },
+    {
+      "id": 38,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, sir, did you have a deputy?",
+      "examination": "direct"
+    },
+    {
+      "id": 39,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. It was a French colonel, Philippe Coiffet.",
+      "reply_to": 38
+    },
+    {
+      "id": 40,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in addition to Colonel Coiffet, did you also have a military assistant, or an MA?",
+      "examination": "direct"
+    },
+    {
+      "id": 41,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's correct. I had a Dutch lieutenant-colonel with me, who basically assisted me in all my daily activities.",
+      "reply_to": 40
+    },
+    {
+      "id": 42,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was that lieutenant-colonel's name, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 43,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Andrew de Ruiter.",
+      "reply_to": 42
+    },
+    {
+      "id": 44,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when General Smith was away, who stood in for him?",
+      "examination": "direct"
+    },
+    {
+      "id": 45,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was the -- the senior-ranking general at that point. He would take over. And in most cases, that was Major-General Gobillard, the commander of the Sarajevo Sector.",
+      "reply_to": 44
+    },
+    {
+      "id": 46,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And at this time, sir, during your service, what rank did you hold?",
+      "examination": "direct"
+    },
+    {
+      "id": 47,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was brigadier-general at that point.",
+      "reply_to": 46
+    },
+    {
+      "id": 48,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "General, I'd like to ask you some questions now concerning your contacts with members of the VRS high command. Do you recall the names of any VRS Main Staff officers you heard of during your time in Bosnia?",
+      "examination": "direct"
+    },
+    {
+      "id": 49,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Regularly the man I had the most contact with was General Milovanovic. As far as I know, he was the Chief of Staff of General Mladic. He was also, I would say, the first designated contact for me. When he was absent, I would be passed to somebody else by the -- on the phone. Sometimes that was General Mladic himself, but I also spoke several times with General Tolimir and with General Gvero.",
+      "reply_to": 48
+    },
+    {
+      "id": 50,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And were there any other VRS Main Staff officers whose name you heard or were aware of during the period of your service in Bosnia?",
+      "examination": "direct"
+    },
+    {
+      "id": 51,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Not as far as I know. And there was little point to speaking with generals -- excuse me, speaking with officers below the level of the general, because no decisions were taken there.",
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what do you mean by that, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 53,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "What I mean is that if you had a question or a request, the only useful answers would be from somebody at the general's level. Apparently they were authorised to take decisions, and beneath that level at best the question would be accepted and passed on and you would have to wait for an answer.",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, let's spend a few moments and -- and discuss some of these Main Staff officers whom you listed. You referred to General Milovanovic. Do you recall meeting him in person at any time?",
+      "examination": "direct"
+    },
+    {
+      "id": 55,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. In the first week after my arrival, my predecessor introduced me to the contacts of the other parties there, and for the VRS that was General Milovanovic.",
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you -- you stated a few moments ago that you had the most contacts with General Milovanovic. Was there any protocol regarding with whom you would be in contact on the VRS side that governed who you typically would have had contact with?",
+      "examination": "direct"
+    },
+    {
+      "id": 57,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, there was such a protocol. There were agreements that staffs would have contact only with their own levels. So BH Command would deal with the army command. The commander of the sectors would interact with the army corps commanders of the troops that they were in contact with. Within the staff, ordinarily the Chief of Staff would speak with the Chief of Staff and the commander would speak with the commander. But, of course, there were occasional exceptions if somebody was absent.",
+      "reply_to": 56
+    },
+    {
+      "id": 58,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if General Milovanovic were away, for example, was there anyone in particular that would stand in for him that you recall, other than speaking with General Mladic or General -- General Tolimir on occasion, as you stated?",
+      "examination": "direct"
+    },
+    {
+      "id": 59,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. As far as I was concerned, it depended on the coincidence of who happened to be present at that point. If General Milovanovic was not present, I would speak with one of the aforementioned other generals.",
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And regarding what types of matters would you deal with General Milovanovic?",
+      "examination": "direct"
+    },
+    {
+      "id": 61,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, that would be a wide variety of matters. First of all, if there had been any acts of violence, such as shooting incidents, then that would be discussed or protest -- protest would be lodged. And there might also be discussions about permission to transfer a convoy to bring supplies to the civilians in the enclaves. We also discussed exchanging prisoners between the different parties. Other conversations addressed is prisoners of war. Excuse me. Casualties or injured. And what also happened quite regularly: If injured people had to be evacuated, then there would be negotiations about that as well, because authorisation was needed to transport across the territory of one of the parties.",
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And with respect to General Gvero, when do you recall first having contact with him?",
+      "examination": "direct"
+    },
+    {
+      "id": 63,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I remember, that was on 11 July, the day that the Srebrenica enclave fell. And I believe I remember that the next day, on 12 July, I spoke with him again.",
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And we'll talk about those conversations in a little while, sir. To your knowledge, where were these VRS high command officers, Mladic, Milovanovic, Tolimir, and Gvero? Where was this -- this Main Staff headquartered to your knowledge at the time?",
+      "examination": "direct"
+    },
+    {
+      "id": 65,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I knew at the time, that was in Pale. Later on I learned that that was incorrect, but we always contacted people in Pale.",
+      "reply_to": 64
+    },
+    {
+      "id": 66,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, you referred to meeting General Milovanovic. Where did you in fact meet him?",
+      "examination": "direct"
+    },
+    {
+      "id": 67,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was also in Pale.",
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you met him in Pale, did you meet him in what you understood to be the VRS Main Staff headquarters, or were you in another building?",
+      "examination": "direct"
+    },
+    {
+      "id": 69,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, it didn't look like a barracks or headquarters, but the building did look like it served an official purpose. And at any rate, there were some VRS servicemen there.",
+      "reply_to": 68
+    },
+    {
+      "id": 70,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And at that time, what was your understanding of physically where in -- in proximity did the actual Main Staff have its headquarters?",
+      "examination": "direct"
+    },
+    {
+      "id": 71,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I thought it was somewhere near Pale, but I didn't have an immediate interest in the exact location.",
+      "reply_to": 70
+    },
+    {
+      "id": 72,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, have you ever heard of the facilities located in Han Pijesak or Crna Reka, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 73,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Later on -- and when I say later on, I mean after I had already returned from Bosnia, I understood that that's where the VRS headquarters were located.",
+      "reply_to": 72
+    },
+    {
+      "id": 74,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, when you wanted to contact the VRS Main Staff by telephone, can you describe for the Trial Chamber, please, how those phone calls, as far as you understood it, physically were made. Just step by step, please.",
+      "examination": "direct"
+    },
+    {
+      "id": 75,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, making phone calls wasn't that difficult. We had a direct connection with a post in Pale that we could call to. And I had a female interpreter who would call and establish contact. And subsequently the conversation would take place, but if we wanted to send written messages, there was a UNMO post in Pale and we had a fax connection with that and could send the -- a fax to the UNMOs, who would subsequently bring that message to the VRS authorities present at that point in time.",
+      "reply_to": 74
+    },
+    {
+      "id": 76,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "General, you referred to a female interpreter a moment ago. Do you recall her name?",
+      "examination": "direct"
+    },
+    {
+      "id": 77,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Her first name was Svetlana. Unfortunately, I don't remember her surname any more.",
+      "reply_to": 76
+    },
+    {
+      "id": 78,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And do you recall the names of any other interpreters upon whose services you regularly relied?",
+      "examination": "direct"
+    },
+    {
+      "id": 79,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I thought there was one called Zdravko, but I don't remember that exactly because in 90 per cent of all cases, I worked with Svetlana..",
+      "reply_to": 78
+    },
+    {
+      "id": 80,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And by whom was she actually employed, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 81,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "She had served many of my predecessors. I think by the time I entered that position, she had been doing that work for three years. So one of my predecessors must have hired her.",
+      "reply_to": 80
+    },
+    {
+      "id": 82,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I want to turn your attention now to the issue of the resupply convoys, both to the DutchBat peacekeepers and the civilian population in Srebrenica. You -- you mentioned that this was one of the areas about which you dealt with General Milovanovic. Would you please describe the procedure that you had to follow with respect to these reply convoys.",
+      "examination": "direct"
+    },
+    {
+      "id": 83,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, one very unfortunate fact -- see, ordinarily at UN missions the UN troops have freedom of movement. In the beginning, that appears to have been the case in Bosnia as well. After some time, however, that was infringed upon, and that meant that we needed to request permission for displacement of convoys and we need to request permission from the party whose territory that was. So if we wanted to send a reply convoy to the enclave in Srebrenica, then we had to indicate a few days in advance how many vehicles we intended to send there, via which route, and with which load. And we had to request permission for that displacement. And ordinarily that would arrive very briefly in advance, and sometimes there would be restrictions or we wouldn't be allowed to send as many vehicles as we wanted to, or certain parts of the load were not accepted.",
+      "reply_to": 82
+    },
+    {
+      "id": 84,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And on each side - here speaking about the UNPROFOR side and the VRS side - how was the initial request for permission to resupply via convoy handled? At what level, to your recollection?",
+      "examination": "direct"
+    },
+    {
+      "id": 85,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Once the needs had been established by the staff within a certain enclave, then the transport officer would determine how many vehicles were necessary to transport that load, and he would then ask -- and I think he did so by fax. He would complete a form requesting permission to be allowed to -- to move that convoy. And if everything went well and permission was granted, then I didn't need to get involved. If at a certain point permission was refused, then we would try it at a higher level, which was usually the level of the Chief of Staff, to see whether we could obtain permission after all, or we would inquire about the reason why certain things were being rejected.",
+      "reply_to": 84
+    },
+    {
+      "id": 86,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Microphone not activated] And with what frequency would you have --",
+      "examination": "direct"
+    },
+    {
+      "id": 87,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Microphone, please."
+    },
+    {
+      "id": 88,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "My apologies. My microphone was off."
+    },
+    {
+      "id": 89,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "With what frequency would you have convoys denied by the VRS?",
+      "examination": "direct"
+    },
+    {
+      "id": 90,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "It's difficult to say, but it happened very regularly that at the very least, requests were changed and requests were regularly refused, as well, and I won't say -- I wouldn't say that that happened every week, but it certainly happened every month. It depended on the period. At the beginning of my posting, it wasn't that common. But certainly in May and June that regularly happened.",
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you were dealing with General Milovanovic with respect to the denial of the convoys, how would you describe what you had to do in order to get permission from General Milovanovic?",
+      "examination": "direct"
+    },
+    {
+      "id": 92,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I didn't have a lot of means at my disposal. I tried to use persuasive tactics to explain why these convoys were necessary, and then I would try to convince my counterpart, of the other party, that the permission had to be granted. Nine out of ten times that's what happened. Once I took it a step further. That was in early March 1995. And we threatened if the food convoy were refused, that the enclave would be supplied by air and, if necessary, violence would be used.",
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you say \"if necessary, violence would be used,\" what do you mean, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 94,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "If they tried to block the supply flights by shooting at the aeroplane, then we would use our air weapons to fight our way in and to carry out those supply flights anyway.",
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, you said this was stated in March. At that time, did you in fact have any air resupply plan in place that would back up that threat, as you described it?",
+      "examination": "direct"
+    },
+    {
+      "id": 96,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Not yet at that time. That means that if we had had to execute it at that moment, we would have had to do an awful lot of improvising. But now that we were confronted with the fact that more and more convoys were being refused permission and the supplies were dwindling, we realized that we needed to draft a plan so that if a real emergency materialised, we would have to have a plan that we could execute to be able to supply our troops, if necessary, through violence. That was why General Smith assigned his staff to draft a plan for this eventuality, a very detailed plan. And I remember that we worked over two months on that, set everything forth in paper, and by the end of April the plan was ready.",
+      "reply_to": 95
+    },
+    {
+      "id": 97,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And do you recall whether or not that plan was approved by -- length start with Mr. Akashi, for example. -- Let's start with Mr. Akashi, for example.",
+      "examination": "direct"
+    },
+    {
+      "id": 98,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Well, it was a military plan. And, of course, it first had to be approved by General Janvier, but Mr. Akashi was aware of it as well and consented. And what I'd like to state for the record: This does not mean that the plan could automatically be carried out, because aeroplanes from different countries would be participating at the moment of execution. The permission would be required from all countries supplying troops here. So authorisation from all troop-contributing nations.",
+      "reply_to": 97
+    },
+    {
+      "id": 99,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You've described a -- a plan that required a lot of staff work and a lot of time. What were the conditions, General, between March, April, and May which justified devoting that amount of time and resources to an air-resupply plan so that you wouldn't have to follow the procedure that you were following already with the VRS?",
+      "examination": "direct"
+    },
+    {
+      "id": 100,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, the necessity of developing that plan arose from the increasing refusal to grant permission to resupply convoys, and thus resupplying the military people in the enclaves, as well as the civilians, became very difficult and the situation was deteriorating. And the plan was intended for the event that a situation became imminent where people were on the verge of starvation, and then we would provide supplies through -- if necessary, through violence.",
+      "reply_to": 99
+    },
+    {
+      "id": 101,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And from what you understood, sir, where was the decision actually made on the Serb side as to whether to approve or deny a convoy?",
+      "examination": "direct"
+    },
+    {
+      "id": 102,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I assume the VRS headquarters.",
+      "reply_to": 101
+    },
+    {
+      "id": 103,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, I want to focus just for a moment on the fuel resupply. Do you recall off the top of your head how many fuel convoys were approved for DutchBat by the VRS between February and June of 1995?",
+      "examination": "direct"
+    },
+    {
+      "id": 104,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I remember that very clearly, because there weren't a lot of them. During my term, one convoy with fuel entered the enclave. That was the convoy in early March. And after that, all fuel convoys were rejected.",
+      "reply_to": 103
+    },
+    {
+      "id": 105,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, with respect to the resupply convoys of food and other material, both for DutchBat and for the civilian population, did you receive any reports about what would happen to some of the convoys which would be approved en route to their destination?",
+      "examination": "direct"
+    },
+    {
+      "id": 106,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Would you please repeat the question.",
+      "reply_to": 105
+    },
+    {
+      "id": 107,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'll try to simplify it, if I -- if I might, sir. Did you ever receive reports, sir, that food and other material resupply convoys - not talking about fuel - would not reach the ultimate destination with its approved load?",
+      "examination": "direct"
+    },
+    {
+      "id": 108,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Absolutely. That happened regularly as well. Even though permission was granted, somewhere along the route, at a control post or a check-point, vehicles were blocked, sent back. Sometimes the vehicle had to be unloaded but the convoy commanders were prohibited from doing so. So if a vehicle or a load was refused, then it would likely have to return mission unaccomplished.",
+      "reply_to": 107
+    },
+    {
+      "id": 109,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in -- in your time in Bosnia, sir, with respect to resupplying the eastern enclaves, which party, if any, was doing this blocking or sending-back the most?",
+      "examination": "direct"
+    },
+    {
+      "id": 110,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, it was clear that that was the VRS, because you had to travel across VRS territory to reach the enclaves. Sometimes during the route preceding that, across Bosnian territory, but the -- the supplies were intended for Bosnians in the enclaves as well. So we didn't usually get problems there, but we did encounter problems with the VRS.",
+      "reply_to": 109
+    },
+    {
+      "id": 111,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So can you describe, sir, to what degree, in your experience, was UNPROFOR dependent upon the VRS to be able to resupply its peacekeepers in the eastern enclaves.",
+      "examination": "direct"
+    },
+    {
+      "id": 112,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, entirely, because without permission from the VRS, we couldn't move those convoys and we were not in a position at the time to resort to violence, except by air. And that was a means that we wanted to -- it was extreme and we wanted to use that only in dire emergencies.",
+      "reply_to": 111
+    },
+    {
+      "id": 113,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just a few more questions on -- on this and one related topic, sir, before we move on. Did anything change during your six months concerning the DutchBat peacekeepers taking leave?",
+      "examination": "direct"
+    },
+    {
+      "id": 114,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. There were problems with that too. I would almost say, What did we not encounter problems with? But it did happen that the DutchBat soldiers left the enclave to go on leave, and a few weeks afterwards, when they tried to return, they would be blocked and would be refused permission to return to their base. The ultimate result was that the number of troops in the enclave had diminished from about 600 soldiers to about 350 soldiers. Clearly, after that we didn't authorise leaves any more.",
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And who in the VRS -- with whom in the VRS did you deal about these leave problems?",
+      "examination": "direct"
+    },
+    {
+      "id": 116,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, various levels were involved. Of course, as the Chief of Staff, I would start talking to my VRS counterpart about that. We also wrote official letters signed by General Smith, and the chief of the civil affairs division negotiated about this as well, all to no avail.",
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did you yourself have contact with the DutchBat commanding officer about the resupply situation and the effects it had on DutchBat's ability to remain operational?",
+      "examination": "direct"
+    },
+    {
+      "id": 118,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I didn't have any formal direct contact with the DutchBat commander, because there was in fact a level in between. So strictly speaking, I had to interact via the headquarters in Tuzla with the DutchBat commander. On the other hand, because I was the senior Dutch officer, the highest ranking Dutch officer in the commando, I was empowered to contact my countrymen directly, and I could do that. I had a direct line. And obviously I did contact him regularly to ask how things stood and whether everything was well, especially when things were not well. I obviously contacted him more frequently to ask about the problems.",
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Microphone not activated]",
+      "examination": "direct"
+    },
+    {
+      "id": 120,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Microphone, please."
+    },
+    {
+      "id": 121,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did the DutchBat commander ever commit any of his complaints or concerns in writing to your command, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 122,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I'll try to give you a full answer. He did so both orally and in writing. At first, it was orally, to indicate which problems were being caused, for example, due to fuel shortages. So very quickly, the fuel shortages forced him to discontinue his motor patrols and he could only send out foot patrols. After a while, they also stopped using fuel to heat the buildings, to save the fuel, to keep the generators going that were needed to use the communication devices. And, of course, those are consequences that compromise operational usefulness. And when that -- when things became worse, I believe sometime in May, he drafted a first report about the situation. That was a written report presented through the official line of command, in which he explained how dismal his supply position was, both with respect to fuel, spare parts, munition, as well as the quality of munitions, the lack of food, and that this was -- this had seriously compromised his operational usefulness. I remember another report from early June in which he basically stated that he'd reached a point where operationally he was no longer able to do his job properly.",
+      "reply_to": 121
+    },
+    {
+      "id": 123,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, we'll be turning to the VRS attack on the enclave in a few moments, General, but first, how would you describe the military situation, just generally, in terms of the activity around the Srebrenica enclave in June of 1995?",
+      "examination": "direct"
+    },
+    {
+      "id": 124,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, at any rate, the enclave was surrounded on all sides by VRS troops. We clearly had the impression that during the course of June the number of troops had been increased, and that raised questions about the intentions of the VRS, whether they intended to attack the enclave and what the purpose would be of such an attack; did they intend to seize part of the enclave, for example, the southern part across which there was an important supply route, or would they try to seize control of the entire enclave. That was a tough call. At first in our commando we believed that it would concern only the southern area. After a while, the VRS did indeed start attacking UN targets, and in June one of the observation posts was attacked and DutchBat was forced to leave those observation posts. In early July there was another step because successively more observation posts were being attacked and shot at, and those static posts at exposed sites, although they were protected by sandbags and barbed wire, they were certainly not -- they certainly couldn't withstand tank fire. So if they were fired on by tanks, the only thing to do was to abandon the observation post.",
+      "reply_to": 123
+    },
+    {
+      "id": 125,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. General, let me just back up for a quick moment. Just generally speaking, in terms of firing incidents or attacks by either of the warring parties in the month of June in the area of Srebrenica, do you recall receiving complaints by either of the warring parties about such attacks, firing incidents, and so forth? And if so, do you recall what you did about those complaints from either of the warring factions?",
+      "examination": "direct"
+    },
+    {
+      "id": 126,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. There were complaints from both parties, both from the side of VRS and from BiH. The VRS complained about Muslim soldiers that would exfiltrate from the enclaves and that would attack villages on Serb territory. They complained that evidently the UN was unable to stop this. The BiH complained that they were being shot at by the VRS. The latter could also be observed by DutchBat. So we were well-positioned to check whether these complaints were justified. And actually, there was a third party in some cases; sometimes the UN itself was shot at. So protests about that were sent out as well.",
+      "reply_to": 125
+    },
+    {
+      "id": 127,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Thayer, I just want to make sure of one thing; namely, that the interpretation is correct. The -- line 24 on the previous page, on page 18: \"The BiH complained that they were being shot at by the VRS. The latter could also be observed by DutchBat.\" Did the witness say Dutch -- the BiH complained that they were being shot at by the VRS or bombarded by the -- by the VRS?"
+    },
+    {
+      "id": 128,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Mr. President."
+    },
+    {
+      "id": 129,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "I just want to make sure if the translation has been correct."
+    },
+    {
+      "id": 130,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes. I will clarify this. Both could be observed. Sometimes it was direct small-calibre fire, but since shots were often fired from the hills, we could see this. And in some cases, it was shelling, shooting with artillery or mortars; sometimes aimed at the positions of Muslim soldiers, sometimes also at random to civilians."
+    },
+    {
+      "id": 131,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in response to these complaints from both of the warring parties, did you or anyone at your command issue any formal protests?",
+      "examination": "direct"
+    },
+    {
+      "id": 132,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Initially, of course, that would have to be something to be done by the DutchBat commander, to solve that and to put an end to these hostilities locally. But if the situation was under threat of getting out of hand or whether -- when it was impossible for them to gain control of the situation, of course he could ask his next higher in command to try at a higher level to put an end to these hostilities. And this happened a number of times.",
+      "reply_to": 131
+    },
+    {
+      "id": 133,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And ultimately, do you recall protest letters being issued by either sector-level command or -- or BH-level command to both of the warring parties during the month of June?",
+      "examination": "direct"
+    },
+    {
+      "id": 134,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. This happened at some regular intervals, with the exception of using air support, writing protest letters was the only resource we had to try and do something about this.",
+      "reply_to": 133
+    },
+    {
+      "id": 135,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I want to turn your attention to the VRS attack on the enclave, and I want to ask you about several conversations you had with various high-ranking VRS officers during the course of that attack. First I want to turn your attention to the loss of a Dutch soldier, Private Raviv Rensen to Muslim fire on July 8th. Do you recall that, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 136,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I -- I do.",
+      "reply_to": 135
+    },
+    {
+      "id": 137,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you briefly describe the circumstances of his death and what you did in response to his death.",
+      "examination": "direct"
+    },
+    {
+      "id": 138,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. One of the observation posts was attacked, was fired at inter alia by a tank. After some time, the commander of the observation post decided that the situation had become untenable. He asked leave to abandon the observation post. That leave was granted. And the commander received the assignment to turn to the command at Potocari with his men. On the way back, they had to pass near BiH positions, who were totally in disagreement that this observation post was abandoned. They tried to stop the vehicle, unsuccessfully so. They also shot at the vehicle. And in the -- on that occasion, the board fire-man was hit and he died before reaching the compound. Naturally, the DutchBat commander reported this soon. Next I contacted the Sarajevo headquarters, the BiH headquarters, to protest against the situation there and to fiercely insist that they were to leave the DutchBat troops in the enclave unharmed and grant them freedom of movement. I also announced that this would be followed up by an official written protest. Naturally, I also protested with the VRS about the fact that they had attacked the observation post and about the fact that they were busy penetrating the enclave. I urgently insisted that they should withdraw their troops behind the treaty lines, truce lines that were -- had been agreed upon earlier.",
+      "reply_to": 137
+    },
+    {
+      "id": 139,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, just to be entirely clear, for the record, whose tank was this that was firing on the -- on the OP, General?",
+      "examination": "direct"
+    },
+    {
+      "id": 140,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "The OP was fired at by VRS troops, and the -- the vehicle that was on its way from the observation post of the compound, that was shot at by BiH troop -- troops.",
+      "reply_to": 139
+    },
+    {
+      "id": 141,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And specifically the tank, who -- who did the tank belong to, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 142,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That belonged to the VRS. The Muslim troops in the enclave didn't have that heavy weaponry.",
+      "reply_to": 141
+    },
+    {
+      "id": 143,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, did you personally make any contact with either of the warring parties in connection with this incident?",
+      "examination": "direct"
+    },
+    {
+      "id": 144,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. As I just told you, I contacted the loss of the soldier with General Hajrulahovic. He was the person who was the Chief of Staff at the BiH headquarters in Sarajevo. And as far as the attack on the observation post was concerned, I had contacts with General Tolimir of the VRS.",
+      "reply_to": 143
+    },
+    {
+      "id": 145,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "May we have 65 ter number 2750 displayed on e-court, please. I'm not showing a English version yet. Is -- am I the only one or -- we're still waiting for it to be uploaded. Okay. I just wanted to be sure. And I have hard copies we can place on the ELMO and --"
+    },
+    {
+      "id": 146,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "It seems there --"
+    },
+    {
+      "id": 147,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "-- place before the witness."
+    },
+    {
+      "id": 148,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "It seems there may be a technical problem."
+    },
+    {
+      "id": 149,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 150,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If we could move that just a little bit up or out and -- okay. Maybe a little bit higher so we can catch the -- the signature line. Perfect. Thank you. Thank you, Madam Usher."
+    },
+    {
+      "id": 151,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, have you had an opportunity to -- to read this document?",
+      "examination": "direct"
+    },
+    {
+      "id": 152,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Interpretation] Yes, I have.",
+      "reply_to": 151
+    },
+    {
+      "id": 153,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What is it?",
+      "examination": "direct"
+    },
+    {
+      "id": 154,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is a report of a telephone conversation that I conducted with the VRS headquarters. Particularly in that period when tension rose, we took the habit of drawing up reports of these telephone conversations. It would be drawn up by my MA with the aid of my female interpreter. These reports were mainly intended to inform internally other people within staff. To start with, the commander; then the head of civil affairs, and the head of the present information office.",
+      "reply_to": 153
+    },
+    {
+      "id": 155,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, again, sir, what was the name of your female interpreter?",
+      "examination": "direct"
+    },
+    {
+      "id": 156,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "The female interpreter was Svetlana. My MA was Lieutenant-Colonel de Ruiter. And his signature is underneath this report.",
+      "reply_to": 155
+    },
+    {
+      "id": 157,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And was it your practice at the time to actually review these reports after they were created?",
+      "examination": "direct"
+    },
+    {
+      "id": 158,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, naturally. Because it was I who had conducted the conversation, and I was responsible. I had to approve these reports.",
+      "reply_to": 157
+    },
+    {
+      "id": 159,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And how would you describe the accuracy of -- of this report, based on your recollection?",
+      "examination": "direct"
+    },
+    {
+      "id": 160,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "In terms of content, it is 100 per cent correct.",
+      "reply_to": 159
+    },
+    {
+      "id": 161,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I'm going to show you several more examples of these reports, General. And -- and to save time, was the same procedure and the same participants -- were the same procedure used and the same participants present - that is, yourself; your interpreter, Svetlana; and Lieutenant-Colonel de Ruiter - for all of these telephone conversations during this couple of days?",
+      "examination": "direct"
+    },
+    {
+      "id": 162,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Let me say, my military assistant, Lieutenant-Colonel de Ruiter, and Svetlana were always present in these conversations. Svetlana obviously, because without her I was unable to conduct these conversations. My MA was functionally involved in all of these activities too. And in some cases, it could be that a fourth or fifth person was present in my office as well. But generally, that was not the case.",
+      "reply_to": 161
+    },
+    {
+      "id": 163,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, let's look at this conversation. It indicates that there were no generals available at the VRS headquarters, so you left a message, referring to a previous conversation with General Tolimir. Do you recall what the -- the content of your previous conversation with General Tolimir was? What was that about?",
+      "examination": "direct"
+    },
+    {
+      "id": 164,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. The cause was the attack at the OP, the incident we just referred to, that afternoon at around 3.00 p.m. It was shelled and then had to be abandoned. And as I told you earlier, after having communicated my protests to the BiH troops, I subsequently contacted General Tolimir and protested against the attack on the observation post. Subsequently, insisting with him that this attack be stopped and that his troops be withdrawn behind the cease-fire lines. Since that hadn't materialised in the evening at about 7.30, I contacted him again in order to insist upon this once more.",
+      "reply_to": 163
+    },
+    {
+      "id": 165,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, this report notes that General Tolimir promised that UNPROFOR and UN positions would not be attacked. Subsequent to this conversation at 19.45, did General Tolimir keep his promise that UNPROFOR and UN positions would not be attacked?",
+      "examination": "direct"
+    },
+    {
+      "id": 166,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "The answer is short: No. As with all things we protested against in that period with regard to VRS attacks, they would always be denied -- they would always assure us forcefully that UN troops were not being attacked, which was absolutely at odds with the reports we received from DutchBat in this respect.",
+      "reply_to": 165
+    },
+    {
+      "id": 167,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And let's move to the next day, July 9th, General. Did the VRS attack continue that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 168,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I remember, more observation posts kept being attacked. Exactly how many were attacked on that Sunday, I don't remember that. Not off the top of my head.",
+      "reply_to": 167
+    },
+    {
+      "id": 169,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And do you recall what, if anything -- do you recall. Sorry. I was just pausing. Is it being interpreted properly?",
+      "examination": "direct"
+    },
+    {
+      "id": 170,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Go ahead. I mean, while you're still speaking English, there's no point in asking, because we'll all hear yourself. It's only when the witness turns on to Dutch that -- that we can --"
+    },
+    {
+      "id": 171,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay. I'll keep moving."
+    },
+    {
+      "id": 172,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall, General, what, if anything, was being done with respect to repatriating Private Rensen's body?",
+      "examination": "direct"
+    },
+    {
+      "id": 173,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. This complicated my position. On the one hand, I had to protest vociferously about the events; and, on the other hand, I had to request assistance so that the body of the deceased soldier Rensen could be transported out of the enclave. I requested assistance, and quite honestly, I received such assistance. And that happened entirely as agreed.",
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "If -- if we may, let's look at 65 ter 2972, just for a moment. And, General, can you read that document on the right?",
+      "examination": "direct"
+    },
+    {
+      "id": 175,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I've already started.",
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I want to focus your attention on the last paragraph. It indicates that \"General Tolimir responded that he was not aware of his subordinate commanders obstructing the Casevac by road. He asked General Nicolai that his men go to Bratunac immediately, while he would order his troops to enable them to proceed to Zvornik. When on the BSA territory, his men would be received by his troops, he would immediately pass the instructions to the BSA units accordingly.\" Just a couple of questions on this paragraph, General. Do you know to whom General Tolimir was referring when he made this reference to \"his subordinate commanders\"?",
+      "examination": "direct"
+    },
+    {
+      "id": 177,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as the last part, he meant -- he meant the local commander of the VRS on site, so in or around the enclave.",
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And just generally, what is General Tolimir talking about doing here?",
+      "examination": "direct"
+    },
+    {
+      "id": 179,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "If you would give me a moment -- just a moment to read the entire message, then I can refresh my memory.",
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Certainly, General.",
+      "examination": "direct"
+    },
+    {
+      "id": 181,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Now I remember again. Aside from the fact that I spoke with General Tolimir about the return of DutchBat soldiers who had fled to Serbian territory from their OPs because they were afraid to move across the BiH positions, this was primarily about transporting the body of the soldier who was killed. I just said that it happened as agreed, but apparently there was one glitch. The first time they tried to transport the body across -- along the road to Bratunac, they were blocked by VRS troops. And I spoke with General Tolimir, asking him to instruct the people that we had agreed that the convoy was allowed to pass.",
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And to your knowledge, did General Tolimir take care of that glitch? And was the convoy allowed to pass?",
+      "examination": "direct"
+    },
+    {
+      "id": 183,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. That was resolved. And the remains of soldier Rensen were transported that same day.",
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, let's look at 65 ter 2751, if we may. This particular document has a lot of text on it, General. If -- if it would be easier for you to have a hard copy, I -- I do have one available. Otherwise, please take your time and try to make out what you have there on -- on the screen. I know it's -- it's a lot of dense writing, but please take your time and -- and let me know when you've had a chance to -- to read the document.",
+      "examination": "direct"
+    },
+    {
+      "id": 185,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I can read it clearly on the screen. I'm finished reading.",
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall this conversation, General?",
+      "examination": "direct"
+    },
+    {
+      "id": 187,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do. The situation kept deteriorating, and there had been extensive contact between the headquarters in Sarajevo and the headquarters in Zagreb about the situation that had materialised, and it became clear that only through letters of protest -- letters of protest alone would not resolved the matter. That was why I contacted General Tolimir again and urged him, once again, to withdraw his troops, as we would otherwise be forced to resort to other means of violence to force the troops to withdraw. And that in effect meant using air weapons. And I then spoke about having soldiers return -- allowing soldiers to return who had fled to Serbian territory. General Tolimir said that those soldiers had permission to return to their bases, but that proved incorrect. And General Tolimir asserted once again that the UN was not a VRS target and that they would not be shot at at all, and that conflicted with all reports issued by the DutchBat commander. And General Tolimir promised that he would check once again to ensure that his ground troops did not attack DutchBat.",
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, General, if we look at the last paragraph on this document, it indicates, as you just said, that \"General Tolimir promised he would check this information directly on the ground, although he said\" -- or told you that he did not believe this was true. And he asked you to call him back in 30 minutes. Do you recall him doing that, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 189,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I remember, he did call back at some point, but not within 30 minutes. Later that evening.",
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And do you recall trying to reach General Tolimir yourself after this phone call when you didn't hear from him in 30 minutes?",
+      "examination": "direct"
+    },
+    {
+      "id": 191,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. At any rate, I tried. As far as I can remember, I tried a few times. But the documents available to you should tell you exactly when I succeeded, because I don't remember that any more.",
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Well, I think we have enough time before the -- the break to look at another, and that is 65 ter 2973. Actually, this is a rather long, General -- document, General. It's two pretty packed pages. So please take your time. We may not be able to finish it before the break, but take your time and read this, if you would.",
+      "examination": "direct"
+    },
+    {
+      "id": 193,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "[No interpretation]",
+      "reply_to": 192
+    },
+    {
+      "id": 194,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. The -- the prior telephone conversation you had was 9 July, 1750 hours. And now we're looking at a report of the same date, 1930 hours. What was the purpose of this call, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 195,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, then I would have to tell you what else happened that day within the UN network. After close consultation between the headquarters in Sarajevo and Zagreb and involvement on the part of General Janvier himself, it was decided that to send a clear message that the limit of what the UN would tolerate had been reached. So to this end, General Janvier instructed that parts of DutchBat blocking positions be taken - these are blocking positions in Dutch as well - south of Srebrenica. And, first of all, their purpose was to block the approaching Serbian troops; and, two, they were intended to create a situation so that if they tried to continue approaching Srebrenica, they would be in a situation where they had no choice but to attack the UN as well. And in that case, because both the civilian population was being threatened and the UN was being attacked, the entire international community would then understand that a situation had materialised that justified the use of air arms. And because we wanted to make this very clear to the Serbians, we drafted an ultimatum in writing to let them know that the consequences of their continuous attacks would be such, and this telephone call preceded that and it was, first of all, because I wanted to VRS to stop attacking the UN; and in addition to that, because they had already penetrated the enclave, so I urged that even if they desisted from their acts of violence, they had to withdraw their troops beyond the borders of the enclave.",
+      "reply_to": 194
+    },
+    {
+      "id": 196,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. I think we'll have to leave it, I think, there, until we return from the break, General. Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 197,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. Thayer. Thank you, General. We'll have a 25-minute break."
+    },
+    {
+      "id": 198,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Thayer."
+    },
+    {
+      "id": 199,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Mr. President."
+    },
+    {
+      "id": 200,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good afternoon again, General.",
+      "examination": "direct"
+    },
+    {
+      "id": 201,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good afternoon.",
+      "reply_to": 200
+    },
+    {
+      "id": 202,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If we may have the first page of 2973 again, please. And that would be on both versions."
+    },
+    {
+      "id": 203,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "The first paragraph, General, reports that you were curious about General Tolimir's information on the ongoing events in Srebrenica and you were concentrated on General Tolimir's confirmation of his previous message. Can you explain this passage just briefly, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 204,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, what happened was that each time I told General Tolimir about what was happening - namely that, the UN was being attacked - he consistently denied it, and the last time before this phone call, he promised once again to inquire from his -- from the commander on site as to what was the matter. And each time again he continued to deny that UN troops were being attacked by the VRS.",
+      "reply_to": 203
+    },
+    {
+      "id": 205,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in the second paragraph, where he tells you that he had passed the message on to his subordinate commanders and was informed that the VRS had no particular problems with UNPROFOR or the civil population in Srebrenica, how did that square with the information you were receiving at the time?",
+      "examination": "direct"
+    },
+    {
+      "id": 206,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "It was consistently incorrect. The DutchBat commander kept me continuously informed about what was happening. General Tolimir denied that in any way, shape, or form. And I'm fully convinced that he knew exactly what was going on, but he was unwilling to confirm that. And in the end, I told him, \"Whether they're actually fighting or not at this point in time doesn't matter that much; the fact is that your troops have already penetrated the enclave more than four kilometres and they need to withdraw beyond the borders of the enclave.\"",
+      "reply_to": 205
+    },
+    {
+      "id": 207,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And let me just pick up on something you just mentioned in -- in that answer, sir. You described contacts that you had with Colonel Karremans. What were your sources of information during this period of time?",
+      "examination": "direct"
+    },
+    {
+      "id": 208,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, the most important source of information consisted of the situation reports that the DutchBat commander gave me either directly or via the intermediary of the headquarters of the Tuzla sector commander. In addition to that, we had some other information sources. There were English special forces in the enclave reporting directly to a special bureau at the Sarajevo headquarters.",
+      "reply_to": 207
+    },
+    {
+      "id": 209,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And by this time, sir, what types of weapons were being used by the VRS during its attack? And do you recall approximately where they were located in the enclave?",
+      "examination": "direct"
+    },
+    {
+      "id": 210,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "The entire enclave was surrounded by VRS positions, including various artillery positions and launching systems for multiple rocket launchers. There were mortar positions. The OPs were attacked in part by tanks. I certainly know that a T-55 was reported. That's a Russian hyper-tank. And there were shootings in several places with small-calibre arms and small arms.",
+      "reply_to": 209
+    },
+    {
+      "id": 211,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And based on the information you were receiving, how would you describe the VRS operation militarily, in terms of its organisation and -- and execution?",
+      "examination": "direct"
+    },
+    {
+      "id": 212,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, at that point, it became crystal clear that the VRS was attacking the enclave. It was not immediately clear where they would stop, but they had penetrated far enough for them to have almost reached -- have reached the city of Srebrenica. So it was high time to stop the attack in its tracks and that's why we threatened to use air-strikes.",
+      "reply_to": 211
+    },
+    {
+      "id": 213,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "We'll get to that in -- in a little while, sir. And just for the clarity of record, when you refer to the use of air power, you're referring to air-strikes or close air support, or both?",
+      "examination": "direct"
+    },
+    {
+      "id": 214,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, at first close air support would be the most obvious. At that point, it was the only thing that the UN in Bosnia was empowered to use. Permission for air-strikes, so massive air attacks, that would have to be granted from New York. And the levels for that authorisation following the fiasco at the air attack in late May, that level had been raised. So at first we were talking about close air support.",
+      "reply_to": 213
+    },
+    {
+      "id": 215,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Returning back to the first page of 2973. And I'll actually slow down a little bit. I feel myself speeding up here. In the third paragraph of the English version - and this is also the third paragraph of the B/C/S version - you refer to a strong warning supported by the force commander, General Janvier, and Mr. Akashi that would be in writing. Was such a warning issued, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 216,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, on the evening of 9 July that warning was sent to the VRS headquarters.",
+      "reply_to": 215
+    },
+    {
+      "id": 217,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "We'll talk about that in a moment. Moving down -- and we'll have to, I think, go to the second page of the B/C/S, but it's at the very -- at the bottom of the English. General Tolimir repeated his report that there was no conflict between UNPROFOR, BSA, and the BiH civil population in Srebrenica.\" Again, based on what you knew at the time, was that a true statement or a false statement?",
+      "examination": "direct"
+    },
+    {
+      "id": 218,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was incorrect. It was definitely incorrect.",
+      "reply_to": 217
+    },
+    {
+      "id": 219,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if we move to the next page, General Tolimir tells you that the Bosnians were using six APCs either given by or taken from UNPROFOR. How did you respond to that information?",
+      "examination": "direct"
+    },
+    {
+      "id": 220,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, somewhat irritated. It's unfortunate that you have to communicate that via an interpreter, because this accusation was so absurd that I was extremely irritated.",
+      "reply_to": 219
+    },
+    {
+      "id": 221,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, again, if we look at the second-to-the-last paragraph in the English - and we'll have to scroll down on the B/C/S to capture that - General Tolimir -- and it's the last sentence of that-second-to-last paragraph, promised to contact his subordinate commanders. Do you remember him promising to contact his subordinate commanders, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 222,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I remember everything that is stated here. But nothing happened. In fact, the opposite happened. Rather than the troops withdrawing, they continued their attack. So these promises that are not kept, that doesn't do us any good.",
+      "reply_to": 221
+    },
+    {
+      "id": 223,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. We're done with this document. If we may look at 65 ter 2975, please. We'll just wait for the B/C/S translation. Do you see the document in front of you, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 224,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 223
+    },
+    {
+      "id": 225,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "If you would, can you -- can you read the date and time-line and tell us what time this document reads and the date.",
+      "examination": "direct"
+    },
+    {
+      "id": 226,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "9 July, 22.20 hours, July 1995.",
+      "reply_to": 225
+    },
+    {
+      "id": 227,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And as we can see, this is coming from the commander headquarters UNPROFOR, and the internal distribution. Who was the COS referred to there?",
+      "examination": "direct"
+    },
+    {
+      "id": 228,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's the Chief of Staff of the headquarters, so that would be me, or that was me.",
+      "reply_to": 227
+    },
+    {
+      "id": 229,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And this cover page indicates that \"Attached is the final warning to the Bosnian Serbs. We've sent it as a CAPSAT to General Mladic and we will issue it as a press statement\"? Do you remember that being done, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 230,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, this is correct. This document was drafted after an extended exchange of ideas between the headquarters in Zagreb and Sarajevo and was ultimately set forth in writing by Lieutenant-Colonel Baxter, who's General Smith's MA. And following its approval by both General Janvier and General Gobillard, it was sent to General Mladic -- or rather, to his headquarters.",
+      "reply_to": 229
+    },
+    {
+      "id": 231,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And do you recall what this warning said in sum?",
+      "examination": "direct"
+    },
+    {
+      "id": 232,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. That's obvious, because the stage of the difficulties had advanced so far that this was our very last warning before we would resort to violence.",
+      "reply_to": 231
+    },
+    {
+      "id": 233,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, let's look at the next page. The first line, General, reads: \"The Bosnian Serb Army resumed attacks against the Srebrenica enclave on Friday, 7 July 1995, firing indiscriminately into the safe area and directly targeting UN facilities, causing several civilian deaths.\" Do you recall receiving information during this period of time that civilians had been killed by the VRS shelling or firing?",
+      "examination": "direct"
+    },
+    {
+      "id": 234,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's correct. That was reported on repeated occasions.",
+      "reply_to": 233
+    },
+    {
+      "id": 235,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Further on into that paragraph, it indicates that: \"Two further UN OPs were overrun by the BSA that evening and 15 peacekeepers taken captive. A further 17 peacekeepers had been taken this afternoon.\" You indicated earlier in your testimony that some peacekeepers fled to the Serb side because they were afraid of passing through the Bosnian lines. Did you have any reports or information that some of the Dutch peacekeepers were -- were taken -- were taken more against their will than voluntarily from their OPs?",
+      "examination": "direct"
+    },
+    {
+      "id": 236,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, their flight to Serbian territories, voluntary in the sense that they were still more afraid of passing the BiH positions. Of course, I -- it's no fun to surrender to one of the two parties, but they felt that the Serbians would treat them better than the BiH soldiers would.",
+      "reply_to": 235
+    },
+    {
+      "id": 237,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And how about with respect to other soldiers who had been manning other OPs which were overrun? Did you ever receive any information that they surrendered to the VRS under threat of arms, as opposed to fleeing towards them?",
+      "examination": "direct"
+    },
+    {
+      "id": 238,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that happened as well, especially during the following days. So in some cases they surrendered; basically forced to volunteer. In other cases, they were threatened by arms and then they laid down their arms and surrendered to the Serbians. That happened as well.",
+      "reply_to": 237
+    },
+    {
+      "id": 239,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, if we -- if we look at the very bottom, the last paragraph, there's a reference to the blocking position and that the SRSG and the FC have decided that if the blocking position is attacked by VRS forces, NATO close air support will be employed. Is that what you had been describing just prior to the break, General, the blocking positions?",
+      "examination": "direct"
+    },
+    {
+      "id": 240,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 239
+    },
+    {
+      "id": 241,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, you described numerous conversations that you had either directly or via the Sector North-East Command with Colonel Karremans. I'm not sure if we've actually said his name, but the commanding officer of the DutchBat Battalion in Srebrenica. Do you recall Colonel Karremans putting in written form his assessment and concerns concerning the VRS attack some time on the 9th of July?",
+      "examination": "direct"
+    },
+    {
+      "id": 242,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I definitely remember that. And what sticks most in my memory is his concern that air support would indeed be deployed. He feared that this would lead to massive retaliation, actions on the part of the VRS, and he said that unless the air forces were able to take out all VRS positions around the enclave in one fell swoop, he feared that there would be very serious retaliation by the VRS on his own troops.",
+      "reply_to": 241
+    },
+    {
+      "id": 243,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you share that fear of massive retaliation by the VRS should close air support be employed?",
+      "examination": "direct"
+    },
+    {
+      "id": 244,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I certainly understood his point. The scenario was not strange to me because previously at the end of May, the VRS responded to air-strikes by shooting at enclaves. That was the most striking example, with the blood-bath in the centre of Tuzla. So it was extremely likely that that would be a possible reaction. As far as the UN leadership was concerned, that was no reason to forego this -- this air weapon, because we were certainly using -- we were certainly intending to deploy that.",
+      "reply_to": 243
+    },
+    {
+      "id": 245,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "As opposed to employing. Is that correct, sir? At least for the time being.",
+      "examination": "direct"
+    },
+    {
+      "id": 246,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, let me put it this way: Despite the potentially serious consequences for DutchBat or the civilian population within the enclave, we certainly intended to use air weapons, if necessary.",
+      "reply_to": 245
+    },
+    {
+      "id": 247,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Let's look at 65 ter 2974 for a few moments, if we could. General, we're just waiting for the B/C/S translation. There we are. Do you recognise this document, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 248,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, absolutely. That's the document in which Colonel Karremans expressed his concern about the situation that had arisen and the potential consequences that might materialise.",
+      "reply_to": 247
+    },
+    {
+      "id": 249,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, we can see in the first paragraph references to shelling OPs, Srebrenica itself, and civilian casualties. You've already spoken about -- about those, so let's move to paragraph 2. He writes -- or he wrote: \"During these three days, these operations have been executed by all means: Attacking ABiH and UN positions, shelling the enclave and suppressing DutchBat through intimidation by using artillery, mortars, and MLRS (M-63 and M-77).\" What is MLRS, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 250,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "MLRS means \"multi-launched rocket system,\" so a multiple rocket system.",
+      "reply_to": 249
+    },
+    {
+      "id": 251,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Colonel Karremans wrote that: \"The BSA does exactly know what they are doing and till how far they can go. They do execute their operations according to a predominated and well-organised plan.\" Based on the information you were receiving, sir, was that consistent with what you were receiving?",
+      "examination": "direct"
+    },
+    {
+      "id": 252,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, this is an assumption. You can never prove it beyond any shadow of a doubt, but this did appear to be a carefully thought-out plan and we were increasingly getting that impression.",
+      "reply_to": 251
+    },
+    {
+      "id": 253,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, let's look at the second page of this document. Paragraph 5 refers to an APC, a Dutch APC being lost to the VRS. Do you recall whether more than one APC was lost to the VRS during this operation, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 254,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, several fell into the hands of the VRS. At each observation post, there was one armoured personnel carrier, an APC. And if the crew surrendered, then the vehicle would also fall into VRS hands at the same time.",
+      "reply_to": 253
+    },
+    {
+      "id": 255,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if we move to paragraph 7, Colonel Karremans refers to several positions in the south-eastern part of the enclave being overtaken by the VRS and refers to the vicinity of the former observation post Echo. And then he states that he did express these concerns already last month. Can you just briefly expand on what he's talking about there, when he says, \"I did express these concerns already last month.\" What's that about, please?",
+      "examination": "direct"
+    },
+    {
+      "id": 256,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "As I've stated previously during this session that the first observation posts fell into VRS hands in June, or at least had to be abandoned under VRS pressure. And that was the first warning that something was imminent. Karremans expressed his concern. He did not expect only one observation post to be involved; he expected follow-up actions as well.",
+      "reply_to": 255
+    },
+    {
+      "id": 257,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, let's just look at the last paragraph before we move on. He -- he writes that: \"Using close air support in all possible ways is, in my opinion, not feasible yet. It will provoke the BSA in such way that both Srebrenica itself and OPs and compounds will be targeted by all means.\" Is this what you had referred to just a few moments ago in your testimony, General, this concern about having to take out all of the weapons systems in the event that close air support were employed?",
+      "examination": "direct"
+    },
+    {
+      "id": 258,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, this is the threat I was referring to recently. Karremans truly did fear that the VRS would deploy all of its means around the enclave as a retaliation for the use of air force and that the citizens of Srebrenica would be the victims of that.",
+      "reply_to": 257
+    },
+    {
+      "id": 259,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Let's move to the 10th of July. The blocking positions are in place. Briefly, General, what significant developments occurred that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 260,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "In effect, the scenario proceeded as one of the possible ones that we had identified. The VRS troops continued their attacks and ultimately attacked the blocking position. And from that blocking position, the UN troops fired back. Because we had already identified this possible situation in advance, we had already completed preparations for requesting air support the day before. All the forms had been completed, and we merely needed to indicate the final update of the -- about the situation and sign off so that the procedure for requesting air support could happen very quickly. And we achieved that situation at the end of the afternoon of the 10th, and the result was that Colonel Karremans then requested air support. The request was sent to Sarajevo via the headquarter in Tuzla, and Sarajevo said, Yes, this is exactly the situation that we said would justify air support. And that meant that we immediately approved the request and sent it on to Zagreb, because Zagreb was the level for the ultimate approval.",
+      "reply_to": 259
+    },
+    {
+      "id": 261,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, given what you've testified about in terms of the blocking positions and establishing the -- the preconditions for the authorisation of close air support, was this the first time that the conditions for close air support had in fact been met during the VRS attack, or had the conditions for employment of close air support been met on other occasions over the course of these couple of days?",
+      "examination": "direct"
+    },
+    {
+      "id": 262,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Much earlier there were situations which would have justified the deployment of close air support, if you read UN Resolutions 824 and also UN Resolution 836. There it is clearly described under what circumstances the deployment of air support is justified, and certainly in the cases of self-defence by UN troops but also in cases where the civilian population in the protected areas were attacked. And it had happened already previously on several occasions. The reasons why no air support was used at that time is because at the end of May additional guide-lines or directives were issued for the deployment of air support and great restrictions were requested for in the deployment of air support, and that is why in the case of Mr. Karremans' request at 6 and 8 July for air support, no close air support was granted. And only after such a serious situation had developed as on the 10th of July, it was said, Well, if you don't do it now, it will never happen. And then it will be too late. And so at least at the level of Sarajevo headquarters, the permission was granted, but the level that was ultimately empowered to give that permission doubted for so long that ultimately they didn't grant that permission on the 10th.",
+      "reply_to": 261
+    },
+    {
+      "id": 263,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And why not, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 264,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. The problem was that since they met about it for a long time, in the meantime it was becoming dark and there was also a situation in which the troops, both UN troops and VRS troops, had come to such close quarters that it would become difficult to distinguish one from the other, which made the actual deployment of air support a very risky business.",
+      "reply_to": 263
+    },
+    {
+      "id": 265,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And why was close air support only and not the massive air-strikes that Colonel Karremans had talked about sought?",
+      "examination": "direct"
+    },
+    {
+      "id": 266,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. That is really the ultimate means that could have been used to do that. Permission would have been -- would have had to be asked for from New York, and that would have required even more time, and we would have never received that on time. So -- and also the second thought was that perhaps close air support alone would have been a more proportionate reaction and that that would have a sufficiently deterrent effect in order to make the Serbs decide to withdraw.",
+      "reply_to": 265
+    },
+    {
+      "id": 267,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you notify the warring parties of the fact that close air support had been approved on 10 July?",
+      "examination": "direct"
+    },
+    {
+      "id": 268,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 267
+    },
+    {
+      "id": 269,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And how did you do that?",
+      "examination": "direct"
+    },
+    {
+      "id": 270,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I know, in this case I warned both parties that air support had been requested.",
+      "reply_to": 269
+    },
+    {
+      "id": 271,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. If we may look very quickly at 65 ter 2976, please. Just take a moment -- take a moment, please, General, and read the document.",
+      "examination": "direct"
+    },
+    {
+      "id": 272,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I have already read it. You just asked how I warned the parties. Well, this is the report of one of the relevant telephone conversations directed at the VRS headquarters in which I informed them that air support had been requested.",
+      "reply_to": 271
+    },
+    {
+      "id": 273,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. I want to show you something just a little bit different now, General. If we may have P02753 on e-court. General, this is a statement by General Gvero issued by the information service of the VRS's Main Staff on 10 July 1995. Do you recall reviewing this with me during your proofing session?",
+      "examination": "direct"
+    },
+    {
+      "id": 274,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I recall that.",
+      "reply_to": 273
+    },
+    {
+      "id": 275,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is that the first time you'd seen this document, to your recollection?",
+      "examination": "direct"
+    },
+    {
+      "id": 276,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 275
+    },
+    {
+      "id": 277,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "If we may, let's move to the second page of the English. And I believe in the B/C/S it's going to be the third page. Because of the way the document was created, there are a couple of blank pages. So I think it's there. Perfect. Thank you. In the middle paragraph that begins with \"They killed a United Nations soldier,\" General, there's a line in this statement by General Gvero that: \"Our combat activities at the moment are directed towards simply neutralising the Muslim terrorists, and are in no way directed against civilians or members of UNPROFOR.\" When he says that \"their combat activities are in no way directed against civilians or members of UNPROFOR,\" is that a true statement or a false statement, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 278,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is absolutely incorrect. From earlier statements I have delivered today, it has become apparent that it was reported repeatedly that not only BiH positions were fired at but also at UN positions and at civilians.",
+      "reply_to": 277
+    },
+    {
+      "id": 279,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Thank you. We're done with that document. Let's move to the 11th of July. I don't think there's any dispute that the close air support was actually delivered that day. And we won't go into the details about how close air support was finally brought about. I think the Trial Chamber has already heard testimony about that. But quite simply, General, did the close air support stop the VRS attack?",
+      "examination": "direct"
+    },
+    {
+      "id": 280,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "The answer to that question is \"no.\" There are various reasons for that. Firstly, the close air support was done at a small scale with a limited number of aeroplanes. Moreover, the use of close air support against highly distributed troops in a -- in a very hilly terrain is extremely difficult. I mean, in an open desert with -- against large-scale units, this air weapon is extremely effective. You can shell them. You can fire rockets at them. But in -- in this difficult terrain -- it's highly mountainous and a lot of vegetation. You have to find one single tank or just a couple of armoured combat vehicles while you fly over their heads at 100 -- or at 1.000 kilometres an hour, that is very difficult. Once you have tracked them, it's extremely difficult to actually fight them. So under those circumstances, it is not a very effective means.",
+      "reply_to": 279
+    },
+    {
+      "id": 281,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, what I want to focus on for -- for a little bit is what, if anything, the VRS said or did specifically as a result of the employment of the close air support.",
+      "examination": "direct"
+    },
+    {
+      "id": 282,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Well, we knew earlier each time the UN made use of air force, the VRS would respond vehemently against that. That was true this time as well. Concretely, it meant that in the afternoon of July the 11th we received a phone call from General Gvero at our headquarters with a message that -- summing things up, said that if we weren't going to stop immediately using air force, he would -- would have -- he would start -- he would have the compound at Potocari and surrounding areas shelled. Perhaps you remember the -- the pictures, but otherwise I could describe them. The compound at that point had been flooded by refugees from the city of Srebrenica. In the direct surroundings of the compound, there were thousands of refugees in the open air. So if shelling were to take place with artillery or mortars, this would develop into a tremendous blood-bath involving mainly innocent refugees. In addition, the vast majority of them were women and children. That threat was taken very seriously by us at the headquarters in Sarajevo. We should add to that that the situation at that point had already -- was that the -- the town of Srebrenica had already been occupied, so in our view, the battle had been fought. And at that point, running the risk of this kind of blood-bath prompted us into calling back the air force and to order them to stop their attacks.",
+      "reply_to": 281
+    },
+    {
+      "id": 283,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, General, were you the only person, other than the threat from General Gvero, were you the only person to receive a threat as a result of the employment of close air support?",
+      "examination": "direct"
+    },
+    {
+      "id": 284,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I'm not 100 per cent certain of this. I seem to remember that a warning was also issued to Colonel Karremans, a warning by the local Serbian commander to Colonel Karremans. But I'm not entirely certain about this, so I have to make some reservations here.",
+      "reply_to": 283
+    },
+    {
+      "id": 285,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Let's look at 65 ter 2906, please.",
+      "examination": "direct"
+    },
+    {
+      "id": 286,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "One moment. While we are doing that, when he refers -- when he -- when the gentleman refers to a warning by the local Serbian commander to Colonel Karremans, who would that be? Do you have an idea of who could that be, who you're referring to as -- as \"local Serbian commander\"?"
+    },
+    {
+      "id": 287,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I'm sorry, but I wouldn't -- I would not know that. I do not know who the direct interlocutor of Colonel Karremans was."
+    },
+    {
+      "id": 288,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, General."
+    },
+    {
+      "id": 289,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "General, do you see the document in front of you?",
+      "examination": "direct"
+    },
+    {
+      "id": 290,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 289
+    },
+    {
+      "id": 291,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you please take a moment and read it to yourself. And I have a few questions for you.",
+      "examination": "direct"
+    },
+    {
+      "id": 292,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I've read it.",
+      "reply_to": 291
+    },
+    {
+      "id": 293,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You referred to a -- a threat from General Gvero in a conversation. Based on your recollection, is this the conversation that contained that threat, or was there another conversation?",
+      "examination": "direct"
+    },
+    {
+      "id": 294,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, it was this conversation.",
+      "reply_to": 293
+    },
+    {
+      "id": 295,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, we see in the second paragraph, where the report reads that \"General Gvero, denying this, said it was not the BSA that was attacking UNPROFOR.\"",
+      "examination": "direct"
+    },
+    {
+      "id": 296,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. By now I think it must be clear that this is preposterous. For days on end the VRS had been attacking the UN. At that point, we had already reached a situation in which Srebrenica as a city had been conquered. And then still saying that there was no such thing as an attack was obviously an absurdity, which is, well, almost incredible.",
+      "reply_to": 295
+    },
+    {
+      "id": 297,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if we look at the paragraph the third up from the bottom, sir, it reads: General Gvero answered: \"He could and did not have to stop anything, for neither UNPROFOR and civil population in Srebrenica were attacked. In case that the air power did not stop immediately, General Nicolai, in the capacity of the commander's deputy, would be held responsible for all further developments and the destiny of his men and the civil population in Srebrenica.\" What did you take that statement to mean, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 298,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That General Gvero would blame -- wanted to make me responsible, blame me for anything that happened to the civilian population and UNPROFOR, because he said, \"You asked for air support, and so you are also responsible for any reactions on our part to that.\"",
+      "reply_to": 297
+    },
+    {
+      "id": 299,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what did you understand that he was telling you their reactions would be?",
+      "examination": "direct"
+    },
+    {
+      "id": 300,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "For the shelling of the Potocari compound and its immediate surroundings. So if there would be a blood -- a blood-bath there, then in his words, that would be something for which I would have been to blame.",
+      "reply_to": 299
+    },
+    {
+      "id": 301,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did you take this threat seriously of bombarding the compound?",
+      "examination": "direct"
+    },
+    {
+      "id": 302,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. Josse."
+    },
+    {
+      "id": 303,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That is absolutely outrageous. The witness had not used the word \"threat.\" And my learned friend has quite deliberately weaved that into his question, and he should be chastised by this Trial Chamber for doing that. He knows exactly what he's doing."
+    },
+    {
+      "id": 304,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Do you wish to comment, Mr. Thayer?"
+    },
+    {
+      "id": 305,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If my friend would calm himself. I think I was using the word that this witness used before I even showed him the record of the conversation, which he has verified was what he was talking about. So I think it's an entirely appropriate question."
+    },
+    {
+      "id": 306,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Josse, there has been a common understanding between the -- the -- Mr. Thayer and -- and the general throughout the last 15 minutes of this line of questions that the word \"threat\" or the description of what -- of the various correspondence or conversations was put to the witness as a threat, and the witness has accepted that it was a threat."
+    },
+    {
+      "id": 307,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I've two remarks. First of all, it would help if I was shown the passage where that was used. But even if -- even if I am, Your Honour, if one looks at the two previous questions, Mr. Thayer wanted the witness to use the word \"threat.\" He didn't get that from him, and he therefore deliberately, in my submission, weaved it into his next question. It's really as simple as that."
+    },
+    {
+      "id": 308,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "When -- when he asked the witness, showing him the document, \"Is this the -- does this document indicate or point to the threat that you said you have received from General Gvero, is this on this occasion or is it another occasion?\" He replied, \"yes it is\" in the affirmative. And so he's accepting that it was a threat. I don't know how you would describe it, but I'm not surprised that the witness has accepted the suggestion that it's threat."
+    },
+    {
+      "id": 309,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And Mr. President, if I may assist my friend. At page 45, line 9, when I asked \"What if anything the VRS said or did specifically as a result of the employment of the close air support?\" His answer was: \"Well, we knew earlier each time the UN made use of air force, the VRS would respond against that. That was true this time as well. Concretely it meant that in the afternoon of July the 11th we received a phone call from General Gvero at our headquarters with the message that, summing things up, said that if we weren't going to stop immediately using air force, he would -- would have -- he would start -- he would have the compound of Potocari and surrounding areas shelled. \"Perhaps you remember the pictures, but otherwise I could describe them. The compound at that point had been flooded by refugees from the city of Srebrenica. In the direct surroundings of the compound there were thousands of refugees in the open air. So if shelling was to take place, this would develop into a tremendous blood-bath involving mainly innocent refugees. In addition, the vast majority of them were women and children. That threat was taken very seriously by us at the headquarters in Sarajevo.\""
+    },
+    {
+      "id": 310,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Shall we move on, Mr. Josse?"
+    },
+    {
+      "id": 311,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I -- clearly, the examination is going to move on. I already said I accept that I was wrong in relation to the use of the word \"threat.\" But I maintain that my learned friend should not have used it in that context in that question. But yes, Your Honour, clearly proceedings need to move on."
+    },
+    {
+      "id": 312,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, how -- again -- but again, I put the same question to you. How would you expect Mr. Thayer to qualify?"
+    },
+    {
+      "id": 313,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, he should have asked: How do you perceive this? The two previous questions were an attempt to get the witness to use the word \"threat.\" He failed. He therefore chose to use it himself. I've made my point three times."
+    },
+    {
+      "id": 314,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. But maybe had you intervened then it would have been better. But at this point in time, there is this common understanding --"
+    },
+    {
+      "id": 315,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "There was nothing wrong with those questions."
+    },
+    {
+      "id": 316,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "All right. Let's move, shall we?"
+    },
+    {
+      "id": 317,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. Let's move -- move ahead."
+    },
+    {
+      "id": 318,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sorry about that little interlude, General. Why did you take this threat seriously from General Gvero?",
+      "examination": "direct"
+    },
+    {
+      "id": 319,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I've stated previously here that during previous use of air force by the UN, sweeping retaliation actions took place. I'm talking about the shellings in the end of May after the air attacks on 25 and 26 May when all targets were shelled, not only military also civilian targets and the centre of Tuzla was hit by heavy shelling, resulting in over 80 casualties and many injured among the civilian population. And that was clearly a response to the use of air force by the UN.",
+      "reply_to": 318
+    },
+    {
+      "id": 320,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, sir, do you recall General Gobillard having a conversation with General Gvero a little while later that same day?",
+      "examination": "direct"
+    },
+    {
+      "id": 321,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I remember that.",
+      "reply_to": 320
+    },
+    {
+      "id": 322,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was the purpose of that call?",
+      "examination": "direct"
+    },
+    {
+      "id": 323,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I can remember, it was, on the one hand, to make clear that the air support had been discontinued; and, on the other hand, General Gobillard did issue a warning that if the VRS resumed hostilities, then a new use of air support could not be excluded, and also that negotiations would take place as to what had to be done with the local population that had fled to the area of the enclave.",
+      "reply_to": 322
+    },
+    {
+      "id": 324,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, do you recall being present for this conversation between Generals Gobillard and Gvero?",
+      "examination": "direct"
+    },
+    {
+      "id": 325,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was not present the entire time. I know that the conversation took place, and I believe I was present at the beginning of the conversation, but as you can probably imagine, that was quite a hectic point in time and I was called away because my own Minister of Defence from the Netherlands was calling me by telephone, and that was ample reason to leave the room where the phone conversation was taking place. I did read the report about the phone call later on.",
+      "reply_to": 324
+    },
+    {
+      "id": 326,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Well, the Trial Chamber has heard a lot of evidence about that phone call, so let's -- let's move on and save a little bit of time. Let's move to the 12th of July, General, if we could. Do you recall contacting the VRS Main Staff, again, that day in connection with issues surrounding the evacuation of those refugees that you just referred to from Srebrenica?",
+      "examination": "direct"
+    },
+    {
+      "id": 327,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I remember that. I did try to offer my services as a negotiator with the VRS, because we believed that Colonel Karremans after the incidents was not the best person to conduct these negotiations. We had also learned that General Mladic himself was with the troops in the enclave, and we thought that it would be better for the negotiations to be between generals than between a senior general and a colonel.",
+      "reply_to": 326
+    },
+    {
+      "id": 328,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So what efforts did you or anyone else in UNPROFOR make to get someone of a higher rank than Colonel Karremans to meet with General Mladic?",
+      "examination": "direct"
+    },
+    {
+      "id": 329,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "General Janvier offered to send a delegation of negotiators from Zagreb, and Sarajevo offered to have me act as a negotiator, but if desired, another option would be to have the head of the civil affairs department serve as a negotiator. None of us was successful. General Mladic stated that he could manage perfectly well with Colonel Karremans and that no other negotiators needed to come to the enclave.",
+      "reply_to": 328
+    },
+    {
+      "id": 330,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, why didn't yourself or General Gobillard jump into an APC and -- and go to Srebrenica yourself?",
+      "examination": "direct"
+    },
+    {
+      "id": 331,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I understand why you're asking me that. Somebody who was aware of the situation at the time probably would have smiled at that. But in effect, that would mean fighting your way onto Serbian territory, and that would have taken quite a bit more than a single APC. So we wouldn't even have been able to cross the border of Serb territory. The same held true for getting into a helicopter. It was known that the VRS also had air target rockets. There was even a US jet that had been brought down during the months before. And if a jet can be taken down, then a helicopter is very easy to hit. So it would have been foolhardy to undertake such a sorry expedition.",
+      "reply_to": 330
+    },
+    {
+      "id": 332,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, let's look at 65 -- actually, it's P02907, please. General, just take a moment, if you would, and read the first page. Let us know when you're done. It's a two-page report.",
+      "examination": "direct"
+    },
+    {
+      "id": 333,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I've read this first page.",
+      "reply_to": 332
+    },
+    {
+      "id": 334,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 335,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I've finished reading.",
+      "reply_to": 334
+    },
+    {
+      "id": 336,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. If we might go back to page 1, please, just for a couple of questions. The first line states that you tell General Gvero - and this is at 1445 hours on July 12th - that the reason for you calling him was the meeting that was held that morning between the commanding officer of DutchBat and General Mladic on the matter of the evacuation of the refugees from Srebrenica. Do you recall this conversation?",
+      "examination": "direct"
+    },
+    {
+      "id": 337,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I remember it.",
+      "reply_to": 336
+    },
+    {
+      "id": 338,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And do you recall what General Gvero's response was to you when you suggested that perhaps you could get down to Srebrenica and discuss matters with the BSA authorities?",
+      "examination": "direct"
+    },
+    {
+      "id": 339,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, that was certainly not necessary. Mladic could handle that perfectly well with Colonel Karremans. And there was no need whatsoever to send helicopters with medical supplies and medicine, because the Serbian hospitals were perfectly capable of caring for the injured.",
+      "reply_to": 338
+    },
+    {
+      "id": 340,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Let's move. We're done with that document. Sir, based upon your personal contacts with General Gvero in these phone calls, the reports that you were receiving, the conversation with General Gobillard and General Gvero, did you form any impressions based upon that information about what General Gvero's role was at the VRS headquarters during this period?",
+      "examination": "direct"
+    },
+    {
+      "id": 341,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I believe that he was the general who was entrusted with maintaining contact with the UN as long as General Mladic was absent, because he was present in the enclave. And presumably General Gvero was in charge of the headquarters at that time.",
+      "reply_to": 340
+    },
+    {
+      "id": 342,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where did you understand General Milovanovic to be during this period, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 343,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I have no idea. Ordinarily General Milovanovic was deployed as a troubleshooter if problems arose, but I don't know where he was at that point. I -- it seems unlikely that he was also in Srebrenica, so he was probably sent somewhere else.",
+      "reply_to": 342
+    },
+    {
+      "id": 344,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And based on these conversations with General Gvero, did you form any belief at the time about how well or ill-informed General Gvero was at this time that he was in charge of the headquarters, as you put it?",
+      "examination": "direct"
+    },
+    {
+      "id": 345,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, based on what we said in the course of the conversations, one would conclude that he was poorly informed, but I'm not foolish enough to take that at face value. I assume that he was well-informed about what was going on; he just didn't say so.",
+      "reply_to": 344
+    },
+    {
+      "id": 346,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was your assumption based upon that he was in fact well-informed about what was going on? What led you to draw that conclusion?",
+      "examination": "direct"
+    },
+    {
+      "id": 347,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. Josse."
+    },
+    {
+      "id": 348,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If it's pedantic, I'm sorry, but there's a difference between an assumption and a conclusion."
+    },
+    {
+      "id": 349,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Now he's perfectly right. If you could rephrase your question, please."
+    },
+    {
+      "id": 350,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "General, you stated that, \"Based on what we said in the course of the conversations, one would conclude that General Gvero was poorly informed,\" and that you assumed that he was well-informed about what was going on. Why did you assume that?",
+      "examination": "direct"
+    },
+    {
+      "id": 351,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I assumed this because in all respects the VRS made the impression of being a well-trained, disciplined army. In every well-trained and disciplined army, reports are submitted daily or multiple times a day about communications. They had the communication means required for this, so it would have been highly improbable for the headquarters of the VRS not to be aware of what was happening in the Srebrenica enclave.",
+      "reply_to": 350
+    },
+    {
+      "id": 352,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay, General. I just have a couple of more areas to cover, and I think we'll be able to finish my examination-in-chief by the next break. So let's move -- well, before I call for the next document, I want to move ahead to a couple of days. After the civilians were removed from the Potocari compound, do you recall an issue, General, concerning a medevac convoy of the wounded from the enclave and, if so, what was your involvement in that?",
+      "examination": "direct"
+    },
+    {
+      "id": 353,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, there were several wounded, and they had been placed at the Bratunac Hospital. And at a certain point, a few days after the enclave had fallen, agreements were reached to evacuate them to Tuzla. And to this end, a medevac convoy, as we called it, a convoy for medical evacuation of wounded people would be deployed and would drive by an agreed route to Bratunac, evacuate the wounded, and return to Tuzla. But then when the convoy reached the border of Serbian territory, it was shot at and forced back. And I was on the phone to clear up how a convoy that had been mutually agreed could possibly be shot at and unable to carry out its mission.",
+      "reply_to": 352
+    },
+    {
+      "id": 354,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If we may have 65 ter 2978 on e-court, please."
+    },
+    {
+      "id": 355,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just take a moment and review this report, General, if you would, please.",
+      "examination": "direct"
+    },
+    {
+      "id": 356,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I've read it.",
+      "reply_to": 355
+    },
+    {
+      "id": 357,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "This report dated 1500 hours on the 16th of July, how does this relate to what you were just testifying about?",
+      "examination": "direct"
+    },
+    {
+      "id": 358,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 357
+    },
+    {
+      "id": 359,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "No, my -- my question was: How does it relate? Does it relate?",
+      "examination": "direct"
+    },
+    {
+      "id": 360,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is the report of the phone conversation that I had about the fact that despite the agreement about a medevac convoy, it was still shot at, and I also requested to let me know as soon as possible when the convoy would be able to depart and via which route and what could be agreed. And the response that I received was that General Gvero was meeting with UNHCR authorities about the fate of the refugees and the route along which they were to be evacuated. Of course, it's very remarkable that if there's an agreement with the UN that a new agreement would need to be reached with UNHCR, so I was -- I was quite surprised at that.",
+      "reply_to": 359
+    },
+    {
+      "id": 361,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, do you recall receiving any information that General Gvero had in fact met with the UNHCR or any other NGO representatives on the 16th of July or thereabouts?",
+      "examination": "direct"
+    },
+    {
+      "id": 362,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I did not receive that. Every day there was a UNHCR representative present at our staff meetings. He did not say anything about this. The only remaining possibility is that local UNHCR authorities in Tuzla were speaking with General Gvero. But that sounds at the very least highly improbable.",
+      "reply_to": 361
+    },
+    {
+      "id": 363,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. What I'd like to do last with you, General, is talk about the events of 21 July. Do you recall traveling to the Srebrenica area on that date for any reason?",
+      "examination": "direct"
+    },
+    {
+      "id": 364,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, as if it were yesterday.",
+      "reply_to": 363
+    },
+    {
+      "id": 365,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was your assignment?",
+      "examination": "direct"
+    },
+    {
+      "id": 366,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "In the agreement reached between General Mladic and General Smith about the evacuation of DutchBat from the enclave and other matters, it was stipulated that the departure of DutchBat would be observed by both General Mladic and General Smith or a deputy, because on Saturday, 22 July in London an important conference was to take place that General Smith was to attend. He asked me to act as his substitute and to witness the departure of DutchBat, and to that end I left for Srebrenica. On the 21st, en route I was stopped by troops of General Mladic. General Mladic was there too. That was my first encounter with him. He subsequently requested that I drive behind him to Bratunac. At Bratunac, as we were taking brunch, we continued speaking about the circumstances under which DutchBat might depart. And afterwards we went to the compound to see how the preparations for the departure had proceeded and whether the convoy was ready to leave, and then we witnessed the -- the departure of the convoy.",
+      "reply_to": 365
+    },
+    {
+      "id": 367,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. What was your priority that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 368,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, the absolute top priority had been assigned by the Chief of Defence Staff in the Netherlands, which was that however DutchBat did it, DutchBat had to leave the enclave that day, because they expected that forceful decisions would be taken at the conference in London, that if DutchBat still remained in the enclave, would -- might have extremely unfortunate consequences. So we said, Whatever you do, make sure that those gentlemen depart and leave the enclave and Serbian territory.",
+      "reply_to": 367
+    },
+    {
+      "id": 369,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Let's go straight to some video to save time.",
+      "examination": "direct"
+    },
+    {
+      "id": 370,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And I think we'll cut down the number of clips. If we may look at P02909. That is V000-6100. The first clip we'll look at starts at 20 minutes and 45 seconds, I believe."
+    },
+    {
+      "id": 371,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "General, we've paused at 20 minutes, 57.9 seconds. Do you recognize the location that's depicted in that video and that bridge?",
+      "examination": "direct"
+    },
+    {
+      "id": 372,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. That's the bridge that you need to pass to leave Bosnian Serb territory and to reach the other Serb area.",
+      "reply_to": 371
+    },
+    {
+      "id": 373,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And let's look at the second clip. That's at 26 minutes and, I believe, 41 seconds.",
+      "examination": "direct"
+    },
+    {
+      "id": 374,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "General, we've paused at 27 minutes, 17.4 seconds. I just want to ask you a couple questions about this frame. There is a -- a UN vehicle with somebody who appears to be saluting out of it. Who is that individual saluting, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 375,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, the commander of that vehicle. But I have no idea how I should name him.",
+      "reply_to": 374
+    },
+    {
+      "id": 376,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "My question, though, is who is -- who is that individual saluting?",
+      "examination": "direct"
+    },
+    {
+      "id": 377,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Okay. Now I understand the question. At the right of the road was General Mladic with some of his auxiliary personnel, and I -- I, myself, next to each other. General Mladic greeted the troops leaving the enclave, and because I imagined that some Dutch servicemen might have trouble greeting General Mladic after everything that had happened, I greeted all the troops so that they could at least greet me and so that that would not increase irritation that might stop the undisturbed departure.",
+      "reply_to": 376
+    },
+    {
+      "id": 378,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, we -- we see on the opposite side of the road here some, what appear to be UN vehicles and some personnel. Do you recall who they were?",
+      "examination": "direct"
+    },
+    {
+      "id": 379,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "One vehicle was my armoured vehicle, and the other one was also from our headquarters, where some GCOs were transported, acting as interpreters and also maintaining contact with the headquarters.",
+      "reply_to": 378
+    },
+    {
+      "id": 380,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay. Let's continue with the clip, please."
+    },
+    {
+      "id": 381,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, we've paused the clip at 28 minutes, 21.2 seconds. Can you identify any of these four individuals in this frame?",
+      "examination": "direct"
+    },
+    {
+      "id": 382,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I can certainly identify two. Aside from me, there's Colonel Karremans in front, and the others are Serbs. I think the man to the left was one of the local authorities, but I can't say that with absolute certainty.",
+      "reply_to": 381
+    },
+    {
+      "id": 383,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the man with the moustache, you do not recognize; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 384,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 383
+    },
+    {
+      "id": 385,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let's look at the third and last clip, please. And this will begin, I believe, at 33 minutes and 9 seconds.",
+      "examination": "direct"
+    },
+    {
+      "id": 386,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, we've paused at 33 minutes, 34.2 seconds. Can you identify anybody in this clip, with the UN?",
+      "examination": "direct"
+    },
+    {
+      "id": 387,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. The man wearing the blue beret to the right is my military assistant, Lieutenant-Colonel de Ruiter. The man with the blue beret on the far left is my bodyguard. And the man wearing the blue beret in the middle, that's me.",
+      "reply_to": 386
+    },
+    {
+      "id": 388,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Thank you, General. I thought I'd be able to finish before the break. I -- I have just a handful of questions left, so we'll have to resume afterwards.",
+      "examination": "direct"
+    },
+    {
+      "id": 389,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. We'll have a 25-minute break starting from now. Thank you."
+    },
+    {
+      "id": 390,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. Thayer."
+    },
+    {
+      "id": 391,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Mr. President."
+    },
+    {
+      "id": 392,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good evening, General. Just to finish up with a couple of more questions. Let's return to the events of the 21st of July. You mentioned a meal with General Mladic in Bratunac. Had there been any agreement regarding UNPROFOR leaving with its equipment?",
+      "examination": "direct"
+    },
+    {
+      "id": 393,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. The agreement concluded between Generals Mladic and Smith in Belgrade and later confirmed on July the 19th. That document contains clearly a statement that DutchBat would be allowed to leave the enclave, taking along all its equipment and possessions. The conversation that I had with General Mladic, of course, contained references by me. I asked whether that was an agreement. That happened after the arrival of also Colonel Karremans. And I inquired with him whether he had collected all his equipment. He answered \"yes\" to that. And then I asked whether he also had all the equipment from the men from the observation post who had fled to Serb territory, and he said,\"No, I haven't been given back that material yet.\" I inquired into this with General Mladic, so I asked, \"What about this equipment? When will I get that back?\" And he became very angry then. He said that that was absolutely out of the question, that he was establishing the conditions under which evacuation would be take place and that he would make agreements later with General Janvier about the vehicles and any possible other equipment coming from the observation posts.",
+      "reply_to": 392
+    },
+    {
+      "id": 394,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, after observing the DutchBat withdrawal, did you travel to Srebrenica town, General?",
+      "examination": "direct"
+    },
+    {
+      "id": 395,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. That, too, had been concluded in the agreement. In fact, I was supposed to have tours of the towns of Srebrenica and Bratunac, but General Mladic said that he did not have enough time and that there was only enough time to visit Srebrenica, which we did.",
+      "reply_to": 394
+    },
+    {
+      "id": 396,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you share with the Trial Chamber what you saw when you visited the town of Srebrenica on 21 July.",
+      "examination": "direct"
+    },
+    {
+      "id": 397,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. The picture I remember most vividly is that it was an enormous mess. There was debris, waste, clothing, linen, remains of packaging materials. It was a real chaos. And that, in the midst of houses that had been shelled or had been destroyed or crumbled, sometimes as a result of recent shellings, you could tell that from the debris that was still lying around others that evidently had been destroyed earlier. And apart from that, a village which was mainly deserted. There were very few people there. And you would see the first people. I assume these were Serbians, who were entering the village carrying on their backs luggage, evidently with the intention of establishing themselves there in the houses that had been liberated.",
+      "reply_to": 396
+    },
+    {
+      "id": 398,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You mentioned that you had wanted to also tour Bratunac. Why was that, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 399,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, in the two weeks or the ten days that had passed since the fall of the enclave, an enormous amount of rumours had started to be produced about the fate of the Muslim men that had fled from the enclave. This included rumours of large numbers of them having been captured by the Serbians and who possibly were kept prisoners at Bratunac. That was the reason why I would have liked to inspect Bratunac at more close quarters than I could do now. On my way back, I was only allowed to pass through the village, on my way back to Sarajevo. But I had no permission to look at the village extensively.",
+      "reply_to": 398
+    },
+    {
+      "id": 400,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Why did you not insist on such permission, sir?",
+      "examination": "direct"
+    },
+    {
+      "id": 401,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. It's not of great use to insist if you have few means of power. If you're only accompanied by just two or three bodyguards and the other party holds all the trumps, then one may urgently ask for something, but that is just about as much as you can do.",
+      "reply_to": 400
+    },
+    {
+      "id": 402,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, General. I have no further questions at this time."
+    },
+    {
+      "id": 403,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. Thayer. Mr. Zivanovic, you asked for 30 minutes. Do you still require them?"
+    },
+    {
+      "id": 404,
+      "speaker": "MR. ZIVANOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No, we will not cross-examine this witness. Thank you."
+    },
+    {
+      "id": 405,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Ms. Nikolic, you asked for ten minutes. Do you still require them?"
+    },
+    {
+      "id": 406,
+      "speaker": "MS. NIKOLIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Ten minutes? No, thank you, Your Honour. I will not have any questions for this witness."
+    },
+    {
+      "id": 407,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Borovcanin, you confirmed that you don't have a cross-examination?"
+    },
+    {
+      "id": 408,
+      "speaker": "MR. LAZEREVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Your Honour, I can confirm that."
+    },
+    {
+      "id": 409,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. The same with you, Mr. Sarapa? No cross-examination?"
+    },
+    {
+      "id": 410,
+      "speaker": "MR. SARAPA",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Depending on the cross-examination by the other teams, perhaps, but ten minutes at the most."
+    },
+    {
+      "id": 411,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "All right. So ten minutes. I thank you. Mr. Ostojic or Mr. Meek, I don't know who is going to take this witness."
+    },
+    {
+      "id": 412,
+      "speaker": "MR. MEEK",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, if it pleases the Court. From what we've heard so far, I don't believe we have any questions at this time, depending on the cross-examination of Ms. Fauveau."
+    },
+    {
+      "id": 413,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Which leaves basically Ms. Fauveau and -- and the Gvero Defence team. Madam Fauveau, you had ask for an hour and 15 minutes."
+    },
+    {
+      "id": 414,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, at this time I think I have a real surprise. Five minutes will be enough."
+    },
+    {
+      "id": 415,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. Then go ahead. And then Mr. Josse will -- or Mr. Krgovic, I don't know who is going to take this witness, will take over. Go ahead, Madam Fauveau."
+    },
+    {
+      "id": 416,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Good morning, sir.",
+      "examination": "cross"
+    },
+    {
+      "id": 417,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good evening.",
+      "reply_to": 416
+    },
+    {
+      "id": 418,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "I have a question, just one. Do you know whether the members of DutchBat were supplied by the Serbs; notably, by Bratunac?",
+      "examination": "cross"
+    },
+    {
+      "id": 419,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I apologise. Who was supposed to have gone through Bratunac?",
+      "reply_to": 418
+    },
+    {
+      "id": 420,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know whether the DutchBat was supplied by -- through Bratunac, by Bratunac?",
+      "examination": "cross"
+    },
+    {
+      "id": 421,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "If by that you mean that this happened during the time they were in the enclave, supplies did not come from Bratunac. They would be brought into the enclave with food convoys, as far as I know.",
+      "reply_to": 420
+    },
+    {
+      "id": 422,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would like to show you document 5D525, please. I would like to draw your attention on the fact that the B/C/S version is the original. There's a mistake in the date in the English version. This is March 18, 1995. This is a supply contract, catering contract. It's a contract between a hotel in Bratunac and the representative of the DutchBat, Major Boering. Have you ever seen this contract, this catering contract?",
+      "examination": "cross"
+    },
+    {
+      "id": 423,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 422
+    },
+    {
+      "id": 424,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know who Major Boering is?",
+      "examination": "cross"
+    },
+    {
+      "id": 425,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I know of no military person with -- with the name of Boering; although, I do not exclude that a major by that name at some point, a major by that name could have been a member of DutchBat, one it must be. But I don't know him. This was before I took up my posting.",
+      "reply_to": 424
+    },
+    {
+      "id": 426,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Madam Fauveau, do you wish --"
+    },
+    {
+      "id": 427,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you very much. I --"
+    },
+    {
+      "id": 428,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Do you wish to spell the name, the family name, Boering, to the witness? Maybe it -- yeah, yeah, but I don't know if the witness is following the transcript or not. Boering, B-o-e-r-i-n-g."
+    },
+    {
+      "id": 429,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, Your Honour, I did read that."
+    },
+    {
+      "id": 430,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 431,
+      "speaker": "MS. FAUVEAU",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you. I have no other questions."
+    },
+    {
+      "id": 432,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mrs. Fauveau. Mr. Josse, who is taking this witness?"
+    },
+    {
+      "id": 433,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "As you know, General, my name is David Josse because -- I say that because we have met briefly some weeks ago at the --",
+      "examination": "cross"
+    },
+    {
+      "id": 434,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yeah. Sorry. Go ahead. Finish. And then please tell us how long do you expect your cross-examination to last."
+    },
+    {
+      "id": 435,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "We met some weeks ago with the cooperation of the Prosecution. And as you know, I represent General Gvero.",
+      "examination": "cross"
+    },
+    {
+      "id": 436,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "To answer the Trial Chamber's questions -- or question, I suspect I'll be at least two hours, perhaps the three that I've requested."
+    },
+    {
+      "id": 437,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "No. No. But I didn't mean to restrict you, but we just wanted to know."
+    },
+    {
+      "id": 438,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 439,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "In that case, if I may ask: Do you have anyone else planned for tomorrow?"
+    },
+    {
+      "id": 440,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If I recall correctly, Mr. President, we still have a little bit left with the gap-filler on the Drina Corps collection cross."
+    },
+    {
+      "id": 441,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "You still, however, have not given us a definitive answer on what -- whether you have reached an agreement on those additional 65 ter documents that you have requested the addition of."
+    },
+    {
+      "id": 442,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "With respect to the road book, I believe that is, Mr. President. I'll have to check --"
+    },
+    {
+      "id": 443,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "All right."
+    },
+    {
+      "id": 444,
+      "speaker": "MR. THAYER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "-- with Mr. Nicholls. I think there have been some discussions, but I'm afraid I can't enlighten the Court right now as to -- but that's a different direction from Drina Corps collection cross."
+    },
+    {
+      "id": 445,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. You've got all the time you need, Mr. Josse."
+    },
+    {
+      "id": 446,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours."
+    },
+    {
+      "id": 447,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "The name Major Boering doesn't mean anything to you at all? Is that what you're --",
+      "examination": "cross"
+    },
+    {
+      "id": 448,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I apologise.",
+      "reply_to": 447
+    },
+    {
+      "id": 449,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "What about Major Franken?",
+      "examination": "cross"
+    },
+    {
+      "id": 450,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I know him quite well. He was Colonel Karremans' deputy.",
+      "reply_to": 449
+    },
+    {
+      "id": 451,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm sure you won't have forgotten, but I got rather upset at some point in your evidence earlier - not with you, I may hastily add - and an answer that you gave at page 45 of today's transcript was repeated by Mr. Thayer in response to my objection. And you said: \"Concretely, it meant that in the afternoon of July the 11th we received a phone call from General Gvero at our headquarters with a message that, summing things up, said that if we weren't going to stop immediately using air force, he would -- would have -- he would start -- he would have the compound at Potocari and surrounding areas shelled.\" Is that exactly what my client said on the 11th of July?",
+      "examination": "cross"
+    },
+    {
+      "id": 452,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I do not recall the exact wording. I do know that he issued the threat to me that I was to be held responsible for the consequence of continuing the air attacks. I also know that a threat was received that the compound and surrounding areas would be shot at. I already stated earlier on in the hearing that I don't recall whether this was taken through Colonel Karremans or directly from General Gvero. But that threat was known, in any case. And when General Gvero mentioned these consequences, I took it that what he intended, that was the consequences of we wouldn't stop the air attacks.",
+      "reply_to": 451
+    },
+    {
+      "id": 453,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "I appreciate, General, that we are going back 12 years, but I want you as best you can to remember what you allege Gvero said to you that so upset you at that point in time.",
+      "examination": "cross"
+    },
+    {
+      "id": 454,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I wasn't so much upset. I know that that afternoon at headquarters a threat became known that the compound and surrounding areas were going to be shelled. This gave rise to discussions in the staff, which led to the decision to stop the air attacks. And once again, how exactly that report was received and who said exactly what, as much as though I -- I try, I can't recall exactly, after 12 years.",
+      "reply_to": 453
+    },
+    {
+      "id": 455,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did that threat come from Gvero?",
+      "examination": "cross"
+    },
+    {
+      "id": 456,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I know, yes.",
+      "reply_to": 455
+    },
+    {
+      "id": 457,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "It's a very serious allegation you're making, isn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 458,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. That is one of the reasons why I expressed myself this way. I know that the threat was received. I also know that in any case, General Gvero said that the consequence for not stopping the air attacks would be my responsibility. And I took it that what was intended was the shelling of the compound.",
+      "reply_to": 457
+    },
+    {
+      "id": 459,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let's have a look at P2906, which is Lieutenant-Colonel de Ruiter's note of this conversation. Towards the bottom of the page, please. Gvero is saying to you that in the capacity of the commander's deputy, you \"would be held responsible for all further developments and the destiny of his men and the civil population in Srebrenica.\" It certainly doesn't say there, does it, that the compound at Potocari was going to be shelled?",
+      "examination": "cross"
+    },
+    {
+      "id": 460,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, that is correct. It doesn't say that in so many words. That is right.",
+      "reply_to": 459
+    },
+    {
+      "id": 461,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did he say that in so many words in the course of that conversation?",
+      "examination": "cross"
+    },
+    {
+      "id": 462,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I already said earlier that I can't recall that exactly.",
+      "reply_to": 461
+    },
+    {
+      "id": 463,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, General, I'm sorry to be difficult, but as I've already said at page 45 today and Mr. Thayer very proudly repeated it when he got an opportunity, you allege that he did say that. It's a very serious allegation, not one you should make lightly, is it?",
+      "examination": "cross"
+    },
+    {
+      "id": 464,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. What I know, in any case, is that that threat was received by us this afternoon. Whether that came directly from General Gvero's mouth or whether we heard that through Colonel Karremans is something I don't know. What I do know is that at the moment of this conversation, when General Gvero pointed out the consequences, I took that as being the threat of shelling the compound. But to the best of my ability, I cannot recall with 100 per cent certainty that he said it exactly that way.",
+      "reply_to": 463
+    },
+    {
+      "id": 465,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Why did you take it, the words that are in de Ruiter's notes, as - excuse me a moment - being the threat of shelling the compound? I repeat: Why do you take the words in de Ruiter's notes as being a threat of shelling the compound?",
+      "examination": "cross"
+    },
+    {
+      "id": 466,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, this is a reflection of the -- of the conversation. Certainly at that time I didn't consider that another way of wording the -- that conversation could at any point be -- be used. It wasn't a report that was drawn up bearing in mind the idea that we would see each other here in this Tribunal.",
+      "reply_to": 465
+    },
+    {
+      "id": 467,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "I dare say - and on a similar point, could I ask you this: Are you aware that there is another and different record of the conversation that you had with Gvero on that day?",
+      "examination": "cross"
+    },
+    {
+      "id": 468,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I'm not aware of that.",
+      "reply_to": 467
+    },
+    {
+      "id": 469,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "The situation is this: That the Muslim security services were intercepting conversations from the VRS Main Staff.",
+      "examination": "cross"
+    },
+    {
+      "id": 470,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "[No verbal response]",
+      "reply_to": 469
+    },
+    {
+      "id": 471,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "I see you nodding. It probably doesn't come as a great surprise to you. Understandable intelligence tactic on the part of the Muslims, correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 472,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "[No interpretation]",
+      "reply_to": 471
+    },
+    {
+      "id": 473,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. I think you said -- I think you said \"yes.\"",
+      "examination": "cross"
+    },
+    {
+      "id": 474,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "You were expecting an answer. Yes. I know that -- well, that it was very likely that all conversations were tapped. So I'm not surprised.",
+      "reply_to": 473
+    },
+    {
+      "id": 475,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And we are in the fortunate position of having a record of that conversation in part. When I say \"in part,\" we have what Gvero said and not what you said. And I'm going to invite the Court to put that up in e-court. It's P2374, and it probably should not be broadcast.",
+      "examination": "cross"
+    },
+    {
+      "id": 476,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Check that, please. But I think Mr. Josse is right. No broadcast."
+    },
+    {
+      "id": 477,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, again, to state the obvious, for your information, General, of course, this is a translation. The original of this document was -- was obviously in B/C/S. And you, like me, will need to work from a translation. I don't want to embarrass you or be unfair, but, of course, the translation is in English, not in Dutch. If you need it in Dutch, I'm quite happy to read it all out and the translators over there will translate it. Help us. Do you need it translated into your own language?",
+      "examination": "cross"
+    },
+    {
+      "id": 478,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I do not think I require that translation.",
+      "reply_to": 477
+    },
+    {
+      "id": 479,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, I'm letting you read it.",
+      "examination": "cross"
+    },
+    {
+      "id": 480,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Okay. I've read it, and I believe that it corresponds quite well with our own transcription.",
+      "reply_to": 479
+    },
+    {
+      "id": 481,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "It goes on to a second page.",
+      "examination": "cross"
+    },
+    {
+      "id": 482,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "We're having some trouble with this, clearly."
+    },
+    {
+      "id": 483,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "We can put this on the ELMO, Your Honour. It's unmarked."
+    },
+    {
+      "id": 484,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I've read it.",
+      "reply_to": 481
+    },
+    {
+      "id": 485,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "General Gvero did not say to you that he would have the compound at Potocari and the surrounding areas shelled, did he?",
+      "examination": "cross"
+    },
+    {
+      "id": 486,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "All I know is what Svetlana interpreted for me. If these transcriptions are correct, and I'm happy to assume that they are, then he did not say it in so many words during that conversation.",
+      "reply_to": 485
+    },
+    {
+      "id": 487,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "If we go back, please, to page 1, at the bottom, it -- the relevant part would appear to be: \"Thirdly, in case General Nicolai doesn't order the bombing to stop and doesn't withdraw NATO aeroplanes, he will have personal responsibility for further developments and for the destiny of all people in the area.\"",
+      "examination": "cross"
+    },
+    {
+      "id": 488,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's correct. That's how it reads and what I understood at the time.",
+      "reply_to": 487
+    },
+    {
+      "id": 489,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was the threat in those words?",
+      "examination": "cross"
+    },
+    {
+      "id": 490,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I've explained that as being shelling the compound and the surroundings with the civilian population gathered there.",
+      "reply_to": 489
+    },
+    {
+      "id": 491,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "General, what you are doing is you are attributing a threat that some other source in the VRS may have made to you or to Karremans or to someone else to my client, aren't you?",
+      "examination": "cross"
+    },
+    {
+      "id": 492,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I never explicitly accused General Gvero in so many words of being responsible for that threat. I said, We have received a threat and in the telephone conversation that we conducted around 4.00, General Gvero told me again that all responsibility for the consequences of not discontinuing the bombardments would be my responsibility. Now, how the direct relates to shelling the compound and the immediate surroundings, I don't remember that exactly anymore. It's possible that Colonel Karremans received that threat and that I subsequently assumed that General Gvero was referring to the same consequences. But once again, after 12 years I really can't remember whether it was literally said that way. I read it neither in the -- in this transcription, nor in the transcription drafted by the BiH, nor in the transcription of Colonel de Ruiter.",
+      "reply_to": 491
+    },
+    {
+      "id": 493,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "He did not threaten you in the terms that you alleged at page 45 earlier today. I think question agree on that, can't we, based on this transcript? But tell me if I'm wrong.",
+      "examination": "cross"
+    },
+    {
+      "id": 494,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, it's not stated here in so many words. I think that if it was literally -- literally said that way, then it would have been appeared literally in the transcript as well.",
+      "reply_to": 493
+    },
+    {
+      "id": 495,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "But I'm pressing you further, sir, and I'm suggesting to you that the words in this transcription by the Muslim security services do not amount to a threat at all, do they?",
+      "examination": "cross"
+    },
+    {
+      "id": 496,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, it depends on how you interpret it. It's in the transcript. In the entire message of General Gvero, 50 per cent is nonsense and lies. So I don't really know what to make of that. All that was said to me was that I would be responsible for the subsequent consequences. And what's interesting is that I read this both in the transcript compiled by Colonel de Ruiter and in the transcript drafted by the BiH. So there is a mention of consequences without them being described in so many words. Now, what apparently transpired, that I -- that I received the threat in a different way but interpreted the consequences as the -- carrying out the threat.",
+      "reply_to": 495
+    },
+    {
+      "id": 497,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were a brigadier-general in the Royal Dutch Army. You were Chief of Staff of UNPROFOR. You bore a great responsibility, didn't you? Gvero was stating the obvious and the truth, wasn't he, in that regard?",
+      "examination": "cross"
+    },
+    {
+      "id": 498,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, he wasn't telling the truth at all. Half of the message he's relating here was the fact that the VRS wasn't attacking the UN at all, and that was absolutely incorrect. It was an outright lie. So in that sense, I'm not really impressed by what General Gvero said. What matters now is did he express the threat at that moment, \"Stop or I'll shell the compound\"? Based on these documents, I would have to conclude that that was probably not said in that manner at that time, but the threat did reach the UN headquarters, and mentioning the responsibilities was interpreted not only by me but also by General Gobillard to mean that if we did not discontinue the air attacks, the threat would be carried out by the party expressing the threat.",
+      "reply_to": 497
+    },
+    {
+      "id": 499,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "You haven't answered my question. I will give you a chance in due course to examine the \"50 per cent is nonsense and lies.\" But before we do that, try and answer my question. You bore a great responsibility, didn't you? In that regard, Gvero was speaking the truth.",
+      "examination": "cross"
+    },
+    {
+      "id": 500,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, if he said that I bore responsibility at the time, I was jointly responsible for decisions that had to be taken at that point.",
+      "reply_to": 499
+    },
+    {
+      "id": 501,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you, in common with other people, did have the destiny of a large number of people in your hands; isn't that correct as well?",
+      "examination": "cross"
+    },
+    {
+      "id": 502,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I'm very keenly aware of that. I was at the time, and I am now as well.",
+      "reply_to": 501
+    },
+    {
+      "id": 503,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "So, General, where is the threat?",
+      "examination": "cross"
+    },
+    {
+      "id": 504,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's another question. Earlier I admitted that neither from this transcript nor from the other transcript is it apparent that the threat was presented to me that -- literally at that point in time, so I have nothing to add to that. Apparently in the conversation it wasn't said in that manner. But pointing out the consequences that would ensue for the population in the area were interpreted by me as meaning that the threat that the civilian population would be shot at, that such a threat would then be carried out.",
+      "reply_to": 503
+    },
+    {
+      "id": 505,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "I promised you that I would allow you to tell us about the 50 per cent that is nonsense and lies. Take your choice. Use either de Ruiter's note or use the intercept, and you tell us about the 50 per cent that is nonsense and lies, please.",
+      "examination": "cross"
+    },
+    {
+      "id": 506,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "All allegations that UN soldiers were not being attacked -- or rather, that it was not -- they were not being attacked by the VRS but by Muslims, that's nonsense and lies, truly. And the same holds true for what I see in the BiH transcript where it's reflected in detail that this is the umpteenth time that there are wrongful allegations that the VRS was attacking the UN. Supposedly that happened at Behaster [phoen] [as interpreted] and at Bihac, and later on apparently that was supposedly based on Muslim propaganda. That's absolute nonsense, and it -- in my view, not even relevant to this discussion.",
+      "reply_to": 505
+    },
+    {
+      "id": 507,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you're saying that Gvero was lying when he said that the BiH had tried to lure UNPROFOR into the dispute at Bihac and Gorazde; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 508,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 507
+    },
+    {
+      "id": 509,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "6D204, please. The document that's about to be put on the screen, General, is a report from General Janvier dated the 10th of July of 1995. It's a daily sit-rep sent to Mr. Annan, among others, as we can see from that first page. And somewhere in this document, when it is dealing with Sector North-East, it turns to the issue of Srebrenica and has quite a lengthy military assessment. It's page 6 that I wish to take you to, please.",
+      "examination": "cross"
+    },
+    {
+      "id": 510,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Go ahead. And you've got about four minutes left."
+    },
+    {
+      "id": 511,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. Scroll down, please."
+    },
+    {
+      "id": 512,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "It says this: \"Similar to what happened in Gorazde (Spring 94), the BiH can attempt to draw UNPROFOR, (including the RRF) or NATO into the conflict on BiH side. Sudden abandoning of positions along the confrontation line, the simulation of a collapse of the enclave or alarming reports from Bosnian side on the situation in the enclaves, will be indicators for this.\" A few questions. First of all, were you aware that the ABiH had done what UNPROFOR accept -- say they did in spring 1994 in Gorazde?",
+      "examination": "cross"
+    },
+    {
+      "id": 513,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "I am not aware of what happened in the spring of 1994 in Gorazde. I am aware of what happened in the Gorazde enclave in the spring of 1995. And just as in Srebrenica, in the spring of 1995, under pressure by the VRS, the UN was forced to abandon observation posts and to withdraw to the compound in the city of Gorazde.",
+      "reply_to": 512
+    },
+    {
+      "id": 514,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "What about Bihac? Do you know the problems that the Bangladeshi Platoon had with the BiH there?",
+      "examination": "cross"
+    },
+    {
+      "id": 515,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, regarding a comparable situation in Bihac, I have no information about that.",
+      "reply_to": 514
+    },
+    {
+      "id": 516,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "You didn't know about the problems that the Bangladeshi Platoon had at any point in time.",
+      "examination": "cross"
+    },
+    {
+      "id": 517,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Not in the period that I was Chief of Staff.",
+      "reply_to": 516
+    },
+    {
+      "id": 518,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Returning to the document that's on the screen, bearing in mind what UNPROFOR say happened in Gorazde in spring 1994, what Gvero is saying to you in the intercept is not a lie, is it? In -- in regard to Gorazde.",
+      "examination": "cross"
+    },
+    {
+      "id": 519,
+      "speaker": "CORNELIS HENDRIK NICOLAI",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, in effect, all I know is what Svetlana interpreted for me. That's what the transcription says that was presented to you. So what -- whatever else General Gvero was referring to about incidents perhaps in 1994, I have no knowledge of them. They were not interpreted for me and, in my view, are not relevant either. What matters is that General Gvero told me that the VRS was not attacking UNPROFOR. And disregarding what happened in other spots, I regard this as a lie, because I base myself on the information I obtained from DutchBat reports and definitely not on any information that I would supposedly have received from the BiH, because I did not receive that. So there is no basis for comparison with earlier situations, and the situation in Gorazde in the spring of 1995, which I was aware of because I was Chief of Staff then, the reports compiled then reported an attack by the VRS on observation posts. The UN and -- under that threat, they retreated to the compound. And, again, our information comes not from the BiH but from the UNPROFOR troops.",
+      "reply_to": 518
+    },
+    {
+      "id": 520,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, I -- I had a follow-up question, Your Honour, but it's 7.00."
+    },
+    {
+      "id": 521,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Thank you for understanding, Mr. Josse. General, we'll reconvene tomorrow morning at 9.00, and we hopefully will finish your testimony tomorrow. Thank you, everybody, and have a nice evening."
+    },
+    {
+      "id": 522,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "type": "statement",
+      "text": "to be reconvened on Friday, the 30th day of November, 2007, at 9.00 a.m. 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24"
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 2.19 p.m."
+    },
+    {
+      "after_utterance": 7,
+      "text": "[Trial Chamber and registrar confer]"
+    },
+    {
+      "after_utterance": 10,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 15,
+      "text": "WITNESS:  CORNELIS HENDRIK NICOLAI"
+    },
+    {
+      "after_utterance": 15,
+      "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 17,
+      "text": "Examination by Mr. Thayer:"
+    },
+    {
+      "after_utterance": 197,
+      "text": "--- Recess taken at 3.45 p.m."
+    },
+    {
+      "after_utterance": 197,
+      "text": "--- On resuming at 4.15 p.m."
+    },
+    {
+      "after_utterance": 316,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 370,
+      "text": "[Videotape played]"
+    },
+    {
+      "after_utterance": 373,
+      "text": "[Videotape played]"
+    },
+    {
+      "after_utterance": 380,
+      "text": "[Videotape played]"
+    },
+    {
+      "after_utterance": 385,
+      "text": "[Videotape played]"
+    },
+    {
+      "after_utterance": 389,
+      "text": "--- Recess taken at 5.46 p.m."
+    },
+    {
+      "after_utterance": 389,
+      "text": "--- On resuming at 6.14 p.m."
+    },
+    {
+      "after_utterance": 415,
+      "text": "Cross-examination by Ms. Fauveau:"
+    },
+    {
+      "after_utterance": 432,
+      "text": "Cross-examination by Mr. Josse:"
+    },
+    {
+      "after_utterance": 433,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 439,
+      "text": "[Prosecution counsel confer]"
+    },
+    {
+      "after_utterance": 476,
+      "text": "[Defence counsel confer]"
+    },
+    {
+      "after_utterance": 482,
+      "text": "[Trial Chamber and registrar confer]"
+    },
+    {
+      "after_utterance": 509,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 521,
+      "text": "--- Whereupon the hearing adjourned at 7.00 p.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_29_November_2007.doc"
+}

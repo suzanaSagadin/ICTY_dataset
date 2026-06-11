@@ -1,0 +1,4288 @@
+{
+  "case": "mladic",
+  "case_id": "IT-09-92-T",
+  "date": "2013-05-01",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good morning to everyone in and around this courtroom. Madam Registrar, would you please call the case."
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Good morning, Your Honours. This is case IT-09-92-T, the Prosecutor versus Ratko Mladic."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Madam Registrar. I first would like to inform the parties that still for urgent personal reasons Judge Fluegge is unable to be with us today, and Judge Moloto and myself have decided that it's in the interests of justice to continue to hear this case. There's a fair expectation that Judge Fluegge will be with us tomorrow. Then the Chamber is not aware of any preliminaries, then could we -- could the witness be escorted into the courtroom. And the next witness will be examined by you?"
+    },
+    {
+      "id": 4,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, good morning, Your Honours. Good morning to the Defence and to everyone in the courtroom."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 6,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I will conduct the examination."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Ms. Hasan, yes. Before we, however, start with that, I'd like to put the following on the record: It has come to the Chamber's attention that there are two English translations attached to Exhibit P1095. The Chamber takes this opportunity to remind the parties that it's preferable to have only one English translation file per exhibit and requests that the Prosecution merge the two English translations of P1095 into one document, and the Registry then to replace the two translations with the single merged translation document."
+    },
+    {
+      "id": 8,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Good morning, Mr. Groenewegen."
+    },
+    {
+      "id": 9,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "Good morning."
+    },
+    {
+      "id": 10,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Groenewegen, before you give evidence the Rules require that you make a solemn declaration that you will speak the truth, the whole truth and nothing but the truth. Would you prefer to do that in the English language or would you rather use your own language?"
+    },
+    {
+      "id": 11,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "English is all right."
+    },
+    {
+      "id": 12,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Then the text is now handed out to you by the usher. May I invite you to make that declaration."
+    },
+    {
+      "id": 13,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 14,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. Groenewegen. Please be seated. Mr. Groenewegen, you'll first be examined by Ms. Hasan. Ms. Hasan is counsel for the Prosecution. And, Ms. Hasan, your estimate is half an hour, I think."
+    },
+    {
+      "id": 15,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, that is my estimate."
+    },
+    {
+      "id": 16,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Then please proceed."
+    },
+    {
+      "id": 17,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good morning, Witness. For the record, could you please state your full name.",
+      "examination": "direct"
+    },
+    {
+      "id": 18,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Inaudible]",
+      "reply_to": 17
+    },
+    {
+      "id": 19,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, could you please state your full name for the record.",
+      "examination": "direct"
+    },
+    {
+      "id": 20,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Paul Groenewegen.",
+      "reply_to": 19
+    },
+    {
+      "id": 21,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, the only reason I'm listening in is because I can't actually hear the Dutch translation of what he says which is not a problem now but will be when he gives other answers. If I can just check that with our Case Manager."
+    },
+    {
+      "id": 22,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We'll check on the English channel, but of course if the witness mentions his name there's no need to translate it because there's no translation for a name."
+    },
+    {
+      "id": 23,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I didn't hear anything prior to that as well when he spoke in Dutch. That's the reason. But in any case, I'll continue and see what happens."
+    },
+    {
+      "id": 24,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is there on the record, and it's spelled the right way, so let's proceed."
+    },
+    {
+      "id": 25,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness do you recall testifying in the Blagojevic case in 2003, in Popovic in 2006, Tolimir in 2010, and Karadzic in 2012? You've also testified at the Rule 61 hearing of General Mladic and Karadzic back in 1996. Do you recall your testimony in those cases?",
+      "examination": "direct"
+    },
+    {
+      "id": 26,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, absolutely.",
+      "reply_to": 25
+    },
+    {
+      "id": 27,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "There must be a problem because now I'm switching now and then from the English to the Dutch channel, but on English we still hear -- yes, on the English channel I hear clearly and loud the Dutch language and I have difficulties in deciphering what is in the background, that is the English translation. Perhaps we test it again. I now remain on the English channel. Could you speak a few words Mr. Groenewegen."
+    },
+    {
+      "id": 28,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, I'll be happy too [Inaudible]."
+    },
+    {
+      "id": 29,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "It's still not okay. We hear the Dutch in the foreground and English in the background."
+    },
+    {
+      "id": 30,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] [Inaudible]"
+    },
+    {
+      "id": 31,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "They are telling something but we don't hear it. Only very much in the background I hear on channel 4. Yes. Could the interpreters for --"
+    },
+    {
+      "id": 32,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "[Inaudible]"
+    },
+    {
+      "id": 33,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I hardly can hear you compared to my own voice on the English channel. It is approximately 10 per cent of the volume. So therefore there is something wrong. Mr. Groenewegen, we'll wait until it has been fixed."
+    },
+    {
+      "id": 34,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "When --"
+    },
+    {
+      "id": 35,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] [Inaudible]"
+    },
+    {
+      "id": 36,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "When -- yes, I hear you at approximately 5 or 10 per cent of the volume of when I hear myself speaking English. Ms. Hasan, if you could just speak a few words so that we know whether that comes through."
+    },
+    {
+      "id": 37,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "This is just a test to see if we can hear."
+    },
+    {
+      "id": 38,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, can hear Ms. Hasan. Could perhaps the witness speak again in Dutch a few words."
+    },
+    {
+      "id": 39,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] [Inaudible]"
+    },
+    {
+      "id": 40,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Still the English translation is as if it is at a distance of 10 kilometres. I have great difficulties in deciphering at all what is said. Will -- apparently the matter cannot be resolved in a second. Therefore, I would like to ask the usher to escort the witness out of the courtroom and wait until the matter has been fixed, and we'll take a short break as well."
+    },
+    {
+      "id": 41,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Everyone is expected to remain standby until the problem has been solved. We take a short break. --- Break taken at 9.44 a.m."
+    },
+    {
+      "id": 42,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could the witness be escorted into the courtroom."
+    },
+    {
+      "id": 43,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Welcome back, Mr. Groenewegen. Apologies for the convenience. I do understand that there was something wrong with the system, some elements that have broken down which have to be replaced and it takes more time. Ms. Hasan, we just had started. I think we have the name of the witness, the full name of the witness on the record. That's the only thing we achieved this morning until now. You may proceed."
+    },
+    {
+      "id": 44,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Mr. President."
+    },
+    {
+      "id": 45,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, I'm not sure we got your answer to this question, but do you recall testifying in Blagojevic, in Popovic, Tolimir, Karadzic, and at the Rule 61 hearing of Mladic and Karadzic?",
+      "examination": "direct"
+    },
+    {
+      "id": 46,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's -- that's correct, and I remember that.",
+      "reply_to": 45
+    },
+    {
+      "id": 47,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall that an amalgamated statement was prepared containing the relevant portions of your prior testimonies from the Blagojevic, Popovic, and Tolimir cases which you reviewed and signed on the 11th of November, 2010?",
+      "examination": "direct"
+    },
+    {
+      "id": 48,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 47
+    },
+    {
+      "id": 49,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Does that statement reflect an amalgamation of those prior testimonies with some additional observations and clarifications that you made at that time?",
+      "examination": "direct"
+    },
+    {
+      "id": 50,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's also correct.",
+      "reply_to": 49
+    },
+    {
+      "id": 51,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is the information provided then in that amalgamated statement true and accurate to the best of your knowledge?",
+      "examination": "direct"
+    },
+    {
+      "id": 52,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I know, yes.",
+      "reply_to": 51
+    },
+    {
+      "id": 53,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "If you were asked today about those same matters, would you provide this Trial Chamber with the same information?",
+      "examination": "direct"
+    },
+    {
+      "id": 54,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Of course.",
+      "reply_to": 53
+    },
+    {
+      "id": 55,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, I'd offer the amalgamated statement dated 11th November, 2010, bearing 65 ter number 28818 into evidence."
+    },
+    {
+      "id": 56,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ms. Hasan, I think it's usually verified with the witness whether the document you uploaded is the document he recognises as the one he signed, and I don't think we have seen it on our screen yet, have we?"
+    },
+    {
+      "id": 57,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "We can call that up. It's 65 ter 28818."
+    },
+    {
+      "id": 58,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, take a look at the --",
+      "examination": "direct"
+    },
+    {
+      "id": 59,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm sorry. A correction for the record; in fact, I had mentioned it was 11th November 2010. It's 11th November 2011."
+    },
+    {
+      "id": 60,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, could you verify for us whether you recognise this as the amalgamated statement that you signed?",
+      "examination": "direct"
+    },
+    {
+      "id": 61,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. This is the copy I signed at the time.",
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is that your signature there on the bottom right-hand side of the screen?",
+      "examination": "direct"
+    },
+    {
+      "id": 63,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, absolutely.",
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Any objections, Mr. Lukic?"
+    },
+    {
+      "id": 65,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No objections, Your Honour."
+    },
+    {
+      "id": 66,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Madam Registrar."
+    },
+    {
+      "id": 67,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Document 28818 receives number P1157, Your Honours."
+    },
+    {
+      "id": 68,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And is admitted into evidence. Please proceed, Ms. Hasan."
+    },
+    {
+      "id": 69,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, I'll read a brief summary of the witness's prior evidence."
+    },
+    {
+      "id": 70,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "You've explained to the witness the purpose of it?"
+    },
+    {
+      "id": 71,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, I have. From January to July 1995, the witness, a private in the Dutch army, was posted in the Potocari area. During the first months of his assignment, he witnessed military activity between the VRS and the BiH Army. He also saw BiH military presence in the form of men, small-calibre weapons within the enclave. They appeared to him as civilians, attempting to protect the enclave, rather than an organised military unit. The witness was at Observation Post Mike when VRS soldiers fired at the Dutch. The witness learned that other OPs were also under attack during that same period. The witness interpreted these VRS actions as provocation since the shootings did not hit their targets. The witness returned to Potocari on 10 July, and on the morning of 11th July saw fearful refugees arrive from Srebrenica, mostly on foot. By the evening, thousands were in Potocari, both inside and outside the UN compound. VRS soldiers approach Potocari from north on 12 July. Some units had dogs. Other VRS troops approached through the hills and houses burned along their path. Following the first troops, the infantry came in as well as other groups with cameras and officers who appeared to be acting in co-ordination with the earlier group. The witness and other DutchBat soldiers created a buffer zone to separate the crowd of refugees from the VRS. In what appeared to the witness to be a propaganda subject, bread was distributed to the refugees before a television crew. Buses began to arrive to transport the refugees. The first to board were those who wanted to leave. The refugees who did not want to leave were initially shouted at by the VRS and ultimately subjected to violence in order to get them onto the buses. The witness believed that the women and children who had gathered in Potocari were not there of their own free will. The witness saw men between the ages of 16 and 60 being separated from their families and taken to an empty house. The refugees that remained overnight were mostly those who did not want to leave. The transportations continued the next day, and the witness's task that day was to ensure they took place as calmly as possible and to limit aggression on both sides. The Serb soldiers continued to separate the men from the rest of the refugees that day. These men were taken to an unfinished house. He saw buses leaving carrying men. Mr. Groenewegen witnessed the execution of one of the separated Muslim men. The witness saw General Mladic in Potocari on both the 12th and the 13th of July, and the witness himself remained there until 20 July 1995. That concludes my summary, and if I may proceed with asking the witness a few questions."
+    },
+    {
+      "id": 72,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Please do so, Ms. Hasan."
+    },
+    {
+      "id": 73,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Just to start off I need to for a few brief moments go into private session."
+    },
+    {
+      "id": 74,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We move into private session."
+    },
+    {
+      "id": 75,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "We're in open session, Your Honours."
+    },
+    {
+      "id": 76,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Madam Registrar."
+    },
+    {
+      "id": 77,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, you were present in Potocari between the 10th and the 13th of July as the refugees came in. Could you describe their condition for us.",
+      "examination": "direct"
+    },
+    {
+      "id": 78,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "To say the least, they were frightened, undernourished.",
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "The refugees, then, that came in and filled the UN compound and the areas around it, did any of those refugees get some sort of priority in being allowed into the compound?",
+      "examination": "direct"
+    },
+    {
+      "id": 80,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I could see at the time, mainly the injured were given priority.",
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were there any other refugees that were trying to get inside the compound?",
+      "examination": "direct"
+    },
+    {
+      "id": 82,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, absolutely.",
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And can you tell us a little bit about that?",
+      "examination": "direct"
+    },
+    {
+      "id": 84,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "As I just said, the injured were given priority, and as far as pace allowed, people were allowed into the area until there was no longer any space.",
+      "reply_to": 83
+    },
+    {
+      "id": 85,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, do you recall an incident where you saw someone or you had someone self-inflict an injury upon themselves to get into the compound?",
+      "examination": "direct"
+    },
+    {
+      "id": 86,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 85
+    },
+    {
+      "id": 87,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you tell us, just briefly, what happened during that incident?",
+      "examination": "direct"
+    },
+    {
+      "id": 88,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "The man concerned had tried to enter the compound previously to get past the buffer zone, and ultimately he approached us again with a head injury, and my colleague said, I just saw him injure his head with a stone.",
+      "reply_to": 87
+    },
+    {
+      "id": 89,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And you've described in your prior testimonies about the women, children, and elderly who were transported out of Potocari, and you've explained that the first refugees who boarded the buses did so voluntarily as they were eager to leave as soon as possible. Can you tell us how many busloads you estimate would have carried those refugees who wanted to leave?",
+      "examination": "direct"
+    },
+    {
+      "id": 90,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "After such a long period I wouldn't dare attribute a number to that.",
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Relative to those refugees who did not want to leave, would you say they were the vast majority or the minority?",
+      "examination": "direct"
+    },
+    {
+      "id": 92,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was certainly the majority.",
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sorry, and I'm referring to the refugees who voluntarily wanted to leave.",
+      "examination": "direct"
+    },
+    {
+      "id": 94,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Sorry. Then that should certainly be the minority.",
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in your prior evidence, you relate that some when -- some men were separated from the crowd. Can you tell us who was doing the separations? Who was separating these men?",
+      "examination": "direct"
+    },
+    {
+      "id": 96,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Separate from all the different uniforms that were seen that day. It must have been the Serb army.",
+      "reply_to": 95
+    },
+    {
+      "id": 97,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you use -- when you refer to the \"Serb army,\" are you referring to what the Dutch typically were referring to them as the BSA, the Bosnian Serb Army?",
+      "examination": "direct"
+    },
+    {
+      "id": 98,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, absolutely.",
+      "reply_to": 97
+    },
+    {
+      "id": 99,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did you observe the impact of the separation of the men on the other refugees? If so, can you tell us what you observed?",
+      "examination": "direct"
+    },
+    {
+      "id": 100,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Most of the men that I saw being separated were possibly with their wife and/or their children, of course that's not a nice happening. There were tears, there was a drama, and there was a lot of fear.",
+      "reply_to": 99
+    },
+    {
+      "id": 101,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, on the 13th of July, you were part of a line of soldiers that stood between the refugees and the VRS, and while you were engaged in this task, you witnessed the execution of a man. Could you please describe for the Chamber in as much detail as you can remember where you were, what you were doing, and what exactly you saw happen?",
+      "examination": "direct"
+    },
+    {
+      "id": 102,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "At a certain point I had some freedom of movement to go off onto the side ground from the road from where you could see a bit more of the additional activities on the road. At a certain point I saw how a man was separated and my attention was drawn from the screaming. It wasn't the first time that day, so I didn't think about it later on when I had some more freedom of movement. I strayed further from the road and my attention was drawn once again by turmoil and screaming, and I saw that the man concerned was being executed behind one of the houses as I indicated earlier.",
+      "reply_to": 101
+    },
+    {
+      "id": 103,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I may ask you, when you say \"being executed,\" could you tell us by whom and what you saw?",
+      "examination": "direct"
+    },
+    {
+      "id": 104,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "There were three men, and one of them shot the man in the head.",
+      "reply_to": 103
+    },
+    {
+      "id": 105,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And these -- you refer to them as \"men.\" Were these soldiers or civilians?",
+      "examination": "direct"
+    },
+    {
+      "id": 106,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. They were dressed in military attire.",
+      "reply_to": 105
+    },
+    {
+      "id": 107,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ms. Hasan, this of course is already in the statement. Your last question doesn't add anything at all to -- it's consistently the soldiers in the statement, so therefore it's -- let's focus on matters which are not yet found in the statement."
+    },
+    {
+      "id": 108,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, as the transportations took place on the 12th and 13th of July, were you carrying a weapon?",
+      "examination": "direct"
+    },
+    {
+      "id": 109,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I was carrying a weapon.",
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you have that weapon, then, with you at all times?",
+      "examination": "direct"
+    },
+    {
+      "id": 111,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I always had it with me until I had to surrender it under duress.",
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who did you have to surrender it to?",
+      "examination": "direct"
+    },
+    {
+      "id": 113,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "To the people from the BSA Serb army.",
+      "reply_to": 112
+    },
+    {
+      "id": 114,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you say \"duress,\" what exactly happened?",
+      "examination": "direct"
+    },
+    {
+      "id": 115,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I had already understood from colleagues that they had to surrender their weapon under duress or otherwise, so it was matter of time until the same happened to me, and at a certain point we were requested at the time in a friendly manner to hand over our arms.",
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sorry, I just want to clarify. I'm a little bit confused because you say you were under duress, and then you mention that you were requested to hand over your arms in a friendly manner. Could you just clarify that for me?",
+      "examination": "direct"
+    },
+    {
+      "id": 117,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, it was clear to us that it would be handing over in any case, and when you're asked the first time by men who are armed and are clearly in the majority, then it's logical to me to surrender it at the first friendly instance, because it was expected that the second request would not be friendly.",
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, you saw General Mladic in Potocari on the 12th and 13th of July. Can you tell us how many times you saw him, what you saw him doing?",
+      "examination": "direct"
+    },
+    {
+      "id": 119,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "How many times? I can't give you a number. And what I saw him doing was primarily being escorted by other military around him, with the camera crews. What he actually did, well, I was too busy to keep an eye on him constantly.",
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you see him the day that you witnessed the execution of the man, the refugee man?",
+      "examination": "direct"
+    },
+    {
+      "id": 121,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I couldn't say that any more, but it must have been the case.",
+      "reply_to": 120
+    },
+    {
+      "id": 122,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Could we have 65 ter 17880 displayed, please. And, Your Honours, this is an aerial photograph that the witness marked in his prior statement. It is referred to in his amalgamated statement, but the markings made on that aerial image are not clear from the statement in terms of what they're linked to. So I'd like to clarify that with him. If we could -- if we could just zoom in a little bit there at the centre, the centre of the aerial image."
+    },
+    {
+      "id": 123,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, I don't think if you can see that, but there are some markings that you made in your prior testimony. Do you see that?",
+      "examination": "direct"
+    },
+    {
+      "id": 124,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I see the markings.",
+      "reply_to": 123
+    },
+    {
+      "id": 125,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "I just want you to tell us again what those markings signify. So we can start with the -- there's an X there right in the centre of the screen. What is that? What is that mark?",
+      "examination": "direct"
+    },
+    {
+      "id": 126,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's the spot in the grass next to the road from where I saw the execution take place.",
+      "reply_to": 125
+    },
+    {
+      "id": 127,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And just a little bit down into the --",
+      "examination": "direct"
+    },
+    {
+      "id": 128,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Can I just interrupt, Madam Hasan. The witness is translated as saying, \"That's the spot in the grass next to the road where I saw the execution take\" -- thank you so much. That's fine."
+    },
+    {
+      "id": 129,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just a bit further down and to the right of that spot, that X, there is a black dot. Could you tell us is that your marking, and what does that indicate for us?",
+      "examination": "direct"
+    },
+    {
+      "id": 130,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I placed that spot there at the time to indicate where the execution took place, where the man was actually shot.",
+      "reply_to": 129
+    },
+    {
+      "id": 131,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ms. Hasan, the black dot, is that a black dot which I see at the corner of what seems to be a structure just below the X?"
+    },
+    {
+      "id": 132,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. A black dot right behind the building to the right and a bit down of the X. But perhaps it might help if the witness just re-marks it with a colour if that would be of assistance. May he be given a pen to do so?"
+    },
+    {
+      "id": 133,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, if you could just re-mark the spot that you're talking about, where the man was executed.",
+      "examination": "direct"
+    },
+    {
+      "id": 134,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 133
+    },
+    {
+      "id": 135,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The black dot now has become a red dot and far clearer."
+    },
+    {
+      "id": 136,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 137,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And, Witness, we also see on this aerial image the letter A. Can you tell us what that identifies?",
+      "examination": "direct"
+    },
+    {
+      "id": 138,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was the area where we had positioned ourselves in a buffer line, and behind that was where the refugees were.",
+      "reply_to": 137
+    },
+    {
+      "id": 139,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ms. Hasan, could you invite the witness to again put an A, because the markings are so unclear."
+    },
+    {
+      "id": 140,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, could you please remark the A, and while you're at it, could you also remark the X.",
+      "examination": "direct"
+    },
+    {
+      "id": 141,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Shall I draw the line from the X as well?",
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes, please, and if you could tell us what that line -- what that line marks.",
+      "examination": "direct"
+    },
+    {
+      "id": 143,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "The line that I just drew was the area in the direction from where I was moving up to the X.",
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And where was the man who was then ultimately executed behind that building, where was he taken from?",
+      "examination": "direct"
+    },
+    {
+      "id": 145,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "He came from the crowd.",
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "So is that where you've marked the letter A?",
+      "examination": "direct"
+    },
+    {
+      "id": 147,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Witness, for that.",
+      "examination": "direct"
+    },
+    {
+      "id": 149,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, I would suggest this be entered as a new exhibit since it's been re-marked."
+    },
+    {
+      "id": 150,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Madam Registrar, an aerial view with markings made by the witness."
+    },
+    {
+      "id": 151,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Receives number P1158, Your Honours."
+    },
+    {
+      "id": 152,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And is admitted into evidence."
+    },
+    {
+      "id": 153,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "May we have 65 ter 17879 displayed, please. And again this suffers a little bit from the same problem. It's not quite clear from the statement which markings are what, so just for your -- so that it's clear, I'm going to ask him to clarify."
+    },
+    {
+      "id": 154,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, in your statement - and this is addressed at paragraph 55 of your amalgamated statement - you provide that you marked the road where the refugees were moving, and can you just describe for us what it is that you used to mark the road where -- the direction of the refugees. There's several markings on here. Can you tell us which one shows the movement of the refugees?",
+      "examination": "direct"
+    },
+    {
+      "id": 155,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "From the drawing I did there, the refugees were inside the circle, and just above that circle to the north, if this photo is oriented.",
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And -- in the statement it also indicates that you've marked where the VRS soldiers were closest to the refugees. Well, what have you used to show this on this aerial?",
+      "examination": "direct"
+    },
+    {
+      "id": 157,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Inside the circle that would be where the dots are.",
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And to the right and left of those markings we see two -- two almost identical markings. What are those?",
+      "examination": "direct"
+    },
+    {
+      "id": 159,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's my -- that's my initials.",
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. I'm done with that image.",
+      "examination": "direct"
+    },
+    {
+      "id": 161,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If we could move to 65 ter 05281, please."
+    },
+    {
+      "id": 162,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Are you not tendering this one or is it already tendered?"
+    },
+    {
+      "id": 163,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No, Your Honour. You're correct. It's one of the associated exhibits. I can request that it be tendered at this stage. Let me see here. Was 17879. If we can have that one admitted into evidence."
+    },
+    {
+      "id": 164,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Madam Registrar."
+    },
+    {
+      "id": 165,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Document 17879 receives number P1159, Your Honours."
+    },
+    {
+      "id": 166,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "And is admitted into evidence. Ms. Hasan, just for my information -- oh, could we have it again on the screen, previous one. You referring to two markings apart from the circle and the dots in that. I see one to the left and one to the right. To the left it is near to what seems to be a wooded area. Where do we find that marking explained in the statement?"
+    },
+    {
+      "id": 167,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It's not -- sorry, are you referring to the one that the witness said was his initials or his signature? It's not explained in the statement. That's why I asked for clarification."
+    },
+    {
+      "id": 168,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Is there any reason why you do that twice on the same picture? I see one to the left in the wooded area, and I see a similar marking a little bit to the right of the circle and also what seems to be in an area with at least some trees."
+    },
+    {
+      "id": 169,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, I'd have to go back to the prior testimony to see why he was asked to mark it, to initial it twice. I'm not sure about that."
+    },
+    {
+      "id": 170,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. I would have expected you to do that before I asked the question, because the place -- the place of the markings is not the usual one if you just want to put your initials, and putting it twice is also quite surprising."
+    },
+    {
+      "id": 171,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If I may, I can ask the witness if there's any significance to the markings being placed where they are."
+    },
+    {
+      "id": 172,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, do you recall if there's any significance to your initial -- initials being placed at those locations on the image?",
+      "examination": "direct"
+    },
+    {
+      "id": 173,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. As far as I can remember, I was asked twice to initial it. Apparently I was asked to initial it twice to be on the safe side at that spot.",
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I appreciate if you would check that, because it's so exceptional."
+    },
+    {
+      "id": 175,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I will do so."
+    },
+    {
+      "id": 176,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, just to back to something you said. You mentioned that if this photo was -- if this image was oriented correctly. Now, we see the houses there. You've shown us where the movement of the refugees were. Now, just for the record -- or can you tell us where the compound was, the UN compound?",
+      "examination": "direct"
+    },
+    {
+      "id": 177,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "On the photograph, that's at the bottom from the white -- from the large white building in the centre of the photo down.",
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "And for the record, the bottom of this photograph would be north and the top is south. May we have then 65 ter 05281, please, and that's just the last image I will go through."
+    },
+    {
+      "id": 179,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Again here we see the same markings. You've already explained to us the A, the X, and the black spot, but there's two additional markings there, one which has an H next to it and one which is a pear-shaped circle of a general area. In the statement, in Popovic, basically you marked 1 as being the house to which the separated Muslim men were taken and the other area marking where you walked around. Can you tell us which is which?",
+      "examination": "direct"
+    },
+    {
+      "id": 180,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "As you see, we see here once again the A, the line, the X and the dot indicating where the line was where we had set up a buffer, and the pear-shaped red circle with dots must be the area in which I walked around, and the H around the actual circle must have been the house where the men gathered.",
+      "reply_to": 179
+    },
+    {
+      "id": 181,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Interpreter's correction: The initial A at the beginning should be H."
+    },
+    {
+      "id": 182,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you. I also offer this image into evidence and that's 65 ter 05281."
+    },
+    {
+      "id": 183,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Madam Registrar."
+    },
+    {
+      "id": 184,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Document 05281 receives number P1160, Your Honours."
+    },
+    {
+      "id": 185,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Is admitted into evidence."
+    },
+    {
+      "id": 186,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, I have no additional questions, but there are just a few more exhibits that are associated with his statement that I'd move to have those admitted as well. Those would be 65 ter 04738, 65 ter 04785, 65 ter 17878, 65 ter 17880, and -- and 65 ter 22447."
+    },
+    {
+      "id": 187,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "65 ter 17880 [Realtime transcript read in error \"17878\"] is P1158."
+    },
+    {
+      "id": 188,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That leaves only 65 ter 22447 [Realtime transcript read in error \"22427\"]."
+    },
+    {
+      "id": 189,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We'll take them one by one."
+    },
+    {
+      "id": 190,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "If I may just correct the record. I'm transcribed as having said \"17878,\" I said 17880 is P1158. Okay. Thank you."
+    },
+    {
+      "id": 191,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We'll take them one by one. First one 4738."
+    },
+    {
+      "id": 192,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Receives number P1161, Your Honours."
+    },
+    {
+      "id": 193,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Admitted into evidence. 4785."
+    },
+    {
+      "id": 194,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Receives number P1162, Your Honours."
+    },
+    {
+      "id": 195,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "P1162 is admitted. The next one is 17878."
+    },
+    {
+      "id": 196,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Receives number P1163, Your Honours."
+    },
+    {
+      "id": 197,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "P1163 is admitted into evidence. Then we have 65 ter 2244."
+    },
+    {
+      "id": 198,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Your Honours, I think it was 22447, if I'm not mistaken."
+    },
+    {
+      "id": 199,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. I made a mistake. 22447."
+    },
+    {
+      "id": 200,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Receives number P1164, Your Honours."
+    },
+    {
+      "id": 201,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Is admitted into evidence. I see on the record I see the number 224 -- is once mentioned as \"22427,\" but we all agree that it's 22447."
+    },
+    {
+      "id": 202,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, that's the correct number."
+    },
+    {
+      "id": 203,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "That's the one I just admitted."
+    },
+    {
+      "id": 204,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That concludes the direct, Mr. President, and I'll get back to you on your query about the initials."
+    },
+    {
+      "id": 205,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Thank you, Ms. Hasan. Mr. Lukic, are you ready to cross-examine the witness? Then please proceed."
+    },
+    {
+      "id": 206,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 207,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Good day, Mr. Groenewegen.",
+      "examination": "cross"
+    },
+    {
+      "id": 208,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Hello. Good day.",
+      "reply_to": 207
+    },
+    {
+      "id": 209,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Today at the outset you said that you saw that military forces of the Army of Bosnia-Herzegovina were present in the enclave. However, you said that you thought they were civilians who were just protecting the enclave. How did you determine whether somebody was a civilian, because they wore civilian clothing or because they had no weapons?",
+      "examination": "cross"
+    },
+    {
+      "id": 210,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, to us it was about checking who was who, what are they doing, and what do they have with them, and if men were not very clearly appearing as military, it was logical for us to describe them as civilians.",
+      "reply_to": 209
+    },
+    {
+      "id": 211,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Does that pertain to men who had weapons as well?",
+      "examination": "cross"
+    },
+    {
+      "id": 212,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, absolutely.",
+      "reply_to": 211
+    },
+    {
+      "id": 213,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it correct that before testifying in the Blagojevic case you had never said that the civilian population was forced to board the buses?",
+      "examination": "cross"
+    },
+    {
+      "id": 214,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can't remember that. As far as I know, I have always stated that there was a group of people that initially boarded the buses voluntarily, and afterwards the majority that had to be forced after all.",
+      "reply_to": 213
+    },
+    {
+      "id": 215,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Can we now briefly have 1D908 in e-court. That's the transcript from the Popovic case. It's page 7 in e-court; 2964 is the transcript page that it's supposed to correspond to. The Prosecution is presenting a statement of our witness, and from line 3 onwards this is what they say, and I'm going to read it out in English: [In English] \"Mr. Groenewegen acknowledged that he had not mentioned in any previous statements that the Muslim population who refused to get on the buses were first insulted and then forced onto the buses. And he acknowledged that this testimony during the trial -- that trial was the first time he had reported this, being the date of his testimony 10th July 2003.\""
+    },
+    {
+      "id": 216,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Would you accept that? Would you accept what the Prosecutor in the Popovic case said? Does this refresh your memory?",
+      "examination": "cross"
+    },
+    {
+      "id": 217,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, are we looking at a summary paraphrasing the evidence of the witness? Why not then go to the underlying statement or whatever it is rather than to rely on a summary and paraphrase -- paraphrase testimony."
+    },
+    {
+      "id": 218,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It's not in the statement before. That's why we use this paraphrasing of his testimony, because we -- if we see the previous statements, we cannot find --"
+    },
+    {
+      "id": 219,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "It's just that if there's nothing there, then you sit together with the Prosecution and you agree that he never said this before, isn't it? I mean, to establish that a witness never talked A, B, or C is best done by reading through it and agree with the other party on it, rather than to ask, I don't know to what extent the witness was fully aware of the full content of all those statements, but if the parties agree on it, then it's -- that's good for the -- we're unable to verify it. You are, so is the Prosecution, if you give us all the statements, we can verify it as well, but if you agree on it, it's far easier."
+    },
+    {
+      "id": 220,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "With all due respect, for us much better approach is to test the credibility of the witness through this exercise."
+    },
+    {
+      "id": 221,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay, then we don't have to show him this. The witness says, I don't remember, then gives -- tell him, If you earlier said so, would that ..."
+    },
+    {
+      "id": 222,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's what I tried."
+    },
+    {
+      "id": 223,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. Well, it seems to be not the most practical way of doing it. But, Witness, you say you don't have any recollection that you told about it any earlier? And I take it, Ms. Hasan, that if this is wrong that you would in re-examination certainly deal with that matter?"
+    },
+    {
+      "id": 224,
+      "speaker": "MS. HASAN",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, Mr. President, I can deal with it in re-examination. The summary that the Prosecution read in the Popovic case is based on the testimony in the Blagojevic case, and it comes from answers to questions that were posed in Blagojevic."
+    },
+    {
+      "id": 225,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "That's all fine. The only ones who are unable to verify is the Court, and that is, Mr. Lukic, what I'm concerned about. If you agree, for the parties, no problem. We are unable to verify. The witness at this moment doesn't remember. At an earlier stage if he had said something about it, well, it still does not enable us to verify it. Please proceed."
+    },
+    {
+      "id": 226,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 227,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you were asked in the Popovic case whether you agreed whether your memory was more accurate and better at the time that was closer to the actual events, you confirmed that. On page 307 -- 3007, actually, of this transcript, and we can see that in e-court on page 50. So again, this is your testimony from the Popovic case on the 25th of October, 2006, lines 8 through 12. You can read that in the transcript; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 228,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I see here in front of me what I said earlier in the previous case.",
+      "reply_to": 227
+    },
+    {
+      "id": 229,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you think today as well that your memory served you better at the time that was closer to the events than in the time that was more distant, if you will, from when this actually happened?",
+      "examination": "cross"
+    },
+    {
+      "id": 230,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Some things are impossible to erase, and some other things become obscured over the years.",
+      "reply_to": 229
+    },
+    {
+      "id": 231,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Now I'd just like to ask for us to move very briefly into private session, please."
+    },
+    {
+      "id": 232,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. Before we do so, being forced on buses, Mr. Lukic, is a very, very ambiguous expression. That's, of course, why I have so much concern about the Chamber unable to verify whatever the witness says, because the force can come from circumstances, the force can come from gunpoint, the force can come from -- it could be anything, and that's the reason why the Chamber would so much like to be able to verify what the exact subject of the question and the statements of the witness were. We'll move into private session."
+    },
+    {
+      "id": 233,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "We're in open session, Your Honours."
+    },
+    {
+      "id": 234,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Madam Registrar."
+    },
+    {
+      "id": 235,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 236,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In your statements and during your testimonies, you did confuse dates, didn't you? You could not tell exactly what happened on the 11th, what happened on the 12th, and what happened on the 13th of July, 1995; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 237,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "It's correct. It's true that these dates were at first mixed up somewhat because of the intensity of the events and the time that it passed exclusively, but ultimately we sorted out and determined the correct events on the correct dates.",
+      "reply_to": 236
+    },
+    {
+      "id": 238,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. Let me ask you this: You were ordered to send civilians from Srebrenica towards the UN base in Potocari; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 239,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 238
+    },
+    {
+      "id": 240,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What date was that?",
+      "examination": "cross"
+    },
+    {
+      "id": 241,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Off the top of my head I couldn't say that any more.",
+      "reply_to": 240
+    },
+    {
+      "id": 242,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know today who issued that order to you?",
+      "examination": "cross"
+    },
+    {
+      "id": 243,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't remember any more who it was. One of the commanders.",
+      "reply_to": 242
+    },
+    {
+      "id": 244,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well.",
+      "examination": "cross"
+    },
+    {
+      "id": 245,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Can we have the witness's statement, P1157. Can we have that on our screens, please. Let's just take a look at the first page of the witness statement first."
+    },
+    {
+      "id": 246,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "This is your statement. You recognise your own signature on the right-hand side, don't you? We need page 9, paragraph 42 in English, and in B/C/S we need page 12, also paragraph 42. You say here: \"We realised that young men were being kept behind the hills. We talked to some people among the population, and they are convinced it was better for them to stay behind and fight rather than to go along willingly.\" I find this unclear. Who is keeping these young men behind the hills? What did you mean by that?",
+      "examination": "cross"
+    },
+    {
+      "id": 247,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "What's meant in the sentence is not so much that they were kept in the hills but that they wanted to stay behind there.",
+      "reply_to": 246
+    },
+    {
+      "id": 248,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. Thank you. It's clearer now. Together with other members of the Dutch Battalion, you made a cordon dividing the people of Srebrenica and the members of the Army of Republika Srpska; isn't that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 249,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct.",
+      "reply_to": 248
+    },
+    {
+      "id": 250,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "On the photo that we saw earlier -- could we briefly show P1158 -- or, rather, 1159. My apologies. Could you please mark in blue on this image by drawing a line to show us where the cordon was.",
+      "examination": "cross"
+    },
+    {
+      "id": 251,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "The -- the cordon, from my perception, must have been generally here.",
+      "reply_to": 250
+    },
+    {
+      "id": 252,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you please put an R to show where the refugees were as you marked them.",
+      "examination": "cross"
+    },
+    {
+      "id": 253,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Shall I circle the letter R?",
+      "reply_to": 252
+    },
+    {
+      "id": 254,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes, please.",
+      "examination": "cross"
+    },
+    {
+      "id": 255,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 254
+    },
+    {
+      "id": 256,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you now place letters to indicate where members of the VRS were of the Army of Republika Srpska?",
+      "examination": "cross"
+    },
+    {
+      "id": 257,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Could you please repeat once more time which letter or symbol you would like me to use?",
+      "reply_to": 256
+    },
+    {
+      "id": 258,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, whatever you find convenient. VRS, for instance.",
+      "examination": "cross"
+    },
+    {
+      "id": 259,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, then I would need to write that term a lot of times, because they were everywhere around us.",
+      "reply_to": 258
+    },
+    {
+      "id": 260,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, wherever you saw members of the Army of Republika Srpska, please place those three letters there.",
+      "examination": "cross"
+    },
+    {
+      "id": 261,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I propose that I put VRS once and otherwise dots in all places where I saw them, because otherwise the entire photograph would be full.",
+      "reply_to": 260
+    },
+    {
+      "id": 262,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Just a different colour, because otherwise we get confused since there are already some red dots in this marked document. Therefore, if there was any -- do we have a green pen? Exceptionally we'll use green."
+    },
+    {
+      "id": 263,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Marks]"
+    },
+    {
+      "id": 264,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 265,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you please now also put a \"VRS\" in green.",
+      "examination": "cross"
+    },
+    {
+      "id": 266,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "[Marks]",
+      "reply_to": 265
+    },
+    {
+      "id": 267,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The purpose of your cordon was to prevent any contact between the men from -- or the people from Srebrenica and the members of the VRS; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 268,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was the assignment that we were issued, yes.",
+      "reply_to": 267
+    },
+    {
+      "id": 269,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, let's see whether there are no mistakes in this drawing. Witness, Mr. Groenewegen, I see that you have drawn a line above where you said the refugees were, and that was the cordon separating the refugees from the -- from the BSA soldiers. That's how you explained it to us. Have I understood you well?"
+    },
+    {
+      "id": 270,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, you certainly did, but it's my opinion -- excuse me. I apologise."
+    },
+    {
+      "id": 271,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "But what we see, as a matter of fact, you have located the BSA soldiers in green, then immediately in the vicinity we see the circle where you said the refugees were, and then above that we see that there is the cordon you said that separated them from the soldiers. Now, that sounds all rather illogical to me, because I would have expected a line between the refugees and the soldiers and not a line above the location where both the soldiers and the refugees are as you drew it. Looking closer at this picture, Mr. Groenewegen, I see that there was a -- there was a circle in which you put some little dots as well indicating that there were soldiers there from closest to the refugees, and then I see a kind of a parabolic structure below the circle. Can you follow me?"
+    },
+    {
+      "id": 272,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I can certainly follow you, and perhaps I can clarify. All this confusion is not necessary at all, because the photograph is simply one moment, and this took throughout the day. This was a lot of turmoil. The crowd kept moving and there was a lot of pulling and pushing. And in the end the idea is to put a little line or a dot to indicate a site, and that's not really possible on a single photograph."
+    },
+    {
+      "id": 273,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. You say that what you marked earlier might not be exactly the same in time as what you marked as where the cordon has been separating the Serb soldiers from the refugees."
+    },
+    {
+      "id": 274,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] That's correct. It basically shifted throughout the day along metres."
+    },
+    {
+      "id": 275,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Perhaps for those purposes, Mr. Lukic, it would have been better to have used a clean photograph, because we're now apparently mixing up matters in terms of time, which we should avoid. Please proceed."
+    },
+    {
+      "id": 276,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It's our break time, Your Honour. I think it's our break time."
+    },
+    {
+      "id": 277,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is our break time. I agree with you. Mr. Groenewegen, we will take a break of 20 minutes and we would like to see you back after that. You may follow the usher."
+    },
+    {
+      "id": 278,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 279,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We take a break, and we resume at 20 minutes past 12.00."
+    },
+    {
+      "id": 280,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could the witness be escorted into the courtroom."
+    },
+    {
+      "id": 281,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, you may proceed."
+    },
+    {
+      "id": 282,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you. I will briefly go back to my earlier question where the witness agreed that he had told the Prosecutor that the first time he mentioned the separation of refugees was in the Blagojevic case. Your Honour, I would like to call up 1D907, because I'd rather have the witness see the summary statement and not the transcript."
+    },
+    {
+      "id": 283,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "The interpreter did not catch the page of the document."
+    },
+    {
+      "id": 284,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could you repeat the page number, Mr. Lukic."
+    },
+    {
+      "id": 285,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Well, I haven't actually mentioned it yet in this statement. We need page 3 in English, the fourth paragraph from the bottom. That's where we will begin. And in the B/C/S version that's page 4 as well, the third paragraph from the top. These are segments of the witness statement where the witness discusses the question that was pointed out to him. I will now read out a portion of it. In the previous paragraph we see that this is the 11th of July, 1995 that is being discussed here. However, during the trial the witness recalled that it was, in fact, the 12th of July. And then later on where he mentions the 12th of July in the statement, that should actually be the 13th of July, but we can also confirm this with the witness. So let me quote: \"Later that day, the VRS buses began to take away the refugees. These were normal public transport buses. The refugees were not split up on that day. They were driven off in the direction of Bratunac. I did not see them having to hand over their possessions. No refugees were moved during the night.\""
+    },
+    {
+      "id": 286,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, is this part of your statement -- in fact, does it relate to the 12th of July, 1995, in fact?",
+      "examination": "cross"
+    },
+    {
+      "id": 287,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I know that there was some confusion at the time about the dates, so any date that's stated here should be one day later.",
+      "reply_to": 286
+    },
+    {
+      "id": 288,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Now, in the next paragraph --",
+      "examination": "cross"
+    },
+    {
+      "id": 289,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, just for my understanding, is this a follow-up on what we had before the break about what the witness had not told any earlier?"
+    },
+    {
+      "id": 290,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Your Honour."
+    },
+    {
+      "id": 291,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "It's my recollection that was about being forced on the buses."
+    },
+    {
+      "id": 292,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 293,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Not on separation."
+    },
+    {
+      "id": 294,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, but this is part of his statement that is telling us about the transportation of refugees. I've already told you, we cannot find it here, so you cannot find here. So we cannot show it in the statement, something that's not mentioned. And the other parts of the statement is telling about other stuff."
+    },
+    {
+      "id": 295,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. You introduced it as dealing with the separation of the -- but if you want to deal with it like this, I think the Chamber would have preferred if the parties would have agreed on what the witness exactly had not said before, but please proceed."
+    },
+    {
+      "id": 296,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Except for me, Mr. Lukic. If you say it's not said -- mentioned here, I'm not quite sure why we are being shown this statement."
+    },
+    {
+      "id": 297,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Because Your Honours told me that you would rather see the statement than the quotation by the Prosecution."
+    },
+    {
+      "id": 298,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "I understand that, but you answered us at that time. You said that point is not mentioned in the statement."
+    },
+    {
+      "id": 299,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 300,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "So producing the statement is not going to help us on that point because it is not there."
+    },
+    {
+      "id": 301,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I don't know how --"
+    },
+    {
+      "id": 302,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "One way of doing it --"
+    },
+    {
+      "id": 303,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "-- to show that it's not mentioned."
+    },
+    {
+      "id": 304,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I suggested clearly that you agree with it. I mean, if you have 20, 30, 40 pages where something is not mentioned, or any the previous testimonies, I take it that's there as well, then we should go through hundreds of pages of testimony to find out. Why not read it, agree with the Prosecution on it, and if there's any disagreement, present that to the Court instead of -- we're not going to read or go with a witness through many, many pages in order to find out what's not in there. Verification is not necessarily done in the way you're doing it now."
+    },
+    {
+      "id": 305,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "In the last trial Mr. McCloskey entered this into the record. Today it hasn't been done. it was not done today. So I thought that I should then follow up on that."
+    },
+    {
+      "id": 306,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. McCloskey happens to be in the courtroom. Mr. McCloskey."
+    },
+    {
+      "id": 307,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Mr. President. I have been wondering where this statement came from. I now hear that I said it before, and I will check the -- the record on that, and if I wasn't mistaken, we'll have an agreement for you by the end of the day."
+    },
+    {
+      "id": 308,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let's see whether that help us out. Mr. Lukic, you may proceed. I'm not encouraging you to proceed in the way you did."
+    },
+    {
+      "id": 309,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you. We will move on to a different topic. However, we still need to use this paragraph from the statement."
+    },
+    {
+      "id": 310,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is what you said in this statement, in the paragraph that I have just read out, is it correct that on the first day, the men were not separated from the women and children?",
+      "examination": "cross"
+    },
+    {
+      "id": 311,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I stated that at the time. Now I don't remember it as well, but this must be correct.",
+      "reply_to": 310
+    },
+    {
+      "id": 312,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 313,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I'm trying to find again your quote, but the first day was what exactly, because ..."
+    },
+    {
+      "id": 314,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Sorry, I didn't catch this."
+    },
+    {
+      "id": 315,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Where you said --"
+    },
+    {
+      "id": 316,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "12th."
+    },
+    {
+      "id": 317,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Is it correct that on the first day --"
+    },
+    {
+      "id": 318,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. That's 12th of July, 1995."
+    },
+    {
+      "id": 319,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 320,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Since there was some confusion, and the Prosecution used that also --"
+    },
+    {
+      "id": 321,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "That's what you referred to."
+    },
+    {
+      "id": 322,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "-- during the first day and the second day."
+    },
+    {
+      "id": 323,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Please proceed. I think Mr. Mladic ..."
+    },
+    {
+      "id": 324,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 325,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would now like briefly to read out to you something that was stated by another member of the DutchBat.",
+      "examination": "cross"
+    },
+    {
+      "id": 326,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, you know that it's the habit in this courtroom to first ask questions of the witness. It may be that you have done already, but before you put the testimony of another witness to this witness, you should first elicit his own evidence on the matter."
+    },
+    {
+      "id": 327,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[No interpretation]"
+    },
+    {
+      "id": 328,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Were members of the Army of Republika Srpska present when the first refugees began to leave, or actually, when they started to take them away in buses?",
+      "examination": "cross"
+    },
+    {
+      "id": 329,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, absolutely.",
+      "reply_to": 328
+    },
+    {
+      "id": 330,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know who decided to begin with the transport of people out of Srebrenica?",
+      "examination": "cross"
+    },
+    {
+      "id": 331,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot state anything about that.",
+      "reply_to": 330
+    },
+    {
+      "id": 332,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would like to quote a portion of our transcript, this trial's transcript, and I don't know if we can pull it up in e-court, the transcript of the 25th of April, 2013.",
+      "examination": "cross"
+    },
+    {
+      "id": 333,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Which page number, Mr. Lukic?"
+    },
+    {
+      "id": 334,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] We need page 10381. I will have to additionally ask the witness this:"
+    },
+    {
+      "id": 335,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "On the second day, did the civilians want to leave Potocari?",
+      "examination": "cross"
+    },
+    {
+      "id": 336,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "There were civilians that definitely wanted to leave, and we noticed that there were people who did not want to leave.",
+      "reply_to": 335
+    },
+    {
+      "id": 337,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "On the second day when the transport of people out of Srebrenica began, were members of the Army of Republika Srpska present?",
+      "examination": "cross"
+    },
+    {
+      "id": 338,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "They were present on that day, too, yes.",
+      "reply_to": 337
+    },
+    {
+      "id": 339,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I don't see that we have the transcript page in e-court, so I will read it out."
+    },
+    {
+      "id": 340,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "[Microphone not activated]... in e-court, Your Honours, and I consulted if the Chambers would like us to show this."
+    },
+    {
+      "id": 341,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We have it on our screen. We have our own access to e-court, so I can read it at this moment, but if there's any need to have it on the screen for anyone else, then Madam Registrar most likely would be able to get it on the screen. But you can start reading the relevant portion."
+    },
+    {
+      "id": 342,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour. I quote from line 10 to line 20, from the page 10381: \"Q. Sir, on the second morning of the evacuation, that time period when the Serbs had not yet arrived and the absence of the Serb personnel, would you say that the Bosnian Muslim refugees also exhibited eagerness and desire to leave Srebrenica and were not being forced onto the buses at that time? \"A. Yes, they were eager to leave, and I think also because at that time the Serbs forces were not there, only the UN forces. I took the decision to already start the transports.\" [Interpretation] You knew --"
+    },
+    {
+      "id": 343,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "You announced you would read line 10 to 20 and you stopped at line 17."
+    },
+    {
+      "id": 344,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Okay. And -- I'll continue: \"And in my mind, I think also the refugees saw also the opportunity to keep their families together and board the buses and trucks in a normal way without being pushed or kicked or brutalised in any way.\""
+    },
+    {
+      "id": 345,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] You knew Mr. Leendert van Duijn; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 346,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "He was one of the commanders, yes.",
+      "reply_to": 345
+    },
+    {
+      "id": 347,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "At the time, did you know that Mr. van Duijn had decided that the transport should begin on the second day, even before members of the Army of Republika Srpska were there?",
+      "examination": "cross"
+    },
+    {
+      "id": 348,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was undoubtedly true, but I'm not 100 per cent informed of that.",
+      "reply_to": 347
+    },
+    {
+      "id": 349,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could I just check the translation here. Did you say that it may be true or that it was true?"
+    },
+    {
+      "id": 350,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] It's undoubtedly true what was said."
+    },
+    {
+      "id": 351,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I have problems with this translation from the Dutch language. I leave it to that at this very moment. I have a slightly different understanding from -- but I'm not an interpreter, so I should be very careful and do the same as you do and perhaps seek later verification of the translation in this respect."
+    },
+    {
+      "id": 352,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Interpreter's proposal: \"That must certainly be true.\""
+    },
+    {
+      "id": 353,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Which means that the witness does not express his own opinion about whether it's true or not, but he accepts it for being true without being able to confirm. That is what I understood in my own language. Mr. Witness, we were trying to get your words as precisely. I understood your answer to be that that may well be true, but that you were not fully informed about it for the full hundred per cent. Is that what you said, although in slightly different words?"
+    },
+    {
+      "id": 354,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, that is indeed what I meant."
+    },
+    {
+      "id": 355,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Please proceed, Mr. Lukic."
+    },
+    {
+      "id": 356,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 357,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You received an order from your superiors to take active part in the evacuation of people from Potocari; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 358,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can't remember whether we did in fact receive such an order.",
+      "reply_to": 357
+    },
+    {
+      "id": 359,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well.",
+      "examination": "cross"
+    },
+    {
+      "id": 360,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we now please have 1D909 in e-court."
+    },
+    {
+      "id": 361,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "This is your testimony in the Tolimir case. We need page 33 in e-court, and it should correspond on it transcript page number 1198. We will need lines 11 through 15. You were asked at that trial, and I'm going to read this out in English: [In English] \"Q. Thank you. Could you please tell us, did you personally, as a member of the Dutch Battalion in Potocari, help with the evacuation of those who had gathered in Potocari? Was that your official role or did you do it of your own accord? \"A. No. Our superiors told us to do that.\" [Interpretation] Would you now confirm that you had received orders from your superiors to take active part in the evacuation of people from Potocari?",
+      "examination": "cross"
+    },
+    {
+      "id": 362,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "It seems clear to me from the statement that that was how it was, so yes.",
+      "reply_to": 361
+    },
+    {
+      "id": 363,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Do you remember the 12th of July, the 13th of July, what was the temperature like then? Is it correct that the temperature ranged from 32 to 35 degrees Centigrade, that it was really, really hot?",
+      "examination": "cross"
+    },
+    {
+      "id": 364,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, absolutely.",
+      "reply_to": 363
+    },
+    {
+      "id": 365,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "We saw some members of DutchBat wearing shorts as well in the video footage from that time. Was that one of the reasons why the evacuation started earlier? Do you know that today?",
+      "examination": "cross"
+    },
+    {
+      "id": 366,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Based on what I remember at that -- I can't imagine that the heat had anything to do with it. We simply started that day with evacuating people, apparently because we had been ordered to do so.",
+      "reply_to": 365
+    },
+    {
+      "id": 367,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 368,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, could I seek clarification on one issue which is not entirely clear to me yet. Witness, you have heard the statement read by Mr. Lukic about a decision taken to transport Srebrenica people out before the Serb forces had arrived. When you assisted in the evacuation, are you talking about both before the Serbs had arrived? So when we're talking about boarding buses, are we talking about boarding buses also before the Serbs had arrived, or are you exclusively talking about transportation, evacuation, after the Serb forces had arrived?"
+    },
+    {
+      "id": 369,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] No, to be honest, I have to restrict myself to only the subject transporting and evacuating, and whether or not there was -- whether or not any Serbs troops were present, I don't remember anything about that."
+    },
+    {
+      "id": 370,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let me then ask you again. If you say -- if you tell us about how people were boarding buses, was that in the presence of Serb soldiers, or are you talking about persons boarding buses when Serb soldiers were not present?"
+    },
+    {
+      "id": 371,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I can't remember a lot about that any more. All I know is that we started the day evacuating people, but whether we started with or without, I don't know."
+    },
+    {
+      "id": 372,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, if you say some people were forced onto buses, who then forced them onto the buses? Did you?"
+    },
+    {
+      "id": 373,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] That must have been people from the Serb army. So in any case, they were present later that day. I don't really remember whether we started without the army present."
+    },
+    {
+      "id": 374,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Please proceed, Mr. Lukic."
+    },
+    {
+      "id": 375,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 376,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let us just go back to before the evacuation just for a moment. You said today that men, mostly wounded men, were in the factory. Is it correct that almost all men were there at the factory hall? And when Serb policemen who were the first to arrive, when they talked to DutchBat, they asked whether there were men at all, whether there were men there at all, because they hadn't seen any one of them.",
+      "examination": "cross"
+    },
+    {
+      "id": 377,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "You're asking me to answer about a location when I wasn't present there at that moment, so I don't know.",
+      "reply_to": 376
+    },
+    {
+      "id": 378,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So just to make things clear for me, you actually do not know where the men from Srebrenica were?",
+      "examination": "cross"
+    },
+    {
+      "id": 379,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think that this is a fairly unspecific question. All I know is that there were people, men, women, injured on the compound, because they were injured, were ill, and however else it happened on the compound, I can't state anything about that.",
+      "reply_to": 378
+    },
+    {
+      "id": 380,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. Thank you. Did anyone tell you in conversation, perhaps through an interpreter, did anyone from the people of Srebrenica tell you that they wanted to stay on in Srebrenica or Potocari?",
+      "examination": "cross"
+    },
+    {
+      "id": 381,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I never had such a conversation with anybody.",
+      "reply_to": 380
+    },
+    {
+      "id": 382,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you heard of any such message being conveyed to any one of your colleagues, namely that people wanted to stay on in Srebrenica or Potocari?",
+      "examination": "cross"
+    },
+    {
+      "id": 383,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Again, I didn't hear any of that at that location.",
+      "reply_to": 382
+    },
+    {
+      "id": 384,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you see a woman who had fainted? Because she was attacked by people from Srebrenica, when she said that men were in the factory because she was outside the compound. Did you see her?",
+      "examination": "cross"
+    },
+    {
+      "id": 385,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I saw several people, women, fainting, but I'm not sure whether this was the specific woman that you're referring to.",
+      "reply_to": 384
+    },
+    {
+      "id": 386,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. You say that you saw the place where the men were being separated on the second day. A total of about 400 men were singled out in your view; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 387,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. That 400 will have been estimate in the busy crowd that there was that day, and at a certain point the men were kept separate in a house that was not finished yet.",
+      "reply_to": 386
+    },
+    {
+      "id": 388,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you give us an approximate figure as to the total number of men in Potocari?",
+      "examination": "cross"
+    },
+    {
+      "id": 389,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, none whatsoever.",
+      "reply_to": 388
+    },
+    {
+      "id": 390,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. Thank you. Now I would kindly ask you to briefly focus on the moment when bread was brought to Potocari. It was read out to us today that you thought that that was done for propaganda purposes. On page 2973 in the Popovic case, on the 25th of October, 2006, you said that Serb television filmed the delivery of bread and that the TV crew arrived together with the soldiers. Also you said -- and actually it's 2973 also in lines 21 through 24 in the Popovic case. 1D908 is the number. Page 16 in e-court. That's what we need. Lines 21 through 24. [In English] I'll read in English: \"Q. And you also said that when the crew stopped filming this distribution of bread, that they continued to distribute the bread to the refugees. \"A. Yes, that is correct.\" [Interpretation] So do you agree today that the distribution of bread continued after the filming was over?",
+      "examination": "cross"
+    },
+    {
+      "id": 391,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I assume that the version in front of me is the best documentation of the event.",
+      "reply_to": 390
+    },
+    {
+      "id": 392,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. You stayed in Potocari after the 13th, all the way up until the 21st of July, 1995, and we see that in your statement too. Is it correct that not many things stayed behind after the people left Potocari?",
+      "examination": "cross"
+    },
+    {
+      "id": 393,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "By whom do you mean exactly?",
+      "reply_to": 392
+    },
+    {
+      "id": 394,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The people who came from Srebrenica to Potocari brought some things along. After they left, is it correct that there was not much left behind once they had left?",
+      "examination": "cross"
+    },
+    {
+      "id": 395,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I can't estimate that because I don't know how much the people had before they left, so as far as what remained behind, I can't say whether it was a lot or just a little bit.",
+      "reply_to": 394
+    },
+    {
+      "id": 396,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] 1D908, please. Could we have that in e-court. It's probably already in e-court. We need page 17 in e-court. It should correspond to page 2974 in the Popovic transcript. I'm going to read outlines 4 through 9: [In English] \"Q. Can you remember if a lot of things were left behind after the refugees left, whether there were many things left behind by the refugees close to the, or around, the UN base in Potocari? \"A. As far as I can remember, I recall people had very few belongings with them, and that therefore very few goods were left behind in the compound.\""
+    },
+    {
+      "id": 397,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Does this refresh your memory, and do you remember that very few things were left behind once these people left?",
+      "examination": "cross"
+    },
+    {
+      "id": 398,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, once again this is the version in front of me of what I stated at the time. Perhaps it would be wise to read this out first before asking the question.",
+      "reply_to": 397
+    },
+    {
+      "id": 399,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Witness -- Witness, this is not the way we proceed. We always ask the question, and only if the answers are different from answers given earlier or need further explanation, then we put your earlier answer to you. So Mr. Lukic is invited to proceed in that way if need be."
+    },
+    {
+      "id": 400,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 401,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Again, the 12th of July, 1995, in Potocari you saw different uniforms on the armed Serbs; isn't that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 402,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 401
+    },
+    {
+      "id": 403,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "There were different colours and different patterns; isn't that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 404,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "In any case, different colours, I can't state very much anymore about different patterns. I know that there were many of the same patterns, yes.",
+      "reply_to": 403
+    },
+    {
+      "id": 405,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it also correct that some armed Serbs wore camouflage uniforms only partly?",
+      "examination": "cross"
+    },
+    {
+      "id": 406,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's also correct. Yeah.",
+      "reply_to": 405
+    },
+    {
+      "id": 407,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "There were also units with dogs there. Do you remember that?",
+      "examination": "cross"
+    },
+    {
+      "id": 408,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, absolutely.",
+      "reply_to": 407
+    },
+    {
+      "id": 409,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know today, for instance, these uniformed, armed men with dogs, did they belong to the army or the police?",
+      "examination": "cross"
+    },
+    {
+      "id": 410,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I can't state anything about that.",
+      "reply_to": 409
+    },
+    {
+      "id": 411,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also saw different emblems on uniforms. Is that correct as well?",
+      "examination": "cross"
+    },
+    {
+      "id": 412,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct as well.",
+      "reply_to": 411
+    },
+    {
+      "id": 413,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you agree with me that you did not know which unit or which formation anyone belonged to from among the armed Serbs in Potocari, that you only knew who the members of the DutchBat were?",
+      "examination": "cross"
+    },
+    {
+      "id": 414,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I know exactly who the members of the DutchBat were. I know who were behind the cordon as refugees, and to me it was plausible that the rest of the people who were also present pertained to the Bosnian Serb Army or the police.",
+      "reply_to": 413
+    },
+    {
+      "id": 415,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You wanted to prevent panic from breaking out amongst the population of Srebrenica; isn't that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 416,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. That's what I would have liked, yes.",
+      "reply_to": 415
+    },
+    {
+      "id": 417,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "It was not an easy process; right? Is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 418,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct.",
+      "reply_to": 417
+    },
+    {
+      "id": 419,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it also correct that there was the danger of a stampedo, people stampeding towards the buses, if you will?",
+      "examination": "cross"
+    },
+    {
+      "id": 420,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct, yes.",
+      "reply_to": 419
+    },
+    {
+      "id": 421,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it also correct that at one moment all refugees, as you had put it, all of them wanted to get to the buses?",
+      "examination": "cross"
+    },
+    {
+      "id": 422,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "In any case, there was a group that wanted to get to the buses, yes. Whether it was all of them, well ...",
+      "reply_to": 421
+    },
+    {
+      "id": 423,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] 1D908 is what we already have in e-court. We need page 23 in e-court. It corresponds to transcript page 2980 from the Popovic case, the 25th of October, 2006. We'll start with line 24, since our questions so far have already dealt with the preceding part. We should move on to the next page after we're done with lines 24 and 25: [In English] \"Q. ... that at one point, all the refugees, everybody, wanted to go towards the buses?\" Answer on the next page: \"That's correct.\""
+    },
+    {
+      "id": 424,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Do you remember now that at one moment everyone, all the refugees, wanted to get to the buses?",
+      "examination": "cross"
+    },
+    {
+      "id": 425,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, at a certain point when everybody around you that you can see wants to get to the buses, then I would refer to everyone, yes.",
+      "reply_to": 424
+    },
+    {
+      "id": 426,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it correct that DutchBat members together with members of the Army of Republika Srpska made this cordon to separate the Srebrenica inhabitants from the buses?",
+      "examination": "cross"
+    },
+    {
+      "id": 427,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. That's not how I would describe it. The cordon was at first instance by DutchBat.",
+      "reply_to": 426
+    },
+    {
+      "id": 428,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Tell us what was the purpose of that cordon then if only members of the DutchBat were in it?",
+      "examination": "cross"
+    },
+    {
+      "id": 429,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "To be able to keep the refugees separate from the Bosnian Serb forces.",
+      "reply_to": 428
+    },
+    {
+      "id": 430,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] We need 1D908. We have it on the screen. Page 24 in e-court, which should be transcript page 2981, lines 7 through 10. I will read it out again. [In English] \"Q. Am I correct if I say that you, together with members of the Army of Republika Srpska, were forming human barrier which was separating the refugees from the place where the buses were? \"A. That's correct.\""
+    },
+    {
+      "id": 431,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Do you remember now that you stated during the Popovic trial that this barrier between the buses and the inhabitants of Srebrenica was actually made by members of the DutchBat and members of the VRS together?",
+      "examination": "cross"
+    },
+    {
+      "id": 432,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "The actual human barrier consisted primarily, in fact, alone of DutchBat'ers, and that the VRS people were a united movement and surfaced everywhere. I can't state much about that. All I can state is about my immediate surroundings that we as DutchBat stood there as a human barrier.",
+      "reply_to": 431
+    },
+    {
+      "id": 433,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well.",
+      "examination": "cross"
+    },
+    {
+      "id": 434,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "[Microphone not activated] ... seek clarification on one matter. Witness, you are talking about the cordon which separated the refugees from the Bosnian Serb soldiers, and you are talking about a human barrier separated the refugees from the place where the buses were. Now, is that the same you're talking about, I mean when you made that cordon which you depicted earlier on the map saying where it was exactly. Were the buses there already at that time, or are these two separate events? That's not entirely clear to me."
+    },
+    {
+      "id": 435,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] No. The cordon or barrier would have been the same location where we as DutchBat'ers stood between the refugees and the buses were further behind that."
+    },
+    {
+      "id": 436,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "So when you're talking about the human barrier together with the soldiers and the cordon separating the Bosnian forces from the refugees, you're talking about the same event?"
+    },
+    {
+      "id": 437,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, absolutely."
+    },
+    {
+      "id": 438,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic."
+    },
+    {
+      "id": 439,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 440,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it correct that members of the Dutch Battalion checked in order to make sure that the people from Srebrenica were not moving anywhere they wanted to?",
+      "examination": "cross"
+    },
+    {
+      "id": 441,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct, yes.",
+      "reply_to": 440
+    },
+    {
+      "id": 442,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Because of this barrier between the civilians and the Army of Republika Srpska, is it correct that VRS soldiers were not -- did not have any contact with the civilians before members of the DutchBat would let civilians through in order to get to the buses?",
+      "examination": "cross"
+    },
+    {
+      "id": 443,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, that's not true, because in the end while we were a human cordon, we saw that man that I later saw executed be removed from that crowd by the VRS. So that means that ultimately they couldn't -- we weren't capable of keeping them separated.",
+      "reply_to": 442
+    },
+    {
+      "id": 444,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So in that cordon, sometimes you were in front of and sometimes you were behind the armed Serbs; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 445,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "In front of and among, yes.",
+      "reply_to": 444
+    },
+    {
+      "id": 446,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "After the armed members of the Serb formations arrived, did you move around Potocari on your own or were you always in a group? And mean I you personally.",
+      "examination": "cross"
+    },
+    {
+      "id": 447,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was primarily in a group, but a few times I was alone within -- within view of the group.",
+      "reply_to": 446
+    },
+    {
+      "id": 448,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was the farthest that you ventured out away from the group?",
+      "examination": "cross"
+    },
+    {
+      "id": 449,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I couldn't tell you that.",
+      "reply_to": 448
+    },
+    {
+      "id": 450,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you just give us an idea? What is it 5 metres, 10 metres, a hundred metres, a kilometre way away?",
+      "examination": "cross"
+    },
+    {
+      "id": 451,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Let's say it was between 20 and 50 metres.",
+      "reply_to": 450
+    },
+    {
+      "id": 452,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It's time for the break."
+    },
+    {
+      "id": 453,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Mr. Lukic, it's time for the break. Could I first ask the witness be escorted out of the courtroom."
+    },
+    {
+      "id": 454,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, in the meanwhile, where are we, not in terms of minutes, but in terms of ..."
+    },
+    {
+      "id": 455,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Over one-half."
+    },
+    {
+      "id": 456,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Over one-half. Yes. Then we'll take the break, and we'll resume at 20 minutes to 2.00."
+    },
+    {
+      "id": 457,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "The Chamber was informed there was a preliminary matter to be raised. Mr. McCloskey."
+    },
+    {
+      "id": 458,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. Mr. President, I was able to clear up in speaking with Mr. Lukic the example he used of my reference in questioning the witness, and I simply can tell you what Mr. Lukic was reading from was me reading a 92 ter summary of the Popovic testimony of this witness, and that's where I had said that this -- he acknowledged that he had not mentioned in any previous statement that the Muslim population who refused to get on the buses were first insulted and then forced onto the buses. That was me providing a complete statement for that Court. Now, where I got that was in Blagojevic trial where Mr. Karnavas had brought that fact out through the witness in cross at page 1038. So apparently Mr. Lukic picked me over Mr. Karnavas but Mr. Karnavas was the -- actually brought the evidence out. I was just repeating it in a 92 ter summary."
+    },
+    {
+      "id": 459,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. One thing may be clear, I was a bit concerned about it being a 92 ter summary because that's not evidence. Let that be clear, and I also had specific reasons, therefore, to see whether there was any way to verify that, which now apparently Mr. McCloskey has explained to us where the quote came from. I -- yes, I leave it to that at this moment. Could the witness be escorted into the courtroom. I notice, Mr. Mladic, that you were speaking very much aloud when we entered the courtroom. I didn't know what you said, but let it be clear that the instruction is no loud speaking when the Chamber is there. I repeat that at this moment and leave it to that, not knowing yet what you said. If that would ever come to my knowledge, then we'll further consider whether this is the right approach."
+    },
+    {
+      "id": 460,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, you said you were halfway. In terms of time, you are a little bit beyond halfway in your time estimate. Could you please keep that in mind."
+    },
+    {
+      "id": 461,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 462,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] You testified about a man who was executed. Today on page 8 of the transcript you told us about this, but I would like to ask you now this: How many people -- how many armed people were there around that man who was executed, as you said?",
+      "examination": "cross"
+    },
+    {
+      "id": 463,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Of the three men surrounding him, I know that in any case the man who shot were armed, and I can't say that with any certainty about the other two.",
+      "reply_to": 462
+    },
+    {
+      "id": 464,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Other than the executed man and these three men surrounding him, was there any one else in their vicinity?",
+      "examination": "cross"
+    },
+    {
+      "id": 465,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 464
+    },
+    {
+      "id": 466,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, could we clarify what means \"in the vicinity\"? Earlier you asked even for whether 1 kilometre was still in view. So therefore \"vicinity\" is even more vague. Other not being in the vicinity, at what distance were they approximately, Witness?"
+    },
+    {
+      "id": 467,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I think there was nobody else in the vicinity at 30 to 50 metres."
+    },
+    {
+      "id": 468,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Were there people on the road."
+    },
+    {
+      "id": 469,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, absolutely."
+    },
+    {
+      "id": 470,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Please proceed."
+    },
+    {
+      "id": 471,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 472,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, did you inform anyone on the same day of the incident?",
+      "examination": "cross"
+    },
+    {
+      "id": 473,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, in the evening.",
+      "reply_to": 472
+    },
+    {
+      "id": 474,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who did you report this to, if you can remember?",
+      "examination": "cross"
+    },
+    {
+      "id": 475,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Initially I reported it to a sergeant of mine, and he told me that I should notify Lieutenant Schotman about that. The translation of the name is not entirely correct.",
+      "reply_to": 474
+    },
+    {
+      "id": 476,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "One will still work on it. I can see that from the little sign, but I take it that what you wanted to pronounce is S-c-h-o-t-m-a-n, or is it with an S mental middle? Schotman or Schotsman?"
+    },
+    {
+      "id": 477,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Schotman."
+    },
+    {
+      "id": 478,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "There we are. Yes. Please proceed, Mr. Lukic."
+    },
+    {
+      "id": 479,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Thank you. We uploaded in e-court the Tolimir portion. That's 1D909, which contains a quote from the Blagojevic case. We need page 39 in e-court."
+    },
+    {
+      "id": 480,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were asked whether you had reported that to your superiors at this trial as well, and you replied, and I will quote now from page 9 and on: [In English] \"A. That evening, I reported for the first time on that indent, and that has been noted in the official document. \"Q. Thank you. So there is an official document in respect of that. \"Now, in the Blagojevic case on page 1036, lines 10 through 13, the Blagojevic/Jokic case, in response to the Prosecution's question and I quoted his question: \"'Did you at any time have occasion to report what you had seen?' \"In reply to that you said, I quote: \"'No, not on the same day.' \"And then when you were asked when in line 15 you said: \"'On the next morning.' \"So which of the two is correct, what you have stated today or what you stated in Blagojevic/Jokic case? Thank you. \"A. Thank you to have freshened my memory. It is true that I only reported the next morning.\" [Interpretation] So what is correct? What was it that you reported and when?",
+      "examination": "cross"
+    },
+    {
+      "id": 481,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "It first came up that evening, and I was asked to write down the official version the next morning.",
+      "reply_to": 480
+    },
+    {
+      "id": 482,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So what you said in the Blagojevic case, that you did not report anything on the first day but, rather, only on the following day, is not correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 483,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "The official report did indeed come about only the next morning.",
+      "reply_to": 482
+    },
+    {
+      "id": 484,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "As I understood this in line 15 of the Tolimir transcript, page 1204, you were asked whether at any point in time you had the opportunity to report what you had seen, and you said: \"No, not on that day. On the next morning.\" There is no mention here, would you agree with me, that you reported this incident in any manner on that same day?",
+      "examination": "cross"
+    },
+    {
+      "id": 485,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I see that some unclarity has indeed arisen about that.",
+      "reply_to": 484
+    },
+    {
+      "id": 486,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Do you remember whether Major Franken was informed of this?",
+      "examination": "cross"
+    },
+    {
+      "id": 487,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know that.",
+      "reply_to": 486
+    },
+    {
+      "id": 488,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You described the armed Serbs, so I'd like to ask you whether it is correct that even these men who surrounded the men who had been executed, as you said, wore different camouflage uniforms, that the colours were different and the patterns were different on their uniforms?",
+      "examination": "cross"
+    },
+    {
+      "id": 489,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "I couldn't say anything about that now. Do you mean whether those three men were different?",
+      "reply_to": 488
+    },
+    {
+      "id": 490,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. They were dressed differently.",
+      "examination": "cross"
+    },
+    {
+      "id": 491,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, not as far as I can remember.",
+      "reply_to": 490
+    },
+    {
+      "id": 492,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right.",
+      "examination": "cross"
+    },
+    {
+      "id": 493,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we now have 1D908, please, page -- pages 56 and 57, which should be pages 3013 and 3014 of your evidence in the Popovic case on the 25th of October, 2006. I will read this portion out in English. That's line 25 on page 1 where I begin. We need line 25, and then we will move over to the next page: [In English] \"Q. Later on you were asked to describe the four soldiers whom you say you saw carry out an execution, and you gave this description at page 1035: 'It was camouflage in various shades, various colours.' Did you mean by that that the soldiers were, each of them, wearing different sorts of uniform, different camouflages? \"A. That is correct. \"Q. And rather like the soldiers that you saw arrive first at Potocari, they didn't appear to you to be like ordinary soldiers? \"A. To me, ordinary soldiers are people recognisable by wearing the same attire, and that certainly did not hold true for these men.\""
+    },
+    {
+      "id": 494,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] This quotation raises the issue of whether you saw three men taking part in the murder or four men taking part in the murder.",
+      "examination": "cross"
+    },
+    {
+      "id": 495,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "As is apparent, I remember only three, but apparently there were four. That's the consequence of years passing by.",
+      "reply_to": 494
+    },
+    {
+      "id": 496,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Let us now take a look again at 1D908, e-court page 7 and page 8. We'll start with page 92 -- 2964 in the Popovic case of 25 October 2006. We need line 25, and then we will move over onto the next page: [In English] \"Q. When you first saw that man, the civilian man, in the crowd with Serb soldiers around him, how many Serb soldiers did you see around him in the crowd? \"A. Four. \"Q. Okay. And when you saw the man shot, how many Serb soldiers were standing around him then? \"A. There were also four.\""
+    },
+    {
+      "id": 497,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Would you agree with me that you hadn't seen this incident at all? Rather, perhaps you heard about it from someone else?",
+      "examination": "cross"
+    },
+    {
+      "id": 498,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's your question?",
+      "reply_to": 497
+    },
+    {
+      "id": 499,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it correct that you were not present during this incident that you described?",
+      "examination": "cross"
+    },
+    {
+      "id": 500,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, that is not correct.",
+      "reply_to": 499
+    },
+    {
+      "id": 501,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "These four men or these three men, today you say that you don't know whether they had been armed or not, all three of them. You say that you saw one armed man. Were they armed? What about the fourth person? Who is he? Do you remember that today at all?",
+      "examination": "cross"
+    },
+    {
+      "id": 502,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "Which question do you want the witness to answer,"
+    },
+    {
+      "id": 503,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "\"Were they armed? What about the fourth person? Who is he? Do you remember that today at all?\" Which of the four questions do you want him to answer?"
+    },
+    {
+      "id": 504,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Sorry, Your Honour."
+    },
+    {
+      "id": 505,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "type": "statement",
+      "text": "I suggest you take them one by one."
+    },
+    {
+      "id": 506,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 507,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you remember the fourth man today, or do you not remember him at all?",
+      "examination": "cross"
+    },
+    {
+      "id": 508,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. As it became clear earlier, my memory turned them into three but apparently there were four. And at the incident I was only focusing on the man who shot, so he is the only one that I can say for certain had a weapon.",
+      "reply_to": 507
+    },
+    {
+      "id": 509,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "On page -- actually, you're not sure at all today whether the other two or three men had been armed?",
+      "examination": "cross"
+    },
+    {
+      "id": 510,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. That true. The focus was entirely and purely on the man who shot.",
+      "reply_to": 509
+    },
+    {
+      "id": 511,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "On page 3014, which is page 58 in e-court of this same transcript -- I do apologise. We need page 57, and it corresponds to page 3014 of the transcript of your testimony on the 25th of October, 2006. This is how the question starts, I'll read it from line 11. [In English] I quote: \"Q. Is it also the case that there seems to be some confusion between these four men as to what they were to do and as to who was to carry out the shooting? \"A. As far as I'm concerned, all I can do is suggest, because I don't know the language and I don't know what those men were saying to each other, but it seemed to me that they were hesitating as to who would fire the shot. \" [Interpretation] Is it correct that we see from this testimony of yours that you testified then that if not all of them were armed, several of them were at any rate because there was this dilemma as to who would shoot; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 512,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's correct.",
+      "reply_to": 511
+    },
+    {
+      "id": 513,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "At this point in time, can you tell us with any certainty how many of the men there were armed or not? Can you not say that today?",
+      "examination": "cross"
+    },
+    {
+      "id": 514,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. I'm truly sorry, but I simply can't remember exactly how many men had how many weapons.",
+      "reply_to": 513
+    },
+    {
+      "id": 515,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Was anybody else from the Dutch Battalion present there where you were, and did anybody else see that killing?",
+      "examination": "cross"
+    },
+    {
+      "id": 516,
+      "speaker": "PAUL GROENEWEGEN",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. That was because I had strayed from the road further down alone.",
+      "reply_to": 515
+    },
+    {
+      "id": 517,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Lukic, again these are two questions in one. Can we separate them? Witness, I do understand that from your answer that no other DutchBat member was present where you were. That is an answer to the first question. The second is whether anyone, any other DutchBat member, even not being present at where you were, could have seen the murder."
+    },
+    {
+      "id": 518,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] It's true that I can't answer that second question. All I know from others is that they did not see it."
+    },
+    {
+      "id": 519,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Were there any persons within such a distance that they could have possibly seen it despite of whether you can confirm that they did or did not?"
+    },
+    {
+      "id": 520,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] No. There were no other people nearby at that point."
+    },
+    {
+      "id": 521,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Does that mean that you say that from a distance of 30 to 50 metres you cannot see someone being killed? Is that ..."
+    },
+    {
+      "id": 522,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] No. I can't say anything about that. I know where I was standing, and that's what I estimate the distance was from where I was standing up to the incident, and who else was around, there were certainly spots from where people could have seen it, but that would be guessing."
+    },
+    {
+      "id": 523,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let me see whether there's not even more confusion than -- one second, please. I understood your previous answer about the 13 -- 30 to 50 metres to be an answer to the question at what distance persons were closest to the event, apart from you, which you say was 30 to 50 metres. Now, your last answer has confused me, because it seems to suggest that you yourself were at a distance of 30 to 50 metres. If that is the case, then please tell us."
+    },
+    {
+      "id": 524,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] It's very difficult for me to estimate the distances from the actual situation."
+    },
+    {
+      "id": 525,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let's then try. Distance between you and me at this moment, were you farther away from the murder than the distance between the two of us?"
+    },
+    {
+      "id": 526,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, somewhat further."
+    },
+    {
+      "id": 527,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Double that distance?"
+    },
+    {
+      "id": 528,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes."
+    },
+    {
+      "id": 529,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "That's approximately what it was? Would the parties agree that it would be something, anything between 20 to 30 metres? My estimate of the distance of myself to this witness is approximately 12 metres. But you can measure it after -- after --"
+    },
+    {
+      "id": 530,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "There are markings on the picture, so I think it's better to apply --"
+    },
+    {
+      "id": 531,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, but we're talking at this moment about the estimates of the witness in accuracy, may be in distances, may be in markings, can be else -- anywhere. I just wanted to focus on this alone at this moment. Mr. Lukic, you're looking at the clock, yes. So am I. Witness, we'll adjourn for the day. Mr. Lukic will need tomorrow most likely another 40 to 45 minutes. Mr. Lukic, that's --"
+    },
+    {
+      "id": 532,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Exactly, Your Honour."
+    },
+    {
+      "id": 533,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes. We'd like to see you back tomorrow, but I can announce already to everyone that Courtroom I is again fully operational, which means that we would like to see you tomorrow morning in Courtroom I at 9.30. You may follow the usher."
+    },
+    {
+      "id": 534,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "We adjourn for the day, and we resume tomorrow, Thursday, the 2nd of May, at 9.30 in the morning in Courtroom I."
+    },
+    {
+      "id": 535,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "to be reconvened on Thursday, the 2nd day of May, 2013, at 9.30 a.m. 22 23 24 25"
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 9.32 a.m."
+    },
+    {
+      "after_utterance": 7,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 13,
+      "text": "WITNESS:  PAUL GROENEWEGEN"
+    },
+    {
+      "after_utterance": 13,
+      "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 16,
+      "text": "Examination by Ms. Hasan:"
+    },
+    {
+      "after_utterance": 33,
+      "text": "[Trial Chamber and registrar confer]"
+    },
+    {
+      "after_utterance": 40,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 41,
+      "text": "--- On resuming at 10.47 a.m."
+    },
+    {
+      "after_utterance": 42,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 74,
+      "text": "[Private session]"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 74,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 206,
+      "text": "Cross-examination by Mr. Lukic:"
+    },
+    {
+      "after_utterance": 232,
+      "text": "[Private session]"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 278,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 279,
+      "text": "--- Recess taken at 12.00 p.m."
+    },
+    {
+      "after_utterance": 279,
+      "text": "--- On resuming at 12.20 p.m."
+    },
+    {
+      "after_utterance": 280,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 453,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 456,
+      "text": "--- Recess taken at 1.20 p.m."
+    },
+    {
+      "after_utterance": 456,
+      "text": "--- On resuming at 1.42 p.m."
+    },
+    {
+      "after_utterance": 459,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 533,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 534,
+      "text": "--- Whereupon the hearing adjourned at 2.17 p.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_1_May_2013.doc"
+}

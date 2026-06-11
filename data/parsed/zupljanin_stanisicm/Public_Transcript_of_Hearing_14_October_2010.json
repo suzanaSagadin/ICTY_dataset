@@ -1,0 +1,4468 @@
+{
+  "case": "zupljanin_stanisicm",
+  "case_id": "IT-08-91-T",
+  "date": "2010-10-14",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Good afternoon, Your Honours. Good afternoon everybody in and around the courtroom. This is case IT-08-91-T, the Prosecutor versus Mico Stanisic and Stojan Zupljanin."
+    },
+    {
+      "id": 2,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. Registrar. May we have the appearances, please."
+    },
+    {
+      "id": 3,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Good afternoon, Your Honours. Belinda Pidwell, Tom Hannis, Selma Sakic, and Crispian Smith for the Prosecution."
+    },
+    {
+      "id": 4,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Good afternoon, Your Honours. For Mr. Stanisic, appearing Mr. Cvijetic and Mr. Eugene O'Sullivan."
+    },
+    {
+      "id": 5,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Dragan Krgovic and Aleksandar Aleksic appearing for Zupljanin Defence."
+    },
+    {
+      "id": 6,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Before we begin, there is something which was raised yesterday to which we wish to return and that is the matter of witnesses in the courtroom before the hearing actually starts. Concerns have been raised as to the possibility of intimidation or discomfort of witnesses who are placed in a courtroom in the absence of the Judges. Such perceived intimidation or discomfort as might occur simply by hearing and or viewing exchanges between or among the parties and the accused, especially in trials of multiple accused persons where a large number of persons may be in the courtroom. In order to avoid such risk of intimidation, perceived or otherwise, or discomfort, and to reduce the witness's stress associated with appearing before the Tribunal, the Trial Chamber having solicited the views of the Victims and Witnesses Section, hereby implements the following procedure for the present trial of the Prosecutor against Stanisic and Zupljanin: Witnesses should always be brought into the courtroom after the Judges have taken the Bench. This applies for the daily opening and closing of the trial, as well as for the breaks between each session. For the efficient use of time, the ushers should ensure that the witness is escorted into court immediately after the entrance of the Judges and conducted out immediately prior to their departure, unless otherwise directed by the Trial Chamber."
+    },
+    {
+      "id": 7,
+      "speaker": "MR. HANNIS",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you very much, Your Honours."
+    },
+    {
+      "id": 8,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Today being the Thursday -- [Microphone not activated] -- I expect that we will -- sorry. Today being Thursday, I expect that we will if it isn't, in fact, in train already, see the OTP's list of witnesses for next week, but is it possible for counsel to indicate whether the schedule anticipates a witness being available for Friday, the 22nd."
+    },
+    {
+      "id": 9,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's next Friday? Yes, we have a full lineup for next week, so if the two witnesses that are scheduled to follow directly after this witness, they are ready to proceed as soon as we are finished, either today or tomorrow or Monday should that occur, and then we have a full lineup for next week as well."
+    },
+    {
+      "id": 10,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Yes. So could the witness please be escorted back to the stand, please. I wasn't sure what Mr. Aleksic was signalling, but now I know. Thank you. Thank you."
+    },
+    {
+      "id": 11,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Witness, again good afternoon to you, sir. I remind you before Mr. Krgovic continues his cross-examination you are still on your oath."
+    },
+    {
+      "id": 12,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Good afternoon, sir.",
+      "examination": "cross"
+    },
+    {
+      "id": 13,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good afternoon.",
+      "reply_to": 12
+    },
+    {
+      "id": 14,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yesterday we were discussing a topic that I won't go back to now, but I asked you about certain appointments in the SJB and the municipal organs following the multi-party elections.",
+      "examination": "cross"
+    },
+    {
+      "id": 15,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] For the purposes of this question, Your Honours, could we please move into private session."
+    },
+    {
+      "id": 16,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 17,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "We are back in open session, Your Honours."
+    },
+    {
+      "id": 18,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 19,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yesterday in response to one of the Prosecutor's questions, you discussed the appearance of certain men in red berets and camouflage military uniforms in the territory of the municipality of Kljuc. In your answer, you said that you believed they were reserve forces of the state security service. With regard to their arrival, did you know that once the war in Croatia broke out, there was significant disturbances of law and order, not only in the territory of the municipality of Kljuc, but elsewhere caused by those soldiers returning home on leave, and that the JNA or the Banja Luka Corps, which I believe was its name at the time, a unit was sent of the military security, i.e., the Red Berets, who were accommodated in the TO building in Kljuc. Their task was precisely as you describe, to man the check-points, to control the reservists and soldiers returning to Bosnia-Herzegovina, and that these were the men in question?",
+      "examination": "cross"
+    },
+    {
+      "id": 20,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think I discussed that yesterday and that I was clear on it. I designated the time-frame of their appearance when the manoeuvre unit returned from our training at Manjaca, that is when they appeared, and they remained in the area of the municipality until the war broke out. I said that some information I had was that they were members of the state security service. I base that on the fact that they were seen together with reservists of the state security service in Kljuc. They did not cooperate with us. They worked separately. They submitted or wrote up no reports on our premises, and it all pointed to the fact that they were reservists of the state security service. It is true though that there were problems with soldiers who acted as volunteers in Croatia when the war broke out there. The same situation applied to all municipalities bordering on that area because they were frequently drunk and fired their weapons.",
+      "reply_to": 19
+    },
+    {
+      "id": 21,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Those people sported camouflage military uniforms much as other soldiers and the exception was the red berets they had?",
+      "examination": "cross"
+    },
+    {
+      "id": 22,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I said that yesterday. They had no insignia, no ranks on their uniforms. They simply had red berets with three-coloured emblem or coat of arms.",
+      "reply_to": 21
+    },
+    {
+      "id": 23,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When this synchronised attack executed by the Muslim formations on Kljuc occurred, they were not present in Kljuc, if I understood your testimony correctly?",
+      "examination": "cross"
+    },
+    {
+      "id": 24,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "At that point in time I couldn't spot them when the things were taking place. In the course of those few days, I was overloaded in terms of work and I moved about quite a lot. I do believe I didn't see them though, and I believe that by that time the units of the 30th Division had arrived as well as certain officers who came to the Municipal Assembly building.",
+      "reply_to": 23
+    },
+    {
+      "id": 25,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In your further responses to the Prosecutor, you discussed a situation which preceded that, preceded 1991 and 1992. I wanted to ask you something about those events which occurred before the 27th of May. You are certainly familiar with the fact that in April 1992 Muslim deputies from the SDA and MBO established their own so-called Muslim municipality of Kljuc in the cultural hall; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 26,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did hear of the establishment of the Muslim or Bosniak municipality of Kljuc. I don't know whether it actually took place in the cultural hall. But I do know that on the 27th, their seat was in Pudin Han and I believed I said so when I was examined by the Prosecutor.",
+      "reply_to": 25
+    },
+    {
+      "id": 27,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you certainly know that the Muslim TO was formed headed by Omer Filipovic who was appointed to that position by the Muslim Croat part of Bosnia-Herzegovina to act as TO commander?",
+      "examination": "cross"
+    },
+    {
+      "id": 28,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The operational information that was at the disposal of the crime prevention police indicated that they had already formed a parallel Territorial Defence. As I specified in my previous testimony, that was one of the reasons why such people were being brought in for interrogation.",
+      "reply_to": 27
+    },
+    {
+      "id": 29,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I wanted to show you a document which is 2D45. I just wanted to hear whether you have any comment on the events described therein. Sir, this is a statement given by Omer Filipovic. He is discussing the very events you are testifying about. I wanted to ask you about certain details mentioned in it.",
+      "examination": "cross"
+    },
+    {
+      "id": 30,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we please zoom in."
+    },
+    {
+      "id": 31,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You can see here, this is a statement given by Omer Filipovic. We have his personal information including his membership in ... Next he is being questioned about the establishment of para-military formations, arming, preparation, and executing certain operations, and it is for that reason that I provide the following statement to the security organs. If I understood your answer correctly, all of those who were brought in were questioned about these particular circumstances. They were all suspected of having organised and prepared para-military formations and an armed rebellion; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 32,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. I explained the four elements I was aware of that were used to apprehend those people. There may have been some other elements but the four is what I can recall.",
+      "reply_to": 31
+    },
+    {
+      "id": 33,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have a look at the beginning of the statement. It says that there is a need to protect the national interests of the people he represents, and he states that he participated in the formation of the Bosnian municipality of Kljuc which had to be a parallel institution to the Serb municipality of Kljuc. You are aware of the fact that the Serb deputies walked out of the Municipal Assembly of Kljuc and that as of April they no longer participated in the work of the Assembly; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 34,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot recall the month but I do know that they walked out. Because those deputies walked out, a Crisis Staff was established having all the prerogatives of the Assembly. I don't know whether it was in late April or in early May.",
+      "reply_to": 33
+    },
+    {
+      "id": 35,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Please let us go to the next page of the document."
+    },
+    {
+      "id": 36,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have a look at the first paragraph which says: \"In that regard, after the TO Bosnia-Herzegovina headquarters were formed ...\" It's the first paragraph from the top. The second sentence in that paragraph: \"In that regard, after the TO Bosnia-Herzegovina headquarters were formed, since the existing TO staff in Kljuc did not express its loyalty to Bosnia-Herzegovina, we suggested that a separate municipality in Bosanska Kljuc be established that would be loyal to Bosnia-Herzegovina.\" That was actually the operative information you had available to you?",
+      "examination": "cross"
+    },
+    {
+      "id": 37,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "We didn't have such detailed information, but generally speaking I did know that they had begun establishing parallel authorities once their deputies had walked out.",
+      "reply_to": 36
+    },
+    {
+      "id": 38,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Krgovic, it appears to me that we have been through this process at several occasions already, and I do not believe that the formation of parallel TOs and municipal structures on the Bosnian side in Kljuc is contested by the Prosecution. So I wonder if it is necessary to pursue this line of questioning."
+    },
+    {
+      "id": 39,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Unfortunately, Your Honour, if you recall my previous examination, the Prosecutor disputed precisely the facts I am examining the witness about now. If the Prosecution is not objecting to it, I will stop here, but I believe the position of this witness is different concerning the establishment of the TO and the sequence of events which trigger the war in Kljuc. I believe his concepts are quite different to those of the Prosecution and this is what I'm trying to get out of the witness."
+    },
+    {
+      "id": 40,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ms. Pidwell."
+    },
+    {
+      "id": 41,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, there's obviously different versions of these events depending on the witness and their view and their perspective. The Prosecution's position is this all relates to the tu quoque argument, and it's been dealt with numerous times by numerous witnesses from the Prosecution and being cross-examined by the Defence, and it's really not a situation where we can stipulate to the fact but it's a matter which, in my submission, really is not relevant to the issues which Your Honours will need to determine at the end of the case."
+    },
+    {
+      "id": 42,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Well, do you -- but do you take issue with the establishment of a Bosnian TO and municipal parallel structure in Kljuc at the time?"
+    },
+    {
+      "id": 43,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No, no."
+    },
+    {
+      "id": 44,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "There we go."
+    },
+    {
+      "id": 45,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "And if I may add to what Judge Harhoff and Ms. Pidwell have said, like everything else, I'm considering what -- the questions being asked in relation to what the foundation of this trial is, namely the indictment, and what the Prosecution set out to prove, what the Defence -- I am not clear as to how this is of any assistance at all, Mr. Krgovic."
+    },
+    {
+      "id": 46,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, the Prosecution's position that in the month of April or rather as of April onwards in certain municipalities of Bosnian Krajina on the basis of a plan which had been determined before that was a joint criminal enterprise and a criminal plan to take over the power in the municipalities listed in the indictment and that after that, without any reason, the armed forces, the JNA, and later on the Army of Republika Srpska and paramilitaries and TO attacked villages, that is to say, civilian undefended targets, which were innocent and thus caused a conflict, the logical consequence of were expulsions and murders and everything else that was happening. What I want to prove through this witness by presenting him these documents and going with him through the chronology of the events which preceded the conflict is to show that the exact opposite was happening. If you remember, I did that with the previous witness who was talking about the Prijedor municipality and this witness can help us. There was nothing until the moment when there was a synchronised attack in the territory of the Kljuc municipality specifically, the synchronised attack against police, the army, and the roads on the 27th of May, 1992. Everything that followed after that, all the actions carried out by the army primarily and the police as well were directed against this, to break down the armed rebellion and thus defuse the situation in the territory of the Kljuc municipality. And through all the documents that I'm presenting I want to show precisely that. If the OTP wants to stipulate what I just said, then I'm not going to ask a single question. We have to deal with the indictment, Your Honours. This is elaborated both in the indictment and in the OTP's pre-trial brief."
+    },
+    {
+      "id": 47,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 48,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Krgovic, we think we see where you are going, but it would assist if your questions could be trimmed of the peripheral issues and you go straight to the heart of what we think we see you are seeking to establish."
+    },
+    {
+      "id": 49,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 50,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, I will have to be more direct in my questions, though you discussed this to some extent during the examination-in-chief. Can you confirm the following: Up to the 27th of he May, or perhaps a day before, when these soldiers were taken prisoner in Vrhpolje or --",
+      "examination": "cross"
+    },
+    {
+      "id": 51,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Crvljani.",
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "That's right, Crvljani. In the territory of Kljuc municipality, there were no incidents at all; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 53,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No incidents in the sense of attacks against the population except that the public law and order were sometimes disturbed by shots fired from weapons and that was done by the army coming from the front. There were no other problems.",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In connection with this, I will read to you a part of the statement of Mr. Omer Filipovic. Can you please have a look at the last paragraph at the bottom of the page. In the penultimate paragraph he talks about being assigned by Colonel Hasan Efendic and then to paraphrase it he talks about a task which the TO units were supposed to carry out and prevent unannounced military columns of the former JNA to pass.",
+      "examination": "cross"
+    },
+    {
+      "id": 55,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] And then can we please move on to the following page, it's page 3."
+    },
+    {
+      "id": 56,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where it says: We were ordered to prevent and not allow the passage of unannounced police MUP BiH, I cannot remember the exact formulation, but I believe that it says that all available means should be used when carrying out this task. The directive is with other documents at the hall in the Pudin Han village. I informed the president of the Executive Board Asim Egerlic about the contents of this directive. These actions which were carried out in the territory of the Kljuc municipality on the 27th of May were obviously synchronised and well organised; isn't that so?",
+      "examination": "cross"
+    },
+    {
+      "id": 57,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I think that I made this clear. I tried to describe this 27th of May from 9 to 11 and I think I included these actions. It all took place on that same day, and then eventually when the criminal service and other people who were in charge of questioning, they established or at least it turned out that it had been organised.",
+      "reply_to": 56
+    },
+    {
+      "id": 58,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The Prosecutor showed a list with the names of people to be brought in and who had been brought in to you, and do you recognise the names of some of these people whom you heard participated in some of these events? And now I will read to you several names from a document where the establishment of some of the units and formations are mentioned, and let us see if there are any names which you discussed with the Prosecutor yesterday. On the first page the following persons are mentioned, members of --",
+      "examination": "cross"
+    },
+    {
+      "id": 59,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Can we have the document, please."
+    },
+    {
+      "id": 60,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] 2D45."
+    },
+    {
+      "id": 61,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you have a look at the bottom of the page, formed a staff which included myself and the following members, Amir, reserve lieutenant; Djeric, Nevsat [phoen], who was also a reserve lieutenant; whereas another man was supposed to carry out the duty of reserve organ. Do you remember that these names figured on the list shown to you yesterday by the Prosecutor? If I can I will show you --",
+      "examination": "cross"
+    },
+    {
+      "id": 62,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot see that on the screen but as far as I remember the Prosecutor showed me a list with other people. These were the people for whom I said were brought in to the police station first, Bekram [phoen] Saric and I don't know others. I think that this Nevsat Djeric, and Avdic, Amir, did not figure on this list though I do know these men.",
+      "reply_to": 61
+    },
+    {
+      "id": 63,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Can we please show 788, it's a 65 ter document. 788, can it please be shown to the witness. I think it was admitted yesterday but I don't have the number because I did not note it, Your Honours. Can we please see the following page of this document."
+    },
+    {
+      "id": 64,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "Exhibit P1648."
+    },
+    {
+      "id": 65,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 66,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please have a look at the first two name, Amir Avdic and Nevsat Djeric?",
+      "examination": "cross"
+    },
+    {
+      "id": 67,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, these are precisely in the persons whom Mr. Filipovic mentions in his statement, and then further on page 2 --",
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] But can we now please show the following page of this document."
+    },
+    {
+      "id": 69,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Here are Mirzet Zukanovic, Gromilic Aziz, and the whole line as far as I remember they are from the Krasulje unit, and this person Aziz, Gromilic, was in charge of the attack on the military column in Krasulje; isn't that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 70,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, after that unfortunate day, the 27th of May, the first intelligence indicated that Aziz Gromilic had done that. He was a retired employee of the Special Brigade from Belgrade and he hailed from the Krasulje region.",
+      "reply_to": 69
+    },
+    {
+      "id": 71,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I just want to correct for the transcript, page 13 line 18 it states that it records what Mr. Krgovic saying as the answer and my recollection is that formed part of the question. I'm happy to be corrected on that but that was my, as I listened to the interpreters."
+    },
+    {
+      "id": 72,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "You are completely right. Thank you for that. [Interpretation] Could we now go back to 2D45 now, please. We need page 4."
+    },
+    {
+      "id": 73,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You are certainly aware that criminal inspectors while processing this determined the composition and the structure of these units as well as the men who were their members, to a large extent at any rate?",
+      "examination": "cross"
+    },
+    {
+      "id": 74,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know when exactly I learned this, but when talking to the chief of the crime service and other people, after some time, I knew that they were drafting criminal file and that they knew the structure of every Muslim TO by municipality wherever the Muslim population lived. During the questioning they learned who the commanders of these Territorial Defence companies were. Now, when I learned that, was it only at the time when the criminal report was being drafted or not, I cannot remember. But our operatives did have the information.",
+      "reply_to": 73
+    },
+    {
+      "id": 75,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Can we now please show page 6 of this document in the B/C/S and this is a page with ERN number -- no, fine. This is the correct page."
+    },
+    {
+      "id": 76,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you please have a look at the last paragraph at the bottom of the page where it says: \"According to my estimates, that is, I counted on a unit of about 12 to 1300 men.\" This approximately corresponds to the number of men who were processed and sent to Manjaca, it was around 1166 as far as I remember the lists that the Prosecutor presented to you. So the information from the statement and the number of people who were sent to Manjaca after they were processed; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 77,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know, the Prosecutor didn't show me that, but I know that somewhat more than 1.000 people were sent to Manjaca.",
+      "reply_to": 76
+    },
+    {
+      "id": 78,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I think that this is already an exhibit, so could we please show the witness Exhibit P972. Can we please show the next page in this document."
+    },
+    {
+      "id": 79,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You can see here that it's the list of prisoners from the territory of Kljuc municipality in the Manjaca camp for prisoners of war.",
+      "examination": "cross"
+    },
+    {
+      "id": 80,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] And can we now please show the last page of this document. I think it's 32."
+    },
+    {
+      "id": 81,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Here you can see it. The number is 1161. Can you tell us as it says by authorisation of, it doesn't look to me as the signature of Vinko Kondic?",
+      "examination": "cross"
+    },
+    {
+      "id": 82,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is the signature of Zeljko Dragic, the chief of the group for crime suppression from the Kljuc SJB.",
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And another question, now that we are discussing this, these men who were being brought in to be questioned, they mainly wore civilian clothes; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 84,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 83
+    },
+    {
+      "id": 85,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Can we now please go back to page 7 of the document 2D45."
+    },
+    {
+      "id": 86,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Look at the fifth paragraph from the top, Mr. Filipovic says in his statement: \"The men were dressed in civilian clothing. I saw only one in camouflage uniform.\" It's evident that although they had weapons, they all wore civilian clothes and this corresponds to what you said about the men who were brought in wearing civilian clothes; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 87,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I won't go back because you described to the Prosecutor how you brought Mr. Filipovic to the municipal building, so I'll just ask you to look at page 11 of this document.",
+      "examination": "cross"
+    },
+    {
+      "id": 89,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "The B/C/S, [Interpretation] English. It's page 0018567. That's the ERN number."
+    },
+    {
+      "id": 90,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In the third paragraph, the second sentence says that: \"Mr. Filipovic in a telephone conversation with Mr. Galic asked for an extension of the dead-line because I learned later about the conditions of disarmament only after the telephone conversation with Asim Avaric [phoen] from the hospital. As an argument for the extension and not as a form of blackmail, I asked about the men in Crvljani and Colonel Galic agreed provided I bring this men back by 1700 hours. \"As this conversation took place at around 1300 hours, I said since he knew that it took a runner longer to reach Crvljani but he did not change the dead-line and after that the area of Velagici, Pudin Han, and Hadzici were shelled.\" You were aware, sir, that Colonel Galic was already there, that the 30th Partisan Division had already arrived; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 91,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I said that the members of the division were there but I didn't know who their commander was. I didn't know that Colonel Galic was in command.",
+      "reply_to": 90
+    },
+    {
+      "id": 92,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you know that Mr. Omer Filipovic negotiated about all this with Colonel Galic directly and other men from the military because this was an attack on a military column?",
+      "examination": "cross"
+    },
+    {
+      "id": 93,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know that. I know that I was given the task, as I explained yesterday, of taking over Omer in Busije which is halfway between Pudin Han and the Ropac point at the exit to the town. I took an official vehicle and there were Muslim territorial units on both sides, and I think that Omer negotiated with Vinko because Vinko told me to bring him safely to the municipal building. That's where he was taken over by Vinko. They entered the building and I never saw Omer again. I can only say that they informed us from the hospital that Asim Egerlic who had been the president of the Executive Council had been wounded and arrived at the hospital, and that later on it was established that he had inflicted the wound on himself only in order to reach the territory of the Serbian municipality of Kljuc. That's what the story was.",
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'll make a small digression now.",
+      "examination": "cross"
+    },
+    {
+      "id": 95,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we have P962.07."
+    },
+    {
+      "id": 96,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I think we need to go into private session."
+    },
+    {
+      "id": 97,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, Your Honour, we can go into private session."
+    },
+    {
+      "id": 98,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "1 2 3 4 5 6 7 8 9 10 11 Pages 15953-15955 redacted. Private session. 12 13 14 15 16 17 18 19 20 21 22 23 24 25"
+    },
+    {
+      "id": 99,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "We are back in open session, Your Honours."
+    },
+    {
+      "id": 100,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 101,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, this is the file cover, the file concerns a number of people.",
+      "examination": "cross"
+    },
+    {
+      "id": 102,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] And could the witness please be shown page 0205-2230."
+    },
+    {
+      "id": 103,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, we have people here ranging from number 1 to number 8. It is Goran Amidzic, Ilija Krcmar, Bosko Uncanin and so on. The first person was a 2nd lieutenant and the rest are conscripts.",
+      "examination": "cross"
+    },
+    {
+      "id": 104,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could we turn to the next page, please."
+    },
+    {
+      "id": 105,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "There is a total of 12. I wanted to read out the first full paragraph following the names.",
+      "examination": "cross"
+    },
+    {
+      "id": 106,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Interpreter's note: It is the next page in English."
+    },
+    {
+      "id": 107,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 108,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "\"The above-mentioned conscripts are providing combat security at the check-point in the village of Velagici in the municipality of Kljuc. The conscripts come from the military police platoon VP 630 and the intervention platoon making part of a larger engineering unit stationed in the village of Lanista near Kljuc. The basic task of the unit on the 1st of June, 1992, was to assemble civilians who surrendered themselves as well as those captured by the army. All those people were transported to the collection centre in Kljuc.\" Sir, do you recall that next to the police check-point in Velagici, there was a military check-point as well?",
+      "examination": "cross"
+    },
+    {
+      "id": 109,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "In the course of those few days, at the basic check-point occasionally there were also members of the military police.",
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you know that there was a dugout there where the intervention platoon was that was part of a larger engineering unit. They were at that check-point when the conflict broke out?",
+      "examination": "cross"
+    },
+    {
+      "id": 111,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I didn't know that because at that time I didn't leave the town because there was the great influx of all those people being brought in and because of the events in the town itself. It was for that reason that I didn't go to the check-point.",
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yesterday in response to Madam Prosecutor's questions, you provided an answer about something you were aware of. In relation to that, I wanted to show you a document and I wanted to ask you whether this is what you were aware of.",
+      "examination": "cross"
+    },
+    {
+      "id": 113,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] The ERN number is 0205-2251 of the same document."
+    },
+    {
+      "id": 114,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "This is an Official Note which makes part of this case file. In the introduction we see how it came about that it was drafted, and then it says: \"On the 3rd of June, 1992, authorised police personnel attended the scene accompanied -- of the military police, accompanied by an investigating judge of the municipal court in Kljuc by the name of Jovo Dimitric.\" Next it is stated that evidence was found which was secured and it is stated then that nearby the school there is a military police check-point of the military post 6430 Kljuc. An on-site investigation was carried out by Jovo Dimitric, the investigating judge. The note states also that the corpses were transported to a depression or a valley near the old railway tracks and in the course of the on-site investigation, the scene of crime was photographed by scene-of-crime officers. This partially tallies with what you knew about the event; does it not?",
+      "examination": "cross"
+    },
+    {
+      "id": 115,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I said yesterday as well that I learned about this event later on. In the town I ran into that lieutenant, Amidzic, who shared with me what I told here yesterday. When the Prosecutor contacted me for the first time, my counsel was Jovo Dimitric, who by now has passed away. He told me that he attended the on-site investigation. He also said that the military organs investigated the whole case, that they were aware of who the people involved were and that they had submitted a criminal report against them.",
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And they were then arrested and prosecuted?",
+      "examination": "cross"
+    },
+    {
+      "id": 117,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I know, that's how the army handled it.",
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And this event in Velagici has absolutely nothing to do with the police or the SJB in Kljuc; is that correct? This was exclusively a crime committed by army members which was processed by the army?",
+      "examination": "cross"
+    },
+    {
+      "id": 119,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's what was ascertained.",
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yesterday, the Prosecutor asked you about certain times and showed you a document and these are the duty rosters.",
+      "examination": "cross"
+    },
+    {
+      "id": 121,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Could the witness be shown P966 for that purpose."
+    },
+    {
+      "id": 122,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Microphone for counsel, please."
+    },
+    {
+      "id": 123,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] The next page, please."
+    },
+    {
+      "id": 124,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Excuse me, Mr. Krgovic, what is the number of the document, P?"
+    },
+    {
+      "id": 125,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] P966. For ease of reference for the witness, I wanted to provide him with a hard copy and I will call up the corresponding pages in e-court. Could we please just hand these over to the witness."
+    },
+    {
+      "id": 126,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Krgovic, is this a convenient point to take the break?"
+    },
+    {
+      "id": 127,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, Your Honour. I just wanted to ask whether the witness could peruse the document over the break. He was asked yesterday about Dusan Vejin and perhaps during the break he can look for that name. I'm not sure whether the person in question was an active-duty policeman or a reservist, otherwise I believe this is a good time for the break."
+    },
+    {
+      "id": 128,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, so the witness can take the document with him to look at during the break. Yes, sir, you had your hand up, you wanted to say something? I thought I saw you raise your hand, I just wondered if you wanted to say something before we took the break?"
+    },
+    {
+      "id": 129,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, if possible, I would like to stop providing my opinion about these log-books. I have been sufficiently clear yesterday, I believe, and perhaps the Defence should put specific questions to me in that regard. I'm trying to jog my memory, Dusan Vejin was indeed our reserve policeman, but whether he was there when the war broke out or whether he had left before that, that's something I don't know. I only know that Vejin, Aleksandar, his son was employed by the police later on. So I would need specific questions about these documents. If you have ascertained that he is not here then he is not here. But he was our reservist and his son became a policeman later on. I know many people by other means and channels. You know that thousands of people went through the reserve force, whether Dusan Vejin at that point in time was a member of the reserve force as the things were taking place, that's something I can't say. But if is he in the books then he was there. If he's missing from the books then he wasn't. That's the extent of what I wanted to say."
+    },
+    {
+      "id": 130,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 131,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "That's the gist of it. I went through the whole list between May and the end of the year and Dusan Vejin does not figure on that list. I just wanted you to agree with me on that point, if possible?",
+      "examination": "cross"
+    },
+    {
+      "id": 132,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know whether maybe his son's name is in there. He was also a policeman who then later on also left, and again I don't know when in that case either.",
+      "reply_to": 131
+    },
+    {
+      "id": 133,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "So we think we've disposed of that question. Yes, anyway, could the witness -- yes, Mr. Krgovic?"
+    },
+    {
+      "id": 134,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, that's all I wanted to ask about that particular man, but I will have some other questions about the list concerning specific dates and people."
+    },
+    {
+      "id": 135,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "So you still would wish for him to peruse it over the break? Yes, so could the usher escort the witness out and we would then leave the Bench."
+    },
+    {
+      "id": 136,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "We'll return in 20 minutes."
+    },
+    {
+      "id": 137,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Before the witness comes in, we received the witness list for next week with the estimates for the Prosecutor and for Stanisic Defence. Mr. Krgovic, are you in a position to give us the estimates for Zupljanin's Defence on ST-064 and ST-024, ST-197, and ST-221?"
+    },
+    {
+      "id": 138,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, for the first two witnesses scheduled for next week we think that we would need half an hour for each of them. For ST-064 and ST-024. As for ST-197, three hours, and as for ST-221, we would need one session."
+    },
+    {
+      "id": 139,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Sorry, Your Honours, it's ST-220 that is the last witness that's coming."
+    },
+    {
+      "id": 140,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Then we could have a problem for next week because if I add a little bit for redirect and a little bit for Judge's questions, we could add up to 30 hours for next week. That's a little bit over the edge, I would say, and this is not included the overflow we will probably have from this week, so we have a problem there."
+    },
+    {
+      "id": 141,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, it's been scheduled so that we don't have a break. Now, obviously scheduling is not an exact science and the witnesses will simply start one after the other. They've all been advised that there has to be some kind of flexibility in the time that they spend here. We bring them up suitably in enough time to proof them and then they are aware that they may or may not start on a particular day. But we are bringing the witnesses up so that there are no gaps in this trial."
+    },
+    {
+      "id": 142,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. Thank you."
+    },
+    {
+      "id": 143,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Given the overestimates of the cross-examination which we've been experiencing over the last few months, we are bringing more witnesses than we think necessary, but it has proven to be -- to work out on average right at the end of the day."
+    },
+    {
+      "id": 144,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay, thank you. We'll see."
+    },
+    {
+      "id": 145,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 146,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The Prosecutor asked you questions about some names so I want to go through that and ask you about certain names and whether they figure on this list and also about certain dates which are mentioned here. You will agree with me that Dusan Vejin is not listed as a member of police from May 1992 onwards to the end of the year?",
+      "examination": "cross"
+    },
+    {
+      "id": 147,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Further on I will ask you to have a look at page which is marked with 3210, and the ordinal number is 81.",
+      "examination": "cross"
+    },
+    {
+      "id": 149,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "3 --",
+      "reply_to": 148
+    },
+    {
+      "id": 150,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "210. It's in the right-hand corner. 0629-3210.",
+      "examination": "cross"
+    },
+    {
+      "id": 151,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "3210.",
+      "reply_to": 150
+    },
+    {
+      "id": 152,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Number 81. I'm thinking of Zeljko Radojicic. Do you remember that yesterday you mentioned that he was a member of the reserve police forces?",
+      "examination": "cross"
+    },
+    {
+      "id": 153,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I did say so.",
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you please have the column which registers his times of discharging duty. It seems that from the 25th of May to the end of May he was not on duty because this row is empty?",
+      "examination": "cross"
+    },
+    {
+      "id": 155,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So he was not on duty? This is what follows from the duty roster; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 157,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot claim that he was not, but if I look at the way in which this duty roster was kept, it seems that he was not.",
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you now please have a look at a page which lists the duty rosters for the month of June. It's page 0629-5226.",
+      "examination": "cross"
+    },
+    {
+      "id": 159,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please have a look at number 110 for the 1st of June. You will see that according to the duty roster Radojicic was not on duty on that day, the 1st of June, 1992; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 161,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also mentioned another man, Aleksandar Vejin. Can you please have a look at number 113. You will also see that on the 1st and 2nd of June he was also not on duty?",
+      "examination": "cross"
+    },
+    {
+      "id": 163,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can we now go back to the page 3214, please.",
+      "examination": "cross"
+    },
+    {
+      "id": 165,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "32 --",
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "14. It's the list with people who were on duty in the month of May, and the number 3214 is in the right-hand corner?",
+      "examination": "cross"
+    },
+    {
+      "id": 167,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Under number 127, Aleksandar Vejin, it follows from this that as of the 24th of May he was not working or was not on duty; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 169,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Can you see the little arrows down here?",
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "cross"
+    },
+    {
+      "id": 171,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It's probably an arrow that is on this other page. Do you see the arrows pointing up to the last service of Vejin, at least that's what I have on my page.",
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Excuse me, that's for Djakovic.",
+      "examination": "cross"
+    },
+    {
+      "id": 173,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Check-point 2206 and then it's entered by mistake, and then there are these arrows here, so probably he worked on these days as registered here.",
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Until the 28th but he did not work on the 29th, the 30th, and 31st; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 175,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Let me clarify this, I'm not certain but most probably. Vejin and the other one, Zeljko, because they are from the area, were at the site up there when deputy Stojakovic got killed, and they all jumped out of the van and they sustained some slight injuries so maybe they were absent on these days. I am not certain but this just occurred to me now.",
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "That was to be my follow-up question. You have anticipated my question. I intended to ask you precisely about that. So thank you for that, I don't think you will need the duty roster, nor will I present the other duty rosters to you, that was all I had in connection with that. Just one thing, are you aware of Mica Todorovic? Are you familiar with him? I did not find such a reserve policeman on these lists?",
+      "examination": "cross"
+    },
+    {
+      "id": 177,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, as far as I know.",
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I will move to another topic. You can leave it because I didn't find him in any of the lists. We can stipulate that with the OTP but let me move to another subject. The Prosecutor showed you a document which was an announcement of the Crisis Staff from the period when the armed rebellion broke out in the territory of the Kljuc municipality, and in one of your answers you mentioned the defence command of the town. I will show you some documents.",
+      "examination": "cross"
+    },
+    {
+      "id": 179,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] So could we please now present the witness Exhibit 2D47."
+    },
+    {
+      "id": 180,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "It's a document dated the 30th of May, 1992, in which the defence staff of the town, the Kljuc Crisis Staff of the Kljuc municipality --",
+      "examination": "cross"
+    },
+    {
+      "id": 181,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I see it only in English.",
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please have a look at the left half of the screen. The defence staff of Kljuc and the Crisis Staff are issuing certain orders. As far as I know, precisely because of these incidents, the armed rebellion and the organised attack of Muslim formations in the territory of Kljuc municipality, the defence command of the town was formed and it took over of all civilian and defence duties and became the leading authority in the territory of Kljuc municipality; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 183,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I heard that the defence command of the town existed and I think that the commander of the defence was Marko Adamovic, or perhaps Bosko Lukic, one of these two. And that there were many officers there. I didn't know these others. I know these two.",
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And how did this operate at the local level? Can you tell us that? Did they in fact take over because the state of war had been practically proclaimed in the territory of the Kljuc municipality, and according to the Law on National Defence, the defence command of the town was established and they took on the responsibility for the entire functioning of the municipality; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 185,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Believe me, I cannot give you a definite answer as there were also the units of the 30th Division, as I said, and I know that our defence command of the town also existed. There was Marko Adamovic, I think he was a captain, and Bosko Lukic as well, they were there. They had been active duty officers in the TO staff even before the war. I know that they had some units of theirs.",
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The Prosecutor also asked you when talking about the people who were brought in to the SJB station in the town and the Nikola Mackic school, and as I understood your answer, the squad commander or any of your people ever sent you a report that would state that the police used force while treating these people; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 187,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did not receive such reports from members of the police, but I could see that citizens were attacking the Muslim citizens who were being brought in. This is why I said when I was summoned by the president of the municipality that they couldn't work in the municipality, that there was a lot of noise, that there was also fighting, and I yesterday said that I once fired a shot up in the air from a pistol in order to intimidate the mass of people and to chase them away.",
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And as far as you know, members of the police did not use force or maltreat these people who had been brought in, neither at the police station building or at the Nikola Mackic school; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 189,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "As for the Nikola Mackic school, I cannot assert that because I was prevented from entering there. I said that these were the members of the White Eagles when I went there. But I entered through a different door and I let out some people from a classroom. They had already been interrogated and they were supposed to go back to Sanica, so I let them go because they had been interrogated and they were just waiting to see what would happen with them. So I entered through a different door which was in the upper part of the school. And at the police station, while I was there and working there, I did not see that members of the police acted in such",
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Therefore you could not report anyone further along the chain of command about such incidents if you did not have such information; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 191,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right.",
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The Prosecutor also asked you about the transport of some people from Sanica or from the school in Sitnica to Manjaca. Some people went on foot and basically you said what you heard, what was hearsay. You do not have any direct knowledge about the way these people were transported and who escorted them; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 193,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I do not have any direct information. After the task was carried out, I learned this from the commander of the reserve station in Sitnica, Lako Anicic. I believe that I said so yesterday, namely that such an order had been issued by the Crisis Staff and that Chief Kondic relayed this information to him because they had no buses. They had transported the troops some place.",
+      "reply_to": 192
+    },
+    {
+      "id": 194,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know that this departure for Manjaca was organised by the army. At the head of the column was an officer and at the tail was an army truck in case that someone could not walk all the way, the idea was to have the truck pick up such people and transport them and that the escort in addition to the members of the reserve police station included some soldiers?",
+      "examination": "cross"
+    },
+    {
+      "id": 195,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know that.",
+      "reply_to": 194
+    },
+    {
+      "id": 196,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The Prosecutor put a number of questions to you about the functioning of communications in the pre-war period. I will now deal with what we are interested in here and that is what the situation was in the war time period. You will agree with me that after the conflict, the war broke out, the transmission line to Jajce was cut off so that there were problems with electric power and that there were power failures very frequently until early October when Jajce was liberated and the power line was re-established?",
+      "examination": "cross"
+    },
+    {
+      "id": 197,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think I said yesterday that we did have such problems with electricity. I don't recall until when, but now that you mentioned the liberation of Jajce, I know it was October. I know that there were frequent power cuts. There was this main power line where Kljuc received electricity from the direction of Jajce and there was a smaller one from the direction of Petrovci. I know that later on a power line was built from the direction of Petrovac, it was about 40 kilometres long, in order to provide a better power supply for the municipality.",
+      "reply_to": 196
+    },
+    {
+      "id": 198,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yesterday you were asked some questions about the special telephone lines. A special telephone is in effect an ordinary telephone but the number is protected, it has a special treatment, special protection in the post office, or rather the switchboard?",
+      "examination": "cross"
+    },
+    {
+      "id": 199,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I clarified this yesterday, we called it the special, \"specijal,\" it was a special telephone, it had three digits and it was connected to the regular network, the regular post office network but it was a protected line, and the president of the municipality and the president of the committee, the secretary of the secretariat all had such telephone lines, and there were certain internal instructions that were issued about its use. I also mentioned that this telephone was in the office of the chief in the Kljuc public security station.",
+      "reply_to": 198
+    },
+    {
+      "id": 200,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if there is a power failure in the post office and all telephone lines are down, this telephone suffers the same fate as all the other telephone lines; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 201,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, if there is a power failure in the post office then no one in town has electricity. However, the post office did have a generator, so that emergency lines could be used when the generator was working.",
+      "reply_to": 200
+    },
+    {
+      "id": 202,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When it comes to the sending of reports, you did not participate in the drafting or the writing, the compiling of reports, did you?",
+      "examination": "cross"
+    },
+    {
+      "id": 203,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Could you clarify your question, what do you mean by participating?",
+      "reply_to": 202
+    },
+    {
+      "id": 204,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The Prosecutor showed you several documents yesterday emanating from Kljuc municipality. You did not participate in drafting or receiving these documents, did you? You only have second-hand knowledge about these documents, that's what I was getting at.",
+      "examination": "cross"
+    },
+    {
+      "id": 205,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Perhaps he could be a little bit more specific about which documents are being referred to here."
+    },
+    {
+      "id": 206,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes. [Interpretation] 65 ter 843."
+    },
+    {
+      "id": 207,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is this the document you referred to? In general you did not participate in the criminal investigations carried out by the police, did you?",
+      "examination": "cross"
+    },
+    {
+      "id": 208,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Look at the addressee here, the Security Services Centre SSJB?",
+      "examination": "cross"
+    },
+    {
+      "id": 209,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 208
+    },
+    {
+      "id": 210,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The chief of the sector of the public security services was Bulic, was he not?",
+      "examination": "cross"
+    },
+    {
+      "id": 211,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't remember who it was, but the public security services sector when it comes to the public security service would include both the police and the crime prevention service. That was public security. I don't know how you expand this abbreviation but the title Security Services Centre is clear, but it did not go to the state security sector but to the public security sector. That's what this means.",
+      "reply_to": 210
+    },
+    {
+      "id": 212,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Microphone, please."
+    },
+    {
+      "id": 213,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 214,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So this document is from the domain of public security?",
+      "examination": "cross"
+    },
+    {
+      "id": 215,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Maybe later on they sent it to the state security, I don't know, but I can't say because this is the first time I've seen this document here in The Hague.",
+      "reply_to": 214
+    },
+    {
+      "id": 216,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The Prosecutor showed you the reply to a letter but not the letter to which was a reply. It says re your dispatch 11-1/02-2-441 of the 17th of November, 1992. It is actually a response from the letter that arrived from the centre; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 217,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, when it comes to subject, we are referring to a dispatch from the centre, and it's number such and such, probably the Security Services Centre in Banja Luka was asking for information of this kind and that's why we are referring to the centre.",
+      "reply_to": 216
+    },
+    {
+      "id": 218,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes, that's what I wanted to ask you?",
+      "examination": "cross"
+    },
+    {
+      "id": 219,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I asked you to put specific questions to me and not to confuse me.",
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'll show you the dispatch now.",
+      "examination": "cross"
+    },
+    {
+      "id": 221,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] So can the witness be shown 2D021950 please. 2D021950."
+    },
+    {
+      "id": 222,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "These are two linked documents.",
+      "examination": "cross"
+    },
+    {
+      "id": 223,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I only see it in English.",
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, this document is a already on the 65 ter list but without the number, so you can find the English version of this document. It's 65 ter list 841, but it doesn't contain the number. You can't see the number up there, the reference number. Yes, now we have the translation. But the Serbian version does not correspond to the English. The right-hand version is all right. Yes. Can we zoom in, please."
+    },
+    {
+      "id": 225,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You can see here on the screen in the upper left-hand corner dispatch number 11-1/02-2-441. And that is the number referred to in the previous document. The document was addressed to all the public security stations in the region, to the criminal investigations services and the chiefs for their information. Do you agree?",
+      "examination": "cross"
+    },
+    {
+      "id": 226,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's what it says here.",
+      "reply_to": 225
+    },
+    {
+      "id": 227,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you see that it's signed by the chief of the sector, Djuro Bulic?",
+      "examination": "cross"
+    },
+    {
+      "id": 228,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 227
+    },
+    {
+      "id": 229,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In the lower left-hand corner, and at the top we see that it was sent by the Security Services Centre, SSJB, the same abbreviation we saw in the previous document. And a request is made here to the following effect: \"By the 22nd of November 1992 at the latest, you need to submit to us details of all serious crimes committed in your area since the 1st of January, 1992, by unidentified perpetrators. The above concerns primarily criminal offences falling within the remit of the criminal investigation services of the CSB, such as murders by unidentified perpetrators, aggravated robbery, narcotics, criminal offences committed by police employees, explosions, acts of sabotage, economic crimes, and other serious criminal offences, and then (war crimes and such-like) if, which have been committed, we reiterate, but unidentified perpetrators. \"For every criminal offence, we need you to submit to us in chronological order details of every specific event, (answers to the golden question of criminology).\" Sir, do you know what the golden rules or rather the nine golden questions of criminology are?",
+      "examination": "cross"
+    },
+    {
+      "id": 230,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Who, what, when, where, with whom.",
+      "reply_to": 229
+    },
+    {
+      "id": 231,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, let me read to you the list and you will tell me whether you agree or not. First what, what happened?",
+      "examination": "cross"
+    },
+    {
+      "id": 232,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, yes, I know those rules.",
+      "reply_to": 231
+    },
+    {
+      "id": 233,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes, but for the sake of the Chamber, I know you know, but for the sake of the Chamber, so the first is who, who is the perpetrator?",
+      "examination": "cross"
+    },
+    {
+      "id": 234,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 233
+    },
+    {
+      "id": 235,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When, when was the crime committed?",
+      "examination": "cross"
+    },
+    {
+      "id": 236,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 235
+    },
+    {
+      "id": 237,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where the crime was committed?",
+      "examination": "cross"
+    },
+    {
+      "id": 238,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 237
+    },
+    {
+      "id": 239,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Do we really require this education, Mr. Krgovic?"
+    },
+    {
+      "id": 240,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, when I finish I will tell you why I'm putting this to the witness because I will have to deal with the next part of my examination in this way, but I don't want to go into the explanation in front of this witness. If you will allow me to continue."
+    },
+    {
+      "id": 241,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "But these \"golden rules,\" he says he knows them, we can take them as a given. Can't you immediately leap over to the question you wish to ..."
+    },
+    {
+      "id": 242,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 243,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So where, who, with what, with whom, why, and who was the object, do you agree that these are the golden rules?",
+      "examination": "cross"
+    },
+    {
+      "id": 244,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 243
+    },
+    {
+      "id": 245,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And basically the chief of the public security sector is telling the station chiefs not to ask stupid questions, but rather to follow the rules of criminology, is that right, in this way?",
+      "examination": "cross"
+    },
+    {
+      "id": 246,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I would know how to answer this dispatch.",
+      "reply_to": 245
+    },
+    {
+      "id": 247,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the answer shown to you by the Prosecutor is not really an adequate answer to this dispatch, is it?",
+      "examination": "cross"
+    },
+    {
+      "id": 248,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "When it comes to the profession, I would only partly agree with you. As far as I know from my conversations with the chief of the crime investigation service, when it comes to the Criminal Code, there was a new crime, war profiteering, so that in answer to these questions, this dispatch sent by my colleague contains an overview of the crimes committed. I don't know all the details that were required. I think that what he asked for was how to proceed if the previously mentioned unidentified perpetrators were military conscripts who were at the front line or if the military police establishes that a person committed a serious crime and they take him off to the war theatre, he is no longer available to the police because a state of war was declared and what laws and bylaws he should be governed by. He was very confused by this and we discussed this. That's why he asked for clarification by a higher authority.",
+      "reply_to": 247
+    },
+    {
+      "id": 249,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I apologise, a correction for the transcript. When we were discussing the person sending the dispatch, he was the chief for the public security service sector Djuro Bulic, he wasn't the chief of the centre, as was originally recorded."
+    },
+    {
+      "id": 250,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In the last paragraph, it is stated: \"In addition, from now on, you are required to send daily dispatches to the criminal investigation service of this CSB detailing criminal events (from the remit of the CSB) occurring within the last 24 hours and action taken in respect of these.\" It is obvious from this that the chief of the sector was dissatisfied with the reporting system. He did not receive sufficient information and that is why he sent to the SJBs this request detailing how cases should be processed; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 251,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that's what the sector chief states in the last part of the dispatch. This did not only have to do with Kljuc, but with all other SJBs within the area of the Banja Luka CSB.",
+      "reply_to": 250
+    },
+    {
+      "id": 252,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you know that when such crimes committed by military conscripts are at hand, when we have these border-line cases involving uniformed individuals, that there existed an instruction issued by the supreme military prosecutors on how to deal with such cases. That instruction was sent to the CSB and the SJBs respectively?",
+      "examination": "cross"
+    },
+    {
+      "id": 253,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It probably existed but I'm not familiar with it. Those who worked on such matters were probably familiar with it, although I cannot recall it. It is possible.",
+      "reply_to": 252
+    },
+    {
+      "id": 254,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you know that on the 30th of June, 30th of July actually, Mr. Stojan Zupljanin sent an instruction to all SJBs on how to act in such matters? I'll show you a document to that effect, but first I'm asking you if you can recall that?",
+      "examination": "cross"
+    },
+    {
+      "id": 255,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, there's no reason for me to doubt your words, although I don't remember it. Perhaps if I could see it now it would help me. It's been 18 years since then and now I need to go back and try to remember everything from the days when I worked in that profession.",
+      "reply_to": 254
+    },
+    {
+      "id": 256,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, just before I move on to the next document I seek to tender this one."
+    },
+    {
+      "id": 257,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Admitted and marked."
+    },
+    {
+      "id": 258,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "As Exhibit 2D115, Your Honours."
+    },
+    {
+      "id": 259,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] 2D25, please."
+    },
+    {
+      "id": 260,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If you recall, you discussed the problem of para-militaries in that area and some such formations being out of control and that there were also armed groups and individuals. As you can see, this was sent on the 30th of July to all SJBs and to the command of the 1st and 2nd Krajina Corps.",
+      "examination": "cross"
+    },
+    {
+      "id": 261,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Page 5, please."
+    },
+    {
+      "id": 262,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have a look at item 7. I'll read it out and I'll try to read it slowly: \"Immediately established the existence and activity of paramilitary formations and inform the competent military security organs and the centre. In view of the fact that the activity of the paramilitary formations is banned, it is the duty of public security stations to offer direct assistance to the military authorities in documenting the criminal activities of such formations and other armed groups and individuals.\" Basically the groups referred to pertaining to the SJB Kljuc have to do with crimes committed by soldiers and uniformed people. Do you recall that?",
+      "examination": "cross"
+    },
+    {
+      "id": 263,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 262
+    },
+    {
+      "id": 264,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the SJBs are directed to document such activities and assist the military authorities; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 265,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 264
+    },
+    {
+      "id": 266,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And concerning any civilians acting as part of such formations, it is exclusively the SJBs that have to process them. These would be the people in uniform but not members of the army, so I believe this is a two-pronged approach, if I'm not mistaken?",
+      "examination": "cross"
+    },
+    {
+      "id": 267,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It clearly states immediately establish the existence and activity of paramilitary formations and inform the competent military security organs and the centre. That is clear.",
+      "reply_to": 266
+    },
+    {
+      "id": 268,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And also that when documenting those activities, assistance should be offered to the military authorities which should primarily be dealing with such instances; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 269,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "As far as I know the crime prevention department did co-operate with the military authorities.",
+      "reply_to": 268
+    },
+    {
+      "id": 270,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I have just one last topic for you and I won't bother you any more with any expert questions as you, I believe, see them. In your prior testimony, you discussed Velagici. The Prosecutor showed you a document in relation to certain events that had to do with combat around Biljani. When answering such questions -- well, perhaps you won't be able to remember, but I have a direct question for you. The murder of some civilians in the school in Biljani was committed by soldiers, members of the military active in that area, I believe, and I think that was your understanding as well?",
+      "examination": "cross"
+    },
+    {
+      "id": 271,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I said so yesterday. I said that I learned of it when I returned from Belgrade. It was in July, and that is when I returned from Belgrade. Now, I could also see on the duty roster that my leave was treated as annual leave, that is what I found during the break. When I returned from Belgrade, I heard of that and I even mentioned the name of a battalion commander saying that his soldiers had done that. And I think the Military Prosecutor's Office in charge has all the documentation about the case. When I later on asked Commander Tomic, he said that the police only acted as a service of sorts to assist them with those who were apprehended.",
+      "reply_to": 270
+    },
+    {
+      "id": 272,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the commander of that military unit was Marko Samardzija, if you recall?",
+      "examination": "cross"
+    },
+    {
+      "id": 273,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Marko Samardzija. I think he was a company commander and I believe he was prosecuted for that; although, I don't know what his fate was eventually. I do remember him because he was an elderly person who had been a teacher.",
+      "reply_to": 272
+    },
+    {
+      "id": 274,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And a few years back he was sentenced to 26 years in prison by a B&H court?",
+      "examination": "cross"
+    },
+    {
+      "id": 275,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I seem to recollect something to that effect although I didn't follow the proceedings.",
+      "reply_to": 274
+    },
+    {
+      "id": 276,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Concerning both of these events, Velagici and Biljani, they were processed by military organs, there was no need for you as the SJB to notify anything in particular because the case was closed by issuing indictments?",
+      "examination": "cross"
+    },
+    {
+      "id": 277,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "As I said both yesterday and today, I learned from the person I referred to just a moment ago, about the first event, and I can see that in the document as well. As for the other event, I also learned of it immediately following my return from Belgrade. We didn't investigate it any further because it had been committed by the army and criminal reports had been submitted. It was known who committed those crimes and we didn't investigate them. I never received any order to that effect. The station chief Kondic was aware of it and probably by way of a regular report, he informed the centre chief, but that is my conclusion.",
+      "reply_to": 276
+    },
+    {
+      "id": 278,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I believe you said that the chief was probably informed of it and that he informed the centre chief perhaps, or that he may not have. I believe that part is missing from the answer?",
+      "examination": "cross"
+    },
+    {
+      "id": 279,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that is what I said.",
+      "reply_to": 278
+    },
+    {
+      "id": 280,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Krgovic, I would like to clarify this, because the transcript says that the witness said the station chief Kondic was aware of it. Mr. Witness, is that correct?"
+    },
+    {
+      "id": 281,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] He was probably aware of these events. He probably knew of them."
+    },
+    {
+      "id": 282,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "You say \"probably,\" you don't know for sure?"
+    },
+    {
+      "id": 283,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I don't know it for sure because we never broached the topic. I only told you who had told me. In the first case I heard it from this officer Amidzic, and as for the other case, I heard it from some of my work-mates most likely, although I don't know from whom."
+    },
+    {
+      "id": 284,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Could we perhaps for a moment have 65 ter 2818 on the screen. Can we enlarge. I wonder whether we should ask for the Cyrillic handwritten version of this document. Do you know who is supposed to have signed this, Mr. Witness?"
+    },
+    {
+      "id": 285,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] There is no need for the handwritten note. I am teacher of Serbo-Croatian and I can read both scripts. It was signed by --"
+    },
+    {
+      "id": 286,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "On the typed version there was no signature, there was only a name. So now you have the signature."
+    },
+    {
+      "id": 287,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Reserve policeman Zeljko Radojicic."
+    },
+    {
+      "id": 288,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. And if you -- when you read the document, which is an Official Note of, if I'm correct, the Kljuc public security station; right?"
+    },
+    {
+      "id": 289,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes, and the note was sent to the crime prevention service because we have the abbreviation K."
+    },
+    {
+      "id": 290,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. And this Official Note concerns that incident in Velagici; right?"
+    },
+    {
+      "id": 291,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes."
+    },
+    {
+      "id": 292,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Okay. When you see this Official Note of the Kljuc public security station, is it still probably that the chief of the station knew about the incident or would you conclude from this Official Note that he must have known?"
+    },
+    {
+      "id": 293,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] This Official Note was received by Zeljko Dragic who was the chief of the crime prevention service or department. It is of security interest and if I had received it, I would have informed the chief."
+    },
+    {
+      "id": 294,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Mr. Krgovic."
+    },
+    {
+      "id": 295,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I have no further questions, Your Honour."
+    },
+    {
+      "id": 296,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 297,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, you may begin, Mr. Cvijetic."
+    },
+    {
+      "id": 298,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good evening, sir.",
+      "examination": "cross"
+    },
+    {
+      "id": 299,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good evening.",
+      "reply_to": 298
+    },
+    {
+      "id": 300,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "My name is Slobodan Cvijetic, I'm one of the defenders in the team of the accused Mico Stanisic. I will ask you a few general questions as my colleague Mr. Krgovic was quite detailed in his cross-examination, and this is a result of some agreement among ourselves that the cross-examinations should be focused in such a way that one of us does the bulk of the work. The first subject that I wish to deal with has to do with a document which was presented to you. It was shown under seal so I don't wish to show it to you. I'll try to remind you of it.",
+      "examination": "cross"
+    },
+    {
+      "id": 301,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] And for the Trial Chamber's reference it is now an Exhibit P1643."
+    },
+    {
+      "id": 302,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Namely, let me tell you what this is about. It was a request to use a dispatch of the Socialist Republic of Bosnia-Herzegovina and that in accordance with it, the current situation as for the manning levels at the requested level has been met or not. The date was the 2nd of October, 1991, and the response was sent with the ethnic breakdown of the employees in the public security station Kljuc?",
+      "examination": "cross"
+    },
+    {
+      "id": 303,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] But, Your Honours, let us move to private session just for a short while to remind the witness of this document because I think he may not remember it."
+    },
+    {
+      "id": 304,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "1 2 3 4 5 6 7 8 9 10 11 Pages 15984-15985 redacted. Private session. 12 13 14 15 16 17 18 19 20 21 22 23 24 25"
+    },
+    {
+      "id": 305,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "type": "statement",
+      "text": "We are back in open session, Your Honours."
+    },
+    {
+      "id": 306,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, we told Ms. Pidwell that we would need one session for this witness, and I think that everything will be concluded within this one session, so I'm not sure if there would be any redirect, but I do not think that we will have sufficient time for another witness."
+    },
+    {
+      "id": 307,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 308,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 309,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, we will continue now. Can you tell us in just a few sentences what was the basic purpose and duty of this sort of unit?",
+      "examination": "cross"
+    },
+    {
+      "id": 310,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "These units from the moment when they were set up in 1988 were called manoeuvre or territorial manoeuvring units because the republican SUP or the public security stations at the time wanted to have units which were trained for preventing any major violations of public law and order, as the regular police had not undergone such kind of training. Special equipment was obtained for these units, visors, special helmets, everything that is necessary for the prevention of major violations of public law and order. So these were units which had been trained to disperse masses of people at stadiums and so on.",
+      "reply_to": 309
+    },
+    {
+      "id": 311,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Within such unit smaller intervention groups could be set up; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 312,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, as far as I can now remember, these units did have intervention squads.",
+      "reply_to": 311
+    },
+    {
+      "id": 313,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, the setting up of such units was only within the competence of the minister of the interior, that's how it was according to the law; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 314,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The republican secretary decided on the activation and use of such units. That's how it was in fact until the war, and equipping these units, that was up to the station centres to provide.",
+      "reply_to": 313
+    },
+    {
+      "id": 315,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let me also say we very often when we say the minister, we include the position as you named it now, the republican secretary was what we today called the minister of the interior; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 316,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 315
+    },
+    {
+      "id": 317,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So there was no other subject in the state who could set up such a unit and have it as part of the MUP; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 318,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 317
+    },
+    {
+      "id": 319,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And specifically as for the unit that you commanded, it had training in Manjaca in early 1992, I believe in February; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 320,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I did not specify. I know that it was winter-time and I think that it was indeed February.",
+      "reply_to": 319
+    },
+    {
+      "id": 321,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The order to go for training and the order to activate the unit could only be issued by the minister Alija Delimustafic?",
+      "examination": "cross"
+    },
+    {
+      "id": 322,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, he was the minister at the time, and I remember the order.",
+      "reply_to": 321
+    },
+    {
+      "id": 323,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the ethnic composition of the unit was multi-ethnic; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 324,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 323
+    },
+    {
+      "id": 325,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "During the training your unit was also visited by the commander Atif Dzafic, that was at Manjaca, correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 326,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 325
+    },
+    {
+      "id": 327,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Thank you. We will now move immediately to the next subject. You talked about check-points and as a form of introduction, I would say that the check-points were set up during an action which was called check-point and was a joint action of the Ministry of the Interior of the Republic of Bosnia-Herzegovina, the federal Secretariat of the Interior, and the Yugoslav People's Army during the year 1991; am I right?",
+      "examination": "cross"
+    },
+    {
+      "id": 328,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "You mentioned something federal and that's what I find confusing, but the check-points were indeed set up as a result of the action Check-Point in 1991. I don't remember when exactly, but I can link it with something, when we completed our training in Manjaca, in the same dispatch or rather another dispatch Alija Delimustafic said that these units should be re-assigned to regular duties in stations from which they had come, so that police service would thereby be reinforced. In accordance with this dispatch, we had a permanent check-point at the Pudin Han crossroads. Pudin Han, Sanski Most.",
+      "reply_to": 327
+    },
+    {
+      "id": 329,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You just anticipated one of my follow-up questions: Was the result of this dispatch and this action the setting up of this specific check-point, but you've already answered it so let me not ask you anything further about it. I just want to expand it. The check-points were then set up at all regional roads and more important intersections; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 330,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 329
+    },
+    {
+      "id": 331,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was the check-point in Velagici also the result of one such order?",
+      "examination": "cross"
+    },
+    {
+      "id": 332,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The check-point in Velagici was not the result of this order but part of the assessment of the security situation in the territory of the municipality. That also included the check-point near Ropac and the check-point at the entrance to Kljuc.",
+      "reply_to": 331
+    },
+    {
+      "id": 333,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "These check-points were also manned by men of various ethnicities; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 334,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, these already were not because the war had broken out on the 27th.",
+      "reply_to": 333
+    },
+    {
+      "id": 335,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I am talking about the time before the 27th?",
+      "examination": "cross"
+    },
+    {
+      "id": 336,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Then it was a misunderstanding, up to the 27th there was just this one check-point, as far as I remember.",
+      "reply_to": 335
+    },
+    {
+      "id": 337,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. We have evidence about that so I will not ask you anything else about this. Please tell me what was the function of the check-points in 1991, just in a few sentences like I asked you to do with one of your previous answers?",
+      "examination": "cross"
+    },
+    {
+      "id": 338,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I think that the dispatch following the action Check-Point specified what were the reasons for setting up the check-points, mainly it was checking the IDs of unidentified and suspect persons, the movements of military and para-military units, seizing weapons carried in public traffic but illegally, also monitoring the flow of goods because there was a shortage of certain goods, and also regular control because there was less -- and there were fewer mobile patrols and traffic controls.",
+      "reply_to": 337
+    },
+    {
+      "id": 339,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, I forgot to alert you but there's no reason for us to remain in private session unless we are already in public session. We can move to the public session now."
+    },
+    {
+      "id": 340,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "We are in public session."
+    },
+    {
+      "id": 341,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] If we are, I will continue."
+    },
+    {
+      "id": 342,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You will agree with me that this purpose of the check-points, or rather, the task of the men manning the check-points did not change from 1991 to 1992; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 343,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Basically as far as the civilian police are concerned, it did not change, but when military hostilities broke out, the military police joined the check-points.",
+      "reply_to": 342
+    },
+    {
+      "id": 344,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. You explained everything else concerning the check-points, so I will move on. About the change of insignia on the uniforms that you spoke about, you will agree with me that the attempt to remove the five-pointed star from public use because it was a communist symbol, that this attempt dates back to the first elections and that all the parties participating in those elections had that on their agenda; do you agree?",
+      "examination": "cross"
+    },
+    {
+      "id": 345,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know precisely whether the five-pointed star was specifically referred to, but I do know that after the multi-party elections, Serbian flags were flown in municipalities with a majority Serb population and that the national symbols were introduced. And as I stated, my municipality was the last one in Bosnia-Herzegovina in which the police changed insignia.",
+      "reply_to": 344
+    },
+    {
+      "id": 346,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, that's why I'm putting this question to you, because I notice that you said in Bosnia-Herzegovina, so you will agree with me that where there was a majority Croatian population, in Herceg-Bosna for example, this change took place earlier as it also did where Muslims were in the majority; am I right?",
+      "examination": "cross"
+    },
+    {
+      "id": 347,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "To the best of my recollection I think that Muslims started wearing Green Berets with their national insignia on them even before the tri-colour was flown anywhere. Whether the Green Berets were part of the police or the army or some para-military unit, I don't know, but they turned up first and I saw them.",
+      "reply_to": 346
+    },
+    {
+      "id": 348,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where the Croatian population was in the majority, the checkerboard coat of arms appeared even before the golden lilies did, if you recall?",
+      "examination": "cross"
+    },
+    {
+      "id": 349,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I observed the checkerboard coat of arms in 1991, but I'm referring to my own municipality when I speak about the change of insignia.",
+      "reply_to": 348
+    },
+    {
+      "id": 350,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, as you mentioned all of Bosnia-Herzegovina, I just wanted to know whether you had any knowledge and whether you were aware that all over Bosnia-Herzegovina insignia were changed?",
+      "examination": "cross"
+    },
+    {
+      "id": 351,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, Kljuc is a place of transit and I saw all sorts of things passing through.",
+      "reply_to": 350
+    },
+    {
+      "id": 352,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. Thank you. Let's move on. We'll just round off a topic that Mr. Krgovic almost completed with you, and it has to do with the termination of employment in the police. First of all, I'll just jog your memory and tell you that the labour law then in force envisioned that in all state administration bodies in the judiciary and in state-owned companies --",
+      "examination": "cross"
+    },
+    {
+      "id": 353,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Are you giving evidence, Mr. Cvijetic?"
+    },
+    {
+      "id": 354,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I will reformulate my question, Your Honour."
+    },
+    {
+      "id": 355,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, if an employee failed to turn up for work for a certain number of days without justification, his employment would be terminated pursuant to the law, and this was the case not only in the police but in all state institutions; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 356,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, that was the law.",
+      "reply_to": 355
+    },
+    {
+      "id": 357,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "It is under a certain number of days, could that be some more precise?"
+    },
+    {
+      "id": 358,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 359,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "To the best of my recollection I think it was five consecutive days without justification, but the witness can confirm if he can remember. Do you recall, witness, how many days it was?",
+      "examination": "cross"
+    },
+    {
+      "id": 360,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I'm not very sure about these legal issues. I think it was three or five consecutive days, not counting Saturdays and Sundays, so if, for example, you failed to turn up on Thursday, you would also have to be absent on Monday and then you could be fired on Tuesday, but you legal men will know that better than I do.",
+      "reply_to": 359
+    },
+    {
+      "id": 361,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So we can clarify that this refers to five working days?",
+      "examination": "cross"
+    },
+    {
+      "id": 362,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 361
+    },
+    {
+      "id": 363,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, is that clear? Thank you."
+    },
+    {
+      "id": 364,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So all that remains is to clarify what it means when we say pursuant to the law, by force of law. So you will agree that this was a case where the law applied automatically, it did not depend on the will of the chief or the head of the unit, this was something that had to apply automatically; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 365,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, when something is mandatory under the law, I don't know what happened in the SUP in the case of these colleagues of mine because I know that some of them had their employment terminated because they did not respond to the call-up. Whether this automatic principle was used or whether it was because of their failure to turn up for work, I don't know what the actual reason was.",
+      "reply_to": 364
+    },
+    {
+      "id": 366,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm only referring to the principle, to the rule. It was not discretionary, it did not depend on the will of a supervisor or senior officer, the law would apply if this was the case; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 367,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, yes, when it comes to the principle, but specifically, I don't know which of these two reasons obtained in our particular instance.",
+      "reply_to": 366
+    },
+    {
+      "id": 368,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. And answering my colleague Mr. Krgovic's questions, you spoke about the establishment of a parallel Muslim municipality of Kljuc, as you termed it, and its bodies, so I will ask you whether you were aware that a Crisis Staff was also established within the scope of these bodies or organs? I'm referring to a Muslim Crisis Staff.",
+      "examination": "cross"
+    },
+    {
+      "id": 369,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "When the Assembly stopped meeting and when the Serbian Crisis Staff was established, they established their own Crisis Staff and they established what they call the Muslim municipality of Kljuc.",
+      "reply_to": 368
+    },
+    {
+      "id": 370,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you tell us when the first session of the Crisis Staff in Kljuc municipality took place?",
+      "examination": "cross"
+    },
+    {
+      "id": 371,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't recall. I don't know.",
+      "reply_to": 370
+    },
+    {
+      "id": 372,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you allow for the possibility that it was on the day when the incidents you referred to occurred, the attacks and so on?",
+      "examination": "cross"
+    },
+    {
+      "id": 373,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "That was when I saw that all the leading people in the municipality were there gathered in one place, and on the next day I learned that this was referred to as the Crisis Staff.",
+      "reply_to": 372
+    },
+    {
+      "id": 374,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. I will now talk about the incident --",
+      "examination": "cross"
+    },
+    {
+      "id": 375,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Witness, which Crisis Staff are we actually referring to here? Was it the new Crisis Staff that the Muslims had set up after the Serb --"
+    },
+    {
+      "id": 376,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] No, I understood the gentleman to be asking about the Crisis Staff established by the Serb side."
+    },
+    {
+      "id": 377,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Which of the two Crisis Staffs came first, do you know?"
+    },
+    {
+      "id": 378,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I don't know which came first. I just know that both existed."
+    },
+    {
+      "id": 379,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 380,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 381,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I started dealing with the attack on the patrol in which your deputy was killed. The purpose for which this patrol was sent out was to prevent a blockade of the roads used by workers to go to the Sipad furniture factory, or rather to unblock all the roads. Can you assist us with this briefly in a nutshell?",
+      "examination": "cross"
+    },
+    {
+      "id": 382,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Maybe you misunderstood me, yesterday, there was a report that the Kljuc Sanski Most road had been blocked near Krasulje, and this report came from employees of the Sipad factory who had a facility in Pec, and they could not get through, so they reported to the policeman who was on duty that the road was blocked.",
+      "reply_to": 381
+    },
+    {
+      "id": 383,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were other factories and enterprises operating at the time, not just Sipad but others as well?",
+      "examination": "cross"
+    },
+    {
+      "id": 384,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Until that day, up to the time when we received this report, everything functioned normally. We had all those extra measures in place, but I received this news while I was working out the duty roster for the following day, and there had been no indications that anything like that would happen.",
+      "reply_to": 383
+    },
+    {
+      "id": 385,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you just explain to us what escort service means within the station? What does it deal with?",
+      "examination": "cross"
+    },
+    {
+      "id": 386,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is something that police officers do when taking a person from one organ to another organ. For example, if a court remands someone in custody, then that person has to be escorted to the Detention Unit.",
+      "reply_to": 385
+    },
+    {
+      "id": 387,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the services or patrols that had the duty of escorting convoys or special kinds of vehicles in traffic, that sort of movement implied a special kind of traffic regime, did it not?",
+      "examination": "cross"
+    },
+    {
+      "id": 388,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I didn't fully understand you, but I can guess what you are getting at. For example, this escort service that you asked me about is when one or two persons have to be escorted. The second sort of task that you mentioned is done by security. You have a vehicle cleaning the road going ahead and then you have a vehicle in the rear, I think that's what you were getting at. In war time when we had reserve officers on duty they were not so conversant with all these details so they confused the two kinds of service and they confused the terms used to refer to them. You can find the definitions for these. The first kind is called \"sprovodjenje\" and the second kind is called \"obezbedjenje.\"",
+      "reply_to": 387
+    },
+    {
+      "id": 389,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So the purpose of this second sort is to make sure that there is safe passage?",
+      "examination": "cross"
+    },
+    {
+      "id": 390,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 389
+    },
+    {
+      "id": 391,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I think His Honour Judge Harhoff asked you something about the functioning of the communications system, and you explained to us how this functioned up to the time the war broke out, and then with my colleague Mr. Krgovic, you broached the topic of how it was after the war broke out. So let's round this off, do you remember how long the periods of power shortages were? What was the longest period without electricity during the war that you remember?",
+      "examination": "cross"
+    },
+    {
+      "id": 392,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I cannot be precise. When the conflict broke out, we immediately started having power cuts it seems to me. I can't really say anything precisely, but back in 1991 [as interpreted] there were longer periods when we were without electricity than when there was electricity.",
+      "reply_to": 391
+    },
+    {
+      "id": 393,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I believe you were referring to 1992, I'm not sure whether that is what you said?",
+      "examination": "cross"
+    },
+    {
+      "id": 394,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, 1992.",
+      "reply_to": 393
+    },
+    {
+      "id": 395,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did it happen in 1992 that you didn't have any electricity for a whole month?",
+      "examination": "cross"
+    },
+    {
+      "id": 396,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Probably but I cannot say anything with any certainty. I do know, however, that we were frequently out of electricity.",
+      "reply_to": 395
+    },
+    {
+      "id": 397,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was it also aggravated by the shortage of fuels and gasoline which further exacerbated the situation?",
+      "examination": "cross"
+    },
+    {
+      "id": 398,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The problem of fuel was always a pronounced one, but generally we got by rather well through the aid of SIP. However, we had to act economically at all times.",
+      "reply_to": 397
+    },
+    {
+      "id": 399,
+      "speaker": "MR. CVIJETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, I have no further questions, and I'd like to thank the witness for answering my questions so far."
+    },
+    {
+      "id": 400,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] You are welcome."
+    },
+    {
+      "id": 401,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, please proceed, Ms. Pidwell."
+    },
+    {
+      "id": 402,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good evening, sir.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 403,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good evening.",
+      "reply_to": 402
+    },
+    {
+      "id": 404,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "I just want to ask you a few questions which have arisen from some of the questions that have been put to you by my learned friends over the last couple of days. Firstly, you were asked if you recall about the appearance of the Red Berets in the municipality of Kljuc and it was put to you that there were some volunteers from Croatia there when the war broke out who were sporting camouflage military uniforms as well. I just want to clarify, sir, were -- what is your understanding of the situation, were there Red Berets in the municipality of Kljuc that were separate from these volunteers returning from Croatia or did they form one category?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 405,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't think they all belonged in the same category, because the volunteers from Croatia were soldiers returning home and when they got drunk, they would fire their weapons and cause disturbance. The Red Berets on the other hands were a separate unit.",
+      "reply_to": 404
+    },
+    {
+      "id": 406,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. You were also asked some questions by Mr. Krgovic and he showed you the statement by Omer Filipovic dated the 29th of May; do you recall that?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 407,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do. That was today.",
+      "reply_to": 406
+    },
+    {
+      "id": 408,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "So I am assuming by your answer, sir, that you don't know who, in fact, took that statement from him?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 409,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't.",
+      "reply_to": 408
+    },
+    {
+      "id": 410,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you saw Mr. Filipovic for the last time, what was his state of health?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 411,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "When he got in the car, he appeared normal. He didn't display any injuries and he had arrived on foot from Pudin Han before entering the car. Since the car was turned in the opposite direction, I know that he waved to some people along the way, and I believe they were members of the Muslim TO force which had attacked the bus I discussed earlier the day before.",
+      "reply_to": 410
+    },
+    {
+      "id": 412,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ms. Pidwell, to avoid having to redact large portions of the record, when you are going to have a series of personal question, we'll go into private session."
+    },
+    {
+      "id": 413,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, certainly, Your Honour."
+    },
+    {
+      "id": 414,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Do we remain in open session at this point, Ms. Pidwell?"
+    },
+    {
+      "id": 415,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, for the moment, and then perhaps I'll -- I'm very mindful of it now, Your Honour, so I'll keep an eye out for it."
+    },
+    {
+      "id": 416,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, thanks."
+    },
+    {
+      "id": 417,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, you were asked also some questions about the so-called parallel defence, Territorial Defence in Kljuc at the time and that these were the people that were being brought in for interrogation in the days after the events on 27 May. Who decided after the interrogations which people were to be sent to Gradiska or Manjaca and which were to be released? Who in fact made that decision?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 418,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "As I have said yesterday, I think, as far as I know those who were considered to be more extreme than the rest were sent to Gradiska, that was the extent of information that the service had. By that time Manjaca had not been established. That decision was made by the inspectors who interrogated them. If you recall, I specified the four elements: One, that they were members of the TO; two, that they had weapons; three, that they smuggled weapons; and four, that they displayed extremist views. Those were the elements I was aware of. I don't know whether there were any more. Those involved in such matters should know better than I do. The inspectors who interrogated them made the call, they did the screening and decided who was to go to Gradiska and who was to be sent home.",
+      "reply_to": 417
+    },
+    {
+      "id": 419,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "These inspectors that you are talking about, who did they report to?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 420,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "They probably each followed their professional alliance. The crime prevention service from Kljuc reported to Kondic, and there were those who occasionally came from Banja Luka and since they were from the crime department service they probably reported to their chief Djuro Bulic. If they worked for the state security service they reported to their chief. That would be it.",
+      "reply_to": 419
+    },
+    {
+      "id": 421,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were also asked questions about the police officers who were put on annual leave and then failed to return to work and were subsequently dismissed, by both counsel. If a Muslim police officer failed to sign the loyalty oath and refused to wear the new uniform with the new insignia, would he have been allowed to work?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 422,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "He would not have. He couldn't work with other insignia on his uniform. He was expected to display the insignia of the MUP of Republika Srpska. They were prescribed.",
+      "reply_to": 421
+    },
+    {
+      "id": 423,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were also asked some questions about the incident that took place at the school at Velagici and you told us that -- or I think it was read to you that the municipal judge was present to do an investigation and we know that that was Jovo Dimitric. Could you tell us, please, whether you know if Mr. Dimitric was a municipal judge or was he a military judge?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 424,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "He was a judge of the basic municipal court. In 1992 he was appointed president of the basic court in Kljuc, although I don't know in what month. It was once the Muslim judges left, including Djemal Botojnic. It was then that Mr. Dimitric was appointed the president of the basic court in Kljuc.",
+      "reply_to": 423
+    },
+    {
+      "id": 425,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I think there is something in the transcript that is insufficiently clear about the role of this judge. Perhaps the Prosecutor could repeat her question about the role of Mr. Dimitric at that place since I don't want to testify. The fact is that there is a difference between the interpretation and the transcript."
+    },
+    {
+      "id": 426,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Krgovic, are you referring to line 20? Where it is said that the municipal judge was present?"
+    },
+    {
+      "id": 427,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Line 22, Your Honour. Page 62."
+    },
+    {
+      "id": 428,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "type": "statement",
+      "text": "Interpreter's correction: 66, line 22."
+    },
+    {
+      "id": 429,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, the information from my colleague is that the interpretation was correct and my question was whether he knew whether Mr. Dimitric was a municipal judge or a military judge. I hadn't asked about his role. I'd asked whether he knew whether he was A or B, and I'm not going to be directed by Mr. Krgovic on which questions to ask in re-examination."
+    },
+    {
+      "id": 430,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Except, Ms. Pidwell, it seems to me it would be useful, at this juncture to clarify this since it appears not to be irrelevant."
+    },
+    {
+      "id": 431,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm happy to be directed by Your Honour."
+    },
+    {
+      "id": 432,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "It's a suggestion, Ms. Pidwell."
+    },
+    {
+      "id": 433,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, we've clarified I think, that Mr. Dimitric was the municipal judge in the area and not the military judge. In the event of a crime being committed in the municipality of Kljuc, as the first step in the procedure of investigation would the military or municipal judge attend the scene?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 434,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "If you recall in Belgrade Mr. Dimitric acted as my counsel. He said that he was present the next day, that is to say, the day after the event occurred. He said that he was present there with Vinko Kondic. I don't know whether you understood him on that occasion when he was clarifying to me what school it was because I didn't know where it took place, at what school. It means that he wasn't there on the day of the event but the next day with Vinko Kondic.",
+      "reply_to": 433
+    },
+    {
+      "id": 435,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who was the military judge in Kljuc at the time?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 436,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know. I only know that the military police had their own scene-of-crime officer for certain minor offences that fell under their authority. I believe there was a military judge in Banja Luka who covered the whole area.",
+      "reply_to": 435
+    },
+    {
+      "id": 437,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if you are able to, sir, and please tell us if you are not, are you able to distinguish between the role of a military judge and a municipal judge at the point of an investigation of a crime, the first point, when it's first been committed and they are first on the scene?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 438,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, I must object. The thing creating the confusion is what I pointed out at the outset. I was directing my questions at the on-site investigation, not the investigation as a whole. I wasn't concerned with the investigation because with -- I was interested in an on-site investigation carried out immediately at the scene when reports are drawn up and that is what was misinterpreted, or mistranslated."
+    },
+    {
+      "id": 439,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "It appears that we have to continue down this path. Let's not wander too far afield, but the answers themselves seem to raise more questions, but let's wrap it up, please. I wanted to go back to before Mr. Krgovic's intervention, the last question that counsel asked, in the context of the witness's answer immediately before that about the military having scenes of crimes officer for certain minor offences and I'm wondering whether, Ms. Pidwell, your question took that what appeared to be a distinction on board in formulating the question between the role of a military judge and a municipal judge?"
+    },
+    {
+      "id": 440,
+      "speaker": "MR. PANTELIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, if I may be of assistance, please."
+    },
+    {
+      "id": 441,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Just a moment."
+    },
+    {
+      "id": 442,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Ms. Pidwell, your question does indeed give rise to some difficulty of interpretation. What exactly do you mean when you are asking the witness if he can distinguish between the role of the military judge and a civilian judge at the point of investigation of a crime? Because at that point I would imagine that the investigations carried out by some investigators who arrive to the crime site and start investigating, so are you asking who stands behind those investigators who are arriving at the crime scene, and if that is your question, then put it more directly."
+    },
+    {
+      "id": 443,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I apologise if I've caused this confusion. My question was directed to the on-site investigation and the first person on the scene. If that person is the military or the municipal judge, what their role is."
+    },
+    {
+      "id": 444,
+      "speaker": "JUDGE HARHOFF",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Witness, can you answer the question?"
+    },
+    {
+      "id": 445,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] As far as I know in connection with this incident, the military organs conducted the on-site investigation. In terms of all the technical work and that, and that also a civilian investigating judge from Kljuc was also present at the scene. Why? I don't know. It wasn't a military judge but our investigating judge, but there were also the military organs of the military police. After the on-site investigation it was established that the soldiers were the perpetrators and then criminal reports were filed against them. Probably there was an agreement between the civilian and military courts to engage this judge if they didn't have a military judge who was in the field. That's what I suppose."
+    },
+    {
+      "id": 446,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. I found that helpful."
+    },
+    {
+      "id": 447,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "You say, Mr. Witness, that it was a municipal judge who was there with Mr. Kondic; right?"
+    },
+    {
+      "id": 448,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes."
+    },
+    {
+      "id": 449,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "On the day after the event?"
+    },
+    {
+      "id": 450,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Yes."
+    },
+    {
+      "id": 451,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "So then that means Mr. Kondic knew right away about the incident, as police chief he's supposed to know, and if he was there, there's no doubt about it?"
+    },
+    {
+      "id": 452,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I don't know that, but I suppose so."
+    },
+    {
+      "id": 453,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 454,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, Ms. Pidwell, please continue."
+    },
+    {
+      "id": 455,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, you were asked some questions about the Nikola Mackic school and we know that you went there on one occasion and you told us that people were being beaten by civilians as they came to the school; do you recall that?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 456,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 455
+    },
+    {
+      "id": 457,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, I don't know when the witness mentioned this, that civilians were beating people who were there. When did he answer that?"
+    },
+    {
+      "id": 458,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "I too had that question, Ms. Pidwell."
+    },
+    {
+      "id": 459,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] The witness said that he prevented an attempt to maltreat these people."
+    },
+    {
+      "id": 460,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Page 32, line 24, the witness said: \"I did not receive such reports from members of the police, but I could see that citizens were attacking the Muslim citizens who were being brought in.\" And we are talking about the Nikola Mackic school."
+    },
+    {
+      "id": 461,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "I see. Thank you."
+    },
+    {
+      "id": 462,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "But there is no beating."
+    },
+    {
+      "id": 463,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "It's a fine point, Mr. Krgovic. Please continue, Ms. Pidwell."
+    },
+    {
+      "id": 464,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Let's clarify that. When you said, \"I could see that citizens were attacking the Muslim citizens who were being brought in,\" what did you see?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 465,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "When I got before the building of Municipal Assembly where Muslim citizens were getting off the buses, I noticed a big group of Serbian citizens who were shouting, making noise, and trying to kick these people. Whether they really managed to kick someone I'm not sure, but they really created a din and I suppose that there would be further attacks; therefore, I fired shots in the air and dispersed the crowd and that was what I said earlier.",
+      "reply_to": 464
+    },
+    {
+      "id": 466,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Earlier you said, sir, that this occurred outside the Nikola Mackic school. What is your recollection?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 467,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "The Nikola Mackic school and the building of the Municipal Assembly are 15 metres one from the other, so perhaps I said before the school or before the building of the Municipal Assembly. It was between the old high school across the road next to the Nikola Mackic school. It's about 15 metres to the door that is the entrance to the gym. And when I told you that I noticed one of my policeman, Hamdija Kumalic, in the gym, I noticed him, and when I wanted to go further, I was prevented by the White Eagles who had come from Kupres.",
+      "reply_to": 466
+    },
+    {
+      "id": 468,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were asked some questions about your knowledge of the maltreatment of people in the police station or at the Nikola Mackic school. The people who were interrogating the Muslims at these two places, you've told us, were the state security and the interrogators from Banja Luka. To whom did they report officially?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 469,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "As I said, our investigators from the crime prevention service from our station were also there as well as employees of the state security, and for assistance members of the crime prevention service came from Banja Luka. They were also inspectors. Our men reported to the chief Kondic, the chief of the public security stations. And these others I see now to Djuro Bulic or to Chief Zupljanin. Now which one sent them over, that's something I don't know.",
+      "reply_to": 468
+    },
+    {
+      "id": 470,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also were asked some questions about your knowledge of the police escorting buses to Manjaca camp. Who organised the transportation of the --",
+      "examination": "re-direct"
+    },
+    {
+      "id": 471,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Object. I didn't raise this issue in my cross-examination. My cross-examination was directed to the transport of Manjaca -- prisoners from Sanica to Manjaca by foot."
+    },
+    {
+      "id": 472,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] It wasn't Sanica but rather Sitnica."
+    },
+    {
+      "id": 473,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, the questions that I'm reading are not specifically confined to that. But if my friend is happy to stipulate that he didn't ask any questions about the transportation from the SJB Kljuc to the Sitnica school, then I'll leave it."
+    },
+    {
+      "id": 474,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "I'm not sure I follow why you're inviting him to stipulate, Ms. Pidwell."
+    },
+    {
+      "id": 475,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, without the opportunity of going through the transcript line by line, I am happy to take his word that he didn't cover that issue, but I - on my very quick reading right now - I'm not prepared to do that without his affirmation that that is correct."
+    },
+    {
+      "id": 476,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "I would have thought, Ms. Pidwell, that before you formulated the question it was on the basis of an issue that was -- that you were certain that was put in cross-examination, not something that -- not, how shall I put it, a gap or a impression that you have."
+    },
+    {
+      "id": 477,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "It's the formulation of the questions in cross-examination which are causing the problem, Your Honours. The questions that I'm looking at are formulated broadly. \"You do not have any direct knowledge about the way these people were transported or who escorted them; correct?\" Now, that's not confined to which part of the journey. I'm trying to clarify that in re-examination."
+    },
+    {
+      "id": 478,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Yes, but if you have a look at my previous question, you will see exactly which trip I had in mind. I said from the police station in Sitnica, I said Sanica though which was mistaken, to Manjaca on foot. So please check the previous question. I pledge my word that I did not ask a single question in connection with this particular transport."
+    },
+    {
+      "id": 479,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I'm in Your Honours' hands whether I proceed or whether I leave that issue."
+    },
+    {
+      "id": 480,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Having regard to Mr. Krgovic's declaration, shouldn't you leave it and move on?"
+    },
+    {
+      "id": 481,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honours."
+    },
+    {
+      "id": 482,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Finally, sir, you were asked some questions about the electricity shortages from -- in cross-examination, and I just want to show you a document, it's P969, tab 37. Do you recognise the document that you can see on the left-hand side of your screen, and I think you have the hard version in front of you?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 483,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 482
+    },
+    {
+      "id": 484,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "What is it?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 485,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "It's the report of the duty service.",
+      "reply_to": 484
+    },
+    {
+      "id": 486,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if I can direct you to page 0629-3925. Page 248 in e-court. If we could just, sorry, look at the previous page to look at the date, are you able to see the date down the -- in the bottom paragraph there, sir, in the handwriting?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 487,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "3924, is that the one I should look at, or 3925?",
+      "reply_to": 486
+    },
+    {
+      "id": 488,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "3924, it's the start of the entry on it on a particular day, if you could read the date for us?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 489,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Hand-over of duty, Vejin Marinko duty officer for the 30th of May, 1992, between 00 until 8 a.m. in Kljuc.",
+      "reply_to": 488
+    },
+    {
+      "id": 490,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Turn to the next page. And do you see there at the conclusion of that entry just above the signature, could you read the last sentence starting around 440 hours?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 491,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "\"Around 440 hours, I handed in a dispatch for the CSB Banja Luka in connection with regular reporting. There were no other news. Vejin handed it over. It was received by Mitar Dragic.\"",
+      "reply_to": 490
+    },
+    {
+      "id": 492,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when it says handed over a dispatch for regular reporting, what does that in fact mean?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 493,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I don't know whether you remember when there were some questions with regard to reporting. I mentioned that there was an instruction about urgent, regular, and occasional reporting, and it had to do with reporting to the Security Services Centre and to the MUP. That was contained in the instructions.",
+      "reply_to": 492
+    },
+    {
+      "id": 494,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "My question, sir, is does this mean that a report was sent?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 495,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 494
+    },
+    {
+      "id": 496,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "So is it a fair assumption to expedite matters, where we see the words that a dispatch was submitted to Banja Luka, that it was in fact sent and if there was a malfunction that that would be noted in this book?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 497,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 496
+    },
+    {
+      "id": 498,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you. I have no further questions, Your Honours."
+    },
+    {
+      "id": 499,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, if I may, I would just have one question, a follow-up question to the Trial Chamber's question to assist with the issue of the military courts and civilian courts and their competency, if you might allow just one question."
+    },
+    {
+      "id": 500,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, as focused as possible, Mr. Krgovic. Further Cross-examination by Mr. Krgovic:"
+    },
+    {
+      "id": 501,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 502,
+      "speaker": "MS. PIDWELL",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, do you know whether in the month of June in 1992 when the incidents in Velagici happened the military courts did not exist and did not function in the territory of Republika Srpska. It was only in July or August that they were established?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 503,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Was that a question."
+    },
+    {
+      "id": 504,
+      "speaker": "MR. KRGOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] A question. Whether the witness is familiar with this."
+    },
+    {
+      "id": 505,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] I'm not sure of the date, but I heard that there was some military Judge Jovicinac [realtime transcript read in error \"Milutinovic\"]."
+    },
+    {
+      "id": 506,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 507,
+      "speaker": "MR. PANTELIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Just a correction, sorry, not Milutinovic, page 77, line, 3, but Jovicinac."
+    },
+    {
+      "id": 508,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. Pantelic."
+    },
+    {
+      "id": 509,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Can I ask to have 65 ter 2818 back on the screen, please. Questioned by the Court:"
+    },
+    {
+      "id": 510,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "I seem to have a problem myself. (redacted) this is that Official Note again I showed you awhile ago where you said reserve policemen Radojicic reports about someone who had fled on the day of the shooting in Velagici. What do you make of this Official Note? So obviously at the station one knew about the incident and now there is a report that someone fled from the scene where 79 people had been killed. What in your opinion as a policeman in that station is the purpose of this Official Note?"
+    },
+    {
+      "id": 511,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "This is a note about something of security interest and probably this reserve policeman submitted it to the crime prevention service stating that the crime prevention service needed such information because they were questioning people or for the purpose that crime prevention service in the police should forward it to the military security organs. These were the two possible avenues along which this information may have been sent.",
+      "reply_to": 502
+    },
+    {
+      "id": 512,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Were they questioning people about the incident?"
+    },
+    {
+      "id": 513,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know. I'm not certain.",
+      "reply_to": 502
+    },
+    {
+      "id": 514,
+      "speaker": "JUDGE DELVOIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "About the same incident, (redacted), we have heard that there was an investigation that when the investigative judge came at the scene, the evidence was removed, that means that 88 -- 79 bodies were removed with an engineering machine, I suppose something like a bulldozer, and with trucks probably, and buried somewhere in the forest. And we heard also in that investigative report that 12 men were charged with this crime, 11 conscripts and one 2nd lieutenant, and it was referred to as a bunch of drunken soldiers. With regard to the golden rules of criminology where Mr. Krgovic referred to, wouldn't you as a policeman ask how could it be done, the removal of the evidence so that the day after nothing could be found? Could that be done by 11 conscripts and a 2nd lieutenant, organise a bulldozer, organise trucks to remove 80 bodies and to hide them somewhere? What would your professional opinion be on that?"
+    },
+    {
+      "id": 515,
+      "speaker": "ST-218 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, the logic imposes the conclusion that this group of people could not have done it. They had to have had logistic support from their units, from the army, and I suppose that they did it together with the army.",
+      "reply_to": 502
+    },
+    {
+      "id": 516,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you, Mr. Witness. We thank you for your assistance to the Tribunal. You are now released and the ushers will escort you from the courtroom."
+    },
+    {
+      "id": 517,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Your Honours."
+    },
+    {
+      "id": 518,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "We thank the interpreters, the stenographers, security staff, and the remainder of the support staff for their indulgence in enabling us to complete this witness's testimony this evening, and we now take the adjournment to resume in this courtroom at 9.00 tomorrow morning."
+    },
+    {
+      "id": 519,
+      "speaker": "JUDGE HALL",
+      "role": "judge",
+      "type": "statement",
+      "text": "to be reconvened on Friday, the 15th day of October, 2010, at 9.00 a.m. 25"
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 2.19 p.m."
+    },
+    {
+      "after_utterance": 10,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 11,
+      "text": "WITNESS: ST-218 [Resumed]"
+    },
+    {
+      "after_utterance": 11,
+      "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 11,
+      "text": "Cross-examination by Mr. Krgovic:  [Continued]"
+    },
+    {
+      "after_utterance": 16,
+      "text": "[Private session]"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 16,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 47,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 97,
+      "text": "[Private session]"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 97,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 98,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 135,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 136,
+      "text": "--- Recess taken at 3.44 p.m."
+    },
+    {
+      "after_utterance": 136,
+      "text": "--- On resuming at 4.09 p.m."
+    },
+    {
+      "after_utterance": 144,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 189,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 189,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 189,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 189,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 189,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 189,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 189,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 189,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 189,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 207,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 207,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 207,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 207,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 207,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 297,
+      "text": "Cross-examination by Mr. Cvijetic:"
+    },
+    {
+      "after_utterance": 303,
+      "text": "[Private session]"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 303,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 304,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 307,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 307,
+      "text": "--- Recess taken at 5.22 p.m."
+    },
+    {
+      "after_utterance": 307,
+      "text": "--- On resuming at 5.47 p.m."
+    },
+    {
+      "after_utterance": 307,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 401,
+      "text": "Re-examination by Ms. Pidwell:"
+    },
+    {
+      "after_utterance": 407,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 407,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 407,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 407,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 407,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 407,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 407,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 407,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 407,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 407,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 438,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 441,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 517,
+      "text": "[The witness withdrew]"
+    },
+    {
+      "after_utterance": 518,
+      "text": "--- Whereupon the hearing adjourned at 7.13 p.m."
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_14_October_2010.doc"
+}
