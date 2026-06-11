@@ -343,18 +343,51 @@ def find_related_cases(text: str) -> list[str]:
 
 
 def find_plea(text: str) -> str | None:
-    """Determine plea type: guilty, not guilty, or mixed."""
-    text_lower = text.lower()
-    has_guilty_plea = bool(re.search(r"pleaded?\s+guilty", text_lower))
-    has_not_guilty = bool(re.search(r"pleaded?\s+not\s+guilty", text_lower))
-    has_plea_agreement = "plea agreement" in text_lower
+    """Determine plea type: guilty or not guilty.
 
+    Tolerates quotes/punctuation between "pleaded" and the plea (CIS sheets
+    often write pleaded "not guilty" with curly quotes). Also treats refusal
+    to plead as "not guilty": under ICTY Rule 62 the Trial Chamber enters a
+    not-guilty plea on the accused's behalf when they decline or fail to plead.
+    Cases that never reached arraignment (died/withdrawn) match nothing and
+    return None.
+    """
+    text_lower = text.lower()
+    # Optional quote/space between the verb and the plea word
+    q = r"[\s\"'‘’“”]*"
+    has_guilty_plea = bool(
+        re.search(rf"pleaded?{q}guilty", text_lower)
+        # CIS field label ("Guilty plea 17 January 2007") and prose variants
+        or re.search(r"(?<!not\s)guilty\s+plea\s+(?:was\s+)?entered", text_lower)
+        or re.search(r"entered\s+a\s+guilty\s+plea", text_lower)
+        or re.search(r"(?<!not\s)guilty\s+plea\s+\d", text_lower)
+    )
+    has_not_guilty = bool(
+        re.search(rf"pleaded?{q}not{q}guilty", text_lower)
+        or re.search(r"plea\s+of\s+not\s+guilty", text_lower)
+    )
+    has_plea_agreement = "plea agreement" in text_lower
+    # e.g. Kunarac: pleaded guilty to one count, then withdrew it
+    withdrew_guilty_plea = bool(re.search(
+        r"withdrew\s+(?:his|her|the)\s+guilty\s+plea"
+        r"|guilty\s+plea\s+was\s+withdrawn",
+        text_lower,
+    ))
+    # Rule 62: accused refused/failed/declined to plead -> court enters not guilty
+    refused_to_plead = bool(re.search(
+        r"no\s+plea\s+entered"
+        r"|(?:did\s+not|failed\s+to|refused\s+to|declined\s+to)\s+enter\s+a\s+plea",
+        text_lower,
+    ))
+
+    if withdrew_guilty_plea and has_not_guilty and not has_plea_agreement:
+        return "not guilty"
     if has_plea_agreement or (has_guilty_plea and not has_not_guilty):
         return "guilty"
     elif has_guilty_plea and has_not_guilty:
         # Changed plea during proceedings (common pattern)
         return "guilty"  # ended up pleading guilty
-    elif has_not_guilty:
+    elif has_not_guilty or refused_to_plead:
         return "not guilty"
     return None
 
