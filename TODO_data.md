@@ -8,7 +8,7 @@
 - [ ] `sikirica`: CIS was never downloaded — re-scrape or add by hand. Its
   accused (incl. the guilty pleas of Sikirica, Došen and Kolundžija) are
   missing from pleas.csv.
-- [x] `data/cis_parsed/report.md` is stale (generated 2026-03-25, data
+- [ ] `data/cis_parsed/report.md` is stale (generated 2026-03-25, data
   regenerated since): says 37/22/10 pleas per case; current per-accused data
   says 96 not guilty / 17 guilty / 3 unknown. *(Pleas section updated
   2026-06-11; other report numbers checked against current data and still
