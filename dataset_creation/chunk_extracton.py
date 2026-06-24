@@ -1,7 +1,7 @@
 """ 
 LB: 
 - this script extracts utterances spoken by the accused from JSON files in case folders and saves them to a CSV file
-- it identifies accused speakers using the accused names stored in pleas.csv, as well as the role "accused" and the label "THE ACCUSED"
+- it identifies accused speakers using the accused names stored in pleas.csv, as well as the role "accused" and the label "THE ACCUSED" and "MR. LASTNAME" as the speaker, if the speaker is in pleas.csv or folder names
 - the output contains one row per accused utterance together with metadata such as case, case ID, date and source file
 - THE inclusion of the information from parsed.csv (names) made a difference of about 5937 rows of utterances, which is a lot
 In total then we have:
