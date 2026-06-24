@@ -1,54 +1,117 @@
-# LB: This script extracts utterances spoken by the accused from JSON files in case folders and saves them to a CSV file
-#  LB: It extracts based on the role or name of the speaker, and includes relevant information such as case ID, date, and source file.
-
+# LB: this script extracts utterances spoken by the accused from JSON files in case folders and saves them to a CSV file.
+# LB: it identifies accused speakers using the accused names stored in pleas.csv, as well as the role "accused" and the label "THE ACCUSED".
+# LB: the output contains one row per accused utterance together with metadata such as case, case ID, date and source file.
 
 from pathlib import Path
 import json
+import unicodedata
 import pandas as pd
 
-# Path setup
+
+# LB: function for removing accents and special characters from names
+# LB: example: BLAGOJEVIĆ -> BLAGOJEVIC
+def normalize_name(name):
+    name = str(name).upper()
+    name = unicodedata.normalize("NFKD", name)
+    name = "".join(
+        char for char in name
+        if not unicodedata.combining(char)
+    )
+    return name
+
+
+# LB: function for extracting the last name from a full name
+# LB: example: "VIDOJE BLAGOJEVIĆ" -> "BLAGOJEVIC"
+def get_last_name(full_name):
+    normalized = normalize_name(full_name)
+    return normalized.split()[-1]
+
+
+# LB: path setup
 script_dir = Path(__file__).resolve().parent
-base_dir = script_dir.parent / "data" / "parsed"
+project_dir = script_dir.parent
+
+base_dir = project_dir / "data" / "parsed"
+pleas_path = project_dir / "data" / "cis_parsed" / "pleas.csv"
 
 print("=" * 60)
 print("Starting accused utterance extraction")
 print(f"Looking for case folders in:\n{base_dir}")
+print(f"Using accused names from:\n{pleas_path}")
 print("=" * 60)
-## LB: just some messages so I know whats going on when I run this script
+# LB: just some messages so I know what is going on when I run this script
+
+
+# LB: loading the accused names from pleas.csv
+pleas_df = pd.read_csv(pleas_path)
+
+# LB: creating a dictionary where:
+# LB: key = case name
+# LB: value = list of accused last names
+case_to_accused_names = {}
+
+for case_name, group in pleas_df.groupby("case"):
+
+    last_names = (
+        group["accused"]
+        .dropna()
+        .apply(get_last_name)
+        .unique()
+        .tolist()
+    )
+
+    case_to_accused_names[case_name] = last_names
+
+print(f"Loaded accused names for {len(case_to_accused_names)} cases.")
+
 
 rows = []
 
 total_folders = 0
 total_files = 0
 total_utterances = 0
-# LB: preparing the counters for the number of folders, files and utterances
 
-# LB: Looping through the case folders in the base directory
+# LB: preparing counters for the number of folders, files and utterances
+
+
+# LB: looping through the case folders in the parsed directory
 for case_folder in base_dir.iterdir():
 
     if not case_folder.is_dir():
         continue
 
     total_folders += 1
-    # LB: skipping non-directory files and counting the number of case folders
-    case_from_folder = case_folder.name
 
+    # LB: skipping non-directory files and counting case folders
+    case_from_folder = case_folder.name
 
     print(f"\nProcessing case: {case_from_folder}")
 
-    # LB:split the name by underscore and remove the "old" part, then convert to uppercase for matching
-    name_parts = [
-        part for part in case_from_folder.split("_")
-        if part.lower() != "old"
-    ]
+    # LB: getting all accused last names for the current case from pleas.csv
+    possible_accused_names = case_to_accused_names.get(
+        case_from_folder,
+        []
+    )
 
-    possible_accused_names = [part.upper() for part in name_parts]
+    # LB: fallback in case a case is missing from pleas.csv
+    if not possible_accused_names:
+
+        name_parts = [
+            part for part in case_from_folder.split("_")
+            if part.lower() != "old"
+        ]
+
+        possible_accused_names = [
+            normalize_name(part)
+            for part in name_parts
+        ]
 
     print(f"Possible accused names: {possible_accused_names}")
 
     case_file_count = 0
     case_utterance_count = 0
-    # LB: Looping through the JSON files in the case folder
+
+    # LB: looping through the JSON files in the current case folder
     for json_file in case_folder.glob("*.json"):
 
         total_files += 1
@@ -57,31 +120,46 @@ for case_folder in base_dir.iterdir():
         print(f"  Reading: {json_file.name}")
 
         try:
+
             with open(json_file, "r", encoding="utf-8") as f:
                 data = json.load(f)
 
         except Exception as e:
+
             print(f"    ERROR reading file: {e}")
             continue
-         
-        # LB: Extracting relevant information from the JSON data
+
+        # LB: extracting case-level metadata from the JSON file
         case = case_from_folder
         case_id = data.get("case_id")
         date = data.get("date")
 
         matching_utterances = 0
-        # LB: Looping through the utterances in the JSON data
+
+        # LB: creating possible speaker labels such as:
+        # LB: MR. BLAGOJEVIC
+        # LB: MR. JOKIC
+        accused_speaker_labels = [
+            f"MR. {name}"
+            for name in possible_accused_names
+        ]
+
+        # LB: looping through all utterances in the transcript
         for utt in data.get("utterances", []):
 
-            speaker = utt.get("speaker", "")
+            speaker_original = utt.get("speaker", "")
+            speaker = normalize_name(speaker_original)
+
             role = utt.get("role", "")
-        # LB: Checking if the speaker is the accused based on the role or name matching
+
+            # LB: checking whether the utterance belongs to the accused
             is_accused = (
                 speaker == "THE ACCUSED"
                 or role == "accused"
-                or speaker in [f"MR. {name}" for name in possible_accused_names]
+                or speaker in accused_speaker_labels
             )
-        # LB: If the speaker is identified as the accused, append the relevant information to the rows list
+
+            # LB: if the utterance belongs to the accused,store it together with the metadata
             if is_accused:
 
                 rows.append({
@@ -89,7 +167,7 @@ for case_folder in base_dir.iterdir():
                     "case_id": case_id,
                     "date": date,
                     "utterances": utt.get("text"),
-                    "speaker": speaker,
+                    "speaker": speaker_original,
                     "role": role,
                     "type": utt.get("type"),
                     "utterance_id": utt.get("id"),
@@ -110,23 +188,34 @@ for case_folder in base_dir.iterdir():
         f"{case_utterance_count} accused utterances)"
     )
 
+
 print("\n" + "=" * 60)
 print("Creating dataframe...")
 print("=" * 60)
-# LB: Creating a DataFrame from the collected rows and converting the date column to datetime format
+
+# LB: creating a DataFrame from the collected utterances
 df = pd.DataFrame(rows)
 
+# LB: converting the date column to datetime format
 df["date"] = pd.to_datetime(df["date"], errors="coerce")
 
-output_path = script_dir / "accused_utterances.csv"
+csv_path = script_dir / "accused_utterances.csv"
+pickle_path = script_dir / "accused_utterances.pkl"
 
-print(f"Saving dataframe to:\n{output_path}")
-# LB: Saving the DataFrame to a CSV file with UTF-8 encoding and without the index
+print(f"Saving CSV to:\n{csv_path}")
+
+# LB: saving the dataframe as CSV
 df.to_csv(
-    output_path,
+    csv_path,
     index=False,
     encoding="utf-8"
 )
+
+print(f"Saving pickle to:\n{pickle_path}")
+
+# LB: saving the dataframe as a pickle file for faster loading later
+df.to_pickle(pickle_path)
+
 
 print("\n" + "=" * 60)
 print("FINISHED")
@@ -135,7 +224,8 @@ print(f"Case folders processed: {total_folders}")
 print(f"JSON files processed:   {total_files}")
 print(f"Rows in dataframe:      {len(df)}")
 print(f"Accused utterances:     {total_utterances}")
-print(f"Output file:            {output_path}")
+print(f"CSV output file:        {csv_path}")
+print(f"Pickle output file:     {pickle_path}")
 print("=" * 60)
 
 print("\nFirst five rows:")
