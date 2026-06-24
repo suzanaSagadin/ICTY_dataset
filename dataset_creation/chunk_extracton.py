@@ -1,7 +1,16 @@
-# LB: this script extracts utterances spoken by the accused from JSON files in case folders and saves them to a CSV file.
-# LB: it identifies accused speakers using the accused names stored in pleas.csv, as well as the role "accused" and the label "THE ACCUSED".
-# LB: the output contains one row per accused utterance together with metadata such as case, case ID, date and source file.
+""" 
+LB: 
+- this script extracts utterances spoken by the accused from JSON files in case folders and saves them to a CSV file
+- it identifies accused speakers using the accused names stored in pleas.csv, as well as the role "accused" and the label "THE ACCUSED"
+- the output contains one row per accused utterance together with metadata such as case, case ID, date and source file
+- THE inclusion of the information from parsed.csv (names) made a difference of about 5937 rows of utterances, which is a lot
+In total then we have:
+Case folders processed: 82
+JSON files processed:   16495
+Rows in dataframe:      187449
+Accused utterances:     187449
 
+"""
 from pathlib import Path
 import json
 import unicodedata
