@@ -13,3 +13,7 @@
   says 96 not guilty / 17 guilty / 3 unknown. *(Pleas section updated
   2026-06-11; other report numbers checked against current data and still
   match.)*
+- [ ] **Infer `case_id` for transcripts that have none** — 6175 of 16505
+  transcripts (37%) have `null` case_id because the text never mentions it.
+  Possible approach: fill in from other transcripts in the same case folder
+  that do have a case_id.

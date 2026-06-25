@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2014-10-02",
   "utterances": [
     {
@@ -918,7 +918,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, do you have any questions, Mr. Jeremy? But I would have one or two questions first. Questioned by the Court:"
+      "text": "Yes, do you have any questions, Mr. Jeremy? But I would have one or two questions first."
     },
     {
       "id": 123,
@@ -1134,15 +1134,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Please proceed. Further cross-examination by Mr. Jeremy:"
+      "text": "Please proceed."
     },
     {
       "id": 152,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. JEREMY",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Davidovic, you were shown a document dated the 4th of June 1992, and this is a document that related to the categorisation of prisoners to be taken to Manjaca and there's a reference to the consultation with Colonel Stevilovic. You recall that, yes? Now --",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 153,
@@ -1209,11 +1209,11 @@
     },
     {
       "id": 162,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. JEREMY",
       "role": "counsel",
       "type": "question",
       "text": "Now, you were asked whether the language suggested that this was a conversation to be had in the future and you agreed that it was. Now, in connection with that I'd like to show you a follow-up document --",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 163,
@@ -1224,11 +1224,11 @@
     },
     {
       "id": 164,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. JEREMY",
       "role": "counsel",
       "type": "question",
       "text": "Now, we see that this is a document. It's dated the 6th of June, 1992. It's from the public security station Sanski Most. It's signed Acting Chief of Police Security Station, Mirko Vrucinic. I'd like to refer your attention to the first paragraph where we read: \"In accordance with the agreement reached with the Banja Luka corps command (Colonel Stevilovic) and the chief of the police department of the Banja Luka Security Services Centre, Stevo Markovic, we are sending you a group of persons who were captured during combat operations in the municipality of Sanski Most as well as the persons who co-operated with them in the course of preparations for an armed uprising in the municipality of Sanski Most.\" Mr. Davidovic, you would agree that this appears a conversation was indeed had with Mr. Stevilovic and he was involved in the transportation of these prisoners to Manjaca camp; yes?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 165,
@@ -1240,11 +1240,11 @@
     },
     {
       "id": 166,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. JEREMY",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. Now, just one final question. You refer to casualties in your unit and in your statement you refer to four documents that contain details of the wounding and death of members of your unit. I just want to clarify that these wounding and these deaths occurred in September and October 1995; is that correct?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 167,
@@ -1256,11 +1256,11 @@
     },
     {
       "id": 168,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. JEREMY",
       "role": "counsel",
       "type": "question",
       "text": "Thank you.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 169,
@@ -3213,7 +3213,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Judge Moloto has one or more questions for you. I apologise, Judge Fluegge has one or more questions for you. Questioned by the Court:"
+      "text": "Judge Moloto has one or more questions for you. I apologise, Judge Fluegge has one or more questions for you."
     },
     {
       "id": 433,
@@ -3430,6 +3430,14 @@
       "text": "Re-examination by Mr. Lukic:"
     },
     {
+      "after_utterance": 122,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 151,
+      "text": "Further cross-examination by Mr. Jeremy:"
+    },
+    {
       "after_utterance": 182,
       "text": "[The witness withdrew]"
     },
@@ -3480,6 +3488,10 @@
     {
       "after_utterance": 422,
       "text": "Re-examination by Mr. Stojanovic:"
+    },
+    {
+      "after_utterance": 432,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 440,

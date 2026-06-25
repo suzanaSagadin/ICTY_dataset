@@ -1,6 +1,6 @@
 {
   "case": "gotovina",
-  "case_id": "IT-06-90-T",
+  "case_id": "IT-06-90",
   "date": "2009-10-01",
   "utterances": [
     {
@@ -2903,15 +2903,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "I have a few questions for you, Mr. Lukovic. Questioned by the Court:"
+      "text": "I have a few questions for you, Mr. Lukovic."
     },
     {
       "id": 389,
-      "speaker": "MR. CARRIER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "When you gave your statement in 2004, you say that, as we learned from your later statement, that the text was not read to you in Croatian or at least not entirely. What was read and what was not read?",
-      "examination": "cross"
+      "examination": "questioned"
     },
     {
       "id": 390,
@@ -3257,6 +3257,10 @@
     {
       "after_utterance": 387,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 388,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 413,

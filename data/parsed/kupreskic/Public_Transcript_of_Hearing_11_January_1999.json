@@ -1,6 +1,6 @@
 {
   "case": "kupreskic",
-  "case_id": "IT-95-16-T",
+  "case_id": "IT-95-16",
   "date": "1999-01-11",
   "utterances": [
     {
@@ -509,677 +509,711 @@
     },
     {
       "id": 73,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Ms. Slokovic-Glumac:"
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good afternoon, Mr. Cilic.",
+      "examination": "direct"
     },
     {
       "id": 74,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Good afternoon, Mr. Cilic."
-    },
-    {
-      "id": 75,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Good afternoon.",
-      "reply_to": 74
+      "reply_to": 73
+    },
+    {
+      "id": 75,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you please state for the record when were you born, where you were born, where you work, and so on?",
+      "examination": "direct"
     },
     {
       "id": 76,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you please state for the record when were you born, where you were born, where you work, and so on?"
-    },
-    {
-      "id": 77,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Can I do all that while sitting?",
-      "reply_to": 76
+      "reply_to": 75
+    },
+    {
+      "id": 77,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "direct"
     },
     {
       "id": 78,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes."
-    },
-    {
-      "id": 79,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "I am Zvonimir Cilic, born in 1946, I'm a social worker in Vitez, and I work as a journalist in Slobodna Dalmacija in Split, I live and work in Vitez, I am married with two children.",
-      "reply_to": 78
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you tell me what you did in late 1991? How were you employed?",
+      "examination": "direct"
     },
     {
       "id": 80,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you tell me what you did in late 1991? How were you employed?"
-    },
-    {
-      "id": 81,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "I was employed as a social worker in the company Vitezit in Vitez.",
-      "reply_to": 80
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Why did you stop working?",
+      "examination": "direct"
     },
     {
       "id": 82,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Why did you stop working?"
-    },
-    {
-      "id": 83,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Officially I did not stop working, but because of the economic crisis which ensued after the break-up of the former Yugoslavia, in my company a certain number of employees had to be temporarily laid off. In other words, they had to stay at home and not come to work. I first was put in a situation like that in late 1991, I was on hold for two months, and then in 1992 this happened again, after which I never went back because I stopped being interested in working there.",
-      "reply_to": 82
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So what did you do then in early 1992?",
+      "examination": "direct"
     },
     {
       "id": 84,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So what did you do then in early 1992?"
-    },
-    {
-      "id": 85,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "With a group of friends we started publishing a paper called Lasvanski Glasnik, the Lasva Messenger, which was a monthly magazine. However, the Crisis Staff, which was comprised of both Muslims and Croats, invited me to set up a press service for the press and staff of the Vitez municipality and I agreed. We consisted of five people. There were three Croats and two Muslims. There was myself, two other Croats and two Bosnian Muslims.",
-      "reply_to": 84
+      "reply_to": 83
+    },
+    {
+      "id": 85,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who were the Muslims?",
+      "examination": "direct"
     },
     {
       "id": 86,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Who were the Muslims?"
-    },
-    {
-      "id": 87,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Midhat Varupa, who is a lawyer; and Mohamed Halilovic, who was a teacher.",
-      "reply_to": 86
+      "reply_to": 85
+    },
+    {
+      "id": 87,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, this press service was part of the Crisis Staff or was it a separate service?",
+      "examination": "direct"
     },
     {
       "id": 88,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, this press service was part of the Crisis Staff or was it a separate service?"
-    },
-    {
-      "id": 89,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "This was a service of a Crisis Staff and also of the Vitez municipality.",
-      "reply_to": 88
+      "reply_to": 87
+    },
+    {
+      "id": 89,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you tell us what was this Crisis Staff in 1992?",
+      "examination": "direct"
     },
     {
       "id": 90,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you tell us what was this Crisis Staff in 1992?"
-    },
-    {
-      "id": 91,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "You see, as early as 1991 there were a number problems in the territory of the former Yugoslavia, and there was the attack of the former JNA against certain parts of the territory of Bosnia-Herzegovina, and we were looking for ways to protect citizens in our municipality because the JNA had already occupied some parts of Bosnia-Herzegovina and even some very important communication lines, so the Crisis Staff was set up to deal with those issues. They needed to organise the supply of citizenry, because the food stocks were low and the people were unemployed. They didn't have enough money to pay with, so this wasn't enough supply, so part of the Crisis Staff's function was to try to supply the citizenry and so on.",
-      "reply_to": 90
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did both the Croats and the Bosniaks make part of this Crisis Staff?",
+      "examination": "direct"
     },
     {
       "id": 92,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did both the Croats and the Bosniaks make part of this Crisis Staff?"
-    },
-    {
-      "id": 93,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. It was proportionate. In other words, it reflected the composition of the population of Vitez municipality, and it reflected the results of the elections, and the results of the elections also sort of reflected the composition of the population in the Vitez municipality.",
-      "reply_to": 92
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So what was the proportion in terms of different -- of ethnic groups?",
+      "examination": "direct"
     },
     {
       "id": 94,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So what was the proportion in terms of different -- of ethnic groups?"
-    },
-    {
-      "id": 95,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "You mean in the Vitez municipality?",
-      "reply_to": 94
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "direct"
     },
     {
       "id": 96,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes."
-    },
-    {
-      "id": 97,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "I may be slightly off, but the Vitez municipality has about 26.000 inhabitants. There were slightly less than 13.000 Croats, slightly over 11.000 Bosniak Muslims, about 1.500 Serbs, about 1.000 Yugoslavs and a couple hundred of others.",
-      "reply_to": 96
+      "reply_to": 95
+    },
+    {
+      "id": 97,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said that the composition of the Crisis Staff reflected the ethnic structure. Does that mean that the ethnic structure dictated or the elections dictated this composition?",
+      "examination": "direct"
     },
     {
       "id": 98,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You said that the composition of the Crisis Staff reflected the ethnic structure. Does that mean that the ethnic structure dictated or the elections dictated this composition?"
-    },
-    {
-      "id": 99,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "It doesn't matter which criteria you take because they overlapped. It was very easy to find the proper key and find the solution which was acceptable for both the Croat and Muslim side, because at the time the relationships were still very good.",
-      "reply_to": 98
+      "reply_to": 97
+    },
+    {
+      "id": 99,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you please just slow down? You speak too fast and so it's hard to interpret.",
+      "examination": "direct"
     },
     {
       "id": 100,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you please just slow down? You speak too fast and so it's hard to interpret."
-    },
-    {
-      "id": 101,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Very well. I will try.",
-      "reply_to": 100
+      "reply_to": 99
+    },
+    {
+      "id": 101,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The first government which was established in the Vitez municipality, as you said, reflected that the Croats and Muslims had pretty much the same numbers.",
+      "examination": "direct"
     },
     {
       "id": 102,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "The first government which was established in the Vitez municipality, as you said, reflected that the Croats and Muslims had pretty much the same numbers."
-    },
-    {
-      "id": 103,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "If you will allow me -- let me go back to my notes. On the 11th of November, the elections were held and the HDZ got 40.2 per cent, the SDA got 30.7, SDS about 18.6, and then the Youth Movement 2.1 and the Reform Party with the former Prime Minister got 3.9, and there were a couple of other parties which got very little or very few votes.",
-      "reply_to": 102
+      "reply_to": 101
+    },
+    {
+      "id": 103,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "How about the local government structures, did they also take into account this -- the ethnic composition?",
+      "examination": "direct"
     },
     {
       "id": 104,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How about the local government structures, did they also take into account this -- the ethnic composition?"
-    },
-    {
-      "id": 105,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Could you repeat that?",
-      "reply_to": 104
+      "reply_to": 103
+    },
+    {
+      "id": 105,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In assigning different posts of the local government, did it also reflect the ethnic composition?",
+      "examination": "direct"
     },
     {
       "id": 106,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In assigning different posts of the local government, did it also reflect the ethnic composition?"
-    },
-    {
-      "id": 107,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it was taken into account. The majority party had to get the top position, so the Croatian candidate got the top spot in the municipality, and the second, which was the President of the executive board. So Ivan Santic was the President from the municipality and the President of the Executive Board was Fuad Kaknjo. He was a member of the SDA.",
-      "reply_to": 106
+      "reply_to": 105
+    },
+    {
+      "id": 107,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "How about the other key positions in the municipal government? Were they also filled by this same criteria?",
+      "examination": "direct"
     },
     {
       "id": 108,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How about the other key positions in the municipal government? Were they also filled by this same criteria?"
-    },
-    {
-      "id": 109,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "All positions which were elected positions were filled in such a way that it reflected the 18 November elections. In other words, that they were equally divided between the two parties which won the elections, that is the HDZ and the SDA, and there were no problems. I just receive a warning to slow down and I'll try to do so. So the representatives of the SDA and the HDZ were represented in the manner that reflected the elections. In other words, the representatives of the Croats and Muslims. And in the beginning, as far as I know, there were no problems.",
-      "reply_to": 108
+      "reply_to": 107
+    },
+    {
+      "id": 109,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And as far as the commander of the Territorial Defence is concerned, who was appointed commander?",
+      "examination": "direct"
     },
     {
       "id": 110,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And as far as the commander of the Territorial Defence is concerned, who was appointed commander?"
-    },
-    {
-      "id": 111,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "It was the Bosnian Muslims, and I believe Hakija Cengic is his name. He was appointed to that position because he had the proper training.",
-      "reply_to": 110
+      "reply_to": 109
+    },
+    {
+      "id": 111,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was the Territorial Defence? It was this institution that was sort of inherited from the previous systems?",
+      "examination": "direct"
     },
     {
       "id": 112,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And what was the Territorial Defence? It was this institution that was sort of inherited from the previous systems?"
-    },
-    {
-      "id": 113,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. It was taken over from the former system. At first, some of these institutions were just kept in place, there was no need to change them.",
-      "reply_to": 112
+      "reply_to": 111
+    },
+    {
+      "id": 113,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So what was the Territorial Defence?",
+      "examination": "direct"
     },
     {
       "id": 114,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So what was the Territorial Defence?"
-    },
-    {
-      "id": 115,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "The Territorial Defence, in the former system, was a formation that existed along with the JNA. It was staffed with reserves. It was sort of a reserve corps in case Yugoslavia was attacked, but it also was charged with assisting the population if there was any natural disaster or any such crisis. So it was a reserve aspect of the JNA, the regular army.",
-      "reply_to": 114
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When did the Territorial Defence start to be transformed into something that was not just a reserve formation structure but a military structure?",
+      "examination": "direct"
     },
     {
       "id": 116,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When did the Territorial Defence start to be transformed into something that was not just a reserve formation structure but a military structure?"
-    },
-    {
-      "id": 117,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "It started being transformed into a military structure at a time when the first serious problems between Croats and Muslims started appearing in the area where I lived, that is in Lasva River Valley, Vitez, that area.",
-      "reply_to": 116
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So what -- where was -- what was the war with the Serbs at that time, first in Croatia and then in this area?",
+      "examination": "direct"
     },
     {
       "id": 118,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So what -- where was -- what was the war with the Serbs at that time, first in Croatia and then in this area?"
-    },
-    {
-      "id": 119,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "That's what I had in mind when I said that the Territorial Defence was becoming less and less Croatian and more and more Bosniak Muslim, because it was apparent at that time that Muslims and Croats in Central Bosnia and in Bosnia-Herzegovina overall perceived the JNA aggression or Serbia aggression against Croatia a different way, especially at a time when the JNA, that is the Serbian army, entered the territory of Bosnia and Herzegovina, when it conducted combat operations from the territory of Bosnia-Herzegovina against Croatia.",
-      "reply_to": 118
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was the official response of President Izetbegovic, that is, of the official Sarajevo?",
+      "examination": "direct"
     },
     {
       "id": 120,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What was the official response of President Izetbegovic, that is, of the official Sarajevo?"
-    },
-    {
-      "id": 121,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Perhaps the reaction of Alija Izetbegovic may have been a sort of irritant for the Croats, and maybe that's what instilled the first fear in them, because Mr. Izetbegovic several times repeated, \"The war in Croatia is not our war.\" When he said, \"Our war,\" he meant Bosnia and Herzegovina, but for Croats in Bosnia, you couldn't speak of war in Croatia in that way, because we Croats in Bosnia felt that it was our war as well because we saw it as a threat to Bosnia and Herzegovina as well. We saw that it could not be stopped.",
-      "reply_to": 120
+      "reply_to": 119
+    },
+    {
+      "id": 121,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When did the -- when did the Croatian side start organising itself?",
+      "examination": "direct"
     },
     {
       "id": 122,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When did the -- when did the Croatian side start organising itself?"
-    },
-    {
-      "id": 123,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "As early as 1991, when the -- when the village of Rama was attacked in Herzegovina. This is a Croatian village, and the Serbian army, which was still called the JNA, ran it over. Then the Croats in Bosnia saw that they needed to get organised, to get prepared, because the sword of war was hanging over it. And we were very anxious about this war, much more so than the Bosnian Muslims were.",
-      "reply_to": 122
+      "reply_to": 121
+    },
+    {
+      "id": 123,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So when was it that any organisation started, and when the Croats started organising themselves and started establishing some military structures?",
+      "examination": "direct"
     },
     {
       "id": 124,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So when was it that any organisation started, and when the Croats started organising themselves and started establishing some military structures?"
-    },
-    {
-      "id": 125,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "In the territory of Vitez municipality, as well as in other areas where the Croats were in majority, started organising village watches in 1991. I don't know if I need to go into what village watches are.",
-      "reply_to": 124
+      "reply_to": 123
+    },
+    {
+      "id": 125,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Go ahead, please.",
+      "examination": "direct"
     },
     {
       "id": 126,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Go ahead, please."
-    },
-    {
-      "id": 127,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "At first these were just groups of citizens, regardless of their ethnic background. If they were mixed villages, let's say Croats and Muslim, they would form joint watches. It consisted of just preventing -- its goal was to prevent anything happening during the night, including simple looting or thefts, because the rule of law had weakened to that extent that it was needed.",
-      "reply_to": 126
+      "reply_to": 125
+    },
+    {
+      "id": 127,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Excuse me, but could you just slow down a little bit again?",
+      "examination": "direct"
     },
     {
       "id": 128,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Excuse me, but could you just slow down a little bit again?"
-    },
-    {
-      "id": 129,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "There were also a number of barracks occupied by the JNA, such as in Novi Travnik, Travnik, Busovaca, Kiseljak. And that was one of the fears for them, the Croatian population, and we also felt in the beginning that the communication lines could be interrupted, blocked suddenly, that certain companies would be taken over. There were a lot of military complexes in Bugojno and Vitez and other places.",
-      "reply_to": 128
+      "reply_to": 127
+    },
+    {
+      "id": 129,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So what is the significance of the Vitez company for the military?",
+      "examination": "direct"
     },
     {
       "id": 130,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So what is the significance of the Vitez company for the military?"
-    },
-    {
-      "id": 131,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "At one point there were three companies. Vitezit was one of the largest facilities for production of explosives and gunpowder in the Balkans. It employed 3.000 people, and it was part of the military industrial complex of the former JNA. It was a significant part of this military industrial complex, because without this company there would be no explosives, or gunpowder or rocket propellants. So it could be said that this was one of the key facilities in the military industrial complex of the former Yugoslavia.",
-      "reply_to": 130
+      "reply_to": 129
+    },
+    {
+      "id": 131,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did the JNA, that is the Bosnian Serbs, attack Vitezit, and when was it attacked?",
+      "examination": "direct"
     },
     {
       "id": 132,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did the JNA, that is the Bosnian Serbs, attack Vitezit, and when was it attacked?"
-    },
-    {
-      "id": 133,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Several times Croats, but it was only Croats, who tried to prevent the military equipment and weapons being hauled from Vitezit and from the facilities in Novi Travnik, because the JNA had more and more need for the products of Vitezit and Novi Travnik. In Novi Travnik guns were manufactured and some other military equipment, and as I said, in Vitez it was explosives, and gunpowder and rocket propellants. And we did protect it any way we could. We knew that this was going to go to Croatia and be used against Croats, and the JNA troops were leaving at that time, they were leaving Slovenia and they were getting re-deployed in the area of Central Bosnia. And the factory kept working. What we did was try to prevent all the supplies and this equipment being hauled away, but it was very difficult because JNA were still very strong, very powerful. And a number of officials, military personnel, were still siding with the JNA because they were afraid.",
-      "reply_to": 132
+      "reply_to": 131
+    },
+    {
+      "id": 133,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was Vitez shelled?",
+      "examination": "direct"
     },
     {
       "id": 134,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was Vitez shelled?"
-    },
-    {
-      "id": 135,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. The first time when -- first attacked on 26 April, 1992, and the shelling was preceded by the surrender of the Busovaca barracks of the JNA, which was called Draga. The Croatian population and its political structure exerted pressure and Draga was abandoned, and took their -- they had to leave, and they had to leave the equipment behind and there was a lot of it. However, several hours later the JNA planes bombed the area of Busovaca and Vitez. There was some damages in Vitez, and in Busovaca three people were killed, two Croats and one Muslim person, and material damage was also significant. There were several burned buildings.",
-      "reply_to": 134
+      "reply_to": 133
+    },
+    {
+      "id": 135,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Regarding the formation of the army, you said that the -- originally, the army started in the form of village guards. What happened then?",
+      "examination": "direct"
     },
     {
       "id": 136,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Regarding the formation of the army, you said that the -- originally, the army started in the form of village guards. What happened then?"
-    },
-    {
-      "id": 137,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "In the meantime, institutions of the Croatian people were set up in the territory of Vitez municipality in the same way in which they were formed in other places in Bosnia-Herzegovina where the Croats had a majority. Are you referring to the Croatian Community of Herceg-Bosna and then the HVO? Is that what you mean?",
-      "reply_to": 136
+      "reply_to": 135
+    },
+    {
+      "id": 137,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When did the municipal staff begin to be formed?",
+      "examination": "direct"
     },
     {
       "id": 138,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When did the municipal staff begin to be formed?"
-    },
-    {
-      "id": 139,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "The joint municipal staff existed already at the beginning of 1992. At first there were no problems and all the staffs were manned jointly, Crisis Staffs and Defence Staffs. However, at the beginning of 1992, these institutions of the Croatian people were set up, and on the 18th of November, '91 the Croatian community of Herceg-Bosna, and then in the spring of 1992 the Croatian Defence Council.",
-      "reply_to": 138
+      "reply_to": 137
+    },
+    {
+      "id": 139,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was happening on the Bosniak side in terms of the formation of the army in this period?",
+      "examination": "direct"
     },
     {
       "id": 140,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What was happening on the Bosniak side in terms of the formation of the army in this period?"
-    },
-    {
-      "id": 141,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "The Croats were setting up their own units in order to resist the Serb aggression, because already in January '92 the Serbs were close to the Lasva Valley. They had gained control of the Vlasic Mountain, which was dominant in Northern and Central Bosnia, and they had also captured an important strategic feature called Komor on the road between Travnik and Gornji Vakuf, or, rather, on the communication line linking Central Bosnia with Dalmatia, Western Bosnia and Croatia. And this was a signal that we had to organise and resist the Serb aggression, otherwise we would end up in the same way as many other parts of Bosnia-Herzegovina, and many parts of Croatia had ended up by then. Even before the formation of the HVO, these village guards were gradually enlarged and these Crisis Staffs started to be formed. And in Vitez already in October '91 the coordination, organisation and preparation started, though they were still not formal military units, but fear and threats forced people to self organise to form the appropriate bodies and to identify the people who would be capable of preparing and organising defence against the Serbs. And as I said, the threats were obvious because all communications had been intercepted, the supply of food and medicines had become difficult, because of this road linking us to Dalmatia and Croatia was cut off. So we were forced to find other routes at a time of great shortages. We built a road, which was some 30 kilometres long, and instead of using the normal road to Split, which would take us 3 hours, these new roads -- along these new roads it took us 15.",
-      "reply_to": 140
+      "reply_to": 139
+    },
+    {
+      "id": 141,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "How did the HVO get armed?",
+      "examination": "direct"
     },
     {
       "id": 142,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How did the HVO get armed?"
-    },
-    {
-      "id": 143,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "The arming started before the HVO. The village guard started mostly with hunting rifles or old weapons -- who knows where people got them from -- but then there was black marketeering too and one could purchase weapons on the black market. An illustration that I could give is people would sell a cow which fed the whole family to buy a gun because they thought this was essential for their survival. More serious arming by the HVO started with the capture of barracks of the former JNA, or maybe it would be better to say that already, in '91, by decision of the official authorities in Sarajevo, all the weapons of the Territorial Defence in Vitez, for instance, these were stored in the Vitezit factory, orders came that the Yugoslav People's Army should take over those weapons; in other words, already in May 1991, the Bosniak and Croat peoples in Central Bosnia were totally disarmed. Earlier, we had certain quantities of high-quality weapons, as the Territorial Defence, but this decision taken in May '91 took all this away from us so that we were left with nothing. About a year later -- or let me be more precise -- on the 3rd of May, 1992, military units -- I can call them that -- of the HVO of Novi Travnik and Vitez, Vitez in particular, assisted by units from Novi Travnik, captured a large arms depot called Slimena, in the territory of Travnik municipality or, rather, at the intersection of three municipalities, Travnik, Novi Travnik, and Vitez. This was the first more serious conflict between the so-called JNA and Croatian units in Central Bosnia when the first Croatian military victims fell, two young men were killed, Ilija Petrovic and Josip Kurevija, and some 15 young men were wounded, but large quantities of weapons were seized, and this later proved to be very important.",
-      "reply_to": 142
+      "reply_to": 141
+    },
+    {
+      "id": 143,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Tell us, these weapons were in the possession of the HVO or the TO as well?",
+      "examination": "direct"
     },
     {
       "id": 144,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Tell us, these weapons were in the possession of the HVO or the TO as well?"
-    },
-    {
-      "id": 145,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "It was not appropriated only by the HVO even though the HVO and the HOS participated in this operation, but the very next day, a principled agreement was reached that all these weapons seized in Slimena should be shared 50-50 between the Territorial Defence and the HVO units.",
-      "reply_to": 144
+      "reply_to": 143
     },
     {
-      "id": 146,
+      "id": 145,
       "speaker": "MS. SLOKOVIC-GLUMAC",
       "role": "counsel",
       "type": "statement",
       "text": "If I may tender an exhibit on this issue, then we can resume the testimony tomorrow?"
     },
     {
-      "id": 147,
+      "id": 146,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 148,
+      "id": 147,
       "speaker": "MS. SLOKOVIC-GLUMAC",
       "role": "counsel",
       "type": "statement",
       "text": "With the help of the usher, please."
     },
     {
-      "id": 149,
+      "id": 148,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "The document will be marked D17/2."
     },
     {
-      "id": 150,
+      "id": 149,
       "speaker": "MS. SLOKOVIC-GLUMAC",
       "role": "counsel",
       "type": "statement",
       "text": "Could the usher -- oh, yes. The witness has a copy. Fine."
     },
     {
-      "id": 151,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 150,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
       "role": "counsel",
       "type": "question",
-      "text": "So we have the original of the document now. Do you know who was the commander of the crisis staff of Vitez municipality at the time?"
+      "text": "So we have the original of the document now. Do you know who was the commander of the crisis staff of Vitez municipality at the time?",
+      "examination": "direct"
     },
     {
-      "id": 152,
+      "id": 151,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "It was Ivan Santic.",
-      "reply_to": 151
+      "reply_to": 150
+    },
+    {
+      "id": 152,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recognise his signature?",
+      "examination": "direct"
     },
     {
       "id": 153,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you recognise his signature?"
-    },
-    {
-      "id": 154,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. He has a specific signature, and I would come across it frequently because I was often in attendance at meetings of the crisis staff and later of the HVO government.",
-      "reply_to": 153
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the stamp you see there, that is the stamp of Bosnia-Herzegovina?",
+      "examination": "direct"
     },
     {
       "id": 155,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And the stamp you see there, that is the stamp of Bosnia-Herzegovina?"
-    },
-    {
-      "id": 156,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that is the stamp that was still valid at the time for both sides, conditionally speaking, because we didn't really have two sides yet.",
-      "reply_to": 155
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you remember that at that time an order was issued that all the resources taken from TO warehouses, the Travnik maintenance shop, and other facilities be divided up equally between the Territorial Defence of Vitez and the HVO headquarters?",
+      "examination": "direct"
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you remember that at that time an order was issued that all the resources taken from TO warehouses, the Travnik maintenance shop, and other facilities be divided up equally between the Territorial Defence of Vitez and the HVO headquarters?"
-    },
-    {
-      "id": 158,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "That is what I just said a moment ago in my testimony. This just corroborates my statement. I think there is nothing disputed about this. For a long time after this, the same attitude was applied regarding resources of the Vitezit factory and other resources.",
-      "reply_to": 157
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When we see here, \"I order that all resources taken from the TO warehouse,\" this actually refers to the former TO, from the former system; it is not the TO, the Territorial Defence, that developed later in '92?",
+      "examination": "direct"
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When we see here, \"I order that all resources taken from the TO warehouse,\" this actually refers to the former TO, from the former system; it is not the TO, the Territorial Defence, that developed later in '92?"
-    },
-    {
-      "id": 160,
       "speaker": "ZVONIMIR CILIC",
       "role": "witness",
       "type": "answer",
       "text": "If I may say so, I think this is rather a clumsy wording. The TO warehouse really means the JNA warehouse where all the weapons from the municipalities of Central Bosnia had been seized and stored earlier.",
-      "reply_to": 159
+      "reply_to": 158
     },
     {
-      "id": 161,
+      "id": 160,
       "speaker": "MS. SLOKOVIC-GLUMAC",
       "role": "counsel",
       "type": "statement",
       "text": "I suggest that we can break now."
     },
     {
-      "id": 162,
+      "id": 161,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. We will adjourn until tomorrow at 9.00, and tomorrow, as you remember, we will sit only in the morning, from 9.00 to 1.30. We stand adjourned."
     },
     {
-      "id": 163,
+      "id": 162,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
@@ -1212,7 +1246,11 @@
       "text": "WITNESS:  ZVONIMIR CILIC"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 72,
+      "text": "Examined by Ms. Slokovic-Glumac:"
+    },
+    {
+      "after_utterance": 161,
       "text": "--- Whereupon proceedings adjourned at"
     }
   ],

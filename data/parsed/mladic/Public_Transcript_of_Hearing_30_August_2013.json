@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2013-08-30",
   "utterances": [
     {
@@ -632,7 +632,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "If it's not to be done with the witness, we'll postpone that. Questioned by the Court:"
+      "text": "If it's not to be done with the witness, we'll postpone that."
     },
     {
       "id": 89,
@@ -690,14 +690,15 @@
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
-      "text": "Just two or three short ones. Further Cross-examination by Mr. Lukic:"
+      "text": "Just two or three short ones."
     },
     {
       "id": 97,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
-      "text": "[Interpretation] Mr. Turkusic, here I am again but I'm not going to bother you for too long. I know you're keen to go home. This part that you just saw that is revolving or rotating, is it true that, in fact, during the assembly it is glued by a very strong glue that cannot be affected by any explosion so as a result all these parts remain firmly fixed even after the detonation?"
+      "text": "[Interpretation] Mr. Turkusic, here I am again but I'm not going to bother you for too long. I know you're keen to go home. This part that you just saw that is revolving or rotating, is it true that, in fact, during the assembly it is glued by a very strong glue that cannot be affected by any explosion so as a result all these parts remain firmly fixed even after the detonation?",
+      "examination": "cross"
     },
     {
       "id": 98,
@@ -709,10 +710,11 @@
     },
     {
       "id": 99,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
-      "text": "Just briefly, relating to the Simon Bolivar sketch, as a matter of practice, are you using the sketches and the material provided by your colleagues who were at the scene? I'm talking about other cases. Did you rely on their documentation?"
+      "text": "Just briefly, relating to the Simon Bolivar sketch, as a matter of practice, are you using the sketches and the material provided by your colleagues who were at the scene? I'm talking about other cases. Did you rely on their documentation?",
+      "examination": "cross"
     },
     {
       "id": 100,
@@ -2591,6 +2593,14 @@
     {
       "after_utterance": 72,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 88,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 96,
+      "text": "Further Cross-examination by Mr. Lukic:"
     },
     {
       "after_utterance": 108,

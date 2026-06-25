@@ -1,6 +1,6 @@
 {
   "case": "krajisnik",
-  "case_id": "IT-00-39-T",
+  "case_id": "IT-00-39",
   "date": "2005-03-23",
   "utterances": [
     {
@@ -428,14 +428,15 @@
       "speaker": "MR. TIEGER",
       "role": "counsel",
       "type": "statement",
-      "text": "Thank you, Your Honour. Examined by Mr. Tieger:"
+      "text": "Thank you, Your Honour."
     },
     {
       "id": 62,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. TIEGER",
       "role": "counsel",
       "type": "question",
-      "text": "Good afternoon, Mr. Sejmenovic. I indicated to the Chamber that Blank page inserted to ensure pagination corresponds between the French and English transcripts. --"
+      "text": "Good afternoon, Mr. Sejmenovic. I indicated to the Chamber that Blank page inserted to ensure pagination corresponds between the French and English transcripts. --",
+      "examination": "direct"
     },
     {
       "id": 63,
@@ -447,10 +448,11 @@
     },
     {
       "id": 64,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. TIEGER",
       "role": "counsel",
       "type": "question",
-      "text": "-- that I wanted to ask one question and that concerned your meeting with Mr. Kupresanin at the Omarska camp which is found beginning at page 4804 of the Stakic transcript. You indicated in your testimony that after Mr. Kupresanin came in and started talking to you, he proceeded with some political arguments and political theories and you listened to him. I simply wanted to ask you whether you recall what Mr. Kupresanin spoke about?"
+      "text": "-- that I wanted to ask one question and that concerned your meeting with Mr. Kupresanin at the Omarska camp which is found beginning at page 4804 of the Stakic transcript. You indicated in your testimony that after Mr. Kupresanin came in and started talking to you, he proceeded with some political arguments and political theories and you listened to him. I simply wanted to ask you whether you recall what Mr. Kupresanin spoke about?",
+      "examination": "direct"
     },
     {
       "id": 65,
@@ -462,10 +464,11 @@
     },
     {
       "id": 66,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. TIEGER",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, sir."
+      "text": "Thank you, sir.",
+      "examination": "direct"
     },
     {
       "id": 67,
@@ -749,6 +752,10 @@
     {
       "after_utterance": 59,
       "text": "[Trial Chamber and legal officer confer]"
+    },
+    {
+      "after_utterance": 61,
+      "text": "Examined by Mr. Tieger:"
     },
     {
       "after_utterance": 84,

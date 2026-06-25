@@ -1,6 +1,6 @@
 {
   "case": "aleksovski",
-  "case_id": "IT-95-14/2-T",
+  "case_id": "IT-95-14",
   "date": "1999-07-15",
   "utterances": [
     {
@@ -33,2294 +33,2422 @@
     },
     {
       "id": 5,
-      "speaker": "JUDGE MAY",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Nice:"
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Name, please?",
+      "examination": "direct"
     },
     {
       "id": 6,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Name, please?"
-    },
-    {
-      "id": 7,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Ehsan Bajwa.",
-      "reply_to": 6
+      "reply_to": 5
+    },
+    {
+      "id": 7,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Nationality?",
+      "examination": "direct"
     },
     {
       "id": 8,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Nationality?"
-    },
-    {
-      "id": 9,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "From Pakistan.",
-      "reply_to": 8
+      "reply_to": 7
+    },
+    {
+      "id": 9,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Education?",
+      "examination": "direct"
     },
     {
       "id": 10,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Education?"
-    },
-    {
-      "id": 11,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "BA.",
-      "reply_to": 10
+      "reply_to": 9
+    },
+    {
+      "id": 11,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Whereabouts?",
+      "examination": "direct"
     },
     {
       "id": 12,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Whereabouts?"
-    },
-    {
-      "id": 13,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I did my BA degree at the University of Punjab in Lahore.",
-      "reply_to": 12
+      "reply_to": 11
+    },
+    {
+      "id": 13,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you join the police force?",
+      "examination": "direct"
     },
     {
       "id": 14,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you join the police force?"
-    },
-    {
-      "id": 15,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did, in 1989.",
-      "reply_to": 14
+      "reply_to": 13
+    },
+    {
+      "id": 15,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you were how old?",
+      "examination": "direct"
     },
     {
       "id": 16,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you were how old?"
-    },
-    {
-      "id": 17,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "At that time, I was 23.",
-      "reply_to": 16
+      "reply_to": 15
+    },
+    {
+      "id": 17,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "You're now?",
+      "examination": "direct"
     },
     {
       "id": 18,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You're now?"
-    },
-    {
-      "id": 19,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Thirty-two.",
-      "reply_to": 18
+      "reply_to": 17
+    },
+    {
+      "id": 19,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you join as an officer?",
+      "examination": "direct"
     },
     {
       "id": 20,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you join as an officer?"
-    },
-    {
-      "id": 21,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, as a commissioned officer.",
-      "reply_to": 20
+      "reply_to": 19
+    },
+    {
+      "id": 21,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you promoted within five or six years to the rank of superintendent?",
+      "examination": "direct"
     },
     {
       "id": 22,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were you promoted within five or six years to the rank of superintendent?"
-    },
-    {
-      "id": 23,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I was, in 1995 to be exact.",
-      "reply_to": 22
+      "reply_to": 21
+    },
+    {
+      "id": 23,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is that as young an age as an officer in Pakistan can reach the rank of superintendent?",
+      "examination": "direct"
     },
     {
       "id": 24,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is that as young an age as an officer in Pakistan can reach the rank of superintendent?"
-    },
-    {
-      "id": 25,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it is.",
-      "reply_to": 24
+      "reply_to": 23
+    },
+    {
+      "id": 25,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "When did you join the Tribunal?",
+      "examination": "direct"
     },
     {
       "id": 26,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When did you join the Tribunal?"
-    },
-    {
-      "id": 27,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "In August 1995.",
-      "reply_to": 26
+      "reply_to": 25
+    },
+    {
+      "id": 27,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "The same year you became a superintendent?",
+      "examination": "direct"
     },
     {
       "id": 28,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "The same year you became a superintendent?"
-    },
-    {
-      "id": 29,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's true. Almost eight months after that.",
-      "reply_to": 28
+      "reply_to": 27
+    },
+    {
+      "id": 29,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Since then ...",
+      "examination": "direct"
     },
     {
       "id": 30,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Since then ..."
-    },
-    {
-      "id": 31,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Could we ask the speakers to slow down, please."
     },
     {
-      "id": 32,
+      "id": 31,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
       "text": "... renewals of your initial contract have you just had?"
     },
     {
-      "id": 33,
+      "id": 32,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I just received the fifth one.",
-      "reply_to": 30
+      "reply_to": 29
+    },
+    {
+      "id": 33,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "In the course of working for the Tribunal, have you collected or have you taken many witness statements?",
+      "examination": "direct"
     },
     {
       "id": 34,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In the course of working for the Tribunal, have you collected or have you taken many witness statements?"
+      "speaker": "EHSAN BAJWA",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, indeed I did.",
+      "reply_to": 33
     },
     {
       "id": 35,
-      "speaker": "EHSAN BAJWA",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes, indeed I did.",
-      "reply_to": 34
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "My apologies to the interpreters. I failed to put my headphones on. I will do so. Was one of the statements you took the statement from Muhamed Mujezinovic, the statement being taken on the 3rd of February, 1997?",
+      "examination": "direct"
     },
     {
       "id": 36,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "My apologies to the interpreters. I failed to put my headphones on. I will do so. Was one of the statements you took the statement from Muhamed Mujezinovic, the statement being taken on the 3rd of February, 1997?"
-    },
-    {
-      "id": 37,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, indeed I did.",
-      "reply_to": 36
+      "reply_to": 35
+    },
+    {
+      "id": 37,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "On that occasion were you working together with Gregory Kehoe, one of the lawyers of the institution, and were you assisted by Lejla Avdagic, an interpreter?",
+      "examination": "direct"
     },
     {
       "id": 38,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "On that occasion were you working together with Gregory Kehoe, one of the lawyers of the institution, and were you assisted by Lejla Avdagic, an interpreter?"
-    },
-    {
-      "id": 39,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did. I did work with Greg Kehoe and was assisted by Lejla Avdagic.",
-      "reply_to": 38
+      "reply_to": 37
+    },
+    {
+      "id": 39,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please tell us the process whereby the witness statement was taken.",
+      "examination": "direct"
     },
     {
       "id": 40,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Please tell us the process whereby the witness statement was taken."
-    },
-    {
-      "id": 41,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "The way a witness statement is taken differs from situation to situation. It was a situation where the witness had already been interviewed on previous occasions, so it was a supplementary statement. The purpose of the interview, for one, was that Mr. Greg Kehoe would be able to gain some personal impression of the witness. Secondly, we wanted to clarify some of the points and issues that did arise from his previous statements. So we introduced ourselves, because I personally, and I believe that's true for Mr. Greg Kehoe as well, we had not met him before, so we introduced ourselves as a lawyer and investigator from ICTY, and we explained what the purpose of this interview was, why were we meeting yet another time and talking about those things. Lejla Avdagic was, of course, interpreting for us, and the interview lasted for about six, seven hours. I had the statement that the witness had given previously in July 1995, I believe, taken by Simon Leach. I had that statement before me. I would raise a matter from that statement with the witness, and he would recount the story that he told to the previous investigator. I would see to what extent his renarration, his recounting, was in keeping with what he said before, and I would seek explanations if there was some minor differences. If there were matters that had not been addressed and in my view should have been addressed, I would ask him questions regarding that. I did indeed prepare a statement on the basis of that interview.",
-      "reply_to": 40
+      "reply_to": 39
+    },
+    {
+      "id": 41,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was the statement prepared there and then, and if so, how, by hand, on a laptop or what?",
+      "examination": "direct"
     },
     {
       "id": 42,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was the statement prepared there and then, and if so, how, by hand, on a laptop or what?"
-    },
-    {
-      "id": 43,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Indeed the statement was prepared contemporaneously with the interview and it was on a laptop computer that the statement was prepared.",
-      "reply_to": 42
+      "reply_to": 41
+    },
+    {
+      "id": 43,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "At the conclusion of the preparation of the statement, was Dr. Mujenznovic given an opportunity to consider the statement and, if so, how was he given that opportunity?",
+      "examination": "direct"
     },
     {
       "id": 44,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "At the conclusion of the preparation of the statement, was Dr. Mujenznovic given an opportunity to consider the statement and, if so, how was he given that opportunity?"
-    },
-    {
-      "id": 45,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, he was given that opportunity. It was Lejla Avdajic, our interpreter, who read that statement back to the witness, and we asked him, is it in keeping with what he had said. Is it a true representation of what he had said, and he agreed that yes, it was. Then we asked him to sign it, and he did indeed sign the signature, as did I, and my interpreter Lejla Avdajic.",
-      "reply_to": 44
+      "reply_to": 43
+    },
+    {
+      "id": 45,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you remember anything being said on that occasion about translations, either the translation on that occasion or any other occasion?",
+      "examination": "direct"
     },
     {
       "id": 46,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you remember anything being said on that occasion about translations, either the translation on that occasion or any other occasion?"
-    },
-    {
-      "id": 47,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "As I read this statement that I recorded, there was one point where the witness did say something about the translation on the previous occasion. I do not have an exact recollection of what exactly he did say, but he said something to the effect that the translation was not as good on the previous occasion. The point at which I can recall that while reading in the statement is where that witness mentions the number of people being held in detention and as it was given to him during the meeting with Mario Cerkez. In his interview with me, the witness said that the number of people who were being held in detention, as alleged by Mario Cerkez, was 2.223. I said, \"But in your brief statement to Simon Leach during July 1995, you just said more than 2.000 and now you are saying 2.223. How would you account for this precision?\" I believe that it was at that point that he said something -- he made some remark about the quality of translation on that previous occasion.",
-      "reply_to": 46
+      "reply_to": 45
+    },
+    {
+      "id": 47,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. As to the man Darko Kraljevic, do you have any present vivid recollection of his speaking of Darko Kraljevic at all?",
+      "examination": "direct"
     },
     {
       "id": 48,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. As to the man Darko Kraljevic, do you have any present vivid recollection of his speaking of Darko Kraljevic at all?"
-    },
-    {
-      "id": 49,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes. I do recall that one of the things that I had wanted to address during this meeting was Darko Kraljevic. He had indeed spoke about Darko Kraljevic, his activities, and Dr. Mujenznovic's rapport with Darko Kraljevic because of his having treated Darko Kraljevic. In his previous statement with Simon Leach he had spoken about that. There were sides and there were areas of that exchange that I wanted to clarify, so I did indeed speak with him about Darko Kraljevic.",
-      "reply_to": 48
+      "reply_to": 47
+    },
+    {
+      "id": 49,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "It happens that you're also the investigator who took some of the statements that relate to the town or village of Tulica.",
+      "examination": "direct"
     },
     {
       "id": 50,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "It happens that you're also the investigator who took some of the statements that relate to the town or village of Tulica."
-    },
-    {
-      "id": 51,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's true.",
-      "reply_to": 50
+      "reply_to": 49
+    },
+    {
+      "id": 51,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "As of today, have you reconsidered those statements in any detail or not?",
+      "examination": "direct"
     },
     {
       "id": 52,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "As of today, have you reconsidered those statements in any detail or not?"
-    },
-    {
-      "id": 53,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "No. I haven't had a chance to review those statements.",
-      "reply_to": 52
+      "reply_to": 51
     },
     {
-      "id": 54,
+      "id": 53,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes, Mr. Stein."
     },
     {
-      "id": 55,
+      "id": 54,
       "speaker": "MR. STEIN",
       "role": "counsel",
       "type": "statement",
-      "text": "Thank you, sir. Cross-examined by Mr. Stein:"
+      "text": "Thank you, sir."
+    },
+    {
+      "id": 55,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, if there is any question I ask you that you don't understand, would you please let me know; all right? We'll both have to slow down for the translators.",
+      "examination": "cross"
     },
     {
       "id": 56,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sir, if there is any question I ask you that you don't understand, would you please let me know; all right? We'll both have to slow down for the translators."
-    },
-    {
-      "id": 57,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I will try to.",
-      "reply_to": 56
+      "reply_to": 55
+    },
+    {
+      "id": 57,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "So will I. Now, first, sir, your responsibility as a member of the OTP investigation unit is to conduct investigations and develop prosecution briefs; correct?",
+      "examination": "cross"
     },
     {
       "id": 58,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So will I. Now, first, sir, your responsibility as a member of the OTP investigation unit is to conduct investigations and develop prosecution briefs; correct?"
-    },
-    {
-      "id": 59,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Conduct investigations, yes; insofar as developing prosecution briefs is concerned, the members of the team from the prosecution section who are qualified lawyers, they have a greater role in that process than investigative members of that team do.",
-      "reply_to": 58
+      "reply_to": 57
+    },
+    {
+      "id": 59,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you have no role in developing the prosecution brief?",
+      "examination": "cross"
     },
     {
       "id": 60,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you have no role in developing the prosecution brief?"
-    },
-    {
-      "id": 61,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Sometimes we are asked to summarise witness statements and things that are directly in relation to the work that we did, and we do, indeed, do that.",
-      "reply_to": 60
+      "reply_to": 59
+    },
+    {
+      "id": 61,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "The investigative team assesses all the relevant material for those briefs, ensuring that all relevant evidence has been assembled and included in the brief in order to establish such element of each charge, as well as prepare the actual brief for the prosecution; correct?",
+      "examination": "cross"
     },
     {
       "id": 62,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "The investigative team assesses all the relevant material for those briefs, ensuring that all relevant evidence has been assembled and included in the brief in order to establish such element of each charge, as well as prepare the actual brief for the prosecution; correct?"
-    },
-    {
-      "id": 63,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, in constant consultation with the legal members of the team, yes.",
-      "reply_to": 62
+      "reply_to": 61
+    },
+    {
+      "id": 63,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sure. Your focus is to aid and assist the prosecution?",
+      "examination": "cross"
     },
     {
       "id": 64,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sure. Your focus is to aid and assist the prosecution?"
-    },
-    {
-      "id": 65,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 64
+      "reply_to": 63
+    },
+    {
+      "id": 65,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "You're aware, of course, that Dr. Mujezinovic had multiple statements taken?",
+      "examination": "cross"
     },
     {
       "id": 66,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You're aware, of course, that Dr. Mujezinovic had multiple statements taken?"
-    },
-    {
-      "id": 67,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I was aware of the fact that he had been interviewed in July 1995.",
-      "reply_to": 66
+      "reply_to": 65
+    },
+    {
+      "id": 67,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Just as with all the other persons you interview, the purpose of taking a statement is to get the facts?",
+      "examination": "cross"
     },
     {
       "id": 68,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. Just as with all the other persons you interview, the purpose of taking a statement is to get the facts?"
-    },
-    {
-      "id": 69,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's true.",
-      "reply_to": 68
+      "reply_to": 67
+    },
+    {
+      "id": 69,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "You're not interested in rumours?",
+      "examination": "cross"
     },
     {
       "id": 70,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You're not interested in rumours?"
-    },
-    {
-      "id": 71,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Of course not, except that in one's evaluation of evidence, there is hearsay which might as well be characterised as rumour, and there are some things that a witness has experienced directly. So hearsay has evidential importance, so, of course, we do not just discount material that might otherwise be characterised as rumour.",
-      "reply_to": 70
+      "reply_to": 69
+    },
+    {
+      "id": 71,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. The result is, when you're gathering facts, you let the person talk to you and tell you what he or she has to say?",
+      "examination": "cross"
     },
     {
       "id": 72,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. The result is, when you're gathering facts, you let the person talk to you and tell you what he or she has to say?"
+      "speaker": "EHSAN BAJWA",
+      "role": "witness",
+      "type": "answer",
+      "text": "Of course.",
+      "reply_to": 71
     },
     {
       "id": 73,
-      "speaker": "EHSAN BAJWA",
-      "role": "witness",
-      "type": "answer",
-      "text": "Of course.",
-      "reply_to": 72
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "That may include hearsay?",
+      "examination": "cross"
     },
     {
       "id": 74,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "That may include hearsay?"
+      "speaker": "EHSAN BAJWA",
+      "role": "witness",
+      "type": "answer",
+      "text": "Of course.",
+      "reply_to": 73
     },
     {
       "id": 75,
-      "speaker": "EHSAN BAJWA",
-      "role": "witness",
-      "type": "answer",
-      "text": "Of course.",
-      "reply_to": 74
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Double hearsay?",
+      "examination": "cross"
     },
     {
       "id": 76,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Double hearsay?"
-    },
-    {
-      "id": 77,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Of course.",
-      "reply_to": 76
+      "reply_to": 75
+    },
+    {
+      "id": 77,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "General rumour?",
+      "examination": "cross"
     },
     {
       "id": 78,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "General rumour?"
-    },
-    {
-      "id": 79,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 78
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And at some point, you may ferret out that which is hearsay and rumour, if you have a chance?",
+      "examination": "cross"
     },
     {
       "id": 80,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And at some point, you may ferret out that which is hearsay and rumour, if you have a chance?"
-    },
-    {
-      "id": 81,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Not only is it a question of chance, but under the existing protocols and practice directions within the investigation section, we are required to make it very clear in the body of the statement what it is that the witness is saying on the basis of personal, direct knowledge and what is it that's based on his exchanges with somebody else, which is hearsay.",
-      "reply_to": 80
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Right. We can agree, however, as a practical matter in Bosnia, sometimes that becomes difficult?",
+      "examination": "cross"
     },
     {
       "id": 82,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Right. We can agree, however, as a practical matter in Bosnia, sometimes that becomes difficult?"
-    },
-    {
-      "id": 83,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Well, it's a question of how scrupulously an investigator, whoever is interviewing, pursues that question, and the question of relative importance --",
-      "reply_to": 82
+      "reply_to": 81
     },
     {
-      "id": 84,
+      "id": 83,
       "speaker": "JUDGE BENNOUNA",
       "role": "judge",
       "type": "statement",
       "text": "(Interpretation) Excuse me, Mr. Stein. I should like to hear from the witness. You asked him, when taking down the statement, does he take note whether it is hearsay, double hearsay, or rumour. When he records hearsay, double hearsay, and rumours, does he mention in the statement that he takes down that it is hearsay, double hearsay, or rumour in those cases, that the person heard something from another person or that a person said that it was on the basis of a rumour that he learnt it? So does he take down the source of the information obtained from his interlocutor?"
     },
     {
-      "id": 85,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 84,
+      "speaker": "MR. STEIN",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, I believe the Judge's question is clear."
+      "text": "Sir, I believe the Judge's question is clear.",
+      "examination": "cross"
     },
     {
-      "id": 86,
+      "id": 85,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, Your Honour.",
-      "reply_to": 85
+      "reply_to": 84
+    },
+    {
+      "id": 86,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you answer it?",
+      "examination": "cross"
     },
     {
       "id": 87,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you answer it?"
-    },
-    {
-      "id": 88,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Of course, whenever there is hearsay, we are required to explicitly record in the body of the statement \"I heard this being said.\" Sometimes it is possible for the witness who is talking to us to identify the person concerned who said that. For instance, in the statement under consideration here, Darko Kraljevic says something to Dr. Mujezinovic, and here we are in a position to identify the source of this hearsay, so we have identified that. Sometimes it is something just being said, and the witness has an impression that this was being bandied about, this was something that was being talked over, and that it was explicitly mentioned that way in the body of the statement, that I heard this being said, and then the witness expresses his or her inability to specifically point out the person who is the source of that rumour or that hearsay.",
-      "reply_to": 87
+      "reply_to": 86
     },
     {
-      "id": 89,
+      "id": 88,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Microphone, please, Your Honour."
     },
     {
-      "id": 90,
+      "id": 89,
       "speaker": "JUDGE BENNOUNA",
       "role": "judge",
       "type": "statement",
       "text": "(Interpretation) So if I have understood you correctly, you faithfully reproduce what the witness tells you, including the source of the information that he is conveying?"
     },
     {
-      "id": 91,
+      "id": 90,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That is correct, Your Honour.",
-      "reply_to": 87
+      "reply_to": 86
     },
     {
-      "id": 92,
+      "id": 91,
       "speaker": "JUDGE BENNOUNA",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 93,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 92,
+      "speaker": "MR. STEIN",
       "role": "counsel",
       "type": "question",
-      "text": "Following up on that, that's the goal that you personally aspire to; correct?"
+      "text": "Following up on that, that's the goal that you personally aspire to; correct?",
+      "examination": "cross"
     },
     {
-      "id": 94,
+      "id": 93,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Of course, and many times, we are, indeed, able to get very near to the achievement of that goal.",
-      "reply_to": 93
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sure. And many times not?",
+      "examination": "cross"
     },
     {
       "id": 95,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sure. And many times not?"
-    },
-    {
-      "id": 96,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "There might be odd instances where some statement does leave a certain degree of ambiguity which one trusts can be sorted out in the course of direct testimony in the court.",
-      "reply_to": 95
+      "reply_to": 94
+    },
+    {
+      "id": 96,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And there are 150 or 200 persons just like you working for the OTP?",
+      "examination": "cross"
     },
     {
       "id": 97,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And there are 150 or 200 persons just like you working for the OTP?"
-    },
-    {
-      "id": 98,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I'm not certain as to the exact number of investigators, and I believe that's what you mean by \"you persons.\"",
-      "reply_to": 97
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "cross"
     },
     {
       "id": 99,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes."
-    },
-    {
-      "id": 100,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I'm not sure what the total number of us are. I'm sorry.",
-      "reply_to": 99
+      "reply_to": 98
+    },
+    {
+      "id": 100,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "It's certainly more than half a dozen?",
+      "examination": "cross"
     },
     {
       "id": 101,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "It's certainly more than half a dozen?"
-    },
-    {
-      "id": 102,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Of course, it is, yes, Your Honour.",
-      "reply_to": 101
+      "reply_to": 100
+    },
+    {
+      "id": 102,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "I will never be \"Your Honour,\" believe me. Are all the individuals who are doing investigative work similarly trained as to you, police officers who became investigators, or do they have a variety of different backgrounds?",
+      "examination": "cross"
     },
     {
       "id": 103,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I will never be \"Your Honour,\" believe me. Are all the individuals who are doing investigative work similarly trained as to you, police officers who became investigators, or do they have a variety of different backgrounds?"
-    },
-    {
-      "id": 104,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Of course they have a variety of different backgrounds and a variety of various police systems and variety of experiences, and that actually is very helpful to the quality of product that this action finally comes up with, because a variety of different experiences are brought to bear on the quality of work that's done.",
-      "reply_to": 103
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. We can --",
+      "examination": "cross"
     },
     {
       "id": 105,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. We can --"
-    },
-    {
-      "id": 106,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Stein, just one moment."
     },
     {
-      "id": 107,
+      "id": 106,
       "speaker": "MR. STEIN",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 108,
+      "id": 107,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "The first thing is you rebuked the witness. I think he was being polite towards the Court, not being polite to you, but that's as may be. Could you slow down a bit, Mr. Bajwa, please?"
     },
     {
-      "id": 109,
+      "id": 108,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "I will try my best, sir."
     },
     {
-      "id": 110,
+      "id": 109,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "It's difficult for the interpreters otherwise. Mr. Stein, where are we going on this? Let me just say this: You know what the rules are, and the witness came simply to talk about one statement. Now, obviously some leeway would be allowed. If you want to explore generally the taking of statements, we'll let you do that, provided it doesn't take up too much time."
     },
     {
-      "id": 111,
+      "id": 110,
       "speaker": "MR. STEIN",
       "role": "counsel",
       "type": "statement",
       "text": "I thought it might be relevant given what's before us, and I don't want to take up a lot of time with it at all, maybe one or two more questions I would like to get into."
     },
     {
-      "id": 112,
+      "id": 111,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 113,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 112,
+      "speaker": "MR. STEIN",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, let me ask you this: The conditions of taking the interviews that you and your colleagues take, I imagine, are somewhat difficult when you're in Central Bosnia?"
+      "text": "Sir, let me ask you this: The conditions of taking the interviews that you and your colleagues take, I imagine, are somewhat difficult when you're in Central Bosnia?",
+      "examination": "cross"
     },
     {
-      "id": 114,
+      "id": 113,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Difficult in the sense that at times one would like to explore matters at greater length, and then given the resource constraints and the time constraints, probably some of the statements do not explore matters to the same length that one would have wanted to do.",
-      "reply_to": 113
+      "reply_to": 112
+    },
+    {
+      "id": 114,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are there instances in which individuals appear with their families or other people and want to interview in that process, with more than one person present?",
+      "examination": "cross"
     },
     {
       "id": 115,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Are there instances in which individuals appear with their families or other people and want to interview in that process, with more than one person present?"
-    },
-    {
-      "id": 116,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "It's a requirement under the protocol in the practice direction within the investigation section that every effort will be made that other than a witness, there is nobody else present, of course, the investigator and the interpreter, unless it is absolutely necessary to furnish some kind of moral support to the witness and the witness insists on that, but it is an explicit direction that the investigator will try to discourage that.",
-      "reply_to": 115
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you find that despite your directions that that often happens?",
+      "examination": "cross"
     },
     {
       "id": 117,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you find that despite your directions that that often happens?"
-    },
-    {
-      "id": 118,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I have spent four years with the Tribunal, and there are scores and scores of statements that I have recorded, and not on one occasion have I had a problem of that kind.",
-      "reply_to": 117
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Fair enough. Do you find, and this is my last general question, that there is a difficulty among your interviewees separating their personal knowledge from the general knowledge or community belief?",
+      "examination": "cross"
     },
     {
       "id": 119,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. Fair enough. Do you find, and this is my last general question, that there is a difficulty among your interviewees separating their personal knowledge from the general knowledge or community belief?"
-    },
-    {
-      "id": 120,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I think it will be very difficult to generalise in this area. There are witnesses who have a certain degree of difficulty, but there are other witnesses who do not have that, and I think that statements and the oral testimony in the court more or less does reflect that.",
-      "reply_to": 119
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. With regard to the statement you made on this issue, do you have that in front of you?",
+      "examination": "cross"
     },
     {
       "id": 121,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. With regard to the statement you made on this issue, do you have that in front of you?"
-    },
-    {
-      "id": 122,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, sir, I do.",
-      "reply_to": 121
+      "reply_to": 120
+    },
+    {
+      "id": 122,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "That statement was made when, sir?",
+      "examination": "cross"
     },
     {
       "id": 123,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "That statement was made when, sir?"
-    },
-    {
-      "id": 124,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "If you're referring to my statement --",
-      "reply_to": 123
+      "reply_to": 122
+    },
+    {
+      "id": 124,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "cross"
     },
     {
       "id": 125,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes."
-    },
-    {
-      "id": 126,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "-- it was made about two weeks ago, and I apologise, but probably the body of the statement does not mention the date on which it was made, but it was about two weeks ago.",
-      "reply_to": 125
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "That was made for the purpose of this particular hearing?",
+      "examination": "cross"
     },
     {
       "id": 127,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "That was made for the purpose of this particular hearing?"
-    },
-    {
-      "id": 128,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 127
+      "reply_to": 126
+    },
+    {
+      "id": 128,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Now, you took Dr. Mujezinovic's statement and you took about six hours to take it?",
+      "examination": "cross"
     },
     {
       "id": 129,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. Now, you took Dr. Mujezinovic's statement and you took about six hours to take it?"
-    },
-    {
-      "id": 130,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 129
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. He had previously to that given a statement on March 1, 1995 to Mr. Leach and Mr. Gerns. You were aware of that, were you not?",
+      "examination": "cross"
     },
     {
       "id": 131,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. He had previously to that given a statement on March 1, 1995 to Mr. Leach and Mr. Gerns. You were aware of that, were you not?"
-    },
-    {
-      "id": 132,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I was aware of the statement, and I had that statement in front of me during this interview that took place in February, and I understand that that statement was taken in July, not March. Actually, I do have a copy of that statement here, and it says \"13 July\" and \"16 July, 1995.\" So this is the statement that I had before me when I recorded this supplementary statement myself.",
-      "reply_to": 131
+      "reply_to": 130
+    },
+    {
+      "id": 132,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let's be clear. The Office of the Prosecutor has furnished us with two statements. One is an information provided on 1 March, 1995, unsigned, looks like a rough draft. Have you ever seen that?",
+      "examination": "cross"
     },
     {
       "id": 133,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Let's be clear. The Office of the Prosecutor has furnished us with two statements. One is an information provided on 1 March, 1995, unsigned, looks like a rough draft. Have you ever seen that?"
-    },
-    {
-      "id": 134,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "May I know who that statement is recorded by, sir?",
-      "reply_to": 133
+      "reply_to": 132
+    },
+    {
+      "id": 134,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Simon Leach and John Gerns?",
+      "examination": "cross"
     },
     {
       "id": 135,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Simon Leach and John Gerns?"
-    },
-    {
-      "id": 136,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's not the one. I was aware of the existence of that statement, but I knew that after the taking of that statement, another more complete and more comprehensive statement had been taken, so I based my interview on the statement that was taken subsequent to that one, and that was in July 1995.",
-      "reply_to": 135
+      "reply_to": 134
+    },
+    {
+      "id": 136,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Fair enough. We'll go there in a second. But as of the March 1, 1995 interview with Leach and Gerns, I've been saying \"Kearns,\" it's \"Gerns,\" \"G-E-R-N-S,\" you are not aware as to whether or not, when this statement was transcribed to English, Dr. Mujezinovic complained about the translation?",
+      "examination": "cross"
     },
     {
       "id": 137,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Fair enough. We'll go there in a second. But as of the March 1, 1995 interview with Leach and Gerns, I've been saying \"Kearns,\" it's \"Gerns,\" \"G-E-R-N-S,\" you are not aware as to whether or not, when this statement was transcribed to English, Dr. Mujezinovic complained about the translation?"
-    },
-    {
-      "id": 138,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "No, I have no knowledge of that.",
-      "reply_to": 137
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Similarly, as to when the July 13/16 statement was taken, and that is a statement taken again by Simon Leach and an interpreter named Mubina van Veen-Isovic?",
+      "examination": "cross"
     },
     {
       "id": 139,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. Similarly, as to when the July 13/16 statement was taken, and that is a statement taken again by Simon Leach and an interpreter named Mubina van Veen-Isovic?"
-    },
-    {
-      "id": 140,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's correct, yes.",
-      "reply_to": 139
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "When that statement was finished, you're not aware whether Dr. Mujezinovic said, \"I'm unhappy with the translations\" or not?",
+      "examination": "cross"
     },
     {
       "id": 141,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When that statement was finished, you're not aware whether Dr. Mujezinovic said, \"I'm unhappy with the translations\" or not?"
-    },
-    {
-      "id": 142,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Except for the fact that when I spoke with Dr. Mujezinovic and when he mentioned the number of detainees and when I put my question to him, he did say something to the effect that on the previous occasion, the translation was not probably as fluent as on this occasion.",
-      "reply_to": 141
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Fine. Did you also hear from Dr. Mujezinovic on that occasion that the translators had promised to change his statement?",
+      "examination": "cross"
     },
     {
       "id": 143,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Fine. Did you also hear from Dr. Mujezinovic on that occasion that the translators had promised to change his statement?"
-    },
-    {
-      "id": 144,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "No, not at all.",
-      "reply_to": 143
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. He has said to the Court that he had told the translators all along of complications with these translations, and they said they would change the statements.",
+      "examination": "cross"
     },
     {
       "id": 145,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. He has said to the Court that he had told the translators all along of complications with these translations, and they said they would change the statements."
-    },
-    {
-      "id": 146,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "It's not that I don't recall that. It is that he did not say that to me.",
-      "reply_to": 145
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "To you. As to whether or not he said it in July to Mr. Leach and the interpreter you're unaware?",
+      "examination": "cross"
     },
     {
       "id": 147,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "To you. As to whether or not he said it in July to Mr. Leach and the interpreter you're unaware?"
-    },
-    {
-      "id": 148,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I'm absolutely unaware of that.",
-      "reply_to": 147
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "This addendum for you and Mr. Kehoe was for his testimony in Blaskic; is that correct?",
+      "examination": "cross"
     },
     {
       "id": 149,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "This addendum for you and Mr. Kehoe was for his testimony in Blaskic; is that correct?"
-    },
-    {
-      "id": 150,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes. That was one of the purposes in view, but of course, he being a witness who spoke of matters that were of common relevance to many cases, so it did have greater relevance than that but yes.",
-      "reply_to": 149
+      "reply_to": 148
+    },
+    {
+      "id": 150,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. This statement consists of four pages? That's the statement dated 3 February, '97.",
+      "examination": "cross"
     },
     {
       "id": 151,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. This statement consists of four pages? That's the statement dated 3 February, '97."
+      "speaker": "EHSAN BAJWA",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 150
     },
     {
       "id": 152,
-      "speaker": "EHSAN BAJWA",
-      "role": "witness",
-      "type": "answer",
-      "text": "That's correct.",
-      "reply_to": 151
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "So after a six-hour interview we end up with four pages.",
+      "examination": "cross"
     },
     {
       "id": 153,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So after a six-hour interview we end up with four pages."
-    },
-    {
-      "id": 154,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 153
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "There certainly isn't a verbatim transcript of everything that was said in that six hours?",
+      "examination": "cross"
     },
     {
       "id": 155,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "There certainly isn't a verbatim transcript of everything that was said in that six hours?"
-    },
-    {
-      "id": 156,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Of course not.",
-      "reply_to": 155
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "It is your selective interpretation of that which was important to your second interview; correct?",
+      "examination": "cross"
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "It is your selective interpretation of that which was important to your second interview; correct?"
-    },
-    {
-      "id": 158,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I wouldn't say \"selective interpretation.\" What happened is that he had given a statement before, and we wanted to see him saying the same things, going over the same things without this statement being read over to him again. So we would prompt him on an issue, and then he would recount the story as he had done to Mr. Simon Leach. Then we would hear to what extent what he is saying is faithfully recorded in his previous statement. Only where some issue remained unaddressed would it eventually be incorporated into the statement that I took, four-page statement. So a substantial portion that have time of six hours was spent just making sure the previous statement is sufficiently confirmed by him, and so that we can see what are the points that we need to thrash further with him.",
-      "reply_to": 157
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "In other words, you were making him a better witness in preparation for trial.",
+      "examination": "cross"
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In other words, you were making him a better witness in preparation for trial."
-    },
-    {
-      "id": 160,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "We were --",
-      "reply_to": 159
+      "reply_to": 158
     },
     {
-      "id": 161,
+      "id": 160,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "I don't know that's a fair comment at all."
     },
     {
-      "id": 162,
+      "id": 161,
       "speaker": "MR. STEIN",
       "role": "counsel",
       "type": "statement",
       "text": "All right. Withdrawn."
     },
     {
-      "id": 163,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 162,
+      "speaker": "MR. STEIN",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, let me ask you this: Did you carry with you a tape recorder?"
+      "text": "Sir, let me ask you this: Did you carry with you a tape recorder?",
+      "examination": "cross"
     },
     {
-      "id": 164,
+      "id": 163,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "No, I didn't.",
-      "reply_to": 163
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Does anybody from the OTP tape record the statements as they're given?",
+      "examination": "cross"
     },
     {
       "id": 165,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Does anybody from the OTP tape record the statements as they're given?"
-    },
-    {
-      "id": 166,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Except when the person being interviewed is a suspect, no.",
-      "reply_to": 165
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. When Dr. Mujenznovic came to testify in this case, did you have occasion to see him at that point in time?",
+      "examination": "cross"
     },
     {
       "id": 167,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. When Dr. Mujenznovic came to testify in this case, did you have occasion to see him at that point in time?"
-    },
-    {
-      "id": 168,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 167
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you have occasion to participate in his proofing at all?",
+      "examination": "cross"
     },
     {
       "id": 169,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you have occasion to participate in his proofing at all?"
-    },
-    {
-      "id": 170,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "No, not at all.",
-      "reply_to": 169
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "If Dr. Mujenznovic has testified in front of this Tribunal that he consistently complained about the translations, I gather it's your view that those complaints weren't aired to you?",
+      "examination": "cross"
     },
     {
       "id": 171,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If Dr. Mujenznovic has testified in front of this Tribunal that he consistently complained about the translations, I gather it's your view that those complaints weren't aired to you?"
-    },
-    {
-      "id": 172,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Of course not. Not at all. It was just a cursory reference that he made and nothing more than that.",
-      "reply_to": 171
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if he says that relative to Mr. Kraljevic and other issues he made substantial substantive complaints, you disagree with that?",
+      "examination": "cross"
     },
     {
       "id": 173,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And if he says that relative to Mr. Kraljevic and other issues he made substantial substantive complaints, you disagree with that?"
-    },
-    {
-      "id": 174,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "As an interview that I conducted with him is concerned, I did not feel that there was any necessity for me to go over everything again in my statement, so no, of course not.",
-      "reply_to": 173
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And as to the others, you're unaware?",
+      "examination": "cross"
     },
     {
       "id": 175,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And as to the others, you're unaware?"
-    },
-    {
-      "id": 176,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I'm unaware of that.",
-      "reply_to": 175
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "As soon as I find something, I have one other question. I'd like to turn to the statement that you have in front of you, which is the statement of two weeks ago.",
+      "examination": "cross"
     },
     {
       "id": 177,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "As soon as I find something, I have one other question. I'd like to turn to the statement that you have in front of you, which is the statement of two weeks ago."
-    },
-    {
-      "id": 178,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, sir.",
-      "reply_to": 177
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were asked to prepare this statement for this proceeding?",
+      "examination": "cross"
     },
     {
       "id": 179,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You were asked to prepare this statement for this proceeding?"
-    },
-    {
-      "id": 180,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "What I was exactly told was that there was a certain issue arising from Mujezinovic's testimony and nothing more than that. I asked, \"May I refer to the transcript of what happened in the court?\" I was explicitly told not to do that. So I was absolutely in the dark what the whole issue was about. I was just told, \"You should prepare a statement concerning the circumstances in which you took this statement.\" So it was some kind of a -- sort of a groping statement that I made. I was not very sure. \"What am I supposed to write about?\"",
-      "reply_to": 179
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Fair enough. And yet the statement contains six paragraphs?",
+      "examination": "cross"
     },
     {
       "id": 181,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Fair enough. And yet the statement contains six paragraphs?"
-    },
-    {
-      "id": 182,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it does.",
-      "reply_to": 181
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "There's nothing in the six paragraphs indicating that Dr. Mujenznovic complained about the statement with respect to Mr. Kraljevic or anything else?",
+      "examination": "cross"
     },
     {
       "id": 183,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "There's nothing in the six paragraphs indicating that Dr. Mujenznovic complained about the statement with respect to Mr. Kraljevic or anything else?"
-    },
-    {
-      "id": 184,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I think that I would have created an impression that that was not really something that was discussed between us and Mujezinovic as something of an issue. So it didn't really strike me that there is something that would have become an issue here. So that's why the statement does not address that point.",
-      "reply_to": 183
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "So the answer to my question is I'm correct, there's nothing in your statement addressing Dr. Mujenznovic complaining about the translations?",
+      "examination": "cross"
     },
     {
       "id": 185,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So the answer to my question is I'm correct, there's nothing in your statement addressing Dr. Mujenznovic complaining about the translations?"
-    },
-    {
-      "id": 186,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, you're right.",
-      "reply_to": 185
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Further, in the interview you conducted, there's no recordation anywhere that Mujenznovic complained about the translation at any time?",
+      "examination": "cross"
     },
     {
       "id": 187,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Further, in the interview you conducted, there's no recordation anywhere that Mujenznovic complained about the translation at any time?"
-    },
-    {
-      "id": 188,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "The exact point he spoke to us about translation was not more than 2.000 people but 2.223 people, and I faithfully recorded that number in my statement, but not his observation that this translation on the previous occasion was not as fluent and as effortless as it was on this occasion.",
-      "reply_to": 187
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "That latter part was left out?",
+      "examination": "cross"
     },
     {
       "id": 189,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "That latter part was left out?"
-    },
-    {
-      "id": 190,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 189
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "MR. STEIN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you very much.",
+      "examination": "cross"
     },
     {
       "id": 191,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you very much."
-    },
-    {
-      "id": 192,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Bajwa, would you tell us again when it was that you interviewed Dr. Mujenznovic, please?"
     },
     {
-      "id": 193,
+      "id": 192,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "It was on the 3rd of February, 1997, Your Honour.",
-      "reply_to": 191
+      "reply_to": 190
     },
     {
-      "id": 194,
+      "id": 193,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you. Any re-examination? I'm sorry. Mr. Kovacic. Cross-examined by Mr. Kovacic:"
+      "text": "Thank you. Any re-examination? I'm sorry. Mr. Kovacic."
+    },
+    {
+      "id": 194,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, I represent Mario Cerkez. My name is Bozidar Kovacic and I am an attorney from Rijeka. On the occasion that we have just discussed and what you mention in your statement, when you met Dr. Mujenznovic, during that interview which lasted about six hours, as you have told us, did you ever indicate that the interview was for a particular case or, rather, which case the interview was for?",
+      "examination": "cross"
     },
     {
       "id": 195,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sir, I represent Mario Cerkez. My name is Bozidar Kovacic and I am an attorney from Rijeka. On the occasion that we have just discussed and what you mention in your statement, when you met Dr. Mujenznovic, during that interview which lasted about six hours, as you have told us, did you ever indicate that the interview was for a particular case or, rather, which case the interview was for?"
-    },
-    {
-      "id": 196,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I cannot recall that I referred to particular cases on that occasion. No, I have no recollection of that.",
-      "reply_to": 195
+      "reply_to": 194
+    },
+    {
+      "id": 196,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. You have explained to us, a moment ago, but let me asking, as a rule, does the witness that you're interviewing know for what case he is testifying or, rather, in which case you intend to use his testimony for?",
+      "examination": "cross"
     },
     {
       "id": 197,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. You have explained to us, a moment ago, but let me asking, as a rule, does the witness that you're interviewing know for what case he is testifying or, rather, in which case you intend to use his testimony for?"
-    },
-    {
-      "id": 198,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Under the standing procedures within the investigation section, whenever we see a witness for the first time we are supposed to explain the mandate of the Tribunal to that witness and then explain that we are representing the Tribunal and we would be interested in some of the experiences that witness has been through or witness has observed, but we are not required to specify the case. That's number one. Number two, it's difficult to specify cases because it depends on at what point in time you are meeting that witness. At times you are meeting that witness and you yourself do not know that there's a case or you are going to have a case at all. So before the indictment -- and then indictment takes place. So subsequently you may have an idea of what your conversation is going to be about. So it depends. As answer, under existing standing procedures, it is not requisite that we explain what the case is.",
-      "reply_to": 197
+      "reply_to": 196
+    },
+    {
+      "id": 198,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So if I understand you well, as a result, the witness does not know against which accused he is testifying?",
+      "examination": "cross"
     },
     {
       "id": 199,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So if I understand you well, as a result, the witness does not know against which accused he is testifying?"
-    },
-    {
-      "id": 200,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "What we are required to explain and what one can --",
-      "reply_to": 199
+      "reply_to": 198
+    },
+    {
+      "id": 200,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would kindly ask you --",
+      "examination": "cross"
     },
     {
       "id": 201,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I would kindly ask you --"
-    },
-    {
-      "id": 202,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Would you please repeat your question?",
-      "reply_to": 201
+      "reply_to": 200
+    },
+    {
+      "id": 202,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I understand you well from your explanation, the witness, as a rule, does not know against which of the accused he will be called to testify.",
+      "examination": "cross"
     },
     {
       "id": 203,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If I understand you well from your explanation, the witness, as a rule, does not know against which of the accused he will be called to testify."
-    },
-    {
-      "id": 204,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "He would know that he would be called to testify but not necessarily which accused.",
-      "reply_to": 203
+      "reply_to": 202
+    },
+    {
+      "id": 204,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. When you spoke to Dr. Mujenznovic on the 3rd of February, 1997, the indictment against Blaskic and others was already issued.",
+      "examination": "cross"
     },
     {
       "id": 205,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. When you spoke to Dr. Mujenznovic on the 3rd of February, 1997, the indictment against Blaskic and others was already issued."
-    },
-    {
-      "id": 206,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 205
+      "reply_to": 204
+    },
+    {
+      "id": 206,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you, on that occasion, tell the witness that an indictment exists? You said that together with Mr. Kehoe you had come for him to get an impression about that witness. Did you tell him then which case he was going to be called for?",
+      "examination": "cross"
     },
     {
       "id": 207,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you, on that occasion, tell the witness that an indictment exists? You said that together with Mr. Kehoe you had come for him to get an impression about that witness. Did you tell him then which case he was going to be called for?"
-    },
-    {
-      "id": 208,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Just as I said before, I have no recollection of raising that matter with him, but there's just one more qualification I'd like to add to that, which is this witness had been spoken to before that occasion on a couple of times, so it was -- I think it could have been that it was a tacit understanding that we are talking about in the context of the Lasva Valley indictments, but I do not have a clear recollection of that, my apologies.",
-      "reply_to": 207
+      "reply_to": 206
+    },
+    {
+      "id": 208,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. From what you have told us so far, I take it that you consider yourself to be a conscientious investigator.",
+      "examination": "cross"
     },
     {
       "id": 209,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. From what you have told us so far, I take it that you consider yourself to be a conscientious investigator."
-    },
-    {
-      "id": 210,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's an ideal that I would like to strive after.",
-      "reply_to": 209
+      "reply_to": 208
+    },
+    {
+      "id": 210,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you believe that the place and date a statement is given on are important or not?",
+      "examination": "cross"
     },
     {
       "id": 211,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you believe that the place and date a statement is given on are important or not?"
-    },
-    {
-      "id": 212,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "They are important. Things have to be defined in terms of time and space.",
-      "reply_to": 211
+      "reply_to": 210
+    },
+    {
+      "id": 212,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "A moment ago, it was noted that you didn't put the date or the place even on your own statement.",
+      "examination": "cross"
     },
     {
       "id": 213,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "A moment ago, it was noted that you didn't put the date or the place even on your own statement."
-    },
-    {
-      "id": 214,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes. That's a lapse on my part.",
-      "reply_to": 213
+      "reply_to": 212
+    },
+    {
+      "id": 214,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Lapses are understandable. Perhaps you were unexpectedly called by my learned friend, the Prosecutor, and you did it in great haste, and that is the explanation why you forgot to note the date and the place?",
+      "examination": "cross"
     },
     {
       "id": 215,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Lapses are understandable. Perhaps you were unexpectedly called by my learned friend, the Prosecutor, and you did it in great haste, and that is the explanation why you forgot to note the date and the place?"
-    },
-    {
-      "id": 216,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "No. I think it was more out of a feeling of complete ignorance that what is it about than anything else, any impression of haste about it, that this lapse might have resulted from.",
-      "reply_to": 215
+      "reply_to": 214
+    },
+    {
+      "id": 216,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. In the course of the examination by Mr. Stein and from your statement, we have been able to understand the actual technology of taking interviews, but there is one point that is not clear to me. So may I summarise and then you confirm for me? Using a specific example, the witness speaks Croatian, or Bosnian, or Serbian. It doesn't matter. Then the interpreter interprets orally what he says and then you take that down on your laptop; is that correct?",
+      "examination": "cross"
     },
     {
       "id": 217,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. In the course of the examination by Mr. Stein and from your statement, we have been able to understand the actual technology of taking interviews, but there is one point that is not clear to me. So may I summarise and then you confirm for me? Using a specific example, the witness speaks Croatian, or Bosnian, or Serbian. It doesn't matter. Then the interpreter interprets orally what he says and then you take that down on your laptop; is that correct?"
-    },
-    {
-      "id": 218,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "There's just one minor factor here, that is while the witness is speaking, the interpreter takes down certain notes. And an effort is made that the witness is not permitted to speak for very long, and he is interrupted so it could be of a manageable size, the interpretation.",
-      "reply_to": 217
+      "reply_to": 216
+    },
+    {
+      "id": 218,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "But in any event, the witness speaks in Bosnian, Croatian, or Serbian, then in summary form the interpreter interprets it into English, and you take that down on your laptop.",
+      "examination": "cross"
     },
     {
       "id": 219,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But in any event, the witness speaks in Bosnian, Croatian, or Serbian, then in summary form the interpreter interprets it into English, and you take that down on your laptop."
-    },
-    {
-      "id": 220,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "It is one point. In the existing practice direction in the investigation section, the investigator is required to tell the interpreter that he is to interpret verbatim, not paraphrasing. There is no element of paraphrasing. That's number one. Number two, the witness is not permitted to speak too long, so it's a manageable size. With those qualifications, yes.",
-      "reply_to": 219
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Then the other way round. You said that the witness was informed of what has been taken down. So now you will be speaking English, the interpreter will be interpreting into Croatian for the benefit of the witness; is that correct?",
+      "examination": "cross"
     },
     {
       "id": 221,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Then the other way round. You said that the witness was informed of what has been taken down. So now you will be speaking English, the interpreter will be interpreting into Croatian for the benefit of the witness; is that correct?"
-    },
-    {
-      "id": 222,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 221
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So the witness has the ability to check the accuracy of his statement, accuracy of the way it was noted down only on the basis of the oral interpretation given.",
+      "examination": "cross"
     },
     {
       "id": 223,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So the witness has the ability to check the accuracy of his statement, accuracy of the way it was noted down only on the basis of the oral interpretation given."
-    },
-    {
-      "id": 224,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I apologise. The point escapes me. Could you please repeat the question?",
-      "reply_to": 223
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let me rephrase. The witness, at the end, signs his statement. It is written in English. It is written in the English language because you wrote it down on your laptop. The interpreter reads it out to the witness in Croatian, and then after that the witness agrees that that is his statement; is that correct?",
+      "examination": "cross"
     },
     {
       "id": 225,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Let me rephrase. The witness, at the end, signs his statement. It is written in English. It is written in the English language because you wrote it down on your laptop. The interpreter reads it out to the witness in Croatian, and then after that the witness agrees that that is his statement; is that correct?"
-    },
-    {
-      "id": 226,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 225
+      "reply_to": 224
+    },
+    {
+      "id": 226,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "To make quite sure, does the witness ever see his statement in Croatian in writing as a document?",
+      "examination": "cross"
     },
     {
       "id": 227,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "To make quite sure, does the witness ever see his statement in Croatian in writing as a document?"
-    },
-    {
-      "id": 228,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I believe that at some point before testifying, the translation section probably translates the statements back into Serbo-Croatian. I'm not certain about that, but this is my impression. Apart from that, immediately after the conclusion of the interview and the recording of the statement, no.",
-      "reply_to": 227
+      "reply_to": 226
+    },
+    {
+      "id": 228,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Tell me, please, sir, in organisational terms, who is your superior? You do not have to give me the name, of course, but the title. Who has the superior position above yours in this Tribunal?",
+      "examination": "cross"
     },
     {
       "id": 229,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. Tell me, please, sir, in organisational terms, who is your superior? You do not have to give me the name, of course, but the title. Who has the superior position above yours in this Tribunal?"
-    },
-    {
-      "id": 230,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "It would be a team leader, by designation.",
-      "reply_to": 229
+      "reply_to": 228
+    },
+    {
+      "id": 230,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And his superior?",
+      "examination": "cross"
     },
     {
       "id": 231,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And his superior?"
-    },
-    {
-      "id": 232,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "It would be an investigations commander.",
-      "reply_to": 231
+      "reply_to": 230
+    },
+    {
+      "id": 232,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And his superior? And his superior?",
+      "examination": "cross"
     },
     {
       "id": 233,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And his superior? And his superior?"
-    },
-    {
-      "id": 234,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Chief of investigations would be in charge of the investigations section which is a component within the Office of the Prosecutor, at the apex of that office is the Prosecutor.",
-      "reply_to": 233
+      "reply_to": 232
+    },
+    {
+      "id": 234,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I understand. So in hierarchical terms, the investigators are a section within the Office of the Prosecutor?",
+      "examination": "cross"
     },
     {
       "id": 235,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I understand. So in hierarchical terms, the investigators are a section within the Office of the Prosecutor?"
-    },
-    {
-      "id": 236,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 235
+      "reply_to": 234
+    },
+    {
+      "id": 236,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You are not an independent institution?",
+      "examination": "cross"
     },
     {
       "id": 237,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You are not an independent institution?"
-    },
-    {
-      "id": 238,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Depends on how do we look at the word \"Independence\".",
-      "reply_to": 237
+      "reply_to": 236
     },
     {
-      "id": 239,
+      "id": 238,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Just a moment. Mr. Kovacic, where are we going? What is the point of these questions?"
     },
     {
-      "id": 240,
+      "id": 239,
       "speaker": "MR. KOVACIC",
       "role": "counsel",
       "type": "statement",
       "text": "(Interpretation) I should like to see whether we can consider the investigator being a completely independent body over which the Prosecutor and no one else has any influence, that is, independent in collecting information and providing it to the Prosecution."
     },
     {
-      "id": 241,
+      "id": 240,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Bajwa, did anyone influence you -- if this seems to be the point -- did anybody influence you in taking this statement?"
     },
     {
-      "id": 242,
+      "id": 241,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Absolutely not.",
-      "reply_to": 237
+      "reply_to": 236
     },
     {
-      "id": 243,
+      "id": 242,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "That's the answer."
     },
     {
-      "id": 244,
+      "id": 243,
       "speaker": "MR. KOVACIC",
       "role": "counsel",
       "type": "statement",
       "text": "(Interpretation) Thank you."
     },
     {
-      "id": 245,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 244,
+      "speaker": "MR. KOVACIC",
       "role": "counsel",
       "type": "question",
-      "text": "You have described in some detail the procedure, and I understand it and I have been able to see it from your statements, but tell us, please, in addition to the statement of the witness that has been noted down, or the substance of that statement, do you hand over for further processing any personal notes or comments like the witness appears to be convincing, he's not convincing, he's eloquent in speech, he's sure of himself, he's unsure of himself, things that cannot be seen just by merely reading through the statement?"
+      "text": "You have described in some detail the procedure, and I understand it and I have been able to see it from your statements, but tell us, please, in addition to the statement of the witness that has been noted down, or the substance of that statement, do you hand over for further processing any personal notes or comments like the witness appears to be convincing, he's not convincing, he's eloquent in speech, he's sure of himself, he's unsure of himself, things that cannot be seen just by merely reading through the statement?",
+      "examination": "cross"
     },
     {
-      "id": 246,
+      "id": 245,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "As a question of personal custom, no.",
-      "reply_to": 245
+      "reply_to": 244
+    },
+    {
+      "id": 246,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So that means my learned friends, the Prosecutors, who continue working on the basis of this paper that you gave them, they don't know whether he is convincing, eloquent, an educated man, or a man who is unsure of himself, who stammers, et cetera, they have no information of that kind?",
+      "examination": "cross"
     },
     {
       "id": 247,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So that means my learned friends, the Prosecutors, who continue working on the basis of this paper that you gave them, they don't know whether he is convincing, eloquent, an educated man, or a man who is unsure of himself, who stammers, et cetera, they have no information of that kind?"
-    },
-    {
-      "id": 248,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I mention in my statement --",
-      "reply_to": 247
+      "reply_to": 246
     },
     {
-      "id": 249,
+      "id": 248,
       "speaker": "JUDGE BENNOUNA",
       "role": "judge",
       "type": "statement",
       "text": "(Interpretation) Mr. Kovacic, I think we are going astray in this cross-examination, because we have started from the problem of a witness, because it was raised in the filings, that witness being Mr. Mujezinovic, and now we're covering the whole issue of investigations, the Prosecution, and how these things function, but that is not the place to do so. If we're talking about the functioning of the Prosecutor or the investigator, it needs to be said in advance. So I'm asking you, as I have already done before, to limit yourself to this statement. Otherwise, we're going to go beyond the scope of the subject we're dealing with today, and you know we have many other things to address later on."
     },
     {
-      "id": 250,
+      "id": 249,
       "speaker": "MR. KOVACIC",
       "role": "counsel",
       "type": "statement",
       "text": "(Interpretation) Of course, Your Honour. I will abide by that, but I see no reason why this witness was brought here. But as he has been brought here, I'm interested in learning how these things are done, but I will leave out a number of questions that I had planned to ask."
     },
     {
-      "id": 251,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 250,
+      "speaker": "MR. KOVACIC",
       "role": "counsel",
       "type": "question",
-      "text": "In view of the discrepancies that arose here and prompted all this, would you please tell us, you speak to the witness in the way we have described, you take down what he has said. If the witness says something that is completely unexpected, that is completely contradictory to what you have already heard on the same subject from other witnesses, do you then take any steps, on your own initiative, to tell that witness that the fact that he has given simply doesn't seem to stand, or do you take steps to verify the veracity of that statement? What are your competencies in that regard?"
+      "text": "In view of the discrepancies that arose here and prompted all this, would you please tell us, you speak to the witness in the way we have described, you take down what he has said. If the witness says something that is completely unexpected, that is completely contradictory to what you have already heard on the same subject from other witnesses, do you then take any steps, on your own initiative, to tell that witness that the fact that he has given simply doesn't seem to stand, or do you take steps to verify the veracity of that statement? What are your competencies in that regard?",
+      "examination": "cross"
     },
     {
-      "id": 252,
+      "id": 251,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "There will be two ways to deal with that situation. One way would be to see the internal consistency of what the witness is saying. To what extent there is a coherence, internal coherence, in what he's saying, and that would be talking about what he has said. Then if there are other sources of information and it's quite clear to the investigator that on the basis of other information that the investigator has there might be an element of ignorance in what the witness is saying, at times you confront the witness with that but, \"On the basis of this, this, this, I know this. How do you deal with that?\" Then you see how a witness responds to that. On certain other occasions you just faithfully record what the witness has said and then see how can that be afterwards developed.",
-      "reply_to": 251
+      "reply_to": 250
+    },
+    {
+      "id": 252,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "From witness Mujezinovic, in February '97, you heard a figure, when quoting Cerkez, 2.223 people detained in the cinema hall. At that time, the Blaskic indictment had already been issued and you had already spoken to other witnesses, and not one of them mentioned a figure anywhere near that one. Did you confront Dr. Mujenznovic with this fact?",
+      "examination": "cross"
     },
     {
       "id": 253,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "From witness Mujezinovic, in February '97, you heard a figure, when quoting Cerkez, 2.223 people detained in the cinema hall. At that time, the Blaskic indictment had already been issued and you had already spoken to other witnesses, and not one of them mentioned a figure anywhere near that one. Did you confront Dr. Mujenznovic with this fact?"
-    },
-    {
-      "id": 254,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Well, I was not aware at that time that anybody else had given a specific figure on this. So people had generally said many people. Some people have said hundreds of people. So I was not quite astonished about the figure that Mujezinovic was given. Given the population figures of Vitez, it was not a sort of inconceivable figure.",
-      "reply_to": 253
+      "reply_to": 252
+    },
+    {
+      "id": 254,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said that the purpose of the interview, the basic purpose, was to clarify, and explain, and broaden the earlier statement given by Mujezinovic earlier on, and it is on the basis of that statement that you posed your questions.",
+      "examination": "cross"
     },
     {
       "id": 255,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You said that the purpose of the interview, the basic purpose, was to clarify, and explain, and broaden the earlier statement given by Mujezinovic earlier on, and it is on the basis of that statement that you posed your questions."
-    },
-    {
-      "id": 256,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "That's correct, sir.",
-      "reply_to": 255
+      "reply_to": 254
+    },
+    {
+      "id": 256,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If you looked at his 1995 statement and asked questions on that basis, then you must have noticed another discrepancy. Do you recollect that you may have asked him for an explanation regarding who, among those three present of the first talk mentioned when he said Pero Skopljak, Ivo Santic, and Mario Cerkez were present, who exactly had mentioned the number of 2.300, roughly, because this cannot be seen from the 1995 statement.",
+      "examination": "cross"
     },
     {
       "id": 257,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If you looked at his 1995 statement and asked questions on that basis, then you must have noticed another discrepancy. Do you recollect that you may have asked him for an explanation regarding who, among those three present of the first talk mentioned when he said Pero Skopljak, Ivo Santic, and Mario Cerkez were present, who exactly had mentioned the number of 2.300, roughly, because this cannot be seen from the 1995 statement."
-    },
-    {
-      "id": 258,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Well, in the statement that I recorded, it's clearly said that Mario Cerkez said that, so I did not pursue that point beyond that.",
-      "reply_to": 257
+      "reply_to": 256
+    },
+    {
+      "id": 258,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you compared it with the statement of 1995. You said that, in fact, you interviewed him on the basis of that statement, asking him questions about things that were not clear or logical, so that the 1997 statement is a complement to the 1995 statement, if I understood you correctly?",
+      "examination": "cross"
     },
     {
       "id": 259,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But you compared it with the statement of 1995. You said that, in fact, you interviewed him on the basis of that statement, asking him questions about things that were not clear or logical, so that the 1997 statement is a complement to the 1995 statement, if I understood you correctly?"
-    },
-    {
-      "id": 260,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Would you please direct me, sir, to the concerned portion of the 1995 statement?",
-      "reply_to": 259
+      "reply_to": 258
+    },
+    {
+      "id": 260,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "1995, it would be the part of the statement --",
+      "examination": "cross"
     },
     {
       "id": 261,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "1995, it would be the part of the statement --"
-    },
-    {
-      "id": 262,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "In 1995, page number 6, the statement recorded in July 1995, page number 6, the 22nd line from the top, and it says: \"Cerkez told me that they had more than 2.200 arrested persons.\" So since I did not see any discrepancy here, he was pretty specific on the identity of the person who was mentioning the numbers to him, so I didn't see any discrepancy for me to ask him about, presumably because I do not exactly recall all the details of that interview.",
-      "reply_to": 261
+      "reply_to": 260
+    },
+    {
+      "id": 262,
+      "speaker": "MR. KOVACIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes, I suppose you're right. It was another statement from 1995 and not this one. I do apologise. To go back very briefly to another matter that we've already touched upon, in this particular case, regarding the witness Dr. Mujezinovic, was there anywhere a comment on your part as a recommendation to the Prosecution regarding the quality of that witness?",
+      "examination": "cross"
     },
     {
       "id": 263,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes, I suppose you're right. It was another statement from 1995 and not this one. I do apologise. To go back very briefly to another matter that we've already touched upon, in this particular case, regarding the witness Dr. Mujezinovic, was there anywhere a comment on your part as a recommendation to the Prosecution regarding the quality of that witness?"
-    },
-    {
-      "id": 264,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 263
+      "reply_to": 262
     },
     {
-      "id": 265,
+      "id": 264,
       "speaker": "MR. KOVACIC",
       "role": "counsel",
       "type": "statement",
       "text": "(Interpretation) Thank you. I have no further questions. Thank you."
     },
     {
-      "id": 266,
+      "id": 265,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
-      "text": "A few matters arising. Re-examined by Mr. Nice:"
+      "text": "A few matters arising."
+    },
+    {
+      "id": 266,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "So far as the reading back of statements of witnesses is concerned, how seriously or otherwise is that exercise undertaken?",
+      "examination": "re-direct"
     },
     {
       "id": 267,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So far as the reading back of statements of witnesses is concerned, how seriously or otherwise is that exercise undertaken?"
-    },
-    {
-      "id": 268,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "It's serious enough for a specific interpreter's certificate being incorporated in the standard format of a statement, and the fact that reading back is specifically mentioned in the witness's acknowledgement at the end of each standard format of a statement, to have been incorporated, so it's taken very seriously.",
-      "reply_to": 267
+      "reply_to": 266
+    },
+    {
+      "id": 268,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were asked about your instructions when you prepared the statement that's been served in respect of today's hearings. You've told us how you weren't to consult the transcript and so on. Have you since then, before coming to give evidence, been asked whether you had any recollection of any issue of translation?",
+      "examination": "re-direct"
     },
     {
       "id": 269,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You were asked about your instructions when you prepared the statement that's been served in respect of today's hearings. You've told us how you weren't to consult the transcript and so on. Have you since then, before coming to give evidence, been asked whether you had any recollection of any issue of translation?"
-    },
-    {
-      "id": 270,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I have --",
-      "reply_to": 269
+      "reply_to": 268
+    },
+    {
+      "id": 270,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you then gave evidence today about what you recalled about translation?",
+      "examination": "re-direct"
     },
     {
       "id": 271,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you then gave evidence today about what you recalled about translation?"
-    },
-    {
-      "id": 272,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Absolutely.",
-      "reply_to": 271
+      "reply_to": 270
+    },
+    {
+      "id": 272,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you also asked whether you had any recollection of Kraljevic?",
+      "examination": "re-direct"
     },
     {
       "id": 273,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were you also asked whether you had any recollection of Kraljevic?"
-    },
-    {
-      "id": 274,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 273
+      "reply_to": 272
+    },
+    {
+      "id": 274,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "You've been asked one rather oblique question about Kraljevic; nevertheless, can you just tell, please, the Chamber what your recollection of references to Kraljevic in this statement were?",
+      "examination": "re-direct"
     },
     {
       "id": 275,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You've been asked one rather oblique question about Kraljevic; nevertheless, can you just tell, please, the Chamber what your recollection of references to Kraljevic in this statement were?"
-    },
-    {
-      "id": 276,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "The previous statement recorded by Mr. Leach had incorporated a story about Kraljevic mentioning people insisting on him putting Muslim houses on fire and creating anarchy in Vitez, something to that effect, and one of the things that I wanted to do during this interview was to put that event in some context. So I asked Mujezinovic, \"How do you know Kraljevic,\" and the statement that I recorded does represent that and the content of the exchange that we had on this issue.",
-      "reply_to": 275
+      "reply_to": 274
+    },
+    {
+      "id": 276,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you have any present and vivid recollection of any parts of the Kraljevic references?",
+      "examination": "re-direct"
     },
     {
       "id": 277,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you have any present and vivid recollection of any parts of the Kraljevic references?"
-    },
-    {
-      "id": 278,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Yes. While I was reading this statement that I took in February 1997, I recalled that at some point, he certainly said that Darko was not psychologically stable, and even the words that he used in Serbo-Croatian had some kind of a phonetic similarity with the words in the English language, and whatever he said was faithfully recorded in the statement.",
-      "reply_to": 277
+      "reply_to": 276
+    },
+    {
+      "id": 278,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "You've been asked various questions about practice, and you referred to protocols that require the identification of what, in some jurisdictions, is called hearsay. Just this: When were those protocols introduced formally?",
+      "examination": "re-direct"
     },
     {
       "id": 279,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You've been asked various questions about practice, and you referred to protocols that require the identification of what, in some jurisdictions, is called hearsay. Just this: When were those protocols introduced formally?"
-    },
-    {
-      "id": 280,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "I cannot recall that. I'm not aware of that.",
-      "reply_to": 279
+      "reply_to": 278
+    },
+    {
+      "id": 280,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. You've been asked by a question that used the word \"selective\" about what you put into these statements. If, in the course of answers given by the witness, material that is or might be exculpatory is mentioned, what's the practice in relation to such material?",
+      "examination": "re-direct"
     },
     {
       "id": 281,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Very well. You've been asked by a question that used the word \"selective\" about what you put into these statements. If, in the course of answers given by the witness, material that is or might be exculpatory is mentioned, what's the practice in relation to such material?"
-    },
-    {
-      "id": 282,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "After a thorough discussion of the matter, it's absolutely going to be recorded as it is, without any addition or subtraction.",
-      "reply_to": 281
+      "reply_to": 280
+    },
+    {
+      "id": 282,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is there any question of being selective in the material that you put in these statements?",
+      "examination": "re-direct"
     },
     {
       "id": 283,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is there any question of being selective in the material that you put in these statements?"
-    },
-    {
-      "id": 284,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "Apart from one's basic sense of what's relevant and what's not, no.",
-      "reply_to": 283
+      "reply_to": 282
+    },
+    {
+      "id": 284,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mujezinovic, in this statement, had it been read back to him?",
+      "examination": "re-direct"
     },
     {
       "id": 285,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mujezinovic, in this statement, had it been read back to him?"
-    },
-    {
-      "id": 286,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "It was, indeed.",
-      "reply_to": 285
+      "reply_to": 284
+    },
+    {
+      "id": 286,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did he then sign it?",
+      "examination": "re-direct"
     },
     {
       "id": 287,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did he then sign it?"
-    },
-    {
-      "id": 288,
       "speaker": "EHSAN BAJWA",
       "role": "witness",
       "type": "answer",
       "text": "He did sign it.",
-      "reply_to": 287
+      "reply_to": 286
+    },
+    {
+      "id": 288,
+      "speaker": "MR. NICE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "re-direct"
     },
     {
       "id": 289,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you."
-    },
-    {
-      "id": 290,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
       "text": "That's all I ask at the moment and probably all I'm going to ask. On the basis that the witness, subject to any questions of the Chamber, will be released, would the Chamber give him the warning about any other witnesses who may come here after? The witness Kehoe, if he's now required, is presently engaged in the last stages of another case, but he is, of course, in the same building."
     },
     {
-      "id": 291,
+      "id": 290,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Bajwa, thank you for coming to give evidence. You are released. The point that counsel was making was to tell you not to talk to any other prospective witnesses about your evidence, of course."
     },
     {
-      "id": 292,
+      "id": 291,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "I will bear that in mind, sir. Thank you very much."
     },
     {
-      "id": 293,
+      "id": 292,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
       "text": "May he remain outside just for a minute to be technically released by one of my staff when I've raised one matter with the Chamber?"
     },
     {
-      "id": 294,
+      "id": 293,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Thank you. (The witness withdrew)"
     },
     {
-      "id": 295,
+      "id": 294,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I'm concerned to note that Mr. Sayers, who was here yesterday and who conducted the cross-examination of Mr. Mujezinovic but who isn't here today, has, in correspondence which is then reflected in argument to you, characterised witness statements built on Mujezinovic's evidence as \"ad hoc compilations of what witnesses supposedly discussed with investigators, slanted in a manner to effect the accused's interests adversely.\" He went on to say: \"They are the investigator's statements, rather than those of the witness, strictly speaking.\" Mr. Stein, in a letter of the 21st of May, again built on the Mujezinovic experience, categorised these statements as \"unreliable and artificially engineered documents, for all the reasons highlighted in Dr. Mujezinovic's testimony.\" I have taken the view throughout that the absurd hyperbole by the Defence is unhelpful to this litigation, but I certainly take the view that if they wish to advance that sort of proposition, they should put it to this witness. I note they have got no where near that, and I will proceed from now on on the basis that those allegations are withdrawn unconditionally, and if they are not to be withdrawn, I would respectfully invite the Chamber to decide whether these are matters that ought to be put, for we really cannot proceed on matters of this importance with this sort of language when it's not backed up."
     },
     {
-      "id": 296,
+      "id": 295,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "I, myself, regarded those sort of comments as forensic hyperbole, and unless I had seen something to demonstrate their truth, I would have disregarded them. I speak for myself, of course, entirely. I don't propose, unless anybody else wants me to, to have the witness back for those matters to be put. He's given his evidence quite clearly about what has happened."
     },
     {
-      "id": 297,
+      "id": 296,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 298,
+      "id": 297,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Do you, Mr. Stein, want to have the witness back to put those sort of things to him?"
     },
     {
-      "id": 299,
+      "id": 298,
       "speaker": "MR. STEIN",
       "role": "counsel",
       "type": "statement",
       "text": "No, sir. His testimony is quite clear. Your Honours are left with a choice. You can believe Dr. Mujezinovic or you can believe the witness. There are certainly inconsistencies between the two."
     },
     {
-      "id": 300,
+      "id": 299,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "As you rightly say, those are entirely matters for the Trial Chamber to consider in due course. Yes?"
     },
     {
-      "id": 301,
+      "id": 300,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you. Then I'll ask for him to be further released from outside the room."
     },
     {
-      "id": 302,
+      "id": 301,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Very well. We are now going on to the argument, Mr. Smith, but before we do, there's one matter which I have in mind which I want to raise briefly. Mr. Nice, in your absence, a witness was called, and I made some comments to Mr. Scott which, no doubt, have been relayed to you, but I would wish them to be made again so that you could hear. Looking overall at the trial so far, we've had some 20 witnesses, five of them have dealt with events at Kaonik, and relying on the Rule 73 bis D, I think that there can be a reduction in evidence in relation thereto. Perhaps you could bear that in mind."
     },
     {
-      "id": 303,
+      "id": 302,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
       "text": "Certainly we will."
     },
     {
-      "id": 304,
+      "id": 303,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "And no more at least, I hope, before the recess."
     },
     {
-      "id": 305,
+      "id": 304,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
       "text": "We will deal with that, and, indeed, Kaonik has yet to be discussed by us, save that I think I'm aware that we have to give some consideration to the places from which people were taken to Kaonik and dates, but that apart, there will be no resistance to Your Honour's observations, and thank you for making them again."
     },
     {
-      "id": 306,
+      "id": 305,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes, Mr. Smith?"
     },
     {
-      "id": 307,
+      "id": 306,
       "speaker": "MR. SMITH",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour. I will give a brief introduction and deal with issues involving the law. My colleague, Mr. Stein, will deal with some of the practical issues raised by the Prosecutor's proposal and the specifics that you mentioned yesterday about fairness and this particular dossier. I think it is important at the outset to be clear about the issue before the Trial Chamber, and I believe my learned colleague has done that. The question is can major elements of a case before the ICTY, and these village attacks are major elements as I discussed yesterday, be tried on paper with unsworn witness statements and investigators' summaries, or, alternatively, will testimonial evidence be tested by questioning by the Defence an evaluation by the Trial Chamber of live, oral testimony by percipient witnesses? It is a matter, as I indicated yesterday, of very great significance to the Defence. Indeed, as I said at an earlier session, should such witness statements or reports by investigators be placed in evidence without the opportunity for cross-examination by the Defence, we would, with all respect, be obligated, I think, professionally obligated to appeal the matter immediately --"
     },
     {
-      "id": 308,
+      "id": 307,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Smith, that is not a point to make before a Trial Chamber, a trial of first instance. Whether you appeal or not is of no relevance."
     },
     {
-      "id": 309,
+      "id": 308,
       "speaker": "MR. SMITH",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour. I will pass on. Let me turn to the argument in chief on the law, and I will deal firstly with the question of the problem facing the Trial Chamber. The problem is, one, the length of the trial and the scope of the material required by the indictment pled by the Prosecution. I suggest, as I did yesterday, that as this trial has gone on, there have been techniques developed and practices honed, and the Trial Chamber has exercised its own authority so that if the problem is not completely solved, it's largely solved, that is to say, the Trial Chamber, in our judgement, has the power and the ability to scope the trial as it needs to be done. I suggest that a major shift in procedures at this time would constitute changing horses in midstream. It would require a change, in our judgement, to both the Statute and the Rules and could not be done by the Trial Chamber alone. It would be disruptive. It would, in our judgement, not shorten the trial, and Mr. Stein will speak to this. It's risky. It shifts the Prosecutor's burden to the Defence. It is not the procedures that our client understood would be applied to him when he surrendered, when he chose counsel, and that is the reason that Rule 6(C) alone would prohibit application in this trial, even if the Statute or the Rules were changed to allow it. Dossiers, in our judgement, can be useful collations of evidence about a particular set of events, but the admission of witness statements or investigators' reports do not, in our judgement, further the search for truth, and this is true because the Judges themselves are prevented from probing, considering, and determining witness demeanour, witness credibility, witness background and potential bias, the nature and extent of witness observations, particularly the opportunity to observe percipient events, an event on a percipient basis, and this is particularly true where, I believe it has been demonstrated and Mr. Stein will discuss this, these witness statements are, I think, undeniably in some circumstances unreliable, and the investigator's report, as we have set out in our pleading on the Tulica dossier, is, in some regards, unreliable, and in any case, the witness statements proposed to be used by the Prosecutor are selective. She has selected one when there are many that she has omitted to use. As a result, it is our view that neither untested, unsworn witness statements, nor investigators' summaries are an acceptable substitute for testimonial evidence by a percipient witness. An admission of either would be a serious error. I turn first to the Statute and the Rules of the Tribunal. The Statute, fixed by the Security Council, Article 21(4)(e), the opportunity \"to examine or have examined witnesses against him.\" I mentioned Rule 90(A) requiring --"
     },
     {
-      "id": 310,
+      "id": 309,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Just a moment. Rule --"
     },
     {
-      "id": 311,
+      "id": 310,
       "speaker": "MR. SMITH",
       "role": "counsel",
       "type": "statement",
       "text": "Rule 21(4)(e), Your Honour, \"Rights of the Accused.\" It is that language, that exact language, \"to examine or have examined the witnesses against him,\" that is used in the International Covenant and the European Convention, and that is the subject of the case law that I will discuss before the European Court of Human Rights. Rule 90(A) of the Tribunal's Rules deals with and requires direct oral presentation of testimony as the normal way of doing business. Rule 90(B) requires that testimony be sworn and thus subject to perjury provisions of the Tribunal's Rules. I don't propose to go on with all of the various sections of the Rules that bear on this question, Your Honour, on the grounds that, number one, many of them have been discussed before in the context of the Aleksovski case and its ruling, and also they are in our materials, and in the interests of time, unless Your Honours have specific questions, I will turn to the question of the inconsistency of what the Prosecutor proposes with the normal civil law procedures. The key point with the civil law procedures, which the Prosecutor's proposal is designed to mimic and to adapt for purposes here, is one that I think we have pointed out, that is, testimony before an investigating judge at an early stage in a proceeding, while it can sometimes be used in a later trial before the judge of first instance, is normally sworn testimony taken by a judicial officer whose duty it is to be neutral, as opposed to unsworn testimony, not subject to the rules of perjury, but taken by a person whose duty it is to -- as the manual that we have cited in our brief clearly states, whose duty it is to prepare cases for the prosecuting attorney because they work for the prosecuting attorney. This is a very important set of distinctions, and it cannot be cured -- the difficulty, the issue cannot be cured by simply saying that this Court can sit as an investigating judge. First of all, the way that the civil law system would work, there would then be some other court of first instance in which the trial would take place, but this is the court in which the trial takes place. Secondly, the investigating judge himself listens to the oral testimony. The person that receives the statement without the oral testimony is the subsequent judge at the proceeding, and there the reliance is on the fact that at some stage in the proceeding, that is to say, in the early stage before the investigating judge, the Defence has had the opportunity to test and challenge the testimonial evidence by questioning a live witness, or at least by having the statement taken, sworn under the rules of perjury, and before a judicial officer. That is simply not the situation the Trial Chamber faces. It could have been, it could have been if the Tribunal had started out at the outset and deputised, in effect, investigating judges who were not part of the Prosecutorial force, who took statements in locations in Bosnia or in Kosovo. That is simply not the way the Tribunal is organised at this point. Let me turn then to why it is that the Prosecutor's proposal --"
     },
     {
-      "id": 312,
+      "id": 311,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Let me just make sure I understand that. You're saying that in the civil-law system, evidence is taken before an investigating judge. That evidence is normally sworn evidence and there is opportunity for cross-examination. That testimony is used later."
     },
     {
+      "id": 312,
+      "speaker": "MR. SMITH",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, it is sworn testimony. It is subject, as I understand it, to the rules of perjury. I think it does sometimes involve"
+    },
+    {
       "id": 313,
       "speaker": "MR. SMITH",
       "role": "counsel",
       "type": "statement",
-      "text": "Your Honour, it is sworn testimony. It is subject, as I understand it, to the rules of perjury. I think it does sometimes involve cross-examination by the defendant and sometimes may not. My colleague, Mr. Naumovski, and these other gentlemen are far greater experts. I'm not an expert indeed in the civil law. They know a great deal more about it. It may be used later before the trial judge, or it can be, in proper circumstances, generally extraordinary circumstances. The basic requirement and normal rule is the appearance of the witness, and these gentlemen can comment on that in more detail. The Prosecutor's proposal is also inconsistent, in our judgement, with the International Covenant on Civil and Political Rights that I've referred to and the European Convention on Human Rights, both of which use exactly or essentially the same language, \"Examine or have examined witnesses against him.\" Let's turn to the case law involving the European Convention before the European Court of Human Rights, because it is the only case law at the international level which has construed these phrases. When you look at the case law, what you find is, and this is set out in our skeleton argument and in the attachment to the Prosecutor's response to Judge Robinson's concern about these cases, filed on June 17th, written by Mr. Stavros. There must be a witness to confront and question at some stage for a statement, written statement, of a witness not present at the trial itself to be taken into evidence, considered, and mainly, decisively, primarily, depends on the court, relied upon in making the judgement. Three cases were cited by the Prosecutor in its June 17th submission and response to Judge Robinson for the proposition that what they propose is permissible. All three cases were reversed for failure to have a witness attend the trial. The Barbera case, the Unterpertinger case, and the Bricmont case. Indeed most of the ECHR cases reverse for failure to have a life witness. Some of those do that even when there were questions asked by an investigating judge of a witness who later fails to show at trial. The Barbera case and the Kostovski case are examples."
+      "text": "not. My colleague, Mr. Naumovski, and these other gentlemen are far greater experts. I'm not an expert indeed in the civil law. They know a great deal more about it. It may be used later before the trial judge, or it can be, in proper circumstances, generally extraordinary circumstances. The basic requirement and normal rule is the appearance of the witness, and these gentlemen can comment on that in more detail. The Prosecutor's proposal is also inconsistent, in our judgement, with the International Covenant on Civil and Political Rights that I've referred to and the European Convention on Human Rights, both of which use exactly or essentially the same language, \"Examine or have examined witnesses against him.\" Let's turn to the case law involving the European Convention before the European Court of Human Rights, because it is the only case law at the international level which has construed these phrases. When you look at the case law, what you find is, and this is set out in our skeleton argument and in the attachment to the Prosecutor's response to Judge Robinson's concern about these cases, filed on June 17th, written by Mr. Stavros. There must be a witness to confront and question at some stage for a statement, written statement, of a witness not present at the trial itself to be taken into evidence, considered, and mainly, decisively, primarily, depends on the court, relied upon in making the judgement. Three cases were cited by the Prosecutor in its June 17th submission and response to Judge Robinson for the proposition that what they propose is permissible. All three cases were reversed for failure to have a witness attend the trial. The Barbera case, the Unterpertinger case, and the Bricmont case. Indeed most of the ECHR cases reverse for failure to have a life witness. Some of those do that even when there were questions asked by an investigating judge of a witness who later fails to show at trial. The Barbera case and the Kostovski case are examples."
     },
     {
       "id": 314,
@@ -2702,6 +2830,26 @@
     {
       "after_utterance": 4,
       "text": "WITNESS:  EHSAN BAJWA"
+    },
+    {
+      "after_utterance": 4,
+      "text": "Examined by Mr. Nice:"
+    },
+    {
+      "after_utterance": 54,
+      "text": "Cross-examined by Mr. Stein:"
+    },
+    {
+      "after_utterance": 193,
+      "text": "Cross-examined by Mr. Kovacic:"
+    },
+    {
+      "after_utterance": 265,
+      "text": "Re-examined by Mr. Nice:"
+    },
+    {
+      "after_utterance": 312,
+      "text": "cross-examination by the defendant and sometimes may"
     },
     {
       "after_utterance": 326,

@@ -1,6 +1,6 @@
 {
   "case": "zupljanin_stanisicm",
-  "case_id": "IT-08-91-T",
+  "case_id": "IT-08-91",
   "date": "2010-02-26",
   "utterances": [
     {
@@ -3526,15 +3526,15 @@
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
-      "text": "Please proceed, Mr. Krgovic. Further cross-examination by Mr. Krgovic:"
+      "text": "Please proceed, Mr. Krgovic."
     },
     {
       "id": 457,
-      "speaker": "MR. HANNIS",
+      "speaker": "MR. KRGOVIC",
       "role": "counsel",
       "type": "question",
       "text": "[Interpretation] Mr. Rakovic, when you were answering the Prosecutor's question and when he asked you whether you could establish the number of received dispatches only on the basis of log-book in Banja Luka of dispatches received and sent, you said that in order to answer you would have to have the books from the public security stations; is that right?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 458,
@@ -3546,11 +3546,11 @@
     },
     {
       "id": 459,
-      "speaker": "MR. HANNIS",
+      "speaker": "MR. KRGOVIC",
       "role": "counsel",
       "type": "question",
       "text": "Sorry, we have a time problem. So this number of 9.000 that is mentioned here, that is the total number of received and sent dispatches for all the public security stations and the centre?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 460,
@@ -3562,11 +3562,11 @@
     },
     {
       "id": 461,
-      "speaker": "MR. HANNIS",
+      "speaker": "MR. KRGOVIC",
       "role": "counsel",
       "type": "question",
       "text": "And when we're talking about received and sent dispatches, some of them are recorded at the public security station as received, and at the centre they're registered as sent, but they're actually one in the same dispatch; is that right?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 462,
@@ -4104,6 +4104,10 @@
     {
       "after_utterance": 403,
       "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 456,
+      "text": "Further cross-examination by Mr. Krgovic:"
     },
     {
       "after_utterance": 463,

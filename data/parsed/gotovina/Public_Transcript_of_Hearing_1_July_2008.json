@@ -1,6 +1,6 @@
 {
   "case": "gotovina",
-  "case_id": "IT-06-90-T",
+  "case_id": "IT-06-90",
   "date": "2008-07-01",
   "utterances": [
     {
@@ -1067,15 +1067,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Please proceed. Re-examination by Mr. Du Toit"
+      "text": "Please proceed."
     },
     {
       "id": 140,
-      "speaker": "MR. KEHOE",
+      "speaker": "MR. DU",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Steenbergen, yesterday, in question by the Markac Defence team, and also this morning by Mr. Kehoe, you referred to the -- and I can refer you to paragraph 14 of your statement, Exhibit 516. You mention of the incident where you saw the military trucks entering and exiting the site. Do you recall that?",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 141,
@@ -1087,11 +1087,11 @@
     },
     {
       "id": 142,
-      "speaker": "MR. KEHOE",
+      "speaker": "MR. DU",
       "role": "counsel",
       "type": "question",
       "text": "Can you just answer in the affirmative, please?",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 143,
@@ -1103,11 +1103,11 @@
     },
     {
       "id": 144,
-      "speaker": "MR. KEHOE",
+      "speaker": "MR. DU",
       "role": "counsel",
       "type": "question",
       "text": "Now, the heading of your statement is \"Events pre-August 1995.\" Can you perhaps, as you sit now, remember when did you observe the movement that you describe in paragraph 14 of your statement?",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 145,
@@ -1119,11 +1119,11 @@
     },
     {
       "id": 146,
-      "speaker": "MR. KEHOE",
+      "speaker": "MR. DU",
       "role": "counsel",
       "type": "question",
       "text": "And then just lastly from questions by my learned friend Mr. Kehoe, you also indicated that you received instructions to monitor HV troops. Is that correct?",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 147,
@@ -1135,11 +1135,11 @@
     },
     {
       "id": 148,
-      "speaker": "MR. KEHOE",
+      "speaker": "MR. DU",
       "role": "counsel",
       "type": "question",
       "text": "Now, did Mr. Hjertnes in the team leader's meeting, as you testified, inform you as to the reason why they requested UNMOs to do that?",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 149,
@@ -1161,7 +1161,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Judge Kinis has one or more questions for you. Questioned by the Court:"
+      "text": "Judge Kinis has one or more questions for you."
     },
     {
       "id": 152,
@@ -1523,8 +1523,16 @@
       "text": "Cross-examination by Mr. Kehoe:"
     },
     {
+      "after_utterance": 139,
+      "text": "Re-examination by Mr. Du Toit"
+    },
+    {
       "after_utterance": 150,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 151,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 159,

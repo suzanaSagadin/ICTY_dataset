@@ -684,748 +684,786 @@
     },
     {
       "id": 98,
-      "speaker": "JUDGE PARKER",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Cayley: [Continued]"
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, good afternoon.",
+      "examination": "direct"
     },
     {
       "id": 99,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Witness, good afternoon."
-    },
-    {
-      "id": 100,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I don't understand this language.",
-      "reply_to": 99
+      "reply_to": 98
+    },
+    {
+      "id": 100,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "You're not --",
+      "examination": "direct"
     },
     {
       "id": 101,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You're not --"
-    },
-    {
-      "id": 102,
       "speaker": "MR. CAYLEY",
       "role": "counsel",
       "type": "statement",
       "text": "He's not receiving it in his own language."
     },
     {
-      "id": 103,
+      "id": 102,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes. Yes, now."
     },
     {
-      "id": 104,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 103,
+      "speaker": "MR. CAYLEY",
       "role": "counsel",
       "type": "question",
-      "text": "Good afternoon, sir, do you hear me now."
+      "text": "Good afternoon, sir, do you hear me now.",
+      "examination": "direct"
     },
     {
-      "id": 105,
+      "id": 104,
       "speaker": "JUDGE PARKER",
       "role": "judge",
       "type": "statement",
       "text": "Before you continue, Mr. Cayley. Did you understand what I said to you, sir? Did you hear -- did you understand what I said to you a little earlier?"
     },
     {
-      "id": 106,
+      "id": 105,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] No. No, I'm not clear."
     },
     {
-      "id": 107,
+      "id": 106,
       "speaker": "JUDGE PARKER",
       "role": "judge",
       "type": "statement",
       "text": "I'll repeat briefly the main things. We are sorry you've been delayed because of other matters that had to be attended to. Your evidence now -- will now continue. Mr. Cayley will ask you more questions. You will remember that the affirmation you made at the beginning of your evidence still applies. Yes, Mr. Cayley."
     },
     {
-      "id": 108,
+      "id": 107,
       "speaker": "MR. CAYLEY",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honours."
     },
     {
-      "id": 109,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 108,
+      "speaker": "MR. CAYLEY",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, we're now in public session, so I would ask you for the moment not to mention the names of any of your relatives, but you can in fact mention the names of other prisoners. But be careful about this and we'll soon go back into private session. Now, I want to remind you of a question that I put to you yesterday, and you were speaking about the prisoners in the stable. And I asked you: \"Why were they bloody? Did you find out why they were covered in blood?\" And you say: \"It was because of what I experienced myself. It was because of Qerqiz who had beaten them.\" That was on page 87 of the draft transcript. Now, the question I have for you is: Did you see anybody being beaten in the stable?"
+      "text": "Witness, we're now in public session, so I would ask you for the moment not to mention the names of any of your relatives, but you can in fact mention the names of other prisoners. But be careful about this and we'll soon go back into private session. Now, I want to remind you of a question that I put to you yesterday, and you were speaking about the prisoners in the stable. And I asked you: \"Why were they bloody? Did you find out why they were covered in blood?\" And you say: \"It was because of what I experienced myself. It was because of Qerqiz who had beaten them.\" That was on page 87 of the draft transcript. Now, the question I have for you is: Did you see anybody being beaten in the stable?",
+      "examination": "direct"
     },
     {
-      "id": 110,
+      "id": 109,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Everybody -- all of us were beaten in the stable.",
-      "reply_to": 109
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would that include all of the prisoners that you referred to yesterday, all of the prisoners that you named in the stable?",
+      "examination": "direct"
     },
     {
       "id": 111,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Would that include all of the prisoners that you referred to yesterday, all of the prisoners that you named in the stable?"
-    },
-    {
-      "id": 112,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 111
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who did the beating?",
+      "examination": "direct"
     },
     {
       "id": 113,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Who did the beating?"
-    },
-    {
-      "id": 114,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Qerqizi.",
-      "reply_to": 113
+      "reply_to": 112
+    },
+    {
+      "id": 114,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was there anybody else that was beating prisoners in the stable?",
+      "examination": "direct"
     },
     {
       "id": 115,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was there anybody else that was beating prisoners in the stable?"
-    },
-    {
-      "id": 116,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I don't understand the question.",
-      "reply_to": 115
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "You've said that Qerqizi was beating prisoners in the stable. And my question for you is: Was anybody apart from Qerqizi beating prisoners in the stable?",
+      "examination": "direct"
     },
     {
       "id": 117,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You've said that Qerqizi was beating prisoners in the stable. And my question for you is: Was anybody apart from Qerqizi beating prisoners in the stable?"
-    },
-    {
-      "id": 118,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "At that moment, no. Qerqizi came every day and beat us. Or every night.",
-      "reply_to": 117
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did he come alone or with others?",
+      "examination": "direct"
     },
     {
       "id": 119,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did he come alone or with others?"
-    },
-    {
-      "id": 120,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "He came there alone.",
-      "reply_to": 119
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "How did you know that this individual was called \"Qerqizi\"?",
+      "examination": "direct"
     },
     {
       "id": 121,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How did you know that this individual was called \"Qerqizi\"?"
-    },
-    {
-      "id": 122,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "There was a co-villager of his next to me in the stable.",
-      "reply_to": 121
+      "reply_to": 120
     },
     {
-      "id": 123,
+      "id": 122,
       "speaker": "MR. CAYLEY",
       "role": "counsel",
       "type": "statement",
       "text": "Could we go into private session, please."
     },
     {
-      "id": 124,
+      "id": 123,
       "speaker": "JUDGE PARKER",
       "role": "judge",
       "type": "statement",
       "text": "Private session."
     },
     {
-      "id": 125,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 124,
+      "speaker": "MR. CAYLEY",
       "role": "counsel",
       "type": "question",
-      "text": "I want to ask you today about the evidence you've just given concerning Fatmir Limaj, when you say you were taken to see him. That's what I want to ask you about. Do you understand?"
+      "text": "I want to ask you today about the evidence you've just given concerning Fatmir Limaj, when you say you were taken to see him. That's what I want to ask you about. Do you understand?",
+      "examination": "direct"
     },
     {
-      "id": 126,
+      "id": 125,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Can you repeat the question, please?",
-      "reply_to": 125
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. I want to ask you about the evidence you have given today relating to Fatmir Limaj whom you say you saw when you were taken to see him and he asked you some questions, it's that.",
+      "examination": "direct"
     },
     {
       "id": 127,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes. I want to ask you about the evidence you have given today relating to Fatmir Limaj whom you say you saw when you were taken to see him and he asked you some questions, it's that."
-    },
-    {
-      "id": 128,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. When they took me to Fatmir Limaj, he asked me, Why are you here --",
-      "reply_to": 127
+      "reply_to": 126
+    },
+    {
+      "id": 128,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes, I'll ask the questions. You have plenty of time. Please do not repeat what you've already said. I'll ask the questions slowly. Now, first of all, do you think there is a possibility you are thoroughly confused about this incident relating to Fatmir Limaj?",
+      "examination": "direct"
     },
     {
       "id": 129,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes, I'll ask the questions. You have plenty of time. Please do not repeat what you've already said. I'll ask the questions slowly. Now, first of all, do you think there is a possibility you are thoroughly confused about this incident relating to Fatmir Limaj?"
-    },
-    {
-      "id": 130,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 129
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you think that your memory about this is reliable?",
+      "examination": "direct"
     },
     {
       "id": 131,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you think that your memory about this is reliable?"
-    },
-    {
-      "id": 132,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 131
+      "reply_to": 130
+    },
+    {
+      "id": 132,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "I want to suggest to you that it did not happen at all. Do you understand?",
+      "examination": "direct"
     },
     {
       "id": 133,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I want to suggest to you that it did not happen at all. Do you understand?"
-    },
-    {
-      "id": 134,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "What do you mean? I'm not getting you. What do you mean by nothing happened?",
-      "reply_to": 133
+      "reply_to": 132
+    },
+    {
+      "id": 134,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "I want to suggest to you that you were not taken to a room where you saw Fatmir Limaj and where he asked you questions. I want to suggest to you that did not happen.",
+      "examination": "direct"
     },
     {
       "id": 135,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I want to suggest to you that you were not taken to a room where you saw Fatmir Limaj and where he asked you questions. I want to suggest to you that did not happen."
-    },
-    {
-      "id": 136,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Of course it happened. If I were not there, how could I say it happened? I was there. I suffered. Because of Fatmir Limaj, I'm free. I have nothing to say against him.",
-      "reply_to": 135
+      "reply_to": 134
+    },
+    {
+      "id": 136,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "I appreciate that. When you were seen first of all by an investigator, do you remember that occasion? I don't ask for the date, just the moment in time. Do you remember being seen first by an investigator about --",
+      "examination": "direct"
     },
     {
       "id": 137,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I appreciate that. When you were seen first of all by an investigator, do you remember that occasion? I don't ask for the date, just the moment in time. Do you remember being seen first by an investigator about --"
-    },
-    {
-      "id": 138,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No, I don't remember.",
-      "reply_to": 137
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm going to --",
+      "examination": "direct"
     },
     {
       "id": 139,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I'm going to --"
-    },
-    {
-      "id": 140,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "It's been a long time.",
-      "reply_to": 139
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Previous translation continues]... the investigator's name in case it rings a bell with you. The investigator's name was Kereakes. Does that mean anything to you?",
+      "examination": "direct"
     },
     {
       "id": 141,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "[Previous translation continues]... the investigator's name in case it rings a bell with you. The investigator's name was Kereakes. Does that mean anything to you?"
-    },
-    {
-      "id": 142,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 141
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "No. The time that you saw him was in January 2002. Do you follow? We have a record of when you saw him.",
+      "examination": "direct"
     },
     {
       "id": 143,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "No. The time that you saw him was in January 2002. Do you follow? We have a record of when you saw him."
-    },
-    {
-      "id": 144,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I understand what you are saying, but I don't remember the dates or the years because six years have passed.",
-      "reply_to": 143
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "I understand. In the record that was kept of what you said in January 2002, you make no mention at all of being taken to see a commander, whether he be called \"Celiku\" or \"Fatmir Limaj\" or any other name, who asked you questions and who then came to see you afterwards. Now do you follow what I'm putting to you?",
+      "examination": "direct"
     },
     {
       "id": 145,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I understand. In the record that was kept of what you said in January 2002, you make no mention at all of being taken to see a commander, whether he be called \"Celiku\" or \"Fatmir Limaj\" or any other name, who asked you questions and who then came to see you afterwards. Now do you follow what I'm putting to you?"
-    },
-    {
-      "id": 146,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I don't remember what you are saying.",
-      "reply_to": 145
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "No. You may not remember, but we have a record of what you said. You did not say to that investigator -- in a statement which covers the number of pages, you did not say anything about being taken to see Commander Celiku. You did not say anything about him asking you questions. Now, the question I have for you is: Why is it that you said nothing about seeing Commander Celiku or being taken to see him and he asking you questions when you were seen by an investigator?",
+      "examination": "direct"
     },
     {
       "id": 147,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "No. You may not remember, but we have a record of what you said. You did not say to that investigator -- in a statement which covers the number of pages, you did not say anything about being taken to see Commander Celiku. You did not say anything about him asking you questions. Now, the question I have for you is: Why is it that you said nothing about seeing Commander Celiku or being taken to see him and he asking you questions when you were seen by an investigator?"
-    },
-    {
-      "id": 148,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I'm telling you that -- I don't remember the words you are saying. But I'm saying right in everybody's face: I have nothing against Fatmir Limaj; he released me. And this is why I'm here, present. I told the truth, whatever I saw with my eyes.",
-      "reply_to": 147
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Why didn't you tell that to the first investigator?",
+      "examination": "direct"
     },
     {
       "id": 149,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Why didn't you tell that to the first investigator?"
-    },
-    {
-      "id": 150,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Maybe the interpreters didn't understand everything I said.",
-      "reply_to": 149
+      "reply_to": 148
+    },
+    {
+      "id": 150,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "That --",
+      "examination": "direct"
     },
     {
       "id": 151,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "That --"
-    },
-    {
-      "id": 152,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I think this might be a cause, a reason why.",
-      "reply_to": 151
+      "reply_to": 150
+    },
+    {
+      "id": 152,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "They would have to have not listened to anything that you said because there is no mention at all of you being taken to see anyone, whatever the name, or being asked questions by anyone while you were at the camp. Do you follow? Nothing.",
+      "examination": "direct"
     },
     {
       "id": 153,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "They would have to have not listened to anything that you said because there is no mention at all of you being taken to see anyone, whatever the name, or being asked questions by anyone while you were at the camp. Do you follow? Nothing."
-    },
-    {
-      "id": 154,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "But it was in Lapusnik they interrogated me, in a room, as they said as a headquarters it was used. He asked me, Who brought you here? I said, I don't know. He said, Why did he bring you here? I said, I don't know.",
-      "reply_to": 153
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "I know that is what you are now saying happened. I'm going to move on. Please listen carefully. No mention at all in the first interview with an investigator. Some months later in 2002 you were seen by another investigator. It may be you don't remember the occasion or a second investigator. Would that be right, you don't remember?",
+      "examination": "direct"
     },
     {
       "id": 155,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I know that is what you are now saying happened. I'm going to move on. Please listen carefully. No mention at all in the first interview with an investigator. Some months later in 2002 you were seen by another investigator. It may be you don't remember the occasion or a second investigator. Would that be right, you don't remember?"
-    },
-    {
-      "id": 156,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I don't remember. We are suffering from the traumas of the war. I am saying you in your face. I have nothing against Fatmir Limaj. I explained everything.",
-      "reply_to": 155
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Right. Now, I want to ask you carefully. You said today that the person who took you to see Limaj was a soldier called Tamul or Tamuli. Do you remember saying that today?",
+      "examination": "direct"
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Right. Now, I want to ask you carefully. You said today that the person who took you to see Limaj was a soldier called Tamul or Tamuli. Do you remember saying that today?"
-    },
-    {
-      "id": 158,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, Tamuli.",
-      "reply_to": 157
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Tamuli. Could you kindly describe Tamuli to us. What does he look like?",
+      "examination": "direct"
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Tamuli. Could you kindly describe Tamuli to us. What does he look like?"
-    },
-    {
-      "id": 160,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "He was thin, maybe tall. About 170 or 75. I don't know about his age.",
-      "reply_to": 159
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Hair?",
+      "examination": "direct"
     },
     {
       "id": 161,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Hair?"
-    },
-    {
-      "id": 162,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I don't remember his hair, because he had a cap on his head.",
-      "reply_to": 161
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Or could it have been someone else entirely that took you, not Tamul?",
+      "examination": "direct"
     },
     {
       "id": 163,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Or could it have been someone else entirely that took you, not Tamul?"
-    },
-    {
-      "id": 164,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Everybody called him Tamul. That's why I'm saying \"Tamul.\" But he was the same person together with Qerqizi who came there. There was nobody else.",
-      "reply_to": 163
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you quite sure it was him and not anyone else?",
+      "examination": "direct"
     },
     {
       "id": 165,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Are you quite sure it was him and not anyone else?"
-    },
-    {
-      "id": 166,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I'm very sure.",
-      "reply_to": 165
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "You're very sure. Then would you kindly explain why you told the second investigator that the man who took you to see the commander was called \"Murrizi\"?",
+      "examination": "direct"
     },
     {
       "id": 167,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You're very sure. Then would you kindly explain why you told the second investigator that the man who took you to see the commander was called \"Murrizi\"?"
-    },
-    {
-      "id": 168,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "This is strange. I told you, this is because -- I made a mistake because I was suffering from the traumas of the war, but afterwards I explained it, I corrected it. I made a mistake. I'm telling you.",
-      "reply_to": 167
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "So that your memory is not reliable, but subject to mistake; do you agree?",
+      "examination": "direct"
     },
     {
       "id": 169,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So that your memory is not reliable, but subject to mistake; do you agree?"
-    },
-    {
-      "id": 170,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Please. I'm telling you what I saw. And I tried to tell you what I saw and what I went through. I'm telling the truth, and I swore to tell the truth. I don't know what to say. I am saying I have nothing against Fatmir Limaj. Hadn't it have been for him, I wouldn't have been alive today. It was because of his words that I was released. So I have nothing against him.",
-      "reply_to": 169
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "You say today that he asked -- that the man that took you was not Murrizi but Tamul and that that man, Tamul, told you, We go to the commander, Commander Celiku. He told you that, did he?",
+      "examination": "direct"
     },
     {
       "id": 171,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You say today that he asked -- that the man that took you was not Murrizi but Tamul and that that man, Tamul, told you, We go to the commander, Commander Celiku. He told you that, did he?"
-    },
-    {
-      "id": 172,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. It was he who took me to Commander Celiku.",
-      "reply_to": 171
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did the person who took you, according to you today, as you have said today, you began your evidence by saying -- that he told you that Fatmir Limaj has come. We go to the commander. You were then asked a further question and you said what he actually said was Commander Celiku. Now, is that what the person said to you before you went?",
+      "examination": "direct"
     },
     {
       "id": 173,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did the person who took you, according to you today, as you have said today, you began your evidence by saying -- that he told you that Fatmir Limaj has come. We go to the commander. You were then asked a further question and you said what he actually said was Commander Celiku. Now, is that what the person said to you before you went?"
-    },
-    {
-      "id": 174,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I might have made a mistake, because I didn't know who Fatmir Limaj was -- as a commander, I mean. But Shala came, he was first to come. He came to the stable and he said, Get up because Commander Celiku is coming. It was Shala that I heard it from, not Tamuli. It was not Tamuli who told me.",
-      "reply_to": 173
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "I suggest that you're making this up as you go along. You've never said that before, have you?",
+      "examination": "direct"
     },
     {
       "id": 175,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I suggest that you're making this up as you go along. You've never said that before, have you?"
-    },
-    {
-      "id": 176,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Tamuli came to the stable and took me to Fatmir Limaj, Celiku.",
-      "reply_to": 175
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "You've never indicated before today that whoever came to the stable to take you to the commander told you the name of the commander to whom you were going. You've never said that before. Is your memory improving?",
+      "examination": "direct"
     },
     {
       "id": 177,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You've never indicated before today that whoever came to the stable to take you to the commander told you the name of the commander to whom you were going. You've never said that before. Is your memory improving?"
-    },
-    {
-      "id": 178,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "You have mixed me up.",
-      "reply_to": 177
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Next question is a simple one.",
+      "examination": "direct"
     },
     {
       "id": 179,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Next question is a simple one."
-    },
-    {
-      "id": 180,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I am telling you that I have nothing against Fatmir Limaj. I am free and alive. Nothing wrong. I have said nothing wrong against him, other than what I went through, what I saw.",
-      "reply_to": 179
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "You've indicated today that the person you saw, the commander, asked you who took you and why you were taken. Do you remember saying that today?",
+      "examination": "direct"
     },
     {
       "id": 181,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You've indicated today that the person you saw, the commander, asked you who took you and why you were taken. Do you remember saying that today?"
-    },
-    {
-      "id": 182,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 181
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you said today that you told the commander you didn't know why you had been taken.",
+      "examination": "direct"
     },
     {
       "id": 183,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you said today that you told the commander you didn't know why you had been taken."
-    },
-    {
-      "id": 184,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's right.",
-      "reply_to": 183
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it right? Are you sure that's how you remember it? Blank page inserted to ensure pagination corresponds between the French and English transcripts.",
+      "examination": "direct"
     },
     {
       "id": 185,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is it right? Are you sure that's how you remember it? Blank page inserted to ensure pagination corresponds between the French and English transcripts."
-    },
-    {
-      "id": 186,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "That he asked me, commander asked me, Who brought you here? Who took you from your home, he meant, and for what reason?",
-      "reply_to": 185
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. What did you tell him?",
+      "examination": "direct"
     },
     {
       "id": 187,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes. What did you tell him?"
-    },
-    {
-      "id": 188,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I said, I don't know. I told Fatmir Limaj, I don't know.",
-      "reply_to": 187
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Then kindly explain how it is that you told the second investigator a story about - I'm not going to read the name out - you told a story about a person driving tractors, collecting illegal wood, being stopped by Serbian police officers, taking away tractors, and so on. You told the second investigator you gave this commander a very long explanation of why you thought you'd been taken. Is that right?",
+      "examination": "direct"
     },
     {
       "id": 189,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Then kindly explain how it is that you told the second investigator a story about - I'm not going to read the name out - you told a story about a person driving tractors, collecting illegal wood, being stopped by Serbian police officers, taking away tractors, and so on. You told the second investigator you gave this commander a very long explanation of why you thought you'd been taken. Is that right?"
-    },
-    {
-      "id": 190,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I don't remember. You may mention the name.",
-      "reply_to": 189
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "You see, it's one thing not to remember. I have asked you carefully about your memory. It's quite another --",
+      "examination": "direct"
     },
     {
       "id": 191,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You see, it's one thing not to remember. I have asked you carefully about your memory. It's quite another --"
-    },
-    {
-      "id": 192,
       "speaker": "WITNESS L-04 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "For the moment, I don't remember. If I do remember, I will certainly tell you.",
-      "reply_to": 191
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "MR. CAYLEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, did you tell the commander you didn't know why you were taken or did you tell the commander a long story about being stopped by Serbs on a tractor being collecting illegal wood?",
+      "examination": "direct"
     },
     {
       "id": 193,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Well, did you tell the commander you didn't know why you were taken or did you tell the commander a long story about being stopped by Serbs on a tractor being collecting illegal wood?"
-    },
-    {
-      "id": 194,
       "speaker": "MR. CAYLEY",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I'm objecting at this point because I think the witness should actually be read the portion of his statement. That can be done in private session rather than reading out an edited version. It's very short, it's in his second statement. And he can be asked about these events, because at the moment I don't think he understands the question that he's being asked."
     },
     {
-      "id": 195,
+      "id": 194,
       "speaker": "JUDGE PARKER",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Mansfield, I think if you want to proceed that may be useful."
     },
     {
-      "id": 196,
+      "id": 195,
       "speaker": "MR. MANSFIELD",
       "role": "counsel",
       "type": "statement",
       "text": "Certainly. I'm happy to do that."
     },
     {
-      "id": 197,
+      "id": 196,
       "speaker": "JUDGE PARKER",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 198,
+      "id": 197,
       "speaker": "JUDGE PARKER",
       "role": "judge",
       "type": "statement",
@@ -1526,235 +1564,239 @@
       "text": "[Witness answered through interpreter]"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 97,
+      "text": "Examined by Mr. Cayley: [Continued]"
+    },
+    {
+      "after_utterance": 123,
       "text": "[Private session]"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "Pages 1174-1207 redacted. Private session."
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 124,
+      "after_utterance": 123,
       "text": "[Open session]"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "[Private session]"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "Pages 1217-1229 redacted – Private session."
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 197,
+      "after_utterance": 196,
       "text": "--- Whereupon the hearing adjourned at 7.01 p.m.,"
     }
   ],

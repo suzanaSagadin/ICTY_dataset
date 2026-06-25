@@ -1,6 +1,6 @@
 {
   "case": "stanisic_simatovic",
-  "case_id": "IT-03-69-T",
+  "case_id": "IT-03-69",
   "date": "2012-03-13",
   "utterances": [
     {
@@ -3262,24 +3262,31 @@
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
-      "text": "[Interpretation] Mr. Opacic, you will now be cross-examined by Mr. Groome, who's the Prosecutor. Mr. Groome."
+      "text": "[Interpretation] Mr. Opacic, you will now be"
     },
     {
       "id": 422,
+      "speaker": "JUDGE PICARD",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Groome."
+    },
+    {
+      "id": 423,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour. Your Honour, before I start, in the last session I had asked to have an opportunity over the break to consider our position with respect to D7 -- sorry, D766, marked for identification. I have done that and the Prosecution has no objection to the admission of this document."
     },
     {
-      "id": 423,
+      "id": 424,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Very well. D766 will be admitted."
     },
     {
-      "id": 424,
+      "id": 425,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3287,15 +3294,15 @@
       "examination": "cross"
     },
     {
-      "id": 425,
+      "id": 426,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, if you think that my helping Rajic prepare the lads who were over at our place to become members of the special operations unit, if that you consider to be co-operation with the state security.",
-      "reply_to": 424
+      "reply_to": 425
     },
     {
-      "id": 426,
+      "id": 427,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3303,15 +3310,15 @@
       "examination": "cross"
     },
     {
-      "id": 427,
+      "id": 428,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "No. No, I wasn't.",
-      "reply_to": 426
+      "reply_to": 427
     },
     {
-      "id": 428,
+      "id": 429,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3319,15 +3326,15 @@
       "examination": "cross"
     },
     {
-      "id": 429,
+      "id": 430,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, you see, Zoran Rajic helped me out when in 1995 my brother and I, who lived in Loznica after having fled, we were called by him to a place called Ilok in eastern Slavonia. He invited us to go and settle there because there were vacant houses there. We were also told that a unit of some sorts was going to be set up to defend eastern Slavonia. After having spent a month or two at Loznica, we moved to Ilok. Zoran Rajic, who was the commander of that unit, kept me listed as a member of that unit, although I was unable to do anything since I was disabled by that point. Still, I was listed to be a member of that unit in eastern Slavonia. There were roughly a hundred families who relocated to Ilok at that time. They were all individuals who had fled the Krajina.",
-      "reply_to": 428
+      "reply_to": 429
     },
     {
-      "id": 430,
+      "id": 431,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3335,15 +3342,15 @@
       "examination": "cross"
     },
     {
-      "id": 431,
+      "id": 432,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "You mean from Ilok or at the point when the republic of the Serbian Krajina fell? What do you mean? I am not clear in your question. What's the time-period you are referring to?",
-      "reply_to": 430
+      "reply_to": 431
     },
     {
-      "id": 432,
+      "id": 433,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3351,15 +3358,15 @@
       "examination": "cross"
     },
     {
-      "id": 433,
+      "id": 434,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "You mean the move to Ilok? Well, when the Krajina fell; in other words, on the 5th, or perhaps it may have been the 10th or the 11th. I don't know how long the journey took. At any rate, it was the month of August when the Krajina fell. We settled in a place called Brnjac, my brother Milos and I, together with my wife and child and my parents.",
-      "reply_to": 432
+      "reply_to": 433
     },
     {
-      "id": 434,
+      "id": 435,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3367,15 +3374,15 @@
       "examination": "cross"
     },
     {
-      "id": 435,
+      "id": 436,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 434
+      "reply_to": 435
     },
     {
-      "id": 436,
+      "id": 437,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3383,15 +3390,15 @@
       "examination": "cross"
     },
     {
-      "id": 437,
+      "id": 438,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I thought that he worked for the Krajina security. I knew him at the time as a member of the Krajina security. I got to know him back in 1990 or 1991.",
-      "reply_to": 436
+      "reply_to": 437
     },
     {
-      "id": 438,
+      "id": 439,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3399,15 +3406,15 @@
       "examination": "cross"
     },
     {
-      "id": 439,
+      "id": 440,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I know him personally from the time of the road blocks. So our acquaintance lasted through to the war, and it was only in 1996 that he told me that he worked for the security of Serbia.",
-      "reply_to": 438
+      "reply_to": 439
     },
     {
-      "id": 440,
+      "id": 441,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3415,15 +3422,15 @@
       "examination": "cross"
     },
     {
-      "id": 441,
+      "id": 442,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, in 1996.",
-      "reply_to": 440
+      "reply_to": 441
     },
     {
-      "id": 442,
+      "id": 443,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3431,15 +3438,15 @@
       "examination": "cross"
     },
     {
-      "id": 443,
+      "id": 444,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, you see, after I fled the Krajina, I had no means of livelihood, either I, my wife, I had a child with her and she was pregnant, or my parents. So I was in a hopeless situation. Since we had been friends from 1990, he listed me as a member of that unit so that I would be able to receive funds on that basis and have something to sustain my family on. Secondly, he also took me along to the Tara river. He could have taken along anyone if he wished to, to train that particular unit. But he took me. Besides, this unit - and I will never forget this - they all gave up or forfeited their salaries and raised thousands of German marks in order for me to settle my housing problems, even though they, too, were refugees, didn't have a place to stay and had to feed their families, but I was in a precarious position.",
-      "reply_to": 442
+      "reply_to": 443
     },
     {
-      "id": 444,
+      "id": 445,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3447,15 +3454,15 @@
       "examination": "cross"
     },
     {
-      "id": 445,
+      "id": 446,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I was on the payroll, although I was not a member of the unit formally -- or, rather, formally I was but not in actual fact. I was wasn't present there. Zoran Rajic would bring along my salary, but I wasn't an actual member of the unit.",
-      "reply_to": 444
+      "reply_to": 445
     },
     {
-      "id": 446,
+      "id": 447,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3463,14 +3470,14 @@
       "examination": "cross"
     },
     {
-      "id": 447,
+      "id": 448,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "And to the Registrar down below in Belgrade, it is tab 40 in the binder that we provided."
     },
     {
-      "id": 448,
+      "id": 449,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3478,29 +3485,29 @@
       "examination": "cross"
     },
     {
-      "id": 449,
+      "id": 450,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "This is Captain Dragan. And I believe this is Zoran Rajic.",
-      "reply_to": 448
+      "reply_to": 449
     },
     {
-      "id": 450,
+      "id": 451,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour --"
     },
     {
-      "id": 451,
+      "id": 452,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I can't see it clearly, but I do believe that that is him. Yes. Captain Dragan and Zoran Rajic."
     },
     {
-      "id": 452,
+      "id": 453,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3508,15 +3515,15 @@
       "examination": "cross"
     },
     {
-      "id": 453,
+      "id": 454,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I can't see them clearly. Sorry?",
-      "reply_to": 452
+      "reply_to": 453
     },
     {
-      "id": 454,
+      "id": 455,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3524,15 +3531,15 @@
       "examination": "cross"
     },
     {
-      "id": 455,
+      "id": 456,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't understand.",
-      "reply_to": 454
+      "reply_to": 455
     },
     {
-      "id": 456,
+      "id": 457,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3540,133 +3547,133 @@
       "examination": "cross"
     },
     {
-      "id": 457,
+      "id": 458,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "So, Your Honour, at this time the Prosecution tenders 65 ter 6428, the photograph the witness was just shown."
     },
     {
-      "id": 458,
+      "id": 459,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Mr. Jordash."
     },
     {
-      "id": 459,
+      "id": 460,
       "speaker": "MR. JORDASH",
       "role": "counsel",
       "type": "statement",
       "text": "I am not sure the purpose, really. There is no dispute that we are talking about the same Zoran Rajic."
     },
     {
-      "id": 460,
+      "id": 461,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Was that why you wanted to show him that photo, to make sure that it's the same Zoran Rajic?"
     },
     {
-      "id": 461,
+      "id": 462,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour. I am advised that it's not that uncommon a name."
     },
     {
-      "id": 462,
+      "id": 463,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Yes, Mr. Bakrac."
     },
     {
-      "id": 463,
+      "id": 464,
       "speaker": "MR. BAKRAC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] I would like to add this: Could my learned friend, Mr. Groome, tell us the date when the photograph was taken? We don't have that information."
     },
     {
-      "id": 464,
+      "id": 465,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] I am not sure that it's really relevant to know when the photo was taken. If the only reason for which this picture is tendered is to make sure that it's the same Zoran Rajic as the one that we see on the photo with Captain Dragan, the objection, in fact, is slightly irrelevant."
     },
     {
-      "id": 465,
+      "id": 466,
       "speaker": "MR. BAKRAC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Then I withdraw my request if that is the only reason. I apologise, my comment has to do with the uniforms, but the witness did say that he was unable to comment on them anyway."
     },
     {
-      "id": 466,
+      "id": 467,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Mr. Jordash, let's not dwell too long on this problem. It doesn't seem to be such -- very serious problem, is it?"
     },
     {
-      "id": 467,
+      "id": 468,
       "speaker": "MR. JORDASH",
       "role": "counsel",
       "type": "statement",
       "text": "No, but I can see -- just to back up Mr. Bakrac, I can see the Prosecution waiving this photograph in the future and saying, Look at how great friends they were, and look how this connects Rajic, Dragan and the accused. I can see that --"
     },
     {
-      "id": 468,
+      "id": 469,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "If I give Mr. Jordash my assurance that I will never claim that they are great friends, will he withdraw his objection?"
     },
     {
-      "id": 469,
+      "id": 470,
       "speaker": "MR. JORDASH",
       "role": "counsel",
       "type": "statement",
       "text": "No, I won't."
     },
     {
-      "id": 470,
+      "id": 471,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Very well. The objection is overruled. The photo will be admitted into evidence. Madam Registrar, under what Exhibit."
     },
     {
-      "id": 471,
+      "id": 472,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "Document 6428 will receive number P3098, Your Honours."
     },
     {
-      "id": 472,
+      "id": 473,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Very well. So P -- I am not sure that the number is the right number, the number in the transcript."
     },
     {
-      "id": 473,
+      "id": 474,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "Number P3098."
     },
     {
-      "id": 474,
+      "id": 475,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Very well. P3098 is admitted into evidence."
     },
     {
-      "id": 475,
+      "id": 476,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3674,42 +3681,42 @@
       "examination": "cross"
     },
     {
-      "id": 476,
+      "id": 477,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "So the Registrar will find it in the document that he received over the break."
     },
     {
-      "id": 477,
+      "id": 478,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "[Via videolink] With all due respect, Mr. Groome, this 65 ter is 1180.3, as indicated, as far as I understand."
     },
     {
-      "id": 478,
+      "id": 479,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Mr. Registrar in Belgrade, your intervention has not been recorded, but it is the right photo, indeed, is it?"
     },
     {
-      "id": 479,
+      "id": 480,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour. If I could ask the that the witness be given an opportunity hold it and examine it."
     },
     {
-      "id": 480,
+      "id": 481,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I'm not clear on who is here."
     },
     {
-      "id": 481,
+      "id": 482,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3717,15 +3724,15 @@
       "examination": "cross"
     },
     {
-      "id": 482,
+      "id": 483,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I cannot recognise anyone.",
-      "reply_to": 481
+      "reply_to": 482
     },
     {
-      "id": 483,
+      "id": 484,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3733,15 +3740,15 @@
       "examination": "cross"
     },
     {
-      "id": 484,
+      "id": 485,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I can't see or recognise anyone because it's all very hazy. I can't see a clear image of anyone.",
-      "reply_to": 483
+      "reply_to": 484
     },
     {
-      "id": 485,
+      "id": 486,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3749,64 +3756,64 @@
       "examination": "cross"
     },
     {
-      "id": 486,
+      "id": 487,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "You mean the fitness training and all that? Well, I was involved in that back at Golubici under the command of Dragan Karne. I had prepared physical fitness course for our members --",
-      "reply_to": 485
+      "reply_to": 486
     },
     {
-      "id": 487,
+      "id": 488,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "And the interpreter didn't hear the last bit the witness said."
     },
     {
-      "id": 488,
+      "id": 489,
       "speaker": "MR. BAKRAC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Your Honours --"
     },
     {
-      "id": 489,
+      "id": 490,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] We have a few problems. First of all, the interpreter did not quite understand what the witness just said. And Mr. Bakrac, you wanted to say something?"
     },
     {
-      "id": 490,
+      "id": 491,
       "speaker": "MR. BAKRAC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Yes, Your Honour. In line 11, it was misinterpreted what the witness said. The witness mentioned a different name, that he was involved in a fitness training programme in Golubic under the command of ..."
     },
     {
-      "id": 491,
+      "id": 492,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Can the witness please repeat? We didn't hear what he said, the first name."
     },
     {
-      "id": 492,
+      "id": 493,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Mr. Opacic, could you please repeat very slowly and clearly the name of the person, please."
     },
     {
-      "id": 493,
+      "id": 494,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Under the command of Dragan Karna, that was when I arrived in Golubic and I was working with the lads who were there. That was back in 1991 in late April. And then I continued all the way to the point when I left Golubic."
     },
     {
-      "id": 494,
+      "id": 495,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3814,14 +3821,14 @@
       "examination": "cross"
     },
     {
-      "id": 495,
+      "id": 496,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Thank you."
     },
     {
-      "id": 496,
+      "id": 497,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3829,15 +3836,15 @@
       "examination": "cross"
     },
     {
-      "id": 497,
+      "id": 498,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "That's not how I put it. I said that I helped him out with the plan for the physical fitness programme of the candidates for the JSO, and that was in 1996 and 1997.",
-      "reply_to": 496
+      "reply_to": 497
     },
     {
-      "id": 498,
+      "id": 499,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3845,15 +3852,15 @@
       "examination": "cross"
     },
     {
-      "id": 499,
+      "id": 500,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Correct.",
-      "reply_to": 498
+      "reply_to": 499
     },
     {
-      "id": 500,
+      "id": 501,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3861,15 +3868,15 @@
       "examination": "cross"
     },
     {
-      "id": 501,
+      "id": 502,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, it didn't take long for me to do that. When it comes to physical fitness programmes, I was an expert and I didn't require more than a few days for that.",
-      "reply_to": 500
+      "reply_to": 501
     },
     {
-      "id": 502,
+      "id": 503,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3877,15 +3884,15 @@
       "examination": "cross"
     },
     {
-      "id": 503,
+      "id": 504,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I had to think of some machines that would be used with weights, et cetera.",
-      "reply_to": 502
+      "reply_to": 503
     },
     {
-      "id": 504,
+      "id": 505,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3893,15 +3900,15 @@
       "examination": "cross"
     },
     {
-      "id": 505,
+      "id": 506,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I did that on mount Tara near Bajina Basta in the hotel called Tara.",
-      "reply_to": 504
+      "reply_to": 505
     },
     {
-      "id": 506,
+      "id": 507,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3909,15 +3916,15 @@
       "examination": "cross"
     },
     {
-      "id": 507,
+      "id": 508,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "No. That was the work I did at Tara only, whereas I visited Kula only on the occasion of that particular celebration. And Rajic was there as well. And I had never been at Kula either before or after, although my brother worked there.",
-      "reply_to": 506
+      "reply_to": 507
     },
     {
-      "id": 508,
+      "id": 509,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3925,15 +3932,15 @@
       "examination": "cross"
     },
     {
-      "id": 509,
+      "id": 510,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I did say that I received some sort of remuneration for it, and I did say that the other men forfeited some of their pay in order that I may be able to acquire for myself, my wife and my child, and in 1997 my other daughter was born. They raised basically to 20.000 German marks and that required them to forfeit their -- one of their monthly pays to raise that amount of money.",
-      "reply_to": 508
+      "reply_to": 509
     },
     {
-      "id": 510,
+      "id": 511,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3941,15 +3948,15 @@
       "examination": "cross"
     },
     {
-      "id": 511,
+      "id": 512,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "No, no. That is not my evidence. I did receive my regular pay, whereas this was just a humanitarian action on their part. Because I had been wounded and my sight was ruined, they raised this money for me for humanitarian purposes. I didn't get 20 German marks in exchange for my work on preparing this fitness plan. That would have been ludicrous.",
-      "reply_to": 510
+      "reply_to": 511
     },
     {
-      "id": 512,
+      "id": 513,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3957,15 +3964,15 @@
       "examination": "cross"
     },
     {
-      "id": 513,
+      "id": 514,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Well it was in dinars, but I can tell you that it was the equivalent of 800 German marks.",
-      "reply_to": 512
+      "reply_to": 513
     },
     {
-      "id": 514,
+      "id": 515,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3973,15 +3980,15 @@
       "examination": "cross"
     },
     {
-      "id": 515,
+      "id": 516,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I received the money from Mr. Rajic himself.",
-      "reply_to": 514
+      "reply_to": 515
     },
     {
-      "id": 516,
+      "id": 517,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3989,15 +3996,15 @@
       "examination": "cross"
     },
     {
-      "id": 517,
+      "id": 518,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I did tell you this once already. I saw Mr. Simatovic outside of the police station, if I remember correctly. I am not sure where I saw him the second time, but I am sure that the first time I saw him was outside the police station in Knin. He drove a red car, a passenger car, with Belgrade license plates. I asked the people around who this was and they told me that he was a security guy from Serbia.",
-      "reply_to": 516
+      "reply_to": 517
     },
     {
-      "id": 518,
+      "id": 519,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4005,15 +4012,15 @@
       "examination": "cross"
     },
     {
-      "id": 519,
+      "id": 520,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I suppose that it was some three days later that I saw him. Perhaps he was in his car or passing through Knin. I can't be sure about it.",
-      "reply_to": 518
+      "reply_to": 519
     },
     {
-      "id": 520,
+      "id": 521,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4021,15 +4028,15 @@
       "examination": "cross"
     },
     {
-      "id": 521,
+      "id": 522,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I had never spoken to him. Not until I came to attend the celebration when that -- there was a review of that unit in 1997.",
-      "reply_to": 520
+      "reply_to": 521
     },
     {
-      "id": 522,
+      "id": 523,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4037,15 +4044,15 @@
       "examination": "cross"
     },
     {
-      "id": 523,
+      "id": 524,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "When the celebration ended, there was a memorial museum there where various artefacts were exhibited and that was where we exchanged a few words.",
-      "reply_to": 522
+      "reply_to": 523
     },
     {
-      "id": 524,
+      "id": 525,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4053,15 +4060,15 @@
       "examination": "cross"
     },
     {
-      "id": 525,
+      "id": 526,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, not much. He asked about my health. He had heard that I was wounded so he wanted to know how I was fairing and where I was living.",
-      "reply_to": 524
+      "reply_to": 525
     },
     {
-      "id": 526,
+      "id": 527,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4069,15 +4076,15 @@
       "examination": "cross"
     },
     {
-      "id": 527,
+      "id": 528,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "A minute or two, perhaps. There was commotion. He had many other obligations. There was the President Milosevic there with the entire delegation. He didn't have time to talk to me. We -- it's not like we had been socialising from before.",
-      "reply_to": 526
+      "reply_to": 527
     },
     {
-      "id": 528,
+      "id": 529,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4085,15 +4092,15 @@
       "examination": "cross"
     },
     {
-      "id": 529,
+      "id": 530,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 528
+      "reply_to": 529
     },
     {
-      "id": 530,
+      "id": 531,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4101,15 +4108,15 @@
       "examination": "cross"
     },
     {
-      "id": 531,
+      "id": 532,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Only at the point when he handed over some sort of a gift to me at this celebration. It was a knife for the sacrifice that I gave during the war. That was the once. And then I saw him on TV -- actually, I heard about it when UNPROFOR was in Bosnia and that whole affair, and that was when he appeared in public. Other than that, you couldn't see him easily.",
-      "reply_to": 530
+      "reply_to": 531
     },
     {
-      "id": 532,
+      "id": 533,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4117,15 +4124,15 @@
       "examination": "cross"
     },
     {
-      "id": 533,
+      "id": 534,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Correct.",
-      "reply_to": 532
+      "reply_to": 533
     },
     {
-      "id": 534,
+      "id": 535,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4133,15 +4140,15 @@
       "examination": "cross"
     },
     {
-      "id": 535,
+      "id": 536,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 534
+      "reply_to": 535
     },
     {
-      "id": 536,
+      "id": 537,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4149,15 +4156,15 @@
       "examination": "cross"
     },
     {
-      "id": 537,
+      "id": 538,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I can't remember who the recipients were.",
-      "reply_to": 536
+      "reply_to": 537
     },
     {
-      "id": 538,
+      "id": 539,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4165,15 +4172,15 @@
       "examination": "cross"
     },
     {
-      "id": 539,
+      "id": 540,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "You must have misunderstood me. I spoke about the time when I was a member of the police during the existence of the state of the Socialist Federative Republic of Yugoslavia. I was a member of the special units of the MUP of Croatia in Zadar and Sinj and that is what I referred to. You must have misunderstood me.",
-      "reply_to": 538
+      "reply_to": 539
     },
     {
-      "id": 540,
+      "id": 541,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4181,71 +4188,71 @@
       "examination": "cross"
     },
     {
-      "id": 541,
+      "id": 542,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, you see, in 1991 when Plitvice was attacked, we wanted to form a serious unit composed of police members, and that's when Martic sent a dispatch to the Benkovac SUP, Obrovac [Realtime transcript read in error \"Obudovac\"], Gracac, Knin, Lapac SUPs, and invited all those who had left their previous police stations in Croatia to join. And they all came to the Republic of the Serbian Krajina, or to be more precise the SAO Krajina. This means that we gathered there pursuant to his order in order to establish that unit which would be able to intervene at any given moment.",
-      "reply_to": 540
+      "reply_to": 541
     },
     {
-      "id": 542,
+      "id": 543,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Yes, Mr. Bakrac."
     },
     {
-      "id": 543,
+      "id": 544,
       "speaker": "MR. BAKRAC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Your Honours, I apologise for interrupting. Just to avoid confusion. In the transcript after \"Benkovac\" I am reading \"Obudovac,\" which is not what the witness said. Could he be invited to repeat what he said after the Benkovac SUP? That's on line 20."
     },
     {
-      "id": 544,
+      "id": 545,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] The police station that belonged to the municipal organs of the interior in Benkovac, not in Obudovac. I did not say Obudovac."
     },
     {
-      "id": 545,
+      "id": 546,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Mr. Opacic, you mentioned a few places. You talked about the SUP of Benkovac and then you also mentioned Obudovac and Gracac and Knin."
     },
     {
-      "id": 546,
+      "id": 547,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Obrovac. Obrovac."
     },
     {
-      "id": 547,
+      "id": 548,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Thank you very much. This is exactly what we wanted to know."
     },
     {
-      "id": 548,
+      "id": 549,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "The interpreters kindly ask the witness to come closer to the microphone. Thank you."
     },
     {
-      "id": 549,
+      "id": 550,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Witness, the interpreters are requesting that you speak closer to the microphone, please."
     },
     {
-      "id": 550,
+      "id": 551,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4253,15 +4260,15 @@
       "examination": "cross"
     },
     {
-      "id": 551,
+      "id": 552,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Obrovac. O-b-r-o-v-a-c.",
-      "reply_to": 550
+      "reply_to": 551
     },
     {
-      "id": 552,
+      "id": 553,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4269,15 +4276,15 @@
       "examination": "cross"
     },
     {
-      "id": 553,
+      "id": 554,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Captain Dragan used to exaggerate everything. He bragged a lot. He used to brag about himself to make himself more -- as popular as possible with journalists, with the media, with television journalists.",
-      "reply_to": 552
+      "reply_to": 553
     },
     {
-      "id": 554,
+      "id": 555,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4285,15 +4292,15 @@
       "examination": "cross"
     },
     {
-      "id": 555,
+      "id": 556,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "He talked about Knindza, about their capabilities. That's what he made up, Knindza, portraying them as invincible warriors and stupid things like that. He was the one who Knindza. Some wolves, some bears, I don't know.",
-      "reply_to": 554
+      "reply_to": 555
     },
     {
-      "id": 556,
+      "id": 557,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4301,15 +4308,15 @@
       "examination": "cross"
     },
     {
-      "id": 557,
+      "id": 558,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 556
+      "reply_to": 557
     },
     {
-      "id": 558,
+      "id": 559,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4317,15 +4324,15 @@
       "examination": "cross"
     },
     {
-      "id": 559,
+      "id": 560,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "There were -- there were units, they existed, but he attributed to them those qualities that they did not possess.",
-      "reply_to": 558
+      "reply_to": 559
     },
     {
-      "id": 560,
+      "id": 561,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4333,15 +4340,15 @@
       "examination": "cross"
     },
     {
-      "id": 561,
+      "id": 562,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Those were Naviskovo Glavica [as interpreted] and Razanovo Glava [as interpreted]. They were both held by the Croat forces.",
-      "reply_to": 560
+      "reply_to": 561
     },
     {
-      "id": 562,
+      "id": 563,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4349,22 +4356,22 @@
       "examination": "cross"
     },
     {
-      "id": 563,
+      "id": 564,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Razanovo Glava, as far as I can remember, is between Donje Biljane village and Skabrnja, to the north of Skabrnja in the direction of Donje Biljane; maybe 2- or 300 metres from Skabrnja and over perhaps 400 metres from Skabrnja, and about 800 metres from the other village. And the Nadinska Glavica is west of Nadin -- actually, Nadin is on its western slopes and Rujakova Kosa is on its other side, on its northern side. Again, the latter village is on the slopes of this Nadinska Glavica hill.",
-      "reply_to": 562
+      "reply_to": 563
     },
     {
-      "id": 564,
+      "id": 565,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Could I ask the Registrar down in Belgrade to look at tab 1 of the binder provided by the Prosecution. This is a copy of P41."
     },
     {
-      "id": 565,
+      "id": 566,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4372,91 +4379,91 @@
       "examination": "cross"
     },
     {
-      "id": 566,
+      "id": 567,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "And perhaps it might assist those of us here if we can display P41 in court so that we can see what the witness is looking at."
     },
     {
-      "id": 567,
+      "id": 568,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] It's very difficult for me to see those elevations. I can't find them."
     },
     {
-      "id": 568,
+      "id": 569,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "With the permission of the Court, could I ask that the witness be allowed to hold onto the map overnight to see if perhaps he is able -- with some time able to study it. It's an unmarked map of P41 of the Skabrnja area."
     },
     {
-      "id": 569,
+      "id": 570,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I think I have got it. I think that this is Razovljeva Glava. This is Razovljeva Glava, but I don't know where Nadinska Glavica is. I believe that I have found Razovljeva Glava, but I am still looking for Nadinska Glavica and I am still unable to find it."
     },
     {
-      "id": 570,
+      "id": 571,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Mr. Groome, is this in dispute, the fact that those villages are on the map? I can see it if I look at the map. And if I blow it up on my screen I can see them."
     },
     {
-      "id": 571,
+      "id": 572,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I apologise. I did not explore this with my colleagues on the Defence, but if they agree that the two elevations that were held by Croat forces were outside the town centres of both Skabrnja and Nadin, then there is no need to proceed any further."
     },
     {
-      "id": 572,
+      "id": 573,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Maybe it's going a little too far, don't you think, to conclude it that way because you are asking him to pin-point on a map places that are there?"
     },
     {
-      "id": 573,
+      "id": 574,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour, but I think that perhaps we can rely just on the markings of the map. From looking at the map it's not clear exactly how large those areas are, but perhaps we will deal with that in another way."
     },
     {
-      "id": 574,
+      "id": 575,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] You know, even if he says where these places are, it doesn't necessarily mean that those were the places where the Croat forces were."
     },
     {
-      "id": 575,
+      "id": 576,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "That's true, Your Honour. I was simply trying to clarify his evidence about where they were. His evidence earlier today was that they were on --"
     },
     {
-      "id": 576,
+      "id": 577,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Yes, I understand. But as you can see it's a little difficult."
     },
     {
-      "id": 577,
+      "id": 578,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour. I withdraw those questions. And there is no need for the witness to work with the map any longer."
     },
     {
-      "id": 578,
+      "id": 579,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4464,15 +4471,15 @@
       "examination": "cross"
     },
     {
-      "id": 579,
+      "id": 580,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I knew that as soon as I left I would never return. There was nobody to write to in order to get permission. I left the police of my own will, to put it that way, very simply.",
-      "reply_to": 578
+      "reply_to": 579
     },
     {
-      "id": 580,
+      "id": 581,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4480,15 +4487,15 @@
       "examination": "cross"
     },
     {
-      "id": 581,
+      "id": 582,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "You certainly meant 180th, not 108th. That's the first thing I would like to mention. I did not have any contacts with them.",
-      "reply_to": 580
+      "reply_to": 581
     },
     {
-      "id": 582,
+      "id": 583,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4496,15 +4503,15 @@
       "examination": "cross"
     },
     {
-      "id": 583,
+      "id": 584,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "They knew it because I did not -- you see, I did not sport a five-pointed star on my forehead. I sported the insignia of a cross with four Ss and then the Serbian \"sajkaca,\" hat, the Nemanjic's hat. And they didn't like that. It was contrary to what they believed in. And I am sure that you will be able to find photos depicting me wearing those insignia.",
-      "reply_to": 582
+      "reply_to": 583
     },
     {
-      "id": 584,
+      "id": 585,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4512,29 +4519,29 @@
       "examination": "cross"
     },
     {
-      "id": 585,
+      "id": 586,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I never wanted to be under their command.",
-      "reply_to": 584
+      "reply_to": 585
     },
     {
-      "id": 586,
+      "id": 587,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Could the witness please be instructed to remove his hand from his mouth. Thank you."
     },
     {
-      "id": 587,
+      "id": 588,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Witness, could you please try not to put your hand in front of your mouth. Thank you."
     },
     {
-      "id": 588,
+      "id": 589,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4542,15 +4549,15 @@
       "examination": "cross"
     },
     {
-      "id": 589,
+      "id": 590,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I was under the command of Zoran Laci in the Territorial Defence.",
-      "reply_to": 588
+      "reply_to": 589
     },
     {
-      "id": 590,
+      "id": 591,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4558,15 +4565,15 @@
       "examination": "cross"
     },
     {
-      "id": 591,
+      "id": 592,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I reported to him.",
-      "reply_to": 590
+      "reply_to": 591
     },
     {
-      "id": 592,
+      "id": 593,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4574,15 +4581,15 @@
       "examination": "cross"
     },
     {
-      "id": 593,
+      "id": 594,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Officially, the Territorial Defence was under the command of the military. But the military was composed of the officers who belong to the Albanians, as well as the Croats, Bosniak Muslims, and the Serbs. That was the composition of the command cadre. Whereas the Territorial Defence units were composed of the local officers from Benkovac and the region, which means that the officers were locals. I did not want to be commanded by some Albanian or some Croat or some Muslim. I did not want them to lead me into an operation against the Croatian Armed Forces or some such force. I didn't want to accept that.",
-      "reply_to": 592
+      "reply_to": 593
     },
     {
-      "id": 594,
+      "id": 595,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4590,15 +4597,15 @@
       "examination": "cross"
     },
     {
-      "id": 595,
+      "id": 596,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "My brother Milos was in the military in 1991, which means that he was discharged in 1992. He was a member of the Guards Brigade in Belgrade. My brother Zoran was an artillery man.",
-      "reply_to": 594
+      "reply_to": 595
     },
     {
-      "id": 596,
+      "id": 597,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4606,14 +4613,14 @@
       "examination": "cross"
     },
     {
-      "id": 597,
+      "id": 598,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Mr. Witness, once again you're covering your mouth with your hand, and so it's a bit difficult to hear you."
     },
     {
-      "id": 598,
+      "id": 599,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4621,29 +4628,29 @@
       "examination": "cross"
     },
     {
-      "id": 599,
+      "id": 600,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "My brother Zoran was with me. I apologise.",
-      "reply_to": 598
+      "reply_to": 599
     },
     {
-      "id": 600,
+      "id": 601,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Yes, Mr. Bakrac."
     },
     {
-      "id": 601,
+      "id": 602,
       "speaker": "MR. BAKRAC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Apologies, Your Honours. I wanted to react before the witness answered. On line 3, it says that his brother Zoran was an artillery man but the witness's words were not properly recorded. Not everything that he said was recorded. Could perhaps Mr. Groome repeat his question and clarify with the witness where his brother Zoran was?"
     },
     {
-      "id": 602,
+      "id": 603,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4651,15 +4658,15 @@
       "examination": "cross"
     },
     {
-      "id": 603,
+      "id": 604,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "He was with me.",
-      "reply_to": 602
+      "reply_to": 603
     },
     {
-      "id": 604,
+      "id": 605,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4667,15 +4674,15 @@
       "examination": "cross"
     },
     {
-      "id": 605,
+      "id": 606,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. He was with me in Golubic.",
-      "reply_to": 604
+      "reply_to": 605
     },
     {
-      "id": 606,
+      "id": 607,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4683,15 +4690,15 @@
       "examination": "cross"
     },
     {
-      "id": 607,
+      "id": 608,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "That is correct.",
-      "reply_to": 606
+      "reply_to": 607
     },
     {
-      "id": 608,
+      "id": 609,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4699,15 +4706,15 @@
       "examination": "cross"
     },
     {
-      "id": 609,
+      "id": 610,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, while he was at the Alpha centre.",
-      "reply_to": 608
+      "reply_to": 609
     },
     {
-      "id": 610,
+      "id": 611,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4715,15 +4722,15 @@
       "examination": "cross"
     },
     {
-      "id": 611,
+      "id": 612,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I was in Golubic for 20 days for the training when Captain Dragan came, if that's what you were interested in.",
-      "reply_to": 610
+      "reply_to": 611
     },
     {
-      "id": 612,
+      "id": 613,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4731,15 +4738,15 @@
       "examination": "cross"
     },
     {
-      "id": 613,
+      "id": 614,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Dragan Oluic, the last name is familiar. Not the first name, though. Perhaps he's from Obrovac.",
-      "reply_to": 612
+      "reply_to": 613
     },
     {
-      "id": 614,
+      "id": 615,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4747,15 +4754,15 @@
       "examination": "cross"
     },
     {
-      "id": 615,
+      "id": 616,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Davor Subotic, Riki. I think that he was in Golubic for the training, as far as I can remember.",
-      "reply_to": 614
+      "reply_to": 615
     },
     {
-      "id": 616,
+      "id": 617,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4763,15 +4770,15 @@
       "examination": "cross"
     },
     {
-      "id": 617,
+      "id": 618,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "When I was there, I don't think that he was there. He was not an instructor. He wasn't a policeman at all.",
-      "reply_to": 616
+      "reply_to": 617
     },
     {
-      "id": 618,
+      "id": 619,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4779,15 +4786,15 @@
       "examination": "cross"
     },
     {
-      "id": 619,
+      "id": 620,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "We met in the different fronts. He's from Obrovac. It's the neighbouring town next to ours.",
-      "reply_to": 618
+      "reply_to": 619
     },
     {
-      "id": 620,
+      "id": 621,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4795,15 +4802,15 @@
       "examination": "cross"
     },
     {
-      "id": 621,
+      "id": 622,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I think that he was in the Obrovac one because he was from Obrovac.",
-      "reply_to": 620
+      "reply_to": 621
     },
     {
-      "id": 622,
+      "id": 623,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4811,15 +4818,15 @@
       "examination": "cross"
     },
     {
-      "id": 623,
+      "id": 624,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't know him. I don't know him.",
-      "reply_to": 622
+      "reply_to": 623
     },
     {
-      "id": 624,
+      "id": 625,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4827,15 +4834,15 @@
       "examination": "cross"
     },
     {
-      "id": 625,
+      "id": 626,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "The first volunteer who came to Golubic, that was him, and this was in May.",
-      "reply_to": 624
+      "reply_to": 625
     },
     {
-      "id": 626,
+      "id": 627,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4843,15 +4850,15 @@
       "examination": "cross"
     },
     {
-      "id": 627,
+      "id": 628,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, and I gave a speech then in Bukovic.",
-      "reply_to": 626
+      "reply_to": 627
     },
     {
-      "id": 628,
+      "id": 629,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4859,15 +4866,15 @@
       "examination": "cross"
     },
     {
-      "id": 629,
+      "id": 630,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Correct. This was an anniversary celebration of the SDS in Bukovic.",
-      "reply_to": 628
+      "reply_to": 629
     },
     {
-      "id": 630,
+      "id": 631,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4875,15 +4882,15 @@
       "examination": "cross"
     },
     {
-      "id": 631,
+      "id": 632,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Zdravko Zecevic was there as the president of the municipality and he was in the Benkovac SDS and he gave a speech. And then Arkan came. He also spoke. And General Boro Djukic also, and he also addressed the meeting.",
-      "reply_to": 630
+      "reply_to": 631
     },
     {
-      "id": 632,
+      "id": 633,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4891,14 +4898,14 @@
       "examination": "cross"
     },
     {
-      "id": 633,
+      "id": 634,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "I am going to ask that we play 65 ter 6431, and I am going to ask that the Registrar down there confirm that he can see the video."
     },
     {
-      "id": 634,
+      "id": 635,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4906,14 +4913,14 @@
       "examination": "cross"
     },
     {
-      "id": 635,
+      "id": 636,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "\"[Voiceover] I welcome you here, on this spot from which we ventured into our first actions, where we gathered when we left Zadar with the rifles we had stolen from the Ustashas down there. Where were the generals then? Where were the JNA officers? Why did they not defend their people then? Instead, they were looking into who would go where, whether the majority would be here or there, whether the old Yugoslavia would remain or would we go to Serbia. However, when they saw that the people were going towards Serbia, as this is the Serbian people, always has been and always will be ... and no Ustasha will ever defeat us. \"And now that we have to make our own army, brown-nosers and fat cats are sucking up to us ... \"As well as lazy bums and other incompetent persons who will lead these people into disaster. But we will not let that happen! Isn't that right, we will not allow it? \"Believe me when I say that we are the force that will defend this people. Believe us! There is no special status. We can have the special status only over our dead bodies, only over our dead bodies. \"We went to Zadar to get furniture out for the generals and flower pots, and we got slapped by the Ustasha. They humiliated us. But we could have conquered Zadar, Biograd. We would have had the Serbian sea and our own port now. And they are making fool of us again. \"And do not throw your weapons away, because as long as the Ustasha, the Muslims and others, are our neighbours, let us not trust them ever. They will come at night and cut our throats. \"We should never trust them, as long as we have neighbours like this. We could have given them a special status and not the other way around. But you see where we are at. They are giving us a special status. We also have to feel ashamed because our own Ustashas betrayed us. But there are still some. They are sucking up to UNPROFOR where we hid some cannon or a tank. We must kill such people on the spot! \"And every rifle that has been oiled and is now kept under the pillow of every man. He is able to be at the position in ten minutes. But as long as this one from the warehouse, from this UNPROFOR, from these Ustasha ... as people say - trust no one but yourself! Long live the Serbian people.\""
     },
     {
-      "id": 636,
+      "id": 637,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4921,14 +4928,14 @@
       "examination": "cross"
     },
     {
-      "id": 637,
+      "id": 638,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Mr. Groome, can you please -- maybe you can ask the witness to see if he saw the video? I am not sure that he was able really to see the video."
     },
     {
-      "id": 638,
+      "id": 639,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4936,15 +4943,15 @@
       "examination": "cross"
     },
     {
-      "id": 639,
+      "id": 640,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "I did hear it, yes. And I recognised myself. It's me.",
-      "reply_to": 638
+      "reply_to": 639
     },
     {
-      "id": 640,
+      "id": 641,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4952,15 +4959,15 @@
       "examination": "cross"
     },
     {
-      "id": 641,
+      "id": 642,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "From beginning to end. From beginning to end.",
-      "reply_to": 640
+      "reply_to": 641
     },
     {
-      "id": 642,
+      "id": 643,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4968,15 +4975,15 @@
       "examination": "cross"
     },
     {
-      "id": 643,
+      "id": 644,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "The barricades, the log revolution that happened. At the barricades --",
-      "reply_to": 642
+      "reply_to": 643
     },
     {
-      "id": 644,
+      "id": 645,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4984,15 +4991,15 @@
       "examination": "cross"
     },
     {
-      "id": 645,
+      "id": 646,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "-- there are no actions, actually.",
-      "reply_to": 644
+      "reply_to": 645
     },
     {
-      "id": 646,
+      "id": 647,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -5000,15 +5007,15 @@
       "examination": "cross"
     },
     {
-      "id": 647,
+      "id": 648,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "The people were there who were manning the barricades. I was at the barricades already in 1919, Biljani Gornji and the other village. The barricades were there manned by the inhabitants of the villages where the barricades were located.",
-      "reply_to": 646
+      "reply_to": 647
     },
     {
-      "id": 648,
+      "id": 649,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -5016,15 +5023,15 @@
       "examination": "cross"
     },
     {
-      "id": 649,
+      "id": 650,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "These were rifles that we took from the police station in Zadar.",
-      "reply_to": 648
+      "reply_to": 649
     },
     {
-      "id": 650,
+      "id": 651,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -5032,15 +5039,15 @@
       "examination": "cross"
     },
     {
-      "id": 651,
+      "id": 652,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "When the conflict had begun between us and Croatia, the -- when the HDZ came to power, when the barricades first started, the conflict actually started already in World War II during the Ustasha regime, and they were intending to do that also in 1991 when we erected the barricades. The Croatian army was creating a kind of buffer zone -- or the JNA was creating a kind of buffer zone, but they knew that they were arming themselves in Croatia, so we took up our own defence. We were trying to save our lives from the Ustasha knives.",
-      "reply_to": 650
+      "reply_to": 651
     },
     {
-      "id": 652,
+      "id": 653,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -5048,22 +5055,22 @@
       "examination": "cross"
     },
     {
-      "id": 653,
+      "id": 654,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "When the UNPROFOR came, then our army - which was the army of the Krajina at the time - had some weapons concealed, self-propelled weapons and things like that. And some of them would go there and they would say where such a cannon was hidden or a rifle, and then the UNPROFOR would come and they would confiscate these weapons ...",
-      "reply_to": 652
+      "reply_to": 653
     },
     {
-      "id": 654,
+      "id": 655,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "And the interpreter did not hear the rest of what the witness said."
     },
     {
-      "id": 655,
+      "id": 656,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -5071,43 +5078,43 @@
       "examination": "cross"
     },
     {
-      "id": 656,
+      "id": 657,
       "speaker": "GORAN OPACIC",
       "role": "witness",
       "type": "answer",
       "text": "Those people who betrayed the places where the weapons were, who gave them away. And they were the inhabitants there. Also, I don't know for what reason they disclosed the places where the weapons were being hidden, and they were telling UNPROFOR that. And I said that those people should have been killed. And to this very day, I stand by that, that every single one of those people should have been killed for weakening the -- the combat strength of the Serbian people in the Krajina.",
-      "reply_to": 655
+      "reply_to": 656
     },
     {
-      "id": 657,
+      "id": 658,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I see that it's 7.00."
     },
     {
-      "id": 658,
+      "id": 659,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Yes, indeed. I was just going to mention it as well. It seems that the video that we just saw is not in the system. The Registrar tells me that it's not uploaded. If you wish to have it tendered, you will have to first upload it in e-court, and we can see about it tomorrow."
     },
     {
-      "id": 659,
+      "id": 660,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour. I will check into that."
     },
     {
-      "id": 660,
+      "id": 661,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Very well. The hearing stands adjourned up until tomorrow morning, Wednesday, March 14, at 9.00 in this same courtroom. And, Witness, I must instruct you not to discuss with anybody your testimony. Up until tomorrow morning, of course. You may not speak about it with anyone. And I wish you a good evening."
     },
     {
-      "id": 661,
+      "id": 662,
       "speaker": "JUDGE PICARD",
       "role": "judge",
       "type": "statement",
@@ -5172,19 +5179,23 @@
       "text": "--- On resuming at 5.46 p.m."
     },
     {
-      "after_utterance": 423,
+      "after_utterance": 421,
+      "text": "cross-examined by Mr. Groome, who's the Prosecutor."
+    },
+    {
+      "after_utterance": 424,
       "text": "Cross-examination by Mr. Groome:"
     },
     {
-      "after_utterance": 469,
+      "after_utterance": 470,
       "text": "[Trial Chamber confers]"
     },
     {
-      "after_utterance": 634,
+      "after_utterance": 635,
       "text": "[Video-clip played]"
     },
     {
-      "after_utterance": 660,
+      "after_utterance": 661,
       "text": "--- Whereupon the hearing adjourned at 7.01 p.m.,"
     }
   ],

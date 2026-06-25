@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2014-11-24",
   "utterances": [
     {
@@ -2882,7 +2882,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Judge Fluegge has one question for you or more, I do not know yet. Questioned by the Court:"
+      "text": "Judge Fluegge has one question for you or more, I do not know yet."
     },
     {
       "id": 389,
@@ -5321,15 +5321,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, Mr. Traldi, not more than five minutes. Please proceed. Further Cross-examination by Mr. Traldi:"
+      "text": "Yes, Mr. Traldi, not more than five minutes. Please proceed."
     },
     {
       "id": 716,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
       "text": "Sir, you didn't personally participate in any peace negotiations between the Republika Srpska authorities and the Bosnian government, did you?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 717,
@@ -5341,11 +5341,11 @@
     },
     {
       "id": 718,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
       "text": "Yes, you did not; or yes, you did?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 719,
@@ -5357,11 +5357,11 @@
     },
     {
       "id": 720,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
       "text": "And, for instance, the Chamber has received evidence that the Cutileiro Plan was never signed by the Bosnian Serbs. That's true, isn't it?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 721,
@@ -5489,6 +5489,10 @@
       "text": "Re-examination by Mr. Stojanovic:"
     },
     {
+      "after_utterance": 388,
+      "text": "Questioned by the Court:"
+    },
+    {
       "after_utterance": 427,
       "text": "[The witness withdrew via videolink]"
     },
@@ -5543,6 +5547,10 @@
     {
       "after_utterance": 638,
       "text": "Re-examination by Mr. Lukic:"
+    },
+    {
+      "after_utterance": 715,
+      "text": "Further Cross-examination by Mr. Traldi:"
     },
     {
       "after_utterance": 728,

@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2014-07-24",
   "utterances": [
     {
@@ -377,7 +377,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you, Mr. Stojanovic. Judge Fluegge has a question for you. Questioned by the Court:"
+      "text": "Thank you, Mr. Stojanovic. Judge Fluegge has a question for you."
     },
     {
       "id": 50,
@@ -630,15 +630,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, please proceed. Further Cross-examination by Ms. Hasan:"
+      "text": "Yes, please proceed."
     },
     {
       "id": 84,
-      "speaker": "MR. STOJANOVIC",
+      "speaker": "MS. HASAN",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Kovacevic, do you realise that Ms. Salihovic provided her statement on the 26th of July, 1995, shortly after these events?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 85,
@@ -650,11 +650,11 @@
     },
     {
       "id": 86,
-      "speaker": "MR. STOJANOVIC",
+      "speaker": "MS. HASAN",
       "role": "counsel",
       "type": "question",
       "text": "Yes. And it was provided to the -- to the MUP?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 87,
@@ -666,11 +666,11 @@
     },
     {
       "id": 88,
-      "speaker": "MR. STOJANOVIC",
+      "speaker": "MS. HASAN",
       "role": "counsel",
       "type": "question",
       "text": "Is it fair to say that Momir is a fairly common name in that area?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 89,
@@ -682,11 +682,11 @@
     },
     {
       "id": 90,
-      "speaker": "MR. STOJANOVIC",
+      "speaker": "MS. HASAN",
       "role": "counsel",
       "type": "question",
       "text": "Well, sir, for one thing, she does not mention Momir's last name, nor does she mention his nickname Penzijica. This is something you have told us. You have created this link. And we know that Momir Nikolic has admitted about being involved in the separation of able-bodied men in Potocari, and Ms. Salihovic here points out that a Momir was there with you. So it is you today who draws the link between you and Momir and, in fact, it's because you were there with Momir Nikolic separating these men. Is that not the case?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 91,
@@ -1250,6 +1250,14 @@
     {
       "after_utterance": 13,
       "text": "Re-examination by Mr. Stojanovic:"
+    },
+    {
+      "after_utterance": 49,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 83,
+      "text": "Further Cross-examination by Ms. Hasan:"
     },
     {
       "after_utterance": 96,

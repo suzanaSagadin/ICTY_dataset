@@ -1,6 +1,6 @@
 {
   "case": "krajisnik",
-  "case_id": "IT-00-39-T",
+  "case_id": "IT-00-39",
   "date": "2005-10-10",
   "utterances": [
     {
@@ -299,1111 +299,1142 @@
     },
     {
       "id": 43,
-      "speaker": "JUDGE ORIE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Josse:"
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "If you'd just give the Court your name, please.",
+      "examination": "direct"
     },
     {
       "id": 44,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If you'd just give the Court your name, please."
-    },
-    {
-      "id": 45,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "My name is Nemanja Vasic.",
-      "reply_to": 44
+      "reply_to": 43
+    },
+    {
+      "id": 45,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, you have just taken from your briefcase, Mr. Vasic, various bundles of document; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 46,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, you have just taken from your briefcase, Mr. Vasic, various bundles of document; is that correct?"
+      "speaker": "NEMANJA VASIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 45
     },
     {
       "id": 47,
-      "speaker": "NEMANJA VASIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes.",
-      "reply_to": 46
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "To your right, first of all, are a series of plastic binders that you have brought to The Hague that contain documents that you think may be relevant to your evidence; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 48,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "To your right, first of all, are a series of plastic binders that you have brought to The Hague that contain documents that you think may be relevant to your evidence; is that correct?"
+      "speaker": "NEMANJA VASIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 47
     },
     {
       "id": 49,
-      "speaker": "NEMANJA VASIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes.",
-      "reply_to": 48
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And it's right, and I think you've seen this, that they've been numbered by someone else, and in fact they correspond, the numbering on your plastic binders, with the tabs in the bundles that the Chamber and the Prosecution now have. That's correct, isn't it?",
+      "examination": "direct"
     },
     {
       "id": 50,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And it's right, and I think you've seen this, that they've been numbered by someone else, and in fact they correspond, the numbering on your plastic binders, with the tabs in the bundles that the Chamber and the Prosecution now have. That's correct, isn't it?"
-    },
-    {
-      "id": 51,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 50
+      "reply_to": 49
     },
     {
-      "id": 52,
+      "id": 51,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "So in short, so far as that's concerned, Your Honour, they're original documents which the witness may wish to refer to."
     },
     {
-      "id": 53,
+      "id": 52,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 54,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 53,
+      "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "question",
-      "text": "Directly in front of you in the witness box is a notebook; is that correct?"
+      "text": "Directly in front of you in the witness box is a notebook; is that correct?",
+      "examination": "direct"
     },
     {
-      "id": 55,
+      "id": 54,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "It is.",
-      "reply_to": 54
+      "reply_to": 53
+    },
+    {
+      "id": 55,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Contained within that notebook are notes that you've made since you've been in The Hague; is that right?",
+      "examination": "direct"
     },
     {
       "id": 56,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Contained within that notebook are notes that you've made since you've been in The Hague; is that right?"
-    },
-    {
-      "id": 57,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. These are notes, numbers that I jotted down referring to these documents, just so that I can find my way through the bundle as quickly as possible so as not to waste any of your time.",
-      "reply_to": 56
+      "reply_to": 55
+    },
+    {
+      "id": 57,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you would like the leave of the Court to use those notes as and when you require it in order to facilitate your evidence; is that right?",
+      "examination": "direct"
     },
     {
       "id": 58,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you would like the leave of the Court to use those notes as and when you require it in order to facilitate your evidence; is that right?"
-    },
-    {
-      "id": 59,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 58
+      "reply_to": 57
     },
     {
-      "id": 60,
+      "id": 59,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Any objection by the Prosecution against the use of this kind of notes?"
     },
     {
-      "id": 61,
+      "id": 60,
       "speaker": "MR. TIEGER",
       "role": "counsel",
       "type": "statement",
       "text": "It may not have been entirely clear to the witness, Your Honour, that in the event he wishes to refer to the notes he should make it expressed to the Court and seek leave to do so."
     },
     {
-      "id": 62,
+      "id": 61,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Mr. Vasic, whenever you would feel any need to consult your notes, would you please tell us that you intend to do so and then it depends on the circumstances, I take it, whether there would be any objection against it. So whenever you want to rely on it, please tell us."
     },
     {
-      "id": 63,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 62,
+      "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "question",
-      "text": "I think it's worth making one other thing clear: You made those notes entirely on your own, Mr. Vasic, didn't you? No one else was present when you made them."
+      "text": "I think it's worth making one other thing clear: You made those notes entirely on your own, Mr. Vasic, didn't you? No one else was present when you made them.",
+      "examination": "direct"
     },
     {
-      "id": 64,
+      "id": 63,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. I did it on my own.",
-      "reply_to": 63
+      "reply_to": 62
     },
     {
-      "id": 65,
+      "id": 64,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "It seems that we have a technical problem. Could we be assisted by one of the technicians for Judge Hanoteau's LiveNote, which is not functioning. Meanwhile, we'll proceed, Mr. Josse."
     },
     {
-      "id": 66,
+      "id": 65,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "I should just say in passing there was some messing around with our terminals because we're about to play a CD, so I hope that hasn't affected the learned Judge's terminal."
     },
     {
-      "id": 67,
+      "id": 66,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, I may hope that your playing a CD doesn't interfere with our systems, but let's continue and we'll see."
     },
     {
-      "id": 68,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 67,
+      "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "question",
-      "text": "You're from the Prnjavor municipality, aren't you, Mr. Vasic? Well, it was a question --"
+      "text": "You're from the Prnjavor municipality, aren't you, Mr. Vasic? Well, it was a question --",
+      "examination": "direct"
     },
     {
-      "id": 69,
+      "id": 68,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 68
+      "reply_to": 67
+    },
+    {
+      "id": 69,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And I want you to give the Court a brief resume of your political career up until the time you became president of the municipality within Prnjavor.",
+      "examination": "direct"
     },
     {
       "id": 70,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And I want you to give the Court a brief resume of your political career up until the time you became president of the municipality within Prnjavor."
-    },
-    {
-      "id": 71,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "I was a member of the League of Communists for a simple reason; nobody could become manager unless they were a member of the League of Communists. I was a young, educated man and I was ambitious, and I wanted to pursue my career and become manager, and therefore I had to join the communist league. When we had the first multi-party elections, I was offered by the communist league to become president of the Executive Committee of the municipality of Prnjavor if I put my name down on their list. Since I felt threatened as a member of the Serb nation at that time, I actually made the decision to join the SDS because the Serb people seemed to be gathering around that party in order to put a stop or prevent this majority dominance. That was the way we felt at the time.",
-      "reply_to": 70
+      "reply_to": 69
+    },
+    {
+      "id": 71,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you stood in that first multi-party election for the SDS?",
+      "examination": "direct"
     },
     {
       "id": 72,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you stood in that first multi-party election for the SDS?"
-    },
-    {
-      "id": 73,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. I was on their list, and I was elected by an overwhelming Blank page inserted to ensure pagination corresponds between the French and English transcripts. majority.",
-      "reply_to": 72
+      "reply_to": 71
+    },
+    {
+      "id": 73,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And elected as what?",
+      "examination": "direct"
     },
     {
       "id": 74,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And elected as what?"
-    },
-    {
-      "id": 75,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "As the president of the General Assembly of the municipality of Prnjavor.",
-      "reply_to": 74
+      "reply_to": 73
+    },
+    {
+      "id": 75,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in Prnjavor, was that a paid position?",
+      "examination": "direct"
     },
     {
       "id": 76,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And in Prnjavor, was that a paid position?"
-    },
-    {
-      "id": 77,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "As a rule, that would have been a paid position. I was the only exception in all of the Republic of Bosnia and Herzegovina. Since the employees of the company I had worked for feared that, after my mandate, I might not go back to the company, well, they decided that throughout my mandate as the president of that municipality I should continue to be on the payroll of my company so that, upon my completion of my mandate, I could go back. And in that case I had to work as the president of the municipality on a voluntary basis but I would do it as a full-time job, and that was the case throughout my mandate.",
-      "reply_to": 76
+      "reply_to": 75
     },
     {
-      "id": 78,
+      "id": 77,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Josse, just for my better understanding of the testimony, could you seek some clarification as to the reference to majority dominance the witness gave on page 60, line 14. He said, \"... in order to put a stop or prevent this majority dominance.\""
     },
     {
-      "id": 79,
+      "id": 78,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 80,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 79,
+      "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Vasic, you had said earlier in your evidence that you felt threatened as a Serb. You joined the SDS because people appeared to be gathering around that party \"in order to put a stop or prevent this majority dominance.\" When you talked about \"majority dominance,\" what are you referring to?"
+      "text": "Mr. Vasic, you had said earlier in your evidence that you felt threatened as a Serb. You joined the SDS because people appeared to be gathering around that party \"in order to put a stop or prevent this majority dominance.\" When you talked about \"majority dominance,\" what are you referring to?",
+      "examination": "direct"
     },
     {
-      "id": 81,
+      "id": 80,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "I was referring to my feeling threatened politically and the fact that Serbs at Prnjavor felt threatened because, during the previous mandate, even though the municipality of Prnjavor had 75 per cent of Serb population, well, we were not represented even up to 10 per cent in government, and the Communist Party always gave this rationale according to which that order came from Sarajevo. Those instructions had come from Sarajevo. When it used to happen in the former Yugoslavia, we obviously had good reason to fear what would happen if things changed afterwards and the Muslims from the federation, as it is now, were in favour of this change. And the people's fear is something else. I'm afraid I haven't quite understood the question. What do you want me to elaborate upon?",
-      "reply_to": 80
+      "reply_to": 79
     },
     {
-      "id": 82,
+      "id": 81,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. You said you wanted to put an end to a majority dominance. It's not entirely clear what majority dominated who -- whom. So therefore I'd like to hear from you what majority you had in mind and what domination you had in mind."
     },
     {
-      "id": 83,
+      "id": 82,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] What I meant was that in case this minority, this 14 per cent minority in terms of the total number of inhabitants, had more than 80 per cent of positions of power, that it translated into their political dominance or they had the majority in terms of government, and it was not in line with the actual ethnic make-up of the area. And I did mention that at the Municipal Committee back in 1988 -- 1989, and I ended up having enormous difficulties. I think had the -- either events in the 1990s happened I might well have ended up in prison simply because I made that statement. It was a reflection of the truth. In the municipality of Prnjavor, all important positions of power were in the hands of Muslims and some in the hands of Croats, and Serbs only had two significant positions, the two least important ones, in fact; the president of the trade unions and the party secretary, and that used to be considered as an important political position at the time as well."
     },
     {
-      "id": 84,
+      "id": 83,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. I now better understand. It's more or less a minority dominance, but in political terms they, by taking the majority of the posts, that's what you wanted to put an end to. Please proceed, Mr. Josse."
     },
     {
-      "id": 85,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 84,
+      "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "question",
-      "text": "Perhaps we should have dealt briefly - I know evidence has been put before the Chamber before - about the ethnic make-up of the municipality in the 1990 census, but it's right approximately 71 per cent of the population were Serbs, 15 per cent were Muslims, and just under 4 per cent were of Croat ethnic origin; is that correct?"
+      "text": "Perhaps we should have dealt briefly - I know evidence has been put before the Chamber before - about the ethnic make-up of the municipality in the 1990 census, but it's right approximately 71 per cent of the population were Serbs, 15 per cent were Muslims, and just under 4 per cent were of Croat ethnic origin; is that correct?",
+      "examination": "direct"
     },
     {
-      "id": 86,
+      "id": 85,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. And there were about 20 ethnic minorities. So we used to call ourselves the Little Europe. We have a Czech village, an Italian village, and quite a few minorities, in fact.",
-      "reply_to": 85
+      "reply_to": 84
+    },
+    {
+      "id": 86,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "I want to turn immediately to the effect that the war in Croatia had on your municipality, and in particular to events in the early part of 1992. There was a meeting, I think, on the 26th of March, 1992, that I'd like you to deal with in particular.",
+      "examination": "direct"
     },
     {
       "id": 87,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I want to turn immediately to the effect that the war in Croatia had on your municipality, and in particular to events in the early part of 1992. There was a meeting, I think, on the 26th of March, 1992, that I'd like you to deal with in particular."
-    },
-    {
-      "id": 88,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "There was this general psychosis, in fact, a fear felt by everyone that the war in Croatia might spill over into Bosnia and Herzegovina. There were quite a few events that indicated that. On the 8th of September, 1991, a bridge across the river was mined, and it is the river which divides Prnjavor municipality from Derventa and in the direction of Serbia, and it was a very frightening message for Serbia. After a couple of days, the information was published according to which the explosives came from the Varazdin barracks. It was unofficial information. It was just information that was circulating amongst the people. I don't know who started it. And on the 25th of March, 1992, in a village called Sijekovac, in the vicinity of Derventa, there were some inter-ethnic tensions and problems so that Biljana Plavsic and Fikret Avdic came along to sort things out. And there was a representative of the Croat people but I can't recall his name at the moment. I think he was a member of the Presidency of the BH. Upon their -- or, rather, after their departure during that time, people from Slavonski Brod and some indigenous Croat population massacred the population of that village and a number of families were slaughtered. A number of Serb families, I mean. The family Zecevic and two other people were buried on the territory of our municipality because they were afraid they wouldn't be able to organise the funeral there because the entire Serb population fled the village. So we organised the funerals and that was an extra dose of fear, if you like, for the Serb population. On the 28th of March, when returning from a meeting in Sarajevo, the president of the Executive Committee of the municipality of Prnjavor, Radivoje Radivojevic, was arrested as well as the secretary Slavica Kuzmanovic, and they were arrested by paramilitaries in Johovac village in the vicinity of Doboj. It was only after three days that the president of the Executive Committee was actually released. Quite simply, they were stopped, there was a checkpoint on the road, and to make a long story short, Muslims and Croats in Prnjavor were fearful because they were in the minority and they feared any conflict, and Serbs were afraid because of all these events taking place in the past, and of course they also had in mind everything they learnt at school about the events in the First and the Second World War and the sufferings and the genocide suffered by the Serbs. So there was this generalised fear, but I would particularly like to point out that this funeral at the Sijekovac village, it was attended by about 2.000 people.",
-      "reply_to": 87
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "We are going to turn to that funeral almost immediately. I think it would help to orientate ourselves with the documents, because if we turn to tab 6, so -- there's a -- it's up to you Mr. Vasic. You can either use the bundle or you can use the documents that you've brought with you, because they do correspond.",
+      "examination": "direct"
     },
     {
       "id": 89,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "We are going to turn to that funeral almost immediately. I think it would help to orientate ourselves with the documents, because if we turn to tab 6, so -- there's a -- it's up to you Mr. Vasic. You can either use the bundle or you can use the documents that you've brought with you, because they do correspond."
-    },
-    {
-      "id": 90,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Josse, you are assuming that the -- your assumption was right, Mr. Josse."
     },
     {
-      "id": 91,
+      "id": 90,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "That's because of the efficiency of Your Honour's usher, I'm bound to say. Nothing to do with me."
     },
     {
-      "id": 92,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 91,
+      "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "question",
-      "text": "In tab 6, I don't think we need in fact to put these on the ELMO because they really speak for themselves. There are the various death certificates, are there not, of the family that were killed in the incident you've just described. If I'm --"
+      "text": "In tab 6, I don't think we need in fact to put these on the ELMO because they really speak for themselves. There are the various death certificates, are there not, of the family that were killed in the incident you've just described. If I'm --",
+      "examination": "direct"
     },
     {
-      "id": 93,
+      "id": 92,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Can I ask a question? I think it would be a good idea for this two-minute speech to be interpreted, the one that we're going to hear.",
-      "reply_to": 92
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Don't worry, Mr. Vasic, that's the next stage. I'm trying to take it in stages. I'm simply showing the death certificate briefly because I don't think they take matters very much further, and then I'm going to move on almost immediately to the funeral and the eulogy that you have brought with you.",
+      "examination": "direct"
     },
     {
       "id": 94,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Don't worry, Mr. Vasic, that's the next stage. I'm trying to take it in stages. I'm simply showing the death certificate briefly because I don't think they take matters very much further, and then I'm going to move on almost immediately to the funeral and the eulogy that you have brought with you."
-    },
-    {
-      "id": 95,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "I take it, but I'm just seeking confirmation from the interpreters, that \"Prnjava o Smrti\" means \"death certificate\"?"
     },
     {
-      "id": 96,
+      "id": 95,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 97,
+      "id": 96,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "That has been clarified."
     },
     {
-      "id": 98,
+      "id": 97,
       "speaker": "MR. TIEGER",
       "role": "counsel",
       "type": "statement",
       "text": "In the interests of clarification, I note there seem to be two different types of documents. I'm just wondering if the distinction is relevant in some way. So there's a document to which the Court just referred and there's a document --"
     },
     {
-      "id": 99,
+      "id": 98,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "The other is a birth certificate for the people who were being buried."
     },
     {
-      "id": 100,
+      "id": 99,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Could one of these latter documents be put on the ELMO. Could the -- no, one of the other documents. We have dealt with this. The last four of tab 6. We have now in front of us a document concerning Jovan Zecevic. Could the interpreters confirm that in the title of this document it starts with Republika Srpska, from what I see, but then that in Cyrillic there is any reference to a birth certificate. Perhaps if you could read the part which says what kind of a document it is, because I see it's the opstina of Srpski Brod, and then seems to be a line which gives the title of the document."
     },
     {
-      "id": 101,
+      "id": 100,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "It's a document that comes from the birth register."
     },
     {
-      "id": 102,
+      "id": 101,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Well, that has been identified as well. Please proceed, Mr. Josse."
     },
     {
-      "id": 103,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 102,
+      "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "question",
-      "text": "I think perhaps -- I think perhaps out of an abundance of caution, the last document, which is not altogether clear, should be put on the ELMO. The one in the top written corner has, transcribed on it, Prodanovic Mirko."
+      "text": "I think perhaps -- I think perhaps out of an abundance of caution, the last document, which is not altogether clear, should be put on the ELMO. The one in the top written corner has, transcribed on it, Prodanovic Mirko.",
+      "examination": "direct"
     },
     {
-      "id": 104,
+      "id": 103,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Where do we find this, Mr. Josse, in the bundle?"
     },
     {
-      "id": 105,
+      "id": 104,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "It's the last document in tab 6."
     },
     {
-      "id": 106,
+      "id": 105,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Not with me, as a matter of fact. The last one seems to be a same document as also a kind of birth certificate in relation to a certain Petar Zecevic, and the title being \"Izvod iz maticna knjige.\" I can't -- but that seems to be similar language as we just heard for birth certificates, or at least birth registers."
     },
     {
-      "id": 107,
+      "id": 106,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "In Mr. Krajisnik's bundle he tells me, through Mr. Krganovic, it's the penultimate document."
     },
     {
-      "id": 108,
+      "id": 107,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "The penultimate document is about also Sijekovac -- no, that's not the same. It's not the same. It seems to be the -- it says what is the -- oh. The penultimate gives it in all languages, so there is no need for a translation. There is an international document. Even in Dutch I can read it, which gives the date of birth of the person deceased as being 18 or 16th of July, 1953 or 8. And family name is Zecevic, and the place of death is Sijekovac, but not the document as we have in front us now."
     },
     {
-      "id": 109,
+      "id": 108,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour --"
     },
     {
-      "id": 110,
+      "id": 109,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Could we proceed. Perhaps you'd sort this out."
     },
     {
-      "id": 111,
+      "id": 110,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Absolutely. I was only asking the witness to refer to it, again simply out of completeness. I'm actually happy to leave the document out and move on to what he has been referring to, namely the CD."
     },
     {
-      "id": 112,
+      "id": 111,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. If you want to reintroduce it in whatever way, then we'll hear from you, but at this moment --."
     },
     {
-      "id": 113,
+      "id": 112,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "I'm quite happy with that, thank you."
     },
     {
-      "id": 114,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 113,
+      "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you've referred to the CD that we're about to play, Mr. Vasic. You brought it with you; is that correct?"
+      "text": "Now, you've referred to the CD that we're about to play, Mr. Vasic. You brought it with you; is that correct?",
+      "examination": "direct"
     },
     {
-      "id": 115,
+      "id": 114,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 114
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Firstly, the actual CD, how did you obtain that?",
+      "examination": "direct"
     },
     {
       "id": 116,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Firstly, the actual CD, how did you obtain that?"
-    },
-    {
-      "id": 117,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "This was an ad on local TV. The local TV had it on its archives and I got it from the reporter who recorded it. I asked him to give it to me and he made a copy for me and gave it to me.",
-      "reply_to": 116
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And as is going to be apparent, it's a short extract from the funeral of the people you've just referred to and a speech by a priest. Were you present at this funeral?",
+      "examination": "direct"
     },
     {
       "id": 118,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And as is going to be apparent, it's a short extract from the funeral of the people you've just referred to and a speech by a priest. Were you present at this funeral?"
-    },
-    {
-      "id": 119,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I was present, together with the leadership of the municipality, and there were about 2.000 people there. It's very difficult to give you an exact figure, but in any case there were a lot of people. You'll see it on -- in the video clip.",
-      "reply_to": 118
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the CD bears the date the 30th of March, 1992. Can you confirm that that was the date of the funeral?",
+      "examination": "direct"
     },
     {
       "id": 120,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And the CD bears the date the 30th of March, 1992. Can you confirm that that was the date of the funeral?"
-    },
-    {
-      "id": 121,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "I think so. As a matter of fact, that is the date.",
-      "reply_to": 120
+      "reply_to": 119
     },
     {
-      "id": 122,
+      "id": 121,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "We're going to play this extract now, Your Honour. I hope the speed won't be too fast for the interpreters. The interpretation is important."
     },
     {
-      "id": 123,
+      "id": 122,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "The interpreters do not have the script of this video and do not feel obliged to interpret."
     },
     {
-      "id": 124,
+      "id": 123,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "I had no -- there is no script in existence. That I can confirm. If the interpreters don't feel obliged to do it, there's no point playing the extract. It's all about the speech the priest makes that is important."
     },
     {
-      "id": 125,
+      "id": 124,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, but if we do not have any translation of the speech made by the priest, then --"
     },
     {
-      "id": 126,
+      "id": 125,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Well, there's very little the Defence can do about it. We'll --"
     },
     {
-      "id": 127,
+      "id": 126,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, apart from perhaps preparing in B/C/S, perhaps through the assistance at least a written text in B/C/S, so that the interpreters have at least a written text in front of them, because they might not be able to follow unless the priest speaks extremely slow. Let's first look at the video, and the interpreters are invited, to the extent it can be done without serious problems, to translate into English. I do understand the speech of the priest is the important part. And if you feel that you can't do it, then the Defence is invited to have this speech transcribed overnight."
     },
     {
-      "id": 128,
+      "id": 127,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour. That's as far, as the Defence are concerned, a perfectly acceptable compromise and I can only apologise to the interpreters for the situation arising."
     },
     {
-      "id": 129,
+      "id": 128,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Let's see. Yes. We -- since it's a CD, it's not video evidence but computer evidence."
     },
     {
-      "id": 130,
+      "id": 129,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "\"[Voiceover] God help us. God listen to our cries. God bring some sense to our enemies so as to make them understand that there is room for everybody under the sun and that if we don't want to live together, we can live alongside each other. If we don't want to be human beings, at least we should not be inhuman beings. Brethren and sisters, we don't have the right to forgive anybody because these young lives, their father Jovo, the brothers Balcic, and others who perished in Sijekovac, we have been asked by them to forgive our enemies. There are no Catholic priests here. Maybe there are some Catholic followers here amongst the crowd. They should have all been here to experience the tragedy that the entire Serbian church and the entire Serbian people are experiencing. \"This is just the beginning of our ordeals, but we firmly believe that God our Lord who has saved the Jews ...\""
     },
     {
-      "id": 131,
+      "id": 130,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, that's the extract, Your Honour. I again thank the interpreter."
     },
     {
-      "id": 132,
+      "id": 131,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. I strongly join in your thanks for the interpreters. Please proceed, Mr. Josse."
     },
     {
-      "id": 133,
+      "id": 132,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 134,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 133,
+      "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "question",
-      "text": "You've begun to describe, Mr. Vasic, how Serbs were feeling after this incident. How did people actually behave and react to what had happened?"
+      "text": "You've begun to describe, Mr. Vasic, how Serbs were feeling after this incident. How did people actually behave and react to what had happened?",
+      "examination": "direct"
     },
     {
-      "id": 135,
+      "id": 134,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "I just wanted to say that it is not true that only Croats and Muslims were afraid. Those events instilled a lot of fear in the Serbian people as well. So everybody in Prnjavor municipality was scared.",
-      "reply_to": 134
+      "reply_to": 133
+    },
+    {
+      "id": 135,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "My question is: How did you go about maintaining control of the situation as president of the Municipal Assembly?",
+      "examination": "direct"
     },
     {
       "id": 136,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "My question is: How did you go about maintaining control of the situation as president of the Municipal Assembly?"
-    },
-    {
-      "id": 137,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "At the time, the situation was not so tense, and there was still no war going on in Bosnia, and therefore, there were no major problems. When we had a meeting and when decisions were made in the Municipal Assembly that were to help us, for example, the support of the JNA, we did not have any problems. Everybody was in favour of that because they believed that the JNA was the force that could help everybody. And when this decision was put on the agenda, it was voted on unanimously, and many other decisions that were put on the agenda in order to prevent conflicts and to restore order to Prnjavor municipality, we found it easy to make such decision, to pass them, because everybody was equally afraid.",
-      "reply_to": 136
+      "reply_to": 135
+    },
+    {
+      "id": 137,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "That leads on conveniently to the issue of weapons, distribution and control, in the municipality. What decisions did the Municipal Assembly make about weapons?",
+      "examination": "direct"
     },
     {
       "id": 138,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "That leads on conveniently to the issue of weapons, distribution and control, in the municipality. What decisions did the Municipal Assembly make about weapons?"
-    },
-    {
-      "id": 139,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Already at the -- at that time some people were illegally armed, against the law. Everybody wanted to obtain weapons in order to protect themselves in case their houses were attacked. And we received information from various sources. For example, from the Serbian newspaper Glas - in January this was published - that weapons for Muslim in Lisnja and Mravica in the municipality of Prnjavor were brought from Sarajevo and that Mesud Rizvanovic was arrested for that. In Banja Luka he was arrested.",
-      "reply_to": 138
+      "reply_to": 137
     },
     {
-      "id": 140,
+      "id": 139,
       "speaker": "MR. TIEGER",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, it's --"
     },
     {
-      "id": 141,
+      "id": 140,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] On the 27th of January, 1992 --"
     },
     {
-      "id": 142,
+      "id": 141,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Tieger."
     },
     {
-      "id": 143,
+      "id": 142,
       "speaker": "MR. TIEGER",
       "role": "counsel",
       "type": "statement",
       "text": "It seems quite apparent to me the witness is not only referring to but apparently reading from his notes. Again, I would ask that that, first, be made clear that the witness or counsel seek, of course, leave for that purpose, and of course we'd like an opportunity to know what the document actually says."
     },
     {
-      "id": 144,
+      "id": 143,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Mr. Vasic, I invited you to tell us when you would feel any need to consult any of your notes. And perhaps, Mr. Josse, you could assist the witness in reminding him on that matter, because from here I can't see it."
     },
     {
-      "id": 145,
+      "id": 144,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, absolutely. I'm in the Court's hands. The witness has explained that he prepared these notes very recently in relation to the testimony. They're quite extensive. We're happy to copy them and provide them for the Prosecution."
     },
     {
-      "id": 146,
+      "id": 145,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "That would be a good idea."
     },
     {
-      "id": 147,
+      "id": 146,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Realistically, the situation has either got to be that he's allowed to refer to them when he wants, or alternatively, he can't Blank page inserted to ensure pagination corresponds between the French and English transcripts. use them, because they are relatively extensive and I think it would be somewhat impractical for him to keep saying to the Chamber, \"I'd like to use my notes now, please.\""
     },
     {
-      "id": 148,
+      "id": 147,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "I do understand. Would you mind to have copies made of your notes? If these were my notes it would not help anyone to understand what I was reading, but because it's -- has the witness handwriting which is such that it can be read by others? Because otherwise, it wouldn't help anybody."
     },
     {
-      "id": 149,
+      "id": 148,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "I think so. We were looking at one entry shortly before he gave evidence, that's myself and an interpreter, and the interpreter was able to."
     },
     {
-      "id": 150,
+      "id": 149,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Then with the help of the Registry, Mr. Vasic, since you're supposed not to have any further contacts with the Defence, you'll be invited to give these notes to someone from the Registry so they can be copied and then the original will be returned to you later today. So please proceed."
     },
     {
-      "id": 151,
+      "id": 150,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "In those circumstances, may the witness refer to the notes as he pleases?"
     },
     {
-      "id": 152,
+      "id": 151,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 153,
+      "id": 152,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 154,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 153,
+      "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Vasic, you were telling us about concerns about weapons, and who had them, and what the Municipal Assembly did about that. Go on, please."
+      "text": "Mr. Vasic, you were telling us about concerns about weapons, and who had them, and what the Municipal Assembly did about that. Go on, please.",
+      "examination": "direct"
     },
     {
-      "id": 155,
+      "id": 154,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "I referred to my note because the date is precise in my notes, the 27th of January. I wanted to be sure when this was published in the newspaper. The 27th of January was the date. I can't remember all the dates, I can't keep them in my memory. That's when --",
-      "reply_to": 154
+      "reply_to": 153
     },
     {
-      "id": 156,
+      "id": 155,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "I also invite you to slow down a bit because the interpreters have to translate every word you say. So if you speak a little bit slower, that would certainly assist. Please proceed."
     },
     {
-      "id": 157,
+      "id": 156,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] In addition to this information, the public security station in Prnjavor arrested five Serbs who had sold their weapons to the Muslims in Lisnja, over a hundred rifles and machine-guns. Further on, on the decision of the Territorial Defence Staff, the Territorial Defence weapons were distributed amongst the units of local communes indiscriminately. To the unit composed of Muslims only, they gave 42 rifles. The commander, Pekic, and the unit in Konjuhovci received 22 rifles. Its commander was Jusuf. And another piece of information that we received was that old hunting rifles that the population had at the time was abundant in numbers. There was information about a large number of hunting rifles among the people, so some measures had to be taken for these weapons to be taken in order to avoid a possible conflict and a diminished level of fear among the people."
     },
     {
-      "id": 158,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 157,
+      "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "question",
-      "text": "So let's deal with that specifically, if we may. An order was passed in relation to hunting weapons?"
+      "text": "So let's deal with that specifically, if we may. An order was passed in relation to hunting weapons?",
+      "examination": "direct"
     },
     {
-      "id": 159,
+      "id": 158,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "To be more specific then.",
-      "reply_to": 158
+      "reply_to": 157
+    },
+    {
+      "id": 159,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "direct"
     },
     {
       "id": 160,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you."
-    },
-    {
-      "id": 161,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. It was under my authority to issue an order to withdraw hunting rifles. This was within the authority of the municipality. I was the one who signed the order or the decision. According to the then prevailing law of Bosnia and Herzegovina, hunting rifles were to be taken from all those who had them. The command of the Territorial Defence also decided that the Territorial Defence weapons that had been distributed should also be withdrawn from everybody across the board. And the public security station of Prnjavor issued an order that all illegally weapons -- illegally obtained weapons had to be surrendered. In all the villages this was done peacefully, except in the village of Lisnja.",
-      "reply_to": 160
+      "reply_to": 159
+    },
+    {
+      "id": 161,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. We'll come to that in a moment. What was the date of the order that you're talking about, please?",
+      "examination": "direct"
     },
     {
       "id": 162,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. We'll come to that in a moment. What was the date of the order that you're talking about, please?"
-    },
-    {
-      "id": 163,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "You have it in documents. I don't know.",
-      "reply_to": 162
+      "reply_to": 161
+    },
+    {
+      "id": 163,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Turn, if you would, to tab 4 of the binder. Yes. Perhaps it's best if I hand -- this could be put on the ELMO, please. Would you have a look at the screen, please, Mr. Vasic, and would you confirm that that's the relevant order. Yes or no to begin with, please.",
+      "examination": "direct"
     },
     {
       "id": 164,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Turn, if you would, to tab 4 of the binder. Yes. Perhaps it's best if I hand -- this could be put on the ELMO, please. Would you have a look at the screen, please, Mr. Vasic, and would you confirm that that's the relevant order. Yes or no to begin with, please."
-    },
-    {
-      "id": 165,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 164
+      "reply_to": 163
+    },
+    {
+      "id": 165,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Could you slowly read it out, please.",
+      "examination": "direct"
     },
     {
       "id": 166,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Could you slowly read it out, please."
-    },
-    {
-      "id": 167,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "\"Decision on temporary seizure of hunting rifles which are privately owned. \"1. Hunting rifles are temporarily seized and handed over for safekeeping at the public security station of Prnjavor pursuant to a list that was compiled by the public security station of Prnjavor. If necessary, military conscripts might be issued with these weapons. \"2. For those people who have carbine rifles, a personal notification will be issued indicating the place and the time when the weapons will be taken over. The public security station will issue a certificate on all those weapons taken over. If the owner of the weapon is absent, a member of the family who is of age can bring the weapons to the public security station. \"3. The owners of hunting rifles who do not respond to the call to hand over the weapons at the given time and place will be forcibly disarmed by the public security station and they will be deprived of the right to possess hunting rifles. \"4. This decision will become valid on the date of its issuance, and the public security station of Prnjavor will look after its implementation. \"15 May 1992,\" and my signature.",
-      "reply_to": 166
+      "reply_to": 165
+    },
+    {
+      "id": 167,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "You had begun to tell us that this order was followed throughout the municipality save in one place; is that right?",
+      "examination": "direct"
     },
     {
       "id": 168,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You had begun to tell us that this order was followed throughout the municipality save in one place; is that right?"
-    },
-    {
-      "id": 169,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 168
+      "reply_to": 167
+    },
+    {
+      "id": 169,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the place was Lisnja; is that right?",
+      "examination": "direct"
     },
     {
       "id": 170,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And the place was Lisnja; is that right?"
-    },
-    {
-      "id": 171,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Yes.",
-      "reply_to": 170
+      "reply_to": 169
+    },
+    {
+      "id": 171,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I think you should tell the Chamber a little bit about Lisnja. It's right that it was the largest Muslim village in the municipality?",
+      "examination": "direct"
     },
     {
       "id": 172,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, I think you should tell the Chamber a little bit about Lisnja. It's right that it was the largest Muslim village in the municipality?"
-    },
-    {
-      "id": 173,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. This is the largest Muslim village in the Prnjavor municipality, and this is where the SDA was most active in the period following up to the war.",
-      "reply_to": 172
+      "reply_to": 171
+    },
+    {
+      "id": 173,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "And so --",
+      "examination": "direct"
     },
     {
       "id": 174,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And so --"
-    },
-    {
-      "id": 175,
       "speaker": "NEMANJA VASIC",
       "role": "witness",
       "type": "answer",
       "text": "And if you want me to say something more about Lisnja, since you've asked me, I would like to say that the Territorial Defence weapons were not returned there. The president of the village, Ramo Seperovic, two members of the Executive Board of the municipality of Prnjavor from the SDA party, the president of the Islamic religious community, Sakib Curan, tried to talk to the people and persuade them to return the weapons. Some 20 rifles were brought to the culture hall in the village. However, there was an extremist group there who had obtained weapons in other ways, broke into the culture hall and took everything away. So that it was inevitable for the forcible seizure of weapons to follow. The order was given to the public security station from their superiors, and the Territorial Defence also participated in that operation because they also wanted to reclaim their own weapons that had not been returned to them. At the end of this action, one could see that there was a large number of weapons present there. A lot of trenches were found, and one could tell that people were preparing for a possible armed conflict. As a result of that, there were many convictions that you have amongst your documentation.",
-      "reply_to": 174
+      "reply_to": 173
+    },
+    {
+      "id": 175,
+      "speaker": "MR. JOSSE",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just pause there, Mr. Vasic, because you can help us in a number of regards.",
+      "examination": "direct"
     },
     {
       "id": 176,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Just pause there, Mr. Vasic, because you can help us in a number of regards."
-    },
-    {
-      "id": 177,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Perhaps first, Judge Hanoteau has a question for the witness."
     },
     {
-      "id": 178,
+      "id": 177,
       "speaker": "JUDGE HANOTEAU",
       "role": "judge",
       "type": "statement",
       "text": "[Interpretation] Yes. It is rather -- it is a clarification rather than a question as such. With regard to this decision on weapons, I don't quite understand the difference, the distinction that was made between hunting rifles and other types of rifles. As to the hunting rifles, the reference is to the fact that they would be temporarily taken and had to be taken to the public security station. But as to all the other rifles, probably combat weapons, it is being said that they will only be taken following a personal notification that will have been sent to the persons in question by the public security station. Now, why is there distinction? Why this difference of treatment of two different types of weapons?"
     },
     {
-      "id": 179,
+      "id": 178,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Carbines are the type of weapons that are used by the military. This is more dangerous weapons that is used by the army. And also ammunition is being taken over, as you can tell by item 2, whereas hunting rifles are the type of weapons for which ammunition is made by the owners. The gunpowder is purchased in a special shop, and the casings are filled, and -- I don't know what else to call this. This is a special mould which is filled by gunpowder. Carbines are more dangerous, bigger weapons that exist in the military and are used by the troops. And the fact that there is a distinction made here is accounted for by the fact that these two types of weapons are accounted for in different places in the public security station. That's why this distinction was made. All the decisions that I signed were prepared for me by legal experts who knew the law. I myself am an economist, and I cannot be sure why the distinction was made, but I know that we're talking about two different types of weapons here."
     },
     {
-      "id": 180,
+      "id": 179,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "I would have one additional questions as well. Was this decision spontaneously adopted in Prnjavor or were you acting on any other decision or any other instructions by whomever?"
     },
     {
-      "id": 181,
+      "id": 180,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I can't remember whether this was based on the estimates of the political and security situation in Prnjavor or whether we had received an order from our superiors. I believe that the decision concerning the hunting rifles were made by ourselves pursuant to an instruction issued by the leadership of the Autonomous Region of Krajina to whom we communicated at the time because we did not have any communication with the Republican leadership. And the Territorial Defence had its own line of command, and they only have an office in Prnjavor, and they were not subordinated to the municipal authorities. So I believe that they issued their order pursuant to the order that was passed down to them. I believe that in the preamble of this decision you can see how this decision was made. I can't remember at the moment."
     },
     {
-      "id": 182,
+      "id": 181,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "It's not on our screen. Perhaps you could move the document a little bit so that we can see the --"
     },
     {
-      "id": 183,
+      "id": 182,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes, if it can be moved a little, I'm sure you'll see it."
     },
     {
-      "id": 184,
+      "id": 183,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour and the witness were saying exactly the same thing at the same time."
     },
     {
-      "id": 185,
+      "id": 184,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Could we -- could we move it a little bit down, the document, so we can see the -- no? A little bit up, perhaps I should say. Yes. Could you please read the first part, starting from 38."
     },
     {
-      "id": 186,
+      "id": 185,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] \"Pursuant to the decision of the government of the AR Krajina, number 01-1/92, dated 4th May 1992, item 5. And in keeping with the assessment of the political and security situation in the territory of the municipality of Prnjavor, as well as in keeping with the information that illegally obtained weapons had not been returned to the Municipal Staff of the Territorial Defence or to the public security station, the Crisis Staff of the municipality of Prnjavor hereby issues the following decision ...\" So as you can see here, we quoted the decision of the government and our own information."
     },
     {
-      "id": 187,
+      "id": 186,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Please proceed, Mr. Josse. Well, it's quarter to two. It was not my intention to claim the last question of this morning, but it is a quarter to two. Would this be a suitable moment?"
     },
     {
-      "id": 188,
+      "id": 187,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "It would, Your Honour. I can tell everyone that we're going on to tab 7, and the various photographs there are matters that the witness has just referred to. So I'm going to invite him to take us through those tomorrow morning, with Your Honour's leave."
     },
     {
-      "id": 189,
+      "id": 188,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. One other matter. The -- it seems that the -- that the CD with the images of the funeral were not only translated but translated up to a level that the speed of the speech of the priest was not such that it created major problems. I see this confirmed by the interpreters. So under those circumstances, Mr. Tieger, unless we have now text of the speech in the record, do we need still it to be transcribed and then having translated again also in view of the content of the speech?"
     },
     {
-      "id": 190,
+      "id": 189,
       "speaker": "MR. TIEGER",
       "role": "counsel",
       "type": "statement",
       "text": "No, Your Honour. I understand, based on the information the Court was able to get visually from the interpreters, that that would not be necessary."
     },
     {
-      "id": 191,
+      "id": 190,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Then we'll leave it as it is. There's no need to transcribe it."
     },
     {
-      "id": 192,
+      "id": 191,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "I'm very grateful for that. Mr. Tieger was very helpful when we talked yesterday about translation in general. It's a matter that I may wish to return to with the Chamber because clearly we have to consider which of these documents should be translated officially, because there are an awful lot here, and some of them are, frankly, repetitive. So perhaps we can return to that subject later and I'll perhaps talk to my learned friends over the adjournment on that matter."
     },
     {
-      "id": 193,
+      "id": 192,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, and sometimes we can reach a very practical solution, such as birth certificates, death certificates. If there is no disagreement between the parties that the one document is a birth certificate, the other one is a death certificate, then I think we can find our way through it and we might exceptionally exclude them from the general rule that no untranslated documents should be entered into evidence. Mr. Vasic, we'll conclude for the day. We'd like to see you back tomorrow morning, 9.00. You should not speak, and I instruct you not to speak with anyone about the testimony that you have given until now and you're still about to give in the days to come. And I also, since you agreed with that, I invite you to give your notes to a representative of the Registrar so that they can be copied, and the original will be returned to you and then the copies will be made available. Mr. Josse, I take it that you would like to have one as well."
     },
     {
-      "id": 194,
+      "id": 193,
       "speaker": "MR. JOSSE",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, thank you. That's very kind."
     },
     {
-      "id": 195,
+      "id": 194,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "To the parties. And the Chamber at the moment is not interested to receive a copy of it. At this moment it doesn't seem relevant for us. We will adjourn until tomorrow morning 9.00, same courtroom."
     },
     {
-      "id": 196,
+      "id": 195,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
@@ -1444,11 +1475,15 @@
       "text": "[Witness answered through interpreter]"
     },
     {
-      "after_utterance": 129,
+      "after_utterance": 42,
+      "text": "Examined by Mr. Josse:"
+    },
+    {
+      "after_utterance": 128,
       "text": "[Videotape played]"
     },
     {
-      "after_utterance": 195,
+      "after_utterance": 194,
       "text": "--- Whereupon the hearing adjourned at 1.48 p.m.,"
     }
   ],

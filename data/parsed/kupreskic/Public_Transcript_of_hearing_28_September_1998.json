@@ -1,6 +1,6 @@
 {
   "case": "kupreskic",
-  "case_id": "IT-95-16-T",
+  "case_id": "IT-95-16",
   "date": "1998-09-28",
   "utterances": [
     {
@@ -103,237 +103,236 @@
     },
     {
       "id": 15,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Terrier:"
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, I'm going to hand to you a sheet of paper on which your name appears. Could you please confirm that it is your name that appears on the sheet of paper?",
+      "examination": "direct"
     },
     {
       "id": 16,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Witness, I'm going to hand to you a sheet of paper on which your name appears. Could you please confirm that it is your name that appears on the sheet of paper?"
-    },
-    {
-      "id": 17,
       "speaker": "WITNESS W.",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Yes, it is.",
-      "reply_to": 16
+      "reply_to": 15
     },
     {
-      "id": 18,
+      "id": 17,
       "speaker": "MR. RADOVIC",
       "role": "counsel",
       "type": "statement",
       "text": "Once again the diacritic is missing on the C. The diacritic above the C in two places, in his name and the end of his surname."
     },
     {
-      "id": 19,
+      "id": 18,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 20,
+      "id": 19,
       "speaker": "MR. TERRIER",
       "role": "counsel",
       "type": "statement",
       "text": "We do apologise, Mr. Radovic. Your Honour, I wonder if maybe it will be a good thing to go at once into closed session. This would enable me to give you a number of identifying elements on this witness."
     },
     {
-      "id": 21,
+      "id": 20,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Closed session. (Closed session)"
     },
     {
-      "id": 22,
+      "id": 21,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "(Open session)"
     },
     {
-      "id": 23,
+      "id": 22,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Moskowitz."
     },
     {
-      "id": 24,
+      "id": 23,
       "speaker": "MR. MOSKOWITZ",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Mr. President. The next witness has requested protection of face and name, and she will be Witness X. (The witness entered court)"
     },
     {
-      "id": 25,
+      "id": 24,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Good morning. Would you please read the solemn declaration?"
     },
     {
-      "id": 26,
+      "id": 25,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "I solemnly declare that I will speak the truth, the whole truth and nothing but the truth."
     },
     {
-      "id": 27,
+      "id": 26,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 28,
+      "id": 27,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
-      "text": "WITNESS X. Examined by Mr. Moskowitz:"
+      "text": "WITNESS X."
     },
     {
-      "id": 29,
+      "id": 28,
       "speaker": "MR. MOSKOWITZ",
       "role": "counsel",
       "type": "statement",
       "text": "Good afternoon, witness. Could you push up your chair up a little closer to the microphone so we can hear you well? Thank you. At this time I will hand to the usher the next Prosecution exhibit, which is a slip of paper with a name on it."
     },
     {
-      "id": 30,
+      "id": 29,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "Exhibit number 223."
     },
     {
-      "id": 31,
+      "id": 30,
       "speaker": "MR. MOSKOWITZ",
       "role": "counsel",
       "type": "statement",
       "text": "Are we in open session?"
     },
     {
-      "id": 32,
+      "id": 31,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 33,
+      "id": 32,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Moskowitz?"
     },
     {
-      "id": 34,
+      "id": 33,
       "speaker": "MR. MOSKOWITZ",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Mr. President."
     },
     {
-      "id": 35,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 34,
+      "speaker": "MR. MOSKOWITZ",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, you have asked for protection measures and they have been granted by the Court. So we are going to refer to you as Witness X rather than by using your name. During the course of your testimony --"
+      "text": "Witness, you have asked for protection measures and they have been granted by the Court. So we are going to refer to you as Witness X rather than by using your name. During the course of your testimony --",
+      "examination": "direct"
     },
     {
-      "id": 36,
+      "id": 35,
       "speaker": "WITNESS W.",
       "role": "witness",
       "type": "answer",
       "text": "Thank you.",
-      "reply_to": 35
+      "reply_to": 34
+    },
+    {
+      "id": 36,
+      "speaker": "MR. MOSKOWITZ",
+      "role": "counsel",
+      "type": "question",
+      "text": "-- if it's necessary to talk about certain things that might give away your identity, we will ask to go into closed session, and if the Tribunal agrees to that then in closed session your voice will not leave this room and you can feel comfortable to provide full and complete testimony at that point as well. Do you understand that?",
+      "examination": "direct"
     },
     {
       "id": 37,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "-- if it's necessary to talk about certain things that might give away your identity, we will ask to go into closed session, and if the Tribunal agrees to that then in closed session your voice will not leave this room and you can feel comfortable to provide full and complete testimony at that point as well. Do you understand that?"
-    },
-    {
-      "id": 38,
       "speaker": "WITNESS W.",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do.",
-      "reply_to": 37
+      "reply_to": 36
+    },
+    {
+      "id": 38,
+      "speaker": "MR. MOSKOWITZ",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you first tell us what year you were born in?",
+      "examination": "direct"
     },
     {
       "id": 39,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you first tell us what year you were born in?"
-    },
-    {
-      "id": 40,
       "speaker": "WITNESS W.",
       "role": "witness",
       "type": "answer",
       "text": "1952.",
-      "reply_to": 39
+      "reply_to": 38
+    },
+    {
+      "id": 40,
+      "speaker": "MR. MOSKOWITZ",
+      "role": "counsel",
+      "type": "question",
+      "text": "And up until April 16, 1993, where did you live, in what village?",
+      "examination": "direct"
     },
     {
       "id": 41,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And up until April 16, 1993, where did you live, in what village?"
-    },
-    {
-      "id": 42,
       "speaker": "WITNESS W.",
       "role": "witness",
       "type": "answer",
       "text": "I lived in Ahmici, at Zume. I lived there up till the 16th of April, 1993.",
-      "reply_to": 41
+      "reply_to": 40
+    },
+    {
+      "id": 42,
+      "speaker": "MR. MOSKOWITZ",
+      "role": "counsel",
+      "type": "question",
+      "text": "Without giving us any names, could you tell us the family members who lived with you during those days before April 16, 1993?",
+      "examination": "direct"
     },
     {
       "id": 43,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Without giving us any names, could you tell us the family members who lived with you during those days before April 16, 1993?"
-    },
-    {
-      "id": 44,
       "speaker": "WITNESS W.",
       "role": "witness",
       "type": "answer",
       "text": "My husband (redacted), my daughter (redacted), my daughter (redacted), my daughter (redacted) and my son.",
-      "reply_to": 43
+      "reply_to": 42
     },
     {
-      "id": 45,
+      "id": 44,
       "speaker": "MR. MOSKOWITZ",
       "role": "counsel",
       "type": "statement",
       "text": "Perhaps it's best to go into closed session?"
     },
     {
-      "id": 46,
+      "id": 45,
       "speaker": "WITNESS W.",
       "role": "witness",
       "type": "answer",
       "text": "My son (redacted). (Closed session).",
-      "reply_to": 43
+      "reply_to": 42
     },
     {
-      "id": 47,
+      "id": 46,
       "speaker": "WITNESS W.",
       "role": "witness",
       "type": "answer",
@@ -350,119 +349,127 @@
       "text": "WITNESS:  WITNESS W."
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 14,
+      "text": "Examined by Mr. Terrier:"
+    },
+    {
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "Pages 3148 to 3229 redacted – in closed session"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "--- Recess taken at 12.35 p.m."
     },
     {
-      "after_utterance": 21,
+      "after_utterance": 20,
       "text": "--- On resuming at 12.53 p.m."
     },
     {
-      "after_utterance": 46,
+      "after_utterance": 27,
+      "text": "Examined by Mr. Moskowitz:"
+    },
+    {
+      "after_utterance": 45,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 46,
+      "after_utterance": 45,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 46,
+      "after_utterance": 45,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 46,
+      "after_utterance": 45,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 46,
+      "after_utterance": 45,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 46,
+      "after_utterance": 45,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 46,
+      "after_utterance": 45,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 46,
+      "after_utterance": 45,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 46,
+      "after_utterance": 45,
       "text": "Pages 3233 to 3248 redacted – in closed session"
     },
     {
-      "after_utterance": 46,
+      "after_utterance": 45,
       "text": "--- Whereupon proceedings adjourned at"
     }
   ],

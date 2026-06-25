@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2012-07-17",
   "utterances": [
     {
@@ -5819,7 +5819,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Then please proceed, but perhaps I would like to ask one very short question directly in relation to the statement. Questioned by the Court:"
+      "text": "Then please proceed, but perhaps I would like to ask one very short question directly in relation to the statement."
     },
     {
       "id": 773,
@@ -6067,342 +6067,349 @@
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "question",
-      "text": "I would like to go back to a couple of the Telexes where you were questioned by Mr. Petrusic, 65 ter 19814, in this case page 41. This, I believe, is where you make a reference to men in a house and -- I'm sorry, one moment. Yes, in the middle of the document we see that you state: \"All men have to registrate in a house where a part are being kept, BSA is shooting in the air.\" First of all, what house? Is this a house you've spoken of before that these men are being kept? Do you know what -- do you remember what house you're referring to.",
+      "text": "I would like to go back to a couple of the Telexes where you were",
       "examination": "re-direct"
     },
     {
       "id": 807,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "type": "question",
+      "text": "believe, is where you make a reference to men in a house and -- I'm sorry, one moment. Yes, in the middle of the document we see that you state: \"All men have to registrate in a house where a part are being kept, BSA is shooting in the air.\" First of all, what house? Is this a house you've spoken of before that these men are being kept? Do you know what -- do you remember what house you're referring to."
+    },
+    {
+      "id": 808,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it's the house on the sketch.",
-      "reply_to": 806
-    },
-    {
-      "id": 808,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. We'll -- I think we'll clarify that in a minute. And what did you mean by \"all men have to registrate\" in a house?",
-      "examination": "re-direct"
+      "reply_to": 807
     },
     {
       "id": 809,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. We'll -- I think we'll clarify that in a minute. And what did you mean by \"all men have to registrate\" in a house?",
+      "examination": "questioned"
+    },
+    {
+      "id": 810,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "Maybe the English is not correct, register. But again, the fact that men had to register was an information I got from the UN. It's something which I did not observe myself and I have never been in that house myself for security reasons.",
-      "reply_to": 808
-    },
-    {
-      "id": 810,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "And when you say \"UN,\" UNMO, UNPROFOR, someone else?",
-      "examination": "re-direct"
+      "reply_to": 809
     },
     {
       "id": 811,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you say \"UN,\" UNMO, UNPROFOR, someone else?",
+      "examination": "questioned"
+    },
+    {
+      "id": 812,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "Probably Franken because he was the key information source for me, but I don't remember exactly.",
-      "reply_to": 810
-    },
-    {
-      "id": 812,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "And what do you mean by \"register\"?",
-      "examination": "re-direct"
+      "reply_to": 811
     },
     {
       "id": 813,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what do you mean by \"register\"?",
+      "examination": "questioned"
+    },
+    {
+      "id": 814,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "Noting down name, address, date of birth.",
-      "reply_to": 812
-    },
-    {
-      "id": 814,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were you --",
-      "examination": "re-direct"
+      "reply_to": 813
     },
     {
       "id": 815,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you --",
+      "examination": "questioned"
+    },
+    {
+      "id": 816,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "But that's an assumption of myself.",
-      "reply_to": 814
-    },
-    {
-      "id": 816,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Did you ever see any such list of any men?",
-      "examination": "re-direct"
+      "reply_to": 815
     },
     {
       "id": 817,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Did you ever see any such list of any men?",
+      "examination": "questioned"
+    },
+    {
+      "id": 818,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "No, I did not.",
-      "reply_to": 816
-    },
-    {
-      "id": 818,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right.",
-      "examination": "re-direct"
+      "reply_to": 817
     },
     {
       "id": 819,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right.",
+      "examination": "questioned"
+    },
+    {
+      "id": 820,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "I would offer this into evidence. I believe from my discussions that Mr. Petrusic was going to offer these as well but he had the same problem I had initially so I'm not sure."
     },
     {
-      "id": 820,
+      "id": 821,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, I think we'll have to briefly discuss how to deal with untranslated documents, et cetera, once we have concluded the testimony of this witness. Any further questions? I'm also looking at the clock, Mr. McCloskey."
     },
     {
-      "id": 821,
+      "id": 822,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, just a couple more brief --"
     },
     {
-      "id": 822,
+      "id": 823,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Keep it very brief, please."
     },
     {
-      "id": 823,
+      "id": 824,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, sir."
     },
     {
-      "id": 824,
-      "speaker": "MR. MCCLOSKEY",
+      "id": 825,
+      "speaker": "MR. PETRUSIC",
       "role": "counsel",
       "type": "question",
       "text": "You mentioned at page 42 in one of the Telexes that the women were continuing delivering. Can you just clarify what you meant when you said up to four in 24 hours?",
-      "examination": "re-direct"
+      "examination": "questioned"
     },
     {
-      "id": 825,
+      "id": 826,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "No -- we did have seven deliveries during this period, and I believe that it was mainly the stress of the flight and the situation which let women earlier deliver. So they delivered without any privacy in this makeshift hospital in the UN compound. Other people were watching, not much hygiene.",
-      "reply_to": 824
-    },
-    {
-      "id": 826,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you're talking babies?",
-      "examination": "re-direct"
+      "reply_to": 825
     },
     {
       "id": 827,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you're talking babies?",
+      "examination": "questioned"
+    },
+    {
+      "id": 828,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 826
-    },
-    {
-      "id": 828,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Also on page 43 there was a mention when Mr. Petrusic was asking you about something General Mladic was saying, he also mentioned that there were many bodies of BiH soldiers in the Bandera Triangle. Can you tell us, have you heard of this Bandera Triangle?",
-      "examination": "re-direct"
+      "reply_to": 827
     },
     {
       "id": 829,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Also on page 43 there was a mention when Mr. Petrusic was asking you about something General Mladic was saying, he also mentioned that there were many bodies of BiH soldiers in the Bandera Triangle. Can you tell us, have you heard of this Bandera Triangle?",
+      "examination": "questioned"
+    },
+    {
+      "id": 830,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "No, I never heard that before.",
-      "reply_to": 828
-    },
-    {
-      "id": 830,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right.",
-      "examination": "re-direct"
+      "reply_to": 829
     },
     {
       "id": 831,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right.",
+      "examination": "questioned"
+    },
+    {
+      "id": 832,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "And that's the part of the fax or the Telex of UNMO, so ...",
-      "reply_to": 830
-    },
-    {
-      "id": 832,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. And there was also on 65 ter 4469 on one of the sitreps a reference to a Major Nikolic. Now, we saw a reference in the -- in D12 to a Borislav Nikolic. Can you tell us who this Major Nikolic was, if you know?",
-      "examination": "re-direct"
+      "reply_to": 831
     },
     {
       "id": 833,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And there was also on 65 ter 4469 on one of the sitreps a reference to a Major Nikolic. Now, we saw a reference in the -- in D12 to a Borislav Nikolic. Can you tell us who this Major Nikolic was, if you know?",
+      "examination": "questioned"
+    },
+    {
+      "id": 834,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "He was from Bratunac and had been a few times in Potocari. He was present when the patients were being checked on the 17th. He was in one of the meetings -- one minute - on the 15th of July, on the 17th of July, here I'm calling him Commander Nikolic.",
-      "reply_to": 832
-    },
-    {
-      "id": 834,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "So --",
-      "examination": "re-direct"
+      "reply_to": 833
     },
     {
       "id": 835,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So --",
+      "examination": "questioned"
+    },
+    {
+      "id": 836,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "I didn't know his surname.",
-      "reply_to": 834
-    },
-    {
-      "id": 836,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know what organisation he was a part of?",
-      "examination": "re-direct"
+      "reply_to": 835
     },
     {
       "id": 837,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know what organisation he was a part of?",
+      "examination": "questioned"
+    },
+    {
+      "id": 838,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "I believe he belonged to the BSA.",
-      "reply_to": 836
-    },
-    {
-      "id": 838,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. And lastly, if we could have the sketch up on the board just to circle that house you were talking about. It's P28. Will she be allowed to work on a document she's already done or should we start with the original? I don't know. Whatever is easiest.",
-      "examination": "re-direct"
+      "reply_to": 837
     },
     {
       "id": 839,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And lastly, if we could have the sketch up on the board just to circle that house you were talking about. It's P28. Will she be allowed to work on a document she's already done or should we start with the original? I don't know. Whatever is easiest.",
+      "examination": "questioned"
+    },
+    {
+      "id": 840,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Well, first of all -- but I see only one house on the document which is clearly recognisable as a house. Is that the house?"
     },
     {
-      "id": 840,
+      "id": 841,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 841,
+      "id": 842,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Okay."
     },
     {
-      "id": 842,
+      "id": 843,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Mr. President, that works."
     },
     {
-      "id": 843,
+      "id": 844,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. No further questions?"
     },
     {
-      "id": 844,
-      "speaker": "MR. MCCLOSKEY",
+      "id": 845,
+      "speaker": "MR. PETRUSIC",
       "role": "counsel",
       "type": "question",
       "text": "Is that the house that Judge Fluegge was asking you about as well?",
-      "examination": "re-direct"
+      "examination": "questioned"
     },
     {
-      "id": 845,
+      "id": 846,
       "speaker": "CHRISTINE SCHMITZ",
       "role": "witness",
       "type": "answer",
       "text": "Yeah.",
-      "reply_to": 844
-    },
-    {
-      "id": 846,
-      "speaker": "MR. MCCLOSKEY",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you.",
-      "examination": "re-direct"
+      "reply_to": 845
     },
     {
       "id": 847,
+      "speaker": "MR. PETRUSIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "questioned"
+    },
+    {
+      "id": 848,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "Nothing further."
     },
     {
-      "id": 848,
+      "id": 849,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Mr. Petrusic, any need for further questions? No need for further questions. This means, Ms. Schmitz, that this concludes your testimony in this court. I'd like to thank you very much for coming to The Hague and for having answered all the questions that were put to you by the parties and by the Judges. You'll now be escorted out of the courtroom by the usher."
     },
     {
-      "id": 849,
+      "id": 850,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "I will very briefly deal with a few other matters. First on the 9th of July, 2012, the Defence has filed a motion seeking the postponement of Witness Dannatt's testimony for 90 days. Considering that Witness Dannatt's testimony has been postponed and he's currently not scheduled to testify, the Chamber declares the Defence motion moot at this moment. Mr. Groome, at a later moment we'll hear from you further submissions on P18, which as you said would take a bit more time. Mr. McCloskey, associated exhibits, I think we've dealt with all of them so there's no need to have a special category of associated exhibits. What I would like the parties to do - and that is both for you, Mr. McCloskey, and for you, Mr. Petrusic - is that you make a short list in which you give the 65 ter numbers as now newly uploaded, the separate documents of this 75-page document. For you, Mr. Petrusic, in which you list and perhaps extract from that same document all those pages of reports, documents you would like to tender, upload them, release them, and then make a list also with the 65 ter numbers or the doc identification numbers. You give that to Madam Registrar. She will provisionally assign numbers to those documents, although some of them may not be ready yet to be admitted because translation is not yet there. And, Mr. Petrusic, it's an urgent matter for you then to seek those new documents to be translated. Are my instructions clear? If so, then we will adjourn for the day, and we will resume tomorrow, Wednesday, the 18th of July at 9.00 in the morning in this same courtroom, I."
     },
     {
-      "id": 850,
+      "id": 851,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
@@ -6495,15 +6502,23 @@
       "text": "[The witness takes the stand]"
     },
     {
+      "after_utterance": 772,
+      "text": "Questioned by the Court:"
+    },
+    {
       "after_utterance": 776,
       "text": "Re-examination by Mr. McCloskey:"
     },
     {
-      "after_utterance": 848,
-      "text": "[The witness withdrew]"
+      "after_utterance": 806,
+      "text": "questioned by Mr. Petrusic, 65 ter 19814, in this case page 41.  This, I"
     },
     {
       "after_utterance": 849,
+      "text": "[The witness withdrew]"
+    },
+    {
+      "after_utterance": 850,
       "text": "--- Whereupon the hearing adjourned at 1.47 p.m.,"
     }
   ],

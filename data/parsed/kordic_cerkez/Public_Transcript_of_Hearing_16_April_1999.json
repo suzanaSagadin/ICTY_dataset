@@ -61,842 +61,880 @@
     },
     {
       "id": 9,
-      "speaker": "THE WITNESS",
-      "role": "witness",
-      "type": "answer",
-      "text": "Examined by Mr. Lopez-Terres:"
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness C, you were able to read this information which has been provided to you. Does the information contained therein regarding your identity and your occupation, is it accurate?",
+      "examination": "direct"
     },
     {
       "id": 10,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Witness C, you were able to read this information which has been provided to you. Does the information contained therein regarding your identity and your occupation, is it accurate?"
-    },
-    {
-      "id": 11,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 10
+      "reply_to": 9
     },
     {
-      "id": 12,
+      "id": 11,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Very well. Let the Court see the document, please. Yes."
     },
     {
-      "id": 13,
+      "id": 12,
       "speaker": "MR. LOPEZ-TERRES",
       "role": "counsel",
       "type": "statement",
       "text": "(Interpretation) Thank you, Mr. President."
     },
     {
-      "id": 14,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 13,
+      "speaker": "MR. LOPEZ-TERRES",
       "role": "counsel",
       "type": "question",
-      "text": "Witness C, were you in Novi Travnik for the entire duration of the conflict which is at stake here? I mean during the period going from 1992 to 1994."
+      "text": "Witness C, were you in Novi Travnik for the entire duration of the conflict which is at stake here? I mean during the period going from 1992 to 1994.",
+      "examination": "direct"
     },
     {
-      "id": 15,
+      "id": 14,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 14
+      "reply_to": 13
     },
     {
-      "id": 16,
+      "id": 15,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Could you please ask the witness to speak up. We can barely hear him."
     },
     {
-      "id": 17,
+      "id": 16,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "We are asked, please, to ask the witness to speak up. The interpreters can't hear. Is the microphone on? It is?"
     },
     {
-      "id": 18,
+      "id": 17,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "All right.",
-      "reply_to": 14
+      "reply_to": 13
     },
     {
-      "id": 19,
+      "id": 18,
       "speaker": "MR. LOPEZ-TERRES",
       "role": "counsel",
       "type": "statement",
       "text": "(Interpretation)"
     },
     {
-      "id": 20,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 19,
+      "speaker": "MR. LOPEZ-TERRES",
       "role": "counsel",
       "type": "question",
-      "text": "Did you then live in the town, or had you been living in the town of Novi Travnik for a long time?"
+      "text": "Did you then live in the town, or had you been living in the town of Novi Travnik for a long time?",
+      "examination": "direct"
     },
     {
-      "id": 21,
+      "id": 20,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "I lived in Novi Travnik between 1976, when I found a job with the Bratstvo company in Novi Travnik.",
-      "reply_to": 20
+      "reply_to": 19
+    },
+    {
+      "id": 21,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "As you just said, you worked at the Bratstvo factory. What was your occupation, more specifically?",
+      "examination": "direct"
     },
     {
       "id": 22,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "As you just said, you worked at the Bratstvo factory. What was your occupation, more specifically?"
-    },
-    {
-      "id": 23,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Between 1976 until 1992, I held different jobs, but by and large, it was mostly administrative jobs, personnel affairs in that part of Bratstvo -- that is, their machine and hydraulic equipment plant.",
-      "reply_to": 22
+      "reply_to": 21
+    },
+    {
+      "id": 23,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you be more specific: What were the main activities in that factory?",
+      "examination": "direct"
     },
     {
       "id": 24,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you be more specific: What were the main activities in that factory?"
-    },
-    {
-      "id": 25,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. LOPEZ-TERRES",
       "role": "counsel",
       "type": "question",
       "text": "8. So those would be roughly the scope of my responsibilities in that plant."
     },
     {
-      "id": 26,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 25,
+      "speaker": "MR. LOPEZ-TERRES",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. And what was the production of that factory at the time of the conflict?"
+      "text": "Thank you. And what was the production of that factory at the time of the conflict?",
+      "examination": "direct"
     },
     {
-      "id": 27,
+      "id": 26,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Specifically, at the time of the conflict, that is, between 1992 and 1993, the latter half of '93, Bratstvo was to all intents and purposes at a standstill regarding the production from the 21st April '92 until the latter half of '93.",
-      "reply_to": 26
+      "reply_to": 25
+    },
+    {
+      "id": 27,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you tell us what was produced there before the conflict began?",
+      "examination": "direct"
     },
     {
       "id": 28,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you tell us what was produced there before the conflict began?"
-    },
-    {
-      "id": 29,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "The plant, or rather Bratstvo combine, which was a large company, had a very broad product mix, and it was divided into several units, into several plants. On the eve of the war, Bratstvo, as a company, incorporated five plants outside Novi Travnik and nine plants with their headquarters in Novi Travnik or, rather, within the compound of the Bratstvo combine. In a nutshell, since its establishment until 1990, its product mix could be divided briefly into four production types, the production of forging from the smallest ones to the largest ones. There was the forging factory, the cutting plant, the tooling plant. The second department, the second plant, was military production, and that was in the machine and hydraulic equipment plant. The third large sector was the manufacture of tractors, that is, tractors developed by the company itself. Those were mostly Caterpillar tractors, and subsequently wheeled tractors in cooperation with Fiat in Torino and John Deere in the United States. The fourth large programme, as of the'70s, was mostly light hydraulic equipment, hydraulic cylinders, different sections, from the smallest ones to hydraulic cylinders for large TPP -- thermal power plants, as the one on the Danube. Apart from these four chief programs within the Bratstvo combine, there were several subsidiary programmes and were complementary to the four principal ones, such as a forging blacksmith factory at Kresevo, the production of tractor cabins in Orasje, then exhaust systems for the railroads in Derventa, then a plant in Donji Vakuf, and agricultural implements and machinery in Bosanska Dubica. So this would be, in a nutshell, the product mix of the Bratstvo company and its plants, in Novi Travnik and outside it, in other municipalities.",
-      "reply_to": 28
+      "reply_to": 27
+    },
+    {
+      "id": 29,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let us focus on the production of weapons or armaments. What armaments do we have here in mind?",
+      "examination": "direct"
     },
     {
       "id": 30,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Let us focus on the production of weapons or armaments. What armaments do we have here in mind?"
-    },
-    {
-      "id": 31,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Since the decision to establish Bratstvo in 1949, it was already -- Bratstvo was already defined as a plant that would put out armaments. As far as I can remember, as far as I could read about the earliest production, those were light cannons. They called it B1. It is a mountain --",
-      "reply_to": 30
+      "reply_to": 29
     },
     {
-      "id": 32,
+      "id": 31,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "I don't want to interrupt you, Witness C, but can we focus more on the relevant position. Mr. Lopez-Terres, presumably the earlier history is not of great relevance as far as we're concerned, if any. Can we move on to the period we're concerned with?"
     },
     {
-      "id": 33,
+      "id": 32,
       "speaker": "MR. LOPEZ-TERRES",
       "role": "counsel",
       "type": "statement",
       "text": "(Interpretation)"
     },
     {
-      "id": 34,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 33,
+      "speaker": "MR. LOPEZ-TERRES",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, in the months or few years before the relevant period, could you tell us more specifically which armaments were being produced? Focus only on the type of arms or armaments that were being produced then."
+      "text": "Sir, in the months or few years before the relevant period, could you tell us more specifically which armaments were being produced? Focus only on the type of arms or armaments that were being produced then.",
+      "examination": "direct"
     },
     {
-      "id": 35,
+      "id": 34,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "All right. Immediately before the war, it put out rocket launcher -- 60 and 20 mortars, then cannons. I think there were howitzers, 122 millimetres, and rocket launchers, 128, and I believe 262 millimetres. That would be briefly the production programme of the armaments plant of the Bratstvo company.",
-      "reply_to": 34
+      "reply_to": 33
+    },
+    {
+      "id": 35,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. This Bratstvo factory in Novi Travnik, was it the main factory in the town?",
+      "examination": "direct"
     },
     {
       "id": 36,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. This Bratstvo factory in Novi Travnik, was it the main factory in the town?"
-    },
-    {
-      "id": 37,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "As a company, Bratstvo was the largest company in the municipality, employing about 75 per cent of all the employed in the municipality of Novi Travnik. So one can say it was the largest company in the territory of the municipality.",
-      "reply_to": 36
+      "reply_to": 35
+    },
+    {
+      "id": 37,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "You worked there, in that factory; until what time did you do so? I mean at the time of the conflict, of course.",
+      "examination": "direct"
     },
     {
       "id": 38,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You worked there, in that factory; until what time did you do so? I mean at the time of the conflict, of course."
-    },
-    {
-      "id": 39,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "My last day at the company, in the machines and hydraulic equipment company, my last day was the 21st of April, 1992, when Bratstvo came to a halt sometime after 1400 because of the air alert, as the Serb planes were flying over Novi Travnik, went through the -- and Bratstvo stopped its work until after the 1st of May, and I did not go to work at Bratstvo any more.",
-      "reply_to": 38
+      "reply_to": 37
+    },
+    {
+      "id": 39,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Once you stopped working in that factory, what did you do?",
+      "examination": "direct"
     },
     {
       "id": 40,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Once you stopped working in that factory, what did you do?"
-    },
-    {
-      "id": 41,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "For the next 10 or 20 days, I was practically at home, hiding in my cellar and various shelters because we had the air alert on a lot of the time, so that I largely spent my time in the cellar of the building. I lived in a high-rise building, a ten-story high-rise building, so that I spent that time either in my flat or in shelters. I did not go out, I did not leave Novi Travnik, and I did not move about town much during those days.",
-      "reply_to": 40
+      "reply_to": 39
+    },
+    {
+      "id": 41,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you personally take part in that conflict?",
+      "examination": "direct"
     },
     {
       "id": 42,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you personally take part in that conflict?"
-    },
-    {
-      "id": 43,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Could you clarify your question, please?",
-      "reply_to": 42
+      "reply_to": 41
+    },
+    {
+      "id": 43,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you decide, when you stopped working in the factory, to -- for instance, to get involved in the army?",
+      "examination": "direct"
     },
     {
       "id": 44,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you decide, when you stopped working in the factory, to -- for instance, to get involved in the army?"
-    },
-    {
-      "id": 45,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Yes, those 20 days which I spent at home and in shelters helped me to make up my mind not to go on hiding. So the 20th of May, '92, I reported to the municipal committee of the Territorial Defence because, at that time, people were enlisting there, at the headquarters of the Territorial Defence. On the 20th of May, 1992, I reported to the municipal headquarters of the Territorial Defence.",
-      "reply_to": 44
+      "reply_to": 43
+    },
+    {
+      "id": 45,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you reported to the Territorial Defence, and what was your motivation? Why did you think it was useful to join the ranks of the Territorial Defence?",
+      "examination": "direct"
     },
     {
       "id": 46,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you reported to the Territorial Defence, and what was your motivation? Why did you think it was useful to join the ranks of the Territorial Defence?"
-    },
-    {
-      "id": 47,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Well, naturally, I knew at that time, when the immediate danger of war was proclaimed, that we were bound by law -- that men aged between 18 to 60 were bound to respond to the call of the military bodies and report so as to comply with their statutory obligation. I also felt the need to leave the shelter and make myself useful, as I knew that an aggression had been committed against my country, and I wanted to take part in the defence of my homeland.",
-      "reply_to": 46
+      "reply_to": 45
+    },
+    {
+      "id": 47,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "You mentioned the aggression, attacks, or alerts, a moment ago. Were these aggressions or alerts the result of potential attacks by the Serbs?",
+      "examination": "direct"
     },
     {
       "id": 48,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You mentioned the aggression, attacks, or alerts, a moment ago. Were these aggressions or alerts the result of potential attacks by the Serbs?"
-    },
-    {
-      "id": 49,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Well, yes, I said already that during those days, there were several occasions when Serb planes overflew us and we could hear -- and the media were reporting, and we listened about the bombing of individual areas in the territory of the Republic of Bosnia-Herzegovina by Serb aircraft, both in nearby municipalities, such as the case of the bombing of Busovaca, as well as in other places or, more specifically, in Sarajevo and some other places.",
-      "reply_to": 48
+      "reply_to": 47
+    },
+    {
+      "id": 49,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "So when you joined the Territorial Defence, you told us that you felt that it was your duty as a citizen to do so, as it were. Did you, beforehand, belong to a party? Were you a member of a party before or did you feel that you were close to a specific party at all?",
+      "examination": "direct"
     },
     {
       "id": 50,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So when you joined the Territorial Defence, you told us that you felt that it was your duty as a citizen to do so, as it were. Did you, beforehand, belong to a party? Were you a member of a party before or did you feel that you were close to a specific party at all?"
-    },
-    {
-      "id": 51,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "I was a member of a party only at the time that there was only one party in the then-state system. That is, until about 1990, I was enrolled in the League of Communists, the only political party that existed at the time. When several parties came into being in Bosnia-Herzegovina in 1990, I decided to quit the League of Communists, and I had no wish whatsoever to be politically active in any one political party. I simply did not feel inclined to engage in any such activity.",
-      "reply_to": 50
+      "reply_to": 49
+    },
+    {
+      "id": 51,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you ever a member of the SDA party?",
+      "examination": "direct"
     },
     {
       "id": 52,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were you ever a member of the SDA party?"
-    },
-    {
-      "id": 53,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "No. No, never. I have been -- I was offered several times to join both the SDA and especially the SDP at the time, and some other parties which were conducting the campaign at the time because they were getting ready for the first multi-party elections in Bosnia-Herzegovina, but I emphatically refused any political commitment as far as political parties that were coming into being in Bosnia-Herzegovina at that time, and I feel the same to this day. I never wanted to become a member of another party again.",
-      "reply_to": 52
+      "reply_to": 51
+    },
+    {
+      "id": 53,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you joined the Territorial Defence, were you given a rank, specific functions?",
+      "examination": "direct"
     },
     {
       "id": 54,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you joined the Territorial Defence, were you given a rank, specific functions?"
-    },
-    {
-      "id": 55,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "When volunteering to the municipal headquarters of the Territorial Defence, until I was called to work, between these two times, six days elapsed. And then from Mr. Manto Kasaban (phoen), who at the time was commander of the municipal headquarters of Territorial Defence in Novi Travnik, he called me and asked me to come and talk to him. I responded to his invitation, and this took place around 11.00 on the 18th of May, and he told me that they were planning to take me into the municipal headquarters of the Territorial Defence and that I would be given a duty in the sector that is related to morale and information. I agreed, and I thus became engaged in the municipal headquarters, and already on the next day, on the 19th of May, I had my first working day in the municipal headquarters of Territorial Defence.",
-      "reply_to": 54
+      "reply_to": 53
+    },
+    {
+      "id": 55,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you have any prior military experience, any specific experience?",
+      "examination": "direct"
     },
     {
       "id": 56,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you have any prior military experience, any specific experience?"
-    },
-    {
-      "id": 57,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "I only did my military service like everyone else, like all other military-age men. I did my military service in the former JNA. This was from the 29th of October, 1977, until the 6th of October, 1978. I was a rank-and-file soldier. However, I was a radio telegraph operator, and towards the end of my military service in the former JNA, I only became squad commander, nothing more than that, because I was in charge only of this squad of ten people, of radio telegraph operators, and I only worked on this in this particular unit. However, I did these 11 months and six days of military service in Pancevo, by Belgrade.",
-      "reply_to": 56
+      "reply_to": 55
+    },
+    {
+      "id": 57,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was your background in terms of studies? Where did you study before going to the Bratstvo factory?",
+      "examination": "direct"
     },
     {
       "id": 58,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What was your background in terms of studies? Where did you study before going to the Bratstvo factory?"
-    },
-    {
-      "id": 59,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "I completed my studies in Sarajevo, from 1971 until 1975, at the school of political science at the University of Sarajevo, the department of sociology. I graduated even before my time, and I thus obtained the title of professor of sociology. In February in 1975, I managed to graduate without even enrolling in the eighth semester.",
-      "reply_to": 58
+      "reply_to": 57
+    },
+    {
+      "id": 59,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "You have just told us that you spent many years in Novi Travnik before the conflict started, and when the conflict had started, you kept living in Novi Travnik. Could you tell the Court something about the town, and also about the municipality of Novi Travnik? Could you provide the Court with specific information, all the more so since Novi Travnik is not often indicated in maps as Novi Travnik but as Pucarevo. Could you provide us with general information regarding the municipality? In this respect, I'd like you to be given a map so that you could indicate to us where, precisely, Novi Travnik is. The map in question has the following number: Z2612/3.",
+      "examination": "direct"
     },
     {
       "id": 60,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You have just told us that you spent many years in Novi Travnik before the conflict started, and when the conflict had started, you kept living in Novi Travnik. Could you tell the Court something about the town, and also about the municipality of Novi Travnik? Could you provide the Court with specific information, all the more so since Novi Travnik is not often indicated in maps as Novi Travnik but as Pucarevo. Could you provide us with general information regarding the municipality? In this respect, I'd like you to be given a map so that you could indicate to us where, precisely, Novi Travnik is. The map in question has the following number: Z2612/3."
-    },
-    {
-      "id": 61,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "The municipality of Novi Travnik is located in Central Bosnia, and it borders on the north with the municipality of Travnik; on the east, with the municipality of Vitez; and further, more east, I think there's a border with Donja Vakuf; and I'm not sure about the municipality of Fojnica. See Gornji Vakuf over here? On the south, there is Gornji Vakuf municipality, and then Bugojno on the west, and south-west was the municipality of Bugojno. The western border of Novi Travnik runs along here, along Kamenjasi, to the west of the municipality of Gornji Vakuf. The area is 242 square kilometres, and according to the latest census, in 1991, the population was about 30.600. As a municipality. It was established sometime in 1955. That is when its status was recognised as a municipality. It was made up of parts of Travnik, Vitez, Gornji Vakuf, and Bugojno municipalities, and that is how the separate municipality was constituted. Sometime in 1981 -- or in 1980, I'm not sure -- the municipality changed its name to Pucarevo, and that is what it was called until 1990. And then the old name of the municipality was returned; that is to say, Novi Travnik.",
-      "reply_to": 60
+      "reply_to": 59
+    },
+    {
+      "id": 61,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Could you tell us how far the town of Novi Travnik is in relation to Vitez and Busovaca?",
+      "examination": "direct"
     },
     {
       "id": 62,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. Could you tell us how far the town of Novi Travnik is in relation to Vitez and Busovaca?"
-    },
-    {
-      "id": 63,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "The municipality of Novi Travnik, or rather, the centre of town of Novi Travnik, is 12 or 13 kilometres away from Travnik, about 15 kilometres away from Vitez, and, as far as I know, about 23 kilometres from Vitez to Busovaca. So that is the distance between Novi Travnik and Busovaca and it is a bit less than 40 kilometres.",
-      "reply_to": 62
+      "reply_to": 61
+    },
+    {
+      "id": 63,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "As regards the ethnic composition of the municipality, could you tell the Court more about it? You might be able to use the documents that you submitted to the investigators for the sake of the witness statement. I'm going to ask you whether the documents I'm going to give you are indeed the documents that you provided to the investigators at the time. I shall ask the usher to help us, for the documents to be submitted to the witness. This document has the following number, 1962/1. Witness C, is this document the one you submitted to our investigators? Do you recognise the document as such?",
+      "examination": "direct"
     },
     {
       "id": 64,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "As regards the ethnic composition of the municipality, could you tell the Court more about it? You might be able to use the documents that you submitted to the investigators for the sake of the witness statement. I'm going to ask you whether the documents I'm going to give you are indeed the documents that you provided to the investigators at the time. I shall ask the usher to help us, for the documents to be submitted to the witness. This document has the following number, 1962/1. Witness C, is this document the one you submitted to our investigators? Do you recognise the document as such?"
-    },
-    {
-      "id": 65,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 64
+      "reply_to": 63
+    },
+    {
+      "id": 65,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Based on this document, could you give some comments to the Court with regard to the composition, by percentage, of the Novi Travnik population, focusing on the Croat and Muslim parts of the population? I shall not ask you to review all the villages mentioned in the document. Just give us some general information in terms of percentage in the town and in the municipality of Novi Travnik. Can this document be put on the ELMO?",
+      "examination": "direct"
     },
     {
       "id": 66,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Based on this document, could you give some comments to the Court with regard to the composition, by percentage, of the Novi Travnik population, focusing on the Croat and Muslim parts of the population? I shall not ask you to review all the villages mentioned in the document. Just give us some general information in terms of percentage in the town and in the municipality of Novi Travnik. Can this document be put on the ELMO?"
-    },
-    {
-      "id": 67,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "I said that the total population of the municipality was about 30.000, and you have figures concerning that on the other page. And the demographic structure, percentage-wise, was as follows: About 39 per cent Croat; 38 per cent, point something, Bosniak Muslim population; 13,35 per cent Serbs; about 6 point something per cent Yugoslavs, and 2 point something per cent members of other ethnic groups. The population lived in several different local communities, and, at that time, we called them \"Local Communities\". That was the official administrative term that was used. Nevic Polje was one of the biggest; Bucici, Stojkovici, Rankovici, the local community of Margetici, for the largest part, and then the local community of Pecine and Rostovo and Sebisic, that is to say, local areas where the population was either predominantly Croat or there was an absolute majority of Croats. The Muslim population was the majority population in the following communities; Vodovod, Senkovici, Kasapovici, Trenica, Opara and Zagrlje.",
-      "reply_to": 66
+      "reply_to": 65
+    },
+    {
+      "id": 67,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Witness C. In November, 1990, as was the case for the remainder of Bosnia and Herzegovina, elections were held in Novi Travnik. Could you tell us anything as to the results following the elections and also as to the parties taking part in the elections?",
+      "examination": "direct"
     },
     {
       "id": 68,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you, Witness C. In November, 1990, as was the case for the remainder of Bosnia and Herzegovina, elections were held in Novi Travnik. Could you tell us anything as to the results following the elections and also as to the parties taking part in the elections?"
-    },
-    {
-      "id": 69,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "At the multi-party elections that were held in Bosnia and Herzegovina in November, 1990, in the municipality of Novi Travnik, there were several political parties as follows: The HDZ, the SDA, the group that we called the SDP, the Reformist party, and the SDS.",
-      "reply_to": 68
+      "reply_to": 67
+    },
+    {
+      "id": 69,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what were the results obtained by these various parties, in particular by the HDZ and the SDA?",
+      "examination": "direct"
     },
     {
       "id": 70,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And what were the results obtained by these various parties, in particular by the HDZ and the SDA?"
-    },
-    {
-      "id": 71,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "In order to have data to compare, I would like to mention that the municipal assembly had 60 members of this parliament, so to speak, and out of these 60 members, these parties had won the following number of seats: The HDZ had 20 seats in the municipal assembly, the SDA won 17 seats, the SDP won 10 seats, the Reformists won seven seats, and the SDS won six seats in the municipal assembly.",
-      "reply_to": 70
+      "reply_to": 69
+    },
+    {
+      "id": 71,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Following the elections, what were the organs created in the municipality and was there the division of power? How did each party receive this or that position?",
+      "examination": "direct"
     },
     {
       "id": 72,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Following the elections, what were the organs created in the municipality and was there the division of power? How did each party receive this or that position?"
-    },
-    {
-      "id": 73,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "The criteria for the municipal assembly elections were at the same time the criteria for the distribution of these top positions in the municipal assembly and also for the composition of the executive organ of the assembly, that is to say, the executive committee. So this structure of the assembly itself was the criterion for allocating these positions. Since the HDZ had one third of all seats in the municipal assembly, according to the criteria that must have existed between the parties, the president of the municipal assembly was supposed to be provided by the HDZ, and the president of the executive council of this assembly was supposed to be given by the SDA. The secretary of the assembly of this municipality was supposed to be provided by the SDS. I'm only talking about these three parties because it is a well-known fact that they did not have an official coalition at these November elections, but they were the parties that did have a close cooperation in the elections campaign in order to win a victory over the leftist block, that is to say, the Reformists and the SDP, et cetera.",
-      "reply_to": 72
+      "reply_to": 71
+    },
+    {
+      "id": 73,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Various municipal bodies were created. You've just mentioned them. Did they work, did they operate well?",
+      "examination": "direct"
     },
     {
       "id": 74,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Various municipal bodies were created. You've just mentioned them. Did they work, did they operate well?"
-    },
-    {
-      "id": 75,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "I did not take part directly in the work of this assembly or was I particularly connected to it. However, I was a citizen who was interested in political and parliamentary life, particularly because of the change that had taken place in the political system because a multi-party system was being established. As a citizen, I was following political developments in the municipality, notably through the municipal assembly and the activity of the executive council and the activity of the parties. As far as I know, there weren't any special difficulties involved in terms of appointing persons to these top positions in the municipality and setting up the executive council as the executive government, so to speak, in the municipality. Various departments, various secretariats, had persons appointed as their heads, and this was also on the basis of the outcome of the elections for the municipal assembly. As far as I remember, the HDZ was to have three members in the executive council, and the SDA was supposed to have two seats, and it's SDS was supposed to have one person. They were supposed to be in charge of the tax administration, as it was called at the time.",
-      "reply_to": 74
+      "reply_to": 73
+    },
+    {
+      "id": 75,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "You are telling us that the various bodies operated well. When, according to you, did difficulties begin to appear when it comes to the way the assembly was working?",
+      "examination": "direct"
     },
     {
       "id": 76,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You are telling us that the various bodies operated well. When, according to you, did difficulties begin to appear when it comes to the way the assembly was working?"
-    },
-    {
-      "id": 77,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "As far as I can remember, the first serious difficulty that appeared in the functioning of the municipal assembly, and it also had certain broader political repercussions, so to speak, in the municipality, notably in the town itself, was a problem related to changing the town plan of Novi Travnik, because the SDA asked for a certain change to be made and to provide a location for building a mosque in the town of Novi Travnik because it is a well-known fact that the town of Novi Travnik was one of the few urban areas, urban centres, of Bosnia-Herzegovina where there was a Muslim population but where there was not a mosque. The Communists, whenever they were trying to give a presentation of the municipality of Novi Travnik, they always mentioned this as something very good, that there was not a mosque in the municipality of Novi Travnik. As far as I can remember, this was after the summer break, sometime in August or September, 1991. As far as I know, this was the first problem in terms of decision-making in the municipality, where there were disagreements between the HDZ and the SDA. Until then, they were practically partners, as far as I know from my contacts with persons who were involved in the municipality and whom I encountered every day at work, et cetera. So this was the first problem that cropped up between these two political parties in terms of the decision-making process in the assembly.",
-      "reply_to": 76
+      "reply_to": 75
+    },
+    {
+      "id": 77,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "When the Croatian Community of Herceg was created, did that have an impact on the functioning of the assembly and on the relations between the two communities?",
+      "examination": "direct"
     },
     {
       "id": 78,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When the Croatian Community of Herceg was created, did that have an impact on the functioning of the assembly and on the relations between the two communities?"
-    },
-    {
-      "id": 79,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "I know that the Croatian Community of Herceg-Bosna was established on the 18th of November, 1991. As for relations in the assembly, I don't know whether this was specifically discussed in the municipal assembly itself, but I know, from the reactions that appeared in November and December that year and later, that this was a signal to the SDA that the HDZ was leaving this partnership. Within that party, as far as I knew from my discussions with people who were there, that they started suspecting this partnership of not being very sincere. I also know what the reactions of the citizens were, the man on the street, and I must say the people were rather concerned that the HDZ made this kind of a decision in Bosnia-Herzegovina.",
-      "reply_to": 78
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know when, on what date, the HVO was created or set up in Novi Travnik?",
+      "examination": "direct"
     },
     {
       "id": 80,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know when, on what date, the HVO was created or set up in Novi Travnik?"
-    },
-    {
-      "id": 81,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "In Novi Travnik, specifically, at that time I wasn't in charge of defence yet, but as far as I managed to find out when I started working in the municipal headquarters on the 19th of May, I found out from my colleagues who were already working there -- among them there were some Croats too, there were some Croat colleagues -- and they said that the first units of the HVO in Novi Travnik, I don't know which ones they were, were established as early as the end of April, 1992. I know because I read about this in other documents, that it was a decision by the presidency of the Croatian Community of Herceg-Bosna on the 8th of April, 1992, on the basis of Article 7 of the decision of the establishment of the Croatian Community of Herceg-Bosna, a decision was passed to establish the HVO as the armed formation of the Croat population. Two days after that, that is to say, on the 10th of April, I know that a decision was passed, on the basis of the same article, to establish the HVO police. So I imagine that what I managed to find out, when I came to the municipal headquarters, that is to say, that the HVO had been established in Novi Travnik as well, that they established their headquarters in order to establish their own unit sometime late in April, 1992. But I do not know the exact date as to when it was established, the HVO in Novi Travnik.",
-      "reply_to": 80
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know the name of the chief of the HVO in Novi Travnik at the time?",
+      "examination": "direct"
     },
     {
       "id": 82,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know the name of the chief of the HVO in Novi Travnik at the time?"
-    },
-    {
-      "id": 83,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Yes, because I had the opportunity to meet him as soon as I arrived at the municipal headquarters. (redacted)",
-      "reply_to": 82
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Could you tell us anything about the first major incident opposing the two communities in Novi Travnik? Could you tell us when it was and then could you mention any details related to that incident?",
+      "examination": "direct"
     },
     {
       "id": 84,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. Could you tell us anything about the first major incident opposing the two communities in Novi Travnik? Could you tell us when it was and then could you mention any details related to that incident?"
-    },
-    {
-      "id": 85,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Unfortunately, the municipality of Novi Travnik is one of Bosnia-Herzegovina municipalities where an early armed conflict between the HVO units and the Territorial Defence units broke out. That was one of the earliest, one of the first conflicts between the units that existed in the territory of the municipality of Novi Travnik at the time.",
-      "reply_to": 84
+      "reply_to": 83
+    },
+    {
+      "id": 85,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "On which date did this first serious incident occur?",
+      "examination": "direct"
     },
     {
       "id": 86,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "On which date did this first serious incident occur?"
-    },
-    {
-      "id": 87,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "The incident itself, the armed incident and the armed conflict, was on the 19th of June, 1992, even though on the previous day, a number of incidents took place, which then led to the confrontation of these two formations, that is, the HVO and the Territorial Defence. The tension between them was very high, because on the 18th of June, already some checkpoints had been established by the HVO first at the entry into Novi Travnik from the direction of Travnik and Vitez, and by the Territorial Defence units south of the town next to the fire brigade centre, near the Bratstvo factory. These checkpoints were manned for two or three hours, if I remember well, from 14.00 to 16.00. These checkpoints were troublesome and there were some incidents there. There were some minor incidents before that, but the armed conflict happened on the 19th of June in the evening hours, I should say about five minutes to 6.00, and fire could be heard -- the last shots were heard about 22.00, when the conflict stopped. So the conflict took one day, and during that period of time between 18.00 and 22.00 hours.",
-      "reply_to": 86
+      "reply_to": 85
+    },
+    {
+      "id": 87,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where were you when the shots you've just mentioned could be heard?",
+      "examination": "direct"
     },
     {
       "id": 88,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Where were you when the shots you've just mentioned could be heard?"
-    },
-    {
-      "id": 89,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "The commander of the municipal headquarters, Mr. Ibrahim Mujic, myself, and three other representatives of the Muslims and representing political structures, that is, Muslim representatives and Muslim bodies, we attended a meeting with five representatives of the Croat side, at a meeting which was to discuss the ultimatum which was dictated at a meeting around noon on the 19th of June and communicated to us, to the commander of the municipal Territorial Defence, Mr. Refik Lendo, and the conclusion was that five-member groups should be set up to discuss the conditions that had been dictated to us. As of 17.30, I was at the Workers' Centre. There were 10 of us, as I have said, five representatives of the Muslim side and five representatives of the Croat side. We were to discuss that ultimatum that had been dictated that day to the commander of the municipal Territorial Defence headquarters at a meeting which he was holding with the HVO representatives in the municipal hall.",
-      "reply_to": 88
+      "reply_to": 87
+    },
+    {
+      "id": 89,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Talking about an ultimatum, when was the ultimatum given or presented, and what was it? What were the terms of it?",
+      "examination": "direct"
     },
     {
       "id": 90,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Talking about an ultimatum, when was the ultimatum given or presented, and what was it? What were the terms of it?"
-    },
-    {
-      "id": 91,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "After returning from the meeting at the municipal hall, Mr. Lendo informed members of the municipal headquarters of the Territorial Defence that the Bosniak side or, in particular, the military part as represented by Mr. Lendo, had been dictated the following Croat conditions. First, the first demand was to abolish all the agencies inherited from the Socialist Republic of Bosnia-Herzegovina which were still in operation in the municipality of Novi Travnik. That was the first demand. The second demand was that in the municipality of Novi Travnik, the authority of the Croatian Community of Herceg-Bosna should be established. The third demand was that all citizens of Novi Travnik should pledge their allegiance in respect of the new government of the Croatian Community that was about to be established. The fourth demand was to disband the municipal headquarters, or rather, to dismiss the commander of the headquarters and its head, and that the Territorial Defence units be subordinated, or rather, segregated to, as the only armed formation that could exist in the area. The fifth demand was the checkpoints manned by the Territorial Defence in the territory of the municipality of Novi Travnik should be dismantled and that only the HVO should have such checkpoints and control the movement of people or vehicles out there. The sixth demand was that all Muslim refugees who had arrived from other municipalities and found temporary accommodation in the municipality of Novi Travnik would have to leave the territory of the municipality within 48 hours. And the seventh demand was that these demands had to be responded or rather reacted to within 24 hours and that these groups, who had five representatives from each side, to discuss these demands and decide on them. It was on that occasion that I was designated to the group, and I went to a meeting at the Workers' Centre. So the meeting began around half past 5.00.",
-      "reply_to": 90
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I understood you well, Witness C, there was a first meeting which took place on the 18th of June, during which the demands you've just mentioned were voiced, and at the end of this meeting, a decision was made to form a working group, of which you were a member?",
+      "examination": "direct"
     },
     {
       "id": 92,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If I understood you well, Witness C, there was a first meeting which took place on the 18th of June, during which the demands you've just mentioned were voiced, and at the end of this meeting, a decision was made to form a working group, of which you were a member?"
-    },
-    {
-      "id": 93,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Yes, that was why I was designated to this group, as a member of the group, together with Ibrahim Mujic, who was also included in this group. In addition to us, there were also Mr. Salih Krnjic as the SDA representative, Ragib Zukic, and Halid Krnjic was yet another member of that working party. So the five of us represented the Muslim-Bosniak side which was to attend that meeting. Then on the Workers' Centre, I found a five-member group of the Croat side, and it incorporated Mr. Zvonko Grabovac, Marko Vidak, Blagun Lovrinovic, Milko Popovic and Judge -- Mr. Stipo Slipac.",
-      "reply_to": 92
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "You did not attend, personally, the 18th of June meeting during which all these demands were expressed, the demands you've just indicated?",
+      "examination": "direct"
     },
     {
       "id": 94,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You did not attend, personally, the 18th of June meeting during which all these demands were expressed, the demands you've just indicated?"
-    },
-    {
-      "id": 95,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "No, no, I was not present at that meeting. We were advised about it by the commander of the municipal headquarters of the Territorial Defence, and he did say immediately after the meeting, where these demands were dictated, as far as I can remember, he said that that meeting had been attended by Jozo Sekic, Marinko Marelja, and he did not tell us whether any other people were attending that meeting. I cannot really remember who was at that meeting. But he told us of those people and that he was attending that meeting, at which they were also present when these demands were dictated, and he also said that these demands were dictated and resisted upon by Marinko Marelja at that meeting. He was the most direct, the most categorical, and the most resistant with regard to those seven demands I have already mentioned.",
-      "reply_to": 94
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who was Mr. Marinko Marelja?",
+      "examination": "direct"
     },
     {
       "id": 96,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Who was Mr. Marinko Marelja?"
-    },
-    {
-      "id": 97,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "I know Marinko Marelja. I knew of him first while he was a member of the police. We used to meet. I mean the Novi Travnik police. Then I used to patronise his coffee shop, Grand, because we knew each other, and we often had coffee in his coffee shop. But at that time, I really don't know whether he -- what he was, what his role was, what part he played either in the HVO or HDZ or the authorities. I did not know what office he held, if any. I only know that once, as we were having coffee sometime in December, 1991, in a conversation which I had in the presence of Sead Agic, a lawyer from Travnik, another friend of his who often patronised his coffee shop --",
-      "reply_to": 96
+      "reply_to": 95
     },
     {
-      "id": 98,
+      "id": 97,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Just a moment. Mr. Lopez-Terres, do we really need all this detail? The question was who is this man you referred to. Perhaps that could be dealt with fairly briefly, and if there are relevant matters, no doubt they could come up. Could you please just direct the witness to that point?"
     },
     {
-      "id": 99,
+      "id": 98,
       "speaker": "MR. LOPEZ-TERRES",
       "role": "counsel",
       "type": "statement",
       "text": "(Interpretation) Of course, Mr. President. I think the witness was about to give us some information relating to Mr. Marinko Marelja and the influence that this man could exert within the town of Novi Travnik, but we might end as well this answer."
     },
     {
-      "id": 100,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 99,
+      "speaker": "MR. LOPEZ-TERRES",
       "role": "counsel",
       "type": "question",
-      "text": "What happened during the meeting with you and Mr. Marinko Marelja, and what did Mr. Marinko Marelja say to you?"
+      "text": "What happened during the meeting with you and Mr. Marinko Marelja, and what did Mr. Marinko Marelja say to you?",
+      "examination": "direct"
     },
     {
-      "id": 101,
+      "id": 100,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "We were talking at great length about the situation in Bosnia-Herzegovina at that time, and I know he came and gave me a book by Mr. Anto Valenta, \"How to Divide Bosnia,\" and then it is that he told me, \"Sir, this is how it's going to be in Bosnia, this is how things will happen, and you may believe it or not, but here's a book for you. I sponsored. I provided some funds to publish it.\" That is how I was given Mr. Valenta's book, how to divide Bosnia-Herzegovina, and that was a gift from Marinko Marelja.",
-      "reply_to": 100
+      "reply_to": 99
+    },
+    {
+      "id": 101,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Mr. Witness. Let's go back to the conflict of the 19th of June. You started to talk about this conflict. You indicated that you were at the Workers' Centre with the other members of the representatives of the Muslim community and the representatives of the Croatian community. Up to what time did you stay at the Workers' Centre?",
+      "examination": "direct"
     },
     {
       "id": 102,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you, Mr. Witness. Let's go back to the conflict of the 19th of June. You started to talk about this conflict. You indicated that you were at the Workers' Centre with the other members of the representatives of the Muslim community and the representatives of the Croatian community. Up to what time did you stay at the Workers' Centre?"
-    },
-    {
-      "id": 103,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "We started the meeting and opened with a discussion about these conditions which both the Croat representatives and we were familiar with, and the discussion lasted about half an hour as regards these criteria. We were about to adopt a conclusion, that is, that the municipality of Novi Travnik, we should not set up either some special agencies, neither to keep the former authorities, but to try to set up some joint agencies of authority, army, so as to jointly defend ourselves from the common aggressor. We discussed those details when the meeting was interrupted about 5 minutes before 6.00 because we heard shots, we heard very serious fire, and it began to -- at some point it became very intensive, and covering the whole town, as far as we could assess, because we had begun the meeting, we were in an office in this Workers' Centre which was facing south, and we went to the opposite side that is facing north, and we could see soldiers, we could clearly see soldiers. Because it was around 1800, we could see HVO soldiers from the side of the Workers' House and next to the building of the municipal hall. We could also see other HVO soldiers behind the municipal hall building, facing the post office building to the north. Other soldiers, or other positions, we could not spot from that place, from that building of the Workers' Centre, but this is what we clearly saw. My first impression was, of course, we were all very much surprised, not to say frightened, by what we could hear, but I could notice, as far as I could see, that only -- Mr. Milko Popovic nor Mr. Zvonko Grabovac were caught unaware about what had begun to happen at around 1800.",
-      "reply_to": 102
+      "reply_to": 101
+    },
+    {
+      "id": 103,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "You mean that some of the members of the Croat delegation seemed to expect such an attack?",
+      "examination": "direct"
     },
     {
       "id": 104,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You mean that some of the members of the Croat delegation seemed to expect such an attack?"
-    },
-    {
-      "id": 105,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I already said that. It was characteristic that Milko Popovic was not taken by surprise at all. I did know that Milko Popovic was a member of the HVO, nor was Mr. Zvonko Grabovac surprised. At the meeting, Zvonko Grabovac was representing the crisis committee set up by the municipal assembly at its last session, I think it was the 11th or the 12th of May of that year. He was the chairman of this crisis committee, and I think it was because of that that he was elected to represent the side at this meeting. Other people, Blagun Lovrinovic and Stipo Slipac and Marko Vidak, I could see, were taken by surprise, and I could see they were also frightened, as the five of us were.",
-      "reply_to": 104
+      "reply_to": 103
+    },
+    {
+      "id": 105,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "While you were there in the Workers' Centre, did you obtain or hear information from the outside?",
+      "examination": "direct"
     },
     {
       "id": 106,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "While you were there in the Workers' Centre, did you obtain or hear information from the outside?"
-    },
-    {
-      "id": 107,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "We did not have any contact outside, neither the Bosniak representatives nor the Croat representatives, until about 21.30. Before that, we received only one information from the outside, over the PA system, over the public address system that was used for alerts, and it came from the centre, and there was the information around 20.00 hours saying that the regional committee of the Territorial Defence in Zenica had decided that the Territorial Defence units should be seconded to the HVO. That was the first information that we received from outside. It really took us by surprise, and we tried then to establish communication with the municipal headquarters to simply check the veracity of that information, which, as I have said, was broadcast over the PA system. At that time, there was no telephone line with the municipal headquarters of the Territorial Defence, or simply nobody picked up the phone. Then Mr. Salih Krnjic called General Merdan in Zenica, and then he learned that that was not the truthful information, that no such order had been adopted by the regional TO headquarters in Zenica, and that the only order of the regional headquarters was that both sides should bring the conflict in Novi Travnik to a halt. After that, Mr. Salih Krnjic learned from the information and alert centre -- he asked that the authentic information be announced, that is, the invitation of the regional headquarters of the TO in Zenica to stop, to put an end to the armed conflict in Novi Travnik. This request was complied with. This information was broadcast around 20.30, and thus the false -- the misinformation broadcast half an hour earlier was just denied.",
-      "reply_to": 106
+      "reply_to": 105
+    },
+    {
+      "id": 107,
+      "speaker": "MR. LOPEZ-TERRES",
+      "role": "counsel",
+      "type": "question",
+      "text": "When were you able to leave the Workers' Centre?",
+      "examination": "direct"
     },
     {
       "id": 108,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When were you able to leave the Workers' Centre?"
-    },
-    {
-      "id": 109,
       "speaker": "WITNESS C",
       "role": "witness",
       "type": "answer",
       "text": "Around 22.00, I moved to the room across, that is to another office from the one in which the meeting was held, to call my wife, in a building which was 60 metres away from the Workers' Centre, knowing that the entrance door into the building was locked, so I just wanted to call her to ask her to unlock it for me to come down to the door. When I went to call her by telephone, because there was no power in the building -- I don't think in the town, in fact, because there was a downpour and the power was cut -- I asked Mr. Ibrahim Mujic to help me to dial the number, that is, to light matches and thus make the light. We were in the room opposite the one in which the meeting was held. Then I heard some noise in the corridor, and I saw the cursing of balijas, and I heard some blows. I didn't know what was going on. That lasted for some time, and after that, complete silence fell. Then a telephone rang in the office opposite from the one in which we held the meeting, but nobody answered. After some ten rings, Mr. Zvonko Grabovac answered the telephone, and then we learned there was somebody in the other room as well, yes. Then the two of us went to the other room, and we saw that Zvonko Grabovac, Blagun Lovrinovic, and Mr. Stipo Slipac were there, of the Croat representatives, and that only Salih Krnjic was there, but we did not find in that room Salih Krnjic and Ragib Zukic were not there. They told us that Zlatan Civcija had come, and two other HVO soldiers, that they had taken away Ragib Zukic and Salih Krnjic. We did not know what was happening to them. Then Mr. Grabovac and I talked about how to get out of the building, because after 22.00, the fire had stopped, and so we talked about how we could leave the building. Then he called the HVO headquarters across the street from the Workers' Centre, in the old Bratstvo Hotel, and asked if we could move from our building to their building, to the headquarters, that is, go from the Workers' Centre to the HVO headquarters. They let him know that it was not safe to bring Muslims to the HVO headquarters because there were very many HOS members in the old hotel building. Then we decided that only those three Croats should go to the old hotel. I said that we should go to the Stari Soliter, that is, the old high-rise.",
-      "reply_to": 108
+      "reply_to": 107
     },
     {
-      "id": 110,
+      "id": 109,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "One moment. (Trial Chamber deliberates)"
     },
     {
-      "id": 111,
+      "id": 110,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "It's five to 1.00, and we're adjourning at 1.00. Witness C, we are adjourning now. I'm afraid we can't finish your evidence today. I hope that we will be able to do so on Monday in order that you can return home. During the adjournment, please don't speak to anybody about your evidence, and don't let anybody speak to you, of course. That includes the members of the Prosecution. If you would like to go now, please, and be back on Monday, you will be told what time. (The witness withdrew)"
     },
     {
-      "id": 112,
+      "id": 111,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "There are two matters. Let me deal with the first one which is on my mind at the moment. The witness was asked a straightforward question: \"When did you leave the centre?\" The answer I had timed had gone on for some three to four minutes. Now, there may be detail of that sort which is necessary, but it was a question which could have been answered very shortly. Now, clearly, it's no criticism of the witness. He is giving his evidence in the way which he sees it right to do, and it may be that in some backgrounds, longer answers and more descriptive answers are normal, but I think, Mr. Lopez-Terres, in order that we can move this trial along, it is going to have to be necessary to interrupt those longer answers. I know it's not easy, but nonetheless, and to concentrate on the really important issues. If, of course, there are matters of detail which are of importance, then of course they can be brought out but if witnesses are going to give their evidence at such length, the trial is going to take a very long time. Perhaps you would like to think about that. The other matter which we need to deal with is the order of events on Monday. If counsel have any views about that, I'll hear it."
     },
     {
-      "id": 113,
+      "id": 112,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
       "text": "Mr. Lopez-Terres estimates that the remainder of this witness's evidence in chief will be two hours or even a little longer. We are entirely in the Court's hands as to whether Witness A should return first thing on Monday morning for cross-examination so that he can be concluded or whether this witness should be taken to either the end of his evidence in chief, or, if cross-examination can follow immediately to the end of his evidence altogether before Witness A is brought back. Each course has its difficulties and disadvantages for the witnesses. We're in the Court's hands, and of course the Court will respond to the concerns of the Defence in cross-examination."
     },
     {
-      "id": 114,
+      "id": 113,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Between the two, does the Prosecution have a preference? I'm thinking of the witness's convenience, but it may be that you --"
     },
     {
-      "id": 115,
+      "id": 114,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
       "text": "If the Defence wish to defer cross-examination of this witness, then obviously the preference would be to conclude his evidence in chief because while they are cross-examining Witness A, they would also have time, because there are many of them or several of them, they would or might have time to prepare their cross-examination of this particular witness. So that would seem strongly to suggest that the balance of his evidence in chief should be taken on Monday morning. If they forecast they will be able to cross-examine him directly, his evidence in chief has ended, then it might be an act of kindness to Witness A for him to come back at the moment when he expects to come back rather than for him to come back at an uncertain period."
     },
     {
-      "id": 116,
+      "id": 115,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Naumovski, can you help us about this? How long do you anticipate, if you can say, being with both witnesses, in effect?"
     },
     {
-      "id": 117,
+      "id": 116,
       "speaker": "MR. NAUMOVSKI",
       "role": "counsel",
       "type": "statement",
       "text": "(Interpretation) As for Witness A, I am not sure that one day will suffice. It is really very difficult for me to make any evaluation, but I think we shall need plenty of time. As for Witness C, we do not know yet as to what his evidence will be about because this is only the beginning. If we are faced with the same position as on the first day, when we explained why we were asking for cross-examination to be postponed, then we shall be able to see that on Monday, not before Monday, and naturally any further scheduling will depend on that."
     },
     {
-      "id": 118,
+      "id": 117,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes. We will have the cross-examination of Witness A at 9.45 on Monday morning. We'll adjourn."
     },
     {
-      "id": 119,
+      "id": 118,
       "speaker": "MR. NAUMOVSKI",
       "role": "counsel",
       "type": "statement",
       "text": "(Interpretation) Thank you."
     },
     {
-      "id": 120,
+      "id": 119,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Perhaps the other witness could be available somewhere, if not in the Tribunal building, but at least available on a phone or something of that sort?"
     },
     {
-      "id": 121,
+      "id": 120,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, I'm sure that can be arranged."
     },
     {
-      "id": 122,
+      "id": 121,
       "speaker": "MR. NICE",
       "role": "counsel",
       "type": "statement",
@@ -925,39 +963,43 @@
       "text": "WITNESS:  WITNESS C"
     },
     {
-      "after_utterance": 24,
+      "after_utterance": 8,
+      "text": "Examined by Mr. Lopez-Terres:"
+    },
+    {
+      "after_utterance": 23,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 24,
+      "after_utterance": 23,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 24,
+      "after_utterance": 23,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 24,
+      "after_utterance": 23,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 24,
+      "after_utterance": 23,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 24,
+      "after_utterance": 23,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 83,
+      "after_utterance": 82,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 83,
+      "after_utterance": 82,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 121,
+      "after_utterance": 120,
       "text": "--- Whereupon the hearing adjourned at"
     }
   ],

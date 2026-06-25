@@ -1,6 +1,6 @@
 {
   "case": "obrenovic",
-  "case_id": "IT-02-60-T",
+  "case_id": "IT-02-60",
   "date": "2003-07-16",
   "utterances": [
     {
@@ -68,1563 +68,1638 @@
     },
     {
       "id": 10,
-      "speaker": "JUDGE LIU",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Ms. Issa:"
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good morning, Ms. Mujic.",
+      "examination": "direct"
     },
     {
       "id": 11,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Good morning, Ms. Mujic."
-    },
-    {
-      "id": 12,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Good morning.",
-      "reply_to": 11
+      "reply_to": 10
+    },
+    {
+      "id": 12,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you state your name for the record and spell your last name, please.",
+      "examination": "direct"
     },
     {
       "id": 13,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you state your name for the record and spell your last name, please."
-    },
-    {
-      "id": 14,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. My name is Muniba Mujic, born on the 2nd of July, 1956, in the village of Luka, municipality of Srebrenica.",
-      "reply_to": 13
+      "reply_to": 12
+    },
+    {
+      "id": 14,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. And I understand you're Muslim by faith, Mrs. Mujic?",
+      "examination": "direct"
     },
     {
       "id": 15,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. And I understand you're Muslim by faith, Mrs. Mujic?"
-    },
-    {
-      "id": 16,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 15
+      "reply_to": 14
+    },
+    {
+      "id": 16,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what is your current occupation?",
+      "examination": "direct"
     },
     {
       "id": 17,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And what is your current occupation?"
-    },
-    {
-      "id": 18,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I'm currently a housekeeper. Before the war, I was a typist.",
-      "reply_to": 17
+      "reply_to": 16
+    },
+    {
+      "id": 18,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And where did you work as a typist?",
+      "examination": "direct"
     },
     {
       "id": 19,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And where did you work as a typist?"
-    },
-    {
-      "id": 20,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I worked for a while at the Srebrenica SUP as a typist, and I also worked at the Boxit [phoen] mine ore.",
-      "reply_to": 19
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where were you living in July 1995?",
+      "examination": "direct"
     },
     {
       "id": 21,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Where were you living in July 1995?"
-    },
-    {
-      "id": 22,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I lived in Srebrenica until the 11th of July. And on the 12th of July, I left for Tuzla.",
-      "reply_to": 21
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And how long had you lived in Srebrenica?",
+      "examination": "direct"
     },
     {
       "id": 23,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. And how long had you lived in Srebrenica?"
-    },
-    {
-      "id": 24,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Since 1970.",
-      "reply_to": 23
+      "reply_to": 22
+    },
+    {
+      "id": 24,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Turning your attention, then, specifically to the 11th of July, where were you on that date? You indicated you were there, and then you went to Potocari.",
+      "examination": "direct"
     },
     {
       "id": 25,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Turning your attention, then, specifically to the 11th of July, where were you on that date? You indicated you were there, and then you went to Potocari."
-    },
-    {
-      "id": 26,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. That's right. During those days in July, there were fierce attacks that took place on Srebrenica. We were shelled and fired on with all available weapons, particularly three, four, five days before that. It was -- there were very intense attacks, and I saw people leaving Srebrenica going in columns, in convoys. My brother and I were by ourselves at home. And so my brother said: \"Let's go to Potocari. All the people are leaving this chaos.\" Shells falling, people crying, people are wounded, dead, lying on the ground, nobody paying any attention. Everyone is trying to get to Potocari in order to save their lives. So that's how we decided to join these columns, because my brother already told me: \"Muniba, let us not stay here. We'll be killed. We cannot wait any more. We are already the last people left. Let us go, too.\" When I got out, I saw in front of my house a flag. It was obvious that there were armed soldiers coming. They were shelling. It was worse outside than in the house.",
-      "reply_to": 25
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you're saying when you got out, you're referring to getting out of your house in Srebrenica. Is that correct, just to clarify?",
+      "examination": "direct"
     },
     {
       "id": 27,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And when you're saying when you got out, you're referring to getting out of your house in Srebrenica. Is that correct, just to clarify?"
-    },
-    {
-      "id": 28,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's right. My house -- my brother and I left our house in Srebrenica and we set off towards Potocari. People were saying: \"The Dutch are coming.\" They are saying: \"Go forward, go forward.\" So this DutchBat, they were forcing us out. They were telling us: \"Go to Potocari.\" So we had to go to Potocari. We had no other choice. All the people who stayed behind in Srebrenica, they were all killed. They did not survive.",
-      "reply_to": 27
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Aside from your brother, did you have any other family members who went with you to Potocari?",
+      "examination": "direct"
     },
     {
       "id": 29,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Aside from your brother, did you have any other family members who went with you to Potocari?"
-    },
-    {
-      "id": 30,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't have anyone else there, only my brother and I lived in that house in Srebrenica. His house was torched. It was burned in the beginning of the war.",
-      "reply_to": 29
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And when you arrived at Potocari, did you see any Serb soldiers?",
+      "examination": "direct"
     },
     {
       "id": 31,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. And when you arrived at Potocari, did you see any Serb soldiers?"
-    },
-    {
-      "id": 32,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "On that day, when we arrived in Potocari, we didn't see any soldiers at that time.",
-      "reply_to": 31
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall around what time you arrived in Potocari?",
+      "examination": "direct"
     },
     {
       "id": 33,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you recall around what time you arrived in Potocari?"
-    },
-    {
-      "id": 34,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, we arrived at about noon. I can't be absolutely certain about the time. That day, we arrived in Potocari possibly around noon. Perhaps it was already sometime after noon when we arrived in Potocari.",
-      "reply_to": 33
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Turning to the evening of 11 of July, can you tell us where you spent the night.",
+      "examination": "direct"
     },
     {
       "id": 35,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. Turning to the evening of 11 of July, can you tell us where you spent the night."
-    },
-    {
-      "id": 36,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I can. My brother and I were there, and it was getting dark. There were many people around us. We were not by ourselves. You couldn't move. As soon as you moved some way, you'd brush against somebody. But my brother went and sat next to a haystack, and we just put some hay and sat down by a lorry that was completely destroyed by shells. We spent the night under that lorry on that hay.",
-      "reply_to": 35
+      "reply_to": 34
+    },
+    {
+      "id": 36,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And did you have any food or water with you at the time?",
+      "examination": "direct"
     },
     {
       "id": 37,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. And did you have any food or water with you at the time?"
-    },
-    {
-      "id": 38,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No, we had nothing. It all happened so quickly and it was such panic that we didn't even think of that. To be honest, we were not that hungry. In all that fear, it didn't cross our mind.",
-      "reply_to": 37
+      "reply_to": 36
+    },
+    {
+      "id": 38,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Moving then to July 12, the next day, can you tell us what happened the next morning when you woke up?",
+      "examination": "direct"
     },
     {
       "id": 39,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Moving then to July 12, the next day, can you tell us what happened the next morning when you woke up?"
-    },
-    {
-      "id": 40,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I can. We woke up. We didn't sleep much that night. It got light, and at about 10.00, there was a lot of panic among the people. Children are crying. Women are crying. It was very difficult. But at about 10.00, we saw, and people started to shout from the village of Pecista, Djogazi, from Budak. Soldiers started appearing, and they were surrounding us there in Potocari. And within a very short while, they came to us, and they started to walk among the people and to say that they wouldn't do anything to anyone, that we shouldn't worry, we shouldn't cry, that we shouldn't panic, that we shouldn't escape, that nothing would -- no harm would come to us, that buses would come about 3.00 or 4.00 at the latest. That we would be taken to Tuzla, that we would be taken to the free territory. That's what they said. This isn't yours; you should go over there. And they said if this had been done in the beginning of the war, that none of this would have happened. They said you could have left the beginning of the war.",
-      "reply_to": 39
+      "reply_to": 38
+    },
+    {
+      "id": 40,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall what types of uniforms the soldiers were wearing?",
+      "examination": "direct"
     },
     {
       "id": 41,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you recall what types of uniforms the soldiers were wearing?"
-    },
-    {
-      "id": 42,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "The soldiers had all kinds of uniforms. There were those who wore black suits, also in olive grey, like what I'm wearing today. And also there were people in camouflage, in multicoloured uniforms.",
-      "reply_to": 41
+      "reply_to": 40
+    },
+    {
+      "id": 42,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you see whether or not they had weapons?",
+      "examination": "direct"
     },
     {
       "id": 43,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you see whether or not they had weapons?"
-    },
-    {
-      "id": 44,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, they had weapons, mostly automatic weapons, scorpio pistols. They mostly had flak jackets on, and they also had hand grenades at the waist.",
-      "reply_to": 43
+      "reply_to": 42
+    },
+    {
+      "id": 44,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you recognise any of these soldiers?",
+      "examination": "direct"
     },
     {
       "id": 45,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you recognise any of these soldiers?"
-    },
-    {
-      "id": 46,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did. I recognised some. I worked together with Milisav Ilic, Milisav Gavric. I knew them well. I greeted them. I said hello. And because they seemed to be in a hurry, they didn't want to stay and chat with me. And I also knew a neighbour of mine who lived across from my house near my neighbour Slavka. His name was Tihomir. His nickname was Kinez, Kinez. I don't know where he had worked. But I know that now he worked at the police station in Srebrenica. When I got to Srebrenica, I saw him and I said hello to him. And he said: \"I don't know you.\" And I said: \"What do you mean you don't know me? I asked you about Bosko Vukovic and Branko who had lived with me -- who had lived in my house before.\" And then he said: \"Oh, yes, I recognise you now.\" So now I could see that he was working at the police station. And whether he was a commander or deputy commander I'm not sure, but he is certainly working in the police station today.",
-      "reply_to": 45
+      "reply_to": 44
+    },
+    {
+      "id": 46,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Now, at some point, I understand that some buses arrived in Potocari. What happened when the buses arrived?",
+      "examination": "direct"
     },
     {
       "id": 47,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. Now, at some point, I understand that some buses arrived in Potocari. What happened when the buses arrived?"
-    },
-    {
-      "id": 48,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "People started shouting, buses were coming. We were all trying to get to the buses in the crowd. And where they told the buses would come, that's where we got. We were all going towards the buses. My brother was very afraid. He didn't want to move from beneath the lorry. He said: \"I don't know how we're going to get on. They'll kill us all off.\" I said: \"Don't be worried. Come on, we can't be the last ones to stay or God knows what will happen later. Let us go now while the buses are there.\" So we moved, my brother and I. We moved down there to get closer to the buses. That was on the right-hand side on the way to Srebrenica. Near the zinc factory, there is a poplar tree, and that's where we stood. We got there, and were standing there in order to get on to the buses.",
-      "reply_to": 47
+      "reply_to": 46
+    },
+    {
+      "id": 48,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Before we go to that, can you first of all tell the Judges why did you try to get on a bus?",
+      "examination": "direct"
     },
     {
       "id": 49,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Before we go to that, can you first of all tell the Judges why did you try to get on a bus?"
-    },
-    {
-      "id": 50,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, to save our lives, to go as early as possible. We were all told we should leave Srebrenica, Potocari, that we all should leave, that buses would come, transport would be organised to take us to Tuzla. So that's how we went as early as we could. We were all afraid. It was real chaos, crying, screaming. We were all afraid. It was difficult.",
-      "reply_to": 49
+      "reply_to": 48
+    },
+    {
+      "id": 50,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you describe what happened when you tried to get on the bus.",
+      "examination": "direct"
     },
     {
       "id": 51,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you describe what happened when you tried to get on the bus."
-    },
-    {
-      "id": 52,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, while we were still standing there, my brother and I, there were lots of people there. Many, many people. We stood there. And at one moment, I saw one soldier there next to the road. There was a passage there going towards the road. And we stood there, and I saw that soldier, and he said: \"Men are to go to the other side of the road. And all your personal belongings and bags, you can leave them there.\" And my brother and others -- to my brother and to others, he was saying, \"You, you, and you go over there.\" If anyone tried to take a bag, they would say, \"Leave your things and go across the road.\"",
-      "reply_to": 51
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know the name of this soldier who told the men to go to the other side of the road and leave your things behind?",
+      "examination": "direct"
     },
     {
       "id": 53,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know the name of this soldier who told the men to go to the other side of the road and leave your things behind?"
-    },
-    {
-      "id": 54,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I know it very well. That is a young man, a neighbour of mine. His name is Nenad Djokic, also known as Neso. His father's name is Nedjo, and mother's name is Slobodanka. His village is Gniona, neighbouring to my village.",
-      "reply_to": 53
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And at the time, can you tell us how it is that you found out what his name is.",
+      "examination": "direct"
     },
     {
       "id": 55,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And at the time, can you tell us how it is that you found out what his name is."
-    },
-    {
-      "id": 56,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, let me tell you, when he was separating us like this, he also separated my brother, and my brother had short sleeves. And I asked him if I can take this bag to take to my brother. I said he'd be cold because in the evening, because it was hot but it was cold in the evening. So I said: \"Can I please take my bag to my brother so he wouldn't stay there,\" and he said: \"No, you won't. Don't take that bag, they won't need it.\" Because Nenad had told me they would not need that any more, that seemed very suspicious to me. I found it very hard, and I started to cry and I went past him. But his things were left behind, and I just wanted to get to my brother. I didn't care about the things, so I went past him.",
-      "reply_to": 55
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Before you went past him, did you speak to anyone else?",
+      "examination": "direct"
     },
     {
       "id": 57,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Before you went past him, did you speak to anyone else?"
-    },
-    {
-      "id": 58,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't speak to anyone else. I only spoke to Nefa when I returned, as I was returning from my brother, I asked this young girl. She was speaking to Nenad. They were chatting. While he was separating the men, saying, \"You, you, you,\" she was speaking something to him and she was looking at the ground while he was talking to her. And then I was also listening to their conversation while I was standing next to them, and I heard him say: \"You will stay with me tonight, and we can have a walk, we can be together. You won't be harmed. Stay with me tonight.\" And she was just looking at the ground and saying: \"I dare not stay. I cannot stay. I don't want to stay.\" And again when I returned from there, I couldn't find my brother. And when I returned, I then approached that young girl and I said: \"What's your name?\" And she said: \"Nefa.\" And I said: \"Where are you from?\" She said: \"I am from here, from Gostilj so we are neighbours.\" I said: \" Who's your family?\" And now I've forgotten the father's name. So I said: \"Where's your mother from? What's your mother's name?\" So she also gave me her mother's name. And then I said, \"Where's your mother from?\" And she said, \"My mother is Abid's daughter, Abid from Ucina Basta. Do you know him?\" And I said,\"Yes, I know him very well.\" And I said, \"How come you know this young man? Where do you know him from?\" She said, \"We went to school together.\" And I said, \"What's your date of birth.\" And she said 1974.",
-      "reply_to": 57
+      "reply_to": 56
+    },
+    {
+      "id": 58,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "You were telling us that after your brother was separated and his things were left behind, you went -- you tried to go past Nenad and you were going somewhere. Where were you going?",
+      "examination": "direct"
     },
     {
       "id": 59,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You were telling us that after your brother was separated and his things were left behind, you went -- you tried to go past Nenad and you were going somewhere. Where were you going?"
-    },
-    {
-      "id": 60,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I went past him, I ran to try and get to my brother. I was going towards this house where they were being held, where my brother had gone. And when I crossed the road and I set off towards that house, it's some 20 metres from the road, that house, 15, 20 metres, something like that. One soldier stopped me, and he pushed me. And he said: \"Where are you going?\" And I said: \"My brother left. I just want to find my brother.\" And as he pushed me, and I fell down on the ground. He kicked me several times as I was on the ground and he had military boots on his feet. Again, I started to get up, I said: \"Well, I asked your soldiers, I asked him to let me through, and they told me I could.\" And so he said: \"You can go through, but you must return immediately.\"",
-      "reply_to": 59
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And can you describe the house that you were going towards.",
+      "examination": "direct"
     },
     {
       "id": 61,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And can you describe the house that you were going towards."
-    },
-    {
-      "id": 62,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I can. I can.",
-      "reply_to": 61
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you give us a description right now. What does the house look like?",
+      "examination": "direct"
     },
     {
       "id": 63,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you give us a description right now. What does the house look like?"
-    },
-    {
-      "id": 64,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I can do that. The house looked as if it was about 8 by 8 metres. That was its size. It wasn't quite finished. What I mean is it wasn't -- it was under construction. It did have a roof. It had one floor, and then upstairs they were building. And the attic had been done.",
-      "reply_to": 63
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, yesterday, when you and I met in my office, I showed you a map or an aerial which I understand you made some markings on. Is that right?",
+      "examination": "direct"
     },
     {
       "id": 65,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, yesterday, when you and I met in my office, I showed you a map or an aerial which I understand you made some markings on. Is that right?"
+      "speaker": "MUNIBA MUJIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 64
     },
     {
       "id": 66,
-      "speaker": "MUNIBA MUJIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes.",
-      "reply_to": 65
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm just going to show that to you right now.",
+      "examination": "direct"
     },
     {
       "id": 67,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I'm just going to show that to you right now."
-    },
-    {
-      "id": 68,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 67
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I may, I'm going to ask the usher to put that on the ELMO for us, please, thank you.",
+      "examination": "direct"
     },
     {
       "id": 69,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If I may, I'm going to ask the usher to put that on the ELMO for us, please, thank you."
-    },
-    {
-      "id": 70,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Ms. Issa, please tell us the number of this document."
     },
     {
-      "id": 71,
+      "id": 70,
       "speaker": "MS. ISSA",
       "role": "counsel",
       "type": "statement",
       "text": "Of course, Your Honour. Sorry. It's Exhibit Number P64."
     },
     {
-      "id": 72,
+      "id": 71,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 73,
+      "id": 72,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I marked this dislocation. The house where my brother was taken, and what I've written, MM, Mujic, Muniba, here, that's where the house is where these men were taken. Here, in this place."
     },
     {
-      "id": 74,
+      "id": 73,
       "speaker": "MS. ISSA",
       "role": "counsel",
       "type": "statement",
       "text": "Give that to the usher, and then I will ask you to point to it when she puts it on that machine which is called the ELMO."
     },
     {
-      "id": 75,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 74,
+      "speaker": "MS. ISSA",
       "role": "counsel",
       "type": "question",
-      "text": "If I can just ask you now that it's on the machine to point to the marking you made where -- which represents the house. Use that pointer. You can use that pointer that you're holding in your hand."
+      "text": "If I can just ask you now that it's on the machine to point to the marking you made where -- which represents the house. Use that pointer. You can use that pointer that you're holding in your hand.",
+      "examination": "direct"
     },
     {
-      "id": 76,
+      "id": 75,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 75
+      "reply_to": 74
+    },
+    {
+      "id": 76,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just point to it. Just show us where it is.",
+      "examination": "direct"
     },
     {
       "id": 77,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Just point to it. Just show us where it is."
-    },
-    {
-      "id": 78,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Here, this is where it's located, this house. And right next to the house here, this is where the road goes to the village called Pale and to Budak. The road which is 15, 20 metres from there, that is the main road which goes from Bratunac to Srebrenica. On the left-hand side here, here in front --",
-      "reply_to": 77
+      "reply_to": 76
+    },
+    {
+      "id": 78,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "I didn't ask you about that, but thank you very much for letting us know where the house is. I'm just going to ask you now a number of other questions. So thank you. Can you tell us, Madam, when you arrived at the house, what did you see?",
+      "examination": "direct"
     },
     {
       "id": 79,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I didn't ask you about that, but thank you very much for letting us know where the house is. I'm just going to ask you now a number of other questions. So thank you. Can you tell us, Madam, when you arrived at the house, what did you see?"
-    },
-    {
-      "id": 80,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "When I arrived at the house when the soldier let me through, after he'd kicked me, then he let me through because I'd lied to him that I got permission. I had to do that. So I got to this house, and in this house, men were held. They were all crammed together, and they were crouching next to each other. In such a crowd, I couldn't spot my brother immediately, so I was calling his name, saying his name aloud, and I said: \"Is my brother around?\" Nobody was saying. And they said: \"Who's your brother?\" And then I spotted my neighbour, who said that that was Asim Pasalic. And he said: \"He's not there.\" And he just waved with a hand that I should leave there. That's all. And I didn't speak to anyone any more.",
-      "reply_to": 79
+      "reply_to": 78
+    },
+    {
+      "id": 80,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And can you tell us, is Asim Pasalic, is he Muslim by faith?",
+      "examination": "direct"
     },
     {
       "id": 81,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. And can you tell us, is Asim Pasalic, is he Muslim by faith?"
-    },
-    {
-      "id": 82,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Asim Pasalic is Muslim by faith, and his wife Zora is a Serb.",
-      "reply_to": 81
+      "reply_to": 80
+    },
+    {
+      "id": 82,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Did you notice what the men were wearing who were in the house?",
+      "examination": "direct"
     },
     {
       "id": 83,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Did you notice what the men were wearing who were in the house?"
-    },
-    {
-      "id": 84,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That depends. Some were in torn clothes. Somebody was in some nicer clothes, but they were mostly civilians.",
-      "reply_to": 83
+      "reply_to": 82
+    },
+    {
+      "id": 84,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And after you left the house, where did you go?",
+      "examination": "direct"
     },
     {
       "id": 85,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And after you left the house, where did you go?"
-    },
-    {
-      "id": 86,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, I was completely at a loss because I couldn't find my brother. I went perhaps above the house, behind the house, perhaps he was there. And there were some people there. And I said: \"Where were these people who were just separated now? I went into the house. He's not there.\" And these people said: \"Perhaps he's down there on the lorry.\" And there were some lorries that were parked there, and I saw that men were climbing on the lorries while the soldiers were hitting them with rifle butts, perhaps pushing them to climb. And that was about 30 metres from where I was standing. I saw that. And I also where they were being kicked, but mostly these men were climbing on to the lorries. And I wanted to go down there, and people were saying: \"Don't go down there. Only men are being loaded there.\" So then I went back, went back to the spot where the bags were left, mine and my brother's.",
-      "reply_to": 85
+      "reply_to": 84
+    },
+    {
+      "id": 86,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Before we get to what happened when you went back to that spot, can you tell us whether or not you spoke to somebody, a specific person, at the lorries?",
+      "examination": "direct"
     },
     {
       "id": 87,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Before we get to what happened when you went back to that spot, can you tell us whether or not you spoke to somebody, a specific person, at the lorries?"
-    },
-    {
-      "id": 88,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I didn't. I didn't approach the lorry. They wouldn't let me. And I couldn't. There was no way I could have approached that lorry.",
-      "reply_to": 87
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who told you that this was for men only?",
+      "examination": "direct"
     },
     {
       "id": 89,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Who told you that this was for men only?"
-    },
-    {
-      "id": 90,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I was told that by a soldier. There were quite a few soldiers around. And he said: \"You can't go there, Madam. You can't go there. Only men are going. That's where they're loaded. You have your own separate transport.\"",
-      "reply_to": 89
+      "reply_to": 88
+    },
+    {
+      "id": 90,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "You just indicated that you went back to the same position where the buses were located.",
+      "examination": "direct"
     },
     {
       "id": 91,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You just indicated that you went back to the same position where the buses were located."
-    },
-    {
-      "id": 92,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That's right.",
-      "reply_to": 91
+      "reply_to": 90
+    },
+    {
+      "id": 92,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what happened there?",
+      "examination": "direct"
     },
     {
       "id": 93,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And what happened there?"
-    },
-    {
-      "id": 94,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "When I returned to the same spot, there were even more people than before. Buses were lined up, people were pushing and shoving each other trying to get to the buses. There was -- there would be a Dutch soldier and a Bosnian Serb soldier. They were holding on to each other's hands, so they would let people in waves. Occasionally they would split ranks, and sometimes they would let some people, and I tried to get through as well. But I didn't succeed. And I thought I would try and get past the soldier at the end, which is what I did. I was waiting for all the crowd to go, and when they moved, and then I tried to go passed this soldier, and he said: \"You go back. You can't go.\" And he cursed Turkish mother of mine. So then I said: \"I'll return, I just need to take my child, a woman had taken my child to the bus.\" And once I got on the bus, I didn't return. I didn't return anywhere. They could have just killed me on the spot because I knew immediately what was going to happen there and then. I could see what the writing on the wall was. But still, I had some hope. I had some hope that I would find my brother. I saw they were being loaded on to lorries, they were going on lorries. So when I got on to the bus, the bus was going. I willed it to go even faster, there was such a crowd. And somehow, I thought that maybe we would meet. That would have been difficult.",
-      "reply_to": 93
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you say you would meet, you're referring to your brother at some point? Let me ask you this: Have you seen your brother since that day?",
+      "examination": "direct"
     },
     {
       "id": 95,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you say you would meet, you're referring to your brother at some point? Let me ask you this: Have you seen your brother since that day?"
-    },
-    {
-      "id": 96,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I looked for my brother. I was always with him. We lived together. I never saw my brother again. I didn't hear what happened to him. He never came back. There's no trace of him.",
-      "reply_to": 95
+      "reply_to": 94
+    },
+    {
+      "id": 96,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Have you seen -- now, just getting back to a couple of other questions that I asked you earlier.",
+      "examination": "direct"
     },
     {
       "id": 97,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Have you seen -- now, just getting back to a couple of other questions that I asked you earlier."
-    },
-    {
-      "id": 98,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, go ahead.",
-      "reply_to": 97
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did Nefa tell you the soldier's name that separated your brother?",
+      "examination": "direct"
     },
     {
       "id": 99,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did Nefa tell you the soldier's name that separated your brother?"
-    },
-    {
-      "id": 100,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "She did. I asked her about this. I approached her immediately, and I asked her. First I asked her what her name was. She said: \"Nefa.\" \"Where are you from,\" I asked her? And she said: \"From Gostilj.\" And I asked her who was this young man you were speaking to? Where do you know him? She replied: \"We went to school together.\" What's his name? She said: \"Nenad Djokic.\" That's how I knew.",
-      "reply_to": 99
+      "reply_to": 98
+    },
+    {
+      "id": 100,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you tell us, Madam, what is the name of your brother?",
+      "examination": "direct"
     },
     {
       "id": 101,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you tell us, Madam, what is the name of your brother?"
-    },
-    {
-      "id": 102,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "My brother's name is Aziz Mujic.",
-      "reply_to": 101
+      "reply_to": 100
+    },
+    {
+      "id": 102,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "How old was he on the 12th of July when you last saw him?",
+      "examination": "direct"
     },
     {
       "id": 103,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How old was he on the 12th of July when you last saw him?"
-    },
-    {
-      "id": 104,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "1936 -- he was 20 years old. He was born in 1936.",
-      "reply_to": 103
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right --",
+      "examination": "direct"
     },
     {
       "id": 105,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right --"
-    },
-    {
-      "id": 106,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "He was 20 years older than me.",
-      "reply_to": 105
+      "reply_to": 104
     },
     {
-      "id": 107,
+      "id": 106,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Interpreter's correction."
     },
     {
-      "id": 108,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 107,
+      "speaker": "MS. ISSA",
       "role": "counsel",
       "type": "question",
-      "text": "He was 20 years older than you and he was born in 1936. Is that correct?"
+      "text": "He was 20 years older than you and he was born in 1936. Is that correct?",
+      "examination": "direct"
     },
     {
-      "id": 109,
+      "id": 108,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's correct.",
-      "reply_to": 108
+      "reply_to": 107
+    },
+    {
+      "id": 109,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you seen Nenad Djokic since that day of 12 July, 1995?",
+      "examination": "direct"
     },
     {
       "id": 110,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Have you seen Nenad Djokic since that day of 12 July, 1995?"
-    },
-    {
-      "id": 111,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't see Nenad Djokic for about a month, I think -- until about a month. I saw him a month before.",
-      "reply_to": 110
+      "reply_to": 109
+    },
+    {
+      "id": 111,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "You saw him a month ago. And can you --",
+      "examination": "direct"
     },
     {
       "id": 112,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You saw him a month ago. And can you --"
-    },
-    {
-      "id": 113,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 112
+      "reply_to": 111
+    },
+    {
+      "id": 113,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you describe the circumstances under which you saw him.",
+      "examination": "direct"
     },
     {
       "id": 114,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you describe the circumstances under which you saw him."
-    },
-    {
-      "id": 115,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I can. The place where I live in is near the road. It's called Vidikovac. I was in the garden. I had some cucumbers there. I was pulling up some weeds. Two men appeared. I didn't recognise them. I didn't even pay attention to who they were. But at about 20 metres from them, his father, Nedjo Djokic, appeared, and I know him well. I didn't know him before, but when I returned to Srebrenica, I asked who his father was, who his mother was, et cetera. I knew him well. He always passed by my house. They live in a house near mine. And when his father noticed me, he cried out, Neso, Neso. I had a look. It's as if someone had stabbed me in the heart. And I saw the two men turned around. They were looking at me. I was a little afraid. His father seemed to be drunk to me. I didn't speak to him, but that's how he looked. But Nenad was speaking in angry tones, and they were looking at me. It seems as if they were cursing me. I didn't understand what they were saying, but it seems as if they were speaking about me. And that's how they passed by. I bowed my head, and I was wondering where to flee if they headed in my direction. They left. But for two or three days -- two or three days later, Nenad appeared. I was going in one direction, he was going another direction on the road. I looked at him for a while, and then I bowed my head, and he didn't look at me at the time either. But when he passed by, I turned around. But when I turned around, I saw that he had turned around also and he was looking at me. So then I continued in the direction I was going. I'd recognise him now.",
-      "reply_to": 114
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Did you ever have an opportunity to speak to Nenad Djokic's mother?",
+      "examination": "direct"
     },
     {
       "id": 116,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Did you ever have an opportunity to speak to Nenad Djokic's mother?"
-    },
-    {
-      "id": 117,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. His mother would always pass by my house. We would greet each other. On one occasion, she stopped by my house and said: \"There's something I'd like to ask you.\" I said: \"Go ahead, ask me.\" She said: \"Is it true that you said that my Nenad killed your brother?\" I said that that was not true. \"I don't know whether you are lying or someone else, but it is true that your Nenad singled out the men in Potocari, and he singled out my brother, too. That is true. But if this does not suit Nenad or if he protest, he should come and see me. I'm make him some coffee, I'll tell him what happened. I'll tell him about the girl he spoke to, where he took the men whom he singled out. That's not in dispute. There's no reason for you to be angry with me. You can be angry, but what I have said is something that I can claim with full responsibility.\" She said: \"I'll ask him.\" And two or three days later, I saw her again. She greeted me again, and she said: \"I asked my Nenad.\" She said, well, -- he said: \"Well what was I to do? I had to do that as those were my orders.\" And he said: \"Don't be angry with us. This is what they had to do.\" So I said: \"Sit down, let's have a coffee. What happened happened. I can't get my brother back. I can see he's no longer here. It is difficult for me to look for him, but it will be even more difficult when I find him and bury him. When I realise that I have definitely lost him, that's when I will realise that I have definitely lost him. But as long as I am still searching for him, I still have hope that I might find him alive again.\"",
-      "reply_to": 116
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MS. ISSA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Mrs. Mujic. Just one last question: Did you at some point find out what military formation Nenad Djokic belonged to at that time, in July of 1995?",
+      "examination": "direct"
     },
     {
       "id": 118,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you, Mrs. Mujic. Just one last question: Did you at some point find out what military formation Nenad Djokic belonged to at that time, in July of 1995?"
-    },
-    {
-      "id": 119,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't ask at the time. It didn't cross my mind to wonder about what kind of units they were or whether there were any units there. I knew that it was the Serbian army, but where they were from and what sort of units or battalions were concerned, I didn't even ask about such things. But I had arrived in Srebrenica two years ago, two years earlier. When I spoke to my neighbours, my Serbian neighbours, I'd ask all sorts of things, some said that they were in the military police. I don't know whether that's true or not. I'm not sure about that. I wouldn't like to speak about things that I'm not sure about.",
-      "reply_to": 118
+      "reply_to": 117
     },
     {
-      "id": 120,
+      "id": 119,
       "speaker": "MS. ISSA",
       "role": "counsel",
       "type": "statement",
       "text": "If I can have the Court's indulgence for a moment, please. I don't have any further questions, Your Honour. Thank you very much. Thank you, Mrs. Mujic."
     },
     {
-      "id": 121,
+      "id": 120,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Any cross-examination, Mr. Karnavas?"
     },
     {
-      "id": 122,
+      "id": 121,
       "speaker": "MR. KARNAVAS",
       "role": "counsel",
       "type": "statement",
-      "text": "Yes, I will cross-examine, Your Honour. Cross-examined by Mr. Karnavas:"
+      "text": "Yes, I will cross-examine, Your Honour."
+    },
+    {
+      "id": 122,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good morning, Madam.",
+      "examination": "cross"
     },
     {
       "id": 123,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Good morning, Madam."
-    },
-    {
-      "id": 124,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Good morning.",
-      "reply_to": 123
+      "reply_to": 122
+    },
+    {
+      "id": 124,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You gave a statement to an investigator of the Office of the Prosecution I believe on October 15th, 2002. Is that correct?",
+      "examination": "cross"
     },
     {
       "id": 125,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You gave a statement to an investigator of the Office of the Prosecution I believe on October 15th, 2002. Is that correct?"
-    },
-    {
-      "id": 126,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "To which investigators?",
-      "reply_to": 125
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, I have one statement here which has your signature, and it appears that this statement was given on October 15th, 2002.",
+      "examination": "cross"
     },
     {
       "id": 127,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Well, I have one statement here which has your signature, and it appears that this statement was given on October 15th, 2002."
+      "speaker": "MUNIBA MUJIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 126
     },
     {
       "id": 128,
-      "speaker": "MUNIBA MUJIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes.",
-      "reply_to": 127
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Now, before 2002, October 15th, I understand that you did not give a statement to anyone else?",
+      "examination": "cross"
     },
     {
       "id": 129,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Now, before 2002, October 15th, I understand that you did not give a statement to anyone else?"
-    },
-    {
-      "id": 130,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 129
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You did not speak to any investigator from the Office of the Prosecution?",
+      "examination": "cross"
     },
     {
       "id": 131,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You did not speak to any investigator from the Office of the Prosecution?"
-    },
-    {
-      "id": 132,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't.",
-      "reply_to": 131
+      "reply_to": 130
+    },
+    {
+      "id": 132,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And may I ask: How is it that you gave this statement? Did they locate you, or did you approach them?",
+      "examination": "cross"
     },
     {
       "id": 133,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And may I ask: How is it that you gave this statement? Did they locate you, or did you approach them?"
-    },
-    {
-      "id": 134,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I wanted to find out whom I could give a statement to because I'm looking for my brother, and I will always look for my brother.",
-      "reply_to": 133
+      "reply_to": 132
+    },
+    {
+      "id": 134,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And it wasn't until October 15th, 2002, that you were able to find out who you could give a statement to?",
+      "examination": "cross"
     },
     {
       "id": 135,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And it wasn't until October 15th, 2002, that you were able to find out who you could give a statement to?"
-    },
-    {
-      "id": 136,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 135
+      "reply_to": 134
+    },
+    {
+      "id": 136,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And I understand you also met with the Prosecution yesterday at which time you gave them additional information that you did not give them the first time when you met with them. Is that correct?",
+      "examination": "cross"
     },
     {
       "id": 137,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. And I understand you also met with the Prosecution yesterday at which time you gave them additional information that you did not give them the first time when you met with them. Is that correct?"
-    },
-    {
-      "id": 138,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Whatever the Prosecutor asked me, I would answer to the extent that I had knowledge about this.",
-      "reply_to": 137
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Right. Okay. Now, before the fall of Srebrenica, you were a typist.",
+      "examination": "cross"
     },
     {
       "id": 139,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Right. Okay. Now, before the fall of Srebrenica, you were a typist."
-    },
-    {
-      "id": 140,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Before the war, but during wartime, I didn't work because nothing worked in Srebrenica. Yes.",
-      "reply_to": 139
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. And when you were working as a typist, you worked for the police department, if I understand your statement correctly.",
+      "examination": "cross"
     },
     {
       "id": 141,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. And when you were working as a typist, you worked for the police department, if I understand your statement correctly."
-    },
-    {
-      "id": 142,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's correct, that's true.",
-      "reply_to": 141
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. But you have not -- you have not written out or typed out a statement of the events yourself?",
+      "examination": "cross"
     },
     {
       "id": 143,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. But you have not -- you have not written out or typed out a statement of the events yourself?"
-    },
-    {
-      "id": 144,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, I've always worked with the police, and I did what they asked me to do. But I naturally didn't work on my own.",
-      "reply_to": 143
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. But with respect to the events that you've just described, you were not asked by the investigator of the Prosecution to write out the information that you had or to type it out?",
+      "examination": "cross"
     },
     {
       "id": 145,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. But with respect to the events that you've just described, you were not asked by the investigator of the Prosecution to write out the information that you had or to type it out?"
-    },
-    {
-      "id": 146,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No, no one asked me to type it out myself. But whenever we discussed something, after I had given a statement, they would read it out and ask me whether this is what I had actually said and whether I could confirm that this is what I had actually said.",
-      "reply_to": 145
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. I want to go through that process if that's okay with you. When you spoke to the investigator --",
+      "examination": "cross"
     },
     {
       "id": 147,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. I want to go through that process if that's okay with you. When you spoke to the investigator --"
-    },
-    {
-      "id": 148,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That's fine.",
-      "reply_to": 147
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you spoke with the investigator, it's my understanding that your statement was not tape recorded.",
+      "examination": "cross"
     },
     {
       "id": 149,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you spoke with the investigator, it's my understanding that your statement was not tape recorded."
-    },
-    {
-      "id": 150,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't know. I didn't pay attention to whether someone was recording it or not. Whether it was being recorded or not, I did what I was asked to do. But I really didn't pay attention to whether someone was recording it or not.",
-      "reply_to": 149
+      "reply_to": 148
+    },
+    {
+      "id": 150,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You didn't see a tape recorder there?",
+      "examination": "cross"
     },
     {
       "id": 151,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You didn't see a tape recorder there?"
-    },
-    {
-      "id": 152,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I didn't.",
-      "reply_to": 151
+      "reply_to": 150
+    },
+    {
+      "id": 152,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And they didn't play back a tape recording of your voice to hear -- for you to hear to make sure that what you were being -- what you were saying was being recorded accurately. Right?",
+      "examination": "cross"
     },
     {
       "id": 153,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And they didn't play back a tape recording of your voice to hear -- for you to hear to make sure that what you were being -- what you were saying was being recorded accurately. Right?"
-    },
-    {
-      "id": 154,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No, they didn't. And I didn't even ask for them to do so.",
-      "reply_to": 153
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "They were asking you questions, and as I understand it, there was an interpreter there interpreting. You were answering, and somebody was writing the information down. Is that how it went?",
+      "examination": "cross"
     },
     {
       "id": 155,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "They were asking you questions, and as I understand it, there was an interpreter there interpreting. You were answering, and somebody was writing the information down. Is that how it went?"
-    },
-    {
-      "id": 156,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, there was an interpreter there. Yes, I answered all their questions. And just like I'm answering all the questions you're asking me, and the Prosecutor told me on several occasions yesterday that I should only tell the truth and that I wouldn't have problems of any kind.",
-      "reply_to": 155
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "I understand. Now, after you were through being questioned, it's my understanding that they presented you with a piece of paper that had your statement and asked you to sign it, to sign each page. Is that correct?",
+      "examination": "cross"
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I understand. Now, after you were through being questioned, it's my understanding that they presented you with a piece of paper that had your statement and asked you to sign it, to sign each page. Is that correct?"
-    },
-    {
-      "id": 158,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No, they only showed me the map. They showed me where Potocari was and where my brother had been singled out. I marked the location of the house, and I initialled it with the letters MM. But I didn't sign the other pages.",
-      "reply_to": 157
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Well, I have an English version of your statement, and it appears to have your signature on it. And it's on, in fact, the cover sheet and the two pages of your statement. Do you recall signing something that was in English, not in --",
+      "examination": "cross"
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Well, I have an English version of your statement, and it appears to have your signature on it. And it's on, in fact, the cover sheet and the two pages of your statement. Do you recall signing something that was in English, not in --"
-    },
-    {
-      "id": 160,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I didn't sign anything.",
-      "reply_to": 159
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Did you have an opportunity to read your statement in your own language to make sure that it was accurate and complete?",
+      "examination": "cross"
     },
     {
       "id": 161,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Did you have an opportunity to read your statement in your own language to make sure that it was accurate and complete?"
-    },
-    {
-      "id": 162,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did, but they said: \"We have your statement. You can read it out if you like.\" I said I really didn't need to read out the statement. If in 5, 10, or 20 years, if someone asked me on my deathbed what I had survived, what had happened, I would be able to say what I have been saying now. It doesn't matter where I happen to be.",
-      "reply_to": 161
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Before coming here today, did you have an opportunity to read your statement?",
+      "examination": "cross"
     },
     {
       "id": 163,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Before coming here today, did you have an opportunity to read your statement?"
-    },
-    {
-      "id": 164,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I didn't read through it. I wasn't interested in it at all. I know what I have stated. I know what happened. These horrors can't be forgotten. I'm here in this courtroom to say what happened and to say what happened in July 1995 in Srebrenica, in the place called Potocari.",
-      "reply_to": 163
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, in your statement with respect to Nenad Djokic, from reading it, it would appear that you did not know his parents and you did not know him at the time.",
+      "examination": "cross"
     },
     {
       "id": 165,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, in your statement with respect to Nenad Djokic, from reading it, it would appear that you did not know his parents and you did not know him at the time."
-    },
-    {
-      "id": 166,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That's the truth. It's not something that has to appear such, and I didn't know him. But since Nenad Djokic had singled out my brother, he singled out men and took my brother away and he didn't allow him to take his personal belongings with him, I became suspicious. And I tried to approach the girl and to find out who he was so that I knew who to look for if I wanted to find out anything about my brother. So I knew from whom I could ask for information.",
-      "reply_to": 165
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "So it was through this young girl, Nefa, that you learned his name. Is that correct?",
+      "examination": "cross"
     },
     {
       "id": 167,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So it was through this young girl, Nefa, that you learned his name. Is that correct?"
-    },
-    {
-      "id": 168,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That's true.",
-      "reply_to": 167
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And after that, you learned from what village or you figured out what village he was from, and you figured out who his parents were?",
+      "examination": "cross"
     },
     {
       "id": 169,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And after that, you learned from what village or you figured out what village he was from, and you figured out who his parents were?"
-    },
-    {
-      "id": 170,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I immediately asked her what the young man's name was. I asked him which village he was from. But I didn't ask about the parents at the time. But she said that Nenad Djokic was Nedjo's son, and I didn't even pay attention to that. But when I returned to Srebrenica, it was the third year, I asked everyone, and I came across his mother. When I went to visit the house on the first occasion, I hadn't yet returned from Srebrenica. There was a handsome woman passing by. I said good day and she said good day. She saw that I was a Muslim, and immediately I knew she was Serbian, you could see by the manner of speech, by the clothes. I asked her where she lived. She said she lived here with a neighbour of mine in her house. And I asked her: \"Where from?\" And she said: \"From Gniona.\" I asked her if she knew Nenad Djokic. She said: \"Well, yes, I know. He is my son.\" I asked her: \"Where is Nenad?\" She said: \"He lives in Bratunac. He is married now.\" I didn't say anything then. I felt uneasy. I didn't say anything else. But when I returned to Srebrenica, I told her about this. I said: \"Do you remember when I asked you about this? I asked you because he had singled my brother out.\"",
-      "reply_to": 169
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "None of that information is in your statement, by the way, that you just told us right now. Was it an oversight, or was it something that just wasn't put in by the person who was recording what you were telling him at the time you were giving your statement?",
+      "examination": "cross"
     },
     {
       "id": 171,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "None of that information is in your statement, by the way, that you just told us right now. Was it an oversight, or was it something that just wasn't put in by the person who was recording what you were telling him at the time you were giving your statement?"
-    },
-    {
-      "id": 172,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, let me tell you, I don't know what you're writing there, but I know what I've said and what I have been through. But it's impossible for my statement to exist somewhere because I don't usually say things that didn't happen. If they took me away, as they took my brother away, again, I would not lie.",
-      "reply_to": 171
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, the information that you gave us today about the lorries, that the men were climbing on on the 12th, that information is not in your statement either, that you gave on October 15th, 2002. In fact, nowhere in that statement is there anything about you witnessing lorries behind the house where men were being loaded on that particular day. So my question is: Is it that they forgot to put it into the statement, or is it that you forgot to mention it at the time that you were giving the statement?",
+      "examination": "cross"
     },
     {
       "id": 173,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, the information that you gave us today about the lorries, that the men were climbing on on the 12th, that information is not in your statement either, that you gave on October 15th, 2002. In fact, nowhere in that statement is there anything about you witnessing lorries behind the house where men were being loaded on that particular day. So my question is: Is it that they forgot to put it into the statement, or is it that you forgot to mention it at the time that you were giving the statement?"
-    },
-    {
-      "id": 174,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I probably didn't mention this. But even if you asked me all sorts of things now, there's a lot of information I could provide you with. There were all sorts of things I could tell you about, but I think that everything I have said is necessary.",
-      "reply_to": 173
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "But that wasn't said at the time when you gave your statement, your first statement?",
+      "examination": "cross"
     },
     {
       "id": 175,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But that wasn't said at the time when you gave your statement, your first statement?"
-    },
-    {
-      "id": 176,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "If I didn't mention that at the time, I'm mentioning it now, and I stand by it. And it's the truth, and I stand by this statement. Everything I have said is the truth, and I'm telling you what happened. And the best witness is the cemetery in Potocari and the graves that are being exhumed and the number of bodies and the terrible way in which the people were killed, blindfolded with their hands tied up. This can be a testimony to what happened. God should deal with those who ordered such crimes. And now, many women and children have remained without their husbands, without their parents, et cetera.",
-      "reply_to": 175
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you gave your statement back in October 15th, 2002, where were you? Where was it given?",
+      "examination": "cross"
     },
     {
       "id": 177,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you gave your statement back in October 15th, 2002, where were you? Where was it given?"
-    },
-    {
-      "id": 178,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I gave a statement in Sarajevo.",
-      "reply_to": 177
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And I take it they asked you to take your time and give them all the information that you knew, that you could remember? In other words, they weren't rushing you? They had time to listen to you back then.",
+      "examination": "cross"
     },
     {
       "id": 179,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And I take it they asked you to take your time and give them all the information that you knew, that you could remember? In other words, they weren't rushing you? They had time to listen to you back then."
-    },
-    {
-      "id": 180,
       "speaker": "MUNIBA MUJIC",
       "role": "witness",
       "type": "answer",
       "text": "They didn't rush me, but I told them what I told them. And if it's necessary to tell you anything else, I'll do so. I'll speak about what I have been through, what I survived.",
-      "reply_to": 179
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "MR. KARNAVAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you very much.",
+      "examination": "cross"
     },
     {
       "id": 181,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you very much."
-    },
-    {
-      "id": 182,
       "speaker": "MR. KARNAVAS",
       "role": "counsel",
       "type": "statement",
       "text": "I have no further questions, Your Honours."
     },
     {
-      "id": 183,
+      "id": 182,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Any cross-examination? Yes, Mr. Stojanovic."
     },
     {
-      "id": 184,
+      "id": 183,
       "speaker": "MR. STOJANOVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] We have no questions for the witness today, Your Honours, bearing in mind the nature of her testimony, what she is testifying about."
     },
     {
-      "id": 185,
+      "id": 184,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Well, any re-examination?"
     },
     {
-      "id": 186,
+      "id": 185,
       "speaker": "MS. ISSA",
       "role": "counsel",
       "type": "statement",
       "text": "No, thank you, Your Honour."
     },
     {
-      "id": 187,
+      "id": 186,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you very much. Any documents to tender at this stage?"
     },
     {
-      "id": 188,
+      "id": 187,
       "speaker": "MS. ISSA",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour, I'd like to tender the Exhibit P64, which I believe I referred to earlier."
     },
     {
-      "id": 189,
+      "id": 188,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "I see. Any objections?"
     },
     {
-      "id": 190,
+      "id": 189,
       "speaker": "MR. KARNAVAS",
       "role": "counsel",
       "type": "statement",
       "text": "No objections, Your Honour."
     },
     {
-      "id": 191,
+      "id": 190,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 192,
+      "id": 191,
       "speaker": "MR. STOJANOVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] No objections, Your Honours."
     },
     {
-      "id": 193,
+      "id": 192,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you very much. This piece of document is admitted into the evidence. I guess there's no document to tender from the Defence team?"
     },
     {
-      "id": 194,
+      "id": 193,
       "speaker": "MR. KARNAVAS",
       "role": "counsel",
       "type": "statement",
       "text": "No, Your Honour."
     },
     {
-      "id": 195,
+      "id": 194,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 196,
+      "id": 195,
       "speaker": "MR. STOJANOVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] No, Your Honour."
     },
     {
-      "id": 197,
+      "id": 196,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Thank you very much, Witness, for coming here to give your evidence."
     },
     {
-      "id": 198,
+      "id": 197,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Thank you for having listened to me. And if necessary, you can call me at any time and ask me any questions."
     },
     {
-      "id": 199,
+      "id": 198,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you very much. Madam usher will show you out of the room. We wish you a pleasant journey back home."
     },
     {
-      "id": 200,
+      "id": 199,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Thank you very much. And I wish you all the best here."
     },
     {
-      "id": 201,
+      "id": 200,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "I understand that we have no more witnesses for this week. Am I right?"
     },
     {
-      "id": 202,
+      "id": 201,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "That's correct, Mr. President."
     },
     {
-      "id": 203,
+      "id": 202,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Would you please furnish us with a new list of the order of the witnesses for the next two weeks."
     },
     {
-      "id": 204,
+      "id": 203,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, we're putting that together with -- working with the victim and witness people, and I have been discussing with Defence counsel, and we should have something -- well, we will have something this afternoon for you and for everyone."
     },
     {
-      "id": 205,
+      "id": 204,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Could you, please, tell us how many witnesses are you going to call during the next two weeks?"
     },
     {
-      "id": 206,
+      "id": 205,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "Well, we have -- in keeping with this same general area that we have identified, seven, and two are coming in all the way from the United States, but there is a chance that counsel may -- we may be able to reach some agreement regarding those witnesses. And one of those seven is on holiday, but we're getting closer to him. So it's somewhere probably between four and seven."
     },
     {
-      "id": 207,
+      "id": 206,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "As I said before, that it is our intention to finish the first group of witnesses before the summer recess."
     },
     {
-      "id": 208,
+      "id": 207,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, this group, we should have no problem finishing. In fact, we may -- given that some of them are survivors and may not be cross-examined at length, if we can get them in next week, we may be able to finish next week. And hopefully by this afternoon when I am able to talk about the scheduling of their flights and papers that are coming, I'll be able to give you a good estimate of how long they will be here, when they will testify, and what kind of protective measures they want."
     },
     {
-      "id": 209,
+      "id": 208,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Hopefully you could have that indicated in the list you submit to the Court."
     },
     {
-      "id": 210,
+      "id": 209,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "Absolutely."
     },
     {
-      "id": 211,
+      "id": 210,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you very much. And, Mr. Blagojevic, did you have a chance to talk to the independent counsel? THE ACCUSED BLAGOJEVIC: [Interpretation] Your Honours, I met the independent counsel yesterday and the day before, Monday and Tuesday, that is. On Monday, from the planned one hour and 45 minutes, we worked half an hour less than that. Yesterday, we worked for two hours and ten minutes. And the independent counsel gave me the information yesterday that today he would file a request for leave to -- for certification for appeal, and I have asked him to do that, and I believe that he will do that. And so I will specifically not be writing this request for certification of appeal; the independent counsel will. So we have looked at the decision dated 3rd of July this year, and perhaps there are a few more issues. But the time that we had at our disposal yesterday and the day before, we used it to a maximum."
     },
     {
-      "id": 212,
+      "id": 211,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you very much. I just want to remind you that the time limits will end tomorrow, but since the independent counsel will file an application for the certification of appeal, so there's no problem about that. We believe that that application should be very simple, just to outline the main reasons for appeal. There's not -- it is not necessary to list all the evidence in that application for certification. Thank you very much, Mr. Blagojevic. You may sit down, please. THE ACCUSED BLAGOJEVIC: [Interpretation] Your Honours, if I may, I hope that he will do the job well. I have confidence in him in this issue, so I can't really influence him to a great extent. I hope that he will do the job properly by the deadline."
     },
     {
-      "id": 213,
+      "id": 212,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Well, there's no doubt that he's a very capable counsel. Thank you. You may sit down, please. THE ACCUSED BLAGOJEVIC: [Interpretation] Thank you."
     },
     {
-      "id": 214,
+      "id": 213,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Are there any matters to bring to the attention of this Bench? Yes, Mr. Karnavas."
     },
     {
-      "id": 215,
+      "id": 214,
       "speaker": "MR. KARNAVAS",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour. In light of the last witness that testified, I just wanted to revisit an issue that has been raised by the Prosecution through a motion on 92 bis, the latest motion. One of the individuals that they wanted to bring in through 92 bis was the individual that the last witness named, Nenad Djokic. And I think that in light of the testimony, that it would be my request that - and I'm -- in fact, what I'm doing is a response to the Prosecution's motion, although albeit orally - that since no decision has been made with respect to this individual, and he's Witness Number 119 on the Prosecution witness list that we have, that that request be denied by the Prosecution. And also, we would request that the same would go for Witness Number 99 and 118 and 105, all of which happen to be -- well, 118 and 119 are from the Bratunac Brigade, and 99 and 105 are from the Ministry of the Interior. So I would respectfully request that in light of the testimony and in light of the position and in light of your earlier decision which follows the Galic decision, this seems to me to be -- it would be inappropriate for this material to come in through 92 bis and not have the witnesses come here to testify. If the Court wishes, I could file a written response, but I am trying to -- in light of what's going on, trying to respond as the issues pop up."
     },
     {
-      "id": 216,
+      "id": 215,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "I hope you could file a written submission on this matter because we will give you opportunity to make any comments concerning the Prosecution's filings."
     },
     {
-      "id": 217,
+      "id": 216,
       "speaker": "MR. KARNAVAS",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour."
     },
     {
-      "id": 218,
+      "id": 217,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Is there anything else? Yes, Mr. McCloskey."
     },
     {
-      "id": 219,
+      "id": 218,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "No, Mr. President."
     },
     {
-      "id": 220,
+      "id": 219,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "I see none at this stage. So we'll break now, and we'll resume next Monday at 9.00."
     },
     {
-      "id": 221,
+      "id": 220,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
@@ -1657,11 +1732,19 @@
       "text": "[Witness answered through interpreter]"
     },
     {
-      "after_utterance": 200,
+      "after_utterance": 9,
+      "text": "Examined by Ms. Issa:"
+    },
+    {
+      "after_utterance": 121,
+      "text": "Cross-examined by Mr. Karnavas:"
+    },
+    {
+      "after_utterance": 199,
       "text": "[The witness withdrew]"
     },
     {
-      "after_utterance": 220,
+      "after_utterance": 219,
       "text": "--- Whereupon the hearing adjourned"
     }
   ],

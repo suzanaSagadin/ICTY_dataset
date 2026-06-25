@@ -1,6 +1,6 @@
 {
   "case": "perisic",
-  "case_id": "IT-04-81-T",
+  "case_id": "IT-04-81",
   "date": "2010-01-25",
   "utterances": [
     {
@@ -2967,7 +2967,7 @@
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you very much. Questioned by the Court:"
+      "text": "Thank you very much."
     },
     {
       "id": 389,
@@ -3278,11 +3278,11 @@
     },
     {
       "id": 430,
-      "speaker": "MR. GUY-SMITH",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "Right.",
-      "examination": "cross"
+      "examination": "questioned"
     },
     {
       "id": 431,
@@ -3906,15 +3906,15 @@
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
-      "text": "Okay. Thank you. Further cross-examination by Mr. Guy-Smith:"
+      "text": "Okay. Thank you."
     },
     {
       "id": 514,
-      "speaker": "MR. THOMAS",
+      "speaker": "MR. GUY-SMITH",
       "role": "counsel",
       "type": "question",
       "text": "The question that I then had was using the figure 3.638, in recognising what you said to His Honour with regard to the 378 casings that have been identified for the years 1993 and 1994 as coming from the PPU, that figure, 378, represents 10.4 per cent of the total number of shell casings that are involved in your declaration; correct?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 515,
@@ -4454,8 +4454,16 @@
       "text": "[Defence counsel confer]"
     },
     {
+      "after_utterance": 388,
+      "text": "Questioned by the Court:"
+    },
+    {
       "after_utterance": 452,
       "text": "Re-examination by Mr. Thomas:"
+    },
+    {
+      "after_utterance": 513,
+      "text": "Further cross-examination by Mr. Guy-Smith:"
     },
     {
       "after_utterance": 527,

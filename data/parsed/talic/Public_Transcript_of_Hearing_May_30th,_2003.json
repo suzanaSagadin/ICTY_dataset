@@ -1,6 +1,6 @@
 {
   "case": "talic",
-  "case_id": "IT-99-36-T",
+  "case_id": "IT-99-36",
   "date": "2003-05-30",
   "utterances": [
     {
@@ -141,14 +141,15 @@
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
-      "text": "Madam Richterova, he's all yours. Examined by Ms. Richterova:"
+      "text": "Madam Richterova, he's all yours."
     },
     {
       "id": 21,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Good morning, sir. Can you please state your full name for the record."
+      "text": "Good morning, sir. Can you please state your full name for the record.",
+      "examination": "direct"
     },
     {
       "id": 22,
@@ -160,10 +161,11 @@
     },
     {
       "id": 23,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Do you work for the OTP?"
+      "text": "Do you work for the OTP?",
+      "examination": "direct"
     },
     {
       "id": 24,
@@ -175,10 +177,11 @@
     },
     {
       "id": 25,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And is it correct that you testified in the Stakic case, which is case number IT-97-24-T?"
+      "text": "And is it correct that you testified in the Stakic case, which is case number IT-97-24-T?",
+      "examination": "direct"
     },
     {
       "id": 26,
@@ -1072,10 +1075,11 @@
     },
     {
       "id": 153,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, you --"
+      "text": "Mr. Sebire, you --",
+      "examination": "direct"
     },
     {
       "id": 154,
@@ -1247,10 +1251,11 @@
     },
     {
       "id": 178,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, you were tasked to prepare reports with respect to exhumations and proof of deaths in the -- within the autonomous region of Krajina; is it correct?"
+      "text": "Mr. Sebire, you were tasked to prepare reports with respect to exhumations and proof of deaths in the -- within the autonomous region of Krajina; is it correct?",
+      "examination": "direct"
     },
     {
       "id": 179,
@@ -1262,10 +1267,11 @@
     },
     {
       "id": 180,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And you prepared report called \"Progress report.\" Dated 13th of August, 2001?"
+      "text": "And you prepared report called \"Progress report.\" Dated 13th of August, 2001?",
+      "examination": "direct"
     },
     {
       "id": 181,
@@ -1318,10 +1324,11 @@
     },
     {
       "id": 188,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, you were tasked to produce a report on exhumations on proof of deaths within the Autonomous Region of Krajina; is it correct?"
+      "text": "Mr. Sebire, you were tasked to produce a report on exhumations on proof of deaths within the Autonomous Region of Krajina; is it correct?",
+      "examination": "direct"
     },
     {
       "id": 189,
@@ -1333,10 +1340,11 @@
     },
     {
       "id": 190,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "The progress report which I have in front of me was -- is dated 13th of August, 2001."
+      "text": "The progress report which I have in front of me was -- is dated 13th of August, 2001.",
+      "examination": "direct"
     },
     {
       "id": 191,
@@ -1348,10 +1356,11 @@
     },
     {
       "id": 192,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Before -- then before you came here, you were asked to prepare addendum, and your addendum to this report is dated 16th of May, 2003; is it correct?"
+      "text": "Before -- then before you came here, you were asked to prepare addendum, and your addendum to this report is dated 16th of May, 2003; is it correct?",
+      "examination": "direct"
     },
     {
       "id": 193,
@@ -1363,10 +1372,11 @@
     },
     {
       "id": 194,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "What was the purpose of this addendum? Blank page inserted to ensure pagination corresponds between the French and English transcripts."
+      "text": "What was the purpose of this addendum? Blank page inserted to ensure pagination corresponds between the French and English transcripts.",
+      "examination": "direct"
     },
     {
       "id": 195,
@@ -1518,10 +1528,11 @@
     },
     {
       "id": 216,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "As we already heard, you testified in the Stakic case, and you provided many details with respect to the exhumations which took place in Prijedor municipality; correct?"
+      "text": "As we already heard, you testified in the Stakic case, and you provided many details with respect to the exhumations which took place in Prijedor municipality; correct?",
+      "examination": "direct"
     },
     {
       "id": 217,
@@ -1533,10 +1544,11 @@
     },
     {
       "id": 218,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I only want to mention one thing: Can you tell us, when you joined the national police in France?"
+      "text": "I only want to mention one thing: Can you tell us, when you joined the national police in France?",
+      "examination": "direct"
     },
     {
       "id": 219,
@@ -1548,10 +1560,11 @@
     },
     {
       "id": 220,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And when in your transcript it's stated that \"In 1999 I became part of the direction in Paris,\" it's probably also a misspelling; is it right?"
+      "text": "And when in your transcript it's stated that \"In 1999 I became part of the direction in Paris,\" it's probably also a misspelling; is it right?",
+      "examination": "direct"
     },
     {
       "id": 221,
@@ -1570,10 +1583,11 @@
     },
     {
       "id": 223,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "You were asked to slow down when answering your questions. Now I would like to direct your attention straight to your report, and I want to work with the report dated 13th of August and 16th of May, 2003, which is addendum to this report. Mr. Sebire, as part of your responsibility on this case, were you asked to do some work regarding individuals who had been exhumed or declared dead by courts in Bosnia?"
+      "text": "You were asked to slow down when answering your questions. Now I would like to direct your attention straight to your report, and I want to work with the report dated 13th of August and 16th of May, 2003, which is addendum to this report. Mr. Sebire, as part of your responsibility on this case, were you asked to do some work regarding individuals who had been exhumed or declared dead by courts in Bosnia?",
+      "examination": "direct"
     },
     {
       "id": 224,
@@ -1585,10 +1599,11 @@
     },
     {
       "id": 225,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And is it correct to state that you created two databases?"
+      "text": "And is it correct to state that you created two databases?",
+      "examination": "direct"
     },
     {
       "id": 226,
@@ -1600,10 +1615,11 @@
     },
     {
       "id": 227,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell us what these two databases are about?"
+      "text": "Can you tell us what these two databases are about?",
+      "examination": "direct"
     },
     {
       "id": 228,
@@ -1615,10 +1631,11 @@
     },
     {
       "id": 229,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I'm sorry. I am not quite sure whether the translation was correct. The second database, it had information regarding proof of deaths, and this was entered in the Autonomous Region of Krajina. Is it correct? Is it what you stated?"
+      "text": "I'm sorry. I am not quite sure whether the translation was correct. The second database, it had information regarding proof of deaths, and this was entered in the Autonomous Region of Krajina. Is it correct? Is it what you stated?",
+      "examination": "direct"
     },
     {
       "id": 230,
@@ -1630,10 +1647,11 @@
     },
     {
       "id": 231,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Can you --"
+      "text": "Can you --",
+      "examination": "direct"
     },
     {
       "id": 232,
@@ -1645,10 +1663,11 @@
     },
     {
       "id": 233,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I would like to briefly talk about the exhumations and then we will move on to proof of deaths. If we take your addendum, your report dated 16th of May, 2003, and start with the page number 5. When working with the database, what kind of information do you receive? What are the sources of information you receive, and what kind of information do you fill in or put in the database?"
+      "text": "I would like to briefly talk about the exhumations and then we will move on to proof of deaths. If we take your addendum, your report dated 16th of May, 2003, and start with the page number 5. When working with the database, what kind of information do you receive? What are the sources of information you receive, and what kind of information do you fill in or put in the database?",
+      "examination": "direct"
     },
     {
       "id": 234,
@@ -1681,10 +1700,11 @@
     },
     {
       "id": 238,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "You finished that you also had x-ray reports. So did you receive some other reports from the forensic of the OTP?"
+      "text": "You finished that you also had x-ray reports. So did you receive some other reports from the forensic of the OTP?",
+      "examination": "direct"
     },
     {
       "id": 239,
@@ -1696,10 +1716,11 @@
     },
     {
       "id": 240,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, were you using or have you been using DNA tests?"
+      "text": "Mr. Sebire, were you using or have you been using DNA tests?",
+      "examination": "direct"
     },
     {
       "id": 241,
@@ -1711,10 +1732,11 @@
     },
     {
       "id": 242,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, can you tell us what information we can -- you told us what -- the sources of the information. What main information we can read from your exhumation database?"
+      "text": "Mr. Sebire, can you tell us what information we can -- you told us what -- the sources of the information. What main information we can read from your exhumation database?",
+      "examination": "direct"
     },
     {
       "id": 243,
@@ -1739,10 +1761,11 @@
     },
     {
       "id": 246,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Is it possible, Mr. Sebire, that we would print -- or you would print from your database the templates so we can see it, what kind of information you --"
+      "text": "Is it possible, Mr. Sebire, that we would print -- or you would print from your database the templates so we can see it, what kind of information you --",
+      "examination": "direct"
     },
     {
       "id": 247,
@@ -1802,10 +1825,11 @@
     },
     {
       "id": 255,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I would like now, just generally, briefly and generally, ask you how many grave sites were identified and inputted into the exhumation database?"
+      "text": "I would like now, just generally, briefly and generally, ask you how many grave sites were identified and inputted into the exhumation database?",
+      "examination": "direct"
     },
     {
       "id": 256,
@@ -1817,10 +1841,11 @@
     },
     {
       "id": 257,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Were all these exhumation sites relevant to the indictment against the accused?"
+      "text": "Were all these exhumation sites relevant to the indictment against the accused?",
+      "examination": "direct"
     },
     {
       "id": 258,
@@ -1832,10 +1857,11 @@
     },
     {
       "id": 259,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "So those exhumations which haven't been relevant, did you exclude them or did you include them?"
+      "text": "So those exhumations which haven't been relevant, did you exclude them or did you include them?",
+      "examination": "direct"
     },
     {
       "id": 260,
@@ -1847,10 +1873,11 @@
     },
     {
       "id": 261,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I'm sorry. My question was whether you include them or exclude them."
+      "text": "I'm sorry. My question was whether you include them or exclude them.",
+      "examination": "direct"
     },
     {
       "id": 262,
@@ -1862,10 +1889,11 @@
     },
     {
       "id": 263,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And is it correct, as stated in your report on the page 8, that after you excluded all irrelevant exhumations, you concluded that 416 grave sites, graves, were found, and 2.019 -- which contains 2.019 bodies?"
+      "text": "And is it correct, as stated in your report on the page 8, that after you excluded all irrelevant exhumations, you concluded that 416 grave sites, graves, were found, and 2.019 -- which contains 2.019 bodies?",
+      "examination": "direct"
     },
     {
       "id": 264,
@@ -1877,10 +1905,11 @@
     },
     {
       "id": 265,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I would like to direct your attention to one place on page 8. It's Ribnik. Can you tell us why this place, Ribnik, which is municipality of Ribnik is listed in this chart?"
+      "text": "I would like to direct your attention to one place on page 8. It's Ribnik. Can you tell us why this place, Ribnik, which is municipality of Ribnik is listed in this chart?",
+      "examination": "direct"
     },
     {
       "id": 266,
@@ -1892,10 +1921,11 @@
     },
     {
       "id": 267,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. Now I would like to refer you to your annex 1, and you -- if you have it with you, and if the usher could place it on the ELMO. You already mentioned that exhumations were done either by Bosnian authorities or by the forensic team of the OTP. Is it correct?"
+      "text": "Thank you. Now I would like to refer you to your annex 1, and you -- if you have it with you, and if the usher could place it on the ELMO. You already mentioned that exhumations were done either by Bosnian authorities or by the forensic team of the OTP. Is it correct?",
+      "examination": "direct"
     },
     {
       "id": 268,
@@ -1907,10 +1937,11 @@
     },
     {
       "id": 269,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "This annex 1, you mention that these are just exhumations conducted by Bosnian authorities. Can you just briefly explain what we can see and what kind of information you put in this annex."
+      "text": "This annex 1, you mention that these are just exhumations conducted by Bosnian authorities. Can you just briefly explain what we can see and what kind of information you put in this annex.",
+      "examination": "direct"
     },
     {
       "id": 270,
@@ -1922,10 +1953,11 @@
     },
     {
       "id": 271,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "We can see the column --"
+      "text": "We can see the column --",
+      "examination": "direct"
     },
     {
       "id": 272,
@@ -1937,10 +1969,11 @@
     },
     {
       "id": 273,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "We can see the column MNI, which you translated like minimal number of individuals. Can you -- is it your abbreviation which you are using or is it abbreviation used by forensic?"
+      "text": "We can see the column MNI, which you translated like minimal number of individuals. Can you -- is it your abbreviation which you are using or is it abbreviation used by forensic?",
+      "examination": "direct"
     },
     {
       "id": 274,
@@ -1987,10 +2020,11 @@
     },
     {
       "id": 280,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "On this page 1, and if we go through the annex 1, we can see some rows which are in grey. What does it mean?"
+      "text": "On this page 1, and if we go through the annex 1, we can see some rows which are in grey. What does it mean?",
+      "examination": "direct"
     },
     {
       "id": 281,
@@ -2002,10 +2036,11 @@
     },
     {
       "id": 282,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Does it also mean that that exhumation relates to some other year than the year 1992?"
+      "text": "Does it also mean that that exhumation relates to some other year than the year 1992?",
+      "examination": "direct"
     },
     {
       "id": 283,
@@ -2017,10 +2052,11 @@
     },
     {
       "id": 284,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I will stay with this annex, but I have to ask you one question. Were you also tasked to find the link between particular exhumation and counts in the indictment, the crimes mentioned in the indictment?"
+      "text": "I will stay with this annex, but I have to ask you one question. Were you also tasked to find the link between particular exhumation and counts in the indictment, the crimes mentioned in the indictment?",
+      "examination": "direct"
     },
     {
       "id": 285,
@@ -2032,10 +2068,11 @@
     },
     {
       "id": 286,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And you prepared annex 9, which is some kind of key to the following annexes which starts on the page 0292792 -- 28. And when I was referring to annex 9, it is ERN number 02927926. Were you using the information which you obtained from these exhumation reports which you included in annex 1 in preparing the exhumations linked to incidents mentioned in the indictment?"
+      "text": "And you prepared annex 9, which is some kind of key to the following annexes which starts on the page 0292792 -- 28. And when I was referring to annex 9, it is ERN number 02927926. Were you using the information which you obtained from these exhumation reports which you included in annex 1 in preparing the exhumations linked to incidents mentioned in the indictment?",
+      "examination": "direct"
     },
     {
       "id": 287,
@@ -2068,10 +2105,11 @@
     },
     {
       "id": 291,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And in the second row, we have exhumation Hrustovo 9, Kasapnica, and we can see bodies, 18, MNI, 0. Can you just briefly explain the discrepancies in these two columns?"
+      "text": "And in the second row, we have exhumation Hrustovo 9, Kasapnica, and we can see bodies, 18, MNI, 0. Can you just briefly explain the discrepancies in these two columns?",
+      "examination": "direct"
     },
     {
       "id": 292,
@@ -2083,10 +2121,11 @@
     },
     {
       "id": 293,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "So you excluded these 18 bodies which were mentioned in the statement of the witness from the numbers -- the overall numbers of the body exhumed; is it correct?"
+      "text": "So you excluded these 18 bodies which were mentioned in the statement of the witness from the numbers -- the overall numbers of the body exhumed; is it correct?",
+      "examination": "direct"
     },
     {
       "id": 294,
@@ -2098,10 +2137,11 @@
     },
     {
       "id": 295,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And in this annex 1, are all the exhumations conducted by Bosnian authorities in the -- within the -- within the Autonomous Region of Krajina, which you were dealing in in your addendum and from which you concluded the numbers of sites is 416 and number of individuals is 2.019, as I already mentioned? Is it correct?"
+      "text": "And in this annex 1, are all the exhumations conducted by Bosnian authorities in the -- within the -- within the Autonomous Region of Krajina, which you were dealing in in your addendum and from which you concluded the numbers of sites is 416 and number of individuals is 2.019, as I already mentioned? Is it correct?",
+      "examination": "direct"
     },
     {
       "id": 296,
@@ -2113,10 +2153,11 @@
     },
     {
       "id": 297,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you."
+      "text": "Thank you.",
+      "examination": "direct"
     },
     {
       "id": 298,
@@ -2141,10 +2182,11 @@
     },
     {
       "id": 301,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "We know that the exhumations were conducted by the forensic team of the OTP. Can you tell us where these exhumations took place?"
+      "text": "We know that the exhumations were conducted by the forensic team of the OTP. Can you tell us where these exhumations took place?",
+      "examination": "direct"
     },
     {
       "id": 302,
@@ -2156,10 +2198,11 @@
     },
     {
       "id": 303,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And from your report on page 9, the conclusion is that from these three sites, 193 individuals were exhumed, plus 99 body parts. We will see later under which conditions these exhumations were conducted and why we are mentioning these body parts. Maybe, just to assist the Judges, I would like to show you all the map of exhumation sites so you have idea where these exhumations took place."
+      "text": "And from your report on page 9, the conclusion is that from these three sites, 193 individuals were exhumed, plus 99 body parts. We will see later under which conditions these exhumations were conducted and why we are mentioning these body parts. Maybe, just to assist the Judges, I would like to show you all the map of exhumation sites so you have idea where these exhumations took place.",
+      "examination": "direct"
     },
     {
       "id": 304,
@@ -2191,10 +2234,11 @@
     },
     {
       "id": 308,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Can you assist us and explain what we can see on these maps -- on this map?"
+      "text": "Can you assist us and explain what we can see on these maps -- on this map?",
+      "examination": "direct"
     },
     {
       "id": 309,
@@ -2206,10 +2250,11 @@
     },
     {
       "id": 310,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "We can see clearly on this map the locations, and we can conclude that in certain municipalities was great amount of exhumations and in some municipalities there weren't any or just a few. Can you tell us, from your experience, and also based on this map, in which municipalities there were most exhumations?"
+      "text": "We can see clearly on this map the locations, and we can conclude that in certain municipalities was great amount of exhumations and in some municipalities there weren't any or just a few. Can you tell us, from your experience, and also based on this map, in which municipalities there were most exhumations?",
+      "examination": "direct"
     },
     {
       "id": 311,
@@ -2221,10 +2266,11 @@
     },
     {
       "id": 312,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "We can see also in Bosanska Krupa there is a sign for a site called Jama Lisac. Can you tell us where the bodies came from in Jama Lisac?"
+      "text": "We can see also in Bosanska Krupa there is a sign for a site called Jama Lisac. Can you tell us where the bodies came from in Jama Lisac?",
+      "examination": "direct"
     },
     {
       "id": 313,
@@ -2285,10 +2331,11 @@
     },
     {
       "id": 321,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Do you remember their names?"
+      "text": "Do you remember their names?",
+      "examination": "direct"
     },
     {
       "id": 322,
@@ -2300,10 +2347,11 @@
     },
     {
       "id": 323,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And is it correct that you testified in details about this exhumation site in Jama Lisac during the Stakic case?"
+      "text": "And is it correct that you testified in details about this exhumation site in Jama Lisac during the Stakic case?",
+      "examination": "direct"
     },
     {
       "id": 324,
@@ -2315,10 +2363,11 @@
     },
     {
       "id": 325,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And another location which was conducted together with -- which were conducted by Bosnian authorities together with OTP forensic team was Jakarina Kosa; is it correct?"
+      "text": "And another location which was conducted together with -- which were conducted by Bosnian authorities together with OTP forensic team was Jakarina Kosa; is it correct?",
+      "examination": "direct"
     },
     {
       "id": 326,
@@ -2365,10 +2414,11 @@
     },
     {
       "id": 332,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "So, Mr. Sebire, if you could place it on the ELMO -- no, on the other side. And always briefly tell us what we can see and what you know about this exhumation site. My first question is: Were you present during this exhumation?"
+      "text": "So, Mr. Sebire, if you could place it on the ELMO -- no, on the other side. And always briefly tell us what we can see and what you know about this exhumation site. My first question is: Were you present during this exhumation?",
+      "examination": "direct"
     },
     {
       "id": 333,
@@ -2380,10 +2430,11 @@
     },
     {
       "id": 334,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "So you can elaborate, please, on the photographs which are in front of you and assist the Judges with the atmosphere, with the findings during this exhumation in Jakarina Kosa. So on the photograph 0212-9892, what can we see?"
+      "text": "So you can elaborate, please, on the photographs which are in front of you and assist the Judges with the atmosphere, with the findings during this exhumation in Jakarina Kosa. So on the photograph 0212-9892, what can we see?",
+      "examination": "direct"
     },
     {
       "id": 335,
@@ -2430,10 +2481,11 @@
     },
     {
       "id": 341,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Just say the ERN numbers, nothing more. Just say these four ERN numbers of the photographs you went through."
+      "text": "Just say the ERN numbers, nothing more. Just say these four ERN numbers of the photographs you went through.",
+      "examination": "direct"
     },
     {
       "id": 342,
@@ -2445,10 +2497,11 @@
     },
     {
       "id": 343,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. And if we can place the fifth photograph. And again, can you please state the ERN number of this photograph."
+      "text": "Thank you. And if we can place the fifth photograph. And again, can you please state the ERN number of this photograph.",
+      "examination": "direct"
     },
     {
       "id": 344,
@@ -2460,10 +2513,11 @@
     },
     {
       "id": 345,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "You mentioned that these holes were -- most probably from explosions. Did you find any explosions on the site?"
+      "text": "You mentioned that these holes were -- most probably from explosions. Did you find any explosions on the site?",
+      "examination": "direct"
     },
     {
       "id": 346,
@@ -2475,10 +2529,11 @@
     },
     {
       "id": 347,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And all these details are in your report; is it correct?"
+      "text": "And all these details are in your report; is it correct?",
+      "examination": "direct"
     },
     {
       "id": 348,
@@ -2490,10 +2545,11 @@
     },
     {
       "id": 349,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Can we please proceed with the photographs. And again, can you start with the ERN number and then indication what we can see on this photograph."
+      "text": "Can we please proceed with the photographs. And again, can you start with the ERN number and then indication what we can see on this photograph.",
+      "examination": "direct"
     },
     {
       "id": 350,
@@ -2505,10 +2561,11 @@
     },
     {
       "id": 351,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Next photograph, please. It is photograph 0212-9983?"
+      "text": "Next photograph, please. It is photograph 0212-9983?",
+      "examination": "direct"
     },
     {
       "id": 352,
@@ -2526,10 +2583,11 @@
     },
     {
       "id": 354,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "So can you give us explanation as to this photograph?"
+      "text": "So can you give us explanation as to this photograph?",
+      "examination": "direct"
     },
     {
       "id": 355,
@@ -2541,10 +2599,11 @@
     },
     {
       "id": 356,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "When you mention a primary site, and in your statement you are talking about primary and secondary, can you explain, please, what does it mean?"
+      "text": "When you mention a primary site, and in your statement you are talking about primary and secondary, can you explain, please, what does it mean?",
+      "examination": "direct"
     },
     {
       "id": 357,
@@ -2556,10 +2615,11 @@
     },
     {
       "id": 358,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Were there any other indications that this Jakarina Kosa, that it was secondary exhumation site or secondary burial site?"
+      "text": "Were there any other indications that this Jakarina Kosa, that it was secondary exhumation site or secondary burial site?",
+      "examination": "direct"
     },
     {
       "id": 359,
@@ -2571,10 +2631,11 @@
     },
     {
       "id": 360,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, Mr. Sebire. Before we proceed with probably two more pictures which you have in front of you, I would like to refer Your Honours to annex 7, which is links between incidents and exhumations for Prijedor. It is 02927917. And you can see that Jakarina Kosa is mentioned for several incidents, or better say the bodies or people who were victims of these crimes in different places were identified in the grave called Jakarina Kosa. Can we please proceed with the photographs. And again, can you please read the ERN number, please."
+      "text": "Thank you, Mr. Sebire. Before we proceed with probably two more pictures which you have in front of you, I would like to refer Your Honours to annex 7, which is links between incidents and exhumations for Prijedor. It is 02927917. And you can see that Jakarina Kosa is mentioned for several incidents, or better say the bodies or people who were victims of these crimes in different places were identified in the grave called Jakarina Kosa. Can we please proceed with the photographs. And again, can you please read the ERN number, please.",
+      "examination": "direct"
     },
     {
       "id": 361,
@@ -2586,10 +2647,11 @@
     },
     {
       "id": 362,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "From this photograph, we have some idea, but because you were present, can you tell us in which condition were the bodies found in this site?"
+      "text": "From this photograph, we have some idea, but because you were present, can you tell us in which condition were the bodies found in this site?",
+      "examination": "direct"
     },
     {
       "id": 363,
@@ -2601,10 +2663,11 @@
     },
     {
       "id": 364,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Yes. And I want to ask -- because these bodies were in such a bad condition, how someone would be able to identify these bodies?"
+      "text": "Yes. And I want to ask -- because these bodies were in such a bad condition, how someone would be able to identify these bodies?",
+      "examination": "direct"
     },
     {
       "id": 365,
@@ -2616,10 +2679,11 @@
     },
     {
       "id": 366,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "[Previous interpretation continues] ... on your desk. If we can have a look at this."
+      "text": "[Previous interpretation continues] ... on your desk. If we can have a look at this.",
+      "examination": "direct"
     },
     {
       "id": 367,
@@ -2631,10 +2695,11 @@
     },
     {
       "id": 368,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And what can we see on this photograph?"
+      "text": "And what can we see on this photograph?",
+      "examination": "direct"
     },
     {
       "id": 369,
@@ -2646,10 +2711,11 @@
     },
     {
       "id": 370,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And as I said, you were in details talking about this mass grave in your report for Prijedor, dated 28th of August, 2002, and in Stakic testimony. But you mentioned that you managed to recover some identity cards. I would like to show you three more photographs. I'm done with these photographs. Maybe we can -- I'm sorry. No. We can have a look at this last photograph?"
+      "text": "And as I said, you were in details talking about this mass grave in your report for Prijedor, dated 28th of August, 2002, and in Stakic testimony. But you mentioned that you managed to recover some identity cards. I would like to show you three more photographs. I'm done with these photographs. Maybe we can -- I'm sorry. No. We can have a look at this last photograph?",
+      "examination": "direct"
     },
     {
       "id": 371,
@@ -2681,10 +2747,11 @@
     },
     {
       "id": 375,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Can you please read the ERN number."
+      "text": "Can you please read the ERN number.",
+      "examination": "direct"
     },
     {
       "id": 376,
@@ -2696,10 +2763,11 @@
     },
     {
       "id": 377,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. I would like to show you this document. It is identification card. And we can --"
+      "text": "Thank you. I would like to show you this document. It is identification card. And we can --",
+      "examination": "direct"
     },
     {
       "id": 378,
@@ -2717,10 +2785,11 @@
     },
     {
       "id": 380,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "We can also find this identification card on the CD already mentioned. Maybe you can -- can you read the ERN number from this?"
+      "text": "We can also find this identification card on the CD already mentioned. Maybe you can -- can you read the ERN number from this?",
+      "examination": "direct"
     },
     {
       "id": 381,
@@ -2732,10 +2801,11 @@
     },
     {
       "id": 382,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And can you please read for us who --"
+      "text": "And can you please read for us who --",
+      "examination": "direct"
     },
     {
       "id": 383,
@@ -2767,10 +2837,11 @@
     },
     {
       "id": 387,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Can I just briefly show you another photograph. This is photograph from the morgue."
+      "text": "Can I just briefly show you another photograph. This is photograph from the morgue.",
+      "examination": "direct"
     },
     {
       "id": 388,
@@ -2782,10 +2853,11 @@
     },
     {
       "id": 389,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, I don't want to go into details in respect to this skeleton, but did you -- I'm sorry, was the body identified based on the DNA?"
+      "text": "Mr. Sebire, I don't want to go into details in respect to this skeleton, but did you -- I'm sorry, was the body identified based on the DNA?",
+      "examination": "direct"
     },
     {
       "id": 390,
@@ -2797,10 +2869,11 @@
     },
     {
       "id": 391,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And was this body identified as Husein Fijkic, as is the name of this identification card?"
+      "text": "And was this body identified as Husein Fijkic, as is the name of this identification card?",
+      "examination": "direct"
     },
     {
       "id": 392,
@@ -2812,10 +2885,11 @@
     },
     {
       "id": 393,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And I would like to show you the last photograph, and I want to show Your Honours -- this is the person we are dealing with, a human being. So this is the person who was identified as one of the bodies in Jakarina Kosa. From whom did we obtain -- the OTP obtain this photograph?"
+      "text": "And I would like to show you the last photograph, and I want to show Your Honours -- this is the person we are dealing with, a human being. So this is the person who was identified as one of the bodies in Jakarina Kosa. From whom did we obtain -- the OTP obtain this photograph?",
+      "examination": "direct"
     },
     {
       "id": 394,
@@ -2827,10 +2901,11 @@
     },
     {
       "id": 395,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. I am done with Jakarina Kosa. I have another photographs. I would like to show the witness only two, because I think Your Honours have some idea. But at the same time, I would like to tender into evidence another CDs. We just got them."
+      "text": "Thank you. I am done with Jakarina Kosa. I have another photographs. I would like to show the witness only two, because I think Your Honours have some idea. But at the same time, I would like to tender into evidence another CDs. We just got them.",
+      "examination": "direct"
     },
     {
       "id": 396,
@@ -2890,10 +2965,11 @@
     },
     {
       "id": 404,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire --"
+      "text": "Mr. Sebire --",
+      "examination": "direct"
     },
     {
       "id": 405,
@@ -2911,10 +2987,11 @@
     },
     {
       "id": 407,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, Redak, it's another exhumation conducted by primarily forensic team of the OTP; is it correct?"
+      "text": "Mr. Sebire, Redak, it's another exhumation conducted by primarily forensic team of the OTP; is it correct?",
+      "examination": "direct"
     },
     {
       "id": 408,
@@ -2926,10 +3003,11 @@
     },
     {
       "id": 409,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I want to show you this photograph. Did you -- were you present during this exhumation?"
+      "text": "I want to show you this photograph. Did you -- were you present during this exhumation?",
+      "examination": "direct"
     },
     {
       "id": 410,
@@ -2941,10 +3019,11 @@
     },
     {
       "id": 411,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And can you -- yes, please. Can you describe what we can see on this photograph."
+      "text": "And can you -- yes, please. Can you describe what we can see on this photograph.",
+      "examination": "direct"
     },
     {
       "id": 412,
@@ -2956,10 +3035,11 @@
     },
     {
       "id": 413,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell us where Redak is located, in which municipality?"
+      "text": "Can you tell us where Redak is located, in which municipality?",
+      "examination": "direct"
     },
     {
       "id": 414,
@@ -2971,10 +3051,11 @@
     },
     {
       "id": 415,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And Jakarina Kosa, where Jakarina Kosa is located?"
+      "text": "And Jakarina Kosa, where Jakarina Kosa is located?",
+      "examination": "direct"
     },
     {
       "id": 416,
@@ -2986,10 +3067,11 @@
     },
     {
       "id": 417,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I would like to show you another picture, and because you were present, you can tell us in which state were bodies found in this location."
+      "text": "I would like to show you another picture, and because you were present, you can tell us in which state were bodies found in this location.",
+      "examination": "direct"
     },
     {
       "id": 418,
@@ -3001,10 +3083,11 @@
     },
     {
       "id": 419,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And again, you described in details the findings from this exhumation site in your report for Prijedor and during the testimony in the Stakic case; is it correct?"
+      "text": "And again, you described in details the findings from this exhumation site in your report for Prijedor and during the testimony in the Stakic case; is it correct?",
+      "examination": "direct"
     },
     {
       "id": 420,
@@ -3016,10 +3099,11 @@
     },
     {
       "id": 421,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I would like to show only one photograph which can clearly demonstrate one kind of injury."
+      "text": "I would like to show only one photograph which can clearly demonstrate one kind of injury.",
+      "examination": "direct"
     },
     {
       "id": 422,
@@ -3031,10 +3115,11 @@
     },
     {
       "id": 423,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And what can we see on this photograph?"
+      "text": "And what can we see on this photograph?",
+      "examination": "direct"
     },
     {
       "id": 424,
@@ -3046,17 +3131,19 @@
     },
     {
       "id": 425,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. I am done with this part of your testimony. We were talking about the exhumations done by Bosnian authorities together with OTP forensic team and exhumation done exclusively by the OTP forensic team. I would like to deal with exhumation done by Bosnian authorities, and I would like you and Your Honours refer to these annexes which relates to links between exhumations and crimes. And if we could go to the page -- or ERN number 02927939. It is -- it relates to the killing of number of men at Vrhpolje bridge and on the way towards the Vrhpolje bridge. We already heard evidence with respect to these killings, and we also exhibited a number of documents. I would only like to present a few more documents. So the Court has the full picture of the exhumations conducted by the Bosnian authorities. I have copies of sketches from the Vrhpolje bridge. I will provide the Judges with the relevant documents, please. And you can see these materials on your exhibit list under number 9 as sketches from the exhumation in Vrhpolje 1, 2, 3, with relevant ERN numbers starting with 00491618 until 1619, et cetera. And also -- and I would like to tender these sketches into evidence. This will be -- because we have four sketches. I would suggest to mark the sketches P2012.1, .2, .3, .4, in the order as it is stated in the exhibit list. You don't need to place it on the ELMO. I just want Mr. Sebire to make a comment on these documents."
+      "text": "Thank you. I am done with this part of your testimony. We were talking about the exhumations done by Bosnian authorities together with OTP forensic team and exhumation done exclusively by the OTP forensic team. I would like to deal with exhumation done by Bosnian authorities, and I would like you and Your Honours refer to these annexes which relates to links between exhumations and crimes. And if we could go to the page -- or ERN number 02927939. It is -- it relates to the killing of number of men at Vrhpolje bridge and on the way towards the Vrhpolje bridge. We already heard evidence with respect to these killings, and we also exhibited a number of documents. I would only like to present a few more documents. So the Court has the full picture of the exhumations conducted by the Bosnian authorities. I have copies of sketches from the Vrhpolje bridge. I will provide the Judges with the relevant documents, please. And you can see these materials on your exhibit list under number 9 as sketches from the exhumation in Vrhpolje 1, 2, 3, with relevant ERN numbers starting with 00491618 until 1619, et cetera. And also -- and I would like to tender these sketches into evidence. This will be -- because we have four sketches. I would suggest to mark the sketches P2012.1, .2, .3, .4, in the order as it is stated in the exhibit list. You don't need to place it on the ELMO. I just want Mr. Sebire to make a comment on these documents.",
+      "examination": "direct"
     },
     {
       "id": 426,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Just very briefly: Are you aware that we received exhumation documents, or documents with respect to exhumations in Vrhpolje?"
+      "text": "Just very briefly: Are you aware that we received exhumation documents, or documents with respect to exhumations in Vrhpolje?",
+      "examination": "direct"
     },
     {
       "id": 427,
@@ -3068,10 +3155,11 @@
     },
     {
       "id": 428,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And when you were preparing this link between exhumations and this crime, did you review all the documents you identified in your database, or how did you proceed?"
+      "text": "And when you were preparing this link between exhumations and this crime, did you review all the documents you identified in your database, or how did you proceed?",
+      "examination": "direct"
     },
     {
       "id": 429,
@@ -3083,10 +3171,11 @@
     },
     {
       "id": 430,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And during the preparation of this annex, of this particular annex or the other annexes, did you work with all the materials which were identified within the OTP?"
+      "text": "And during the preparation of this annex, of this particular annex or the other annexes, did you work with all the materials which were identified within the OTP?",
+      "examination": "direct"
     },
     {
       "id": 431,
@@ -3098,10 +3187,11 @@
     },
     {
       "id": 432,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And from your annex, we can see that the exhumation report, an autopsy report were already exhibited, and these exhibits are marked in the annex. I would like to show you a few photographs from this exhumation site."
+      "text": "And from your annex, we can see that the exhumation report, an autopsy report were already exhibited, and these exhibits are marked in the annex. I would like to show you a few photographs from this exhumation site.",
+      "examination": "direct"
     },
     {
       "id": 433,
@@ -3126,10 +3216,11 @@
     },
     {
       "id": 436,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And if you could look up the ERN number 00438102-A -- I'm sorry. 03, 8103. It's page 2. And please place it on the ELMO so we all can see it. And again, my question is: Were you present during the exhumation?"
+      "text": "And if you could look up the ERN number 00438102-A -- I'm sorry. 03, 8103. It's page 2. And please place it on the ELMO so we all can see it. And again, my question is: Were you present during the exhumation?",
+      "examination": "direct"
     },
     {
       "id": 437,
@@ -3141,10 +3232,11 @@
     },
     {
       "id": 438,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And did you visit this place any time later after the exhumation took place?"
+      "text": "And did you visit this place any time later after the exhumation took place?",
+      "examination": "direct"
     },
     {
       "id": 439,
@@ -3156,10 +3248,11 @@
     },
     {
       "id": 440,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "So on this picture are the remains of the bridge and the time when you were there the bridge was already rebuilt. And can you show us at this photograph where is the grave site?"
+      "text": "So on this picture are the remains of the bridge and the time when you were there the bridge was already rebuilt. And can you show us at this photograph where is the grave site?",
+      "examination": "direct"
     },
     {
       "id": 441,
@@ -3171,10 +3264,11 @@
     },
     {
       "id": 442,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And because you say \"first pit,\" and we also heard Vrhpolje 1 until 3. Were there more graves?"
+      "text": "And because you say \"first pit,\" and we also heard Vrhpolje 1 until 3. Were there more graves?",
+      "examination": "direct"
     },
     {
       "id": 443,
@@ -3186,10 +3280,11 @@
     },
     {
       "id": 444,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And now if I can direct you to the page 26."
+      "text": "And now if I can direct you to the page 26.",
+      "examination": "direct"
     },
     {
       "id": 445,
@@ -3214,10 +3309,11 @@
     },
     {
       "id": 448,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And again --"
+      "text": "And again --",
+      "examination": "direct"
     },
     {
       "id": 449,
@@ -3249,10 +3345,11 @@
     },
     {
       "id": 453,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know when this exhumation took place?"
+      "text": "Do you know when this exhumation took place?",
+      "examination": "direct"
     },
     {
       "id": 454,
@@ -3270,10 +3367,11 @@
     },
     {
       "id": 456,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And if I can help you, I am just reading now from your annex, and it says that in 1996 Bosnian authorities exhume 28 bodies from three grave sites. Is it correct?"
+      "text": "And if I can help you, I am just reading now from your annex, and it says that in 1996 Bosnian authorities exhume 28 bodies from three grave sites. Is it correct?",
+      "examination": "direct"
     },
     {
       "id": 457,
@@ -3291,10 +3389,11 @@
     },
     {
       "id": 459,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I think you cannot make any more comments to these pictures, because they are self-explanatory, and I am done with these pictures."
+      "text": "I think you cannot make any more comments to these pictures, because they are self-explanatory, and I am done with these pictures.",
+      "examination": "direct"
     },
     {
       "id": 460,
@@ -3312,10 +3411,11 @@
     },
     {
       "id": 462,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, I also want to show you one document."
+      "text": "Mr. Sebire, I also want to show you one document.",
+      "examination": "direct"
     },
     {
       "id": 463,
@@ -3340,10 +3440,11 @@
     },
     {
       "id": 466,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, you mentioned this document in your report, or better say in the annex. It is dated 10 of July, 1992. It means only less than two months after the incident itself."
+      "text": "Mr. Sebire, you mentioned this document in your report, or better say in the annex. It is dated 10 of July, 1992. It means only less than two months after the incident itself.",
+      "examination": "direct"
     },
     {
       "id": 467,
@@ -3355,10 +3456,11 @@
     },
     {
       "id": 468,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Did you compare this document with the exhumation reports done by the Bosnian authorities in the year 1996?"
+      "text": "Did you compare this document with the exhumation reports done by the Bosnian authorities in the year 1996?",
+      "examination": "direct"
     },
     {
       "id": 469,
@@ -3370,10 +3472,11 @@
     },
     {
       "id": 470,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And the bodies which were identified by this document are the same or are similar which were identified during -- in due course of identification process done by Bosnian authorities; is it correct?"
+      "text": "And the bodies which were identified by this document are the same or are similar which were identified during -- in due course of identification process done by Bosnian authorities; is it correct?",
+      "examination": "direct"
     },
     {
       "id": 471,
@@ -3413,10 +3516,11 @@
     },
     {
       "id": 476,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Now I would like to go to Banja Luka, which is the second document in the annex. The ERN number is 02927929. In this document, you refer to deaths of Esad Bender and Omer Filipovic. During your investigation and analysing the documents, what material did you find?"
+      "text": "Now I would like to go to Banja Luka, which is the second document in the annex. The ERN number is 02927929. In this document, you refer to deaths of Esad Bender and Omer Filipovic. During your investigation and analysing the documents, what material did you find?",
+      "examination": "direct"
     },
     {
       "id": 477,
@@ -3428,10 +3532,11 @@
     },
     {
       "id": 478,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "We have these autopsy reports here, and I would like to tender them into evidence, and together with death certificate of Omer Filipovic and Esad Bender. The autopsy report is translated, unfortunately [sic]. We have requested translation of these death certificates, but we do not have translation yet. So I believe we will be able to hand over these translations next week. And again to be specific, the reports on the autopsy of the body of Esad Bender and Omer Filipovic, it's document 0229-0926 until 09 -- 8926 to 8931. And I want to tender it into evidence under P2015."
+      "text": "We have these autopsy reports here, and I would like to tender them into evidence, and together with death certificate of Omer Filipovic and Esad Bender. The autopsy report is translated, unfortunately [sic]. We have requested translation of these death certificates, but we do not have translation yet. So I believe we will be able to hand over these translations next week. And again to be specific, the reports on the autopsy of the body of Esad Bender and Omer Filipovic, it's document 0229-0926 until 09 -- 8926 to 8931. And I want to tender it into evidence under P2015.",
+      "examination": "direct"
     },
     {
       "id": 479,
@@ -3547,10 +3652,11 @@
     },
     {
       "id": 495,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "This is -- you collected information in respect of killings of number of men in the mosque in Hanifici on or about 15th of August. We haven't heard evidence on this incident, because it was in Kotor Varos, but we have a statement, and we also have documents. And we can provide the Judges and the Defence with exhumation report. And again, I have to apologise, because we had -- this was done on very short notice. The translation has not been finished yet, but it will be next week. And I am referring to -- I'm referring to the point 10. And we will see a video, and we also have an exhumation report which is 0094-0954 until 0962. It's only in B/C/S, it will be translated. And the exhibit number would be P2018. And first --"
+      "text": "This is -- you collected information in respect of killings of number of men in the mosque in Hanifici on or about 15th of August. We haven't heard evidence on this incident, because it was in Kotor Varos, but we have a statement, and we also have documents. And we can provide the Judges and the Defence with exhumation report. And again, I have to apologise, because we had -- this was done on very short notice. The translation has not been finished yet, but it will be next week. And I am referring to -- I'm referring to the point 10. And we will see a video, and we also have an exhumation report which is 0094-0954 until 0962. It's only in B/C/S, it will be translated. And the exhibit number would be P2018. And first --",
+      "examination": "direct"
     },
     {
       "id": 496,
@@ -3568,10 +3674,11 @@
     },
     {
       "id": 498,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire --"
+      "text": "Mr. Sebire --",
+      "examination": "direct"
     },
     {
       "id": 499,
@@ -3596,10 +3703,11 @@
     },
     {
       "id": 502,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, were you present during this exhumation?"
+      "text": "Mr. Sebire, were you present during this exhumation?",
+      "examination": "direct"
     },
     {
       "id": 503,
@@ -3611,10 +3719,11 @@
     },
     {
       "id": 504,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Did you visit it -- did you visit this place any time later?"
+      "text": "Did you visit it -- did you visit this place any time later?",
+      "examination": "direct"
     },
     {
       "id": 505,
@@ -3626,10 +3735,11 @@
     },
     {
       "id": 506,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And did you see this video before?"
+      "text": "And did you see this video before?",
+      "examination": "direct"
     },
     {
       "id": 507,
@@ -3641,10 +3751,11 @@
     },
     {
       "id": 508,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And based on your knowledge, personal knowledge of the site, can you make comments what we can see on this video?"
+      "text": "And based on your knowledge, personal knowledge of the site, can you make comments what we can see on this video?",
+      "examination": "direct"
     },
     {
       "id": 509,
@@ -3656,10 +3767,11 @@
     },
     {
       "id": 510,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And last question: We received this exhumation report, which is also mentioned in your annex KV 2, and together with this exhumation report, we received also this video; is it correct?"
+      "text": "And last question: We received this exhumation report, which is also mentioned in your annex KV 2, and together with this exhumation report, we received also this video; is it correct?",
+      "examination": "direct"
     },
     {
       "id": 511,
@@ -3671,10 +3783,11 @@
     },
     {
       "id": 512,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And when you went through this video, does it contain just the site in Hanifici or just some other sites?"
+      "text": "And when you went through this video, does it contain just the site in Hanifici or just some other sites?",
+      "examination": "direct"
     },
     {
       "id": 513,
@@ -3686,10 +3799,11 @@
     },
     {
       "id": 514,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know which other municipality?"
+      "text": "Do you know which other municipality?",
+      "examination": "direct"
     },
     {
       "id": 515,
@@ -3701,10 +3815,11 @@
     },
     {
       "id": 516,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. Now we can play --"
+      "text": "Thank you. Now we can play --",
+      "examination": "direct"
     },
     {
       "id": 517,
@@ -3722,17 +3837,19 @@
     },
     {
       "id": 519,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "If you can comment on what you -- on what we can see, and in the moment you want to pause, please let us know. So we can start playing."
+      "text": "If you can comment on what you -- on what we can see, and in the moment you want to pause, please let us know. So we can start playing.",
+      "examination": "direct"
     },
     {
       "id": 520,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "So what can we see now?"
+      "text": "So what can we see now?",
+      "examination": "direct"
     },
     {
       "id": 521,
@@ -3744,10 +3861,11 @@
     },
     {
       "id": 522,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Unfortunately, we cannot fast forward, but it will be really a short part of this -- can we pause now. Yes. What can we see now?"
+      "text": "Unfortunately, we cannot fast forward, but it will be really a short part of this -- can we pause now. Yes. What can we see now?",
+      "examination": "direct"
     },
     {
       "id": 523,
@@ -3759,10 +3877,11 @@
     },
     {
       "id": 524,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "We can play. Do you know where the location of the grave was in connection to this mosque?"
+      "text": "We can play. Do you know where the location of the grave was in connection to this mosque?",
+      "examination": "direct"
     },
     {
       "id": 525,
@@ -3774,10 +3893,11 @@
     },
     {
       "id": 526,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And again we can see the mosque."
+      "text": "And again we can see the mosque.",
+      "examination": "direct"
     },
     {
       "id": 527,
@@ -3789,10 +3909,11 @@
     },
     {
       "id": 528,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And in which condition -- what could you see inside of the mosque and outside of the mosque? In which condition the mosque was?"
+      "text": "And in which condition -- what could you see inside of the mosque and outside of the mosque? In which condition the mosque was?",
+      "examination": "direct"
     },
     {
       "id": 529,
@@ -3831,10 +3952,11 @@
     },
     {
       "id": 534,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, during the preparation of this report, you stated that you read the statements and the transcripts of the witnesses who have testified or who will be -- who will testify. What did you learn in respect to this incident? And just briefly."
+      "text": "Mr. Sebire, during the preparation of this report, you stated that you read the statements and the transcripts of the witnesses who have testified or who will be -- who will testify. What did you learn in respect to this incident? And just briefly.",
+      "examination": "direct"
     },
     {
       "id": 535,
@@ -3846,10 +3968,11 @@
     },
     {
       "id": 536,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Yes."
+      "text": "Yes.",
+      "examination": "direct"
     },
     {
       "id": 537,
@@ -3861,10 +3984,11 @@
     },
     {
       "id": 538,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. When you saw the interior of the mosque in 2000, was it burned?"
+      "text": "Thank you. When you saw the interior of the mosque in 2000, was it burned?",
+      "examination": "direct"
     },
     {
       "id": 539,
@@ -3890,10 +4014,11 @@
     },
     {
       "id": 542,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "So can you comment? Based on your knowledge from the exhumations, what we can see here."
+      "text": "So can you comment? Based on your knowledge from the exhumations, what we can see here.",
+      "examination": "direct"
     },
     {
       "id": 543,
@@ -3905,10 +4030,11 @@
     },
     {
       "id": 544,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And this number will follow the body until the mortuary and during the identification and autopsy of this body; is it correct?"
+      "text": "And this number will follow the body until the mortuary and during the identification and autopsy of this body; is it correct?",
+      "examination": "direct"
     },
     {
       "id": 545,
@@ -3934,10 +4060,11 @@
     },
     {
       "id": 548,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, as I said already at the beginning, in annex 9, with the following annexes for each municipality, which is under ERN number 02927928 until 02927990, you tried to establish the link between the exhumations and the crimes. And can you just briefly tell us the method, how you did it?"
+      "text": "Mr. Sebire, as I said already at the beginning, in annex 9, with the following annexes for each municipality, which is under ERN number 02927928 until 02927990, you tried to establish the link between the exhumations and the crimes. And can you just briefly tell us the method, how you did it?",
+      "examination": "direct"
     },
     {
       "id": 549,
@@ -4117,10 +4244,11 @@
     },
     {
       "id": 574,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, before I will move to my last part, talking about proof of deaths, I just want to refer you to the page 9 of your addendum. And if you could just very briefly summarise. This is figures for the indictment against the accused. So for how many bodies you managed to establish the link."
+      "text": "Mr. Sebire, before I will move to my last part, talking about proof of deaths, I just want to refer you to the page 9 of your addendum. And if you could just very briefly summarise. This is figures for the indictment against the accused. So for how many bodies you managed to establish the link.",
+      "examination": "direct"
     },
     {
       "id": 575,
@@ -4132,10 +4260,11 @@
     },
     {
       "id": 576,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And now I would like to move to another point, another part of your testimony, and it's proof of deaths. Now we covered the exhumations and database with respect to exhumations. And as we know from your previous testimony and from your report, the other database relates to the proof of death. Can you very briefly tell the Judges what is the purpose of this second database?"
+      "text": "And now I would like to move to another point, another part of your testimony, and it's proof of deaths. Now we covered the exhumations and database with respect to exhumations. And as we know from your previous testimony and from your report, the other database relates to the proof of death. Can you very briefly tell the Judges what is the purpose of this second database?",
+      "examination": "direct"
     },
     {
       "id": 577,
@@ -4168,10 +4297,11 @@
     },
     {
       "id": 581,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Can you -- and I also want to mention that in Stakic case, you were asked about the procedure. I just want to point out that one of our witnesses was talking about the procedure and about the law on administrative procedure declaring missing person dead and proof of deaths and it was exhibited under P779, just to complete this. Can you give us the general figures? And I want to refer you to the -- to page 5 of your addendum. And if you could just explain very briefly your findings."
+      "text": "Can you -- and I also want to mention that in Stakic case, you were asked about the procedure. I just want to point out that one of our witnesses was talking about the procedure and about the law on administrative procedure declaring missing person dead and proof of deaths and it was exhibited under P779, just to complete this. Can you give us the general figures? And I want to refer you to the -- to page 5 of your addendum. And if you could just explain very briefly your findings.",
+      "examination": "direct"
     },
     {
       "id": 582,
@@ -4183,10 +4313,11 @@
     },
     {
       "id": 583,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Were there any occasions when the person was later exhumed and identified?"
+      "text": "Were there any occasions when the person was later exhumed and identified?",
+      "examination": "direct"
     },
     {
       "id": 584,
@@ -4233,10 +4364,11 @@
     },
     {
       "id": 590,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Sebire, in -- on both these occasions, I mean when you were dealing with exhumation, as well as the proof of death, you were focusing on ethnicity of the bodies, gender, and the time when the person died. How did you analyse the findings, and which conclusion you reached based on the analytical work you did with all the information you received? And let's start with ethnicity of the victims. Based on which is indicated the ethnicity of the victims? And I'm referring you to page number 6 of your addendum, in which you mentioned this. But I want to point out that this was very in detail described in Stakic case. But in reference to Prijedor. So just briefly if you can tell us."
+      "text": "Mr. Sebire, in -- on both these occasions, I mean when you were dealing with exhumation, as well as the proof of death, you were focusing on ethnicity of the bodies, gender, and the time when the person died. How did you analyse the findings, and which conclusion you reached based on the analytical work you did with all the information you received? And let's start with ethnicity of the victims. Based on which is indicated the ethnicity of the victims? And I'm referring you to page number 6 of your addendum, in which you mentioned this. But I want to point out that this was very in detail described in Stakic case. But in reference to Prijedor. So just briefly if you can tell us.",
+      "examination": "direct"
     },
     {
       "id": 591,
@@ -4262,10 +4394,11 @@
     },
     {
       "id": 594,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And how did you proceed with bodies which weren't identified but, let's say, found in one grave with bodies which were identified? Did you exclude them or did you put them into a category unknown ethnicity, or did you draw some conclusion, some other conclusion?"
+      "text": "And how did you proceed with bodies which weren't identified but, let's say, found in one grave with bodies which were identified? Did you exclude them or did you put them into a category unknown ethnicity, or did you draw some conclusion, some other conclusion?",
+      "examination": "direct"
     },
     {
       "id": 595,
@@ -4277,10 +4410,11 @@
     },
     {
       "id": 596,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And if we want to talk about the time of deaths, whether the person was killed or went missing in 1992, what information did you use?"
+      "text": "And if we want to talk about the time of deaths, whether the person was killed or went missing in 1992, what information did you use?",
+      "examination": "direct"
     },
     {
       "id": 597,
@@ -4292,10 +4426,11 @@
     },
     {
       "id": 598,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Before I will ask you my last question to summarise your findings, I want to ask you something about these proof of death rulings. These rulings, the amount of them, is it the final amount or is --"
+      "text": "Before I will ask you my last question to summarise your findings, I want to ask you something about these proof of death rulings. These rulings, the amount of them, is it the final amount or is --",
+      "examination": "direct"
     },
     {
       "id": 599,
@@ -4306,10 +4441,11 @@
     },
     {
       "id": 600,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "-- ongoing process?"
+      "text": "-- ongoing process?",
+      "examination": "direct"
     },
     {
       "id": 601,
@@ -4321,10 +4457,11 @@
     },
     {
       "id": 602,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And what about if any member of the family survived or is not living within the jurisdiction of these two courts?"
+      "text": "And what about if any member of the family survived or is not living within the jurisdiction of these two courts?",
+      "examination": "direct"
     },
     {
       "id": 603,
@@ -4336,10 +4473,11 @@
     },
     {
       "id": 604,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I'm sorry. I don't know whether again it was correctly translated. The first sentence is: Well, obviously, if some members of family have survived, then no application were made to the courts. But my question was if members of family didn't survive."
+      "text": "I'm sorry. I don't know whether again it was correctly translated. The first sentence is: Well, obviously, if some members of family have survived, then no application were made to the courts. But my question was if members of family didn't survive.",
+      "examination": "direct"
     },
     {
       "id": 605,
@@ -4371,10 +4509,11 @@
     },
     {
       "id": 609,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I have my final question, and it's only very briefly, if you could summarise the result of exhumations, proof of deaths, and total number of individuals which we proved to be either killed or went missing in the course of 1992, as stated in your report on page 11 and 12."
+      "text": "I have my final question, and it's only very briefly, if you could summarise the result of exhumations, proof of deaths, and total number of individuals which we proved to be either killed or went missing in the course of 1992, as stated in your report on page 11 and 12.",
+      "examination": "direct"
     },
     {
       "id": 610,
@@ -4393,10 +4532,11 @@
     },
     {
       "id": 612,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "So what is the correct number, correct figure?"
+      "text": "So what is the correct number, correct figure?",
+      "examination": "direct"
     },
     {
       "id": 613,
@@ -4408,10 +4548,11 @@
     },
     {
       "id": 614,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And when we add all the numbers, what would be the total number of individuals who were killed or went missing?"
+      "text": "And when we add all the numbers, what would be the total number of individuals who were killed or went missing?",
+      "examination": "direct"
     },
     {
       "id": 615,
@@ -4423,10 +4564,11 @@
     },
     {
       "id": 616,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "We had a slight problem towards the end of your testimony, but all these figures are clearly stated in the report. So I think I can say that I concluded my examination-in-chief."
+      "text": "We had a slight problem towards the end of your testimony, but all these figures are clearly stated in the report. So I think I can say that I concluded my examination-in-chief.",
+      "examination": "direct"
     },
     {
       "id": 617,
@@ -4698,6 +4840,10 @@
     {
       "after_utterance": 16,
       "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 20,
+      "text": "Examined by Ms. Richterova:"
     },
     {
       "after_utterance": 70,

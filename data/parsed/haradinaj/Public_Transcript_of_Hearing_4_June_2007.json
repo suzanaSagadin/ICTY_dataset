@@ -1,6 +1,6 @@
 {
   "case": "haradinaj",
-  "case_id": "IT-04-84-T",
+  "case_id": "IT-04-84",
   "date": "2007-06-04",
   "utterances": [
     {
@@ -9215,15 +9215,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you, Madam Registrar. Mr. Di Fazio. MR. DI FAZIO: Yes. Thank you. Re-examination by Mr. Di Fazio:"
+      "text": "Thank you, Madam Registrar. Mr. Di Fazio. MR. DI FAZIO: Yes. Thank you."
     },
     {
       "id": 1191,
-      "speaker": "MR. EMMERSON",
+      "speaker": "MR. DI",
       "role": "counsel",
       "type": "question",
       "text": "You were asked about the gentleman earlier today who was held in custody with you and beaten up, and you said that he was a Bosnian and that he worked for -- I just -- oh, yes. And you were asked by",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 1192,
@@ -9242,11 +9242,11 @@
     },
     {
       "id": 1194,
-      "speaker": "MR. EMMERSON",
+      "speaker": "MR. DI",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. Yes, thank you. And you also said in evidence today in answer to questions from Mr. Harvey this. You -- you were asked: \"You told us\" -- you were asked: \"Q. You told us yesterday you were never given any reason for why you were being beaten. Do you stand by that?\" You said -- you answered: \"No. \"Q. Did they never ask you any questions?\" And you answered: \"Yes, they did answer questions. They have told me, You have stayed in the company of Serbs because they themselves stayed with Serbs day and night and they accused me of staying with Serbs. I was a farmer.\" Now, I'm not interested in what you were in reality. I want to know what they were saying to you about you staying in the company of Serbs and who said that to you.",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 1195,
@@ -9258,11 +9258,11 @@
     },
     {
       "id": 1196,
-      "speaker": "MR. EMMERSON",
+      "speaker": "MR. DI",
       "role": "counsel",
       "type": "question",
       "text": "Okay. That's maybe what they did, but I want to know what the accusation against you was that was coming, as you say, from Nazmi and Lahi. What does it mean? Explain to the Trial Chamber so they can have an understanding of this. What does the accusation, You are staying with the Serbs, mean or at least how did you understand it?",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 1197,
@@ -9274,11 +9274,11 @@
     },
     {
       "id": 1198,
-      "speaker": "MR. EMMERSON",
+      "speaker": "MR. DI",
       "role": "counsel",
       "type": "question",
       "text": "Okay --",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 1199,
@@ -9290,11 +9290,11 @@
     },
     {
       "id": 1200,
-      "speaker": "MR. EMMERSON",
+      "speaker": "MR. DI",
       "role": "counsel",
       "type": "question",
       "text": "Okay. That might be so, but just concentrate on the question --",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 1201,
@@ -9354,11 +9354,11 @@
     },
     {
       "id": 1209,
-      "speaker": "MR. EMMERSON",
+      "speaker": "MR. DI",
       "role": "counsel",
       "type": "question",
       "text": "Witness, I'm not asking you if anything that they said about you is true or not. I'm not asking you that and you've told us already, and we've heard you loud and clear. Okay. So I'm not asking you about anything that they said to you is true. What I'm asking is simply this: The -- when it was said to you that you were staying with the Serbs - now, forget if it's true or not, I'm not interested - but what I want to know is: How did you understand that allegation? What is it that you were supposed to be doing? How did you understand that?",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 1210,
@@ -9370,11 +9370,11 @@
     },
     {
       "id": 1211,
-      "speaker": "MR. EMMERSON",
+      "speaker": "MR. DI",
       "role": "counsel",
       "type": "question",
       "text": "Okay. And what precisely did they say to you about you being a spy of Serbia? Can you recall any more detail?",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 1212,
@@ -9403,7 +9403,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Judge Hoepfel has one or more questions to you. Questioned by the Court:"
+      "text": "Judge Hoepfel has one or more questions to you."
     },
     {
       "id": 1216,
@@ -9534,11 +9534,11 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, please proceed. Further cross-examination by Mr. Harvey:"
+      "text": "Yes, please proceed."
     },
     {
       "id": 1234,
-      "speaker": "MR. EMMERSON",
+      "speaker": "MR. HARVEY",
       "role": "counsel",
       "type": "question",
       "text": "The question is this, Witness 6: As you sit here today you are very concerned that people back home in Kosovo should not think of you as a spy for Serbia. Isn't that correct?",
@@ -9554,7 +9554,7 @@
     },
     {
       "id": 1236,
-      "speaker": "MR. EMMERSON",
+      "speaker": "MR. HARVEY",
       "role": "counsel",
       "type": "question",
       "text": "And it is partly because of that motivation that you have told lies about Lahi Brahimaj in this court, isn't it?",
@@ -10328,8 +10328,20 @@
       "text": "[Open session]"
     },
     {
+      "after_utterance": 1190,
+      "text": "Re-examination by Mr. Di Fazio:"
+    },
+    {
       "after_utterance": 1214,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 1215,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 1233,
+      "text": "Further cross-examination by Mr. Harvey:"
     },
     {
       "after_utterance": 1245,

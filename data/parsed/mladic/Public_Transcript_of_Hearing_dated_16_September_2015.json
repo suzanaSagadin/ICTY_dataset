@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2015-09-16",
   "utterances": [
     {
@@ -881,7 +881,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, Judge Fluegge would have one or more questions for you. Questioned by the Court:"
+      "text": "Yes, Judge Fluegge would have one or more questions for you."
     },
     {
       "id": 116,
@@ -1273,15 +1273,15 @@
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
-      "text": "Very, very briefly. Further cross-examination by Mr. McCloskey:"
+      "text": "Very, very briefly."
     },
     {
       "id": 168,
-      "speaker": "MS. STOJANOVIC",
+      "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "question",
       "text": "Sir, you've described how conscientious you were and how important it was for you to tape these important things. Yet when the tape, as you say, runs out at 5.00, you kick back, have a cigarette, and it takes you a while to get back. So you missed quite a bit of -- of the party and General Mladic, I take it. Is that right?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 169,
@@ -1293,11 +1293,11 @@
     },
     {
       "id": 170,
-      "speaker": "MS. STOJANOVIC",
+      "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "question",
       "text": "Wasn't General Mladic at the restaurant when you -- when the tape stopped and you started smoking?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 171,
@@ -1309,11 +1309,11 @@
     },
     {
       "id": 172,
-      "speaker": "MS. STOJANOVIC",
+      "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "question",
       "text": "So you weren't taping from the time the tape stopped and the time that you got back from this shop with the -- with the tape. So you missed all of that good taping time; right?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 173,
@@ -1325,11 +1325,11 @@
     },
     {
       "id": 174,
-      "speaker": "MS. STOJANOVIC",
+      "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "question",
       "text": "It makes more sense, doesn't it, that you stopped the tape or the tape stopped after General Mladic left?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 175,
@@ -1623,8 +1623,16 @@
       "text": "[Trial Chamber confers]"
     },
     {
+      "after_utterance": 115,
+      "text": "Questioned by the Court:"
+    },
+    {
       "after_utterance": 156,
       "text": "Re-examination by Ms. Stojanovic:"
+    },
+    {
+      "after_utterance": 167,
+      "text": "Further cross-examination by Mr. McCloskey:"
     },
     {
       "after_utterance": 176,

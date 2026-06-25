@@ -1,6 +1,6 @@
 {
   "case": "milan_simic",
-  "case_id": "IT-95-9-T",
+  "case_id": "IT-95-9",
   "date": "2002-05-27",
   "utterances": [
     {
@@ -57,14 +57,15 @@
       "speaker": "JUDGE MUMBA",
       "role": "judge",
       "type": "statement",
-      "text": "Please sit down. Yes. The blinds can be lifted. Yes, the Prosecution can proceed. Examined by Mr. Weiner:"
+      "text": "Please sit down. Yes. The blinds can be lifted. Yes, the Prosecution can proceed."
     },
     {
       "id": 9,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Would you state your name for the record. Can you hear me?"
+      "text": "Would you state your name for the record. Can you hear me?",
+      "examination": "direct"
     },
     {
       "id": 10,
@@ -76,10 +77,11 @@
     },
     {
       "id": 11,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Can you hear me now?"
+      "text": "Can you hear me now?",
+      "examination": "direct"
     },
     {
       "id": 12,
@@ -91,10 +93,11 @@
     },
     {
       "id": 13,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Could you state your name, please."
+      "text": "Could you state your name, please.",
+      "examination": "direct"
     },
     {
       "id": 14,
@@ -106,10 +109,11 @@
     },
     {
       "id": 15,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And what is your date of birth?"
+      "text": "And what is your date of birth?",
+      "examination": "direct"
     },
     {
       "id": 16,
@@ -121,10 +125,11 @@
     },
     {
       "id": 17,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "So that makes you 45 years old?"
+      "text": "So that makes you 45 years old?",
+      "examination": "direct"
     },
     {
       "id": 18,
@@ -136,10 +141,11 @@
     },
     {
       "id": 19,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Are you married?"
+      "text": "Are you married?",
+      "examination": "direct"
     },
     {
       "id": 20,
@@ -151,10 +157,11 @@
     },
     {
       "id": 21,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Do you have any children?"
+      "text": "Do you have any children?",
+      "examination": "direct"
     },
     {
       "id": 22,
@@ -166,10 +173,11 @@
     },
     {
       "id": 23,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Where were you born, sir?"
+      "text": "Where were you born, sir?",
+      "examination": "direct"
     },
     {
       "id": 24,
@@ -181,10 +189,11 @@
     },
     {
       "id": 25,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Where was your father born?"
+      "text": "Where was your father born?",
+      "examination": "direct"
     },
     {
       "id": 26,
@@ -196,10 +205,11 @@
     },
     {
       "id": 27,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And your mother?"
+      "text": "And your mother?",
+      "examination": "direct"
     },
     {
       "id": 28,
@@ -211,10 +221,11 @@
     },
     {
       "id": 29,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "How long had your father's family lived in Bosanski Samac?"
+      "text": "How long had your father's family lived in Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 30,
@@ -226,10 +237,11 @@
     },
     {
       "id": 31,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Of what ethnic group do you belong?"
+      "text": "Of what ethnic group do you belong?",
+      "examination": "direct"
     },
     {
       "id": 32,
@@ -241,10 +253,11 @@
     },
     {
       "id": 33,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Have you ever been a member of any political party?"
+      "text": "Have you ever been a member of any political party?",
+      "examination": "direct"
     },
     {
       "id": 34,
@@ -256,10 +269,11 @@
     },
     {
       "id": 35,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Of which political parties have you been a member?"
+      "text": "Of which political parties have you been a member?",
+      "examination": "direct"
     },
     {
       "id": 36,
@@ -271,10 +285,11 @@
     },
     {
       "id": 37,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "When you were a member of the Communist Party, did you hold any position?"
+      "text": "When you were a member of the Communist Party, did you hold any position?",
+      "examination": "direct"
     },
     {
       "id": 38,
@@ -286,10 +301,11 @@
     },
     {
       "id": 39,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And what position did you hold?"
+      "text": "And what position did you hold?",
+      "examination": "direct"
     },
     {
       "id": 40,
@@ -301,10 +317,11 @@
     },
     {
       "id": 41,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And at this time, do you belong to any political parties?"
+      "text": "And at this time, do you belong to any political parties?",
+      "examination": "direct"
     },
     {
       "id": 42,
@@ -316,10 +333,11 @@
     },
     {
       "id": 43,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, I'd like to go over your educational background. Where did you go to school?"
+      "text": "Sir, I'd like to go over your educational background. Where did you go to school?",
+      "examination": "direct"
     },
     {
       "id": 44,
@@ -331,10 +349,11 @@
     },
     {
       "id": 45,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And while you were working in Subotica and Novi Sad, what were you studying?"
+      "text": "And while you were working in Subotica and Novi Sad, what were you studying?",
+      "examination": "direct"
     },
     {
       "id": 46,
@@ -346,10 +365,11 @@
     },
     {
       "id": 47,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Do you hold an engineering degree at this time?"
+      "text": "Do you hold an engineering degree at this time?",
+      "examination": "direct"
     },
     {
       "id": 48,
@@ -361,10 +381,11 @@
     },
     {
       "id": 49,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And it would probably be called an associate's degree in electrical engineering in many of the Western states; is that correct?"
+      "text": "And it would probably be called an associate's degree in electrical engineering in many of the Western states; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 50,
@@ -376,10 +397,11 @@
     },
     {
       "id": 51,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, were you ever in the military in the former Yugoslavia?"
+      "text": "Sir, were you ever in the military in the former Yugoslavia?",
+      "examination": "direct"
     },
     {
       "id": 52,
@@ -391,10 +413,11 @@
     },
     {
       "id": 53,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "When did you do your national service?"
+      "text": "When did you do your national service?",
+      "examination": "direct"
     },
     {
       "id": 54,
@@ -406,10 +429,11 @@
     },
     {
       "id": 55,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did you ever attend reserve officer's school?"
+      "text": "Did you ever attend reserve officer's school?",
+      "examination": "direct"
     },
     {
       "id": 56,
@@ -421,10 +445,11 @@
     },
     {
       "id": 57,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Sorry. Now, upon completion, did you attain a certain rank?"
+      "text": "Sorry. Now, upon completion, did you attain a certain rank?",
+      "examination": "direct"
     },
     {
       "id": 58,
@@ -436,10 +461,11 @@
     },
     {
       "id": 59,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, after 1979, did you receive any additional training?"
+      "text": "Now, after 1979, did you receive any additional training?",
+      "examination": "direct"
     },
     {
       "id": 60,
@@ -451,10 +477,11 @@
     },
     {
       "id": 61,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did you attain another rank other than second lieutenant?"
+      "text": "And did you attain another rank other than second lieutenant?",
+      "examination": "direct"
     },
     {
       "id": 62,
@@ -466,10 +493,11 @@
     },
     {
       "id": 63,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were you a professional soldier, sir?"
+      "text": "Were you a professional soldier, sir?",
+      "examination": "direct"
     },
     {
       "id": 64,
@@ -481,10 +509,11 @@
     },
     {
       "id": 65,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And as a reserve officer, how many months did you spend in the military each year?"
+      "text": "And as a reserve officer, how many months did you spend in the military each year?",
+      "examination": "direct"
     },
     {
       "id": 66,
@@ -496,10 +525,11 @@
     },
     {
       "id": 67,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, not being a professional soldier, I believe you had to work. Where were you employed?"
+      "text": "Now, not being a professional soldier, I believe you had to work. Where were you employed?",
+      "examination": "direct"
     },
     {
       "id": 68,
@@ -511,10 +541,11 @@
     },
     {
       "id": 69,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And what was that? What type of business was that?"
+      "text": "And what was that? What type of business was that?",
+      "examination": "direct"
     },
     {
       "id": 70,
@@ -526,10 +557,11 @@
     },
     {
       "id": 71,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "In what area did you provide the electricity? Was this just in the town of Bosanski Samac or outside that area?"
+      "text": "In what area did you provide the electricity? Was this just in the town of Bosanski Samac or outside that area?",
+      "examination": "direct"
     },
     {
       "id": 72,
@@ -541,10 +573,11 @@
     },
     {
       "id": 73,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "When did you start working there?"
+      "text": "When did you start working there?",
+      "examination": "direct"
     },
     {
       "id": 74,
@@ -556,10 +589,11 @@
     },
     {
       "id": 75,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "When you started working there, let's say on a full-time basis, in 1979, what position did you hold?"
+      "text": "When you started working there, let's say on a full-time basis, in 1979, what position did you hold?",
+      "examination": "direct"
     },
     {
       "id": 76,
@@ -571,10 +605,11 @@
     },
     {
       "id": 77,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And as manager of the technical division, what did you do?"
+      "text": "And as manager of the technical division, what did you do?",
+      "examination": "direct"
     },
     {
       "id": 78,
@@ -586,10 +621,11 @@
     },
     {
       "id": 79,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did you supervise a number of people in this position, as head of the technical unit?"
+      "text": "Did you supervise a number of people in this position, as head of the technical unit?",
+      "examination": "direct"
     },
     {
       "id": 80,
@@ -601,10 +637,11 @@
     },
     {
       "id": 81,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, sir, having spent most of your life in Bosanski Samac, I'm going to ask you if you know some people. Are you familiar with a man by the name of Simo Zaric?"
+      "text": "Now, sir, having spent most of your life in Bosanski Samac, I'm going to ask you if you know some people. Are you familiar with a man by the name of Simo Zaric?",
+      "examination": "direct"
     },
     {
       "id": 82,
@@ -616,10 +653,11 @@
     },
     {
       "id": 83,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "How long have you known Simo Zaric?"
+      "text": "How long have you known Simo Zaric?",
+      "examination": "direct"
     },
     {
       "id": 84,
@@ -631,10 +669,11 @@
     },
     {
       "id": 85,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Having known him for that long period of time, I'd ask you to look around this courtroom, and could you tell me if he's sitting in this courtroom at this time?"
+      "text": "Having known him for that long period of time, I'd ask you to look around this courtroom, and could you tell me if he's sitting in this courtroom at this time?",
+      "examination": "direct"
     },
     {
       "id": 86,
@@ -646,10 +685,11 @@
     },
     {
       "id": 87,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Could you please point him out and describe him."
+      "text": "Could you please point him out and describe him.",
+      "examination": "direct"
     },
     {
       "id": 88,
@@ -661,10 +701,11 @@
     },
     {
       "id": 89,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know a man by the name of Miroslav Tadic?"
+      "text": "Do you know a man by the name of Miroslav Tadic?",
+      "examination": "direct"
     },
     {
       "id": 90,
@@ -676,10 +717,11 @@
     },
     {
       "id": 91,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "How long have you known Miroslav Tadic?"
+      "text": "How long have you known Miroslav Tadic?",
+      "examination": "direct"
     },
     {
       "id": 92,
@@ -691,10 +733,11 @@
     },
     {
       "id": 93,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And I'd ask you to look around this courtroom and tell us if he's seated in this courtroom at this time."
+      "text": "And I'd ask you to look around this courtroom and tell us if he's seated in this courtroom at this time.",
+      "examination": "direct"
     },
     {
       "id": 94,
@@ -706,10 +749,11 @@
     },
     {
       "id": 95,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And could you tell us where he's sitting?"
+      "text": "And could you tell us where he's sitting?",
+      "examination": "direct"
     },
     {
       "id": 96,
@@ -721,10 +765,11 @@
     },
     {
       "id": 97,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And do you know a man by the name of Blagoje Simic?"
+      "text": "And do you know a man by the name of Blagoje Simic?",
+      "examination": "direct"
     },
     {
       "id": 98,
@@ -736,10 +781,11 @@
     },
     {
       "id": 99,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And how long have you known him?"
+      "text": "And how long have you known him?",
+      "examination": "direct"
     },
     {
       "id": 100,
@@ -751,10 +797,11 @@
     },
     {
       "id": 101,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And is he sitting in this courtroom at this time?"
+      "text": "And is he sitting in this courtroom at this time?",
+      "examination": "direct"
     },
     {
       "id": 102,
@@ -766,10 +813,11 @@
     },
     {
       "id": 103,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And could you please point him out too to the Court."
+      "text": "And could you please point him out too to the Court.",
+      "examination": "direct"
     },
     {
       "id": 104,
@@ -795,10 +843,11 @@
     },
     {
       "id": 107,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Just one more question. Are you familiar with a man by the name of Milan Simic?"
+      "text": "Just one more question. Are you familiar with a man by the name of Milan Simic?",
+      "examination": "direct"
     },
     {
       "id": 108,
@@ -810,10 +859,11 @@
     },
     {
       "id": 109,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And how long have you known him?"
+      "text": "And how long have you known him?",
+      "examination": "direct"
     },
     {
       "id": 110,
@@ -825,10 +875,11 @@
     },
     {
       "id": 111,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "All right. Now, let's go back to the late spring and early summer of 1991. Could you tell the Court during that time period what the atmosphere was like in Bosanski Samac?"
+      "text": "All right. Now, let's go back to the late spring and early summer of 1991. Could you tell the Court during that time period what the atmosphere was like in Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 112,
@@ -840,10 +891,11 @@
     },
     {
       "id": 113,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, sir, are you familiar with a cafe known as the Cafe Molla?"
+      "text": "Now, sir, are you familiar with a cafe known as the Cafe Molla?",
+      "examination": "direct"
     },
     {
       "id": 114,
@@ -855,10 +907,11 @@
     },
     {
       "id": 115,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And where is that located?"
+      "text": "And where is that located?",
+      "examination": "direct"
     },
     {
       "id": 116,
@@ -870,10 +923,11 @@
     },
     {
       "id": 117,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And that's in Bosanski Samac?"
+      "text": "And that's in Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 118,
@@ -885,10 +939,11 @@
     },
     {
       "id": 119,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, in the late spring and early summer of 1991, did you happen to visit the Cafe Molla?"
+      "text": "Now, in the late spring and early summer of 1991, did you happen to visit the Cafe Molla?",
+      "examination": "direct"
     },
     {
       "id": 120,
@@ -900,10 +955,11 @@
     },
     {
       "id": 121,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And when you went there during that time period, did you receive any information or were you made aware of any rumours at that time?"
+      "text": "And when you went there during that time period, did you receive any information or were you made aware of any rumours at that time?",
+      "examination": "direct"
     },
     {
       "id": 122,
@@ -915,10 +971,11 @@
     },
     {
       "id": 123,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, during that time that you were going to the Cafe Molla, did you hear any rumours, let's say, relating to weapons? Did you hear any rumours relating to weapons?"
+      "text": "Now, during that time that you were going to the Cafe Molla, did you hear any rumours, let's say, relating to weapons? Did you hear any rumours relating to weapons?",
+      "examination": "direct"
     },
     {
       "id": 124,
@@ -930,10 +987,11 @@
     },
     {
       "id": 125,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "People of what ethnic group did you hear were arming themselves in the late spring and early summer of 1991 in Bosanski Samac?"
+      "text": "People of what ethnic group did you hear were arming themselves in the late spring and early summer of 1991 in Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 126,
@@ -945,10 +1003,11 @@
     },
     {
       "id": 127,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And how often did you hear these rumours in the late spring and summer of 1991?"
+      "text": "And how often did you hear these rumours in the late spring and summer of 1991?",
+      "examination": "direct"
     },
     {
       "id": 128,
@@ -960,10 +1019,11 @@
     },
     {
       "id": 129,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And when someone came to the cafe Molla and told you that, what did you do?"
+      "text": "And when someone came to the cafe Molla and told you that, what did you do?",
+      "examination": "direct"
     },
     {
       "id": 130,
@@ -975,10 +1035,11 @@
     },
     {
       "id": 131,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "All right. Let's take it one step at a time. What hour of the day or night were you told that there was a truck of weapons?"
+      "text": "All right. Let's take it one step at a time. What hour of the day or night were you told that there was a truck of weapons?",
+      "examination": "direct"
     },
     {
       "id": 132,
@@ -990,10 +1051,11 @@
     },
     {
       "id": 133,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "So you went to the area known as the New Settlement and you saw a truck. Could you describe it, as best you can recall?"
+      "text": "So you went to the area known as the New Settlement and you saw a truck. Could you describe it, as best you can recall?",
+      "examination": "direct"
     },
     {
       "id": 134,
@@ -1005,10 +1067,11 @@
     },
     {
       "id": 135,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, it had these wooden cases. Could you describe them, as best you can."
+      "text": "Now, it had these wooden cases. Could you describe them, as best you can.",
+      "examination": "direct"
     },
     {
       "id": 136,
@@ -1020,10 +1083,11 @@
     },
     {
       "id": 137,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And these boxes which were being unloaded off a truck sometime after 9.00 at night, had you ever seen boxes like that before or since?"
+      "text": "And these boxes which were being unloaded off a truck sometime after 9.00 at night, had you ever seen boxes like that before or since?",
+      "examination": "direct"
     },
     {
       "id": 138,
@@ -1035,10 +1099,11 @@
     },
     {
       "id": 139,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And what were found, or what were those boxes used to hold?"
+      "text": "And what were found, or what were those boxes used to hold?",
+      "examination": "direct"
     },
     {
       "id": 140,
@@ -1050,10 +1115,11 @@
     },
     {
       "id": 141,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "These people that were removing these boxes, did you ever see them at some later time?"
+      "text": "These people that were removing these boxes, did you ever see them at some later time?",
+      "examination": "direct"
     },
     {
       "id": 142,
@@ -1065,10 +1131,11 @@
     },
     {
       "id": 143,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, as the summer continued in 1991, did you hear any other rumours about weapons being distributed?"
+      "text": "Now, as the summer continued in 1991, did you hear any other rumours about weapons being distributed?",
+      "examination": "direct"
     },
     {
       "id": 144,
@@ -1080,10 +1147,11 @@
     },
     {
       "id": 145,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, when did this happen, this incident occur, that someone told you that weapons were being -- that a truck with weapons had arrived in the area by the stadium? During what month in the summer, if you recall?"
+      "text": "Now, when did this happen, this incident occur, that someone told you that weapons were being -- that a truck with weapons had arrived in the area by the stadium? During what month in the summer, if you recall?",
+      "examination": "direct"
     },
     {
       "id": 146,
@@ -1095,10 +1163,11 @@
     },
     {
       "id": 147,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did they say that it was being delivered or it was being unloaded near a certain house?"
+      "text": "And did they say that it was being delivered or it was being unloaded near a certain house?",
+      "examination": "direct"
     },
     {
       "id": 148,
@@ -1110,10 +1179,11 @@
     },
     {
       "id": 149,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And what did you do after hearing this information? Did you do anything to confirm it?"
+      "text": "And what did you do after hearing this information? Did you do anything to confirm it?",
+      "examination": "direct"
     },
     {
       "id": 150,
@@ -1125,10 +1195,11 @@
     },
     {
       "id": 151,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did he describe the boxes that were being unloaded, when he said something was being unloaded off the truck? Did he say it was boxes?"
+      "text": "And did he describe the boxes that were being unloaded, when he said something was being unloaded off the truck? Did he say it was boxes?",
+      "examination": "direct"
     },
     {
       "id": 152,
@@ -1140,10 +1211,11 @@
     },
     {
       "id": 153,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What time of day or night did this occur?"
+      "text": "What time of day or night did this occur?",
+      "examination": "direct"
     },
     {
       "id": 154,
@@ -1155,10 +1227,11 @@
     },
     {
       "id": 155,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, did you receive any other information during the summer of 1991 concerning people receiving arms in the villages surrounding Bosanski Samac?"
+      "text": "Now, did you receive any other information during the summer of 1991 concerning people receiving arms in the villages surrounding Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 156,
@@ -1170,10 +1243,11 @@
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Tell the Court what information you had received during the summer of 1991."
+      "text": "Tell the Court what information you had received during the summer of 1991.",
+      "examination": "direct"
     },
     {
       "id": 158,
@@ -1192,10 +1266,11 @@
     },
     {
       "id": 160,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Fitozovic, you heard the Judge's question. Was there any notations or anything about those boxes which indicated to you that they contained weapons?"
+      "text": "Mr. Fitozovic, you heard the Judge's question. Was there any notations or anything about those boxes which indicated to you that they contained weapons?",
+      "examination": "direct"
     },
     {
       "id": 161,
@@ -1207,10 +1282,11 @@
     },
     {
       "id": 162,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Having served in the army for, at that point for 12 years, had you ever seen those kind of standard cases at any of the military bases which you served on?"
+      "text": "Having served in the army for, at that point for 12 years, had you ever seen those kind of standard cases at any of the military bases which you served on?",
+      "examination": "direct"
     },
     {
       "id": 163,
@@ -1222,10 +1298,11 @@
     },
     {
       "id": 164,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, that time when you saw them, I know it was dark and these were being unloaded in the night-time, but were you able to see any markings or were you able to determine from the licence plates on the trucks where either the boxes came from or where those trucks came from?"
+      "text": "Now, that time when you saw them, I know it was dark and these were being unloaded in the night-time, but were you able to see any markings or were you able to determine from the licence plates on the trucks where either the boxes came from or where those trucks came from?",
+      "examination": "direct"
     },
     {
       "id": 165,
@@ -1237,10 +1314,11 @@
     },
     {
       "id": 166,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did you or any of your friends or colleagues speak to any persons in the town or in those surrounding villages who indicated that they were receiving weapons at that time?"
+      "text": "Did you or any of your friends or colleagues speak to any persons in the town or in those surrounding villages who indicated that they were receiving weapons at that time?",
+      "examination": "direct"
     },
     {
       "id": 167,
@@ -1252,10 +1330,11 @@
     },
     {
       "id": 168,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And what did they tell you, your friends, or your colleagues about receiving weapons?"
+      "text": "And what did they tell you, your friends, or your colleagues about receiving weapons?",
+      "examination": "direct"
     },
     {
       "id": 169,
@@ -1267,10 +1346,11 @@
     },
     {
       "id": 170,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, were you able to learn whether any of the political parties were involved in the distribution of weapons?"
+      "text": "Now, were you able to learn whether any of the political parties were involved in the distribution of weapons?",
+      "examination": "direct"
     },
     {
       "id": 171,
@@ -1282,10 +1362,11 @@
     },
     {
       "id": 172,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And which political parties did you learn were involved in distributing these weapons, or automatic rifles?"
+      "text": "And which political parties did you learn were involved in distributing these weapons, or automatic rifles?",
+      "examination": "direct"
     },
     {
       "id": 173,
@@ -1297,10 +1378,11 @@
     },
     {
       "id": 174,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, in which villages were these automatic weapons being distributed?"
+      "text": "Now, in which villages were these automatic weapons being distributed?",
+      "examination": "direct"
     },
     {
       "id": 175,
@@ -1312,10 +1394,11 @@
     },
     {
       "id": 176,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were these distributed randomly or were these distributed on a large scale, sir, if you know?"
+      "text": "Were these distributed randomly or were these distributed on a large scale, sir, if you know?",
+      "examination": "direct"
     },
     {
       "id": 177,
@@ -1348,10 +1431,11 @@
     },
     {
       "id": 181,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Good afternoon, Mr. Fitozovic. Now, when we left off, we were talking about the distribution of arms in the Serb villages surrounding Bosanski Samac. And was this done on a random basis or was this being done on a large-scale basis? Were a lot of people receiving guns or was it just a limit -- a person here, a person there?"
+      "text": "Okay. Good afternoon, Mr. Fitozovic. Now, when we left off, we were talking about the distribution of arms in the Serb villages surrounding Bosanski Samac. And was this done on a random basis or was this being done on a large-scale basis? Were a lot of people receiving guns or was it just a limit -- a person here, a person there?",
+      "examination": "direct"
     },
     {
       "id": 182,
@@ -1363,10 +1447,11 @@
     },
     {
       "id": 183,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did you continue to hear these rumours over a several-month period, of weapons being distributed to Serb civilians?"
+      "text": "And did you continue to hear these rumours over a several-month period, of weapons being distributed to Serb civilians?",
+      "examination": "direct"
     },
     {
       "id": 184,
@@ -1378,10 +1463,11 @@
     },
     {
       "id": 185,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And what were you able to learn?"
+      "text": "And what were you able to learn?",
+      "examination": "direct"
     },
     {
       "id": 186,
@@ -1393,10 +1479,11 @@
     },
     {
       "id": 187,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, let's take this a step at a time. Obudovac, where you saw some of these large guns and you saw some -- or you saw tanks and large guns and you saw some JNA troops, what is the ethnic composition of that town?"
+      "text": "Now, let's take this a step at a time. Obudovac, where you saw some of these large guns and you saw some -- or you saw tanks and large guns and you saw some JNA troops, what is the ethnic composition of that town?",
+      "examination": "direct"
     },
     {
       "id": 188,
@@ -1408,10 +1495,11 @@
     },
     {
       "id": 189,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What about in the other area that you saw these mortars, in Skaric?"
+      "text": "What about in the other area that you saw these mortars, in Skaric?",
+      "examination": "direct"
     },
     {
       "id": 190,
@@ -1423,10 +1511,11 @@
     },
     {
       "id": 191,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "How many mortars do you recall seeing in the village of Skaric?"
+      "text": "How many mortars do you recall seeing in the village of Skaric?",
+      "examination": "direct"
     },
     {
       "id": 192,
@@ -1438,10 +1527,11 @@
     },
     {
       "id": 193,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And were these pointing in a particular direction?"
+      "text": "And were these pointing in a particular direction?",
+      "examination": "direct"
     },
     {
       "id": 194,
@@ -1453,10 +1543,11 @@
     },
     {
       "id": 195,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And how far was Bosanski Samac from the village of Skaric?"
+      "text": "And how far was Bosanski Samac from the village of Skaric?",
+      "examination": "direct"
     },
     {
       "id": 196,
@@ -1468,10 +1559,11 @@
     },
     {
       "id": 197,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And is 4 kilometres within mortar range?"
+      "text": "And is 4 kilometres within mortar range?",
+      "examination": "direct"
     },
     {
       "id": 198,
@@ -1483,10 +1575,11 @@
     },
     {
       "id": 199,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, troops being stationed in Obudovac, JNA troops, is that usual? Was that something that was common?"
+      "text": "Now, troops being stationed in Obudovac, JNA troops, is that usual? Was that something that was common?",
+      "examination": "direct"
     },
     {
       "id": 200,
@@ -1498,10 +1591,11 @@
     },
     {
       "id": 201,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What about having large guns, tanks, mortars in the villages surrounding Bosanski Samac? Was that normal? Was that common or usual?"
+      "text": "What about having large guns, tanks, mortars in the villages surrounding Bosanski Samac? Was that normal? Was that common or usual?",
+      "examination": "direct"
     },
     {
       "id": 202,
@@ -1513,10 +1607,11 @@
     },
     {
       "id": 203,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Had you ever had that type of equipment in that area, in the former TO, or stationed in that area, previously?"
+      "text": "Had you ever had that type of equipment in that area, in the former TO, or stationed in that area, previously?",
+      "examination": "direct"
     },
     {
       "id": 204,
@@ -1528,10 +1623,11 @@
     },
     {
       "id": 205,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What were you thinking when you saw the troops and all this weaponry, this heavy weaponry, in the area surrounding Bosanski Samac?"
+      "text": "What were you thinking when you saw the troops and all this weaponry, this heavy weaponry, in the area surrounding Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 206,
@@ -1543,10 +1639,11 @@
     },
     {
       "id": 207,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What were you thinking or how did you feel when you saw all of this weaponry, this heavy weaponry, tanks and mortars, in the areas surrounding Bosanski Samac?"
+      "text": "What were you thinking or how did you feel when you saw all of this weaponry, this heavy weaponry, tanks and mortars, in the areas surrounding Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 208,
@@ -1558,10 +1655,11 @@
     },
     {
       "id": 209,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Was that prior to the war there?"
+      "text": "Was that prior to the war there?",
+      "examination": "direct"
     },
     {
       "id": 210,
@@ -1573,10 +1671,11 @@
     },
     {
       "id": 211,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "You said that it looked like something that you had seen before in the Republic of Croatia. Are you talking about the build-up of arms in the Republic of Croatia prior to the war occurring in Croatia?"
+      "text": "You said that it looked like something that you had seen before in the Republic of Croatia. Are you talking about the build-up of arms in the Republic of Croatia prior to the war occurring in Croatia?",
+      "examination": "direct"
     },
     {
       "id": 212,
@@ -1588,10 +1687,11 @@
     },
     {
       "id": 213,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, let's continue a little bit back, speaking of Croatia. Had you been to Croatia at the end of the summer of 1991?"
+      "text": "Now, let's continue a little bit back, speaking of Croatia. Had you been to Croatia at the end of the summer of 1991?",
+      "examination": "direct"
     },
     {
       "id": 214,
@@ -1603,10 +1703,11 @@
     },
     {
       "id": 215,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And where were you in Croatia?"
+      "text": "And where were you in Croatia?",
+      "examination": "direct"
     },
     {
       "id": 216,
@@ -1618,10 +1719,11 @@
     },
     {
       "id": 217,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And at some point did you return home to Bosnia from Croatia?"
+      "text": "And at some point did you return home to Bosnia from Croatia?",
+      "examination": "direct"
     },
     {
       "id": 218,
@@ -1633,10 +1735,11 @@
     },
     {
       "id": 219,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And in what mode of transportation did you return to Bosnia?"
+      "text": "And in what mode of transportation did you return to Bosnia?",
+      "examination": "direct"
     },
     {
       "id": 220,
@@ -1648,10 +1751,11 @@
     },
     {
       "id": 221,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And approximately on what date did you return to Croatia - I'm sorry - did you return to Bosnia?"
+      "text": "And approximately on what date did you return to Croatia - I'm sorry - did you return to Bosnia?",
+      "examination": "direct"
     },
     {
       "id": 222,
@@ -1663,10 +1767,11 @@
     },
     {
       "id": 223,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did something happen to you on that trip back to Bosnia?"
+      "text": "And did something happen to you on that trip back to Bosnia?",
+      "examination": "direct"
     },
     {
       "id": 224,
@@ -1678,10 +1783,11 @@
     },
     {
       "id": 225,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And where is Okucani related -- I'm sorry, located? Where is Okucani located? Is it in Croatia or is it in Bosnia?"
+      "text": "And where is Okucani related -- I'm sorry, located? Where is Okucani located? Is it in Croatia or is it in Bosnia?",
+      "examination": "direct"
     },
     {
       "id": 226,
@@ -1693,10 +1799,11 @@
     },
     {
       "id": 227,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And tell the Court what happened -- please tell the Court what happened in Okucani?"
+      "text": "And tell the Court what happened -- please tell the Court what happened in Okucani?",
+      "examination": "direct"
     },
     {
       "id": 228,
@@ -1708,10 +1815,11 @@
     },
     {
       "id": 229,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Just to clarify this a little bit. When you were stopped, had the Serb military taken over that town in Croatia?"
+      "text": "Okay. Just to clarify this a little bit. When you were stopped, had the Serb military taken over that town in Croatia?",
+      "examination": "direct"
     },
     {
       "id": 230,
@@ -1723,10 +1831,11 @@
     },
     {
       "id": 231,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you also said that there were JNA soldiers, reservists and regulars. Were there any soldiers from Serbia that you noticed by way of their dress?"
+      "text": "Now, you also said that there were JNA soldiers, reservists and regulars. Were there any soldiers from Serbia that you noticed by way of their dress?",
+      "examination": "direct"
     },
     {
       "id": 232,
@@ -1745,10 +1854,11 @@
     },
     {
       "id": 234,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "You heard the Judge's question. Did you go to Croatia on your own or were you with your family?"
+      "text": "You heard the Judge's question. Did you go to Croatia on your own or were you with your family?",
+      "examination": "direct"
     },
     {
       "id": 235,
@@ -1760,10 +1870,11 @@
     },
     {
       "id": 236,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And just --"
+      "text": "And just --",
+      "examination": "direct"
     },
     {
       "id": 237,
@@ -1788,10 +1899,11 @@
     },
     {
       "id": 240,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And these men with the long beards who spoke the Ekavian accent, they let you go eventually?"
+      "text": "And these men with the long beards who spoke the Ekavian accent, they let you go eventually?",
+      "examination": "direct"
     },
     {
       "id": 241,
@@ -1803,10 +1915,11 @@
     },
     {
       "id": 242,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, in addition to the long beards and speaking with an Ekavian accent, did they also have those cockade hats, those black cockade hats?"
+      "text": "Now, in addition to the long beards and speaking with an Ekavian accent, did they also have those cockade hats, those black cockade hats?",
+      "examination": "direct"
     },
     {
       "id": 243,
@@ -1818,10 +1931,11 @@
     },
     {
       "id": 244,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And that's consistent with them being from Serbia, is it not, between the dress and the accent?"
+      "text": "And that's consistent with them being from Serbia, is it not, between the dress and the accent?",
+      "examination": "direct"
     },
     {
       "id": 245,
@@ -1833,10 +1947,11 @@
     },
     {
       "id": 246,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "All right. Now, that was August of 1991. Let's move to the fall. During the fall or autumn of 1991, basically September, October, and even into November, were you hearing any other rumours relating to reservists in Bosanski Samac? Did you hear any rumours about reservists?"
+      "text": "All right. Now, that was August of 1991. Let's move to the fall. During the fall or autumn of 1991, basically September, October, and even into November, were you hearing any other rumours relating to reservists in Bosanski Samac? Did you hear any rumours about reservists?",
+      "examination": "direct"
     },
     {
       "id": 247,
@@ -1848,10 +1963,11 @@
     },
     {
       "id": 248,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "But did you hear any rumours about reservists being sent to certain places, reservists from Bosanski Samac and the surrounding villages?"
+      "text": "But did you hear any rumours about reservists being sent to certain places, reservists from Bosanski Samac and the surrounding villages?",
+      "examination": "direct"
     },
     {
       "id": 249,
@@ -1863,10 +1979,11 @@
     },
     {
       "id": 250,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And where were they being sent after they received specialist training in Serbia, these people from Bosanski Samac, after they were sent to Serbia for special training, where were they then sent?"
+      "text": "And where were they being sent after they received specialist training in Serbia, these people from Bosanski Samac, after they were sent to Serbia for special training, where were they then sent?",
+      "examination": "direct"
     },
     {
       "id": 251,
@@ -1878,10 +1995,11 @@
     },
     {
       "id": 252,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Where were the front lines in Croatia at that time that they were sending the people from Bosanski Samac?"
+      "text": "Where were the front lines in Croatia at that time that they were sending the people from Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 253,
@@ -1893,10 +2011,11 @@
     },
     {
       "id": 254,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, these rumours that you heard about Serbs from Bosanski Samac being sent to Serbia for training and then being sent to Vukovar in Croatia to fight, were you able to confirm any of this in September or October of 1992?"
+      "text": "Now, these rumours that you heard about Serbs from Bosanski Samac being sent to Serbia for training and then being sent to Vukovar in Croatia to fight, were you able to confirm any of this in September or October of 1992?",
+      "examination": "direct"
     },
     {
       "id": 255,
@@ -1908,10 +2027,11 @@
     },
     {
       "id": 256,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were you ever able to confirm these rumours that people from Bosanski Samac were being sent to Serbia for training and then being sent to Croatia to fight, to Vukovar, Croatia, to fight? Were you ever able to confirm that?"
+      "text": "Were you ever able to confirm these rumours that people from Bosanski Samac were being sent to Serbia for training and then being sent to Croatia to fight, to Vukovar, Croatia, to fight? Were you ever able to confirm that?",
+      "examination": "direct"
     },
     {
       "id": 257,
@@ -1923,10 +2043,11 @@
     },
     {
       "id": 258,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Could you tell the Court, or can we --"
+      "text": "Okay. Could you tell the Court, or can we --",
+      "examination": "direct"
     },
     {
       "id": 259,
@@ -1944,10 +2065,11 @@
     },
     {
       "id": 261,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, I -- when I spoke -- when I asked you a question, I said in September/October of 1992. We're speaking of September or October of 1991; isn't that correct?"
+      "text": "Sir, I -- when I spoke -- when I asked you a question, I said in September/October of 1992. We're speaking of September or October of 1991; isn't that correct?",
+      "examination": "direct"
     },
     {
       "id": 262,
@@ -1973,10 +2095,11 @@
     },
     {
       "id": 265,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you said that some men, young men from your company, and that's the electrical distribution plant, or the electrical power plant, were sent for training and then sent to Vukovar. Could you tell us their names, if you can recall them, those young men that were sent?"
+      "text": "Now, you said that some men, young men from your company, and that's the electrical distribution plant, or the electrical power plant, were sent for training and then sent to Vukovar. Could you tell us their names, if you can recall them, those young men that were sent?",
+      "examination": "direct"
     },
     {
       "id": 266,
@@ -1988,10 +2111,11 @@
     },
     {
       "id": 267,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And when you said they were absent, are we talking about a few days or are we talking about months?"
+      "text": "And when you said they were absent, are we talking about a few days or are we talking about months?",
+      "examination": "direct"
     },
     {
       "id": 268,
@@ -2003,10 +2127,11 @@
     },
     {
       "id": 269,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And were you able to learn where they were?"
+      "text": "And were you able to learn where they were?",
+      "examination": "direct"
     },
     {
       "id": 270,
@@ -2018,10 +2143,11 @@
     },
     {
       "id": 271,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And you found out that they were out there fighting in Croatia?"
+      "text": "And you found out that they were out there fighting in Croatia?",
+      "examination": "direct"
     },
     {
       "id": 272,
@@ -2033,10 +2159,11 @@
     },
     {
       "id": 273,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "All right. Let us move along in the fall of 1991. Did you know a man by the name of Sulejman Tihic?"
+      "text": "All right. Let us move along in the fall of 1991. Did you know a man by the name of Sulejman Tihic?",
+      "examination": "direct"
     },
     {
       "id": 274,
@@ -2048,10 +2175,11 @@
     },
     {
       "id": 275,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And how long had you known Sulejman Tihic?"
+      "text": "And how long had you known Sulejman Tihic?",
+      "examination": "direct"
     },
     {
       "id": 276,
@@ -2063,10 +2191,11 @@
     },
     {
       "id": 277,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And in 1991, did he hold any position in any party in Bosanski Samac?"
+      "text": "And in 1991, did he hold any position in any party in Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 278,
@@ -2078,10 +2207,11 @@
     },
     {
       "id": 279,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What position did he hold? Sorry."
+      "text": "What position did he hold? Sorry.",
+      "examination": "direct"
     },
     {
       "id": 280,
@@ -2093,10 +2223,11 @@
     },
     {
       "id": 281,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, sometime early in that month, did you happen to meet or see Sulejman Tihic early in the month of September 1991?"
+      "text": "Now, sometime early in that month, did you happen to meet or see Sulejman Tihic early in the month of September 1991?",
+      "examination": "direct"
     },
     {
       "id": 282,
@@ -2108,10 +2239,11 @@
     },
     {
       "id": 283,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did you have some conversation concerning the SDA party?"
+      "text": "And did you have some conversation concerning the SDA party?",
+      "examination": "direct"
     },
     {
       "id": 284,
@@ -2123,10 +2255,11 @@
     },
     {
       "id": 285,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And sometime while you were talking, did he approach you about joining the SDA party?"
+      "text": "And sometime while you were talking, did he approach you about joining the SDA party?",
+      "examination": "direct"
     },
     {
       "id": 286,
@@ -2138,10 +2271,11 @@
     },
     {
       "id": 287,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did he offer you a position in the party if you were to join?"
+      "text": "And did he offer you a position in the party if you were to join?",
+      "examination": "direct"
     },
     {
       "id": 288,
@@ -2153,10 +2287,11 @@
     },
     {
       "id": 289,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did you agree to join?"
+      "text": "And did you agree to join?",
+      "examination": "direct"
     },
     {
       "id": 290,
@@ -2168,10 +2303,11 @@
     },
     {
       "id": 291,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And that was in September of 1991?"
+      "text": "And that was in September of 1991?",
+      "examination": "direct"
     },
     {
       "id": 292,
@@ -2183,10 +2319,11 @@
     },
     {
       "id": 293,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, also in that month, were you given any other appointment by the SDA?"
+      "text": "Now, also in that month, were you given any other appointment by the SDA?",
+      "examination": "direct"
     },
     {
       "id": 294,
@@ -2198,10 +2335,11 @@
     },
     {
       "id": 295,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And what appointment were you given in addition to the town board or city council?"
+      "text": "And what appointment were you given in addition to the town board or city council?",
+      "examination": "direct"
     },
     {
       "id": 296,
@@ -2213,10 +2351,11 @@
     },
     {
       "id": 297,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And that appointment to the Executive Council, was that also in September?"
+      "text": "And that appointment to the Executive Council, was that also in September?",
+      "examination": "direct"
     },
     {
       "id": 298,
@@ -2228,10 +2367,11 @@
     },
     {
       "id": 299,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, did you receive any other appointments from the SDA party in September of 1991?"
+      "text": "Now, did you receive any other appointments from the SDA party in September of 1991?",
+      "examination": "direct"
     },
     {
       "id": 300,
@@ -2243,10 +2383,11 @@
     },
     {
       "id": 301,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Tell the Court what other appointment you received?"
+      "text": "Tell the Court what other appointment you received?",
+      "examination": "direct"
     },
     {
       "id": 302,
@@ -2258,10 +2399,11 @@
     },
     {
       "id": 303,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were you appointed by Sulejman Tihic to that, or were you appointed by the town council or the Executive Council to that position, the executive board?"
+      "text": "Were you appointed by Sulejman Tihic to that, or were you appointed by the town council or the Executive Council to that position, the executive board?",
+      "examination": "direct"
     },
     {
       "id": 304,
@@ -2273,10 +2415,11 @@
     },
     {
       "id": 305,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "How many people were on this commission on security and safety?"
+      "text": "How many people were on this commission on security and safety?",
+      "examination": "direct"
     },
     {
       "id": 306,
@@ -2288,10 +2431,11 @@
     },
     {
       "id": 307,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did you hold a particular role on that commission?"
+      "text": "And did you hold a particular role on that commission?",
+      "examination": "direct"
     },
     {
       "id": 308,
@@ -2303,10 +2447,11 @@
     },
     {
       "id": 309,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What position?"
+      "text": "What position?",
+      "examination": "direct"
     },
     {
       "id": 310,
@@ -2318,10 +2463,11 @@
     },
     {
       "id": 311,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What did the commission for security and safety do? What was their role?"
+      "text": "What did the commission for security and safety do? What was their role?",
+      "examination": "direct"
     },
     {
       "id": 312,
@@ -2333,10 +2479,11 @@
     },
     {
       "id": 313,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Who else was on that committee, if you recall?"
+      "text": "Who else was on that committee, if you recall?",
+      "examination": "direct"
     },
     {
       "id": 314,
@@ -2348,10 +2495,11 @@
     },
     {
       "id": 315,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, after you were to analyse or review the security situation in the town and surrounding areas of the Posavina, were you to report to anyone your findings?"
+      "text": "Now, after you were to analyse or review the security situation in the town and surrounding areas of the Posavina, were you to report to anyone your findings?",
+      "examination": "direct"
     },
     {
       "id": 316,
@@ -2363,10 +2511,11 @@
     },
     {
       "id": 317,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And who were you to report to your findings?"
+      "text": "And who were you to report to your findings?",
+      "examination": "direct"
     },
     {
       "id": 318,
@@ -2378,10 +2527,11 @@
     },
     {
       "id": 319,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, let's continue in September 1991. Did you make a decision in relation to establishing a military unit?"
+      "text": "Now, let's continue in September 1991. Did you make a decision in relation to establishing a military unit?",
+      "examination": "direct"
     },
     {
       "id": 320,
@@ -2393,10 +2543,11 @@
     },
     {
       "id": 321,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "You decided to establish your own military unit?"
+      "text": "You decided to establish your own military unit?",
+      "examination": "direct"
     },
     {
       "id": 322,
@@ -2408,10 +2559,11 @@
     },
     {
       "id": 323,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, in addition to that conversation with Mr. Tihic, you wanted weapons for what? Were you putting together a military unit?"
+      "text": "Now, in addition to that conversation with Mr. Tihic, you wanted weapons for what? Were you putting together a military unit?",
+      "examination": "direct"
     },
     {
       "id": 324,
@@ -2423,10 +2575,11 @@
     },
     {
       "id": 325,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, had any local citizens from Bosanski Samac or the surrounding area approached you about putting together a military unit?"
+      "text": "Now, had any local citizens from Bosanski Samac or the surrounding area approached you about putting together a military unit?",
+      "examination": "direct"
     },
     {
       "id": 326,
@@ -2438,10 +2591,11 @@
     },
     {
       "id": 327,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, when you told Sulejman Tihic that you needed weapons, how did he respond, when you asked him if he could get you some weapons?"
+      "text": "Now, when you told Sulejman Tihic that you needed weapons, how did he respond, when you asked him if he could get you some weapons?",
+      "examination": "direct"
     },
     {
       "id": 328,
@@ -2453,10 +2607,11 @@
     },
     {
       "id": 329,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did you have a similar conversation with Izet Izetbegovic?"
+      "text": "Did you have a similar conversation with Izet Izetbegovic?",
+      "examination": "direct"
     },
     {
       "id": 330,
@@ -2468,10 +2623,11 @@
     },
     {
       "id": 331,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And were they both scared when you asked them about supplying weapons?"
+      "text": "And were they both scared when you asked them about supplying weapons?",
+      "examination": "direct"
     },
     {
       "id": 332,
@@ -2483,10 +2639,11 @@
     },
     {
       "id": 333,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "So he seemed less worried than Sulejman Tihic?"
+      "text": "So he seemed less worried than Sulejman Tihic?",
+      "examination": "direct"
     },
     {
       "id": 334,
@@ -2498,10 +2655,11 @@
     },
     {
       "id": 335,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, this unit that you were putting together to protect the town, was this going to be a unit of the SDA party?"
+      "text": "Now, this unit that you were putting together to protect the town, was this going to be a unit of the SDA party?",
+      "examination": "direct"
     },
     {
       "id": 336,
@@ -2513,10 +2671,11 @@
     },
     {
       "id": 337,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Was this going to be a unit of the HDZ party?"
+      "text": "Was this going to be a unit of the HDZ party?",
+      "examination": "direct"
     },
     {
       "id": 338,
@@ -2528,10 +2687,11 @@
     },
     {
       "id": 339,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Was it going to be a unit tied to any political party?"
+      "text": "Was it going to be a unit tied to any political party?",
+      "examination": "direct"
     },
     {
       "id": 340,
@@ -2543,10 +2703,11 @@
     },
     {
       "id": 341,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Was it a unit tied to an ethnic organisation or an ethnic group? I'm sorry."
+      "text": "Was it a unit tied to an ethnic organisation or an ethnic group? I'm sorry.",
+      "examination": "direct"
     },
     {
       "id": 342,
@@ -2558,10 +2719,11 @@
     },
     {
       "id": 343,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Who was going to be invited into this, if you want to call it, independent military unit to protect the town of Bosanski Samac?"
+      "text": "Who was going to be invited into this, if you want to call it, independent military unit to protect the town of Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 344,
@@ -2573,10 +2735,11 @@
     },
     {
       "id": 345,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Was this unit going to be similar to or different from the unit that was later developed called the 4th Detachment?"
+      "text": "Was this unit going to be similar to or different from the unit that was later developed called the 4th Detachment?",
+      "examination": "direct"
     },
     {
       "id": 346,
@@ -2588,10 +2751,11 @@
     },
     {
       "id": 347,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Why was the independent unit that you were developing going to be different from that of the 4th Detachment?"
+      "text": "Why was the independent unit that you were developing going to be different from that of the 4th Detachment?",
+      "examination": "direct"
     },
     {
       "id": 348,
@@ -2603,10 +2767,11 @@
     },
     {
       "id": 349,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What, in your view, was the goal of the 4th Detachment, then?"
+      "text": "What, in your view, was the goal of the 4th Detachment, then?",
+      "examination": "direct"
     },
     {
       "id": 350,
@@ -2618,10 +2783,11 @@
     },
     {
       "id": 351,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And what's the basis of your opinion that the 4th Detachment was trying to turn Bosanski Samac into a Serbian municipality?"
+      "text": "And what's the basis of your opinion that the 4th Detachment was trying to turn Bosanski Samac into a Serbian municipality?",
+      "examination": "direct"
     },
     {
       "id": 352,
@@ -2633,10 +2799,11 @@
     },
     {
       "id": 353,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Yes. You indicated that your unit was an independent military unit to protect the town of Bosanski Samac and keep it the way it was. However, the 4th Detachment, you indicated, was different in that it was supposed to -- that it was trying to turn Bosanski Samac into a Republika Srpska, as it now exists. Why did you believe the 4th Detachment wanted to change Bosanski Samac and turn it into a Serbian municipality?"
+      "text": "Yes. You indicated that your unit was an independent military unit to protect the town of Bosanski Samac and keep it the way it was. However, the 4th Detachment, you indicated, was different in that it was supposed to -- that it was trying to turn Bosanski Samac into a Republika Srpska, as it now exists. Why did you believe the 4th Detachment wanted to change Bosanski Samac and turn it into a Serbian municipality?",
+      "examination": "direct"
     },
     {
       "id": 354,
@@ -2648,10 +2815,11 @@
     },
     {
       "id": 355,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "All right. You indicated that Mr. Tihic and Mr. Izetbegovic were nervous and worried about arming the unit. Were you afraid of arming this unit that you were establishing, this independent unit to protect Bosanski Samac?"
+      "text": "All right. You indicated that Mr. Tihic and Mr. Izetbegovic were nervous and worried about arming the unit. Were you afraid of arming this unit that you were establishing, this independent unit to protect Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 356,
@@ -2663,10 +2831,11 @@
     },
     {
       "id": 357,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Why not?"
+      "text": "Why not?",
+      "examination": "direct"
     },
     {
       "id": 358,
@@ -2678,10 +2847,11 @@
     },
     {
       "id": 359,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, did you go ahead and establish a unit?"
+      "text": "Now, did you go ahead and establish a unit?",
+      "examination": "direct"
     },
     {
       "id": 360,
@@ -2693,10 +2863,11 @@
     },
     {
       "id": 361,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "How many men were in this unit in the beginning?"
+      "text": "How many men were in this unit in the beginning?",
+      "examination": "direct"
     },
     {
       "id": 362,
@@ -2708,10 +2879,11 @@
     },
     {
       "id": 363,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And eventually, by December of 1991, how many men were in this unit?"
+      "text": "And eventually, by December of 1991, how many men were in this unit?",
+      "examination": "direct"
     },
     {
       "id": 364,
@@ -2723,10 +2895,11 @@
     },
     {
       "id": 365,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were all of these men of the Muslim ethnic group?"
+      "text": "Were all of these men of the Muslim ethnic group?",
+      "examination": "direct"
     },
     {
       "id": 366,
@@ -2738,10 +2911,11 @@
     },
     {
       "id": 367,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were these all members of the SDA?"
+      "text": "Were these all members of the SDA?",
+      "examination": "direct"
     },
     {
       "id": 368,
@@ -2753,10 +2927,11 @@
     },
     {
       "id": 369,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were there people of other ethnic groups in this unit?"
+      "text": "Were there people of other ethnic groups in this unit?",
+      "examination": "direct"
     },
     {
       "id": 370,
@@ -2775,10 +2950,11 @@
     },
     {
       "id": 372,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Could you repeat what you said after \"Albanians\"?"
+      "text": "Could you repeat what you said after \"Albanians\"?",
+      "examination": "direct"
     },
     {
       "id": 373,
@@ -2790,10 +2966,11 @@
     },
     {
       "id": 374,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were there any persons from mixed marriages in the unit?"
+      "text": "Were there any persons from mixed marriages in the unit?",
+      "examination": "direct"
     },
     {
       "id": 375,
@@ -2805,10 +2982,11 @@
     },
     {
       "id": 376,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, did you have enough weapons to give to all of these members of this incident army in the beginning, in September/October?"
+      "text": "Now, did you have enough weapons to give to all of these members of this incident army in the beginning, in September/October?",
+      "examination": "direct"
     },
     {
       "id": 377,
@@ -2820,10 +2998,11 @@
     },
     {
       "id": 378,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "When you started this unit, did everyone -- sorry. When you started this unit, did you have any weapons to give out?"
+      "text": "When you started this unit, did everyone -- sorry. When you started this unit, did you have any weapons to give out?",
+      "examination": "direct"
     },
     {
       "id": 379,
@@ -2835,10 +3014,11 @@
     },
     {
       "id": 380,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "We'll get to that. But in the beginning, was every member given a rifle or a gun or a weapon of some kind upon joining?"
+      "text": "We'll get to that. But in the beginning, was every member given a rifle or a gun or a weapon of some kind upon joining?",
+      "examination": "direct"
     },
     {
       "id": 381,
@@ -2850,10 +3030,11 @@
     },
     {
       "id": 382,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, sir, sometime later - we won't get into specifics yet - but sometime later, were you able to acquire or procure weapons for this unit?"
+      "text": "Now, sir, sometime later - we won't get into specifics yet - but sometime later, were you able to acquire or procure weapons for this unit?",
+      "examination": "direct"
     },
     {
       "id": 383,
@@ -2865,10 +3046,11 @@
     },
     {
       "id": 384,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Well, let's go to October of 1991. Do you recall procuring 30 Genschers?"
+      "text": "Well, let's go to October of 1991. Do you recall procuring 30 Genschers?",
+      "examination": "direct"
     },
     {
       "id": 385,
@@ -2880,10 +3062,11 @@
     },
     {
       "id": 386,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What is a Genscher?"
+      "text": "What is a Genscher?",
+      "examination": "direct"
     },
     {
       "id": 387,
@@ -2895,10 +3078,11 @@
     },
     {
       "id": 388,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were these older automatic weapons? Were these the ones that were made during world war two?"
+      "text": "Were these older automatic weapons? Were these the ones that were made during world war two?",
+      "examination": "direct"
     },
     {
       "id": 389,
@@ -2910,10 +3094,11 @@
     },
     {
       "id": 390,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were these purchased from a government agency?"
+      "text": "Were these purchased from a government agency?",
+      "examination": "direct"
     },
     {
       "id": 391,
@@ -2925,10 +3110,11 @@
     },
     {
       "id": 392,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "How did you acquire them?"
+      "text": "How did you acquire them?",
+      "examination": "direct"
     },
     {
       "id": 393,
@@ -2940,10 +3126,11 @@
     },
     {
       "id": 394,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were these purchased by the SDA or any other political party?"
+      "text": "Were these purchased by the SDA or any other political party?",
+      "examination": "direct"
     },
     {
       "id": 395,
@@ -2955,10 +3142,11 @@
     },
     {
       "id": 396,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And once you got these 30 older automatic weapons, what did you do with them?"
+      "text": "And once you got these 30 older automatic weapons, what did you do with them?",
+      "examination": "direct"
     },
     {
       "id": 397,
@@ -2977,10 +3165,11 @@
     },
     {
       "id": 399,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "The question from Judge Williams was: If the SDA didn't buy them, who provided the financing for the purchase -- for the private purchase of these weapons?"
+      "text": "The question from Judge Williams was: If the SDA didn't buy them, who provided the financing for the purchase -- for the private purchase of these weapons?",
+      "examination": "direct"
     },
     {
       "id": 400,
@@ -3013,10 +3202,11 @@
     },
     {
       "id": 404,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Could you tell us -- or let's take a step back. Were you involved in the finances with relation to these firearms or guns?"
+      "text": "Could you tell us -- or let's take a step back. Were you involved in the finances with relation to these firearms or guns?",
+      "examination": "direct"
     },
     {
       "id": 405,
@@ -3028,10 +3218,11 @@
     },
     {
       "id": 406,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know any of the details of the financing -- of the finances of the procurement of these guns?"
+      "text": "Do you know any of the details of the financing -- of the finances of the procurement of these guns?",
+      "examination": "direct"
     },
     {
       "id": 407,
@@ -3043,10 +3234,11 @@
     },
     {
       "id": 408,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know how these guns were procured?"
+      "text": "Do you know how these guns were procured?",
+      "examination": "direct"
     },
     {
       "id": 409,
@@ -3079,10 +3271,11 @@
     },
     {
       "id": 413,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did you personally procure these weapons?"
+      "text": "Did you personally procure these weapons?",
+      "examination": "direct"
     },
     {
       "id": 414,
@@ -3094,10 +3287,11 @@
     },
     {
       "id": 415,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And the Court would like to know how you procured them."
+      "text": "And the Court would like to know how you procured them.",
+      "examination": "direct"
     },
     {
       "id": 416,
@@ -3109,10 +3303,11 @@
     },
     {
       "id": 417,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did he handle the financial end, if there was one?"
+      "text": "Did he handle the financial end, if there was one?",
+      "examination": "direct"
     },
     {
       "id": 418,
@@ -3124,10 +3319,11 @@
     },
     {
       "id": 419,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And Mr. Izet Izetbegovic somehow obtained them or procured them?"
+      "text": "And Mr. Izet Izetbegovic somehow obtained them or procured them?",
+      "examination": "direct"
     },
     {
       "id": 420,
@@ -3139,10 +3335,11 @@
     },
     {
       "id": 421,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And do you have any idea how or where he obtained them?"
+      "text": "And do you have any idea how or where he obtained them?",
+      "examination": "direct"
     },
     {
       "id": 422,
@@ -3175,10 +3372,11 @@
     },
     {
       "id": 426,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were you able to procure weapons in November of 1991?"
+      "text": "Were you able to procure weapons in November of 1991?",
+      "examination": "direct"
     },
     {
       "id": 427,
@@ -3190,10 +3388,11 @@
     },
     {
       "id": 428,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell the Court how you procured weapons in November of 1991?"
+      "text": "Can you tell the Court how you procured weapons in November of 1991?",
+      "examination": "direct"
     },
     {
       "id": 429,
@@ -3205,10 +3404,11 @@
     },
     {
       "id": 430,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "After it broke down, did someone notify you that this truck had broken down?"
+      "text": "After it broke down, did someone notify you that this truck had broken down?",
+      "examination": "direct"
     },
     {
       "id": 431,
@@ -3220,10 +3420,11 @@
     },
     {
       "id": 432,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did you go out and meet with the driver?"
+      "text": "Did you go out and meet with the driver?",
+      "examination": "direct"
     },
     {
       "id": 433,
@@ -3235,10 +3436,11 @@
     },
     {
       "id": 434,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did you render that assistance?"
+      "text": "And did you render that assistance?",
+      "examination": "direct"
     },
     {
       "id": 435,
@@ -3250,10 +3452,11 @@
     },
     {
       "id": 436,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Tell us what you did."
+      "text": "Tell us what you did.",
+      "examination": "direct"
     },
     {
       "id": 437,
@@ -3265,10 +3468,11 @@
     },
     {
       "id": 438,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "As a result of helping them by towing the truck, unloading the weapons, loading them -- getting them in other vehicle, where you loaded the weapons into another vehicle, did they give you any sort of reward?"
+      "text": "As a result of helping them by towing the truck, unloading the weapons, loading them -- getting them in other vehicle, where you loaded the weapons into another vehicle, did they give you any sort of reward?",
+      "examination": "direct"
     },
     {
       "id": 439,
@@ -3280,10 +3484,11 @@
     },
     {
       "id": 440,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And how many weapons were in the two crates?"
+      "text": "And how many weapons were in the two crates?",
+      "examination": "direct"
     },
     {
       "id": 441,
@@ -3295,10 +3500,11 @@
     },
     {
       "id": 442,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did this Smail Smailovic drive these to some place in Bosnia, not the 20, but the remaining weapons, for those people from Slovenia?"
+      "text": "And did this Smail Smailovic drive these to some place in Bosnia, not the 20, but the remaining weapons, for those people from Slovenia?",
+      "examination": "direct"
     },
     {
       "id": 443,
@@ -3310,10 +3516,11 @@
     },
     {
       "id": 444,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And as an aside, this Smail Smailovic, was he the gentleman who, some month later, drove Tota Ramusovic to the hospital after he was shot?"
+      "text": "And as an aside, this Smail Smailovic, was he the gentleman who, some month later, drove Tota Ramusovic to the hospital after he was shot?",
+      "examination": "direct"
     },
     {
       "id": 445,
@@ -3325,10 +3532,11 @@
     },
     {
       "id": 446,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Tota."
+      "text": "Tota.",
+      "examination": "direct"
     },
     {
       "id": 447,
@@ -3340,10 +3548,11 @@
     },
     {
       "id": 448,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Thank you. Now, these two boxes of automatic rifles that you got --"
+      "text": "Okay. Thank you. Now, these two boxes of automatic rifles that you got --",
+      "examination": "direct"
     },
     {
       "id": 449,
@@ -3361,10 +3570,11 @@
     },
     {
       "id": 451,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Some months later, in February or March - and we're going to be talking about it later - there was a shoot-out where Danilo and Tota Ramusovic were shot, and someone drove them to the doctor or the hospital. Was that another Smajl or was that this Smajl, Smail Smailovic?"
+      "text": "Some months later, in February or March - and we're going to be talking about it later - there was a shoot-out where Danilo and Tota Ramusovic were shot, and someone drove them to the doctor or the hospital. Was that another Smajl or was that this Smajl, Smail Smailovic?",
+      "examination": "direct"
     },
     {
       "id": 452,
@@ -3376,10 +3586,11 @@
     },
     {
       "id": 453,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Okay."
+      "text": "Okay.",
+      "examination": "direct"
     },
     {
       "id": 454,
@@ -3391,10 +3602,11 @@
     },
     {
       "id": 455,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, with regard to this transfer of weapons, you were notified that this truck had become disabled and your help was needed to tow the truck away and transfer the weapons and get another truck to carry the weapons off. Did Sulejman Tihic, Izet Izetbegovic, or any member of the SDA notify you that this truck was disabled?"
+      "text": "Now, with regard to this transfer of weapons, you were notified that this truck had become disabled and your help was needed to tow the truck away and transfer the weapons and get another truck to carry the weapons off. Did Sulejman Tihic, Izet Izetbegovic, or any member of the SDA notify you that this truck was disabled?",
+      "examination": "direct"
     },
     {
       "id": 456,
@@ -3406,10 +3618,11 @@
     },
     {
       "id": 457,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "So is it fair to say that the SDA and HDZ and the political parties had nothing to do with this incident relating to the transfer of weapons and assisting the disabled truck?"
+      "text": "So is it fair to say that the SDA and HDZ and the political parties had nothing to do with this incident relating to the transfer of weapons and assisting the disabled truck?",
+      "examination": "direct"
     },
     {
       "id": 458,
@@ -3491,10 +3704,11 @@
     },
     {
       "id": 469,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Let's move on, sir, to December of 1991. As of that time, how many weapons had you procured?"
+      "text": "Let's move on, sir, to December of 1991. As of that time, how many weapons had you procured?",
+      "examination": "direct"
     },
     {
       "id": 470,
@@ -3506,10 +3720,11 @@
     },
     {
       "id": 471,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, had -- on each procurement -- let's start off with October- were you given ammunition with these guns?"
+      "text": "Now, had -- on each procurement -- let's start off with October- were you given ammunition with these guns?",
+      "examination": "direct"
     },
     {
       "id": 472,
@@ -3521,10 +3736,11 @@
     },
     {
       "id": 473,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Not on each. Let's take the one in October. When you got the 30 German rifles, automatic rifles, from World War II. Were you given any ammunition at that time to go with those rifles?"
+      "text": "Okay. Not on each. Let's take the one in October. When you got the 30 German rifles, automatic rifles, from World War II. Were you given any ammunition at that time to go with those rifles?",
+      "examination": "direct"
     },
     {
       "id": 474,
@@ -3536,10 +3752,11 @@
     },
     {
       "id": 475,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "All right. Let's go to the next procurement. In November, when you received a gift of 20 rifles, were you given any ammunition at that time with those 20 automatic rifles?"
+      "text": "All right. Let's go to the next procurement. In November, when you received a gift of 20 rifles, were you given any ammunition at that time with those 20 automatic rifles?",
+      "examination": "direct"
     },
     {
       "id": 476,
@@ -3551,10 +3768,11 @@
     },
     {
       "id": 477,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Okay."
+      "text": "Okay.",
+      "examination": "direct"
     },
     {
       "id": 478,
@@ -3593,10 +3811,11 @@
     },
     {
       "id": 483,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "In November, when you received these 20 automatic rifles, did you receive -- I'm just asking you this again for the record - did you receive any ammunition with those 20 rifles?"
+      "text": "In November, when you received these 20 automatic rifles, did you receive -- I'm just asking you this again for the record - did you receive any ammunition with those 20 rifles?",
+      "examination": "direct"
     },
     {
       "id": 484,
@@ -3608,10 +3827,11 @@
     },
     {
       "id": 485,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you've started this military unit to protect the town of Bosanski Samac. What were the functions, other than protecting Bosanski Samac? What type of functions was this unit performing in September/October - basically September through the end of the year? What type of functions was the unit performing?"
+      "text": "Now, you've started this military unit to protect the town of Bosanski Samac. What were the functions, other than protecting Bosanski Samac? What type of functions was this unit performing in September/October - basically September through the end of the year? What type of functions was the unit performing?",
+      "examination": "direct"
     },
     {
       "id": 486,
@@ -3623,10 +3843,11 @@
     },
     {
       "id": 487,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Let's start with the daytime. Did you have patrols during the daytime?"
+      "text": "Let's start with the daytime. Did you have patrols during the daytime?",
+      "examination": "direct"
     },
     {
       "id": 488,
@@ -3638,10 +3859,11 @@
     },
     {
       "id": 489,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Why were you making these observations? Had there been some change in the area in the last several months?"
+      "text": "Why were you making these observations? Had there been some change in the area in the last several months?",
+      "examination": "direct"
     },
     {
       "id": 490,
@@ -3653,10 +3875,11 @@
     },
     {
       "id": 491,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, how many patrols did you have in the daytime?"
+      "text": "Now, how many patrols did you have in the daytime?",
+      "examination": "direct"
     },
     {
       "id": 492,
@@ -3668,10 +3891,11 @@
     },
     {
       "id": 493,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And how many patrols did you have? Was it one patrol, two, three, four, five?"
+      "text": "And how many patrols did you have? Was it one patrol, two, three, four, five?",
+      "examination": "direct"
     },
     {
       "id": 494,
@@ -3683,10 +3907,11 @@
     },
     {
       "id": 495,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And how many people were in each one of these patrolling groups?"
+      "text": "And how many people were in each one of these patrolling groups?",
+      "examination": "direct"
     },
     {
       "id": 496,
@@ -3698,10 +3923,11 @@
     },
     {
       "id": 497,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did you just patrol the town of Bosanski Samac or did you -- were the villagers also patrolled?"
+      "text": "And did you just patrol the town of Bosanski Samac or did you -- were the villagers also patrolled?",
+      "examination": "direct"
     },
     {
       "id": 498,
@@ -3713,10 +3939,11 @@
     },
     {
       "id": 499,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And what did they do with this information concerning people that they had seen and anything that they had noted? What would they do with this information?"
+      "text": "And what did they do with this information concerning people that they had seen and anything that they had noted? What would they do with this information?",
+      "examination": "direct"
     },
     {
       "id": 500,
@@ -3728,10 +3955,11 @@
     },
     {
       "id": 501,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "These patrols, these two or three men -- these two or three -- two-man patrols, were they armed?"
+      "text": "These patrols, these two or three men -- these two or three -- two-man patrols, were they armed?",
+      "examination": "direct"
     },
     {
       "id": 502,
@@ -3743,10 +3971,11 @@
     },
     {
       "id": 503,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were any of the daytime patrols armed?"
+      "text": "Were any of the daytime patrols armed?",
+      "examination": "direct"
     },
     {
       "id": 504,
@@ -3758,10 +3987,11 @@
     },
     {
       "id": 505,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were these walking patrols or were these people in vehicles?"
+      "text": "Were these walking patrols or were these people in vehicles?",
+      "examination": "direct"
     },
     {
       "id": 506,
@@ -3808,10 +4038,11 @@
     },
     {
       "id": 512,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, did these daytime patrols ever set up any checkpoints or barricades?"
+      "text": "Now, did these daytime patrols ever set up any checkpoints or barricades?",
+      "examination": "direct"
     },
     {
       "id": 513,
@@ -3823,10 +4054,11 @@
     },
     {
       "id": 514,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did they ever stop vehicles?"
+      "text": "Did they ever stop vehicles?",
+      "examination": "direct"
     },
     {
       "id": 515,
@@ -3838,10 +4070,11 @@
     },
     {
       "id": 516,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What about pedestrians? Did they ever stop pedestrians?"
+      "text": "What about pedestrians? Did they ever stop pedestrians?",
+      "examination": "direct"
     },
     {
       "id": 517,
@@ -3853,10 +4086,11 @@
     },
     {
       "id": 518,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did you or the police ever receive a complaint about any of these people?"
+      "text": "Did you or the police ever receive a complaint about any of these people?",
+      "examination": "direct"
     },
     {
       "id": 519,
@@ -3868,10 +4102,11 @@
     },
     {
       "id": 520,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were these people ever involved in an incident of violence or crime of any kind?"
+      "text": "Were these people ever involved in an incident of violence or crime of any kind?",
+      "examination": "direct"
     },
     {
       "id": 521,
@@ -3883,10 +4118,11 @@
     },
     {
       "id": 522,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did the general public even know that they were out there patrolling and watching events in the town?"
+      "text": "Did the general public even know that they were out there patrolling and watching events in the town?",
+      "examination": "direct"
     },
     {
       "id": 523,
@@ -3898,10 +4134,11 @@
     },
     {
       "id": 524,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "All right. Let's go to the night-time patrols. What type of patrols and units did you have out there in the night-time?"
+      "text": "All right. Let's go to the night-time patrols. What type of patrols and units did you have out there in the night-time?",
+      "examination": "direct"
     },
     {
       "id": 525,
@@ -3913,10 +4150,11 @@
     },
     {
       "id": 526,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, were these patrols that were stationed in those two areas, were these people on foot or were they in vehicles?"
+      "text": "Now, were these patrols that were stationed in those two areas, were these people on foot or were they in vehicles?",
+      "examination": "direct"
     },
     {
       "id": 527,
@@ -3928,10 +4166,11 @@
     },
     {
       "id": 528,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "How many people would be in a passenger car?"
+      "text": "How many people would be in a passenger car?",
+      "examination": "direct"
     },
     {
       "id": 529,
@@ -3943,10 +4182,11 @@
     },
     {
       "id": 530,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And what would they be doing?"
+      "text": "And what would they be doing?",
+      "examination": "direct"
     },
     {
       "id": 531,
@@ -3958,10 +4198,11 @@
     },
     {
       "id": 532,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were these people armed?"
+      "text": "Were these people armed?",
+      "examination": "direct"
     },
     {
       "id": 533,
@@ -3973,10 +4214,11 @@
     },
     {
       "id": 534,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did they stop vehicles?"
+      "text": "Did they stop vehicles?",
+      "examination": "direct"
     },
     {
       "id": 535,
@@ -3988,10 +4230,11 @@
     },
     {
       "id": 536,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What about pedestrians? Did they ever stop pedestrians?"
+      "text": "What about pedestrians? Did they ever stop pedestrians?",
+      "examination": "direct"
     },
     {
       "id": 537,
@@ -4003,10 +4246,11 @@
     },
     {
       "id": 538,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did they ever set up roadblocks?"
+      "text": "Did they ever set up roadblocks?",
+      "examination": "direct"
     },
     {
       "id": 539,
@@ -4018,10 +4262,11 @@
     },
     {
       "id": 540,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "I'm sorry. Did they ever set up any roadblocks?"
+      "text": "I'm sorry. Did they ever set up any roadblocks?",
+      "examination": "direct"
     },
     {
       "id": 541,
@@ -4033,10 +4278,11 @@
     },
     {
       "id": 542,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did they ever stop persons in any manner to check for identification?"
+      "text": "Did they ever stop persons in any manner to check for identification?",
+      "examination": "direct"
     },
     {
       "id": 543,
@@ -4048,10 +4294,11 @@
     },
     {
       "id": 544,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Had you ever received or had the police ever received any complaints about those vehicles that were -- the people in the vehicles that were watching, observing what was happening in the town?"
+      "text": "Had you ever received or had the police ever received any complaints about those vehicles that were -- the people in the vehicles that were watching, observing what was happening in the town?",
+      "examination": "direct"
     },
     {
       "id": 545,
@@ -4063,10 +4310,11 @@
     },
     {
       "id": 546,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Had they ever made any citizen arrests of any kind?"
+      "text": "Had they ever made any citizen arrests of any kind?",
+      "examination": "direct"
     },
     {
       "id": 547,
@@ -4078,10 +4326,11 @@
     },
     {
       "id": 548,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What about disarming anyone? Did they ever disarm or remove a weapon from anyone?"
+      "text": "What about disarming anyone? Did they ever disarm or remove a weapon from anyone?",
+      "examination": "direct"
     },
     {
       "id": 549,
@@ -4093,10 +4342,11 @@
     },
     {
       "id": 550,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "So they were just your eyes and ears on the roadway, if you want to call it that?"
+      "text": "So they were just your eyes and ears on the roadway, if you want to call it that?",
+      "examination": "direct"
     },
     {
       "id": 551,
@@ -4108,10 +4358,11 @@
     },
     {
       "id": 552,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, in addition to these vehicular patrols, did you have any other, let's say, foot patrols or patrols outside of these roadways during the evenings?"
+      "text": "Now, in addition to these vehicular patrols, did you have any other, let's say, foot patrols or patrols outside of these roadways during the evenings?",
+      "examination": "direct"
     },
     {
       "id": 553,
@@ -4151,10 +4402,11 @@
     },
     {
       "id": 558,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Good afternoon. Now, when we left off before the break, we were talking about walking patrols, or foot patrols, and these were in the night-time and they were similar to the same type of patrols you had during the day; is that correct?"
+      "text": "Good afternoon. Now, when we left off before the break, we were talking about walking patrols, or foot patrols, and these were in the night-time and they were similar to the same type of patrols you had during the day; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 559,
@@ -4166,10 +4418,11 @@
     },
     {
       "id": 560,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And one of these patrols, or a foot patrol would consist of how many people during the night-time?"
+      "text": "And one of these patrols, or a foot patrol would consist of how many people during the night-time?",
+      "examination": "direct"
     },
     {
       "id": 561,
@@ -4181,10 +4434,11 @@
     },
     {
       "id": 562,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And how many evening foot patrols were there?"
+      "text": "And how many evening foot patrols were there?",
+      "examination": "direct"
     },
     {
       "id": 563,
@@ -4196,10 +4450,11 @@
     },
     {
       "id": 564,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, these foot patrols, during the evening, were they wearing any type of uniform or any type of special clothing to differentiate themselves from the public?"
+      "text": "Now, these foot patrols, during the evening, were they wearing any type of uniform or any type of special clothing to differentiate themselves from the public?",
+      "examination": "direct"
     },
     {
       "id": 565,
@@ -4211,10 +4466,11 @@
     },
     {
       "id": 566,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were they armed?"
+      "text": "Were they armed?",
+      "examination": "direct"
     },
     {
       "id": 567,
@@ -4226,10 +4482,11 @@
     },
     {
       "id": 568,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What about the two vehicular patrols that were watching people entering and leaving Bosanski Samac? And you indicated that each of those vehicle patrols had three people in the car. Were any of those six people between the two cars armed? I'm sorry. Were any of those six people between the two cars wearing uniforms?"
+      "text": "What about the two vehicular patrols that were watching people entering and leaving Bosanski Samac? And you indicated that each of those vehicle patrols had three people in the car. Were any of those six people between the two cars armed? I'm sorry. Were any of those six people between the two cars wearing uniforms?",
+      "examination": "direct"
     },
     {
       "id": 569,
@@ -4241,10 +4498,11 @@
     },
     {
       "id": 570,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, these foot patrols, as best you know, was the public aware of these foot patrols during the evening hours?"
+      "text": "Now, these foot patrols, as best you know, was the public aware of these foot patrols during the evening hours?",
+      "examination": "direct"
     },
     {
       "id": 571,
@@ -4256,10 +4514,11 @@
     },
     {
       "id": 572,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And did they stop people on the street as part of these patrols?"
+      "text": "And did they stop people on the street as part of these patrols?",
+      "examination": "direct"
     },
     {
       "id": 573,
@@ -4271,10 +4530,11 @@
     },
     {
       "id": 574,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What about stopping vehicles?"
+      "text": "What about stopping vehicles?",
+      "examination": "direct"
     },
     {
       "id": 575,
@@ -4286,10 +4546,11 @@
     },
     {
       "id": 576,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did they ever approach citizens for an identification check?"
+      "text": "Did they ever approach citizens for an identification check?",
+      "examination": "direct"
     },
     {
       "id": 577,
@@ -4301,10 +4562,11 @@
     },
     {
       "id": 578,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What would these people be doing?"
+      "text": "What would these people be doing?",
+      "examination": "direct"
     },
     {
       "id": 579,
@@ -4316,10 +4578,11 @@
     },
     {
       "id": 580,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And if anything significant happened, who would they contact?"
+      "text": "And if anything significant happened, who would they contact?",
+      "examination": "direct"
     },
     {
       "id": 581,
@@ -4331,10 +4594,11 @@
     },
     {
       "id": 582,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, between the two checkpoints, or these foot patrols, was there any liaison that would go between them during the evening, liaison or a middle person, if you want to call them, that would go between the two checkpoints or between the foot patrols, to make sure that everything was all right?"
+      "text": "Now, between the two checkpoints, or these foot patrols, was there any liaison that would go between them during the evening, liaison or a middle person, if you want to call them, that would go between the two checkpoints or between the foot patrols, to make sure that everything was all right?",
+      "examination": "direct"
     },
     {
       "id": 583,
@@ -4346,10 +4610,11 @@
     },
     {
       "id": 584,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, the vehicles that were used at the two evening patrols, were these private vehicles or were they military vehicles of some sort? What type of vehicles were they?"
+      "text": "Now, the vehicles that were used at the two evening patrols, were these private vehicles or were they military vehicles of some sort? What type of vehicles were they?",
+      "examination": "direct"
     },
     {
       "id": 585,
@@ -4361,10 +4626,11 @@
     },
     {
       "id": 586,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Was there ever any sort of insignia on the vehicle to indicate that it was part of this independent military unit?"
+      "text": "Was there ever any sort of insignia on the vehicle to indicate that it was part of this independent military unit?",
+      "examination": "direct"
     },
     {
       "id": 587,
@@ -4376,10 +4642,11 @@
     },
     {
       "id": 588,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, how long did these patrols last? They started, according to your testimony, in the fall or the late fall -- mid- to late fall of 1991. How long did they last?"
+      "text": "Now, how long did these patrols last? They started, according to your testimony, in the fall or the late fall -- mid- to late fall of 1991. How long did they last?",
+      "examination": "direct"
     },
     {
       "id": 589,
@@ -4391,10 +4658,11 @@
     },
     {
       "id": 590,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "So until April 17th of 1992?"
+      "text": "So until April 17th of 1992?",
+      "examination": "direct"
     },
     {
       "id": 591,
@@ -4406,10 +4674,11 @@
     },
     {
       "id": 592,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, at the same time that you have these patrols, were there any Serb patrols or checkpoints in Bosanski Samac and the surrounding area?"
+      "text": "Now, at the same time that you have these patrols, were there any Serb patrols or checkpoints in Bosanski Samac and the surrounding area?",
+      "examination": "direct"
     },
     {
       "id": 593,
@@ -4421,10 +4690,11 @@
     },
     {
       "id": 594,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Where were the checkpoints? Please tell the Court."
+      "text": "Where were the checkpoints? Please tell the Court.",
+      "examination": "direct"
     },
     {
       "id": 595,
@@ -4436,10 +4706,11 @@
     },
     {
       "id": 596,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Who manned these patrols, these Serbian patrols or checkpoints?"
+      "text": "Who manned these patrols, these Serbian patrols or checkpoints?",
+      "examination": "direct"
     },
     {
       "id": 597,
@@ -4451,10 +4722,11 @@
     },
     {
       "id": 598,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Was the 4th Detachment involved in any of these checkpoints?"
+      "text": "Was the 4th Detachment involved in any of these checkpoints?",
+      "examination": "direct"
     },
     {
       "id": 599,
@@ -4466,10 +4738,11 @@
     },
     {
       "id": 600,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were these checkpoints similar to your patrols, where they just would sit there and observe what was happening?"
+      "text": "Were these checkpoints similar to your patrols, where they just would sit there and observe what was happening?",
+      "examination": "direct"
     },
     {
       "id": 601,
@@ -4481,10 +4754,11 @@
     },
     {
       "id": 602,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Tell us: How were they different from your checkpoints? What were they doing at these three Serb checkpoints?"
+      "text": "Tell us: How were they different from your checkpoints? What were they doing at these three Serb checkpoints?",
+      "examination": "direct"
     },
     {
       "id": 603,
@@ -4496,10 +4770,11 @@
     },
     {
       "id": 604,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Would they stop buses?"
+      "text": "Would they stop buses?",
+      "examination": "direct"
     },
     {
       "id": 605,
@@ -4511,10 +4786,11 @@
     },
     {
       "id": 606,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Would they enter the buses and ask for identification cards?"
+      "text": "Would they enter the buses and ask for identification cards?",
+      "examination": "direct"
     },
     {
       "id": 607,
@@ -4526,10 +4802,11 @@
     },
     {
       "id": 608,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "How were Muslims and Croats treated at these identification points - I'm sorry - at these checkpoints?"
+      "text": "How were Muslims and Croats treated at these identification points - I'm sorry - at these checkpoints?",
+      "examination": "direct"
     },
     {
       "id": 609,
@@ -4541,10 +4818,11 @@
     },
     {
       "id": 610,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And were these people treated properly and respectfully during these searches?"
+      "text": "And were these people treated properly and respectfully during these searches?",
+      "examination": "direct"
     },
     {
       "id": 611,
@@ -4556,10 +4834,11 @@
     },
     {
       "id": 612,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "If a person was stopped and they were of Serb ethnicity, how would they be treated?"
+      "text": "If a person was stopped and they were of Serb ethnicity, how would they be treated?",
+      "examination": "direct"
     },
     {
       "id": 613,
@@ -4571,10 +4850,11 @@
     },
     {
       "id": 614,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Were tolls ever requested, tolls or bribes, in order to pass through this checkpoint or these checkpoints?"
+      "text": "Were tolls ever requested, tolls or bribes, in order to pass through this checkpoint or these checkpoints?",
+      "examination": "direct"
     },
     {
       "id": 615,
@@ -4586,10 +4866,11 @@
     },
     {
       "id": 616,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What happened to this toll money that was collected, if you know?"
+      "text": "What happened to this toll money that was collected, if you know?",
+      "examination": "direct"
     },
     {
       "id": 617,
@@ -4615,10 +4896,11 @@
     },
     {
       "id": 620,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "With regard to -- let's start off with the tolls being collected. How were you made aware that tolls were being collected, or whatever you want to call them, charges, tolls, bribes, were being collected by people at one of these checkpoints? Let's start off with that."
+      "text": "With regard to -- let's start off with the tolls being collected. How were you made aware that tolls were being collected, or whatever you want to call them, charges, tolls, bribes, were being collected by people at one of these checkpoints? Let's start off with that.",
+      "examination": "direct"
     },
     {
       "id": 621,
@@ -4630,10 +4912,11 @@
     },
     {
       "id": 622,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, the next question is: How did you know -- or how did you learn that the money that was being collected, these charges or tolls, went to the Serbian political party?"
+      "text": "Now, the next question is: How did you know -- or how did you learn that the money that was being collected, these charges or tolls, went to the Serbian political party?",
+      "examination": "direct"
     },
     {
       "id": 623,
@@ -4645,10 +4928,11 @@
     },
     {
       "id": 624,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Let me -- I was going to discuss this a little bit later, but let's take this issue up now. At some point after the 4th Detachment was established, did you have one or more informers, if you want to call them, within the 4th Detachment that was providing you with information as to what was happening in that unit?"
+      "text": "Let me -- I was going to discuss this a little bit later, but let's take this issue up now. At some point after the 4th Detachment was established, did you have one or more informers, if you want to call them, within the 4th Detachment that was providing you with information as to what was happening in that unit?",
+      "examination": "direct"
     },
     {
       "id": 625,
@@ -4660,10 +4944,11 @@
     },
     {
       "id": 626,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, a few last questions concerning these patrols or checkpoints, Serbian checkpoints. How were these people dressed at these checkpoints, the people who were manning them?"
+      "text": "Now, a few last questions concerning these patrols or checkpoints, Serbian checkpoints. How were these people dressed at these checkpoints, the people who were manning them?",
+      "examination": "direct"
     },
     {
       "id": 627,
@@ -4675,10 +4960,11 @@
     },
     {
       "id": 628,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And were the weapons visible?"
+      "text": "And were the weapons visible?",
+      "examination": "direct"
     },
     {
       "id": 629,
@@ -4690,10 +4976,11 @@
     },
     {
       "id": 630,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Let's continue on to December of 1991. Did something happen to your job in December of 1991?"
+      "text": "Let's continue on to December of 1991. Did something happen to your job in December of 1991?",
+      "examination": "direct"
     },
     {
       "id": 631,
@@ -4705,10 +4992,11 @@
     },
     {
       "id": 632,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did you voluntarily stop working or were you laid off?"
+      "text": "Did you voluntarily stop working or were you laid off?",
+      "examination": "direct"
     },
     {
       "id": 633,
@@ -4720,10 +5008,11 @@
     },
     {
       "id": 634,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did someone tell you why you were being laid off or let go?"
+      "text": "Did someone tell you why you were being laid off or let go?",
+      "examination": "direct"
     },
     {
       "id": 635,
@@ -4735,10 +5024,11 @@
     },
     {
       "id": 636,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, when you say you needed this seventh level, do you mean you needed a full engineering degree to handle that position as a chief?"
+      "text": "Now, when you say you needed this seventh level, do you mean you needed a full engineering degree to handle that position as a chief?",
+      "examination": "direct"
     },
     {
       "id": 637,
@@ -4750,10 +5040,11 @@
     },
     {
       "id": 638,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you had worked in that position for, you indicated, for eight years. And how long had you worked at that company? I know some of it was off and on. How long had you worked at the power distribution plant?"
+      "text": "Now, you had worked in that position for, you indicated, for eight years. And how long had you worked at that company? I know some of it was off and on. How long had you worked at the power distribution plant?",
+      "examination": "direct"
     },
     {
       "id": 639,
@@ -4765,10 +5056,11 @@
     },
     {
       "id": 640,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, the person who replaced you, he was of what ethnic group? He belonged to what ethnic group?"
+      "text": "Now, the person who replaced you, he was of what ethnic group? He belonged to what ethnic group?",
+      "examination": "direct"
     },
     {
       "id": 641,
@@ -4780,10 +5072,11 @@
     },
     {
       "id": 642,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did he belong to any political parties?"
+      "text": "Did he belong to any political parties?",
+      "examination": "direct"
     },
     {
       "id": 643,
@@ -4795,10 +5088,11 @@
     },
     {
       "id": 644,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "What political party did he belong to?"
+      "text": "What political party did he belong to?",
+      "examination": "direct"
     },
     {
       "id": 645,
@@ -4810,10 +5104,11 @@
     },
     {
       "id": 646,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And who was the national leader of the Serbian Radical Party?"
+      "text": "And who was the national leader of the Serbian Radical Party?",
+      "examination": "direct"
     },
     {
       "id": 647,
@@ -4825,10 +5120,11 @@
     },
     {
       "id": 648,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "When you say \"Duke,\" did he give himself the title of being a Chetnik duke?"
+      "text": "When you say \"Duke,\" did he give himself the title of being a Chetnik duke?",
+      "examination": "direct"
     },
     {
       "id": 649,
@@ -4840,10 +5136,11 @@
     },
     {
       "id": 650,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, this individual who replaced you, did he have an engineering degree or was he at that seventh level of education, as you call it?"
+      "text": "Now, this individual who replaced you, did he have an engineering degree or was he at that seventh level of education, as you call it?",
+      "examination": "direct"
     },
     {
       "id": 651,
@@ -4855,10 +5152,11 @@
     },
     {
       "id": 652,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Let us continue in December of 1991. Do you recall being called to a reserve officers' meeting, being called to attend a reserve officers' meeting?"
+      "text": "Okay. Let us continue in December of 1991. Do you recall being called to a reserve officers' meeting, being called to attend a reserve officers' meeting?",
+      "examination": "direct"
     },
     {
       "id": 653,
@@ -4870,10 +5168,11 @@
     },
     {
       "id": 654,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Was there anyone there representing the JNA?"
+      "text": "Was there anyone there representing the JNA?",
+      "examination": "direct"
     },
     {
       "id": 655,
@@ -4885,10 +5184,11 @@
     },
     {
       "id": 656,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, where was Simo Zaric in relation to Colonel Nikolic? No, no. Where was he sitting in relation to Colonel Nikolic at this meeting?"
+      "text": "Now, where was Simo Zaric in relation to Colonel Nikolic? No, no. Where was he sitting in relation to Colonel Nikolic at this meeting?",
+      "examination": "direct"
     },
     {
       "id": 657,
@@ -4900,10 +5200,11 @@
     },
     {
       "id": 658,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Let's talk about this meeting. Just first list the names. Who were the speakers at this meeting?"
+      "text": "Let's talk about this meeting. Just first list the names. Who were the speakers at this meeting?",
+      "examination": "direct"
     },
     {
       "id": 659,
@@ -4915,10 +5216,11 @@
     },
     {
       "id": 660,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Do you recall what Colonel Nikolic said when he spoke?"
+      "text": "Do you recall what Colonel Nikolic said when he spoke?",
+      "examination": "direct"
     },
     {
       "id": 661,
@@ -4930,10 +5232,11 @@
     },
     {
       "id": 662,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "In response to his -- or in addition to his comment of there not being enough officers, military officers, even though they have enough weapons and men, did he ask for anything?"
+      "text": "In response to his -- or in addition to his comment of there not being enough officers, military officers, even though they have enough weapons and men, did he ask for anything?",
+      "examination": "direct"
     },
     {
       "id": 663,
@@ -4945,10 +5248,11 @@
     },
     {
       "id": 664,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, why were you there? Is it because -- or why don't you tell me. Why were you at this meeting?"
+      "text": "Now, why were you there? Is it because -- or why don't you tell me. Why were you at this meeting?",
+      "examination": "direct"
     },
     {
       "id": 665,
@@ -4960,10 +5264,11 @@
     },
     {
       "id": 666,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, do you recall what the captain, Milos Bogdanovic, said at this meeting?"
+      "text": "Now, do you recall what the captain, Milos Bogdanovic, said at this meeting?",
+      "examination": "direct"
     },
     {
       "id": 667,
@@ -4975,10 +5280,11 @@
     },
     {
       "id": 668,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "No. I meant what either Milos Bogdanovic or what the captain said that you thought had the name of Petrovic. Do you recall what they said to the reserve officers who were in attendance?"
+      "text": "No. I meant what either Milos Bogdanovic or what the captain said that you thought had the name of Petrovic. Do you recall what they said to the reserve officers who were in attendance?",
+      "examination": "direct"
     },
     {
       "id": 669,
@@ -4990,10 +5296,11 @@
     },
     {
       "id": 670,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Finally, do you recall what the defendant Simo Zaric said at that meeting?"
+      "text": "Finally, do you recall what the defendant Simo Zaric said at that meeting?",
+      "examination": "direct"
     },
     {
       "id": 671,
@@ -5005,10 +5312,11 @@
     },
     {
       "id": 672,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did he refer to any other groups?"
+      "text": "Did he refer to any other groups?",
+      "examination": "direct"
     },
     {
       "id": 673,
@@ -5020,10 +5328,11 @@
     },
     {
       "id": 674,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did he refer to the unit that he was talking about that was supposed to be this multi-ethnic army to protect Bosanski Samac?"
+      "text": "Did he refer to the unit that he was talking about that was supposed to be this multi-ethnic army to protect Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 675,
@@ -5035,10 +5344,11 @@
     },
     {
       "id": 676,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Now, as you've testified, the 4th Detachment was in fact established. Did the 4th Detachment ever protect the town of Bosanski Samac against outside forces?"
+      "text": "Now, as you've testified, the 4th Detachment was in fact established. Did the 4th Detachment ever protect the town of Bosanski Samac against outside forces?",
+      "examination": "direct"
     },
     {
       "id": 677,
@@ -5050,10 +5360,11 @@
     },
     {
       "id": 678,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Do you mean --"
+      "text": "Do you mean --",
+      "examination": "direct"
     },
     {
       "id": 679,
@@ -5072,10 +5383,11 @@
     },
     {
       "id": 681,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "On the 17th of April, did the 4th Detachment protect the town of Bosanski Samac against outside forces?"
+      "text": "On the 17th of April, did the 4th Detachment protect the town of Bosanski Samac against outside forces?",
+      "examination": "direct"
     },
     {
       "id": 682,
@@ -5087,10 +5399,11 @@
     },
     {
       "id": 683,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did the 4th Detachment, in April, defend and protect all of the inhabitants of Bosanski Samac, as Simo Zaric said it would?"
+      "text": "Did the 4th Detachment, in April, defend and protect all of the inhabitants of Bosanski Samac, as Simo Zaric said it would?",
+      "examination": "direct"
     },
     {
       "id": 684,
@@ -5102,10 +5415,11 @@
     },
     {
       "id": 685,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did the 4th Detachment defend Bosanski Samac against -- or the citizens of Bosanski Samac against the Serb paramilitaries, just like Simo Zaric said it would?"
+      "text": "Did the 4th Detachment defend Bosanski Samac against -- or the citizens of Bosanski Samac against the Serb paramilitaries, just like Simo Zaric said it would?",
+      "examination": "direct"
     },
     {
       "id": 686,
@@ -5117,10 +5431,11 @@
     },
     {
       "id": 687,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did it defend the town of Bosanski Samac against looting of houses?"
+      "text": "Did it defend the town of Bosanski Samac against looting of houses?",
+      "examination": "direct"
     },
     {
       "id": 688,
@@ -5132,10 +5447,11 @@
     },
     {
       "id": 689,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Did the 4th Detachment participate with the paramilitaries and the JNA in the takeover of Bosanski Samac?"
+      "text": "Did the 4th Detachment participate with the paramilitaries and the JNA in the takeover of Bosanski Samac?",
+      "examination": "direct"
     },
     {
       "id": 690,
@@ -5147,10 +5463,11 @@
     },
     {
       "id": 691,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "With the paramilitaries and the JNA?"
+      "text": "With the paramilitaries and the JNA?",
+      "examination": "direct"
     },
     {
       "id": 692,
@@ -5162,10 +5479,11 @@
     },
     {
       "id": 693,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "On that evening, did you enlist or re-enlist, as invited by Colonel Nikolic?"
+      "text": "On that evening, did you enlist or re-enlist, as invited by Colonel Nikolic?",
+      "examination": "direct"
     },
     {
       "id": 694,
@@ -5177,10 +5495,11 @@
     },
     {
       "id": 695,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "I realise you were not called, but did you enlist yourself in response to that invitation, to be a full-time active officer?"
+      "text": "I realise you were not called, but did you enlist yourself in response to that invitation, to be a full-time active officer?",
+      "examination": "direct"
     },
     {
       "id": 696,
@@ -5192,10 +5511,11 @@
     },
     {
       "id": 697,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Why is that?"
+      "text": "Why is that?",
+      "examination": "direct"
     },
     {
       "id": 698,
@@ -5207,10 +5527,11 @@
     },
     {
       "id": 699,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "All right. Now, you said -- I just want to ask you one question based on your answer. You said it wasn't possible for more of them to be present there. Why was it impossible for more Muslims and Croats to be at that meeting?"
+      "text": "All right. Now, you said -- I just want to ask you one question based on your answer. You said it wasn't possible for more of them to be present there. Why was it impossible for more Muslims and Croats to be at that meeting?",
+      "examination": "direct"
     },
     {
       "id": 700,
@@ -5222,10 +5543,11 @@
     },
     {
       "id": 701,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Why weren't Muslims and Croats being given the requisite training at that time?"
+      "text": "Why weren't Muslims and Croats being given the requisite training at that time?",
+      "examination": "direct"
     },
     {
       "id": 702,
@@ -5237,10 +5559,11 @@
     },
     {
       "id": 703,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And that's my question: Why weren't these people sent? Were they not sent because they were Croat and Muslim or were they not sent for some other reason?"
+      "text": "And that's my question: Why weren't these people sent? Were they not sent because they were Croat and Muslim or were they not sent for some other reason?",
+      "examination": "direct"
     },
     {
       "id": 704,
@@ -5280,10 +5603,11 @@
     },
     {
       "id": 709,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "Just to follow that up: Who made the decision as to whether or not a person would be sent to reserve officer school?"
+      "text": "Just to follow that up: Who made the decision as to whether or not a person would be sent to reserve officer school?",
+      "examination": "direct"
     },
     {
       "id": 710,
@@ -5295,10 +5619,11 @@
     },
     {
       "id": 711,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WEINER",
       "role": "counsel",
       "type": "question",
-      "text": "And why at this level were Muslims and Croats not being sent by the Secretariat of National Defence? Why weren't they sending Croats to reserve officer school?"
+      "text": "And why at this level were Muslims and Croats not being sent by the Secretariat of National Defence? Why weren't they sending Croats to reserve officer school?",
+      "examination": "direct"
     },
     {
       "id": 712,
@@ -5408,6 +5733,10 @@
     {
       "after_utterance": 6,
       "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 8,
+      "text": "Examined by Mr. Weiner:"
     },
     {
       "after_utterance": 179,

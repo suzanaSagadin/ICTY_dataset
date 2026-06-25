@@ -1,6 +1,6 @@
 {
   "case": "gotovina",
-  "case_id": "IT-06-90-T",
+  "case_id": "IT-06-90",
   "date": "2010-04-22",
   "utterances": [
     {
@@ -134,7 +134,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Then let's get started. Could I briefly address the parties. Is there anything I should have added in the present situation where the witness has consulted for at least some hours with the counsel, whether I should inform him in -- on any other aspect of his right not to incriminate himself? If not, we'll start. Questioned by the Court:"
+      "text": "Then let's get started. Could I briefly address the parties. Is there anything I should have added in the present situation where the witness has consulted for at least some hours with the counsel, whether I should inform him in -- on any other aspect of his right not to incriminate himself? If not, we'll start."
     },
     {
       "id": 20,
@@ -992,10 +992,11 @@
     },
     {
       "id": 142,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Do you see Vujakovici to the west of that?"
+      "text": "Do you see Vujakovici to the west of that?",
+      "examination": "questioned"
     },
     {
       "id": 143,
@@ -2134,10 +2135,11 @@
     },
     {
       "id": 296,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Mr. Kuzmanovic, after having consulted my colleagues, could you tell us what those stories or rumours were, if -- no, let's me -- could you tell us what they were. And perhaps I take you back to your statement. Could we go to -- it's page 133, but I don't know whether that's also the ..."
+      "text": "Mr. Kuzmanovic, after having consulted my colleagues, could you tell us what those stories or rumours were, if -- no, let's me -- could you tell us what they were. And perhaps I take you back to your statement. Could we go to -- it's page 133, but I don't know whether that's also the ...",
+      "examination": "questioned"
     },
     {
       "id": 297,
@@ -2155,10 +2157,11 @@
     },
     {
       "id": 299,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Yes, you are recorded to have said the following. You first said: \"It's difficult for me to say something that could be following me or haunting me for my whole life.\" Then you further said: \"You see, I said I know about the story, I can't say I have the information.\" And then you say: \"Let's say I tell you the story and it turns out the story is not correct at all.\" Now, all those answers - and we could go through more of the pages - do suggest that you know what the stories are but that you are hesitant to convey them to the person who interviews you. Now, my question to you is again: Could you tell us what that story or those stories were?"
+      "text": "Yes, you are recorded to have said the following. You first said: \"It's difficult for me to say something that could be following me or haunting me for my whole life.\" Then you further said: \"You see, I said I know about the story, I can't say I have the information.\" And then you say: \"Let's say I tell you the story and it turns out the story is not correct at all.\" Now, all those answers - and we could go through more of the pages - do suggest that you know what the stories are but that you are hesitant to convey them to the person who interviews you. Now, my question to you is again: Could you tell us what that story or those stories were?",
+      "examination": "questioned"
     },
     {
       "id": 300,
@@ -5891,6 +5894,10 @@
     {
       "after_utterance": 14,
       "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 19,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 76,

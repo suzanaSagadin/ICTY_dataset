@@ -2517,7 +2517,7 @@
       "speaker": "JUDGE BONOMY",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you, Mr. Hannis. Questioned by the Court:"
+      "text": "Thank you, Mr. Hannis."
     },
     {
       "id": 327,
@@ -2723,15 +2723,15 @@
       "speaker": "JUDGE BONOMY",
       "role": "judge",
       "type": "statement",
-      "text": "Very well. Mr. Hannis, you may ask for clarification. Further cross-examination by Mr. Hannis:"
+      "text": "Very well. Mr. Hannis, you may ask for clarification."
     },
     {
       "id": 355,
-      "speaker": "MR. VISNJIC",
+      "speaker": "MR. HANNIS",
       "role": "counsel",
       "type": "question",
       "text": "General, just to be clear, when I asked you earlier about the 9200 firings, I understood your answer to say that was each firing involved an individual missile or an individual bomb. But now in light of your answer to Mr. Visnjic that seems like that's not correct. Can you explain? Is -- each of the 9200 firings involves one or more missiles? Please explain.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 356,
@@ -4601,8 +4601,16 @@
       "text": "[The witness takes the stand]"
     },
     {
+      "after_utterance": 326,
+      "text": "Questioned by the Court:"
+    },
+    {
       "after_utterance": 342,
       "text": "Re-examination by Mr. Visnjic:"
+    },
+    {
+      "after_utterance": 354,
+      "text": "Further cross-examination by Mr. Hannis:"
     },
     {
       "after_utterance": 356,

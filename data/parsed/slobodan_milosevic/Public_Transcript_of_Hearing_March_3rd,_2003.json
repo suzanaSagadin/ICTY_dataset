@@ -747,74 +747,77 @@
     },
     {
       "id": 107,
-      "speaker": "JUDGE MAY",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Ms. Uertz-Retzlaff:"
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please -- Mr. Grujic, please state your name for the record, your name and profession. Can you hear me now?",
+      "examination": "direct"
     },
     {
       "id": 108,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Please -- Mr. Grujic, please state your name for the record, your name and profession. Can you hear me now?"
-    },
-    {
-      "id": 109,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I can.",
-      "reply_to": 108
+      "reply_to": 107
+    },
+    {
+      "id": 109,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please state your name and profession for the record.",
+      "examination": "direct"
     },
     {
       "id": 110,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Please state your name and profession for the record."
-    },
-    {
-      "id": 111,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "[In English] Translator no.",
-      "reply_to": 110
+      "reply_to": 109
     },
     {
-      "id": 112,
+      "id": 111,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Let's try again. Ms. Uertz-Retzlaff, will you start again."
     },
     {
-      "id": 113,
+      "id": 112,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 114,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 113,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "Can you hear me now? Can you hear translation?"
+      "text": "Can you hear me now? Can you hear translation?",
+      "examination": "direct"
     },
     {
-      "id": 115,
+      "id": 114,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "[Interpretation] Not loud enough. I can hardly hear.",
-      "reply_to": 114
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "JUDGE MAY",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes."
     },
     {
       "id": 116,
-      "speaker": "JUDGE MAY",
-      "role": "judge",
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
@@ -822,2230 +825,2348 @@
       "id": 117,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
-      "type": "statement",
-      "text": "Yes."
+      "type": "question",
+      "text": "Can you hear me now, Mr. Grujic?",
+      "examination": "direct"
     },
     {
       "id": 118,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you hear me now, Mr. Grujic?"
-    },
-    {
-      "id": 119,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. It's okay now.",
-      "reply_to": 118
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please tell us your name and your profession.",
+      "examination": "direct"
     },
     {
       "id": 120,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Please tell us your name and your profession."
-    },
-    {
-      "id": 121,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "My name is Ivan Grujic. I'm currently working as the head of the department of the government of the Republic of Croatia for Detainees and Missing Persons.",
-      "reply_to": 120
+      "reply_to": 119
+    },
+    {
+      "id": 121,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "In your capacity as the head of this office, did you prepare an expert report on the missing people, displaced people, and killed people in the Republic of Croatia during the war years 1990, 1992?",
+      "examination": "direct"
     },
     {
       "id": 122,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In your capacity as the head of this office, did you prepare an expert report on the missing people, displaced people, and killed people in the Republic of Croatia during the war years 1990, 1992?"
-    },
-    {
-      "id": 123,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I did.",
-      "reply_to": 122
+      "reply_to": 121
     },
     {
-      "id": 124,
+      "id": 123,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, the Prosecution would like to tender this expert report and its attachments as exhibits. And it's -- actually, the expert report was filed on the 5th of February, 2003 and had a few attachments related to the work of the office. But in addition to that, the witness has prepared charts related to all the issues that arose in the report. That is the figures given in the report in numbers he has also prepared in charts, and we have put the charts in a binder."
     },
     {
-      "id": 125,
+      "id": 124,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "That's a binder which we've just got, is it?"
     },
     {
-      "id": 126,
+      "id": 125,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Binder 1. Binder 1 has these charts that the witness and his office prepared. Binder 1 has also the annex to the Croatian indictment, that is the killed people per crime-base and the findings of Mr. Grujic in relation to this particular schedule. That is, he has marked the schedules with particular annotations. And in addition to that, we have also prepared the underlying materials, that is missing questionnaires and exhumation reports. This is all included in the binders 2 to 10 with separate sections for each crime base."
     },
     {
-      "id": 127,
+      "id": 126,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Would it be convenient to deal with the matter in this way: The expert report will be given one exhibit number, together with its attachments; the first binder will be a separate exhibit; and then the remaining binders it may be convenient to deal with in the same way that we dealt with the village binders in the Kosovo part of the case, so that would be given a separate number together, 2 to 10, and be referred to as, for instance, the Grujic binder. Would that be convenient?"
     },
     {
-      "id": 128,
+      "id": 127,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour."
     },
     {
-      "id": 129,
+      "id": 128,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "You have the remaining binders here, do you, 2 to 10? The registrar points out that she doesn't have them. We'll give them numbers now."
     },
     {
-      "id": 130,
+      "id": 129,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 131,
+      "id": 130,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "Your Honours, the expert report with the attachment will be Prosecutor's Exhibit --"
     },
     {
-      "id": 132,
+      "id": 131,
       "speaker": "MR. TAPUSKOVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Your Honours."
     },
     {
-      "id": 133,
+      "id": 132,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Wait a moment. Don't interrupt, please, Mr. Tapuskovic. We'll deal with what you've got to say in a moment but let the registrar finish what she's saying."
     },
     {
-      "id": 134,
+      "id": 133,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "Your Honours expert report with attachment will be Prosecutor's Exhibit 401. The first binder will be Prosecutor's Exhibit 402, and the remaining separate binders beginning with 2 and ending with binder number 10 will be Prosecutor's Exhibit 403."
     },
     {
-      "id": 135,
+      "id": 134,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes, Mr. Tapuskovic."
     },
     {
-      "id": 136,
+      "id": 135,
       "speaker": "MR. TAPUSKOVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Your Honours, I don't have much to say except the fact that these ten binders were served on us today, the amicus, and as far as I understand it, Mr. Slobodan Milosevic received them only today. So up to the present we were unable to analyse these documents in any way. So I just wanted to inform Your Honours about that."
     },
     {
-      "id": 137,
+      "id": 136,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Yes."
     },
     {
-      "id": 138,
+      "id": 137,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, just to remark to this, everything was actually disclosed earlier on in the disclosure of the exhibits list and the attached exhibits. What you have gotten today is actually only a redisclosure of the materials, and it's now organised according to crime base, while in the exhibits list it was just put on there in a -- not in that organised fashion. The only thing that -- things that are actually new are the charts that the witness had prepared, the charts -- and the charts are actually just reflecting what is given in his sectioned results, results in the expert reports, just reflecting that numbers in -- in just -- in chart form. So that's actually also nothing really new."
     },
     {
-      "id": 139,
+      "id": 138,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Thank you. Yes, Mr. Milosevic, what is it?"
     },
     {
-      "id": 140,
+      "id": 139,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Microphone, please."
     },
     {
-      "id": 141,
+      "id": 140,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Microphone. We can't hear you."
     },
     {
-      "id": 142,
+      "id": 141,
       "speaker": "THE ACCUSED",
       "role": "accused",
       "type": "statement",
       "text": "[Interpretation] I should like to correct Mr. Tapuskovic, at least as far as I am concerned. These ten binders that I have received, these ten large binders, I received them when I entered here after the break. So I don't understand. Perhaps you can explain how you can imagine that I can look through all these papers and what all this is about."
     },
     {
-      "id": 143,
+      "id": 142,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "The material is already referred to, as I understand it, in the expert's report, which you've had for some time. Is that right, Ms. Uertz-Retzlaff?"
     },
     {
-      "id": 144,
+      "id": 143,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour."
     },
     {
-      "id": 145,
+      "id": 144,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "And this is also material which has already been disclosed some time ago."
     },
     {
-      "id": 146,
+      "id": 145,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Yes. Most of the material -- actually, eight of the binders are individual records for the victims of the crime bases, and they were disclosed earlier on, that is in -- on May 31st, 2002. And what you have here today is just an organised format just to -- so it's easier to find individual victims' records if at all necessary. The expert will deal with the matters in a more general way. His results are reflecting the entire results per crime base, but in case someone would like to check the records of an individual victim, then it is easy to find in the binders submitted. If that is at all necessary, that may -- it's left to the parties."
     },
     {
-      "id": 147,
+      "id": 146,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Thank you. Yes. Let's hear the evidence."
     },
     {
-      "id": 148,
+      "id": 147,
       "speaker": "MR. TAPUSKOVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Your Honours, I have to make an explanation to Your Honours for you to know. Possibly this was disclosed earlier on, as the Prosecutor tells us, but this is the first time that it has been disclosed in this chronological manner so that only now is it possible to compare these facts with the general conclusions provided by the expert in his report. So earlier on it was not possible to compare these documents with what the witness will be testifying about. I did come across such documents earlier on, but it was not possible to compare them with what is contained in the report of the witness you have before you."
     },
     {
-      "id": 149,
+      "id": 148,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Is there any dispute in this case that these people are either missing or detained? Is that a subject of dispute, Mr. Tapuskovic?"
     },
     {
-      "id": 150,
+      "id": 149,
       "speaker": "MR. TAPUSKOVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] That cannot be in dispute, absolutely not. But in order to make an assessment of the analysis provided by the expert, it should have been put in some chronological order for conclusions to be made. Otherwise, Your Honour, certainly there can be no dispute about it."
     },
     {
-      "id": 151,
+      "id": 150,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "No. We need to hear the witness's evidence. We'll hear the evidence, and then if there are any objections -- and if they're simply as to form, there is no point in them. Now, if they're of substance, if there is a real dispute about what this witness is going to say, then of course we'll consider it. But it seems to me, and of course I speak for myself, that at the moment these are not matters which are really in dispute. But let us hear the witness's evidence. Then we'll consider cross-examination and the like."
     },
     {
-      "id": 152,
+      "id": 151,
       "speaker": "THE ACCUSED",
       "role": "accused",
       "type": "statement",
       "text": "[Interpretation] Mr. May, I just wish to say that as far as I am concerned it is in dispute, because one cannot accept a priori that what is contained here, that all of it has been checked and verified. It is in dispute indeed."
     },
     {
-      "id": 153,
+      "id": 152,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Very well. Very well. Let us go on."
     },
     {
-      "id": 154,
+      "id": 153,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 155,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 154,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, Mr. Grujic, as you have provided the written report, I will only address a few additional questions in relation to various chapters, and in relation to your professional work, you have been a police officer since 1992, and was the focus of your work throughout your career the gathering, analysing, and processing of information in particular in the last ten years?"
+      "text": "Witness, Mr. Grujic, as you have provided the written report, I will only address a few additional questions in relation to various chapters, and in relation to your professional work, you have been a police officer since 1992, and was the focus of your work throughout your career the gathering, analysing, and processing of information in particular in the last ten years?",
+      "examination": "direct"
     },
     {
-      "id": 156,
+      "id": 155,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I have been a policeman since 1972, holding various positions, but over the last ten years I have dealt with these issues of analysis and collection of information.",
-      "reply_to": 155
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Does your office, both the commission and later the government office, did your office deal with detainees and missing people from all sides, that is, Serbs, Croats, Muslims, and other ethnic groups?",
+      "examination": "direct"
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Does your office, both the commission and later the government office, did your office deal with detainees and missing people from all sides, that is, Serbs, Croats, Muslims, and other ethnic groups?"
-    },
-    {
-      "id": 158,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. The office, according to the functions it has, collects and processes information about missing persons, detained persons, exhumed persons, as well as the locations of mass graves, and all the data and activities of the office develop regardless of ethnic, religious, or other affiliation of the persons or victims that the office is dealing with.",
-      "reply_to": 157
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did the commission also deal with exchanges?",
+      "examination": "direct"
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did the commission also deal with exchanges?"
-    },
-    {
-      "id": 160,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. It was also one of the main duties of the commission, and as such it was established by the government of the Republic of Croatia. So one of its activities is the exchange of prisoners of war.",
-      "reply_to": 159
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "You have described how the office was established and the changes in your report. Can you give us an idea of how -- of the size of your office? Can you tell us about the structure?",
+      "examination": "direct"
     },
     {
       "id": 161,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You have described how the office was established and the changes in your report. Can you give us an idea of how -- of the size of your office? Can you tell us about the structure?"
-    },
-    {
-      "id": 162,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "The office itself is directly responsible to the government of the Republic of Croatia, and as its permanent staff, it has four full-time personnel. We have a computer engineer, two persons with secondary education engaging in analysis and keeping of records, we have also part-time associates, an operative for the field, associate in the office for the Vukovar office. So this office coordinates with other organisational units, addressing the same issues within other ministries.",
-      "reply_to": 161
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "You have actually listed in paragraph 5 of your report expert and advisory bodies you work with. My question is: What about cooperation with the ICRC? Does that take place as well?",
+      "examination": "direct"
     },
     {
       "id": 163,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You have actually listed in paragraph 5 of your report expert and advisory bodies you work with. My question is: What about cooperation with the ICRC? Does that take place as well?"
-    },
-    {
-      "id": 164,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "While the commission existed and later on the office, one of the stipulations in the decree on the office is cooperation with international organisations, and that also includes a cooperation with the International Committee of the Red Cross.",
-      "reply_to": 163
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "In which way do you cooperate with them?",
+      "examination": "direct"
     },
     {
       "id": 165,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In which way do you cooperate with them?"
-    },
-    {
-      "id": 166,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "We have a direct exchange of data linked to missing persons and an indirect exchange of data through the national tracing service of the Croatian Red Cross. And also, we also obtained data from the International Red Cross through the mediation of family members, so that this cooperation is highly developed.",
-      "reply_to": 165
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "In paragraph 4 of your report you have listed the scope of the work, and I do not want to go into details except for one. You list here in the tasks, \"Organising and holding talks on detainees and missing persons with the Federal Republic of Yugoslavia and Bosnia and Herzegovina.\"",
+      "examination": "direct"
     },
     {
       "id": 167,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In paragraph 4 of your report you have listed the scope of the work, and I do not want to go into details except for one. You list here in the tasks, \"Organising and holding talks on detainees and missing persons with the Federal Republic of Yugoslavia and Bosnia and Herzegovina.\""
-    },
-    {
-      "id": 168,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, it's on page 2."
     },
     {
-      "id": 169,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 168,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "And I would like to know, did you also have talks with authorities of the RSK?"
+      "text": "And I would like to know, did you also have talks with authorities of the RSK?",
+      "examination": "direct"
     },
     {
-      "id": 170,
+      "id": 169,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. The Republic of Serbian Krajina also had a similar commission for the exchange of detainees and prisoners, and we also talked to them to achieve the release of those prisoners. Blank page inserted to ensure pagination corresponds between the French and English transcripts.",
-      "reply_to": 169
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Your counterparts on the side of the FRY, Bosnia, and RSK, does that mean there were similar organised commissions like yours?",
+      "examination": "direct"
     },
     {
       "id": 171,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Your counterparts on the side of the FRY, Bosnia, and RSK, does that mean there were similar organised commissions like yours?"
-    },
-    {
-      "id": 172,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Those commissions were organisationally very similar to the commission we had in Croatia.",
-      "reply_to": 171
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did the Republika Srpska have a special commission or did you meet them only in the composition of the Bosnia and Herzegovina commission?",
+      "examination": "direct"
     },
     {
       "id": 173,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did the Republika Srpska have a special commission or did you meet them only in the composition of the Bosnia and Herzegovina commission?"
-    },
-    {
-      "id": 174,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "They had a central commission which was composed of two parts, a part -- two military parts, the 1st Corps and the 2nd Krajina Corps, which covered different parts of the territory so that we had discussions with the central commission which was -- had competencies over these two subcommissions. Perhaps it should be noted that very frequently the commission of Republika Srpska acted together with other Serbian commissions.",
-      "reply_to": 173
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "What does that mean? What does that refer to?",
+      "examination": "direct"
     },
     {
       "id": 175,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What does that mean? What does that refer to?"
-    },
-    {
-      "id": 176,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "This means that they spoke together and acted together during negotiations on the exchange of prisoners, and this was also due to the transfer of prisoners or placing prisoners on a list for release either from Yugoslavia or Republika Srpska or the Republic of Serbian Krajina.",
-      "reply_to": 175
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you say \"they,\" to whom do you mean? To which commissions do you refer?",
+      "examination": "direct"
     },
     {
       "id": 177,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And when you say \"they,\" to whom do you mean? To which commissions do you refer?"
-    },
-    {
-      "id": 178,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I'm referring to commissions in the Federal Republic of Yugoslavia, from the Republic of Serbian Krajina and from Republika Srpska.",
-      "reply_to": 177
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you had this -- since when did you have these joint commission meetings with these three bodies?",
+      "examination": "direct"
     },
     {
       "id": 179,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you had this -- since when did you have these joint commission meetings with these three bodies?"
-    },
-    {
-      "id": 180,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "These were mostly bilateral meetings, and they started in 1991, and they're virtually ongoing to this day.",
-      "reply_to": 179
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you had these joint commission meetings with all three, did any commission have the lead?",
+      "examination": "direct"
     },
     {
       "id": 181,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you had these joint commission meetings with all three, did any commission have the lead?"
-    },
-    {
-      "id": 182,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, you see it was clear that the dominant commission was the one from the Federal Republic of Yugoslavia.",
-      "reply_to": 181
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "How did that show? Can you explain that?",
+      "examination": "direct"
     },
     {
       "id": 183,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How did that show? Can you explain that?"
-    },
-    {
-      "id": 184,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "The commission of the Federal Republic of Yugoslavia would invite people to those meetings, and its delegation would include members of other delegations, specifically in the -- within the delegation of the Federal Republic of Yugoslavia, there was a representative from the Republic of Serbian Krajina.",
-      "reply_to": 183
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "To solve individual cases of detainees detained in Republika Srpska or Republika Srpska Krajina, could you solve matters for these people through the FRY?",
+      "examination": "direct"
     },
     {
       "id": 185,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "To solve individual cases of detainees detained in Republika Srpska or Republika Srpska Krajina, could you solve matters for these people through the FRY?"
-    },
-    {
-      "id": 186,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "In some cases, yes.",
-      "reply_to": 185
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would detainees get transferred from facilities of the RSK to RS or to FRY?",
+      "examination": "direct"
     },
     {
       "id": 187,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Would detainees get transferred from facilities of the RSK to RS or to FRY?"
-    },
-    {
-      "id": 188,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "We had a number of such examples that detainees were transferred from one territory to another, from the region of Yugoslavia to the territory of Bosnia and vice versa and also from occupied territories in the Republic of Croatia to Bosnia and vice versa.",
-      "reply_to": 187
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you have a list of these people that were transferred? Did you actually follow those moves?",
+      "examination": "direct"
     },
     {
       "id": 189,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you have a list of these people that were transferred? Did you actually follow those moves?"
-    },
-    {
-      "id": 190,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "In all cases where this was possible this was recorded, and I believe that our records were confirmed by the International Committee of the Red Cross so that individual detainees can be followed moving through several states. And for a number of cases, we have the first and last names of such persons.",
-      "reply_to": 189
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know about the case of a priest, Josip Bogovic, and how he was transferred through camps? Just as one example.",
+      "examination": "direct"
     },
     {
       "id": 191,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know about the case of a priest, Josip Bogovic, and how he was transferred through camps? Just as one example."
-    },
-    {
-      "id": 192,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I do know of the case of Mr. Bogovic, who was transferred from one camp to another, but I can't tell you exactly at this point in time which camps they were. I would need to look into my records to be able to tell you.",
-      "reply_to": 191
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you have your records with you in relation to this person or does that mean you would need to check in your office?",
+      "examination": "direct"
     },
     {
       "id": 193,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you have your records with you in relation to this person or does that mean you would need to check in your office?"
-    },
-    {
-      "id": 194,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I would have to check in my office. But perhaps there are some other persons.",
-      "reply_to": 193
+      "reply_to": 192
+    },
+    {
+      "id": 194,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just so that we have an example of your findings in relation to such a transfer --",
+      "examination": "direct"
     },
     {
       "id": 195,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Just so that we have an example of your findings in relation to such a transfer --"
-    },
-    {
-      "id": 196,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, the witness has actually brought documentation from his office, and the question is is he allowed to just look into his documents?"
     },
     {
-      "id": 197,
+      "id": 196,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes, if it's his documentation, his official documentation, he can."
     },
     {
-      "id": 198,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 197,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "Can you give us one example or two examples of such transfers?"
+      "text": "Can you give us one example or two examples of such transfers?",
+      "examination": "direct"
     },
     {
-      "id": 199,
+      "id": 198,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't have to look in my documents. I know about Vanin Zlatko. That was one particular case in point. He was in Yugoslavia and then afterwards was transferred. He was in the military investigating prison in Belgrade and then was later transferred to the Knin area. And he was liberated on the basis of an exchange process there.",
-      "reply_to": 198
+      "reply_to": 197
+    },
+    {
+      "id": 199,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And which -- in which year did this happen? What time frame does relate to this person?",
+      "examination": "direct"
     },
     {
       "id": 200,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And which -- in which year did this happen? What time frame does relate to this person?"
-    },
-    {
-      "id": 201,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "As to Mr. Vanin, he was captured sometime in 1993, and he was set free in mid-1994, I believe.",
-      "reply_to": 200
+      "reply_to": 199
+    },
+    {
+      "id": 201,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you give us one more example?",
+      "examination": "direct"
     },
     {
       "id": 202,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you give us one more example?"
-    },
-    {
-      "id": 203,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I'll try. I'll do my best. To be specific, I've found a case, Predrag Vukusic, who was captured on the 2nd of July, 1992. He was in the Korenica camp, then in Zeljava, and afterwards in Knin. So this is the area of Croatia, and then Bosnia, and once again Croatia. We have another example, that of Mr. Slavko Rajic, who was in the Morin camp in Montenegro. Later on, he was transferred to Bosnia, to Bileca, from whence he was liberated. And also we have Tihomir Dujnovic, who on the 7th, or rather, the 12th of December 1991 was captured in Ston, Croatia. He was taken to Montenegro, to the Morin camp, and transferred to a camp in Bosnia, Bileca, where on the 2nd of July, he was exchanged in Cavtat. The year was 1992.",
-      "reply_to": 202
+      "reply_to": 201
+    },
+    {
+      "id": 203,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "That should be enough as examples. I would like now to move on to the missing persons, and you have described in paragraph 6 and 7 your methodology on the missing persons and the missing person questionnaires, and I do not need to go into the details. Just one question: Why was it necessary to have the -- this campaign of the renewal of requests for -- for missing persons? Why was it necessary to do that in 1993, 1994?",
+      "examination": "direct"
     },
     {
       "id": 204,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "That should be enough as examples. I would like now to move on to the missing persons, and you have described in paragraph 6 and 7 your methodology on the missing persons and the missing person questionnaires, and I do not need to go into the details. Just one question: Why was it necessary to have the -- this campaign of the renewal of requests for -- for missing persons? Why was it necessary to do that in 1993, 1994?"
-    },
-    {
-      "id": 205,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "As I have already stated, in 1993 a commission was set up, a joint commission, government commission, which confronted the fact that there were numerous missing persons. And as the individual data about the missing persons was poorly filled out, it was quite clear that there were also a large number of dead that were listed as missing persons. So we had to collect the antemortem data for their subsequent identification, and that is why we repeated our request for the missing persons search. We presented this to the media, we appealed to all the citizens of Croatia to come and report any missing persons who were family members or people they knew.",
-      "reply_to": 204
+      "reply_to": 203
+    },
+    {
+      "id": 205,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "We wouldn't need to go into the details of your methodology, but you, according to your findings, in 1994 you came up with 3.052 missing people, and it's your figure given in paragraph 7. That's for 1994. And in paragraph 34(f), you give another figure that is the missing persons are here given with 1.348, and that is the situation when you filed the report; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 206,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "We wouldn't need to go into the details of your methodology, but you, according to your findings, in 1994 you came up with 3.052 missing people, and it's your figure given in paragraph 7. That's for 1994. And in paragraph 34(f), you give another figure that is the missing persons are here given with 1.348, and that is the situation when you filed the report; is that correct?"
-    },
-    {
-      "id": 207,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Precisely. So when -- that is to say the initial state of affairs in 1994 were 3.052 people. And on the day I submitted my report, the figure was the one you quoted and to be found in the report, which means in the period in between, we found, located certain persons.",
-      "reply_to": 206
+      "reply_to": 205
+    },
+    {
+      "id": 207,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what is the figure today? Is it again reduced?",
+      "examination": "direct"
     },
     {
       "id": 208,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And what is the figure today? Is it again reduced?"
-    },
-    {
-      "id": 209,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Today the figure is smaller. And as of today, we still have 1.283 missing persons listed. That is the figure for today.",
-      "reply_to": 208
+      "reply_to": 207
+    },
+    {
+      "id": 209,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And does that mean you update your files on a regular basis?",
+      "examination": "direct"
     },
     {
       "id": 210,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And does that mean you update your files on a regular basis?"
-    },
-    {
-      "id": 211,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "We update them on a daily basis in our office, and each and every change is recorded at once and put into our files and records.",
-      "reply_to": 210
+      "reply_to": 209
+    },
+    {
+      "id": 211,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you make checks with other reports, such as the ICRC, in relation to these people?",
+      "examination": "direct"
     },
     {
       "id": 212,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you make checks with other reports, such as the ICRC, in relation to these people?"
-    },
-    {
-      "id": 213,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "One of the ways in which we cooperate with the ICRC is precisely control of the missing persons lists and our missing persons list. And if we find any persons on a daily basis, we send out our reports to the ICRC. So this is one of the mechanisms of controlling our own records and aligning them.",
-      "reply_to": 212
+      "reply_to": 211
+    },
+    {
+      "id": 213,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "These figures, do they include missing persons from families residing in the FRY or the RS, that is related to Operations Flash and Storm, or is that separate?",
+      "examination": "direct"
     },
     {
       "id": 214,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "These figures, do they include missing persons from families residing in the FRY or the RS, that is related to Operations Flash and Storm, or is that separate?"
-    },
-    {
-      "id": 215,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "They are separate data. All those who came in with requests, searching for missing persons and came to our office, a small number connected to that period is on that list, the 1.300 list. But for the most part, these lists are separate.",
-      "reply_to": 214
+      "reply_to": 213
+    },
+    {
+      "id": 215,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "If the -- if it would be necessary, if the other parties here or the Judges have questions, could you also give additional information, if so required, in relation to Operation Storm and Flash and results?",
+      "examination": "direct"
     },
     {
       "id": 216,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If the -- if it would be necessary, if the other parties here or the Judges have questions, could you also give additional information, if so required, in relation to Operation Storm and Flash and results?"
-    },
-    {
-      "id": 217,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 216
+      "reply_to": 215
     },
     {
-      "id": 218,
+      "id": 217,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I do not do that because it would be outside of the Prosecution case."
     },
     {
-      "id": 219,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 218,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "You have described, in paragraph 12, your analysis of the collected data, and I would like to know -- you've given here in particular -- you start out with a reference that you first check whether the disappearance was connected to the armed conflict or not, and I would like to know how would you make this distinction, on what basis?"
+      "text": "You have described, in paragraph 12, your analysis of the collected data, and I would like to know -- you've given here in particular -- you start out with a reference that you first check whether the disappearance was connected to the armed conflict or not, and I would like to know how would you make this distinction, on what basis?",
+      "examination": "direct"
     },
     {
-      "id": 220,
+      "id": 219,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Our questionnaires, the ones that were filled in, we clearly ask the question of place, the place in which the person disappeared. So if it was outside any armed conflict, then it wasn't recorded as persons missing connected to armed conflicts. Also, the time of disappearance clearly indicates whether this could be linked to any armed conflict or not. And also there are additional questions as to the circumstances of the person's disappearance, the way each individual person disappeared. So these are three basic elements indicating whether a person had gone missing linked to an armed conflict or not.",
-      "reply_to": 219
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "While you processed the data, would you -- did you check for duplicates? And if so, in which way did you do that?",
+      "examination": "direct"
     },
     {
       "id": 221,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "While you processed the data, would you -- did you check for duplicates? And if so, in which way did you do that?"
-    },
-    {
-      "id": 222,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "After the data gathering process was completed, all of them were subjected to infomatic data processing, and all those double ones were rejected, any double-takes were rejected because certain members -- this had arisen because certain family members had dispersed over a large territory and then they sent in their requests for one and the same person. And then subsequently there was another check that was conducted, and that was a check through purely individual checks that the employees of the office undertook themselves so as to avoid any double-takes.",
-      "reply_to": 221
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the files related to each person, where are they stored and do they include just the questionnaire or other materials as well?",
+      "examination": "direct"
     },
     {
       "id": 223,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And the files related to each person, where are they stored and do they include just the questionnaire or other materials as well?"
-    },
-    {
-      "id": 224,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "For each person, a questionnaire or, rather, a file or dossier was furnished which included all evidence as to that person's disappearance, all the material that had been collected. Sometimes they were video -- there was video footage or documents or articles that had appeared in the mass media, and also medical documents which were attached along with subsequent possible identification material. And all these dossiers are stored in the office for missing persons and there are records and files.",
-      "reply_to": 223
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "From page 6 onwards in your report, you explain your methodology in relation to exhumations, and you also attached an organigramme in relation to all the experts that were involved in the exhumation. My question to you is: What is the role of your office in the process and your -- your own role?",
+      "examination": "direct"
     },
     {
       "id": 225,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "From page 6 onwards in your report, you explain your methodology in relation to exhumations, and you also attached an organigramme in relation to all the experts that were involved in the exhumation. My question to you is: What is the role of your office in the process and your -- your own role?"
-    },
-    {
-      "id": 226,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "In one of the paragraphs or, rather, the articles upon which the office was established is that the office should be in charge of all exhumations carried out in Croatia. So one of the functions of the office is to organise the implementation of all exhumations, which means that all the information coming in as to possible locations of mass murders, it is on the basis of those -- that information that the office informs all competent subjects, all the subjects taking part in the exhumation process and procedure, they inform them about the intention to carry out an exhumation, and then on the basis of an order by the investigating judge, the whole procedure is put into practice and the exhumation itself takes place. As head of the office, I take direct part in each and every exhumation. I am present there, and I attend all the exhumations, practically all of them, in the field, and I help coordinate with all the other subjects taking part in the exhumation procedure. So it is an Blank page inserted to ensure pagination corresponds between the French and English transcripts. inter-institutional team, which means that several ministries take part in this process and we have to coordinate the work of all these ministries.",
-      "reply_to": 225
+      "reply_to": 224
+    },
+    {
+      "id": 226,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the documentation for the exhumation and identification, are they -- is it actually kept in your office?",
+      "examination": "direct"
     },
     {
       "id": 227,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And the documentation for the exhumation and identification, are they -- is it actually kept in your office?"
-    },
-    {
-      "id": 228,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Documentation about all exhumation carried out under the office's organisations, that is the records made and minutes of the investigating judge, all the video footage, et cetera, is stored in the office for missing persons.",
-      "reply_to": 227
+      "reply_to": 226
     },
     {
-      "id": 229,
+      "id": 228,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Ms. Uertz-Retzlaff, I think that's a convenient time to adjourn."
     },
     {
-      "id": 230,
+      "id": 229,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 231,
+      "id": 230,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Grujic, I'm sorry, I should have said don't speak to anybody, please, about your evidence until it's over. Could you be back in twenty minutes."
     },
     {
-      "id": 232,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 231,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Grujic, in relation to the exhumations, you have referred in paragraph 14 of your report, last paragraph, to the organisations -- in paragraph 14 of your report, in the last paragraph you have referred to the international organisations you cooperated with, and you also make a reference saying more recently you also worked together with the FRY and Republika Srpska commissions. What does it mean \"more recently\"? Since when do you cooperate in this field with those two entities?"
+      "text": "Mr. Grujic, in relation to the exhumations, you have referred in paragraph 14 of your report, last paragraph, to the organisations -- in paragraph 14 of your report, in the last paragraph you have referred to the international organisations you cooperated with, and you also make a reference saying more recently you also worked together with the FRY and Republika Srpska commissions. What does it mean \"more recently\"? Since when do you cooperate in this field with those two entities?",
+      "examination": "direct"
     },
     {
-      "id": 233,
+      "id": 232,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, in the process of exhumation, an agreement was reached on mutual monitoring, which means that if the exhumations are carried out for which the Federal Republic of Yugoslavia is interested in, or Bosnia-Herzegovina, and being implemented on the Republic of Croatia, that monitoring should be enabled so that their experts can attend the exhumations. And practice has shown in the past year that monitoring is allowed in the process of identification, and that has been implemented over the past year.",
-      "reply_to": 232
+      "reply_to": 231
+    },
+    {
+      "id": 233,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did you also take part or monitor exhumations and identifications that took place in Republika Srpska and the FRY in that last year?",
+      "examination": "direct"
     },
     {
       "id": 234,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And did you also take part or monitor exhumations and identifications that took place in Republika Srpska and the FRY in that last year?"
-    },
-    {
-      "id": 235,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. In the last year, I did attend as the representative of the Republic of Croatia, together with our forensic experts. I attended the exhumations conducted in Novi Sad, Sabac, Sremska Mitrovica, and also in Bosnia.",
-      "reply_to": 234
+      "reply_to": 233
+    },
+    {
+      "id": 235,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And these commissions from Croatia, Republika Srpska, and the FRY, do they actually apply a similar or even the same methodology when it comes to exhumations and identification?",
+      "examination": "direct"
     },
     {
       "id": 236,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And these commissions from Croatia, Republika Srpska, and the FRY, do they actually apply a similar or even the same methodology when it comes to exhumations and identification?"
-    },
-    {
-      "id": 237,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "The methodology is very similar as to the process of exhumation and identification. Part of the identification which relates to DNA analysis is conducted exclusively in our laboratories in Croatia, and they use international laboratories as well.",
-      "reply_to": 236
+      "reply_to": 235
+    },
+    {
+      "id": 237,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you have also explained in your report your cooperation with the ICTY, and is your procedure of exhumation and identification similar or different from the -- those applied by the ICTY?",
+      "examination": "direct"
     },
     {
       "id": 238,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you have also explained in your report your cooperation with the ICTY, and is your procedure of exhumation and identification similar or different from the -- those applied by the ICTY?"
-    },
-    {
-      "id": 239,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Procedure for exhumation is very similar except in some small details where there are differences, and they relate to the procedure of transporting the bodily remains from the actual site of the exhumation to the site where the process of identification takes place.",
-      "reply_to": 238
+      "reply_to": 237
+    },
+    {
+      "id": 239,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "What is the difference?",
+      "examination": "direct"
     },
     {
       "id": 240,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What is the difference?"
-    },
-    {
-      "id": 241,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "The difference is that when exhumations are done by the international court, there are -- the vehicles are physically accompanied, the vehicles transporting the bodily remains are physically escorted, whereas it's not -- that is not the case in our country, but we inform the police department that such a vehicle is passing through its territory, and of course there's an escort in the vehicle itself.",
-      "reply_to": 240
+      "reply_to": 239
+    },
+    {
+      "id": 241,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now turning to the results of your research and first the information on persons exhumed. That's paragraph 31 in your report. And you have actually prepared charts related to these figures given there.",
+      "examination": "direct"
     },
     {
       "id": 242,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now turning to the results of your research and first the information on persons exhumed. That's paragraph 31 in your report. And you have actually prepared charts related to these figures given there."
-    },
-    {
-      "id": 243,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "And it's tab 4, Your Honour, in the binder. Can the chart be given to the witness. I don't think we need to put it on the ELMO. The charts actually speak for themselves, and we would not -- it would take too much time to put it all on the ELMO."
     },
     {
-      "id": 244,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 243,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "Your office -- did -- did your office prepare these charts related to the number of exhumed persons, their sex, their age?"
+      "text": "Your office -- did -- did your office prepare these charts related to the number of exhumed persons, their sex, their age?",
+      "examination": "direct"
     },
     {
-      "id": 245,
+      "id": 244,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. That was prepared in the office for missing persons and detainees.",
-      "reply_to": 244
+      "reply_to": 243
+    },
+    {
+      "id": 245,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in relation to the status of exhumed and identified persons, maybe we could put that one, status, on the ELMO. That's the page Status. I have actually a few questions. In relation to the status of the exhumed and identified persons, you list here 1.640 civilians, 898 defenders, and I would like to know on which basis did you make this distinction.",
+      "examination": "direct"
     },
     {
       "id": 246,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And in relation to the status of exhumed and identified persons, maybe we could put that one, status, on the ELMO. That's the page Status. I have actually a few questions. In relation to the status of the exhumed and identified persons, you list here 1.640 civilians, 898 defenders, and I would like to know on which basis did you make this distinction."
-    },
-    {
-      "id": 247,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "When we ascertain the identity of the victim, checks are made as to that person's status. In the Republic of Croatia, there is a ministry of Croatian defenders which has records and files of all members of the armed conflict, members of the Republic of Croatia. So if any one of them is on that list, is on the list of that particular ministry, that means that they receive certain remuneration and enjoy the status of a Croatian defender, then that kind of victim is recorded as a victim having the status of defender.",
-      "reply_to": 246
+      "reply_to": 245
+    },
+    {
+      "id": 247,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And defenders, does that include military and police or is it only one of them?",
+      "examination": "direct"
     },
     {
       "id": 248,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And defenders, does that include military and police or is it only one of them?"
-    },
-    {
-      "id": 249,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That is the official title for this section of the population, and it is applied and incorporates all members of the armed forces of the Republic of Croatia, both the police and the army.",
-      "reply_to": 248
+      "reply_to": 247
+    },
+    {
+      "id": 249,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And civilian protection, you list here 199 persons, victims or exhumed as civilian protection. What does that include?",
+      "examination": "direct"
     },
     {
       "id": 250,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And civilian protection, you list here 199 persons, victims or exhumed as civilian protection. What does that include?"
-    },
-    {
-      "id": 251,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That is a separate category of persons. That is to say at the point of an armed conflict, they were engaged in certain activities of civil -- civilian protection. That is to say the fire brigade, electricians, and so on. So they manned the branches and services that had to function during that time, during an armed conflict where the conflict took place.",
-      "reply_to": 250
+      "reply_to": 249
+    },
+    {
+      "id": 251,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "In relation to the chart dealing with the ethnic composition, my question only is in relation to the Serbs listed on -- in this chart, does that refer to the Operations Storm and Flash or to what time period does that refer?",
+      "examination": "direct"
     },
     {
       "id": 252,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In relation to the chart dealing with the ethnic composition, my question only is in relation to the Serbs listed on -- in this chart, does that refer to the Operations Storm and Flash or to what time period does that refer?"
-    },
-    {
-      "id": 253,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That refers to -- that is to say, all these victims were victims from 1991 up until 1994, that period. From 1991 to 1994, so not the Operations Flash and Storm.",
-      "reply_to": 252
+      "reply_to": 251
+    },
+    {
+      "id": 253,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "We can turn next to the -- the next breakdown, and it's actually the displaced persons, and that's tab 1 in relation to the charts. You have listed in your report a figure of - in paragraph 34(a), Your Honour - you have listed the figure of 220.338 displaced persons. Which time period does that cover?",
+      "examination": "direct"
     },
     {
       "id": 254,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "We can turn next to the -- the next breakdown, and it's actually the displaced persons, and that's tab 1 in relation to the charts. You have listed in your report a figure of - in paragraph 34(a), Your Honour - you have listed the figure of 220.338 displaced persons. Which time period does that cover?"
-    },
-    {
-      "id": 255,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That covers 1991 and 1992 up until 1994. But the largest number of displaced persons, up until 1991, was up until mid-1991. I beg your pardon. Up until 1992.",
-      "reply_to": 254
+      "reply_to": 253
+    },
+    {
+      "id": 255,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "You have actually produced this chart in relation to the displaced persons, and it gives actually a figure of 168.903 as the peak for 1992. Do you have it?",
+      "examination": "direct"
     },
     {
       "id": 256,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You have actually produced this chart in relation to the displaced persons, and it gives actually a figure of 168.903 as the peak for 1992. Do you have it?"
-    },
-    {
-      "id": 257,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 256
+      "reply_to": 255
+    },
+    {
+      "id": 257,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you have also listed the displaced persons according to counties.",
+      "examination": "direct"
     },
     {
       "id": 258,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you have also listed the displaced persons according to counties."
-    },
-    {
-      "id": 259,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, this shows the period and the counties from which the persons were displaced.",
-      "reply_to": 258
+      "reply_to": 257
+    },
+    {
+      "id": 259,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "I think these charts also speak for themselves, so we do not need to go into the details. The next -- the next group would be paragraph 34(b) in your report, and it refers to 11.834 killed people, and it's tab 2 of your charts. And you have again provided details in relation to whether they were defenders or civilians or whether they were -- their age, the counties of where the killing occurred, and the ethnic breakdown. In your written report, you make a reference to records of competent bodies on which you have actually based your results. Can you say who that -- what that means, what is behind \"records of competent bodies\"?",
+      "examination": "direct"
     },
     {
       "id": 260,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I think these charts also speak for themselves, so we do not need to go into the details. The next -- the next group would be paragraph 34(b) in your report, and it refers to 11.834 killed people, and it's tab 2 of your charts. And you have again provided details in relation to whether they were defenders or civilians or whether they were -- their age, the counties of where the killing occurred, and the ethnic breakdown. In your written report, you make a reference to records of competent bodies on which you have actually based your results. Can you say who that -- what that means, what is behind \"records of competent bodies\"?"
-    },
-    {
-      "id": 261,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, the problems concerning the persons killed was dealt with by a number of bodies in Croatia, the Health Ministry, its information department would receive information from the field and kept records of that kind. Apart from that, for members of the armed forces, similar records used to be kept by the Ministry of Defence and those records and files were taken over by the Ministry of Croatian Defenders at present. So those two records overlap in certain aspects. Then there are records from exhumed persons from mass graves, and they too enter the category of persons killed, and this information is stored in the Commission for Detainees and Missing Persons. So there were double -- a duplication of names, but the number was 11.834 persons, a minimum of that number, and there is the name and surname and individual facts about the person killed.",
-      "reply_to": 260
+      "reply_to": 259
+    },
+    {
+      "id": 261,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "As you received records from different offices, did you filter out duplicates while you registered all this data?",
+      "examination": "direct"
     },
     {
       "id": 262,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "As you received records from different offices, did you filter out duplicates while you registered all this data?"
-    },
-    {
-      "id": 263,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. All the data was checked several times, both infomatically and individually, by hand, so that there was no duplication.",
-      "reply_to": 262
+      "reply_to": 261
+    },
+    {
+      "id": 263,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you have a relatively high number listed in the ethnic breakdown, a relatively high number of 4.173 where you say unknown, ethnic affiliation unknown. Can you explain that?",
+      "examination": "direct"
     },
     {
       "id": 264,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you have a relatively high number listed in the ethnic breakdown, a relatively high number of 4.173 where you say unknown, ethnic affiliation unknown. Can you explain that?"
-    },
-    {
-      "id": 265,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "We don't have the information about ethnicity, and wherever we didn't have that information that is reliable, such a person would be categorised as \"unknown.\" Also, some members of their families did not state their ethnicity so we do not have that particular information in official documents.",
-      "reply_to": 264
+      "reply_to": 263
+    },
+    {
+      "id": 265,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in your charts in relation to the status of the killed persons, you have first this chart related to the general breakdown, and you have also a chart related to medical personnel, journalists, foreign citizens, and religious personnel. On which basis did you get this information?",
+      "examination": "direct"
     },
     {
       "id": 266,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And in your charts in relation to the status of the killed persons, you have first this chart related to the general breakdown, and you have also a chart related to medical personnel, journalists, foreign citizens, and religious personnel. On which basis did you get this information?"
-    },
-    {
-      "id": 267,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "There is a separate column in the questionnaire, in the document of each individual killed person where this is indicated, that is, persons that enjoy special protection under Geneva Conventions, such as medical personnel, religious officers. These are persons that are separately listed and recorded as such. Of course, in cases where this could be documented, where this was known.",
-      "reply_to": 266
+      "reply_to": 265
+    },
+    {
+      "id": 267,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "In -- now we turn to the -- paragraph 34(c), where you list 3.000 -- in your report you list 3.052 missing and forcibly abducted persons. Why do you make this distinction? What is the distinction between the two?",
+      "examination": "direct"
     },
     {
       "id": 268,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In -- now we turn to the -- paragraph 34(c), where you list 3.000 -- in your report you list 3.052 missing and forcibly abducted persons. Why do you make this distinction? What is the distinction between the two?"
-    },
-    {
-      "id": 269,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "A missing person is a person about whom there's no information, whereas forcibly abducted persons, for them we have information that they were forcibly abducted from their homes. There were witnesses, and this was recorded in the questionnaires that we compiled for renewing tracing requests. And for each of those categories, the person responsible for witnesses of forcibly abducted persons, all these things are to be found in the questionnaires that have been attached.",
-      "reply_to": 268
+      "reply_to": 267
+    },
+    {
+      "id": 269,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And these three -- this figure of 3.052 missing and -- missing and forcibly abducted, does this include the territory of Croatia and Bosnia in relation to citizens from Croatia?",
+      "examination": "direct"
     },
     {
       "id": 270,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And these three -- this figure of 3.052 missing and -- missing and forcibly abducted, does this include the territory of Croatia and Bosnia in relation to citizens from Croatia?"
-    },
-    {
-      "id": 271,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That's right. When the listing was renewed, all missing persons were recorded. Some of those people disappeared in the territory of Bosnia. At that time, 137 persons, which means that 2.915 had gone missing within the territory of the Republic of Croatia. And at present, the figure of people who went missing in the territory of Bosnia amounts to 72.",
-      "reply_to": 270
+      "reply_to": 269
     },
     {
-      "id": 272,
+      "id": 271,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, it's -- can the witness be shown the chart tab 3. That actually deals with the figures that are a little bit lower than the figure given in the report."
     },
     {
-      "id": 273,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 272,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "Does this chart reflect the status and the analysis in relation to Croatian territory only?"
+      "text": "Does this chart reflect the status and the analysis in relation to Croatian territory only?",
+      "examination": "direct"
     },
     {
-      "id": 274,
+      "id": 273,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. This is the number of missing persons in the territory of the Republic of Croatia in the period from 2002 -- that is, from 1994, to 2002. So we can make a comparison for these two different time periods.",
-      "reply_to": 273
+      "reply_to": 272
+    },
+    {
+      "id": 274,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. Thank you. The charts speak for themselves. Now I would like to turn to paragraph 34(d) and (e) and actually view them together. And you have here 2.746 people exhumed and identified in relation -- and 3.356 exhumed altogether, including the unidentified. This figure of 2.746 identified bodies, does this relate to the exhumation Blank page inserted to ensure pagination corresponds between the French and English transcripts. work that was conducted in your office or does it include those done in the previous commissions, in 1991 and 1992?",
+      "examination": "direct"
     },
     {
       "id": 275,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes. Thank you. The charts speak for themselves. Now I would like to turn to paragraph 34(d) and (e) and actually view them together. And you have here 2.746 people exhumed and identified in relation -- and 3.356 exhumed altogether, including the unidentified. This figure of 2.746 identified bodies, does this relate to the exhumation Blank page inserted to ensure pagination corresponds between the French and English transcripts. work that was conducted in your office or does it include those done in the previous commissions, in 1991 and 1992?"
-    },
-    {
-      "id": 276,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No. This figure refers to exhumations carried out by my office, and the process started in 1995. And all those exhumations were carried out in areas that had previously been occupied.",
-      "reply_to": 275
+      "reply_to": 274
+    },
+    {
+      "id": 276,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Does it also include the figures of those found in graves in Novi Sad or in the other places that you mentioned in the FRY?",
+      "examination": "direct"
     },
     {
       "id": 277,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Does it also include the figures of those found in graves in Novi Sad or in the other places that you mentioned in the FRY?"
-    },
-    {
-      "id": 278,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No. This relates exclusively to the victims that we found in 135 mass graves and 1.200 and something individual graves.",
-      "reply_to": 277
+      "reply_to": 276
+    },
+    {
+      "id": 278,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Before we go to actually the last chapter, that is the detention facilities, I would like to discuss with you specific crime scenes and the results of your offers in relation to these specific crime scenes. In preparation of your report, were you actually asked to examine your work results in relation to the persons listed in the schedules of the Croatia indictment?",
+      "examination": "direct"
     },
     {
       "id": 279,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Before we go to actually the last chapter, that is the detention facilities, I would like to discuss with you specific crime scenes and the results of your offers in relation to these specific crime scenes. In preparation of your report, were you actually asked to examine your work results in relation to the persons listed in the schedules of the Croatia indictment?"
-    },
-    {
-      "id": 280,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did review them.",
-      "reply_to": 279
+      "reply_to": 278
+    },
+    {
+      "id": 280,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you came to The Hague to testify, did you and one of your staff members actually check the schedules of the indictment and indicate in handwriting your results on the schedules?",
+      "examination": "direct"
     },
     {
       "id": 281,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And when you came to The Hague to testify, did you and one of your staff members actually check the schedules of the indictment and indicate in handwriting your results on the schedules?"
-    },
-    {
-      "id": 282,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Each of those lists was checked, and the results were entered by hand on each of those lists.",
-      "reply_to": 281
+      "reply_to": 280
+    },
+    {
+      "id": 282,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did you also review documentation related to the crime scenes, in particular your missing person questionnaires and exhumation reports?",
+      "examination": "direct"
     },
     {
       "id": 283,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And did you also review documentation related to the crime scenes, in particular your missing person questionnaires and exhumation reports?"
-    },
-    {
-      "id": 284,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Yes.",
-      "reply_to": 283
+      "reply_to": 282
+    },
+    {
+      "id": 284,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was the documentation shown to you authentic? Was it actually from your office?",
+      "examination": "direct"
     },
     {
       "id": 285,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was the documentation shown to you authentic? Was it actually from your office?"
-    },
-    {
-      "id": 286,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Absolutely so.",
-      "reply_to": 285
+      "reply_to": 284
+    },
+    {
+      "id": 286,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would now like to go through the -- your findings and just refer to corrections that the witness actually made. First of all, we have not included Vocin in this -- this review. Can you explain why?",
+      "examination": "direct"
     },
     {
       "id": 287,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I would now like to go through the -- your findings and just refer to corrections that the witness actually made. First of all, we have not included Vocin in this -- this review. Can you explain why?"
-    },
-    {
-      "id": 288,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "In Vocin itself, exhumation was not carried out, and the victims found in Vocin, they were found immediately in 1991, and they were identified on the spot, and their names are in the list of people killed, that is the list containing 11.000 something names. And that is why those names are not registered in our office under the heading of \"Exhumed Persons.\"",
-      "reply_to": 287
+      "reply_to": 286
+    },
+    {
+      "id": 288,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now I would like to turn to Bacin. That is Annex I, paragraph 40. You have identified -- you have written next to the names an \"ID.\" What does that mean? Does that mean exhumed and identified?",
+      "examination": "direct"
     },
     {
       "id": 289,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now I would like to turn to Bacin. That is Annex I, paragraph 40. You have identified -- you have written next to the names an \"ID.\" What does that mean? Does that mean exhumed and identified?"
-    },
-    {
-      "id": 290,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "\"ID\" means identified.",
-      "reply_to": 289
+      "reply_to": 288
     },
     {
-      "id": 291,
+      "id": 290,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, it's tab 6. It's tab 6."
     },
     {
-      "id": 292,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 291,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "You have actually corrected one name here or, rather -- yes, one name and the date of birth of Vera Jukic."
+      "text": "You have actually corrected one name here or, rather -- yes, one name and the date of birth of Vera Jukic.",
+      "examination": "direct"
     },
     {
-      "id": 293,
+      "id": 292,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That's right. In the Prosecution's list, the name was Veronika, and the real name is Vera Jukic, and she was born in 1920 and not in 1919.",
-      "reply_to": 292
+      "reply_to": 291
+    },
+    {
+      "id": 293,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you have also made a correction in relation to Ana Blinja where you found that the date of the birth was incorrect?",
+      "examination": "direct"
     },
     {
       "id": 294,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you have also made a correction in relation to Ana Blinja where you found that the date of the birth was incorrect?"
-    },
-    {
-      "id": 295,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That's right. Ana Blinja, who was exhumed and identified, was born in 1923.",
-      "reply_to": 294
+      "reply_to": 293
+    },
+    {
+      "id": 295,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you have made two further corrections in relation to Mato Barunovic and Loncar Stefan, where you also detected a mistake in the names.",
+      "examination": "direct"
     },
     {
       "id": 296,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you have made two further corrections in relation to Mato Barunovic and Loncar Stefan, where you also detected a mistake in the names."
-    },
-    {
-      "id": 297,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That's right. It's not Mato but Matija Barunovic, and it's not Stefan Loncar but Stjepan Loncar.",
-      "reply_to": 296
+      "reply_to": 295
+    },
+    {
+      "id": 297,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Next to some of the names you made an \"M\". What does that indicate; that this person is still missing, according to your files?",
+      "examination": "direct"
     },
     {
       "id": 298,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Next to some of the names you made an \"M\". What does that indicate; that this person is still missing, according to your files?"
-    },
-    {
-      "id": 299,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. It is to indicate that the person is missing.",
-      "reply_to": 298
+      "reply_to": 297
+    },
+    {
+      "id": 299,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in relation to some of the names, you have added an \"ND.\" Does that mean -- what does that mean?",
+      "examination": "direct"
     },
     {
       "id": 300,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And in relation to some of the names, you have added an \"ND.\" Does that mean -- what does that mean?"
-    },
-    {
-      "id": 301,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That means that the office doesn't have any information about that person.",
-      "reply_to": 300
+      "reply_to": 299
+    },
+    {
+      "id": 301,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in relation to this Bacin list, does that include also victims from Dubica and Cerovljani?",
+      "examination": "direct"
     },
     {
       "id": 302,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And in relation to this Bacin list, does that include also victims from Dubica and Cerovljani?"
-    },
-    {
-      "id": 303,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "It's a list that includes victims from Cerovljani and Dubica.",
-      "reply_to": 302
+      "reply_to": 301
+    },
+    {
+      "id": 303,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "In how many mass graves did you find these bodies?",
+      "examination": "direct"
     },
     {
       "id": 304,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In how many mass graves did you find these bodies?"
-    },
-    {
-      "id": 305,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "We found one mass grave here, with 56 victims, in Bacin itself. Additionally, several different victims were found who were not in the mass grave. A total of 59 persons were exhumed in Bacin, out of which 56 were in the mass grave. So there were three individual cases as well. In Cerovljani, three individual cases were found.",
-      "reply_to": 304
+      "reply_to": 303
+    },
+    {
+      "id": 305,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And Dubica?",
+      "examination": "direct"
     },
     {
       "id": 306,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And Dubica?"
-    },
-    {
-      "id": 307,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "And in Dubica itself, six individual cases.",
-      "reply_to": 306
+      "reply_to": 305
+    },
+    {
+      "id": 307,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in relation, we now go to the next table in relation to the victims from Lipovanic, paragraph 42, it's tab 11. And you have here actually also corrected one name which was misspelled, and you have actually identified seven bodies; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 308,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And in relation, we now go to the next table in relation to the victims from Lipovanic, paragraph 42, it's tab 11. And you have here actually also corrected one name which was misspelled, and you have actually identified seven bodies; is that correct?"
-    },
-    {
-      "id": 309,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Quite so. Seven persons in Lipovanic were identified and that was the number of persons that were reported there too. On the list here, there's the name Sindric, and it's not Sindric but Cindric, the first letter being a \"C.\" It's probably a typing error.",
-      "reply_to": 308
+      "reply_to": 307
+    },
+    {
+      "id": 309,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "In relation to Marija Cindric, you --",
+      "examination": "direct"
     },
     {
       "id": 310,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In relation to Marija Cindric, you --"
-    },
-    {
-      "id": 311,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "So the second name is Cindric, Katja.",
-      "reply_to": 310
+      "reply_to": 309
+    },
+    {
+      "id": 311,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you have any findings on Marija Cindric? Do you know whether this person was killed?",
+      "examination": "direct"
     },
     {
       "id": 312,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you have any findings on Marija Cindric? Do you know whether this person was killed?"
-    },
-    {
-      "id": 313,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No. We don't know anything about her, and I think that this was an error, that two persons with the same surname were listed, in view of the fact that we do have information that seven persons were found and identified in the mass grave. This would coincide with the -- this list without Marija Cindric.",
-      "reply_to": 312
+      "reply_to": 311
     },
     {
-      "id": 314,
+      "id": 313,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, this person has to be struck from the list. It's a mistake, obviously."
     },
     {
-      "id": 315,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 314,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "We now turn to Vukovici, and it's tab 13, and you have here corrected -- or, rather, you have added here a date of birth or, rather, a year of birth. What can you tell us about this?"
+      "text": "We now turn to Vukovici, and it's tab 13, and you have here corrected -- or, rather, you have added here a date of birth or, rather, a year of birth. What can you tell us about this?",
+      "examination": "direct"
     },
     {
-      "id": 316,
+      "id": 315,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "On the list we have nine persons, out of which two have been identified. One of the identified persons, Vukovic Nikola, we have added his date of birth, which is 1938.",
-      "reply_to": 315
+      "reply_to": 314
+    },
+    {
+      "id": 316,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "In relation to these you did not identify, are they on the list of the 11.800 dead or -- registered as dead or can't you say anything to them -- about them?",
+      "examination": "direct"
     },
     {
       "id": 317,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In relation to these you did not identify, are they on the list of the 11.800 dead or -- registered as dead or can't you say anything to them -- about them?"
-    },
-    {
-      "id": 318,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Nothing can be said about them, therefore they are not on that list of 11.000, nor are they on the list of identified persons.",
-      "reply_to": 317
+      "reply_to": 316
+    },
+    {
+      "id": 318,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would now like to continue and go to the victims of Saborsko, paragraph 44 in the indictment. And you have here annex -- tab 15, and also I would like to just refer to tab 16. You have listed here the -- all of these listed in the paragraphs 44 were identified, but you found additional bodies in that same mass grave; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 319,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I would now like to continue and go to the victims of Saborsko, paragraph 44 in the indictment. And you have here annex -- tab 15, and also I would like to just refer to tab 16. You have listed here the -- all of these listed in the paragraphs 44 were identified, but you found additional bodies in that same mass grave; is that correct?"
-    },
-    {
-      "id": 320,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That's correct. Here on the list we have 18 identified persons, but we have to say that 30 persons were exhumed in Saborsko, out of which 27 were identified. They were found in two mass graves and in ten individual graves or cases.",
-      "reply_to": 319
+      "reply_to": 318
+    },
+    {
+      "id": 320,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you have actually given a list of the additional names, and that's -- would be tab 16; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 321,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you have actually given a list of the additional names, and that's -- would be tab 16; is that correct?"
-    },
-    {
-      "id": 322,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. It's an additional list attached to the annex and covers all identified victims.",
-      "reply_to": 321
+      "reply_to": 320
+    },
+    {
+      "id": 322,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "In relation to Skabrnja, we have actually two different lists, and the list for the victims of Nadin. It's actually named here in the -- in the index to the documentation, tab 19, and Skabrnja case 2 is mentioned here. In relation to the first list, the victims from the 18th and 19th November, 1991, did you make any findings in relation to this first group of Skabrnja victims, and if not so, why not?",
+      "examination": "direct"
     },
     {
       "id": 323,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In relation to Skabrnja, we have actually two different lists, and the list for the victims of Nadin. It's actually named here in the -- in the index to the documentation, tab 19, and Skabrnja case 2 is mentioned here. In relation to the first list, the victims from the 18th and 19th November, 1991, did you make any findings in relation to this first group of Skabrnja victims, and if not so, why not?"
-    },
-    {
-      "id": 324,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "The first group, that is case 1 Skabrnja, is a case in which the remains immediately after the event, that is several days after the event, were delivered through the local authorities to the family members, and they were processed and all were identified, and they are on the list of persons killed, that is, the list of 11.000 names. And the office did not take part in that.",
-      "reply_to": 323
+      "reply_to": 322
     },
     {
-      "id": 325,
+      "id": 324,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, this refers to paragraph 45 of the indictment, and we have not included it here in this package because the witness couldn't -- except for what he just said, he couldn't add more to this."
     },
     {
-      "id": 326,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 325,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "In relation to Nadin, you also did not have any additional information; is that correct?"
+      "text": "In relation to Nadin, you also did not have any additional information; is that correct?",
+      "examination": "direct"
     },
     {
-      "id": 327,
+      "id": 326,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 326
+      "reply_to": 325
+    },
+    {
+      "id": 327,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And now in relation to Skabrnja case 2, paragraph 47 of the indictment, you have actually identified all of the people listed. In how many graves were they, and did you find additional bodies?",
+      "examination": "direct"
     },
     {
       "id": 328,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And now in relation to Skabrnja case 2, paragraph 47 of the indictment, you have actually identified all of the people listed. In how many graves were they, and did you find additional bodies?"
-    },
-    {
-      "id": 329,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "All these persons on the list were found in a mass grave in Skabrnja, and there were 27 bodies. The exhumation took place on the 6th of June, 1996, so that all the persons who are on this list for Skabrnja were identified.",
-      "reply_to": 328
+      "reply_to": 327
+    },
+    {
+      "id": 329,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now turning to Bruska. Bruska is also not in -- not in the binders, Your Honours. Can you explain? Is that similar to your previous explanations, that you didn't deal with them?",
+      "examination": "direct"
     },
     {
       "id": 330,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now turning to Bruska. Bruska is also not in -- not in the binders, Your Honours. Can you explain? Is that similar to your previous explanations, that you didn't deal with them?"
-    },
-    {
-      "id": 331,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Yes. We didn't deal with the question of Bruska.",
-      "reply_to": 330
+      "reply_to": 329
+    },
+    {
+      "id": 331,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you aware of whether those listed under Bruska were actually dead? Are they in the list of 11.800 victims or don't you know that?",
+      "examination": "direct"
     },
     {
       "id": 332,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Are you aware of whether those listed under Bruska were actually dead? Are they in the list of 11.800 victims or don't you know that?"
-    },
-    {
-      "id": 333,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "I could not say at this point in time.",
-      "reply_to": 332
+      "reply_to": 331
+    },
+    {
+      "id": 333,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now we turn to Ovcara farm. You have now, in addition to your usual markings \"ID\" \"M\" and \"ND\", you have now made references to \"ID\" with a little star next to this \"ID\". What does that mean when you look at this schedule?",
+      "examination": "direct"
     },
     {
       "id": 334,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now we turn to Ovcara farm. You have now, in addition to your usual markings \"ID\" \"M\" and \"ND\", you have now made references to \"ID\" with a little star next to this \"ID\". What does that mean when you look at this schedule?"
-    },
-    {
-      "id": 335,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That means that that person is on the list of persons that have been identified but that it was not found in the Ovcara mass grave but in some other location.",
-      "reply_to": 334
+      "reply_to": 333
+    },
+    {
+      "id": 335,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "direct"
     },
     {
       "id": 336,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes."
-    },
-    {
-      "id": 337,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I'm now speaking about tab 22 and tab 23."
     },
     {
-      "id": 338,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 337,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "Have you -- when you went through the list, did you actually find a person who is alive, and did you point that out to the Prosecutor?"
+      "text": "Have you -- when you went through the list, did you actually find a person who is alive, and did you point that out to the Prosecutor?",
+      "examination": "direct"
     },
     {
-      "id": 339,
+      "id": 338,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Reviewing this list, we found a person called Vilenica Zarko. This person is alive. On the list, it happened to be also in the office documents as a missing person, it being said he was seen for the last time at the Vukovar Hospital. The questionnaire was filled in by the mother of the mentioned person, and tracing procedures were started, upon which we discovered that the person was alive.",
-      "reply_to": 338
+      "reply_to": 337
     },
     {
-      "id": 340,
+      "id": 339,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, this person Zarko Vilenica has --"
     },
     {
-      "id": 341,
+      "id": 340,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "In due course, Ms. Uertz-Retzlaff, it may be right, in light of this evidence and any other that there may be which would require amendment, formally for you to serve a document amending the indictment to delete these names."
     },
     {
-      "id": 342,
+      "id": 341,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour, but I suggest we do it by rather the end of the case. Then we have all the details clear."
     },
     {
-      "id": 343,
+      "id": 342,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes. But keep it in mind, if you would."
     },
     {
-      "id": 344,
+      "id": 343,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour, we'll do that."
     },
     {
-      "id": 345,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 344,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "In relation to Vukovar, can you say in how many graves you found the victims that you identified, and what about unidentified bodies this these gave graves?"
+      "text": "In relation to Vukovar, can you say in how many graves you found the victims that you identified, and what about unidentified bodies this these gave graves?",
+      "examination": "direct"
     },
     {
-      "id": 346,
+      "id": 345,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "In the area of Vukovar, that is the town of Vukovar itself, four mass graves were found, in which 1.319 persons were exhumed in total, out of which 1.094 persons were identified, whereas the remaining number are in the process of identification, and they are being stored in specially built graves for that purpose which are in Zagreb and in Osijek.",
-      "reply_to": 345
+      "reply_to": 344
+    },
+    {
+      "id": 346,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you have also made a few corrections in the list of names beside this one person who is alive. You have corrected a few names and birth dates, and I think we do not need to repeat that here. I have one question: You have listed as identified a female person, Janja Pothorski. In the mass graves with the victims from the hospital Vukovar did you find another female victim?",
+      "examination": "direct"
     },
     {
       "id": 347,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you have also made a few corrections in the list of names beside this one person who is alive. You have corrected a few names and birth dates, and I think we do not need to repeat that here. I have one question: You have listed as identified a female person, Janja Pothorski. In the mass graves with the victims from the hospital Vukovar did you find another female victim?"
-    },
-    {
-      "id": 348,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Pothorski.",
-      "reply_to": 347
+      "reply_to": 346
+    },
+    {
+      "id": 348,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. That is one female person listed here. Did you also find another female person in the grave?",
+      "examination": "direct"
     },
     {
       "id": 349,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes. That is one female person listed here. Did you also find another female person in the grave?"
-    },
-    {
-      "id": 350,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "In the mass grave at Ovcara, among the victims identified so far we have found another female, Mrs. Ruzica Markobasic, who was not registered as a wounded person or a patient but who had probably sought shelter in the hospital at that time. I have to mention that she was in Blank page inserted to ensure pagination corresponds between the French and English transcripts. advanced stage of pregnancy.",
-      "reply_to": 349
+      "reply_to": 348
+    },
+    {
+      "id": 350,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And let's now turn to Dalj, paragraph 50. In which mass grave were these bodies found?",
+      "examination": "direct"
     },
     {
       "id": 351,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And let's now turn to Dalj, paragraph 50. In which mass grave were these bodies found?"
-    },
-    {
-      "id": 352,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "These bodies were found in the mass grave at a place called Celija, and the grave was exhumed on the 23rd of February, 1998. We found 14 bodily remains in the grave.",
-      "reply_to": 351
+      "reply_to": 350
     },
     {
-      "id": 353,
+      "id": 352,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, that's now -- we are now moving on to tab 25."
     },
     {
-      "id": 354,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 353,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "And you have also made a note here that one of the persons on the schedule was actually found in a different place, that is Daljski Atar. What kind of a grave was there? Was that a single grave?"
+      "text": "And you have also made a note here that one of the persons on the schedule was actually found in a different place, that is Daljski Atar. What kind of a grave was there? Was that a single grave?",
+      "examination": "direct"
     },
     {
-      "id": 355,
+      "id": 354,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "In Daljski Atar, what we found was a mass grave. It was a well, in fact, and over 20 remains were found.",
-      "reply_to": 354
+      "reply_to": 353
+    },
+    {
+      "id": 355,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did you indicate in the subsequent list related to other crime bases also that same well as a place where you found the bodies?",
+      "examination": "direct"
     },
     {
       "id": 356,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And did you indicate in the subsequent list related to other crime bases also that same well as a place where you found the bodies?"
-    },
-    {
-      "id": 357,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. The bodily remains that are listed in cases 2 and 3 were found in the mass grave in Dalj and Celija.",
-      "reply_to": 356
+      "reply_to": 355
+    },
+    {
+      "id": 357,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. In relation to actually victims -- cases 2 and 3, paragraph 51, and that means tab 29 and the following two, we have here the person Vinko Oroz and Marinko Somodjvorac. Do you know where they were found?",
+      "examination": "direct"
     },
     {
       "id": 358,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes. In relation to actually victims -- cases 2 and 3, paragraph 51, and that means tab 29 and the following two, we have here the person Vinko Oroz and Marinko Somodjvorac. Do you know where they were found?"
-    },
-    {
-      "id": 359,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Marinko Somodjvorac and Vinko Oroz were found on the territory of the Federal Republic of Yugoslavia, in Novi Sad, actually. And through bilateral talks, those bodily remains were given to us along with all the documentation, the post-mortem findings, et cetera.",
-      "reply_to": 358
+      "reply_to": 357
+    },
+    {
+      "id": 359,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did the documentation that you received indicate how they -- how these bodies got to Novi Sad?",
+      "examination": "direct"
     },
     {
       "id": 360,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did the documentation that you received indicate how they -- how these bodies got to Novi Sad?"
-    },
-    {
-      "id": 361,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "According to the documentation that we received, you can see that the bodily remains were taken out of the Danube River. That's where they were found, across from the town of Ilok, in that region.",
-      "reply_to": 360
+      "reply_to": 359
+    },
+    {
+      "id": 361,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you aware whether other bodies also were dumped -- other bodies from this incident here also dumped in the Danube River?",
+      "examination": "direct"
     },
     {
       "id": 362,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Are you aware whether other bodies also were dumped -- other bodies from this incident here also dumped in the Danube River?"
-    },
-    {
-      "id": 363,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. The other bodies were also thrown into the Danube, but we didn't find them in the mass grave at Ilok in September 1999. But we undertook the procedure of identification later on. And let me also say that according to certain witness statements and what we learnt, these bodily remains were taken out of the river, out of the Danube, and that's when they were placed in the mass grave.",
-      "reply_to": 362
+      "reply_to": 361
+    },
+    {
+      "id": 363,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you refer to a mass grave in Ilok; right?",
+      "examination": "direct"
     },
     {
       "id": 364,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you refer to a mass grave in Ilok; right?"
-    },
-    {
-      "id": 365,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, and that's the one I'm talking about.",
-      "reply_to": 364
+      "reply_to": 363
+    },
+    {
+      "id": 365,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now we move on to the victims Lovas minefield, paragraph 52, and it's tab 33 and the following table. Where were the bodies of these people found?",
+      "examination": "direct"
     },
     {
       "id": 366,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now we move on to the victims Lovas minefield, paragraph 52, and it's tab 33 and the following table. Where were the bodies of these people found?"
-    },
-    {
-      "id": 367,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "The bodies of these people, their remains, of those persons on the list were located in the mass grave at a place called Lovas, and there were 68 persons in that mass grave, and the grave was exhumed in June 1997.",
-      "reply_to": 366
+      "reply_to": 365
+    },
+    {
+      "id": 367,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Moving on now to Erdut, case 1, paragraph 53, what can you tell us about the ethnicity of these victims?",
+      "examination": "direct"
     },
     {
       "id": 368,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Moving on now to Erdut, case 1, paragraph 53, what can you tell us about the ethnicity of these victims?"
-    },
-    {
-      "id": 369,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, it's quite obvious that these persons were members of the Hungarian ethnic minority. We have 12 persons on the list, ten of which were identified, and the bodily remains were found in the mass grave in Celija, and there were 16 victims in it.",
-      "reply_to": 368
+      "reply_to": 367
+    },
+    {
+      "id": 369,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the case 2, paragraph 53, we have listed here three more persons. Are they also Hungarians? And I'm referring now to tab 40.",
+      "examination": "direct"
     },
     {
       "id": 370,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And the case 2, paragraph 53, we have listed here three more persons. Are they also Hungarians? And I'm referring now to tab 40."
-    },
-    {
-      "id": 371,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's right. They were three individuals found in the mass grave, in the well in Borovo Selo near Dalj. The grave was exhumed in September 2000, and all three individuals were identified. They were all members of the Hungarian ethnic minority, and they were related to one of the others found in the other mass grave.",
-      "reply_to": 370
+      "reply_to": 369
+    },
+    {
+      "id": 371,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And we have actually in the previous -- in the previous schedule, we have a Franjo Pap born '34, and now we have a Franjo Pap born '60. Are these father and son?",
+      "examination": "direct"
     },
     {
       "id": 372,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And we have actually in the previous -- in the previous schedule, we have a Franjo Pap born '34, and now we have a Franjo Pap born '60. Are these father and son?"
-    },
-    {
-      "id": 373,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's right, they were father and son. And the wife, too. She was born in 1930, I believe.",
-      "reply_to": 372
+      "reply_to": 371
+    },
+    {
+      "id": 373,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And now we move on to the next schedule, Erdut, case 7, paragraph 53. Tab 44, Your Honours. We have here just one person. Is that another relative of the previously mentioned Hungarian victims?",
+      "examination": "direct"
     },
     {
       "id": 374,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And now we move on to the next schedule, Erdut, case 7, paragraph 53. Tab 44, Your Honours. We have here just one person. Is that another relative of the previously mentioned Hungarian victims?"
-    },
-    {
-      "id": 375,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's right. This person was also an ethnic Hungarian from Erdut. She was found in the well in Dalj Mountain, not far from Erdut.",
-      "reply_to": 374
+      "reply_to": 373
+    },
+    {
+      "id": 375,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And now moving on to the next schedule, Klisa, paragraph 54, that's tab 48 and 49. You have identified all these victims listed here. Where were they found?",
+      "examination": "direct"
     },
     {
       "id": 376,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And now moving on to the next schedule, Klisa, paragraph 54, that's tab 48 and 49. You have identified all these victims listed here. Where were they found?"
-    },
-    {
-      "id": 377,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "All five of them were identified and found in the mass grave at the place called Celija. So they were in the same mass grave as the people in paragraph 53.",
-      "reply_to": 376
+      "reply_to": 375
+    },
+    {
+      "id": 377,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now we move on to victims Vukovar, paragraph 55. You have identified all of these victims, and can you tell us where they were found?",
+      "examination": "direct"
     },
     {
       "id": 378,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now we move on to victims Vukovar, paragraph 55. You have identified all of these victims, and can you tell us where they were found?"
-    },
-    {
-      "id": 379,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "On the list, we have 11 persons. All 11 were identified. The first four individuals were found in the mass grave at the Lovas farm near Dalj in a grave in which otherwise there were 24 victims. The rest were found in the mass grave at the Catholic cemetery in Dalj itself, and 11 victims were uncovered in the grave.",
-      "reply_to": 378
+      "reply_to": 377
+    },
+    {
+      "id": 379,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. Now we move on to the Erdut cases. First the case 4. That's tab 55 and -- 54 and 55. Where were these bodies found?",
+      "examination": "direct"
     },
     {
       "id": 380,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes. Now we move on to the Erdut cases. First the case 4. That's tab 55 and -- 54 and 55. Where were these bodies found?"
-    },
-    {
-      "id": 381,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "These bodies were found in the mass grave that was called Daljski Atar, in the well where 23 victims in total were found, and they were exhumed in October 1998.",
-      "reply_to": 380
+      "reply_to": 379
+    },
+    {
+      "id": 381,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when you -- in this -- in these schedules that you mentioned, when you have \"M\", listed the \"M\", that person is in your missing persons list. And \"ND\", this person and all the others we mentioned before, would they be in the list of 11.800 and odd killed, or wouldn't you know anything about them?",
+      "examination": "direct"
     },
     {
       "id": 382,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And when you -- in this -- in these schedules that you mentioned, when you have \"M\", listed the \"M\", that person is in your missing persons list. And \"ND\", this person and all the others we mentioned before, would they be in the list of 11.800 and odd killed, or wouldn't you know anything about them?"
-    },
-    {
-      "id": 383,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "The persons listed with an \"M\" are persons who went missing and who are on the list of missing persons, those with the lists compiled in -- of the 1.883 persons. And the \"ND\" denotes persons we have no knowledge about, which means that none of their family members put in a request to search for them, but on the other hand, they haven't been listed as dead either.",
-      "reply_to": 382
+      "reply_to": 381
+    },
+    {
+      "id": 383,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. And the last schedule related to Erdut, paragraph 57, you have again identified all except for one person. And were they also found in the well that you mentioned?",
+      "examination": "direct"
     },
     {
       "id": 384,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes. And the last schedule related to Erdut, paragraph 57, you have again identified all except for one person. And were they also found in the well that you mentioned?"
-    },
-    {
-      "id": 385,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's right. These persons too were found in that same well in the Daljski Atar.",
-      "reply_to": 384
+      "reply_to": 383
+    },
+    {
+      "id": 385,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the way how they were actually situated in the well, did that indicate to you anything in relation to when they got -- when they were put in the well? Could you find -- could you make any findings in the way how they were actually in there?",
+      "examination": "direct"
     },
     {
       "id": 386,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And the way how they were actually situated in the well, did that indicate to you anything in relation to when they got -- when they were put in the well? Could you find -- could you make any findings in the way how they were actually in there?"
-    },
-    {
-      "id": 387,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "In view of the fact that data exists as to the time of these persons' disappearance, or most of their disappearances, and the way in which we found them, that is to say those who had disappeared earlier on were found on the bottom level of the well, whereas the ones who disappeared soonest were at the top. So we can make a reconstruction of the time on the basis of the time of disappearance, how the victims were placed in the well. Those who went missing first were at the bottom of the well, those who went missing last were at the top of the well. And it's a very small space, so the strata were not mixed, they were layer upon layer.",
-      "reply_to": 386
+      "reply_to": 385
+    },
+    {
+      "id": 387,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And now going -- coming to the last grave you dealt with, the victims Grabovac, paragraph 59 of the indictment, and the tab 30 -- 63 and 64, where were they found, these bodies?",
+      "examination": "direct"
     },
     {
       "id": 388,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And now going -- coming to the last grave you dealt with, the victims Grabovac, paragraph 59 of the indictment, and the tab 30 -- 63 and 64, where were they found, these bodies?"
-    },
-    {
-      "id": 389,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "All five victims from the list have been identified. They were found in the mass grave at Beli Manastir. But according to the information we have at our disposal, and we were able to prove this later on, those victims were first of all buried in a place called Tikves. It was a hunting ground. And between 1993 and 1994, they were transferred to the mass grave in Beli Manastir, which was within the Catholic cemetery compound.",
-      "reply_to": 388
+      "reply_to": 387
+    },
+    {
+      "id": 389,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did you find in that primary grave at the hunting ground, did you find parts of the remains of these people or how could you prove that they had been removed to a secondary grave?",
+      "examination": "direct"
     },
     {
       "id": 390,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And did you find in that primary grave at the hunting ground, did you find parts of the remains of these people or how could you prove that they had been removed to a secondary grave?"
-    },
-    {
-      "id": 391,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "According to a witness, a man who conducted the transfer of bodies showed us the place, and then we undertook analyses. We dug up the spot, and we found minute remains of human bones and also certain parts of their clothing were found and indicated that the same clothing parts were found on the exhumed remains.",
-      "reply_to": 390
+      "reply_to": 389
+    },
+    {
+      "id": 391,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And this primary grave in Tikves, is that close to Grabovac or how does this grave relate to the victims?",
+      "examination": "direct"
     },
     {
       "id": 392,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And this primary grave in Tikves, is that close to Grabovac or how does this grave relate to the victims?"
-    },
-    {
-      "id": 393,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "The place called Grabovac is about ten -- about ten kilometres away from that particular spot where they were discovered. I said that it was a hunting ground where the paramilitaries had been stationed while this area was under occupation.",
-      "reply_to": 392
+      "reply_to": 391
+    },
+    {
+      "id": 393,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Which paramilitary do you refer to?",
+      "examination": "direct"
     },
     {
       "id": 394,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Which paramilitary do you refer to?"
-    },
-    {
-      "id": 395,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "According to a statement by one of the witnesses describing the transference of the bodies, they were members of the Red Berets. That's what they were called. Probably members of Arkan's units and Captain Dragan's unit too.",
-      "reply_to": 394
+      "reply_to": 393
+    },
+    {
+      "id": 395,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "That's what this person told you who directed you to the grave?",
+      "examination": "direct"
     },
     {
       "id": 396,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "That's what this person told you who directed you to the grave?"
-    },
-    {
-      "id": 397,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's right.",
-      "reply_to": 396
+      "reply_to": 395
+    },
+    {
+      "id": 397,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And we actually had a schedule in relation to victims in Dubrovnik. Do you -- did you have any dealings with the victims from Dubrovnik? Could you say anything to them?",
+      "examination": "direct"
     },
     {
       "id": 398,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And we actually had a schedule in relation to victims in Dubrovnik. Do you -- did you have any dealings with the victims from Dubrovnik? Could you say anything to them?"
-    },
-    {
-      "id": 399,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I can't say anything about that except that they are on the list of persons killed of the 11.000, the list of the 11.000 that we submitted.",
-      "reply_to": 398
+      "reply_to": 397
+    },
+    {
+      "id": 399,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. We will now turn to the detention facilities. And you have already mentioned that you also dealt with detention facilities and exchanges, and you did actually describe your methodology in the report, and I do not need to repeat that with you. When was the last person actually exchanged? If you'd just tell us that.",
+      "examination": "direct"
     },
     {
       "id": 400,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes. We will now turn to the detention facilities. And you have already mentioned that you also dealt with detention facilities and exchanges, and you did actually describe your methodology in the report, and I do not need to repeat that with you. When was the last person actually exchanged? If you'd just tell us that."
-    },
-    {
-      "id": 401,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "The last person to be exchanged was in 1996.",
-      "reply_to": 400
+      "reply_to": 399
+    },
+    {
+      "id": 401,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "From where? Exchanged from where?",
+      "examination": "direct"
     },
     {
       "id": 402,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "From where? Exchanged from where?"
-    },
-    {
-      "id": 403,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "That person was, according to their own testimony, detained in Erdut, and the person was exchanged along the separation line of the then-occupied area next to Lipovac.",
-      "reply_to": 402
+      "reply_to": 401
+    },
+    {
+      "id": 403,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "You have also prepared charts in relation to the detention, and it's tab 5.",
+      "examination": "direct"
     },
     {
       "id": 404,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You have also prepared charts in relation to the detention, and it's tab 5."
-    },
-    {
-      "id": 405,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "And, Your Honour, the witness has informed us that the first -- the first page this subject -- this first page is outdated and you should remove it, it's no more correct. This first page giving the 7.666 and mentions captured, missing, killed, that's outdated and it wouldn't be correct and would you please remove this."
     },
     {
-      "id": 406,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 405,
+      "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "question",
-      "text": "In relation to the sex and status of the prisoners, is that -- what is the source for the distinction between soldiers and civilians? Is that the same as you have described before?"
+      "text": "In relation to the sex and status of the prisoners, is that -- what is the source for the distinction between soldiers and civilians? Is that the same as you have described before?",
+      "examination": "direct"
     },
     {
-      "id": 407,
+      "id": 406,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it's the same. Official records.",
-      "reply_to": 406
+      "reply_to": 405
+    },
+    {
+      "id": 407,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. And I'm just -- I would like to know, you have a relatively high number of \"unclear\" status people here, with 3.614. Can you explain why this number is so high?",
+      "examination": "direct"
     },
     {
       "id": 408,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes. And I'm just -- I would like to know, you have a relatively high number of \"unclear\" status people here, with 3.614. Can you explain why this number is so high?"
-    },
-    {
-      "id": 409,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "The number is so high because we don't have any official data. But it is clear that they are not members of the armed forces, they don't belong to that category. If they were, they would have been recorded and listed as such and then have enjoyed certain rights that that status gives them, and they would all be interested in receiving that. So we have to add them on to the civilian category.",
-      "reply_to": 408
+      "reply_to": 407
+    },
+    {
+      "id": 409,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in relation to the other charts there, actually, you have also listed again certain privilege group, like injured, medical staff, religious staff, and journalists, and I have only one more question in relation to the duration of the imprisonment that you also give in the chart, and there is also a relatively high number where you give the duration of imprisonment as unknown. How is that -- can you explain that?",
+      "examination": "direct"
     },
     {
       "id": 410,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And in relation to the other charts there, actually, you have also listed again certain privilege group, like injured, medical staff, religious staff, and journalists, and I have only one more question in relation to the duration of the imprisonment that you also give in the chart, and there is also a relatively high number where you give the duration of imprisonment as unknown. How is that -- can you explain that?"
-    },
-    {
-      "id": 411,
       "speaker": "IVAN GRUJIC",
       "role": "witness",
       "type": "answer",
       "text": "Because the data were filled in badly. This is what it was about: A certain number of detainees who were listed as such were exchanged before the commission had been set up on local levels, that is to say, and so only very scant data and information was recorded, and it wasn't always the right kind. Blank page inserted to ensure pagination corresponds between the French and English transcripts.",
-      "reply_to": 410
+      "reply_to": 409
+    },
+    {
+      "id": 411,
+      "speaker": "MS. UERTZ-RETZLAFF",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "direct"
     },
     {
       "id": 412,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes."
-    },
-    {
-      "id": 413,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I would like to discuss with the witnesses certain locations that are listed as detention facilities in the indictment, but this would take another perhaps 15 minutes, so I think it would be a good time to stop here."
     },
     {
-      "id": 414,
+      "id": 413,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Very well. We will adjourn now. Tomorrow morning, 9.00. Would you be back then, please, Mr. Grujic, 9.00 tomorrow morning."
     },
     {
-      "id": 415,
+      "id": 414,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I have one more point in relation to the witness. As he is an expert witness, the Prosecution has the duty to bring him here and take him back to the hotel. Are we allowed to do that?"
     },
     {
-      "id": 416,
+      "id": 415,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Provided you don't talk about the case or the evidence."
     },
     {
-      "id": 417,
+      "id": 416,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
       "text": "Yes. Yes."
     },
     {
-      "id": 418,
+      "id": 417,
       "speaker": "MS. UERTZ-RETZLAFF",
       "role": "counsel",
       "type": "statement",
@@ -3102,15 +3223,19 @@
       "text": "[Witness answered through interpreter]"
     },
     {
-      "after_utterance": 231,
+      "after_utterance": 106,
+      "text": "Examined by Ms. Uertz-Retzlaff:"
+    },
+    {
+      "after_utterance": 230,
       "text": "--- Recess taken at 12.16 p.m."
     },
     {
-      "after_utterance": 231,
+      "after_utterance": 230,
       "text": "--- On resuming at 12.39 p.m."
     },
     {
-      "after_utterance": 417,
+      "after_utterance": 416,
       "text": "--- Whereupon the hearing adjourned at 1.48 p.m.,"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "case": "hadzihasanovic_kubura",
-  "case_id": "IT-01-47-T",
+  "case_id": "IT-01-47",
   "date": "2004-01-26",
   "utterances": [
     {
@@ -1568,7 +1568,7 @@
       "speaker": "JUDGE ANTONETTI",
       "role": "judge",
       "type": "statement",
-      "text": "[Interpretation] Very well. Thank you. We are now in open session. Questioned by the Court:"
+      "text": "[Interpretation] Very well. Thank you. We are now in open session."
     },
     {
       "id": 213,
@@ -1698,14 +1698,15 @@
       "speaker": "MS. RESIDOVIC",
       "role": "counsel",
       "type": "statement",
-      "text": "[Interpretation] Thank you. Cross-examined by Ms. Residovic:"
+      "text": "[Interpretation] Thank you."
     },
     {
       "id": 231,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RESIDOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "[Interpretation] Good evening, Mr. XE. My name is Edina Residovic. I am Defence counsel for General Hadzihasanovic. I would like to ask you first of all to listen to the translation of my question in English and only then to provide an answer so that everyone in the courtroom can follow more easily. Do you understand what I'm saying?"
+      "text": "[Interpretation] Good evening, Mr. XE. My name is Edina Residovic. I am Defence counsel for General Hadzihasanovic. I would like to ask you first of all to listen to the translation of my question in English and only then to provide an answer so that everyone in the courtroom can follow more easily. Do you understand what I'm saying?",
+      "examination": "cross"
     },
     {
       "id": 232,
@@ -1717,10 +1718,11 @@
     },
     {
       "id": 233,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RESIDOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "In your headphones, you can hear the interpretation of my question."
+      "text": "In your headphones, you can hear the interpretation of my question.",
+      "examination": "cross"
     },
     {
       "id": 234,
@@ -1732,10 +1734,11 @@
     },
     {
       "id": 235,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RESIDOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "If you don't wait for the interpretation, then my question and your answer will overlap and those present in the courtroom who don't speak our language will not be able to follow."
+      "text": "If you don't wait for the interpretation, then my question and your answer will overlap and those present in the courtroom who don't speak our language will not be able to follow.",
+      "examination": "cross"
     },
     {
       "id": 236,
@@ -2405,6 +2408,14 @@
     {
       "after_utterance": 209,
       "text": "--- On resuming at 6.08 p.m."
+    },
+    {
+      "after_utterance": 212,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 230,
+      "text": "Cross-examined by Ms. Residovic:"
     },
     {
       "after_utterance": 238,

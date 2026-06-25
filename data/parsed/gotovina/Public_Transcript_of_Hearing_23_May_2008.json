@@ -1,6 +1,6 @@
 {
   "case": "gotovina",
-  "case_id": "IT-06-90-T",
+  "case_id": "IT-06-90",
   "date": "2008-05-23",
   "utterances": [
     {
@@ -3041,7 +3041,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Judge Gwaunza first has one or more questions for you. Questioned by the Court:"
+      "text": "Judge Gwaunza first has one or more questions for you."
     },
     {
       "id": 398,
@@ -3203,15 +3203,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes. At the same time, I'd like to -- part of the questions I have had to put today is because questions were -- the questions I was seeking clarification is because it's not sufficiently exceptional that facts are mixed up sometimes with conclusions or opinions and that the questions are not clear enough in order to get the best answers. Please proceed, Mr. Kehoe. Further Cross-examination by Mr. Kehoe:"
+      "text": "Yes. At the same time, I'd like to -- part of the questions I have had to put today is because questions were -- the questions I was seeking clarification is because it's not sufficiently exceptional that facts are mixed up sometimes with conclusions or opinions and that the questions are not clear enough in order to get the best answers. Please proceed, Mr. Kehoe."
     },
     {
       "id": 420,
-      "speaker": "MS. FROLICH",
+      "speaker": "MR. KEHOE",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Elleby, you noted in response to a question by Judge Orie that from mid-August to September there were occasional restrictions of movement in the area; is that right?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 421,
@@ -3223,11 +3223,11 @@
     },
     {
       "id": 422,
-      "speaker": "MS. FROLICH",
+      "speaker": "MR. KEHOE",
       "role": "counsel",
       "type": "question",
       "text": "Were those restrictions of movement to the north as you move up from Knin to Strmica and into -- moving in the direction of Bosnia?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 423,
@@ -4786,6 +4786,14 @@
     {
       "after_utterance": 396,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 397,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 419,
+      "text": "Further Cross-examination by Mr. Kehoe:"
     },
     {
       "after_utterance": 428,

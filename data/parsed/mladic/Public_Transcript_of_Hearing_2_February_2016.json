@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2016-02-02",
   "utterances": [
     {
@@ -3532,15 +3532,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Please proceed. Further Cross-examination by Mr. MacDonald:"
+      "text": "Please proceed."
     },
     {
       "id": 480,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. MACDONALD",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Pavlovic, just dealing with that last topic Mr. Lukic showed you as one of the orders you quote in your report there should be clearing up of the battlefield.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 481,
@@ -3551,11 +3551,11 @@
     },
     {
       "id": 482,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. MACDONALD",
       "role": "counsel",
       "type": "question",
       "text": "You will see a paragraph number 1. Just above that, the sentence above that actually begins: \"It is interesting to note that the author of this analysis was not able to find the reports of these units on the clearing up ...\" So, Mr. Pavlovic, that order Mr. Lukic just read out to you, you found no reports indicating any clearing up had taken place. That's right, isn't it?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 483,
@@ -3567,11 +3567,11 @@
     },
     {
       "id": 484,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. MACDONALD",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Pavlovic --",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 485,
@@ -3583,11 +3583,11 @@
     },
     {
       "id": 486,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. MACDONALD",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Pavlovic, you answered my question.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 487,
@@ -5010,6 +5010,10 @@
     {
       "after_utterance": 444,
       "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 479,
+      "text": "Further Cross-examination by Mr. MacDonald:"
     },
     {
       "after_utterance": 489,

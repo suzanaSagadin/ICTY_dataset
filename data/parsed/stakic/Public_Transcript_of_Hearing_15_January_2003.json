@@ -1,6 +1,6 @@
 {
   "case": "stakic",
-  "case_id": "IT-97-24-T",
+  "case_id": "IT-97-24",
   "date": "2003-01-15",
   "utterances": [
     {
@@ -92,7 +92,7 @@
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
-      "text": "Okay. Thank you. Then let me go into some detail again. Questioned by the Court: [ Continued]"
+      "text": "Okay. Thank you. Then let me go into some detail again."
     },
     {
       "id": 14,
@@ -841,14 +841,15 @@
       "speaker": "MS. SUTHERLAND",
       "role": "counsel",
       "type": "statement",
-      "text": "Just one question, Your Honour. Further cross-examined by Ms. Sutherland:"
+      "text": "Just one question, Your Honour."
     },
     {
       "id": 121,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. SUTHERLAND",
       "role": "counsel",
       "type": "question",
-      "text": "Mrs. Dakic, do you think Muslims would have been leaving the Prijedor area because they were fearful for their lives?"
+      "text": "Mrs. Dakic, do you think Muslims would have been leaving the Prijedor area because they were fearful for their lives?",
+      "examination": "cross"
     },
     {
       "id": 122,
@@ -860,10 +861,11 @@
     },
     {
       "id": 123,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. SUTHERLAND",
       "role": "counsel",
       "type": "question",
-      "text": "Did you hear about an incident of a person by the name of Zoran Zigic who came to the Prijedor hospital and stabbed a patient in the chest?"
+      "text": "Did you hear about an incident of a person by the name of Zoran Zigic who came to the Prijedor hospital and stabbed a patient in the chest?",
+      "examination": "cross"
     },
     {
       "id": 124,
@@ -875,10 +877,11 @@
     },
     {
       "id": 125,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. SUTHERLAND",
       "role": "counsel",
       "type": "question",
-      "text": "And that patient was of Muslim ethnicity?"
+      "text": "And that patient was of Muslim ethnicity?",
+      "examination": "cross"
     },
     {
       "id": 126,
@@ -890,10 +893,11 @@
     },
     {
       "id": 127,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. SUTHERLAND",
       "role": "counsel",
       "type": "question",
-      "text": "And he simply walked out of the hospital, and he was never arrested in 1992 for committing this act?"
+      "text": "And he simply walked out of the hospital, and he was never arrested in 1992 for committing this act?",
+      "examination": "cross"
     },
     {
       "id": 128,
@@ -1108,768 +1112,797 @@
     },
     {
       "id": 158,
-      "speaker": "JUDGE SCHOMBURG",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Lukic:"
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Good morning, Mr. Dragic.",
+      "examination": "direct"
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "[Interpretation] Good morning, Mr. Dragic."
-    },
-    {
-      "id": 160,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Good morning.",
-      "reply_to": 159
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "For the record, can you please state your name.",
+      "examination": "direct"
     },
     {
       "id": 161,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "For the record, can you please state your name."
-    },
-    {
-      "id": 162,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Milovan Dragic.",
-      "reply_to": 161
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When were you born, Mr. Dragic?",
+      "examination": "direct"
     },
     {
       "id": 163,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When were you born, Mr. Dragic?"
-    },
-    {
-      "id": 164,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "19 March 1953.",
-      "reply_to": 163
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where were you born?",
+      "examination": "direct"
     },
     {
       "id": 165,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Where were you born?"
-    },
-    {
-      "id": 166,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "In Orahovac in Gradiska Municipality.",
-      "reply_to": 165
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where do you reside?",
+      "examination": "direct"
     },
     {
       "id": 167,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Where do you reside?"
-    },
-    {
-      "id": 168,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Currently, I reside in Prijedor.",
-      "reply_to": 167
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What are you by profession?",
+      "examination": "direct"
     },
     {
       "id": 169,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What are you by profession?"
-    },
-    {
-      "id": 170,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "I have a degree in economics.",
-      "reply_to": 169
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "After the personal data that we've just heard, I would like to ask you something about the events prior to April 1992. Did you observe something unusual already in 1991? What was the situation in Bosnia and Herzegovina at the time? What I meant was whether the war in Slovenia and Croatia and mobilisation calls had any effect on Bosnia and Herzegovina.",
+      "examination": "direct"
     },
     {
       "id": 171,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "After the personal data that we've just heard, I would like to ask you something about the events prior to April 1992. Did you observe something unusual already in 1991? What was the situation in Bosnia and Herzegovina at the time? What I meant was whether the war in Slovenia and Croatia and mobilisation calls had any effect on Bosnia and Herzegovina."
-    },
-    {
-      "id": 172,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Obviously, the events in the environment of Prijedor Municipality had an impact on the thinking of the common people and the overall situation in Prijedor Municipality. It is well-known that at the beginning of 1991, the JNA forces in Slovenia clashed with the Territorial Defence of Slovenia, and as a result of that, Slovenia seceded from the former federation of Yugoslavia. The situation in Slovenia, obviously, had an impact on all of the republics, including Bosnia and Herzegovina, and in turn, including Prijedor Municipality. The developments of the situation in Slovenia continued in Croatia. In the Republic of Croatia, there was an armed conflict in the immediate vicinity of the Republic of Bosnia and Herzegovina, that is, of Prijedor Municipality. Already in 1991, we had a number of refugees coming from the republics of Slovenia and Croatia into the Republic of Bosnia and Herzegovina, including Prijedor Municipality. As far as Prijedor Municipality is concerned and the attitude of its population towards the events in Croatia, the people started moving out on a large scale from Prijedor Municipality. Those were people of Croat and Muslim ethnicities. And this process intensified after the departure of the -- of JNA members to the western Slavonia theatre of war in the Republic of Croatia. The departure of the population and of -- that is, of Muslims and Croats, was by buses. There were daily departure of these people by buses. And depending on the day, there were two or three or even more buses departing Prijedor Municipality on a daily basis. If we put that into a time context, and if we bear in mind that all of that lasted for five months, between July and December 1991, we can reach a total figure of those who moved out from Prijedor Municipality. Those, again, were members of the Muslim and Croat peoples. As far as the political situation in Prijedor Municipality was concerned, one has to bear in mind that Bosnia and Herzegovina, at the end of 1990, saw the first multiparty elections. As a result of these elections, we had a new government in Prijedor Municipality which consisted of the Serb and Muslim ethnicities in the ratio of -- in the 50/50 ratio. This structure of power reflected the composition of the population according to the 1991 census. Let me briefly go back to the last three months of 1991 when the federation of Yugoslavia was still in place, and when the official army was still the JNA. The JNA started mobilising people, and men who received mobilisation papers from the JNA were sent to the front lines in Western Slavonia, in the Republic of Croatia. Serb men responded to the mobilisation calls to a larger extent, and Muslims and Croats responded in smaller numbers. However, the majority of Muslims failed to respond to mobilisation calls. The reason why they failed to respond is known only to them, but at the time, it was considered disobedience or disregard of the law of the state in which we all lived. Those people who were sent to Western Slavonia were those who responded to the mobilisation calls. Muslims, on the other hand, organised protests. Once it was in front of the municipal building. And they urged people not to respond to mobilisation calls. Obviously, this was not widely accepted by the people because any failure to respond to a mobilisation call by an official state organ constituted violation of the prevailing law as a result of which such a person who failed to respond to the call could be prosecuted by the military court. For political reasons and for the purpose of secession and creating an independent Bosnia and Herzegovina, the majority of Muslims and some Croats did not respond to mobilisation calls and didn't go to the front lines in Western Slavonia. Talking about 1992 and the political situation in Prijedor Municipality, I'm referring to the first three months of the year, between the 1st of January and the 31st of March, 1992, briefly, the political situation was quite stable. As during that period, I was a member of the Executive Board of Prijedor Municipality and occupied the position of the secretary for the economy and social activities, I was very familiar with the political situation across the municipality.",
-      "reply_to": 171
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If you would just excuse me for a moment, I would just like to clarify something. Are you saying that the political situation was stable or unstable? And if you could then, please, continue.",
+      "examination": "direct"
     },
     {
       "id": 173,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If you would just excuse me for a moment, I would just like to clarify something. Are you saying that the political situation was stable or unstable? And if you could then, please, continue."
-    },
-    {
-      "id": 174,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "As I said, the political situation during the first three months of 1992 was unstable. And an example I can provide is Muslims who were members of the Executive Board, there was a boycott. And on a number of occasions, they openly boycotted the passing of decisions concerning the construction of an elementary school building in the Urije neighbourhood in Prijedor Municipality. The construction of this elementary school building had begun already prior to 1991. In order to continue building the school, it was necessary to -- for the Executive Board to adopt a decision. According to the ethnic makeup of the Executive Board, it had four Serb members and four Muslim members. On many occasions - I would say at least three or four times - the board failed to adopt this decision; and due to this, the elementary school building could not be finished. As for children from that particular area, they had no school to go to. They used premises in the town itself was that were rented, that were rented out to them by the secondary school for electrical engineers. This is one example I can give you of how the government failed to operate and how Muslims could not accept, or refused to accept, reality; in this case, the need for the Executive Board to pass this particular decision, and yet, it couldn't be. Nevertheless, in the beginning of April 1992, the Executive Board did adopt such a decision simply because one of the Muslim members -- following guarantees and pleas on our part, there was a vote, and the Muslim member voted in favour of the Serb proposal. So the result was five against three in favour of the decision, and the decision could finally be adopted. However, what seemed noteworthy was that the same man, the Muslim member of the board, was suspended from work the very next morning. The reason was precisely that he voted the same as the Serb members of the board.",
-      "reply_to": 173
+      "reply_to": 172
     },
     {
-      "id": 175,
+      "id": 174,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "Sorry to interrupt you. No doubt in 1992, this was interesting for you and your special work. But could Defence please Blank page inserted to ensure pagination corresponds between the French and English transcripts. explain what is the relevance for our case."
     },
     {
-      "id": 176,
+      "id": 175,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] The relevance we found in the fourth amended indictment, all through the indictment."
     },
     {
-      "id": 177,
+      "id": 176,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "You have before you the testimony of the witness related to school buildings, one party not understanding, the other understanding. And what has this to do with the allegations in the fourth amended indictment?"
     },
     {
-      "id": 178,
+      "id": 177,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[In English] Even you, Your Honour, asked today about the takeover of power. We think that we should explain why the power has been taken over. This gentleman was a member of the Executive Board of Prijedor Municipality. He took part in political affairs, political happenings in the Prijedor Municipality prior to the takeover, so we think that he can explain what the political situation was in Prijedor Municipality at that time."
     },
     {
-      "id": 179,
+      "id": 178,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "General, of course, but I think we shouldn't go into details of problems of the secondary school and problems related to this but concentrate on the questions on the relationship as indicated in the proffer between the -- as you stated, the executive and the powers of the Municipal Assembly. I think we can't go into any details of that what happened in Prijedor at that time with each and every building."
     },
     {
-      "id": 180,
+      "id": 179,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "This gentleman - your earphones were off at that time - explained what happened to the member of the SDA who tried to cooperate. That member was replaced tomorrow by the SDA; suspended. So we think that it is very relevant in which way SDA was acting at that time."
     },
     {
-      "id": 181,
+      "id": 180,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "I follow the transcript carefully. Please concentrate on the relevant questions. Thank you."
     },
     {
-      "id": 182,
+      "id": 181,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 183,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 182,
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
-      "text": "Bodies of the executive power, do you think they functioned well or badly at that time? The secretariats which were held by members of the SDA, did they operate willfully and in disregard of decisions adopted by the Executive Board?"
+      "text": "Bodies of the executive power, do you think they functioned well or badly at that time? The secretariats which were held by members of the SDA, did they operate willfully and in disregard of decisions adopted by the Executive Board?",
+      "examination": "direct"
     },
     {
-      "id": 184,
+      "id": 183,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Throughout that period - to specify, I mean the period starting with the 1st of January, 1992, until the end of April 1992 - to put it briefly, executive power did not function. What I said in my previous answer, the executive power was divided between members of the Serb ethnic group and the Muslim ethnic group, and the division was roughly 50/50, or four against four in terms of numbers. I can give you a good number of examples where certain secretariats were not functioning, were not implementing the decisions of the Executive Board. And I'm talking about secretariats led by Muslims. Obviously, they had received instructions from somewhere else, probably from their political patrons or, more specifically, from the leaders of their political party, the SDA. So it seemed that political decisions were more binding for them than the decisions adopted by their own institution, the institution for which they worked. And I am referring to decisions taken by the Executive Board. So there was a lot of willful activity and behaviour, and even violations of the existing laws in their work. If needed, I can also specify.",
-      "reply_to": 183
+      "reply_to": 182
     },
     {
-      "id": 185,
+      "id": 184,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "Yes, indeed, I would be interested whether it's just speculation or you have any kind of evidence that there was a systematical obstruction from the side of the Muslims, as you just wanted to state."
     },
     {
-      "id": 186,
+      "id": 185,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Just to name an example, there was a decision by the Executive Board that no new people should be recruited and employed by certain secretariats because this was not envisaged by the internal organisation of work and tasks for administrative organs. The municipal administration for social income, or as they call it today, the tax revenue office, led at that time by Meho Tursic, a Muslim, he was hiring new employees on behalf of his office, which means that he was acting in disregard of conclusions adopted by the Executive Board. To add insult to injury, the very people they hired were not adequately qualified for the tasks that they were hired to carry out. Neither did their -- nor did their qualifications respond to the requirements set out in the documents envisaging the internal organisation of those services. Furthermore, the secretariat for urban planning, housing, and communal services and property matters, there were also violations of the existing laws. There was also refusal to comply with decisions taken by the Executive Board. These violations and this disregard were reflected in the fact that land owned by the town was given to Muslims, that decisions were made for certain pieces of land owned by the town itself to be given to Muslims, despite the fact that the relevant laws, laws which were also valid before the war and that are again valid today after the Dayton accords, when land owned by the town is awarded to natural or legal persons, such land can only be allocated by the Municipal Assembly, and not by any single individual or a member of any of the institutions. These two examples can be documented, provided that the documents have been preserved in Prijedor Municipality. These two examples demonstrate that some members of the Executive Board and some government organs led by Muslims violated the provisions of the then relevant laws and acted in blatant disregard of the decisions adopted by the Executive Board."
     },
     {
-      "id": 187,
+      "id": 186,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 188,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 187,
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
-      "text": "After the takeover on the 30th of April, 1992, which position did you occupy at that time?"
+      "text": "After the takeover on the 30th of April, 1992, which position did you occupy at that time?",
+      "examination": "direct"
     },
     {
-      "id": 189,
+      "id": 188,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Following the takeover, after the 30th of April, 1992, I held the post of head of communal services, which was a body of municipal administration. The main activity of that particular office is the construction of housing facilities and business premises in -- across Prijedor Municipality. Another task was the maintenance of local roads, the implementation of a programme of shared expenditure pertaining to the urban sector of the municipality, the management of state-owned apartments, and all apartments were state-owned. Prijedor, as a municipality, had about 5.600 flats at that time, or apartment units. And the organisation, the institution, which I led was in charge of investing into the maintenance of these facilities.",
-      "reply_to": 188
+      "reply_to": 187
+    },
+    {
+      "id": 189,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "After the takeover on the 30th of April, 1992, what was the situation like and what happened at the end of May or in the second half of May?",
+      "examination": "direct"
     },
     {
       "id": 190,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "After the takeover on the 30th of April, 1992, what was the situation like and what happened at the end of May or in the second half of May?"
-    },
-    {
-      "id": 191,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "If we look at the political situation in Prijedor Municipality, or if you look at the political party in power, I told you before already that the organs of government were not exactly functioning, and I backed my statement with a number of valid arguments. The chief reason for another government to be set up which would start functioning was that the republican organs of Bosnia-Herzegovina at that time had sent an order through their own organs, more specifically, through the Ministry of the Interior, to attack the military facilities and barracks in Prijedor, to confiscate the military equipment, and to block the roads around Prijedor. That order was sent through the Prijedor branch of the Ministry of the Interior, and the order was signed by the then Minister of the Interior personally, Mr. Alija Delimustafic. The summary of this decision would be an attack against Serbs. After the takeover, and it was a nonviolent takeover, without a single bullet being fired, without anyone getting injured or even killed - and I'm here referring to non-Serbs - a new government was set up in Prijedor including Serbs. The main organ of that government was still the Executive Board with its administrative organs and with its secretariats which had been established by the law on state administration which was then in place. In May, there were open attacks against Serbs. What form did these attacks take? There was an armed attack on the military barracks in Prijedor. There were murders of Serbs. If I remember correctly, the first murder occurred at the very beginning of May. I think the victim's name was Dzapa, and he was shot from the back. Likewise, in the village of Hambarine, an armed attack was carried out on a car carrying members of both the Serb and the Croat ethnic groups. And it was on that occasion, if I remember correctly, that two persons were killed and two persons were seriously wounded. In the town of Prijedor itself, the situation was rather tense. The tension culminated in late May when there was an organised, armed attack on Prijedor. The attack came from various directions. During the attack, some 15 army members were killed. Likewise, there were a number of wounded army members. Some houses were destroyed and fire was set to others, all of which resulted in considerable damage. So much about that.",
-      "reply_to": 190
+      "reply_to": 189
+    },
+    {
+      "id": 191,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know how and for how long did Kozarac prepare for these conflicts? What can you tell us about that? And also, what was happening in Kozarac before the takeover, when military convoys were passing through it?",
+      "examination": "direct"
     },
     {
       "id": 192,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know how and for how long did Kozarac prepare for these conflicts? What can you tell us about that? And also, what was happening in Kozarac before the takeover, when military convoys were passing through it?"
-    },
-    {
-      "id": 193,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "A very interesting piece of information about the local community of Kozarac in Prijedor Municipality would be this: This local community had between 18.000 and 20.000 inhabitants in the community itself and the neighbouring villages which belonged to that local community. In late 1991, journalists and representatives of the foreign media came to Prijedor. The president of the Executive Board organised a press conference, which I attended. After that, we saw a videoclip featuring the population of Kozarac local commune preparing themselves for an armed rebellion. I don't know who the author of that videoclip is, but it is interesting because it lasts for about three hours and it features all the details of the preparations for an armed rebellion. Obviously, having watched that videoclip, all those who attended the press conference and who saw this for the first time were struck by Blank page inserted to ensure pagination corresponds between the French and English transcripts. panic. They simply couldn't believe that something like that was happening in the immediate vicinity of the place where they found themselves at the time.",
-      "reply_to": 192
+      "reply_to": 191
     },
     {
-      "id": 194,
+      "id": 193,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "May I interrupt at this point in time. We have to take the break now. We, the three of us, we reviewed both the proffer and the transcript where the Defence indicate the reason why to call this witness, and now we're discussing issues not foreseen there. And we regard it necessary to be prepared in order to follow the testimony of the witness. The trial, therefore, stays adjourned until 12.30. --- Break taken at 11.56 a.m."
     },
     {
-      "id": 195,
+      "id": 194,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "The witness may be brought in immediately."
     },
     {
-      "id": 196,
+      "id": 195,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[In English] Maybe, Your Honour, before the witness comes in, you asked me where in our proffer you can find my last question, and I asked about military convoys which were passing through the Kozarac. And it's the last sentence of the proffer, stating that: \"The armed Muslims with automatic rifles, machine-guns, and other armaments blocked the JNA convoy and threatened the same.\" So the fact is the witness gave a lengthy answer, but we should be a little bit patient and let him explain the whole situation."
     },
     {
-      "id": 197,
+      "id": 196,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "We come back to this this afternoon. Please continue."
     },
     {
-      "id": 198,
+      "id": 197,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 199,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 198,
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
-      "text": "[Interpretation] Mr. Dragic, I asked you about a military convoy, one or more of them, that passed through Kozarac before the war and the situation in Kozarac before the takeover and the outbreak of the armed conflict. You told us that you had seen a videoclip featuring all that. Can you please explain what you saw on the videoclip and can you also tell us about your experience with the passing of military convoys through Kozarac before the armed conflict started."
+      "text": "[Interpretation] Mr. Dragic, I asked you about a military convoy, one or more of them, that passed through Kozarac before the war and the situation in Kozarac before the takeover and the outbreak of the armed conflict. You told us that you had seen a videoclip featuring all that. Can you please explain what you saw on the videoclip and can you also tell us about your experience with the passing of military convoys through Kozarac before the armed conflict started.",
+      "examination": "direct"
     },
     {
-      "id": 200,
+      "id": 199,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "I have told you that all those who had the opportunity to see this videoclip, lasting for about 180 minutes, that all those who saw this videoclip were astonished when they saw how many Green Beret members there were, and the arms they had in their possession. They were also astonished with the organisation of their work. It was clear to everybody that what they saw was an organised unit which had military discipline, implying that members of that military formation would line up every morning. All of us who were watching this were immediately reminded of the times when we had to serve military service, the compulsory military service in the JNA. Obviously, one could also see a number of familiar faces in that videoclip, which the participants of the press conference found very surprising. We couldn't believe that those people that we all knew and associated with changed sides overnight, so to say, and became members of the Green Berets, and that their objective was to prepare an armed rebellion against the Serbian population. I had an opportunity to see such formations personally from a close distance. Once, when I was returning from Banja Luka, I was riding in an official car. There was a roadblock on the road between Banja Luka and Prijedor in Kozarac. I saw a convoy of military vehicles carrying military equipment that was pulled over at the crossroads where the road forks off towards Kozarac. That was the main road between Prijedor and Banja Luka. So we couldn't proceed towards Banja Luka via that section, and we could only take a bypass through Kozarac in order to reach Prijedor. As we were driving on this bypass road, we passed by the Muslim cemetery there. I saw a number of Green Beret members lying on the ground with automatic weapons in their hands. That was in the cemetery. As we were passing by the cemetery, we were stopped by some of the Green Berets, and there were three or four cars in front of the car that I was driving in. The column of cars was stopped, and it was pulled over. But shortly after that, we were able to continue travelling on that bypass road. When I finally arrived in Prijedor, and when I got to my office, I told my colleagues the story of my journey from Banja Luka, and what I had seen. I could see that they were quite surprised to hear all that, and that they were also scared. They simply couldn't believe that such armed formations with such weapons really existed.",
-      "reply_to": 199
+      "reply_to": 198
+    },
+    {
+      "id": 200,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you please tell us, when did you come across this roadblock in Kozarac? Can you be more specific about the time when this happened?",
+      "examination": "direct"
     },
     {
       "id": 201,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you please tell us, when did you come across this roadblock in Kozarac? Can you be more specific about the time when this happened?"
-    },
-    {
-      "id": 202,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Are you referring to the time of in the day?",
-      "reply_to": 201
+      "reply_to": 200
+    },
+    {
+      "id": 202,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "No; when was it in terms of the calendar time? Can you please stop just for a ...",
+      "examination": "direct"
     },
     {
       "id": 203,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "No; when was it in terms of the calendar time? Can you please stop just for a ..."
-    },
-    {
-      "id": 204,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "May I ask, you are fine? Otherwise we could have a break, if you need a replacement. Okay. Thank you. We can continue."
     },
     {
-      "id": 205,
+      "id": 204,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[In English] Thank you, Your Honour."
     },
     {
-      "id": 206,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 205,
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
-      "text": "[Interpretation] Sir, can you specify the time frame for that event."
+      "text": "[Interpretation] Sir, can you specify the time frame for that event.",
+      "examination": "direct"
     },
     {
-      "id": 207,
+      "id": 206,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "I can't give you the exact date, but it was in the month of April 1992.",
-      "reply_to": 206
+      "reply_to": 205
+    },
+    {
+      "id": 207,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. You were a member of the Executive Board of Prijedor Municipality prior to the takeover, which means while the president of the Municipal Assembly of Prijedor was Mr. Cehajic. Did you ever see Mr. Cehajic give any orders to the army? Did he have the authority to issue orders to the army?",
+      "examination": "direct"
     },
     {
       "id": 208,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. You were a member of the Executive Board of Prijedor Municipality prior to the takeover, which means while the president of the Municipal Assembly of Prijedor was Mr. Cehajic. Did you ever see Mr. Cehajic give any orders to the army? Did he have the authority to issue orders to the army?"
-    },
-    {
-      "id": 209,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Of course, as a member of the Executive Board of Prijedor Municipality, I knew the president of the Assembly of Prijedor Municipality, Mr. Muhamed Cehajic. I am not aware that Muhamed Cehajic gave any orders to the army, because he had no legal authority to do so. But in connection with your question, I do remember one event that was much debated in the town at that time. Mr. Cehajic, together with the president of his party, Mirza Mujadzic, and there was a third gentleman with them, Medunjanin - I forgot his first name - the three of them went to meet the officials in charge of the Zarko Zgonjanin barracks in Prijedor, the military officials in charge of the barracks. During that meeting, or at least that's what people said, they demanded that mobilisation papers not be sent to Muslims, and they told the military officials that unless their demand was complied with, they would organise mass rallies of Muslims outside the municipal building in Prijedor, as well as outside the barracks, the Zarko Zgonjanin barracks in Prijedor. It's easy to conclude that the demand made by the delegation at the barracks was illegal and unconstitutional, if you look at the laws and the constitution of Bosnia and Herzegovina at that point, the law on national defence. And yet, they considered themselves entitled to make such a demand.",
-      "reply_to": 208
+      "reply_to": 207
+    },
+    {
+      "id": 209,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know whether the president of the Executive Board during the time that you were a member of the Executive Board of Prijedor Municipality, do you know whether the president ever gave any orders to the army?",
+      "examination": "direct"
     },
     {
       "id": 210,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know whether the president of the Executive Board during the time that you were a member of the Executive Board of Prijedor Municipality, do you know whether the president ever gave any orders to the army?"
-    },
-    {
-      "id": 211,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "While I was working as the secretary for the economy and social activities as part of the Executive Board of Prijedor Municipality, had any such order or decision ever been sent to members of the army, I would have known of it. But during my service as the secretary, no such request, no such demand was made by the president.",
-      "reply_to": 210
+      "reply_to": 209
+    },
+    {
+      "id": 211,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you ever heard or seen the president of the Municipal Assembly of Prijedor give any orders to the police?",
+      "examination": "direct"
     },
     {
       "id": 212,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Have you ever heard or seen the president of the Municipal Assembly of Prijedor give any orders to the police?"
-    },
-    {
-      "id": 213,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "During the time I was occupying the position, my position in the Executive Board of Prijedor Municipality, I was not aware of the president of the Executive Board ever sending any orders to members of the police. And I am sure that no such orders were ever given because that would have been illegal and unconstitutional. He would not have the authority over the work of the police, whereas other bodies did.",
-      "reply_to": 212
+      "reply_to": 211
+    },
+    {
+      "id": 213,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The president of the Municipal Assembly, according to the laws in place at that time, could he give any orders -- was he in position to give any orders to the police, and were you ever aware -- did you ever hear of Mr. Cehajic giving any orders to the police?",
+      "examination": "direct"
     },
     {
       "id": 214,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "The president of the Municipal Assembly, according to the laws in place at that time, could he give any orders -- was he in position to give any orders to the police, and were you ever aware -- did you ever hear of Mr. Cehajic giving any orders to the police?"
-    },
-    {
-      "id": 215,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "The president of the Assembly, Mr. Cehajic, Muhamed Cehajic, while I was working as the secretary, to my knowledge he never ordered the police to do anything because, again, as we've already said, he was not legally entitled to do so. He did not have the authority. And anyway, the police would not have carried out his orders simply because the president of the Assembly did not have the legal authority to issue orders to the police. More specifically, speaking of the public security station, the police station in Prijedor, the police were given their orders by the security centre in Banja Luka or the Ministry of the Interior based in Banja Luka.",
-      "reply_to": 214
+      "reply_to": 213
+    },
+    {
+      "id": 215,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Dragic, in 1992 [sic], you were mobilised yourself. Excuse me, I said 1991.",
+      "examination": "direct"
     },
     {
       "id": 216,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Dragic, in 1992 [sic], you were mobilised yourself. Excuse me, I said 1991."
-    },
-    {
-      "id": 217,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Interpreter's correction: 1991."
     },
     {
-      "id": 218,
+      "id": 217,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 219,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 218,
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
-      "text": "So in 1991, you were mobilised and sent to Western Slavonia. During your stay on the front lines, did it ever happen that a municipal civilian organ of authority gave you any orders?"
+      "text": "So in 1991, you were mobilised and sent to Western Slavonia. During your stay on the front lines, did it ever happen that a municipal civilian organ of authority gave you any orders?",
+      "examination": "direct"
     },
     {
-      "id": 220,
+      "id": 219,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "In 1991, sometime in late August and early September, I was still working as the secretary for the economy and social activities in Prijedor Municipality. And in this period, I received a military call-up from the Yugoslav People's Army. Naturally, at that time, the JNA was the only legal and constitutional armed force of the state I was living in. I responded to the call-up. I went to the front in Western Slavonia, and I worked there as a communications officer at the command of the 43rd Brigade of the JNA. We were far from the front line itself. I spent about 45 days there.",
-      "reply_to": 219
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let me just ask you the following: During those 45 days in Western Slavonia, did it ever happen that a municipal organ of civilian authority or a municipal politician, for that matter, ever came to your command, to your headquarters, and give you any orders, or did any written order ever arrive there?",
+      "examination": "direct"
     },
     {
       "id": 221,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Let me just ask you the following: During those 45 days in Western Slavonia, did it ever happen that a municipal organ of civilian authority or a municipal politician, for that matter, ever came to your command, to your headquarters, and give you any orders, or did any written order ever arrive there?"
-    },
-    {
-      "id": 222,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "As I've said a moment ago, I was in Western Slavonia, or more specifically, at Bijele Stijene, for about 45 days. During my time there, no oral or written order from the civilian authorities in Prijedor was received. Had I ever received one, I would have considered it ridiculous due, simply, to the fact that I was a member of the JNA units there. According to the former Yugoslavia's constitution, and according to the relevant laws, including the law on national defence, the JNA was independent in making its decisions and no orders or decisions could have been handed down to the JNA by any level of civilian authority, and nothing like that ever happened.",
-      "reply_to": 221
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. The civilian authorities in Prijedor, after fighting broke out, did the civilian authorities complain that too many people were in the army and that, therefore, it was not possible to go about the daily civilian tasks in the proper way? Could the civilian authorities issue an order to have a number of civilians released from the army?",
+      "examination": "direct"
     },
     {
       "id": 223,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. The civilian authorities in Prijedor, after fighting broke out, did the civilian authorities complain that too many people were in the army and that, therefore, it was not possible to go about the daily civilian tasks in the proper way? Could the civilian authorities issue an order to have a number of civilians released from the army?"
-    },
-    {
-      "id": 224,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Certainly. When someone went to the JNA to join one of the units, it was the civilian sector, or the civilian authority, that was at a loss. They were losing people to the army who were in certain civilian positions, doing civilian jobs prior to being drafted by the JNA. Blank page inserted to ensure pagination corresponds between the French and English transcripts. Regardless of that, regardless of the fact that when people left from the civilian authorities to join one of the JNA units, the civilian authorities were facing a shortage of work force, and regardless of this, the civilian authorities could not do anything about it. The civilian authorities could not do anything to bring those civilians back from the front line or from the JNA units.",
-      "reply_to": 223
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "In addition to having the right to mobilise people, did the army also have the right to mobilise equipment or materiels without receiving approval from the civilian authorities? And which were the bodies through which the army mobilised both people and equipment? Can you tell us that.",
+      "examination": "direct"
     },
     {
       "id": 225,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In addition to having the right to mobilise people, did the army also have the right to mobilise equipment or materiels without receiving approval from the civilian authorities? And which were the bodies through which the army mobilised both people and equipment? Can you tell us that."
-    },
-    {
-      "id": 226,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "The organs of military authority, according to the law on national defence, if there was a mobilisation, if men were being mobilised, or if manpower was being mobilised, as the military usually call it, the national -- the law on national defence entitled them to carry out this mobilisation. And they were also entitled to commandeer equipment. When I say \"equipment\" or \"materiel,\" I am referring to means of transportation, equipment and technical equipment, even animals used to draw the equipment. I mean horses in particular.",
-      "reply_to": 225
+      "reply_to": 224
+    },
+    {
+      "id": 226,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know through which organ, through which body exactly, the army mobilised people and equipment?",
+      "examination": "direct"
     },
     {
       "id": 227,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know through which organ, through which body exactly, the army mobilised people and equipment?"
-    },
-    {
-      "id": 228,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "The army, or the different bodies of the army, mobilised people and equipment at municipal level through the secretariat for national defence. Those were municipal organs for one period of time; and during a different period of time, they were republican organs.",
-      "reply_to": 227
+      "reply_to": 226
+    },
+    {
+      "id": 228,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When the secretariat for national defence was a municipal body, did it receive its orders from the municipal authorities or from the republican secretariat for national defence?",
+      "examination": "direct"
     },
     {
       "id": 229,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When the secretariat for national defence was a municipal body, did it receive its orders from the municipal authorities or from the republican secretariat for national defence?"
-    },
-    {
-      "id": 230,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "This secretariat, as I've said, was, for a certain amount of time, a municipal body. And then in different period, it was a republican body. In both cases, this body did not receive orders from civilian authorities. They could only receive orders from the military authorities.",
-      "reply_to": 229
+      "reply_to": 228
+    },
+    {
+      "id": 230,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "During this trial, we have heard that sometimes police units were being sent to the front. The Minister of the Interior, did he have the authority to send his people to the front, or was this also done by the military authorities?",
+      "examination": "direct"
     },
     {
       "id": 231,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "During this trial, we have heard that sometimes police units were being sent to the front. The Minister of the Interior, did he have the authority to send his people to the front, or was this also done by the military authorities?"
-    },
-    {
-      "id": 232,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Talking about the police, if you look at the way the police is organised, they had their regular forces and their reserve forces. According to the law, the reserve police forces are only used under exceptional circumstances, in exceptional situations. As far as the specific question is concerned, if you look at the reserve forces of the police, the decision to send reserve forces into war-torn areas could only be made by the army.",
-      "reply_to": 231
+      "reply_to": 230
+    },
+    {
+      "id": 232,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Following the takeover on the 30th of April, 1992, you have told us already which post you held. Can you please be so kind as to tell us which body of the municipal authority did you report to and who did you report to? Who did you go to between the 30th of April and the 30th of September, 1992?",
+      "examination": "direct"
     },
     {
       "id": 233,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Following the takeover on the 30th of April, 1992, you have told us already which post you held. Can you please be so kind as to tell us which body of the municipal authority did you report to and who did you report to? Who did you go to between the 30th of April and the 30th of September, 1992?"
-    },
-    {
-      "id": 234,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "At the beginning of my testimony, I said that the institution of which I was the head was a municipal administrative organisation. As such, it answered to the Executive Board of Prijedor Municipality; or more specifically, to the president of the Executive Board. According to the book of rules governing the work of the Executive Board, administrative bodies and municipal administrative organisations sent reports on their work to the president of the Executive Board of the municipality. This report on their activities would be sent twice during a year, a calendar year, for two distinct periods of time. The first period was from the 1st of January to the 30th of June, and the second period was from the 1st of July to the 31st of December.",
-      "reply_to": 233
+      "reply_to": 232
+    },
+    {
+      "id": 234,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you ever submit a report to the Crisis Staff, or did you receive any order from the Crisis Staff?",
+      "examination": "direct"
     },
     {
       "id": 235,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you ever submit a report to the Crisis Staff, or did you receive any order from the Crisis Staff?"
-    },
-    {
-      "id": 236,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "As I've already told you --",
-      "reply_to": 235
+      "reply_to": 234
+    },
+    {
+      "id": 236,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I apologise. Were you aware of the existence of the Crisis Staff, and how did you perceive that body?",
+      "examination": "direct"
     },
     {
       "id": 237,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I apologise. Were you aware of the existence of the Crisis Staff, and how did you perceive that body?"
-    },
-    {
-      "id": 238,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "As for the first part of your question, I've already told you that the institution that I headed had its own book of rules and reported twice a year to the Executive Board and to the Executive Board only. When I was discharging these duties during the given period of time, I heard of the establishment of a Crisis Staff in Prijedor Municipality but I didn't know who its members were or where it was physically located, where it was physically headquartered. Throughout the entire 1992, because of the nature of my duties, I was in the building of Prijedor Municipality every day. I attended consultations with the president of the Executive Board as well as with the secretaries of the respective administrative bodies. The need for daily consultations and cooperation with members of the Executive Board reflected in the fact that the institution that I was the head of had, at the time, one of the most important duties that the civilian authorities in any municipality usually discharge. Because of the nature of the activities of my institution, I had to have daily contacts with the president of the Executive Board and its members. As I said at the beginning of my testimony, I heard of the existence of the Crisis Staff, but while I was discharging these duties - and that was up to January 1993 - I didn't notice anything that would reveal to me the existence of that body, of that Crisis Staff.",
-      "reply_to": 237
+      "reply_to": 236
+    },
+    {
+      "id": 238,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Kindly give us the names of the members of the Executive Board with whom you had frequent contacts.",
+      "examination": "direct"
     },
     {
       "id": 239,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Kindly give us the names of the members of the Executive Board with whom you had frequent contacts."
-    },
-    {
-      "id": 240,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "While I was the director of the communal services in Prijedor, which, as I said, was a body of municipal administration, my daily contacts, during the working hours, obviously, were with the president of the Executive Board. At that time, it was the late Mr. Milan Kovacevic, a physician.",
-      "reply_to": 239
+      "reply_to": 238
     },
     {
-      "id": 241,
+      "id": 240,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "May I ask for a break, please."
     },
     {
-      "id": 242,
+      "id": 241,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Witness, based on your testimony, especially page 46, from the beginning on and later on when you told us that you \"didn't notice anything that would reveal to me the existence of that body, of that Crisis Staff,\" and other statements which from our perspective may be - may be - not true, the Trial Chamber decided proprio motu to warn you that you are still under the duty to tell the truth. And I have to tell you the consequences that may result from a failure to do so. I have to inform you, leaving out now the procedural prerequisites, that the maximum penalty for false testimony on a solemn declaration shall be a fine of 100.000 euros, or a term of imprisonment of seven years, or both. You should know and you should reflect about these possible consequences. Until now, nobody has started any investigations against you, but that what was your testimony until now may serve for the Prosecution as an initial suspicion for starting such investigations, this time based on the suspicion of false testimony. It is your right also to correct your testimony, if you so want. But please be aware of the maybe consequences. Thank you."
     },
     {
-      "id": 243,
+      "id": 242,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Can I now answer, please? May I be allowed to answer, please?"
     },
     {
-      "id": 244,
+      "id": 243,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "If the question can be repeated, yes, please."
     },
     {
-      "id": 245,
+      "id": 244,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] No, I wasn't referring to the question put to me by the Defence; I wanted to respond to your warning, sir."
     },
     {
-      "id": 246,
+      "id": 245,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "Yes, it's your right. Please."
     },
     {
-      "id": 247,
+      "id": 246,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Before I started my testimony, I gave the solemn declaration, and I have told only the truth in my testimony. You and the other members of the Honourable Chamber have implied that you maybe thought I was not being truthful in my testimony. I don't know in which part you thought I was not telling the truth. Whatever I said, I can prove that it was the truth."
     },
     {
-      "id": 248,
+      "id": 247,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "You will have the possibility - as we did it in the past, because we can't conclude your testimony today - to revisit the transcript of today, and then it is for you later on, if you so wish, to correct the one or other answer in context. Thank you."
     },
     {
-      "id": 249,
+      "id": 248,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 250,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 249,
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Dragic, correct me if I am wrong, but I believe that you said that you can corroborate all your allegations by documents."
+      "text": "Mr. Dragic, correct me if I am wrong, but I believe that you said that you can corroborate all your allegations by documents.",
+      "examination": "direct"
     },
     {
-      "id": 251,
+      "id": 250,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "What I meant when I said that concerns the work, my work, in the institution, which was under the authority of the Executive Board. I meant the reports on the work of the department for communal services, which were sent to the president of the Executive Board, and these documents should have been filed by the recipient body. Secondly, the department for communal services has its own files. And all the documents that need to be filed under the law will show the activities of a physical body during a given period of time, what activities it had carried out, with whom it had contacts, or who it reported to.",
-      "reply_to": 250
+      "reply_to": 249
     },
     {
-      "id": 252,
+      "id": 251,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Interpreter's correction: A legal person."
     },
     {
-      "id": 253,
+      "id": 252,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 254,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 253,
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
-      "text": "You started, before the interruption of the Honourable Chamber, giving us the names of the people who were members of the Executive Board with whom you had contacts during the period between April and September 1992."
+      "text": "You started, before the interruption of the Honourable Chamber, giving us the names of the people who were members of the Executive Board with whom you had contacts during the period between April and September 1992.",
+      "examination": "direct"
     },
     {
-      "id": 255,
+      "id": 254,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I started giving you their names. I told you who the president of the Executive Board was. Other members of the Executive Board were as follows: They were all secretaries of respective municipal bodies. There was the secretary of economic affairs. His name was Ranko Travar, who had a degree in economics. The next one was the secretary for urban planning and urban affairs, housing affairs, and property affairs, Mr. Vojo Pavicic. He had a degree in law. The secretary of the secretariat for cadastre and geodesic affairs was Mr. Radenko Banovic, who had a degree in land surveying. These were the three most important secretariats. There was a another one, the secretariat for general administrative affairs. I am not sure, but I believe that the head of that secretariat was, at the time, Mrs. Vera Stojic, who had a degree in law.",
-      "reply_to": 254
+      "reply_to": 253
+    },
+    {
+      "id": 255,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did all these people sit in the offices allocated to the heads of the respective secretariats?",
+      "examination": "direct"
     },
     {
       "id": 256,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did all these people sit in the offices allocated to the heads of the respective secretariats?"
-    },
-    {
-      "id": 257,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "My contacts with the heads of the secretariats took place in the offices of the Executive Board of Prijedor Municipality. That is, in the offices occupied by the heads of the aforementioned secretariats. Those offices were occupied by the heads of the aforementioned administrative bodies before the war, during the war, and after the war. Even to this very day, these offices are still occupied by the heads of these departments. It is not, obviously, the same people, but the offices and the positions of their occupants are the same. The current heads of the administrative bodies, or as they are now called, according to the current law on local administration, heads of departments still sit in those rooms. Before the year 1992, they used to be known as the secretaries of secretariats, and now they are called \"heads of departments,\" according to the new on local self-government and administration.",
-      "reply_to": 256
+      "reply_to": 255
+    },
+    {
+      "id": 257,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was curfew -- a curfew introduced in Prijedor Municipality? Who Blank page inserted to ensure pagination corresponds between the French and English transcripts. was it applied to, and how could one move about while curfew was in place?",
+      "examination": "direct"
     },
     {
       "id": 258,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was curfew -- a curfew introduced in Prijedor Municipality? Who Blank page inserted to ensure pagination corresponds between the French and English transcripts. was it applied to, and how could one move about while curfew was in place?"
-    },
-    {
-      "id": 259,
       "speaker": "MILOVAN DRAGIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, a curfew was introduced in Prijedor for all the citizens of Prijedor Municipality. And I believe that the curfew, as far as I can remember, was between 2200 hours and 0600 hours on the following morning. During the curfew, one was not allowed to move about. That is, civilians were not allowed to move about, regardless of their ethnicity. Civilians could only move about if they had a permit or an authorisation issued by the police.",
-      "reply_to": 258
+      "reply_to": 257
     },
     {
-      "id": 260,
+      "id": 259,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[In English] It is a convenient time for today."
     },
     {
-      "id": 261,
+      "id": 260,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "The time is ripe for a break for today. Let me take the opportunity to kindly ask you not to contact anybody who may be a witness in this case or in other cases or other persons you know from former Yugoslavia, and especially not one representative of the one or the other parties when you are staying here until tomorrow morning at 9.00. In addition, I have to ask you to rethink your testimony on the existence of the Crisis Staff, all your knowledge about the setting up of a Crisis Staff, and the composition of a Crisis Staff, and your maybe working together with the Crisis Staff. This will be one of the decisive points whether or not to take measures as mentioned before, because these are the points where the Trial Chamber has reasons to believe that it can't be your full testimony, what you gave us today. And promising to tell the truth means also to add spontaneously all that what you know and not to hide knowledge. You should get in contact, please, with the representative of the Registry if you so wish to revisit today's transcript. In any event, you should have the possibility to do so, if need may be, with the assistance of an interpreter. But I believe you know very well what you testified on the existence of a Crisis Staff and what should be your reaction tomorrow. The trial stays adjourned until tomorrow, 9.00, in Courtroom Number I."
     },
     {
-      "id": 262,
+      "id": 261,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
@@ -1898,12 +1931,20 @@
       "text": "[Witness answered through interpreter]"
     },
     {
+      "after_utterance": 13,
+      "text": "Questioned by the Court: [ Continued]"
+    },
+    {
       "after_utterance": 37,
       "text": "[Prosecution counsel confer]"
     },
     {
       "after_utterance": 119,
       "text": "[Prosecution counsel confer]"
+    },
+    {
+      "after_utterance": 120,
+      "text": "Further cross-examined by Ms. Sutherland:"
     },
     {
       "after_utterance": 130,
@@ -1930,15 +1971,19 @@
       "text": "[Witness answered through interpreter]"
     },
     {
-      "after_utterance": 194,
+      "after_utterance": 157,
+      "text": "Examined by Mr. Lukic:"
+    },
+    {
+      "after_utterance": 193,
       "text": "--- On resuming at 12.36 p.m."
     },
     {
-      "after_utterance": 241,
+      "after_utterance": 240,
       "text": "[Trial Chamber confers]"
     },
     {
-      "after_utterance": 261,
+      "after_utterance": 260,
       "text": "--- Whereupon the hearing adjourned"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "case": "perisic",
-  "case_id": "IT-04-81-T",
+  "case_id": "IT-04-81",
   "date": "2009-03-25",
   "utterances": [
     {
@@ -1138,7 +1138,7 @@
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you, Madam Bolton. Judge? Questioned by the Court:"
+      "text": "Thank you, Madam Bolton. Judge?"
     },
     {
       "id": 148,
@@ -1254,11 +1254,11 @@
     },
     {
       "id": 163,
-      "speaker": "MS. BOLTON",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "Yes?",
-      "examination": "re-direct"
+      "examination": "questioned"
     },
     {
       "id": 164,
@@ -1272,7 +1272,7 @@
       "speaker": "MS. BOLTON",
       "role": "counsel",
       "type": "statement",
-      "text": "I think the record -- I don't know that Your Honour can see what the witness was doing with his hands while he was talking about this area, and I think the record should simply reflect that when was talking about the path -- when you were asking questions about the angle of descent and the path the projectile takes, he was making a motion with his arm, his hand in the shape of an arch, which I think might assist you in understanding. I can ask the witness one follow-up question. Further Re-examination by Ms. Bolton:"
+      "text": "I think the record -- I don't know that Your Honour can see what the witness was doing with his hands while he was talking about this area, and I think the record should simply reflect that when was talking about the path -- when you were asking questions about the angle of descent and the path the projectile takes, he was making a motion with his arm, his hand in the shape of an arch, which I think might assist you in understanding. I can ask the witness one follow-up question."
     },
     {
       "id": 166,
@@ -4086,6 +4086,14 @@
     {
       "after_utterance": 129,
       "text": "Re-examination by Ms. Bolton:"
+    },
+    {
+      "after_utterance": 147,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 165,
+      "text": "Further Re-examination by Ms. Bolton:"
     },
     {
       "after_utterance": 181,

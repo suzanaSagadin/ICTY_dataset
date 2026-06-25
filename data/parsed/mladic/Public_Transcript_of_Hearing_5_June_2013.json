@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2013-06-05",
   "utterances": [
     {
@@ -3170,7 +3170,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you, Mr. Nicholls. Judge Fluegge has one or more questions for you. Questioned by the Court:"
+      "text": "Thank you, Mr. Nicholls. Judge Fluegge has one or more questions for you."
     },
     {
       "id": 424,
@@ -3243,15 +3243,15 @@
       "speaker": "MR. PETRUSIC",
       "role": "counsel",
       "type": "statement",
-      "text": "[Interpretation] With your permission, Your Honours. Further Cross-examination by Mr. Petrusic:"
+      "text": "[Interpretation] With your permission, Your Honours."
     },
     {
       "id": 434,
-      "speaker": "MR. NICHOLLS",
+      "speaker": "MR. PETRUSIC",
       "role": "counsel",
       "type": "question",
       "text": "[Interpretation] Mr. Nikolic, who are those three people from the civilian authorities that you mentioned when you answered the Judge's question?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 435,
@@ -3263,11 +3263,11 @@
     },
     {
       "id": 436,
-      "speaker": "MR. NICHOLLS",
+      "speaker": "MR. PETRUSIC",
       "role": "counsel",
       "type": "question",
       "text": "And finally, you will agree with me that commands are not issued by gestures or by hand. They are verbally articulated?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 437,
@@ -3279,11 +3279,11 @@
     },
     {
       "id": 438,
-      "speaker": "MR. NICHOLLS",
+      "speaker": "MR. PETRUSIC",
       "role": "counsel",
       "type": "question",
       "text": "Thank you.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 439,
@@ -4634,8 +4634,16 @@
       "text": "Re-examination by Mr. Nicholls:"
     },
     {
+      "after_utterance": 423,
+      "text": "Questioned by the Court:"
+    },
+    {
       "after_utterance": 431,
       "text": "[Defence counsel and accused confer]"
+    },
+    {
+      "after_utterance": 433,
+      "text": "Further Cross-examination by Mr. Petrusic:"
     },
     {
       "after_utterance": 440,

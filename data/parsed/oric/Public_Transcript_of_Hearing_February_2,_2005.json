@@ -1,6 +1,6 @@
 {
   "case": "oric",
-  "case_id": "IT-03-68-T",
+  "case_id": "IT-03-68",
   "date": "2005-02-02",
   "utterances": [
     {
@@ -267,14 +267,15 @@
       "speaker": "MS. SELLERS",
       "role": "counsel",
       "type": "statement",
-      "text": "Good morning, Your Honours. It will only take a few minutes. Re-examined by Ms. Sellers: [Continued]"
+      "text": "Good morning, Your Honours. It will only take a few minutes."
     },
     {
       "id": 39,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. SELLERS",
       "role": "counsel",
       "type": "question",
-      "text": "Good morning, Mr. Gligic."
+      "text": "Good morning, Mr. Gligic.",
+      "examination": "re-direct"
     },
     {
       "id": 40,
@@ -286,10 +287,11 @@
     },
     {
       "id": 41,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. SELLERS",
       "role": "counsel",
       "type": "question",
-      "text": "Judge Agius just mentioned that you are still under the oath that you took yesterday to tell the truth in your responses --"
+      "text": "Judge Agius just mentioned that you are still under the oath that you took yesterday to tell the truth in your responses --",
+      "examination": "re-direct"
     },
     {
       "id": 42,
@@ -307,10 +309,11 @@
     },
     {
       "id": 44,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. SELLERS",
       "role": "counsel",
       "type": "question",
-      "text": "-- to tell the truth in your responses in questions either to both the Defence and to the Prosecution. Mr. Gligic, do you take that oath seriously?"
+      "text": "-- to tell the truth in your responses in questions either to both the Defence and to the Prosecution. Mr. Gligic, do you take that oath seriously?",
+      "examination": "re-direct"
     },
     {
       "id": 45,
@@ -322,10 +325,11 @@
     },
     {
       "id": 46,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. SELLERS",
       "role": "counsel",
       "type": "question",
-      "text": "And have you been truthful in your answers before this Trial Chamber?"
+      "text": "And have you been truthful in your answers before this Trial Chamber?",
+      "examination": "re-direct"
     },
     {
       "id": 47,
@@ -337,10 +341,11 @@
     },
     {
       "id": 48,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. SELLERS",
       "role": "counsel",
       "type": "question",
-      "text": "And so when you testified the day before yesterday that on one occasion you spoke to Muslim prisoners who told you that they had been ordered by Naser Oric to loot villages, were you telling the Trial Chamber the truth?"
+      "text": "And so when you testified the day before yesterday that on one occasion you spoke to Muslim prisoners who told you that they had been ordered by Naser Oric to loot villages, were you telling the Trial Chamber the truth?",
+      "examination": "re-direct"
     },
     {
       "id": 49,
@@ -352,10 +357,11 @@
     },
     {
       "id": 50,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. SELLERS",
       "role": "counsel",
       "type": "question",
-      "text": "And when you testified to this Trial Chamber that you saw the person that you recognised as Naser Oric present at one of the exchanges, were you telling the Trial Chamber the truth?"
+      "text": "And when you testified to this Trial Chamber that you saw the person that you recognised as Naser Oric present at one of the exchanges, were you telling the Trial Chamber the truth?",
+      "examination": "re-direct"
     },
     {
       "id": 51,
@@ -377,7 +383,7 @@
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you. Judge Brydensholt has a question for you. Questioned by the Court:"
+      "text": "Thank you. Judge Brydensholt has a question for you."
     },
     {
       "id": 54,
@@ -1199,10 +1205,11 @@
     },
     {
       "id": 167,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Witness, in early 1992, did you own a hunting rifle?"
+      "text": "Witness, in early 1992, did you own a hunting rifle?",
+      "examination": "questioned"
     },
     {
       "id": 168,
@@ -1214,10 +1221,11 @@
     },
     {
       "id": 169,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Was it licensed?"
+      "text": "Was it licensed?",
+      "examination": "questioned"
     },
     {
       "id": 170,
@@ -1229,10 +1237,11 @@
     },
     {
       "id": 171,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Other than the hunting rifle, did you own or did you have in your possession any other weapons at all?"
+      "text": "Other than the hunting rifle, did you own or did you have in your possession any other weapons at all?",
+      "examination": "questioned"
     },
     {
       "id": 172,
@@ -1244,10 +1253,11 @@
     },
     {
       "id": 173,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "You've told us that you went to Serbia, and that you returned. Prior to leaving for Serbia with your family, did you do anything with your rifle, your hunting rifle?"
+      "text": "You've told us that you went to Serbia, and that you returned. Prior to leaving for Serbia with your family, did you do anything with your rifle, your hunting rifle?",
+      "examination": "questioned"
     },
     {
       "id": 174,
@@ -1259,10 +1269,11 @@
     },
     {
       "id": 175,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. In early 1992, were you a member of the JNA or the VRS or any village guard of any type or description whatsoever?"
+      "text": "Thank you. In early 1992, were you a member of the JNA or the VRS or any village guard of any type or description whatsoever?",
+      "examination": "questioned"
     },
     {
       "id": 176,
@@ -1274,10 +1285,11 @@
     },
     {
       "id": 177,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Now, you've told the Trial Chamber that you returned to your village. Don't mention the name of your home village in the ensuing questions. And can you tell the Trial Chamber why it was that, having taken your family to Serbia, you returned?"
+      "text": "Thank you. Now, you've told the Trial Chamber that you returned to your village. Don't mention the name of your home village in the ensuing questions. And can you tell the Trial Chamber why it was that, having taken your family to Serbia, you returned?",
+      "examination": "questioned"
     },
     {
       "id": 178,
@@ -1289,10 +1301,11 @@
     },
     {
       "id": 179,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "How did you actually get back to your village and your farm?"
+      "text": "How did you actually get back to your village and your farm?",
+      "examination": "questioned"
     },
     {
       "id": 180,
@@ -1304,10 +1317,11 @@
     },
     {
       "id": 181,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "At the time that you returned, did you own cattle, horses -- did you own cattle or horses?"
+      "text": "At the time that you returned, did you own cattle, horses -- did you own cattle or horses?",
+      "examination": "questioned"
     },
     {
       "id": 182,
@@ -1319,10 +1333,11 @@
     },
     {
       "id": 183,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Now, can you tell the Trial Chamber what happened when you returned to your farm and your village?"
+      "text": "Thank you. Now, can you tell the Trial Chamber what happened when you returned to your farm and your village?",
+      "examination": "questioned"
     },
     {
       "id": 184,
@@ -1334,10 +1349,11 @@
     },
     {
       "id": 185,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Were you actually on your farm at the time that you were arrested or picked up?"
+      "text": "Were you actually on your farm at the time that you were arrested or picked up?",
+      "examination": "questioned"
     },
     {
       "id": 186,
@@ -1349,10 +1365,11 @@
     },
     {
       "id": 187,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Now, thinking back, describe to the Trial Chamber how these men who arrested you were dressed."
+      "text": "Now, thinking back, describe to the Trial Chamber how these men who arrested you were dressed.",
+      "examination": "questioned"
     },
     {
       "id": 188,
@@ -1364,10 +1381,11 @@
     },
     {
       "id": 189,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thanks. You said they had uniform. What sort of uniform, one plain colour or camouflage uniform? Or was it any sort of other uniform?"
+      "text": "Thanks. You said they had uniform. What sort of uniform, one plain colour or camouflage uniform? Or was it any sort of other uniform?",
+      "examination": "questioned"
     },
     {
       "id": 190,
@@ -1379,10 +1397,11 @@
     },
     {
       "id": 191,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And did they have anything around their head?"
+      "text": "Thank you. And did they have anything around their head?",
+      "examination": "questioned"
     },
     {
       "id": 192,
@@ -1394,10 +1413,11 @@
     },
     {
       "id": 193,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "You seem to be referring to something that had stars and a sickle. Think about carefully, and tell the Trial Chamber, if you can remember, any symbols you may have seen, and on what you saw these symbols."
+      "text": "You seem to be referring to something that had stars and a sickle. Think about carefully, and tell the Trial Chamber, if you can remember, any symbols you may have seen, and on what you saw these symbols.",
+      "examination": "questioned"
     },
     {
       "id": 194,
@@ -1409,10 +1429,11 @@
     },
     {
       "id": 195,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "The sickle was the symbol of a farming implement as used in old communist flags, that sort of sickle. Is that the sort of sickle you're talking about?"
+      "text": "The sickle was the symbol of a farming implement as used in old communist flags, that sort of sickle. Is that the sort of sickle you're talking about?",
+      "examination": "questioned"
     },
     {
       "id": 196,
@@ -1536,10 +1557,11 @@
     },
     {
       "id": 213,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Witness, can you just put your initials on the document."
+      "text": "Witness, can you just put your initials on the document.",
+      "examination": "questioned"
     },
     {
       "id": 214,
@@ -1565,10 +1587,11 @@
     },
     {
       "id": 217,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "The men that you have described, were they armed?"
+      "text": "The men that you have described, were they armed?",
+      "examination": "questioned"
     },
     {
       "id": 218,
@@ -1580,10 +1603,11 @@
     },
     {
       "id": 219,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you lose consciousness as a result of the beating?"
+      "text": "Did you lose consciousness as a result of the beating?",
+      "examination": "questioned"
     },
     {
       "id": 220,
@@ -1595,10 +1619,11 @@
     },
     {
       "id": 221,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you regain consciousness there at your farm?"
+      "text": "Did you regain consciousness there at your farm?",
+      "examination": "questioned"
     },
     {
       "id": 222,
@@ -1610,10 +1635,11 @@
     },
     {
       "id": 223,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Were you questioned at all?"
+      "text": "Thank you. Were you questioned at all?",
+      "examination": "questioned"
     },
     {
       "id": 224,
@@ -1625,10 +1651,11 @@
     },
     {
       "id": 225,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Other than that, can you recall the topics of any other questions?"
+      "text": "Other than that, can you recall the topics of any other questions?",
+      "examination": "questioned"
     },
     {
       "id": 226,
@@ -1640,10 +1667,11 @@
     },
     {
       "id": 227,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "As a result of you telling them about the rifle, did they search for it or find it?"
+      "text": "As a result of you telling them about the rifle, did they search for it or find it?",
+      "examination": "questioned"
     },
     {
       "id": 228,
@@ -1655,10 +1683,11 @@
     },
     {
       "id": 229,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Were you retained in any way, tied up in any way?"
+      "text": "Were you retained in any way, tied up in any way?",
+      "examination": "questioned"
     },
     {
       "id": 230,
@@ -1670,10 +1699,11 @@
     },
     {
       "id": 231,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "And were you taken somewhere?"
+      "text": "And were you taken somewhere?",
+      "examination": "questioned"
     },
     {
       "id": 232,
@@ -1685,10 +1715,11 @@
     },
     {
       "id": 233,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "I'll ask you about that in just a moment. Was anything taken from your premises, from your farm or your property?"
+      "text": "I'll ask you about that in just a moment. Was anything taken from your premises, from your farm or your property?",
+      "examination": "questioned"
     },
     {
       "id": 234,
@@ -1700,24 +1731,26 @@
     },
     {
       "id": 235,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. MR. DI FAZIO: If Your Honours would just bear with me."
+      "text": "Thank you. MR. DI FAZIO: If Your Honours would just bear with me.",
+      "examination": "questioned"
     },
     {
       "id": 236,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "MR. DI FAZIO:"
     },
     {
       "id": 237,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Don't mention the name of your home village, don't mention it, but how far is Rovasi from it?"
+      "text": "Don't mention the name of your home village, don't mention it, but how far is Rovasi from it?",
+      "examination": "questioned"
     },
     {
       "id": 238,
@@ -1729,10 +1762,11 @@
     },
     {
       "id": 239,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you walk there?"
+      "text": "Did you walk there?",
+      "examination": "questioned"
     },
     {
       "id": 240,
@@ -1744,10 +1778,11 @@
     },
     {
       "id": 241,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "And there, were you incarcerated in a building that was known to people as a stable?"
+      "text": "And there, were you incarcerated in a building that was known to people as a stable?",
+      "examination": "questioned"
     },
     {
       "id": 242,
@@ -1759,10 +1794,11 @@
     },
     {
       "id": 243,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "What was the ethnicity of the villagers of Rovasi?"
+      "text": "What was the ethnicity of the villagers of Rovasi?",
+      "examination": "questioned"
     },
     {
       "id": 244,
@@ -1774,10 +1810,11 @@
     },
     {
       "id": 245,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "And can you tell us the ethnicity of the men who captured you, Blank page inserted to ensure pagination corresponds between the French and English transcripts. the five men? Is there -- can you comment on that?"
+      "text": "And can you tell us the ethnicity of the men who captured you, Blank page inserted to ensure pagination corresponds between the French and English transcripts. the five men? Is there -- can you comment on that?",
+      "examination": "questioned"
     },
     {
       "id": 246,
@@ -1789,10 +1826,11 @@
     },
     {
       "id": 247,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And what happened to you when you arrived in Rovasi?"
+      "text": "Thank you. And what happened to you when you arrived in Rovasi?",
+      "examination": "questioned"
     },
     {
       "id": 248,
@@ -1804,10 +1842,11 @@
     },
     {
       "id": 249,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. How long did you remain in that stable once you were placed inside it?"
+      "text": "Thank you. How long did you remain in that stable once you were placed inside it?",
+      "examination": "questioned"
     },
     {
       "id": 250,
@@ -1819,10 +1858,11 @@
     },
     {
       "id": 251,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "That's exactly right. How long did you stay there altogether?"
+      "text": "That's exactly right. How long did you stay there altogether?",
+      "examination": "questioned"
     },
     {
       "id": 252,
@@ -1834,10 +1874,11 @@
     },
     {
       "id": 253,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. So depending on the precise month or date of your capture, you were there at least for a matter of many months, several months."
+      "text": "Thank you. So depending on the precise month or date of your capture, you were there at least for a matter of many months, several months.",
+      "examination": "questioned"
     },
     {
       "id": 254,
@@ -1849,10 +1890,11 @@
     },
     {
       "id": 255,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. When you first entered the stable, did you see any other people inside?"
+      "text": "Thank you. When you first entered the stable, did you see any other people inside?",
+      "examination": "questioned"
     },
     {
       "id": 256,
@@ -1864,10 +1906,11 @@
     },
     {
       "id": 257,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Who was that?"
+      "text": "Who was that?",
+      "examination": "questioned"
     },
     {
       "id": 258,
@@ -1879,10 +1922,11 @@
     },
     {
       "id": 259,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Yes. In fact, what I'd like you to do is tell the Trial Chamber, if you know these details, the names of these people, the ethnicity of these people, and where they came from."
+      "text": "Yes. In fact, what I'd like you to do is tell the Trial Chamber, if you know these details, the names of these people, the ethnicity of these people, and where they came from.",
+      "examination": "questioned"
     },
     {
       "id": 260,
@@ -1894,10 +1938,11 @@
     },
     {
       "id": 261,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "All right. Tell the Trial Chamber -- well, let me withdraw that. Did you spend many weeks and months in company with these people?"
+      "text": "All right. Tell the Trial Chamber -- well, let me withdraw that. Did you spend many weeks and months in company with these people?",
+      "examination": "questioned"
     },
     {
       "id": 262,
@@ -1909,10 +1954,11 @@
     },
     {
       "id": 263,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Okay, thank you. We'll talk about Jakov Dzokic later, but let's concentrate on the three men you've told us were named Osman, Kasim, and Suljo. What ethnicity were those men?"
+      "text": "Okay, thank you. We'll talk about Jakov Dzokic later, but let's concentrate on the three men you've told us were named Osman, Kasim, and Suljo. What ethnicity were those men?",
+      "examination": "questioned"
     },
     {
       "id": 264,
@@ -1924,10 +1970,11 @@
     },
     {
       "id": 265,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Do you know, or were you ever informed by them, as to why they were in that stable there along with you and Jakov?"
+      "text": "Do you know, or were you ever informed by them, as to why they were in that stable there along with you and Jakov?",
+      "examination": "questioned"
     },
     {
       "id": 266,
@@ -1939,10 +1986,11 @@
     },
     {
       "id": 267,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Did they tell you where they were from, these three Muslim men, Osman, Suljo, and Kasim?"
+      "text": "Thank you. Did they tell you where they were from, these three Muslim men, Osman, Suljo, and Kasim?",
+      "examination": "questioned"
     },
     {
       "id": 268,
@@ -1954,10 +2002,11 @@
     },
     {
       "id": 269,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did the three men you've told us, who eventually left the stable, did they all depart on the one occasion, or did they go separately? Or can't you remember?"
+      "text": "Did the three men you've told us, who eventually left the stable, did they all depart on the one occasion, or did they go separately? Or can't you remember?",
+      "examination": "questioned"
     },
     {
       "id": 270,
@@ -1969,10 +2018,11 @@
     },
     {
       "id": 271,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Now let's turn to Mr. Jakov Dzokic. What ethnicity was he, and where was he from, if you were told?"
+      "text": "Thank you. Now let's turn to Mr. Jakov Dzokic. What ethnicity was he, and where was he from, if you were told?",
+      "examination": "questioned"
     },
     {
       "id": 272,
@@ -1984,10 +2034,11 @@
     },
     {
       "id": 273,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Was he a young man or middle-aged man or older man?"
+      "text": "Was he a young man or middle-aged man or older man?",
+      "examination": "questioned"
     },
     {
       "id": 274,
@@ -1999,10 +2050,11 @@
     },
     {
       "id": 275,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And did he explain to you or tell you how he came to find himself there in that stable?"
+      "text": "Thank you. And did he explain to you or tell you how he came to find himself there in that stable?",
+      "examination": "questioned"
     },
     {
       "id": 276,
@@ -2014,10 +2066,11 @@
     },
     {
       "id": 277,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And did he come to tell you or explain to you how that led to his actually being held there inside the stable?"
+      "text": "Thank you. And did he come to tell you or explain to you how that led to his actually being held there inside the stable?",
+      "examination": "questioned"
     },
     {
       "id": 278,
@@ -2029,10 +2082,11 @@
     },
     {
       "id": 279,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "And did he explain to you that's what, in fact, happened and that's how he found himself in the stable, having -- because he was arrested?"
+      "text": "And did he explain to you that's what, in fact, happened and that's how he found himself in the stable, having -- because he was arrested?",
+      "examination": "questioned"
     },
     {
       "id": 280,
@@ -2044,10 +2098,11 @@
     },
     {
       "id": 281,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did he explain -- sorry, did you see how he was dressed?"
+      "text": "Did he explain -- sorry, did you see how he was dressed?",
+      "examination": "questioned"
     },
     {
       "id": 282,
@@ -2059,10 +2114,11 @@
     },
     {
       "id": 283,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. I want you now to turn your attention to the inside of the stable, and describe the conditions to the Trial Chamber. Briefly, we don't need to go into a huge amount of detail, but briefly tell the Trial Chamber what was on the floor, what you used for a lavatory, the bedding that was in there, if any, and the food."
+      "text": "Thank you. I want you now to turn your attention to the inside of the stable, and describe the conditions to the Trial Chamber. Briefly, we don't need to go into a huge amount of detail, but briefly tell the Trial Chamber what was on the floor, what you used for a lavatory, the bedding that was in there, if any, and the food.",
+      "examination": "questioned"
     },
     {
       "id": 284,
@@ -2074,10 +2130,11 @@
     },
     {
       "id": 285,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "In the time that you were in the stable, did you start to develop a problem with lice, lice infestation?"
+      "text": "In the time that you were in the stable, did you start to develop a problem with lice, lice infestation?",
+      "examination": "questioned"
     },
     {
       "id": 286,
@@ -2089,10 +2146,11 @@
     },
     {
       "id": 287,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did the other inmates also suffer from the same problem?"
+      "text": "Did the other inmates also suffer from the same problem?",
+      "examination": "questioned"
     },
     {
       "id": 288,
@@ -2104,10 +2162,11 @@
     },
     {
       "id": 289,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Were you ever beaten whilst in the stable?"
+      "text": "Were you ever beaten whilst in the stable?",
+      "examination": "questioned"
     },
     {
       "id": 290,
@@ -2119,10 +2178,11 @@
     },
     {
       "id": 291,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Were there guards at the stable guarding you and the inmates?"
+      "text": "Were there guards at the stable guarding you and the inmates?",
+      "examination": "questioned"
     },
     {
       "id": 292,
@@ -2134,10 +2194,11 @@
     },
     {
       "id": 293,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "How were they dressed?"
+      "text": "How were they dressed?",
+      "examination": "questioned"
     },
     {
       "id": 294,
@@ -2149,10 +2210,11 @@
     },
     {
       "id": 295,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "You've told us that you were there for many months. In that period of time, did you see or hear anything that gives you a clue as to what the occupation of the guards was? Were they farmers or butchers, policemen, soldiers? Can you tell the Trial Chamber if, in all of the time that you were there, you managed to get into -- any insight into what their occupation was. Now, I'm talking about the guards."
+      "text": "You've told us that you were there for many months. In that period of time, did you see or hear anything that gives you a clue as to what the occupation of the guards was? Were they farmers or butchers, policemen, soldiers? Can you tell the Trial Chamber if, in all of the time that you were there, you managed to get into -- any insight into what their occupation was. Now, I'm talking about the guards.",
+      "examination": "questioned"
     },
     {
       "id": 296,
@@ -2164,10 +2226,11 @@
     },
     {
       "id": 297,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "You said that you were beaten, and you've described two men who beat you. Was it just confined to those two men, or were you beaten by other men, other than the two that you've mentioned?"
+      "text": "You said that you were beaten, and you've described two men who beat you. Was it just confined to those two men, or were you beaten by other men, other than the two that you've mentioned?",
+      "examination": "questioned"
     },
     {
       "id": 298,
@@ -2179,10 +2242,11 @@
     },
     {
       "id": 299,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did the guards themselves ever beat you?"
+      "text": "Did the guards themselves ever beat you?",
+      "examination": "questioned"
     },
     {
       "id": 300,
@@ -2194,10 +2258,11 @@
     },
     {
       "id": 301,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "And, while we're on this topic, you've told us about you were receiving beatings. What about your fellow inmates? Were they subjected to the same treatment?"
+      "text": "And, while we're on this topic, you've told us about you were receiving beatings. What about your fellow inmates? Were they subjected to the same treatment?",
+      "examination": "questioned"
     },
     {
       "id": 302,
@@ -2209,10 +2274,11 @@
     },
     {
       "id": 303,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "You've earlier mentioned that the three Muslim men eventually left, and you're not entirely sure if they all left at the same time or precisely how long they were in there before they left. What I want to ask you is this: Can you recall how it was that they came to be released, if that was associated with any event?"
+      "text": "You've earlier mentioned that the three Muslim men eventually left, and you're not entirely sure if they all left at the same time or precisely how long they were in there before they left. What I want to ask you is this: Can you recall how it was that they came to be released, if that was associated with any event?",
+      "examination": "questioned"
     },
     {
       "id": 304,
@@ -2224,10 +2290,11 @@
     },
     {
       "id": 305,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Now, can you offer any assistance with the identity of this delegation from Kamenica? Did you see them, did you speak to them, or did you hear anything about them that could tell us who they were?"
+      "text": "Now, can you offer any assistance with the identity of this delegation from Kamenica? Did you see them, did you speak to them, or did you hear anything about them that could tell us who they were?",
+      "examination": "questioned"
     },
     {
       "id": 306,
@@ -2239,10 +2306,11 @@
     },
     {
       "id": 307,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Well, that's what I want to know about. Who told you about them being from a command? And what sort of understanding did you have of that, this command?"
+      "text": "Well, that's what I want to know about. Who told you about them being from a command? And what sort of understanding did you have of that, this command?",
+      "examination": "questioned"
     },
     {
       "id": 308,
@@ -2254,10 +2322,11 @@
     },
     {
       "id": 309,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you actually lay eyes on the delegation? Did you actually see them?"
+      "text": "Did you actually lay eyes on the delegation? Did you actually see them?",
+      "examination": "questioned"
     },
     {
       "id": 310,
@@ -2269,10 +2338,11 @@
     },
     {
       "id": 311,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Okay. If you can't describe their appearance, can you tell us if they were dressed as soldiers? Did they have any uniforms on, and were they armed?"
+      "text": "Okay. If you can't describe their appearance, can you tell us if they were dressed as soldiers? Did they have any uniforms on, and were they armed?",
+      "examination": "questioned"
     },
     {
       "id": 312,
@@ -2284,10 +2354,11 @@
     },
     {
       "id": 313,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Do you know a gentleman named Branko Sekulic?"
+      "text": "Thank you. Do you know a gentleman named Branko Sekulic?",
+      "examination": "questioned"
     },
     {
       "id": 314,
@@ -2299,10 +2370,11 @@
     },
     {
       "id": 315,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you ever see him in the stable that you've been talking about?"
+      "text": "Did you ever see him in the stable that you've been talking about?",
+      "examination": "questioned"
     },
     {
       "id": 316,
@@ -2314,10 +2386,11 @@
     },
     {
       "id": 317,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Can you recall when he was brought there? If you can't recall the -- you may not be able to tell us the date; I doubt that. Could you tell us the season, at least, or the month?"
+      "text": "Can you recall when he was brought there? If you can't recall the -- you may not be able to tell us the date; I doubt that. Could you tell us the season, at least, or the month?",
+      "examination": "questioned"
     },
     {
       "id": 318,
@@ -2329,10 +2402,11 @@
     },
     {
       "id": 319,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Incidentally, during -- throughout this period of your incarceration in the stable, and indeed later in Srebrenica, did you ever have access to a calendar, or did people inform you as to what the dates were, what month you were in?"
+      "text": "Incidentally, during -- throughout this period of your incarceration in the stable, and indeed later in Srebrenica, did you ever have access to a calendar, or did people inform you as to what the dates were, what month you were in?",
+      "examination": "questioned"
     },
     {
       "id": 320,
@@ -2344,10 +2418,11 @@
     },
     {
       "id": 321,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "By the time Branko Sekulic arrived, had you lost track of the date?"
+      "text": "By the time Branko Sekulic arrived, had you lost track of the date?",
+      "examination": "questioned"
     },
     {
       "id": 322,
@@ -2359,10 +2434,11 @@
     },
     {
       "id": 323,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Is that -- I'm sorry, do I take your answer to be that you had lost track of the date, you didn't know what month or what date it was?"
+      "text": "Is that -- I'm sorry, do I take your answer to be that you had lost track of the date, you didn't know what month or what date it was?",
+      "examination": "questioned"
     },
     {
       "id": 324,
@@ -2374,10 +2450,11 @@
     },
     {
       "id": 325,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Now, Mr. Sekulic, did you know him prior to his arrival in the stable, or not?"
+      "text": "Thank you. Now, Mr. Sekulic, did you know him prior to his arrival in the stable, or not?",
+      "examination": "questioned"
     },
     {
       "id": 326,
@@ -2389,10 +2466,11 @@
     },
     {
       "id": 327,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Do you recall the first time he was brought into the prison? Into the stable, I should say."
+      "text": "Do you recall the first time he was brought into the prison? Into the stable, I should say.",
+      "examination": "questioned"
     },
     {
       "id": 328,
@@ -2404,10 +2482,11 @@
     },
     {
       "id": 329,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "How was he brought into the stable?"
+      "text": "How was he brought into the stable?",
+      "examination": "questioned"
     },
     {
       "id": 330,
@@ -2419,10 +2498,11 @@
     },
     {
       "id": 331,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Now, I don't think it's in dispute that you ended up spending many, many months with this man. In the time following his arrival in the stable, did you hear his story, how he came to be captured, where he was from?"
+      "text": "Now, I don't think it's in dispute that you ended up spending many, many months with this man. In the time following his arrival in the stable, did you hear his story, how he came to be captured, where he was from?",
+      "examination": "questioned"
     },
     {
       "id": 332,
@@ -2434,10 +2514,11 @@
     },
     {
       "id": 333,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. What I'd like to know specifically is this: Did he ever say to you or make clear to you that he was a soldier, that he had been captured in fighting and then placed into custody?"
+      "text": "Thank you. What I'd like to know specifically is this: Did he ever say to you or make clear to you that he was a soldier, that he had been captured in fighting and then placed into custody?",
+      "examination": "questioned"
     },
     {
       "id": 334,
@@ -2449,10 +2530,11 @@
     },
     {
       "id": 335,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And just so that we can keep some idea of time, if possible, can you tell us if he arrived while the three Muslim men were still there or whether he arrived after they'd left?"
+      "text": "Thank you. And just so that we can keep some idea of time, if possible, can you tell us if he arrived while the three Muslim men were still there or whether he arrived after they'd left?",
+      "examination": "questioned"
     },
     {
       "id": 336,
@@ -2464,10 +2546,11 @@
     },
     {
       "id": 337,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Do you know a man named Dragan Ilic?"
+      "text": "Thank you. Do you know a man named Dragan Ilic?",
+      "examination": "questioned"
     },
     {
       "id": 338,
@@ -2479,10 +2562,11 @@
     },
     {
       "id": 339,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Was he in the stable?"
+      "text": "Was he in the stable?",
+      "examination": "questioned"
     },
     {
       "id": 340,
@@ -2494,10 +2578,11 @@
     },
     {
       "id": 341,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Do I take it from that that he arrived before or after Jakov Dzokic, or you're not sure?"
+      "text": "Do I take it from that that he arrived before or after Jakov Dzokic, or you're not sure?",
+      "examination": "questioned"
     },
     {
       "id": 342,
@@ -2509,10 +2594,11 @@
     },
     {
       "id": 343,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "And how old was this Dragan Ilic when he was taken into the stable?"
+      "text": "And how old was this Dragan Ilic when he was taken into the stable?",
+      "examination": "questioned"
     },
     {
       "id": 344,
@@ -2524,10 +2610,11 @@
     },
     {
       "id": 345,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And did you hear his story from him as to how it was that he was captured, and where he was from?"
+      "text": "Thank you. And did you hear his story from him as to how it was that he was captured, and where he was from?",
+      "examination": "questioned"
     },
     {
       "id": 346,
@@ -2539,10 +2626,11 @@
     },
     {
       "id": 347,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. You've told us about the three Muslim men, you've told us about Mr. Dzokic, you've told us about Dragan Ilic. Were there any other men who were placed into the stables along with you?"
+      "text": "Thank you. You've told us about the three Muslim men, you've told us about Mr. Dzokic, you've told us about Dragan Ilic. Were there any other men who were placed into the stables along with you?",
+      "examination": "questioned"
     },
     {
       "id": 348,
@@ -2554,10 +2642,11 @@
     },
     {
       "id": 349,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Who were they?"
+      "text": "Who were they?",
+      "examination": "questioned"
     },
     {
       "id": 350,
@@ -2569,10 +2658,11 @@
     },
     {
       "id": 351,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Were there any Gypsies in the stable with you?"
+      "text": "Were there any Gypsies in the stable with you?",
+      "examination": "questioned"
     },
     {
       "id": 352,
@@ -2584,10 +2674,11 @@
     },
     {
       "id": 353,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Okay. And do you know -- I'm not quite sure how to frame this, but do you know the ethnicity of the Gypsy, if he apparently had some overlay to his Gypsy background?"
+      "text": "Okay. And do you know -- I'm not quite sure how to frame this, but do you know the ethnicity of the Gypsy, if he apparently had some overlay to his Gypsy background?",
+      "examination": "questioned"
     },
     {
       "id": 354,
@@ -2606,10 +2697,11 @@
     },
     {
       "id": 356,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "The other man that you've mentioned, Dusan Cestic, what ethnicity was he?"
+      "text": "The other man that you've mentioned, Dusan Cestic, what ethnicity was he?",
+      "examination": "questioned"
     },
     {
       "id": 357,
@@ -2621,10 +2713,11 @@
     },
     {
       "id": 358,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "How long was Dusan Cestic in the stable with you?"
+      "text": "How long was Dusan Cestic in the stable with you?",
+      "examination": "questioned"
     },
     {
       "id": 359,
@@ -2636,10 +2729,11 @@
     },
     {
       "id": 360,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "In the stable?"
+      "text": "In the stable?",
+      "examination": "questioned"
     },
     {
       "id": 361,
@@ -2651,10 +2745,11 @@
     },
     {
       "id": 362,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "You've mentioned earlier in your testimony that beatings that you suffered, and that the other inmates suffered, was in any let-up in the beatings that you were -- that you suffered? In other words, did the beatings continue when these men were also in the stable, Cestic, the Gypsy man, Branko Sekulic, Jakov Dokic, Dragan Ilic?"
+      "text": "You've mentioned earlier in your testimony that beatings that you suffered, and that the other inmates suffered, was in any let-up in the beatings that you were -- that you suffered? In other words, did the beatings continue when these men were also in the stable, Cestic, the Gypsy man, Branko Sekulic, Jakov Dokic, Dragan Ilic?",
+      "examination": "questioned"
     },
     {
       "id": 363,
@@ -2666,10 +2761,11 @@
     },
     {
       "id": 364,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. The man Cestic, do you know how it was that he died? Was it as a result of a beating or some other -- some other cause?"
+      "text": "Thank you. The man Cestic, do you know how it was that he died? Was it as a result of a beating or some other -- some other cause?",
+      "examination": "questioned"
     },
     {
       "id": 365,
@@ -2681,10 +2777,11 @@
     },
     {
       "id": 366,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. What about the Gypsy man, did he stay in the prison from the time of his arrival until the time of your departure, or was he released at some earlier stage?"
+      "text": "Thank you. What about the Gypsy man, did he stay in the prison from the time of his arrival until the time of your departure, or was he released at some earlier stage?",
+      "examination": "questioned"
     },
     {
       "id": 367,
@@ -2717,10 +2814,11 @@
     },
     {
       "id": 371,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "I don't want to dwell on this topic for too long, but I want you to tell the Trial Chamber of the intensity of the beatings that you're talking about. Tell the Trial Chamber whether instruments were used, first of all."
+      "text": "I don't want to dwell on this topic for too long, but I want you to tell the Trial Chamber of the intensity of the beatings that you're talking about. Tell the Trial Chamber whether instruments were used, first of all.",
+      "examination": "questioned"
     },
     {
       "id": 372,
@@ -2732,10 +2830,11 @@
     },
     {
       "id": 373,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Were you kicked?"
+      "text": "Were you kicked?",
+      "examination": "questioned"
     },
     {
       "id": 374,
@@ -2747,10 +2846,11 @@
     },
     {
       "id": 375,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Was there blood visible in the stable? Now, I mean on the walls or on the floor or on the clothing of the inmates or on their faces."
+      "text": "Was there blood visible in the stable? Now, I mean on the walls or on the floor or on the clothing of the inmates or on their faces.",
+      "examination": "questioned"
     },
     {
       "id": 376,
@@ -2762,10 +2862,11 @@
     },
     {
       "id": 377,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Was a woman ever brought into the stables?"
+      "text": "Thank you. Was a woman ever brought into the stables?",
+      "examination": "questioned"
     },
     {
       "id": 378,
@@ -2798,10 +2899,11 @@
     },
     {
       "id": 382,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Now, you've told us of conditions in this stable and some of the unpleasant things that happened. Were there also, from time to time, acts of kindness extended towards you by people of Muslim ethnicity?"
+      "text": "Now, you've told us of conditions in this stable and some of the unpleasant things that happened. Were there also, from time to time, acts of kindness extended towards you by people of Muslim ethnicity?",
+      "examination": "questioned"
     },
     {
       "id": 383,
@@ -2813,10 +2915,11 @@
     },
     {
       "id": 384,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. In addition to the acts of kindness of Salko, was there a man named Muradif who occasionally brought you -- or who did bring you, on one occasion at least, some soap and a razor?"
+      "text": "Thank you. In addition to the acts of kindness of Salko, was there a man named Muradif who occasionally brought you -- or who did bring you, on one occasion at least, some soap and a razor?",
+      "examination": "questioned"
     },
     {
       "id": 385,
@@ -2828,10 +2931,11 @@
     },
     {
       "id": 386,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And while we're on this topic, one last question: Did a neighbour of yours, and I don't want you to mention his name, but did a neighbour of yours from your village, your area, also come on one occasion, or at least one occasion, and also bring food?"
+      "text": "Thank you. And while we're on this topic, one last question: Did a neighbour of yours, and I don't want you to mention his name, but did a neighbour of yours from your village, your area, also come on one occasion, or at least one occasion, and also bring food?",
+      "examination": "questioned"
     },
     {
       "id": 387,
@@ -2871,10 +2975,11 @@
     },
     {
       "id": 392,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "I want to turn now to the end of your stay in the stable. You've already mentioned that you moved to Srebrenica. Can you recall approximately when you moved from the stable to Srebrenica?"
+      "text": "I want to turn now to the end of your stay in the stable. You've already mentioned that you moved to Srebrenica. Can you recall approximately when you moved from the stable to Srebrenica?",
+      "examination": "questioned"
     },
     {
       "id": 393,
@@ -2886,10 +2991,11 @@
     },
     {
       "id": 394,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did men come to your cell? To the stable, I should say."
+      "text": "Did men come to your cell? To the stable, I should say.",
+      "examination": "questioned"
     },
     {
       "id": 395,
@@ -2901,10 +3007,11 @@
     },
     {
       "id": 396,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Were they in uniform?"
+      "text": "Were they in uniform?",
+      "examination": "questioned"
     },
     {
       "id": 397,
@@ -2916,10 +3023,11 @@
     },
     {
       "id": 398,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Were they armed?"
+      "text": "Were they armed?",
+      "examination": "questioned"
     },
     {
       "id": 399,
@@ -2931,10 +3039,11 @@
     },
     {
       "id": 400,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Now, when they first arrived at the stable, did they tell you the reason why you were being taken, moved out of the stable and taken to Srebrenica?"
+      "text": "Now, when they first arrived at the stable, did they tell you the reason why you were being taken, moved out of the stable and taken to Srebrenica?",
+      "examination": "questioned"
     },
     {
       "id": 401,
@@ -2946,10 +3055,11 @@
     },
     {
       "id": 402,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And did you then set about your journey off to Srebrenica?"
+      "text": "Thank you. And did you then set about your journey off to Srebrenica?",
+      "examination": "questioned"
     },
     {
       "id": 403,
@@ -2961,10 +3071,11 @@
     },
     {
       "id": 404,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Okay. Now, I just want to establish who is \"we\". Who was in the party at that stage? And I'm talking about not the soldiers -- sorry, the men who came to collect you, but rather the inmates. Was it just yourself, or was it other inmates?"
+      "text": "Okay. Now, I just want to establish who is \"we\". Who was in the party at that stage? And I'm talking about not the soldiers -- sorry, the men who came to collect you, but rather the inmates. Was it just yourself, or was it other inmates?",
+      "examination": "questioned"
     },
     {
       "id": 405,
@@ -2976,10 +3087,11 @@
     },
     {
       "id": 406,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And you travelled, as you said, on a tractor, and you were taken to a small village and into the -- and to the elementary school. Can you tell the Trial Chamber if anything happened at the elementary school?"
+      "text": "Thank you. And you travelled, as you said, on a tractor, and you were taken to a small village and into the -- and to the elementary school. Can you tell the Trial Chamber if anything happened at the elementary school?",
+      "examination": "questioned"
     },
     {
       "id": 407,
@@ -2991,10 +3103,11 @@
     },
     {
       "id": 408,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "What do you mean by that phrase, \"those of us who were able to\"?"
+      "text": "What do you mean by that phrase, \"those of us who were able to\"?",
+      "examination": "questioned"
     },
     {
       "id": 409,
@@ -3006,10 +3119,11 @@
     },
     {
       "id": 410,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Very well. Continue describing this trip. Where did you go from the elementary school in this village?"
+      "text": "Thank you. Very well. Continue describing this trip. Where did you go from the elementary school in this village?",
+      "examination": "questioned"
     },
     {
       "id": 411,
@@ -3021,10 +3135,11 @@
     },
     {
       "id": 412,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. I just want a bit more detail about this encounter that you're describing. Firstly, who were the men who questioned you? I want to know if they were in civilian clothes or in uniform, and I want to know if they were armed or not."
+      "text": "Thank you. I just want a bit more detail about this encounter that you're describing. Firstly, who were the men who questioned you? I want to know if they were in civilian clothes or in uniform, and I want to know if they were armed or not.",
+      "examination": "questioned"
     },
     {
       "id": 413,
@@ -3036,10 +3151,11 @@
     },
     {
       "id": 414,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you see this person who was apparently in command, so you say, giving orders or issuing orders to other men around him? I'm not talking about the prisoners."
+      "text": "Did you see this person who was apparently in command, so you say, giving orders or issuing orders to other men around him? I'm not talking about the prisoners.",
+      "examination": "questioned"
     },
     {
       "id": 415,
@@ -3051,10 +3167,11 @@
     },
     {
       "id": 416,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you see any paraphernalia, equipment around the place other than camouflage -- and uniforms, and armaments, that might be associated with soldiers?"
+      "text": "Did you see any paraphernalia, equipment around the place other than camouflage -- and uniforms, and armaments, that might be associated with soldiers?",
+      "examination": "questioned"
     },
     {
       "id": 417,
@@ -3066,10 +3183,11 @@
     },
     {
       "id": 418,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Okay. Did you see anything like radios, walkie-talkies, rocket-launchers, any sort of heavy machine-guns, helmets? That sort of equipment."
+      "text": "Okay. Did you see anything like radios, walkie-talkies, rocket-launchers, any sort of heavy machine-guns, helmets? That sort of equipment.",
+      "examination": "questioned"
     },
     {
       "id": 419,
@@ -3081,10 +3199,11 @@
     },
     {
       "id": 420,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And lastly, were your fellow prisoners, Branko and the rest of them, were they also questioned?"
+      "text": "Thank you. And lastly, were your fellow prisoners, Branko and the rest of them, were they also questioned?",
+      "examination": "questioned"
     },
     {
       "id": 421,
@@ -3096,10 +3215,11 @@
     },
     {
       "id": 422,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "And was the only topic that you are asked about the reason that you had gone to Serbia, or did the person you thought was of -- as a commander, also cover other topics other than why you went to Serbia?"
+      "text": "And was the only topic that you are asked about the reason that you had gone to Serbia, or did the person you thought was of -- as a commander, also cover other topics other than why you went to Serbia?",
+      "examination": "questioned"
     },
     {
       "id": 423,
@@ -3111,10 +3231,11 @@
     },
     {
       "id": 424,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. From there, where did you go?"
+      "text": "Thank you. From there, where did you go?",
+      "examination": "questioned"
     },
     {
       "id": 425,
@@ -3126,10 +3247,11 @@
     },
     {
       "id": 426,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you go through any small villages or towns?"
+      "text": "Did you go through any small villages or towns?",
+      "examination": "questioned"
     },
     {
       "id": 427,
@@ -3141,10 +3263,11 @@
     },
     {
       "id": 428,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "How were you travelling at this point?"
+      "text": "How were you travelling at this point?",
+      "examination": "questioned"
     },
     {
       "id": 429,
@@ -3156,10 +3279,11 @@
     },
     {
       "id": 430,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "And can you tell the Trial Chamber if you were accompanied by armed men; and secondly, whether -- if there were armed men, how they were dressed?"
+      "text": "And can you tell the Trial Chamber if you were accompanied by armed men; and secondly, whether -- if there were armed men, how they were dressed?",
+      "examination": "questioned"
     },
     {
       "id": 431,
@@ -3171,10 +3295,11 @@
     },
     {
       "id": 432,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Now, you've mentioned Kravica. Did you drive through Kravica itself or skirt around it?"
+      "text": "Thank you. Now, you've mentioned Kravica. Did you drive through Kravica itself or skirt around it?",
+      "examination": "questioned"
     },
     {
       "id": 433,
@@ -3186,10 +3311,11 @@
     },
     {
       "id": 434,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Now, did you see any people in Kravica; and if so, what were they doing?"
+      "text": "Thank you. Now, did you see any people in Kravica; and if so, what were they doing?",
+      "examination": "questioned"
     },
     {
       "id": 435,
@@ -3201,10 +3327,11 @@
     },
     {
       "id": 436,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you see any horses in Kravica?"
+      "text": "Did you see any horses in Kravica?",
+      "examination": "questioned"
     },
     {
       "id": 437,
@@ -3216,10 +3343,11 @@
     },
     {
       "id": 438,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "On a horse or several horses, or can't you recall?"
+      "text": "On a horse or several horses, or can't you recall?",
+      "examination": "questioned"
     },
     {
       "id": 439,
@@ -3231,10 +3359,11 @@
     },
     {
       "id": 440,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And can you tell the Trial Chamber if you have any impression of how these people, who were rolling barrels and putting things on horses, were dressed?"
+      "text": "Thank you. And can you tell the Trial Chamber if you have any impression of how these people, who were rolling barrels and putting things on horses, were dressed?",
+      "examination": "questioned"
     },
     {
       "id": 441,
@@ -3246,10 +3375,11 @@
     },
     {
       "id": 442,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. Very well. We'll move on. From there, did you go through Potocari, and eventually on to Srebrenica?"
+      "text": "Thank you. Very well. We'll move on. From there, did you go through Potocari, and eventually on to Srebrenica?",
+      "examination": "questioned"
     },
     {
       "id": 443,
@@ -3261,10 +3391,11 @@
     },
     {
       "id": 444,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. And from Potocari, did you go into Srebrenica?"
+      "text": "Thank you. And from Potocari, did you go into Srebrenica?",
+      "examination": "questioned"
     },
     {
       "id": 445,
@@ -3276,10 +3407,11 @@
     },
     {
       "id": 446,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "And the same party of prisoners that you've mentioned, Branko and Dragan, and so on, the people you've mentioned as having set out on this journey, were all of them taken to -- including yourself, taken to Srebrenica?"
+      "text": "And the same party of prisoners that you've mentioned, Branko and Dragan, and so on, the people you've mentioned as having set out on this journey, were all of them taken to -- including yourself, taken to Srebrenica?",
+      "examination": "questioned"
     },
     {
       "id": 447,
@@ -3291,10 +3423,11 @@
     },
     {
       "id": 448,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "At any point in your journey were you ever unaccompanied; that is, did the guards -- the men who were with you, and some partially dressed in camouflage uniforms and some armed, did they ever leave you?"
+      "text": "At any point in your journey were you ever unaccompanied; that is, did the guards -- the men who were with you, and some partially dressed in camouflage uniforms and some armed, did they ever leave you?",
+      "examination": "questioned"
     },
     {
       "id": 449,
@@ -3306,10 +3439,11 @@
     },
     {
       "id": 450,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Were the people who came and went and who joined up with you from time to time dressed in camouflage uniforms, or partially dressed in camouflage uniforms, and armed?"
+      "text": "Were the people who came and went and who joined up with you from time to time dressed in camouflage uniforms, or partially dressed in camouflage uniforms, and armed?",
+      "examination": "questioned"
     },
     {
       "id": 451,
@@ -3321,10 +3455,11 @@
     },
     {
       "id": 452,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Had you ever been to Srebrenica before, before this occasion?"
+      "text": "Had you ever been to Srebrenica before, before this occasion?",
+      "examination": "questioned"
     },
     {
       "id": 453,
@@ -3336,10 +3471,11 @@
     },
     {
       "id": 454,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you arrive at night?"
+      "text": "Did you arrive at night?",
+      "examination": "questioned"
     },
     {
       "id": 455,
@@ -3351,10 +3487,11 @@
     },
     {
       "id": 456,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Where were you taken?"
+      "text": "Where were you taken?",
+      "examination": "questioned"
     },
     {
       "id": 457,
@@ -3366,10 +3503,11 @@
     },
     {
       "id": 458,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Describe to the Trial Chamber how you were beaten. And I want to know in particular whether instruments were used."
+      "text": "Describe to the Trial Chamber how you were beaten. And I want to know in particular whether instruments were used.",
+      "examination": "questioned"
     },
     {
       "id": 459,
@@ -3381,10 +3519,11 @@
     },
     {
       "id": 460,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you lose consciousness?"
+      "text": "Did you lose consciousness?",
+      "examination": "questioned"
     },
     {
       "id": 461,
@@ -3396,10 +3535,11 @@
     },
     {
       "id": 462,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "You may or may not be able to recall this, but can you tell the Trial Chamber if any of the guards who had accompanied you were present either before or after or during this beating."
+      "text": "You may or may not be able to recall this, but can you tell the Trial Chamber if any of the guards who had accompanied you were present either before or after or during this beating.",
+      "examination": "questioned"
     },
     {
       "id": 463,
@@ -3411,10 +3551,11 @@
     },
     {
       "id": 464,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "I'm talking about this beating when you arrived. When you first arrived, you've told us that you were beaten. Now, if you can't tell us, that's fine. But if you can remember, can you tell the Trial Chamber whether any of the guards who were with you on the truck on the way into Srebrenica were present either shortly before you were attacked or during the beating or immediately after?"
+      "text": "I'm talking about this beating when you arrived. When you first arrived, you've told us that you were beaten. Now, if you can't tell us, that's fine. But if you can remember, can you tell the Trial Chamber whether any of the guards who were with you on the truck on the way into Srebrenica were present either shortly before you were attacked or during the beating or immediately after?",
+      "examination": "questioned"
     },
     {
       "id": 465,
@@ -3426,10 +3567,11 @@
     },
     {
       "id": 466,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. MR. DI FAZIO: We need to go into private session, if Your Honours please, as I want to -- as I want to show the witness a document that may identify him."
+      "text": "Thank you. MR. DI FAZIO: We need to go into private session, if Your Honours please, as I want to -- as I want to show the witness a document that may identify him.",
+      "examination": "questioned"
     },
     {
       "id": 467,
@@ -3454,10 +3596,11 @@
     },
     {
       "id": 470,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Following this beating that you were described in your evidence, were you taken somewhere?"
+      "text": "Following this beating that you were described in your evidence, were you taken somewhere?",
+      "examination": "questioned"
     },
     {
       "id": 471,
@@ -3469,10 +3612,11 @@
     },
     {
       "id": 472,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "You say, \"They took us.\" Do you refer to the whole party, including the men that you've mentioned and Andja?"
+      "text": "You say, \"They took us.\" Do you refer to the whole party, including the men that you've mentioned and Andja?",
+      "examination": "questioned"
     },
     {
       "id": 473,
@@ -3484,10 +3628,11 @@
     },
     {
       "id": 474,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "And there, in this other building that you're talking about, were you locked up into a room?"
+      "text": "And there, in this other building that you're talking about, were you locked up into a room?",
+      "examination": "questioned"
     },
     {
       "id": 475,
@@ -3499,10 +3644,11 @@
     },
     {
       "id": 476,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Other prisoners?"
+      "text": "Other prisoners?",
+      "examination": "questioned"
     },
     {
       "id": 477,
@@ -3514,10 +3660,11 @@
     },
     {
       "id": 478,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "All right, okay. Now, you've told us that you spent some time in Srebrenica, and it's not in dispute that eventually you left after some time. Did you remain in that room for the duration of your stay in Srebrenica?"
+      "text": "All right, okay. Now, you've told us that you spent some time in Srebrenica, and it's not in dispute that eventually you left after some time. Did you remain in that room for the duration of your stay in Srebrenica?",
+      "examination": "questioned"
     },
     {
       "id": 479,
@@ -3529,10 +3676,11 @@
     },
     {
       "id": 480,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Did you ever leave the room, for example, to go to the lavatory?"
+      "text": "Did you ever leave the room, for example, to go to the lavatory?",
+      "examination": "questioned"
     },
     {
       "id": 481,
@@ -3544,10 +3692,11 @@
     },
     {
       "id": 482,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Apart from being taken out to be attacked and assaulted, and so on, did you spend the vast, overwhelming majority of your time locked up in this room that you're now talking about?"
+      "text": "Apart from being taken out to be attacked and assaulted, and so on, did you spend the vast, overwhelming majority of your time locked up in this room that you're now talking about?",
+      "examination": "questioned"
     },
     {
       "id": 483,
@@ -3559,17 +3708,19 @@
     },
     {
       "id": 484,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "You've mentioned that -- you've mentioned that -- MR. DI FAZIO: Your Honours, I just want to finish this topic, and we can stop at a natural break, if that's okay."
+      "text": "You've mentioned that -- you've mentioned that -- MR. DI FAZIO: Your Honours, I just want to finish this topic, and we can stop at a natural break, if that's okay.",
+      "examination": "questioned"
     },
     {
       "id": 485,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "You've mentioned that Andja was there, was taken to the building. Was she put into the same room?"
+      "text": "You've mentioned that Andja was there, was taken to the building. Was she put into the same room?",
+      "examination": "questioned"
     },
     {
       "id": 486,
@@ -3581,10 +3732,11 @@
     },
     {
       "id": 487,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "What makes you say that, that there were women, other women, apart from Andja?"
+      "text": "What makes you say that, that there were women, other women, apart from Andja?",
+      "examination": "questioned"
     },
     {
       "id": 488,
@@ -3596,10 +3748,11 @@
     },
     {
       "id": 489,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "Thank you. MR. DI FAZIO: If Your Honours please, this is as good a time at which to stop."
+      "text": "Thank you. MR. DI FAZIO: If Your Honours please, this is as good a time at which to stop.",
+      "examination": "questioned"
     },
     {
       "id": 490,
@@ -3673,6 +3826,14 @@
     {
       "after_utterance": 32,
       "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 38,
+      "text": "Re-examined by Ms. Sellers:  [Continued]"
+    },
+    {
+      "after_utterance": 53,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 118,

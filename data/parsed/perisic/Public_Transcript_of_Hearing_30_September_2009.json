@@ -1,6 +1,6 @@
 {
   "case": "perisic",
-  "case_id": "IT-04-81-T",
+  "case_id": "IT-04-81",
   "date": "2009-09-30",
   "utterances": [
     {
@@ -3022,7 +3022,7 @@
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you Madam Carter. Questioned by the Court:"
+      "text": "Thank you Madam Carter."
     },
     {
       "id": 396,
@@ -3189,7 +3189,7 @@
       "speaker": "MS. CARTER",
       "role": "counsel",
       "type": "statement",
-      "text": "A single question. Further Re-examination by Ms. Carter:"
+      "text": "A single question."
     },
     {
       "id": 419,
@@ -3226,15 +3226,15 @@
       "speaker": "MR. GUY-SMITH",
       "role": "counsel",
       "type": "statement",
-      "text": "One question. Further Cross-examination by Mr. Guy-Smith:"
+      "text": "One question."
     },
     {
       "id": 424,
-      "speaker": "MS. CARTER",
+      "speaker": "MR. GUY-SMITH",
       "role": "counsel",
       "type": "question",
       "text": "You indicated that there was Serb coverage, that you had been captured by Bosnian Muslims. I'm going to read something from your statement and see if that's what you are referring to. \"On March 12th the situation changed completely. The crowd of refugees around the PTT building where we had spent the night had been growing and becoming increasingly hostile. As one stage, as I pushed my way through the with Mihailov, he told me the refugees were arguing amongst each other whether we should be killed immediately or whether we served any purpose in being kept alive. I also noticed a number of Bosniak soldiers setting up three heavy 12.7 mms,\" that's millimetre I guess? Thank you. \"... millimetre machine-guns on tripods in positions to cover the road back the way we had come.\" Is that information that -- oh, I'm sorry, \"... some more took up positions with hand-held anti-tank rockets.\" Is that information that you transmitted over any radio communication to anyone concerning your condition when you were telling us about you doing your hourly reporting?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 425,
@@ -3401,6 +3401,18 @@
     {
       "after_utterance": 393,
       "text": "[Prosecution counsel confer]"
+    },
+    {
+      "after_utterance": 395,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 418,
+      "text": "Further Re-examination by Ms. Carter:"
+    },
+    {
+      "after_utterance": 423,
+      "text": "Further Cross-examination by Mr. Guy-Smith:"
     },
     {
       "after_utterance": 427,

@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2014-09-23",
   "utterances": [
     {
@@ -3334,7 +3334,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you, Mr. Stojanovic. Judge Moloto has one or more questions for you. Questioned by the Court:"
+      "text": "Thank you, Mr. Stojanovic. Judge Moloto has one or more questions for you."
     },
     {
       "id": 447,
@@ -3601,15 +3601,15 @@
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you. That makes it quite clearer, much clearer. Because now the first sentence seems to suggest that that was the only time in addition to the 1992 one. Okay. Thank you so much. Yes, Mr. Traldi. Further cross-examination by Mr. Traldi:"
+      "text": "Thank you. That makes it quite clearer, much clearer. Because now the first sentence seems to suggest that that was the only time in addition to the 1992 one. Okay. Thank you so much. Yes, Mr. Traldi."
     },
     {
       "id": 483,
-      "speaker": "MR. STOJANOVIC",
+      "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
       "text": "Sir, in response to the Judge's questions you said you were the vice-president of the assembly, was that the elected assembly or the Serb assembly?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 484,
@@ -3621,11 +3621,11 @@
     },
     {
       "id": 485,
-      "speaker": "MR. STOJANOVIC",
+      "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
       "text": "Just to make sure I understood your answer to the Judges' questions properly, I understood you to be saying that at some point between 1991 and 1995 you'd also held the position of vice-president of one of the assemblies; is that correct?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 486,
@@ -3637,11 +3637,11 @@
     },
     {
       "id": 487,
-      "speaker": "MR. STOJANOVIC",
+      "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
       "text": "Moving to a different topic. Sir, Mr. Stojanovic asked you about the timing of people leaving Rogatica. You said some of those who left Rogatica in 1992 went to Zepa; right? And before that? After Zepa fell in 1995, there were almost no Muslims left in Rogatica municipality at all; right?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 488,
@@ -5374,6 +5374,14 @@
     {
       "after_utterance": 429,
       "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 446,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 482,
+      "text": "Further cross-examination by Mr. Traldi:"
     },
     {
       "after_utterance": 495,

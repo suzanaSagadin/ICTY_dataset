@@ -3044,80 +3044,94 @@
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
-      "text": "Well, just please conclude the examination-in-chief. Go ahead, Judge Van den Wyngaert. JUDGE VAN DEN WYNGAERT: I have a question. It seems that the two experts visited the place at the same time together; is that correct?"
+      "text": "Well, just please conclude the examination-in-chief. Go ahead, Judge Van den Wyngaert."
     },
     {
       "id": 401,
-      "speaker": "MR. IVETIC",
-      "role": "counsel",
+      "speaker": "JUDGE VAN DEN WYNGAERT",
+      "role": "judge",
       "type": "statement",
-      "text": "That's correct, Your Honour. JUDGE VAN DEN WYNGAERT: Why didn't you have them draft one report signed by the both of them? What's the purpose of the duplication because we are hearing exactly the same from a different person in this same case? Thank you."
+      "text": "I have a question. It seems that the two experts visited the place at the same time together; is that correct?"
     },
     {
       "id": 402,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "That's correct, Your Honour."
+    },
+    {
+      "id": 403,
+      "speaker": "JUDGE VAN DEN WYNGAERT",
+      "role": "judge",
+      "type": "statement",
+      "text": "Why didn't you have them draft one report signed by the both of them? What's the purpose of the duplication because we are hearing exactly the same from a different person in this same case? Thank you."
+    },
+    {
+      "id": 404,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, one of the main things that the fire investigators explained to me was peer review is essential. This is a cold case, obviously, so with the limitations imposed, they wanted two sets of eyes. Mr. Dimas is the lead investigator, and I think the Prosecution used the junior status of Mr. McCoy to their theory of the case, but the reality is the meat and bones of the investigation was performed by Mr. Dimas, who is the lead and senior investigator. Mr. McCoy was meant to carry the camera and of course has similar qualifications but was not in the role of lead investigator on this mission."
     },
     {
-      "id": 403,
+      "id": 405,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Two or three more questions, then. Mr. Groome."
     },
     {
-      "id": 404,
+      "id": 406,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "I would point out that's what's being pointed out that what is being presented now is a lead investigator and junior investigator was presented to the Court earlier today and last week as two qualified experts in fire -- identification of fire causes."
     },
     {
-      "id": 405,
+      "id": 407,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Yes, Mr. Ivetic."
     },
     {
-      "id": 406,
+      "id": 408,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "We can ask the witness to explain that. That was one of the areas I was going to go into in his prior experience that I had to short-circuit, so if that's something that Your Honours are interested in, the gentleman's here. He can explain the standard operation procedure is in his employment and his line of work and what the significance found to --"
     },
     {
-      "id": 407,
+      "id": 409,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Just ask your two more questions and let's move on to the cross-examination."
     },
     {
-      "id": 408,
+      "id": 410,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I have also Bikavac, which will be about five or six questions as to the Bikavac site, the second site that was sought."
     },
     {
-      "id": 409,
+      "id": 411,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Very well."
     },
     {
-      "id": 410,
+      "id": 412,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour. I apologise. I think I had a question pending. Yes."
     },
     {
-      "id": 411,
+      "id": 413,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "question",
@@ -3125,27 +3139,11 @@
       "examination": "direct"
     },
     {
-      "id": 412,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "Well, with it being uneven, porous, you'd still find, again, evidence of some type of sooting or collection of fire up in there, mainly sooting and ash, maybe, if there had been a fire there because ash tends to float, as well, and there is no evidence of that.",
-      "reply_to": 411
-    },
-    {
-      "id": 413,
-      "speaker": "MR. IVETIC",
-      "role": "counsel",
-      "type": "question",
-      "text": "And do you have any measurement or approximation as to the distance between the beginning of this whole in the ceiling and its termination point, that is to say how deep or how long is this going upwards?",
-      "examination": "direct"
-    },
-    {
       "id": 414,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "It would be just whatever the thickness the slab was because it ends on the floor of the second storey or the ground floor, so it's only from the basement ceiling to the floor of the ground floor.",
+      "text": "Well, with it being uneven, porous, you'd still find, again, evidence of some type of sooting or collection of fire up in there, mainly sooting and ash, maybe, if there had been a fire there because ash tends to float, as well, and there is no evidence of that.",
       "reply_to": 413
     },
     {
@@ -3153,39 +3151,55 @@
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you.",
+      "text": "And do you have any measurement or approximation as to the distance between the beginning of this whole in the ceiling and its termination point, that is to say how deep or how long is this going upwards?",
       "examination": "direct"
     },
     {
       "id": 416,
+      "speaker": "BENJAMIN DIMAS",
+      "role": "witness",
+      "type": "answer",
+      "text": "It would be just whatever the thickness the slab was because it ends on the floor of the second storey or the ground floor, so it's only from the basement ceiling to the floor of the ground floor.",
+      "reply_to": 415
+    },
+    {
+      "id": 417,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 418,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "And if we could -- if we could just to be safe tender this as an exhibit, Your Honours; I note that this exhibit was used with Mr. McCoy, but my notes indicate that the one that he viewed, he marked up, so I'd like to have a clean copy as well. One moment. Yeah, I think it's illustrative to have a clean copy tendered. The one that was previously tendered by Mr. McCoy has markings on it."
     },
     {
-      "id": 417,
+      "id": 419,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 418,
+      "id": 420,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "Exhibit 1D194, Your Honours."
     },
     {
-      "id": 419,
+      "id": 421,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 420,
+      "id": 422,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "question",
@@ -3193,27 +3207,11 @@
       "examination": "direct"
     },
     {
-      "id": 421,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "The scene exam was very limited since there was no structure left. Again, there I observed what appeared to be the remains of the foundation, some footings or footers that were out of concrete. I dug into a couple areas within the dirt, again, looking for fire debris or ash. I made note of areas where I found some black residue. That was pretty much the extent of that investigation.",
-      "reply_to": 420
-    },
-    {
-      "id": 422,
-      "speaker": "MR. IVETIC",
-      "role": "counsel",
-      "type": "question",
-      "text": "And with respect to the black residue, what, if any, conclusions or observations did you draw as to that?",
-      "examination": "direct"
-    },
-    {
       "id": 423,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "It was determined to be a tar substance. When I noted the nearby other buildings, it appears that they use it as a sealer within their buildings.",
+      "text": "The scene exam was very limited since there was no structure left. Again, there I observed what appeared to be the remains of the foundation, some footings or footers that were out of concrete. I dug into a couple areas within the dirt, again, looking for fire debris or ash. I made note of areas where I found some black residue. That was pretty much the extent of that investigation.",
       "reply_to": 422
     },
     {
@@ -3221,7 +3219,7 @@
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "question",
-      "text": "And with respect to the Bikavac site itself, could you describe for us as one of the few persons in this courtroom who's actually been to the location physically, how difficult was it to get there, and what was the surrounding terrain like and the location of the houses like around the site where the Bikavac location was situated?",
+      "text": "And with respect to the black residue, what, if any, conclusions or observations did you draw as to that?",
       "examination": "direct"
     },
     {
@@ -3229,7 +3227,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "We had a slight difficulty. Going -- the main road going up to it was uphill. One of the vehicles had difficulty with its clutch. Once we got onto the side street leading up to the house, that was very muddy and narrow. Both roads were very narrow, so even in the small car we had difficulty reaching the site.",
+      "text": "It was determined to be a tar substance. When I noted the nearby other buildings, it appears that they use it as a sealer within their buildings.",
       "reply_to": 424
     },
     {
@@ -3237,7 +3235,7 @@
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "question",
-      "text": "And what about the neighboring houses, the neighboring houses to the empty lot where the Bikavac site was located? What can you say about the distances between or how close they were to that site?",
+      "text": "And with respect to the Bikavac site itself, could you describe for us as one of the few persons in this courtroom who's actually been to the location physically, how difficult was it to get there, and what was the surrounding terrain like and the location of the houses like around the site where the Bikavac location was situated?",
       "examination": "direct"
     },
     {
@@ -3245,7 +3243,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "The edges of the foundation after we identified edge to edge was very close in proximity to two homes. On one side, there's a house that's approximately three storeys again. It was probably within three feet of that structure, and then on the other side that side was maybe 6 feet away, so very close proximity, so that's always a concern especially in a fully evolved structure fire because fire can radiate or be spread to other buildings nearby.",
+      "text": "We had a slight difficulty. Going -- the main road going up to it was uphill. One of the vehicles had difficulty with its clutch. Once we got onto the side street leading up to the house, that was very muddy and narrow. Both roads were very narrow, so even in the small car we had difficulty reaching the site.",
       "reply_to": 426
     },
     {
@@ -3253,25 +3251,41 @@
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. One moment. Let me just check.",
+      "text": "And what about the neighboring houses, the neighboring houses to the empty lot where the Bikavac site was located? What can you say about the distances between or how close they were to that site?",
       "examination": "direct"
     },
     {
       "id": 429,
+      "speaker": "BENJAMIN DIMAS",
+      "role": "witness",
+      "type": "answer",
+      "text": "The edges of the foundation after we identified edge to edge was very close in proximity to two homes. On one side, there's a house that's approximately three storeys again. It was probably within three feet of that structure, and then on the other side that side was maybe 6 feet away, so very close proximity, so that's always a concern especially in a fully evolved structure fire because fire can radiate or be spread to other buildings nearby.",
+      "reply_to": 428
+    },
+    {
+      "id": 430,
+      "speaker": "MR. IVETIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. One moment. Let me just check.",
+      "examination": "direct"
+    },
+    {
+      "id": 431,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "And again, Your Honours, I believe the photographs of the -- that had been selected by the experts for inclusion in their report is the -- has been tendered through Mr. McCoy, and we're just waiting the ultimate determination of the Trial Chamber, so I do not need to tender those photographs a second time, I don't believe. And with that, I have no further questions on direct examination for this witness."
     },
     {
-      "id": 430,
+      "id": 432,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Mr. Groome."
     },
     {
-      "id": 431,
+      "id": 433,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3279,91 +3293,91 @@
       "examination": "cross"
     },
     {
-      "id": 432,
+      "id": 434,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "A moment. I apologise, Mr. Groome. We got via e-mail during the direct examination of --"
     },
     {
-      "id": 433,
+      "id": 435,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I ask that this discussion not be in front of the witness, Your Honour."
     },
     {
-      "id": 434,
+      "id": 436,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "Why not?"
     },
     {
-      "id": 435,
+      "id": 437,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, this weekend the Prosecution went down to look at the site again and has some evidence I'd like to show Mr. Dimas. I'd ask that Mr. Alarid not be coaching through his objections Mr. Dimas about what it is that Mr. Alarid now knows we intend to show Mr. Dimas during this cross-examination."
     },
     {
-      "id": 436,
+      "id": 438,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "Well, to be honest, I don't know. We haven't been produced this evidence. It is Rule 68 and -- whatever the rule is --"
     },
     {
-      "id": 437,
+      "id": 439,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Let us deal with it when Mr. Groome gets to it."
     },
     {
-      "id": 438,
+      "id": 440,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "Excuse me? I apologise, Your Honour?"
     },
     {
-      "id": 439,
+      "id": 441,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "You're anticipating what Mr. Groome will produce in cross-examination?"
     },
     {
-      "id": 440,
+      "id": 442,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "It's video and photographs, apparently, and evidence collected at the site that he's saying was part of his mission on this particular weekend. I think we should have an opportunity to been presented this evidence if it's going to be tendered in open court, and we should be tender this evidence before he questions the witness on it. And so under those circumstances, Your Honour, I think it's just common courtesy in terms of producing evidence that if they had it, and if it was producible this morning, it should have been tendered to us this morning. The fact that it's not tendered to us until during the testimony --"
     },
     {
-      "id": 441,
+      "id": 443,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Well, is that going to be your first business, first part of business in your cross-examination to tender this?"
     },
     {
-      "id": 442,
+      "id": 444,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "No, it will not be, Your Honour."
     },
     {
-      "id": 443,
+      "id": 445,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "All right. When you come to it, then we'll deal wilt."
     },
     {
-      "id": 444,
+      "id": 446,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3371,14 +3385,14 @@
       "examination": "cross"
     },
     {
-      "id": 445,
+      "id": 447,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Groome, the Defence spent two hours, and I'm expecting you will use just about the same time, not more."
     },
     {
-      "id": 446,
+      "id": 448,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3386,27 +3400,11 @@
       "examination": "cross"
     },
     {
-      "id": 447,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "That's not necessarily true. As part of peer review, what we do --",
-      "reply_to": 446
-    },
-    {
-      "id": 448,
-      "speaker": "MR. GROOME",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sir, as you can tell, I'm very limited in the time I have. What finding do you disagree with Mr. McCoy?",
-      "examination": "cross"
-    },
-    {
       "id": 449,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Well, the findings or evidence, like, for example, I'm not sure what Mr. McCoy fully testified to --",
+      "text": "That's not necessarily true. As part of peer review, what we do --",
       "reply_to": 448
     },
     {
@@ -3414,7 +3412,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "How about his report? Let's just look at the two reports. Are you in full agreement with everything he said in his report?",
+      "text": "Sir, as you can tell, I'm very limited in the time I have. What finding do you disagree with Mr. McCoy?",
       "examination": "cross"
     },
     {
@@ -3422,7 +3420,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I actually did not read his report.",
+      "text": "Well, the findings or evidence, like, for example, I'm not sure what Mr. McCoy fully testified to --",
       "reply_to": 450
     },
     {
@@ -3430,7 +3428,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So how does peer review occur if you don't read his report? Do you simply just discuss what are your observations?",
+      "text": "How about his report? Let's just look at the two reports. Are you in full agreement with everything he said in his report?",
       "examination": "cross"
     },
     {
@@ -3438,7 +3436,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes. We bounce off the -- what we're visually seeing on-site. Again, I was the lead investigator on the scene, so I'm bouncing of what I'm seeing and to see if somebody else sees something different.",
+      "text": "I actually did not read his report.",
       "reply_to": 452
     },
     {
@@ -3446,7 +3444,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Thank you. You were shown a video in your direct examination taken in 2001. You've seen the entire video; have you not?",
+      "text": "So how does peer review occur if you don't read his report? Do you simply just discuss what are your observations?",
       "examination": "cross"
     },
     {
@@ -3454,7 +3452,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I have.",
+      "text": "Yes. We bounce off the -- what we're visually seeing on-site. Again, I was the lead investigator on the scene, so I'm bouncing of what I'm seeing and to see if somebody else sees something different.",
       "reply_to": 454
     },
     {
@@ -3462,7 +3460,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And throughout that video, there are many soldiers with masks on and heavy weapons; is that not correct?",
+      "text": "Okay. Thank you. You were shown a video in your direct examination taken in 2001. You've seen the entire video; have you not?",
       "examination": "cross"
     },
     {
@@ -3470,7 +3468,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "That is correct.",
+      "text": "Yes, I have.",
       "reply_to": 456
     },
     {
@@ -3478,39 +3476,55 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Would ill be correct in saying --",
+      "text": "And throughout that video, there are many soldiers with masks on and heavy weapons; is that not correct?",
       "examination": "cross"
     },
     {
       "id": 459,
+      "speaker": "BENJAMIN DIMAS",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 458
+    },
+    {
+      "id": 460,
+      "speaker": "MR. GROOME",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would ill be correct in saying --",
+      "examination": "cross"
+    },
+    {
+      "id": 461,
       "speaker": "MR. CEPIC",
       "role": "counsel",
       "type": "statement",
       "text": "I'm sorry. Just a problem in translation in B/C/S. Both speakers have been speaking quite fast."
     },
     {
-      "id": 460,
+      "id": 462,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "I see."
     },
     {
-      "id": 461,
+      "id": 463,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "I apologise to the translators."
     },
     {
-      "id": 462,
+      "id": 464,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "You are speaking very fast. Please slow down and observe the pause between question and answer."
     },
     {
-      "id": 463,
+      "id": 465,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3518,27 +3532,11 @@
       "examination": "cross"
     },
     {
-      "id": 464,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "That is correct.",
-      "reply_to": 463
-    },
-    {
-      "id": 465,
-      "speaker": "MR. GROOME",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you do not know as you sit here whether there was possible concern for possible mines inside that building or in the area; do you?",
-      "examination": "cross"
-    },
-    {
       "id": 466,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No, I don't dispute that. What I stated was --",
+      "text": "That is correct.",
       "reply_to": 465
     },
     {
@@ -3546,7 +3544,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you.",
+      "text": "And you do not know as you sit here whether there was possible concern for possible mines inside that building or in the area; do you?",
       "examination": "cross"
     },
     {
@@ -3554,25 +3552,41 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Your Honour, can I finish my --",
+      "text": "No, I don't dispute that. What I stated was --",
       "reply_to": 467
     },
     {
       "id": 469,
+      "speaker": "MR. GROOME",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 470,
+      "speaker": "BENJAMIN DIMAS",
+      "role": "witness",
+      "type": "answer",
+      "text": "Your Honour, can I finish my --",
+      "reply_to": 469
+    },
+    {
+      "id": 471,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Yes, please finish."
     },
     {
-      "id": 470,
+      "id": 472,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "What I stated earlier was if there was such great concern, they could have at least held the video into the window. If they did have an armed guard right there who peered in. Why not document it with the camera it self?"
     },
     {
-      "id": 471,
+      "id": 473,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3580,14 +3594,14 @@
       "examination": "cross"
     },
     {
-      "id": 472,
+      "id": 474,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "I'm going to ask that 1D169 be shown to the witness."
     },
     {
-      "id": 473,
+      "id": 475,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3595,27 +3609,11 @@
       "examination": "cross"
     },
     {
-      "id": 474,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes.",
-      "reply_to": 473
-    },
-    {
-      "id": 475,
-      "speaker": "MR. GROOME",
-      "role": "counsel",
-      "type": "question",
-      "text": "So standing looking at the front door of the room, it would be to your right still under the portico?",
-      "examination": "cross"
-    },
-    {
       "id": 476,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No, sir. You go to the right of the doorway, it's actually on the left-hand corner of that portico.",
+      "text": "Yes.",
       "reply_to": 475
     },
     {
@@ -3623,7 +3621,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "But it's to the right of the doorway?",
+      "text": "So standing looking at the front door of the room, it would be to your right still under the portico?",
       "examination": "cross"
     },
     {
@@ -3631,7 +3629,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, to the right of the doorway.",
+      "text": "No, sir. You go to the right of the doorway, it's actually on the left-hand corner of that portico.",
       "reply_to": 477
     },
     {
@@ -3639,7 +3637,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'm going to ask -- Mr. Ivetic introduced 1D184. It's a video. I'm going ask that you show a still of this. I'm going to ask that it be placed on the ELMO. So if that could be placed on the overhead projector to your right, we'll all be able to see, and if we could zoom out a little bit. Now, sir, you've mentioned this -- I think you've referred to it as a shed. It looks like a boarded-up area to the right of the door; correct?",
+      "text": "But it's to the right of the doorway?",
       "examination": "cross"
     },
     {
@@ -3647,7 +3645,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, it has the appearance of some type of structure.",
+      "text": "Yes, to the right of the doorway.",
       "reply_to": 479
     },
     {
@@ -3655,7 +3653,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, the burnt that material that we see on 1D169 is not visible from this standpoint, is it?",
+      "text": "I'm going to ask -- Mr. Ivetic introduced 1D184. It's a video. I'm going ask that you show a still of this. I'm going to ask that it be placed on the ELMO. So if that could be placed on the overhead projector to your right, we'll all be able to see, and if we could zoom out a little bit. Now, sir, you've mentioned this -- I think you've referred to it as a shed. It looks like a boarded-up area to the right of the door; correct?",
       "examination": "cross"
     },
     {
@@ -3663,7 +3661,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No, it's not.",
+      "text": "Yes, it has the appearance of some type of structure.",
       "reply_to": 481
     },
     {
@@ -3671,7 +3669,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So it is impossible to know that this video taken nine years after the fire, whether or not the material on the wall there is burnt or isn't burnt; is that not correct.",
+      "text": "Now, the burnt that material that we see on 1D169 is not visible from this standpoint, is it?",
       "examination": "cross"
     },
     {
@@ -3679,7 +3677,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Can you rephrase?",
+      "text": "No, it's not.",
       "reply_to": 483
     },
     {
@@ -3687,7 +3685,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "It's impossible from this video to tell whether or not the burnt material in 1D169, whether it's sitting up there in 2001 burnt or it's un-burnt. It's impossible for you to tell that, is it not?",
+      "text": "So it is impossible to know that this video taken nine years after the fire, whether or not the material on the wall there is burnt or isn't burnt; is that not correct.",
       "examination": "cross"
     },
     {
@@ -3695,7 +3693,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "That's correct. You can't tell either way.",
+      "text": "Can you rephrase?",
       "reply_to": 485
     },
     {
@@ -3703,7 +3701,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Now, you seem to suggest in your evidence that the fire damage or whatever we see in the portico must be the result of a fire that involved this shed because we no longer see this shed material; correct?",
+      "text": "It's impossible from this video to tell whether or not the burnt material in 1D169, whether it's sitting up there in 2001 burnt or it's un-burnt. It's impossible for you to tell that, is it not?",
       "examination": "cross"
     },
     {
@@ -3711,7 +3709,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Not necessarily the shed, but there is a fire within where that shed existed.",
+      "text": "That's correct. You can't tell either way.",
       "reply_to": 487
     },
     {
@@ -3719,7 +3717,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Do you believe that this shed material burnt down in the same fire that we see the charred material from 1D169?",
+      "text": "Okay. Now, you seem to suggest in your evidence that the fire damage or whatever we see in the portico must be the result of a fire that involved this shed because we no longer see this shed material; correct?",
       "examination": "cross"
     },
     {
@@ -3727,7 +3725,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I couldn't say to that.",
+      "text": "Not necessarily the shed, but there is a fire within where that shed existed.",
       "reply_to": 489
     },
     {
@@ -3735,7 +3733,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. So it's quite possible that this shed material was simply taken down and there was never a fire involved in its removal; correct?",
+      "text": "Do you believe that this shed material burnt down in the same fire that we see the charred material from 1D169?",
       "examination": "cross"
     },
     {
@@ -3743,7 +3741,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "That's correct.",
+      "text": "I couldn't say to that.",
       "reply_to": 491
     },
     {
@@ -3751,7 +3749,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Because you've testified that there's no fire damage on the door. If this shed structure were to be destroyed by fire, you would expect to see some fire damage on the door so close by; is that correct?",
+      "text": "Okay. So it's quite possible that this shed material was simply taken down and there was never a fire involved in its removal; correct?",
       "examination": "cross"
     },
     {
@@ -3759,7 +3757,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "That is correct.",
+      "text": "That's correct.",
       "reply_to": 493
     },
     {
@@ -3767,25 +3765,41 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. Now, can I draw your attention to the -- above the door. Do you see that very black area above the door? Could I ask you to circle that so that we know that we're talking about the same -- the same section.",
+      "text": "Because you've testified that there's no fire damage on the door. If this shed structure were to be destroyed by fire, you would expect to see some fire damage on the door so close by; is that correct?",
       "examination": "cross"
     },
     {
       "id": 496,
+      "speaker": "BENJAMIN DIMAS",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 495
+    },
+    {
+      "id": 497,
+      "speaker": "MR. GROOME",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Now, can I draw your attention to the -- above the door. Do you see that very black area above the door? Could I ask you to circle that so that we know that we're talking about the same -- the same section.",
+      "examination": "cross"
+    },
+    {
+      "id": 498,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "And if I can ask while we're doing this, if we could prepare to work with P270. It's in e-court."
     },
     {
-      "id": 497,
+      "id": 499,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "Is that the area you're discussing?"
     },
     {
-      "id": 498,
+      "id": 500,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3793,27 +3807,11 @@
       "examination": "cross"
     },
     {
-      "id": 499,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "Oh, correct.",
-      "reply_to": 498
-    },
-    {
-      "id": 500,
-      "speaker": "MR. GROOME",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, you can't say that this is not smoke damage, can you?",
-      "examination": "cross"
-    },
-    {
       "id": 501,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I can.",
+      "text": "Oh, correct.",
       "reply_to": 500
     },
     {
@@ -3821,7 +3819,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And how can you -- are you able to say that that's not smoke damage?",
+      "text": "Now, you can't say that this is not smoke damage, can you?",
       "examination": "cross"
     },
     {
@@ -3829,7 +3827,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Because I was physically at the site and examined it.",
+      "text": "Yes, I can.",
       "reply_to": 502
     },
     {
@@ -3837,7 +3835,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Well, are you able to say that this isn't -- this is not charred material?",
+      "text": "And how can you -- are you able to say that that's not smoke damage?",
       "examination": "cross"
     },
     {
@@ -3845,7 +3843,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I can.",
+      "text": "Because I was physically at the site and examined it.",
       "reply_to": 504
     },
     {
@@ -3853,7 +3851,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Does this look the same as the way you saw it at the site?",
+      "text": "Well, are you able to say that this isn't -- this is not charred material?",
       "examination": "cross"
     },
     {
@@ -3861,7 +3859,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No. Actually, there's less of it now because of the time-period.",
+      "text": "Yes, I can.",
       "reply_to": 506
     },
     {
@@ -3869,7 +3867,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So is it possible this is what we're looking at is the same charred material you found to the right but now in your January visit it's now missing?",
+      "text": "Does this look the same as the way you saw it at the site?",
       "examination": "cross"
     },
     {
@@ -3877,7 +3875,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No.",
+      "text": "No. Actually, there's less of it now because of the time-period.",
       "reply_to": 508
     },
     {
@@ -3885,7 +3883,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "It's not possible?",
+      "text": "So is it possible this is what we're looking at is the same charred material you found to the right but now in your January visit it's now missing?",
       "examination": "cross"
     },
     {
@@ -3901,39 +3899,55 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Thank you.",
+      "text": "It's not possible?",
       "examination": "cross"
     },
     {
       "id": 513,
+      "speaker": "BENJAMIN DIMAS",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 512
+    },
+    {
+      "id": 514,
+      "speaker": "MR. GROOME",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 515,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "I would tender that, please."
     },
     {
-      "id": 514,
+      "id": 516,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 515,
+      "id": 517,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "Exhibit P302, Your Honours."
     },
     {
-      "id": 516,
+      "id": 518,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Now, if we could take a look at P270."
     },
     {
-      "id": 517,
+      "id": 519,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -3941,27 +3955,11 @@
       "examination": "cross"
     },
     {
-      "id": 518,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes, I do.",
-      "reply_to": 517
-    },
-    {
-      "id": 519,
-      "speaker": "MR. GROOME",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is that the piece of wood that you describe as a beam that is pristine?",
-      "examination": "cross"
-    },
-    {
       "id": 520,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes.",
+      "text": "Yes, I do.",
       "reply_to": 519
     },
     {
@@ -3969,7 +3967,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Mr. McCoy has testified similarly. Is it at all possible that this could be a piece of furring strip used as a means of attaching a piece of finished wall surface to the wall?",
+      "text": "Is that the piece of wood that you describe as a beam that is pristine?",
       "examination": "cross"
     },
     {
@@ -3977,7 +3975,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I examined it to see if anything might be attached to it, and I did find a couple of nail holes or nails actually in it, but in conjunction to everything else I eliminated anything been attach to it. Simply, it was a clean piece of wood with two nails in it. Again, I do the totality of all of my findings.",
+      "text": "Yes.",
       "reply_to": 521
     },
     {
@@ -3985,7 +3983,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Mr. McCoy described it as a piece of wood, a beam embedded in the concrete. Is that your recollection of the piece of wood?",
+      "text": "Now, Mr. McCoy has testified similarly. Is it at all possible that this could be a piece of furring strip used as a means of attaching a piece of finished wall surface to the wall?",
       "examination": "cross"
     },
     {
@@ -3993,7 +3991,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes.",
+      "text": "I examined it to see if anything might be attached to it, and I did find a couple of nail holes or nails actually in it, but in conjunction to everything else I eliminated anything been attach to it. Simply, it was a clean piece of wood with two nails in it. Again, I do the totality of all of my findings.",
       "reply_to": 523
     },
     {
@@ -4001,7 +3999,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "How did you come to the conclusion that it was actually embedded in the concrete wall?",
+      "text": "Now, Mr. McCoy described it as a piece of wood, a beam embedded in the concrete. Is that your recollection of the piece of wood?",
       "examination": "cross"
     },
     {
@@ -4009,7 +4007,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Because the concrete is flush with the edges of it.",
+      "text": "Yes.",
       "reply_to": 525
     },
     {
@@ -4017,7 +4015,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Now, I'm going to ask that you be shown two pictures at the same time on the screen. The first is Y020-3396, and the second is Y020-3359. If they could be placed side by side on the screen. Okay. Now, what I'm interested in -- let's look at the picture on your left, 3396. See that black line up there?",
+      "text": "How did you come to the conclusion that it was actually embedded in the concrete wall?",
       "examination": "cross"
     },
     {
@@ -4025,7 +4023,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes.",
+      "text": "Because the concrete is flush with the edges of it.",
       "reply_to": 527
     },
     {
@@ -4033,7 +4031,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Running horizontally. Can I ask you to circle it so that, again, we're both sure that we're talking about the same thing.",
+      "text": "Okay. Now, I'm going to ask that you be shown two pictures at the same time on the screen. The first is Y020-3396, and the second is Y020-3359. If they could be placed side by side on the screen. Okay. Now, what I'm interested in -- let's look at the picture on your left, 3396. See that black line up there?",
       "examination": "cross"
     },
     {
@@ -4041,7 +4039,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "[Marks]",
+      "text": "Yes.",
       "reply_to": 529
     },
     {
@@ -4049,7 +4047,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Do you recall where in the room that was?",
+      "text": "Running horizontally. Can I ask you to circle it so that, again, we're both sure that we're talking about the same thing.",
       "examination": "cross"
     },
     {
@@ -4057,7 +4055,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "That was on the -- that'd be the east wall.",
+      "text": "[Marks]",
       "reply_to": 531
     },
     {
@@ -4065,7 +4063,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, I've put the other picture there, hopefully to assist you. This is the area to the left of the door. We can see the door jamb in the right-hand side of the frame. Do you see that?",
+      "text": "Do you recall where in the room that was?",
       "examination": "cross"
     },
     {
@@ -4073,7 +4071,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I do, so I stand corrected. That's actually the south wall.",
+      "text": "That was on the -- that'd be the east wall.",
       "reply_to": 533
     },
     {
@@ -4081,7 +4079,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. So am I correct in saying that the black line that we see here that you've circled is to the left of the door at the upper portion of the wall?",
+      "text": "Now, I've put the other picture there, hopefully to assist you. This is the area to the left of the door. We can see the door jamb in the right-hand side of the frame. Do you see that?",
       "examination": "cross"
     },
     {
@@ -4089,7 +4087,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes.",
+      "text": "Yes, I do, so I stand corrected. That's actually the south wall.",
       "reply_to": 535
     },
     {
@@ -4097,7 +4095,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did you examine this area?",
+      "text": "Okay. So am I correct in saying that the black line that we see here that you've circled is to the left of the door at the upper portion of the wall?",
       "examination": "cross"
     },
     {
@@ -4105,7 +4103,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I looked at the wall. I don't specifically remember doing this line.",
+      "text": "Yes.",
       "reply_to": 537
     },
     {
@@ -4113,7 +4111,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did you find any evidence of charring on this wall?",
+      "text": "Did you examine this area?",
       "examination": "cross"
     },
     {
@@ -4121,7 +4119,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No.",
+      "text": "I looked at the wall. I don't specifically remember doing this line.",
       "reply_to": 539
     },
     {
@@ -4129,7 +4127,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did you examine the black material that's embedded in the concrete?",
+      "text": "Did you find any evidence of charring on this wall?",
       "examination": "cross"
     },
     {
@@ -4145,7 +4143,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So I take it, then, you didn't take a sample of it either?",
+      "text": "Did you examine the black material that's embedded in the concrete?",
       "examination": "cross"
     },
     {
@@ -4153,7 +4151,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No, I did not.",
+      "text": "No.",
       "reply_to": 543
     },
     {
@@ -4161,32 +4159,48 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay.",
+      "text": "So I take it, then, you didn't take a sample of it either?",
       "examination": "cross"
     },
     {
       "id": 546,
+      "speaker": "BENJAMIN DIMAS",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, I did not.",
+      "reply_to": 545
+    },
+    {
+      "id": 547,
+      "speaker": "MR. GROOME",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "cross"
+    },
+    {
+      "id": 548,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "I'd ask that we tender the -- either the entire screenshot or the -- well, actually, the entire screenshot, please."
     },
     {
-      "id": 547,
+      "id": 549,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 548,
+      "id": 550,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "Exhibit P303, Your Honours."
     },
     {
-      "id": 549,
+      "id": 551,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4194,22 +4208,22 @@
       "examination": "cross"
     },
     {
-      "id": 550,
+      "id": 552,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
       "text": "That is correct. I ruled it out based on the deterioration of the ceiling area.",
-      "reply_to": 549
+      "reply_to": 551
     },
     {
-      "id": 551,
+      "id": 553,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Now, could I please ask that we look at on e-court Y020-3622."
     },
     {
-      "id": 552,
+      "id": 554,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4217,27 +4231,11 @@
       "examination": "cross"
     },
     {
-      "id": 553,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes, I do.",
-      "reply_to": 552
-    },
-    {
-      "id": 554,
-      "speaker": "MR. GROOME",
-      "role": "counsel",
-      "type": "question",
-      "text": "And can you describe where this is in the room?",
-      "examination": "cross"
-    },
-    {
       "id": 555,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "That's actually on the east wall, towards the north edge of it.",
+      "text": "Yes, I do.",
       "reply_to": 554
     },
     {
@@ -4245,7 +4243,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "For those of us who might prefer a reference point from the door, if someone were to stand in the door's threshold looking into the room, which wall would it be on?",
+      "text": "And can you describe where this is in the room?",
       "examination": "cross"
     },
     {
@@ -4253,7 +4251,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "That would be on the right-hand side.",
+      "text": "That's actually on the east wall, towards the north edge of it.",
       "reply_to": 556
     },
     {
@@ -4261,7 +4259,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Same wall that the flue or the -- what you describe, I think, as a pipe chase is on?",
+      "text": "For those of us who might prefer a reference point from the door, if someone were to stand in the door's threshold looking into the room, which wall would it be on?",
       "examination": "cross"
     },
     {
@@ -4269,7 +4267,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Actually, I did not use the term \"pipe chase.\" I just said an opening, but yes, it's the same wall, and it's approximately 5 feet further.",
+      "text": "That would be on the right-hand side.",
       "reply_to": 558
     },
     {
@@ -4277,7 +4275,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. What are your observations and conclusions about the blackened material that we see in those pockets in the wall to the right of the clay tile?",
+      "text": "Same wall that the flue or the -- what you describe, I think, as a pipe chase is on?",
       "examination": "cross"
     },
     {
@@ -4285,7 +4283,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Actually, what I found was the one in the centre specifically, it had a chunk of charred wood embedded in it.",
+      "text": "Actually, I did not use the term \"pipe chase.\" I just said an opening, but yes, it's the same wall, and it's approximately 5 feet further.",
       "reply_to": 560
     },
     {
@@ -4293,7 +4291,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So you found a piece of charred wood embedded in the wall. That didn't make its way into your report, did it?",
+      "text": "Okay. What are your observations and conclusions about the blackened material that we see in those pockets in the wall to the right of the clay tile?",
       "examination": "cross"
     },
     {
@@ -4301,7 +4299,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No, sir, it did not. Again, what I took what I found and I noted it down, and again, it's the totality of everything. I'm not going to list if I find one little speck in one corner of each area. I'm going to take my findings altogether.",
+      "text": "Actually, what I found was the one in the centre specifically, it had a chunk of charred wood embedded in it.",
       "reply_to": 562
     },
     {
@@ -4309,7 +4307,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Let me ask you a few questions. Now --",
+      "text": "So you found a piece of charred wood embedded in the wall. That didn't make its way into your report, did it?",
       "examination": "cross"
     },
     {
@@ -4317,7 +4315,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Excuse me, let me finish, please.",
+      "text": "No, sir, it did not. Again, what I took what I found and I noted it down, and again, it's the totality of everything. I'm not going to list if I find one little speck in one corner of each area. I'm going to take my findings altogether.",
       "reply_to": 564
     },
     {
@@ -4325,7 +4323,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "It's me that's asking the questions, sir. [Overlapping speakers].",
+      "text": "Let me ask you a few questions. Now --",
       "examination": "cross"
     },
     {
@@ -4333,32 +4331,48 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "You asked me a question. Your Honour.",
+      "text": "Excuse me, let me finish, please.",
       "reply_to": 566
     },
     {
       "id": 568,
-      "speaker": "JUDGE ROBINSON",
-      "role": "judge",
-      "type": "statement",
-      "text": "Just a minute, Mr. Groome. Let him finish. Yes, go ahead."
+      "speaker": "MR. GROOME",
+      "role": "counsel",
+      "type": "question",
+      "text": "It's me that's asking the questions, sir. [Overlapping speakers].",
+      "examination": "cross"
     },
     {
       "id": 569,
-      "speaker": "THE WITNESS",
+      "speaker": "BENJAMIN DIMAS",
       "role": "witness",
-      "type": "statement",
-      "text": "What I did do is normally when I find a chunk of wood coming out of a room, I try to determine if there's any correlation to it like a rafter going from one end of the wall to another, and I did not. So I did noted down that I find a chunk of wood in this wall. I was able to physically pull it out. It was not stuck in there. It was just a piece of wood in the wall."
+      "type": "answer",
+      "text": "You asked me a question. Your Honour.",
+      "reply_to": 568
     },
     {
       "id": 570,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you. Yes, Mr. Groome."
+      "text": "Just a minute, Mr. Groome. Let him finish. Yes, go ahead."
     },
     {
       "id": 571,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "type": "statement",
+      "text": "What I did do is normally when I find a chunk of wood coming out of a room, I try to determine if there's any correlation to it like a rafter going from one end of the wall to another, and I did not. So I did noted down that I find a chunk of wood in this wall. I was able to physically pull it out. It was not stuck in there. It was just a piece of wood in the wall."
+    },
+    {
+      "id": 572,
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Yes, Mr. Groome."
+    },
+    {
+      "id": 573,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4366,27 +4380,11 @@
       "examination": "cross"
     },
     {
-      "id": 572,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "In my notes at the time.",
-      "reply_to": 571
-    },
-    {
-      "id": 573,
-      "speaker": "MR. GROOME",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can I please have a copy of those notes I'm entitled to?",
-      "examination": "cross"
-    },
-    {
       "id": 574,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Actually, it's our policy that we destroy all our notes after we write a written report.",
+      "text": "In my notes at the time.",
       "reply_to": 573
     },
     {
@@ -4394,7 +4392,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So the notes have been destroyed?",
+      "text": "Can I please have a copy of those notes I'm entitled to?",
       "examination": "cross"
     },
     {
@@ -4402,7 +4400,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes.",
+      "text": "Actually, it's our policy that we destroy all our notes after we write a written report.",
       "reply_to": 575
     },
     {
@@ -4410,7 +4408,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, where you found this charred wood was rather close to the ceiling of this room; correct?",
+      "text": "So the notes have been destroyed?",
       "examination": "cross"
     },
     {
@@ -4418,7 +4416,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Actually, it's about a foot away approximately. From floor to ceiling, it's about seven feet high.",
+      "text": "Yes.",
       "reply_to": 577
     },
     {
@@ -4426,7 +4424,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And is it your evidence that you did not think it was significant to mention in your report or your direct evidence here today that you found a piece of charred wood about 7 feet off the floor?",
+      "text": "Now, where you found this charred wood was rather close to the ceiling of this room; correct?",
       "examination": "cross"
     },
     {
@@ -4434,7 +4432,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No because I couldn't determine how it got there. There was charred wood on the floor, in the flooring that was left; so it could have been somebody took the piece of wood, jammed it up there for what reason; I have no idea. Again, it's a piece of burned wood in the wall by itself.",
+      "text": "Actually, it's about a foot away approximately. From floor to ceiling, it's about seven feet high.",
       "reply_to": 579
     },
     {
@@ -4442,7 +4440,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Now, is this tile where Mr. O'Donnell recovered what he believed to be a fragment of a grenade?",
+      "text": "And is it your evidence that you did not think it was significant to mention in your report or your direct evidence here today that you found a piece of charred wood about 7 feet off the floor?",
       "examination": "cross"
     },
     {
@@ -4450,7 +4448,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No. Actually, that would be further to the left-hand of this.",
+      "text": "No because I couldn't determine how it got there. There was charred wood on the floor, in the flooring that was left; so it could have been somebody took the piece of wood, jammed it up there for what reason; I have no idea. Again, it's a piece of burned wood in the wall by itself.",
       "reply_to": 581
     },
     {
@@ -4458,7 +4456,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Thank you. Now, on page 2 of your report, again, you list areas of concern for windows, walls, and ceilings; again, that there's no sooting or V-patterns. Did you do a careful examination of the exterior window of the basement room?",
+      "text": "Okay. Now, is this tile where Mr. O'Donnell recovered what he believed to be a fragment of a grenade?",
       "examination": "cross"
     },
     {
@@ -4466,7 +4464,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I did.",
+      "text": "No. Actually, that would be further to the left-hand of this.",
       "reply_to": 583
     },
     {
@@ -4474,7 +4472,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And do you have find anything that could be considered smoke damage?",
+      "text": "Okay. Thank you. Now, on page 2 of your report, again, you list areas of concern for windows, walls, and ceilings; again, that there's no sooting or V-patterns. Did you do a careful examination of the exterior window of the basement room?",
       "examination": "cross"
     },
     {
@@ -4482,7 +4480,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No, I did not.",
+      "text": "Yes, I did.",
       "reply_to": 585
     },
     {
@@ -4490,7 +4488,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now I'd like to move to the door. On page 2 of your report again, you say: \"Door and door jamb examined and showed no charring, sooting, or any type of fire damage. Door also opened into the structure. Area between the door jamb and block wall was examined for sooting or venting patterns through penetrations and showed ...\" I believe you mean no fire patterns. You have two fire patterns. Did you mean no fire patterns?",
+      "text": "And do you have find anything that could be considered smoke damage?",
       "examination": "cross"
     },
     {
@@ -4498,7 +4496,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I meant no fire patterns.",
+      "text": "No, I did not.",
       "reply_to": 587
     },
     {
@@ -4506,270 +4504,286 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay.",
+      "text": "Now I'd like to move to the door. On page 2 of your report again, you say: \"Door and door jamb examined and showed no charring, sooting, or any type of fire damage. Door also opened into the structure. Area between the door jamb and block wall was examined for sooting or venting patterns through penetrations and showed ...\" I believe you mean no fire patterns. You have two fire patterns. Did you mean no fire patterns?",
       "examination": "cross"
     },
     {
       "id": 590,
-      "speaker": "JUDGE ROBINSON",
-      "role": "judge",
-      "type": "statement",
-      "text": "Mr. Groome, it's time for the break. We'll resume at 6.00 p.m."
+      "speaker": "BENJAMIN DIMAS",
+      "role": "witness",
+      "type": "answer",
+      "text": "I meant no fire patterns.",
+      "reply_to": 589
     },
     {
       "id": 591,
       "speaker": "MR. GROOME",
       "role": "counsel",
-      "type": "statement",
-      "text": "Your Honour, could I ask that the witness be instructed not to discuss his testimony with anybody during the break?"
+      "type": "question",
+      "text": "Okay.",
+      "examination": "cross"
     },
     {
       "id": 592,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
-      "text": "Witness, are you not to discuss your testimony with anybody."
+      "text": "Mr. Groome, it's time for the break. We'll resume at 6.00 p.m."
     },
     {
       "id": 593,
-      "speaker": "THE WITNESS",
-      "role": "witness",
+      "speaker": "MR. GROOME",
+      "role": "counsel",
       "type": "statement",
-      "text": "Yes, Your Honour."
+      "text": "Your Honour, could I ask that the witness be instructed not to discuss his testimony with anybody during the break?"
     },
     {
       "id": 594,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
-      "text": "Now, Mr. Alarid, the Chamber has been trying to find additional court hours. It's possible that we may be able to sit tomorrow morning, and I will let you know. Mr. Groome, that presents a problem for you?"
+      "text": "Witness, are you not to discuss your testimony with anybody."
     },
     {
       "id": 595,
-      "speaker": "MR. GROOME",
-      "role": "counsel",
+      "speaker": "THE WITNESS",
+      "role": "witness",
       "type": "statement",
-      "text": "Not that, Your Honour, but there's a related matter I'd like to address in terms of scheduling very briefly."
+      "text": "Yes, Your Honour."
     },
     {
       "id": 596,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
-      "text": "I'm let you know at the beginning of the next session."
+      "text": "Now, Mr. Alarid, the Chamber has been trying to find additional court hours. It's possible that we may be able to sit tomorrow morning, and I will let you know. Mr. Groome, that presents a problem for you?"
     },
     {
       "id": 597,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
-      "text": "Your Honour --"
+      "text": "Not that, Your Honour, but there's a related matter I'd like to address in terms of scheduling very briefly."
     },
     {
       "id": 598,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
-      "text": "And I also wanted to say to you, Mr. Alarid, you gave us an overview of your witnesses for the week, and if we are able to sit morning and afternoon on some of the days for the rest of the week, then we might reach Mr. Groome's rebuttal witnesses because we're going to give a decision on that tomorrow. So Mr. Groome should stand by."
+      "text": "I'm let you know at the beginning of the next session."
     },
     {
       "id": 599,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
-      "text": "I'll do my best, Your Honour. It's hard, but if I could address one scheduling matter with the Chamber. At the end of last week, Mr. Alarid advised us that the order of witnesses this week would be Mr. Dimas, then Mr. Jenkins, and then Dr. Hough. Today when court started, he said that they'd be shifting around Hough and Jenkins. I now see that the Chamber has given a ruling where Prosecution will have access -- I've only read the disposition. I haven't read the entire ruling, but I think that I've concluded that the Chamber is going to grant us access to some of this material. It's -- or maybe I'm wrong. Are we not getting the audio-tapes?"
+      "text": "Your Honour --"
     },
     {
       "id": 600,
-      "speaker": "MR. ALARID",
-      "role": "counsel",
+      "speaker": "JUDGE ROBINSON",
+      "role": "judge",
       "type": "statement",
-      "text": "No. We didn't rely on the audio tapes."
+      "text": "And I also wanted to say to you, Mr. Alarid, you gave us an overview of your witnesses for the week, and if we are able to sit morning and afternoon on some of the days for the rest of the week, then we might reach Mr. Groome's rebuttal witnesses because we're going to give a decision on that tomorrow. So Mr. Groome should stand by."
     },
     {
       "id": 601,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
-      "text": "I haven't gotten a chance to read --"
+      "text": "I'll do my best, Your Honour. It's hard, but if I could address one scheduling matter with the Chamber. At the end of last week, Mr. Alarid advised us that the order of witnesses this week would be Mr. Dimas, then Mr. Jenkins, and then Dr. Hough. Today when court started, he said that they'd be shifting around Hough and Jenkins. I now see that the Chamber has given a ruling where Prosecution will have access -- I've only read the disposition. I haven't read the entire ruling, but I think that I've concluded that the Chamber is going to grant us access to some of this material. It's -- or maybe I'm wrong. Are we not getting the audio-tapes?"
     },
     {
       "id": 602,
+      "speaker": "MR. ALARID",
+      "role": "counsel",
+      "type": "statement",
+      "text": "No. We didn't rely on the audio tapes."
+    },
+    {
+      "id": 603,
+      "speaker": "MR. GROOME",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I haven't gotten a chance to read --"
+    },
+    {
+      "id": 604,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Microphone, please."
     },
     {
-      "id": 603,
+      "id": 605,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "I'll have to check on that. I can't remember off-hand."
     },
     {
-      "id": 604,
+      "id": 606,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, what I'm asking is that Mr. Alarid be instructed to produce the witnesses in the order that they were noticed to us last week. Ms. Sartorio is doing Dr. Hough. There may be some additional material that the Prosecution is getting. We would ask that the noticed order be maintained. It was switched around last week and it caused me to lose a night's sleep. I would ask that we maintain the order as it's given to us on the Friday before."
     },
     {
-      "id": 605,
+      "id": 607,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "That's fair enough, Mr. Alarid. Why are you switching it around?"
     },
     {
-      "id": 606,
+      "id": 608,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, because we're two people and we're trying to prepare -- Your Honour, if you give this Prosecution consideration for losing a night's sleep when they have nine attorneys to rotate through witnesses -- well, that's crazy. We have to do the best we can with the 24 hours, man hours we have on a particular day between two human beings, and that's all we have. And the fact that they get granted everything and we get granted nothing --"
     },
     {
-      "id": 607,
+      "id": 609,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Alarid --"
     },
     {
-      "id": 608,
+      "id": 610,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "That is how I feel. That is how I feel."
     },
     {
-      "id": 609,
+      "id": 611,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "There is no basis for that comment whatsoever."
     },
     {
-      "id": 610,
+      "id": 612,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "That is -- I think the record is replete --"
     },
     {
-      "id": 611,
+      "id": 613,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Let us adjourn, and we'll resume at 6.00."
     },
     {
-      "id": 612,
+      "id": 614,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Alarid."
     },
     {
-      "id": 613,
+      "id": 615,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour."
     },
     {
-      "id": 614,
+      "id": 616,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Quickly, briefly."
     },
     {
-      "id": 615,
+      "id": 617,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "Well, briefly it goes to the matter at hand, which is the Prosecution has just shown me several bags containing apparent material from the location known as Pionirska."
     },
     {
-      "id": 616,
+      "id": 618,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "It's -- why don't you wait until they put it in evidence?"
     },
     {
-      "id": 617,
+      "id": 619,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "Well, Your Honour -- well, Your Honour, here's the problem: No foundation."
     },
     {
-      "id": 618,
+      "id": 620,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Why?"
     },
     {
-      "id": 619,
+      "id": 621,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "Well, the problem is that the Prosecution chose to present a case with no expert forensic examination of the properties before --"
     },
     {
-      "id": 620,
+      "id": 622,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Are you going to introduce that in your cross-examination now?"
     },
     {
-      "id": 621,
+      "id": 623,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "No, Your Honour."
     },
     {
-      "id": 622,
+      "id": 624,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Well, wait until that time. Why are you preempting it?"
     },
     {
-      "id": 623,
+      "id": 625,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, because I asked --"
     },
     {
-      "id": 624,
+      "id": 626,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "I do not wish to hear you. Sit down."
     },
     {
-      "id": 625,
+      "id": 627,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "It asks you to assume facts not in evidence, Your Honour."
     },
     {
-      "id": 626,
+      "id": 628,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Groome, continue the cross-examination. Wait your turn. Don't waste time."
     },
     {
-      "id": 627,
+      "id": 629,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4777,27 +4791,11 @@
       "examination": "cross"
     },
     {
-      "id": 628,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "Just that there's no need for them after you've written your report.",
-      "reply_to": 627
-    },
-    {
-      "id": 629,
-      "speaker": "MR. GROOME",
-      "role": "counsel",
-      "type": "question",
-      "text": "But haven't we just demonstrated that it's of critical need because here's this piece of charred wood in the wall that was in your notes but not in the report; correct?",
-      "examination": "cross"
-    },
-    {
       "id": 630,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "That is correct.",
+      "text": "Just that there's no need for them after you've written your report.",
       "reply_to": 629
     },
     {
@@ -4805,18 +4803,34 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Let me turn to your report --",
+      "text": "But haven't we just demonstrated that it's of critical need because here's this piece of charred wood in the wall that was in your notes but not in the report; correct?",
       "examination": "cross"
     },
     {
       "id": 632,
+      "speaker": "BENJAMIN DIMAS",
+      "role": "witness",
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 631
+    },
+    {
+      "id": 633,
+      "speaker": "MR. GROOME",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let me turn to your report --",
+      "examination": "cross"
+    },
+    {
+      "id": 634,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "What is correct? You have put two propositions to you, and you have said \"that is correct.\" Are you agreeing with him that what has been demonstrated is that -- would you repeat the question, Mr. Groome, because I'm not sure the witness understood it when he said that's correct."
     },
     {
-      "id": 633,
+      "id": 635,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -4824,27 +4838,11 @@
       "examination": "cross"
     },
     {
-      "id": 634,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes.",
-      "reply_to": 633
-    },
-    {
-      "id": 635,
-      "speaker": "MR. GROOME",
-      "role": "counsel",
-      "type": "question",
-      "text": "You say that you noted your observations about charred wood in the wall in your notes, but you never put that in your report; correct?",
-      "examination": "cross"
-    },
-    {
       "id": 636,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "That is correct.",
+      "text": "Yes.",
       "reply_to": 635
     },
     {
@@ -4852,7 +4850,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And what I'm saying to you now is, you have just testified that the reason that the notes are destroyed is because there is no need for them once you've drafted the report; correct?",
+      "text": "You say that you noted your observations about charred wood in the wall in your notes, but you never put that in your report; correct?",
       "examination": "cross"
     },
     {
@@ -4860,7 +4858,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, that is correct. There's no need for your notes after you've drafted it.",
+      "text": "That is correct.",
       "reply_to": 637
     },
     {
@@ -4868,7 +4866,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And I guess what I'm suggesting to you is that you have just demonstrated that there is a need because there's a very important inconsistency between the notes that you took at the scene and the report that has now been tendered as evidence in this case; correct?",
+      "text": "And what I'm saying to you now is, you have just testified that the reason that the notes are destroyed is because there is no need for them once you've drafted the report; correct?",
       "examination": "cross"
     },
     {
@@ -4876,7 +4874,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "No, there's not an inconsistency. It's just again it's just a totality of all your evidence that you found. You don't have to include everything as I stated earlier. If I noted that there's one piece of ash in the centre of the room and I had made note of that, I wouldn't include that in my report either.",
+      "text": "Yes, that is correct. There's no need for your notes after you've drafted it.",
       "reply_to": 639
     },
     {
@@ -4884,7 +4882,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So the reason you did not record in the report your discovery of charred wood near the ceiling of the centre of the room was because you did not deem it important for your report?",
+      "text": "And I guess what I'm suggesting to you is that you have just demonstrated that there is a need because there's a very important inconsistency between the notes that you took at the scene and the report that has now been tendered as evidence in this case; correct?",
       "examination": "cross"
     },
     {
@@ -4892,7 +4890,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "That is correct. In addition, we also had it as photographic evidence that we could discuss it in -- in putting the two together and discussing it, that's when you can actually point out what you were seeing as we did here today.",
+      "text": "No, there's not an inconsistency. It's just again it's just a totality of all your evidence that you found. You don't have to include everything as I stated earlier. If I noted that there's one piece of ash in the centre of the room and I had made note of that, I wouldn't include that in my report either.",
       "reply_to": 641
     },
     {
@@ -4900,7 +4898,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay.",
+      "text": "So the reason you did not record in the report your discovery of charred wood near the ceiling of the centre of the room was because you did not deem it important for your report?",
       "examination": "cross"
     },
     {
@@ -4908,7 +4906,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I did not make note in the report, but I can demonstrate it on the photographic evidence.",
+      "text": "That is correct. In addition, we also had it as photographic evidence that we could discuss it in -- in putting the two together and discussing it, that's when you can actually point out what you were seeing as we did here today.",
       "reply_to": 643
     },
     {
@@ -4916,7 +4914,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Is there anything else about your observations when you examined the scene that did not make it into your report? So even if you think it's insignificant, I'm asking you to list for me any other observations you made at the scene which you did not include in your report.",
+      "text": "Okay.",
       "examination": "cross"
     },
     {
@@ -4924,7 +4922,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I don't believe that I listed that the patterns above on the second floor where there is actual wood that shows fire damage. There's fire patterns up there. I didn't include that many my report --",
+      "text": "I did not make note in the report, but I can demonstrate it on the photographic evidence.",
       "reply_to": 645
     },
     {
@@ -4932,7 +4930,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "But you did have that in your notes?",
+      "text": "Is there anything else about your observations when you examined the scene that did not make it into your report? So even if you think it's insignificant, I'm asking you to list for me any other observations you made at the scene which you did not include in your report.",
       "examination": "cross"
     },
     {
@@ -4940,7 +4938,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes.",
+      "text": "I don't believe that I listed that the patterns above on the second floor where there is actual wood that shows fire damage. There's fire patterns up there. I didn't include that many my report --",
       "reply_to": 647
     },
     {
@@ -4948,7 +4946,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Anything else in your notes that did not make it into your report? Let's -- to save time, if we could focus on the basement room and the portico. Is there any other observations you made about either of those two locations, in the basement, that you noted in your notes but you deemed that it wasn't important enough to put into your report?",
+      "text": "But you did have that in your notes?",
       "examination": "cross"
     },
     {
@@ -4956,7 +4954,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I didn't list, as well, the pit marks that --",
+      "text": "Yes.",
       "reply_to": 649
     },
     {
@@ -4964,7 +4962,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. O'Donnell?",
+      "text": "Okay. Anything else in your notes that did not make it into your report? Let's -- to save time, if we could focus on the basement room and the portico. Is there any other observations you made about either of those two locations, in the basement, that you noted in your notes but you deemed that it wasn't important enough to put into your report?",
       "examination": "cross"
     },
     {
@@ -4972,7 +4970,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "-- Mr. O'Donnell was investigating. I didn't feel that was necessary for my report. Again, we did photograph it, and if it came up, I could explain and describe what I'd seen.",
+      "text": "I didn't list, as well, the pit marks that --",
       "reply_to": 651
     },
     {
@@ -4980,7 +4978,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Thank you. So other than that, is there anything else?",
+      "text": "Mr. O'Donnell?",
       "examination": "cross"
     },
     {
@@ -4988,7 +4986,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I don't believe so, no.",
+      "text": "-- Mr. O'Donnell was investigating. I didn't feel that was necessary for my report. Again, we did photograph it, and if it came up, I could explain and describe what I'd seen.",
       "reply_to": 653
     },
     {
@@ -4996,7 +4994,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, did you draw the conclusion that the door that's presently there is the original door?",
+      "text": "Okay. Thank you. So other than that, is there anything else?",
       "examination": "cross"
     },
     {
@@ -5004,7 +5002,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I didn't determine it either way. What I did was I examined it for burn patterns, as I put in my report, the door itself, the door jamb. I tried to see which way it opened, which way it swung. I did have concerns as to the hinge marks and the locking area being incorrect. That was another thing I did not note in my report, but I did observe it, and it was photographed, and I explained it here today.",
+      "text": "I don't believe so, no.",
       "reply_to": 655
     },
     {
@@ -5012,7 +5010,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did you put that in your notes?",
+      "text": "Now, did you draw the conclusion that the door that's presently there is the original door?",
       "examination": "cross"
     },
     {
@@ -5020,7 +5018,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I did.",
+      "text": "I didn't determine it either way. What I did was I examined it for burn patterns, as I put in my report, the door itself, the door jamb. I tried to see which way it opened, which way it swung. I did have concerns as to the hinge marks and the locking area being incorrect. That was another thing I did not note in my report, but I did observe it, and it was photographed, and I explained it here today.",
       "reply_to": 657
     },
     {
@@ -5028,7 +5026,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So it seems that you're saying now that you really don't know or you can't say with any certainty that the door was the same door that was there the night of the fire; is that correct?",
+      "text": "Did you put that in your notes?",
       "examination": "cross"
     },
     {
@@ -5036,7 +5034,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I never stated that, so ...",
+      "text": "Yes, I did.",
       "reply_to": 659
     },
     {
@@ -5044,7 +5042,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "All you can state is that what you observed, you made certain observations about black mold and no presence of any kind of fire; is that correct?",
+      "text": "So it seems that you're saying now that you really don't know or you can't say with any certainty that the door was the same door that was there the night of the fire; is that correct?",
       "examination": "cross"
     },
     {
@@ -5052,7 +5050,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "That is correct.",
+      "text": "I never stated that, so ...",
       "reply_to": 661
     },
     {
@@ -5060,7 +5058,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So do you accept the possibility that the door may have been changed?",
+      "text": "All you can state is that what you observed, you made certain observations about black mold and no presence of any kind of fire; is that correct?",
       "examination": "cross"
     },
     {
@@ -5068,7 +5066,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, the door may have changed, and that is one reason why I examined the gaps between the door jamb and the concrete that it would have been attached to to see if there was any damage in between because had they removed the door, there still should have been some sort of damage in between.",
+      "text": "That is correct.",
       "reply_to": 663
     },
     {
@@ -5076,7 +5074,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Now, Mr. McCoy drew the conclusion that it was the original door. Is that a conclusion that the two of you discussed?",
+      "text": "So do you accept the possibility that the door may have been changed?",
       "examination": "cross"
     },
     {
@@ -5084,7 +5082,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "I never discussed that with him. Again, it was my understanding coming out here I was the lead investigator and had been chosen so by Your Honours. Mr. McCoy was supposed to be down here to be my photographer and to be a person I could ask questions to to see what he was seeing, but it was my determination.",
+      "text": "Yes, the door may have changed, and that is one reason why I examined the gaps between the door jamb and the concrete that it would have been attached to to see if there was any damage in between because had they removed the door, there still should have been some sort of damage in between.",
       "reply_to": 665
     },
     {
@@ -5092,18 +5090,34 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. Thank you.",
+      "text": "Okay. Now, Mr. McCoy drew the conclusion that it was the original door. Is that a conclusion that the two of you discussed?",
       "examination": "cross"
     },
     {
       "id": 668,
+      "speaker": "BENJAMIN DIMAS",
+      "role": "witness",
+      "type": "answer",
+      "text": "I never discussed that with him. Again, it was my understanding coming out here I was the lead investigator and had been chosen so by Your Honours. Mr. McCoy was supposed to be down here to be my photographer and to be a person I could ask questions to to see what he was seeing, but it was my determination.",
+      "reply_to": 667
+    },
+    {
+      "id": 669,
+      "speaker": "MR. GROOME",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 670,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Could I ask that we call up Defence Exhibit 1D174."
     },
     {
-      "id": 669,
+      "id": 671,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -5111,27 +5125,11 @@
       "examination": "cross"
     },
     {
-      "id": 670,
-      "speaker": "BENJAMIN DIMAS",
-      "role": "witness",
-      "type": "answer",
-      "text": "That is correct.",
-      "reply_to": 669
-    },
-    {
-      "id": 671,
-      "speaker": "MR. GROOME",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, I want to show you an exhibit that was used with your colleague Mr. McCoy. It is 1D174. It is a picture of the upper floor of the house. The floor has very obviously burned away. Mr. McCoy testified that he saw smoke damage here. In fact, let me read to you what he testified to at transcript page 5824: \"There is smoke damage, smoke discolouration in a V-pattern above that timber.\" And this corresponds to the marks that he made. \"It's darker coloured areas of the tile. Arson investigators, we're trained to read patterns. That's what leads us to the origin.\" Has Mr. McCoy correctly outlined the area in which smoke damage is apparent to the trained arson investigator?",
-      "examination": "cross"
-    },
-    {
       "id": 672,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "First off, let's correct the terminology. It's fire investigator. You have to investigate the fire before you make the determination of it being an arson or not.",
+      "text": "That is correct.",
       "reply_to": 671
     },
     {
@@ -5139,7 +5137,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. I stand corrected. So fire investigator, with that correction.",
+      "text": "Now, I want to show you an exhibit that was used with your colleague Mr. McCoy. It is 1D174. It is a picture of the upper floor of the house. The floor has very obviously burned away. Mr. McCoy testified that he saw smoke damage here. In fact, let me read to you what he testified to at transcript page 5824: \"There is smoke damage, smoke discolouration in a V-pattern above that timber.\" And this corresponds to the marks that he made. \"It's darker coloured areas of the tile. Arson investigators, we're trained to read patterns. That's what leads us to the origin.\" Has Mr. McCoy correctly outlined the area in which smoke damage is apparent to the trained arson investigator?",
       "examination": "cross"
     },
     {
@@ -5147,7 +5145,7 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "He does make a lot of good points, or he has noted a lot of items here. He did miss a few other patterns here as well.",
+      "text": "First off, let's correct the terminology. It's fire investigator. You have to investigate the fire before you make the determination of it being an arson or not.",
       "reply_to": 673
     },
     {
@@ -5155,7 +5153,7 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Before we go on to additional smoke damage, if we can focus on what he indicates as a V-pattern of smoke damage coming up from that timber. Do you see it?",
+      "text": "Okay. I stand corrected. So fire investigator, with that correction.",
       "examination": "cross"
     },
     {
@@ -5163,18 +5161,34 @@
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I do.",
+      "text": "He does make a lot of good points, or he has noted a lot of items here. He did miss a few other patterns here as well.",
       "reply_to": 675
     },
     {
       "id": 677,
       "speaker": "MR. GROOME",
       "role": "counsel",
+      "type": "question",
+      "text": "Before we go on to additional smoke damage, if we can focus on what he indicates as a V-pattern of smoke damage coming up from that timber. Do you see it?",
+      "examination": "cross"
+    },
+    {
+      "id": 678,
+      "speaker": "BENJAMIN DIMAS",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 677
+    },
+    {
+      "id": 679,
+      "speaker": "MR. GROOME",
+      "role": "counsel",
       "type": "statement",
       "text": "Now, if the witness could be given a red pen."
     },
     {
-      "id": 678,
+      "id": 680,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -5182,22 +5196,22 @@
       "examination": "cross"
     },
     {
-      "id": 679,
+      "id": 681,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
       "text": "That is correct.",
-      "reply_to": 678
+      "reply_to": 680
     },
     {
-      "id": 680,
+      "id": 682,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Okay. If we can change the pen to red."
     },
     {
-      "id": 681,
+      "id": 683,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -5205,36 +5219,36 @@
       "examination": "cross"
     },
     {
-      "id": 682,
+      "id": 684,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
       "text": "I'd say that's about it.",
-      "reply_to": 681
+      "reply_to": 683
     },
     {
-      "id": 683,
+      "id": 685,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Okay. I'd ask that that be -- I would tender that exhibit under a new number, and if we could leave it on the screen."
     },
     {
-      "id": 684,
+      "id": 686,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 685,
+      "id": 687,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "Exhibit P304, Your Honours."
     },
     {
-      "id": 686,
+      "id": 688,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -5242,70 +5256,70 @@
       "examination": "cross"
     },
     {
-      "id": 687,
+      "id": 689,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Ivetic, are you saying that's a misstatement?"
     },
     {
-      "id": 688,
+      "id": 690,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, I am, Your Honour."
     },
     {
-      "id": 689,
+      "id": 691,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "In what respect?"
     },
     {
-      "id": 690,
+      "id": 692,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "There's been no testimony that -- or foundation laid that the fire that enveloped the upper levels of this house was related to the alleged incident that these witnesses testified to, Your Honours."
     },
     {
-      "id": 691,
+      "id": 693,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "And I would add, Your Honour, just with regards to 65 women, children, and elderly, the witnesses of those referenced by Mr. Groome vary greatly on whom they identified as being part of the group, and that is one of our issues with regards to proper victims or alleged victims being named in this case."
     },
     {
-      "id": 692,
+      "id": 694,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Groome."
     },
     {
-      "id": 693,
+      "id": 695,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Do you want me to respond to that, Your Honour, or ..."
     },
     {
-      "id": 694,
+      "id": 696,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Yes."
     },
     {
-      "id": 695,
+      "id": 697,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I'm asking him to focus on the basement room, although there has been testimony that not only with the upper floors but the two Memic houses were burned that night, but I'm just asking the witness about the bottom floor. With respect to the exact number of witnesses, I'll leave that to the Chamber. I thought I was being fair."
     },
     {
-      "id": 696,
+      "id": 698,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -5313,15 +5327,15 @@
       "examination": "cross"
     },
     {
-      "id": 697,
+      "id": 699,
       "speaker": "BENJAMIN DIMAS",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do, and I utilised some of the witness statements to add into what I was finding.",
-      "reply_to": 696
+      "reply_to": 698
     },
     {
-      "id": 698,
+      "id": 700,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
@@ -5329,175 +5343,175 @@
       "examination": "cross"
     },
     {
-      "id": 699,
+      "id": 701,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Alarid."
     },
     {
-      "id": 700,
+      "id": 702,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "And this is the point, Your Honour. We've not been provided this in advance, and I believe that the Prosecution had the opportunity to provide this evidence this morning. We had a late day. There's no excuse for it not being provided in advance of the testimony. And what I'm objecting to, Your Honour, is in basic principle is we have an instance where a homicide case, the Prosecution has chosen to present its forensic examinations in rebuttal? In what jurisdiction can that be proper where no forensic exam is done and they're only doing it in response to us taking trained people down there? At the very least, Your Honour, the witness should have had an opportunity to review these photographs this morning. Concurrent to that, Your Honour, no foundation and proper foundation has been laid on this, and this violates the rules of disclosure. Thank you. And we still don't have them, Your Honour."
     },
     {
-      "id": 701,
+      "id": 703,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "What do you mean you still don't have them?"
     },
     {
-      "id": 702,
+      "id": 704,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "They have not been produced to us. We have received no disks or the usual methods of giving us our copy."
     },
     {
-      "id": 703,
+      "id": 705,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "You have still not received them?"
     },
     {
-      "id": 704,
+      "id": 706,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "No. What he's going to show --"
     },
     {
-      "id": 705,
+      "id": 707,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Let's let him deal with that point first. Mr. Groome."
     },
     {
-      "id": 706,
+      "id": 708,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "They're all in e-court. Your Honour will recall the ruling at the pre-trial conference. Upon cross-examination, the party is to notify the other party about what exhibits it seeks to use. I walked in this morning with these exhibits. They were -- we went down over the weekend. I would note that exhibits used with this witness were disclosed to me this morning, although also on the same pre-trial conference. We were required to disclose those to each other 48 hours in advance, so I am several days late on that. If I could finish my remark."
     },
     {
-      "id": 707,
+      "id": 709,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "That was your exhibit we used, Mr. Groome."
     },
     {
-      "id": 708,
+      "id": 710,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, the providence of where the exhibit came from is not the issue. The other party is to be notified 48 hours in advance of when before an exhibit is used with a witness. These were recently collected. I've complied with the Chamber's pre-trial conference ruling. I've made them available during the break for Mr. Alarid. They're all put out on the table here. He walked over, took a cursory look, and walked back to his desk. He had a full opportunity throughout the entire break to look at the exhibits here. They've been out since the beginning of the break --"
     },
     {
-      "id": 709,
+      "id": 711,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Let me consult the Trial Chamber's order on this as to when notice to be given by the cross-examining party."
     },
     {
-      "id": 710,
+      "id": 712,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, we assumed that we'd also be provided -- notice is one thing, but we were never provided the actual materials."
     },
     {
-      "id": 711,
+      "id": 713,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "And they are not in e-court and the e-mail that we received says we don't have reference numbers for these videos materials, so, therefore, Your Honours, they have never been tendered to us in any format whatsoever."
     },
     {
-      "id": 712,
+      "id": 714,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "So they are in e-court?"
     },
     {
-      "id": 713,
+      "id": 715,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "They are not in e-court. We have not been provided any reference numbers for them. We have not been provided copies of them."
     },
     {
-      "id": 714,
+      "id": 716,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Groome, you told me they are in e-court. They say they are not in e-court. What's the position?"
     },
     {
-      "id": 715,
+      "id": 717,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "I'm sorry, Your Honour. They're in Sanction. It's a different system. So I stand corrected, Your Honour."
     },
     {
-      "id": 716,
+      "id": 718,
       "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "Sanction is an OTP-only system not available to either the Defence or the Registry, is my understanding."
     },
     {
-      "id": 717,
+      "id": 719,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "This is what we're going to do. We have 40 minutes until the end of the session. We are going to adjourn now. We're going to resume in the morning, and the Defence will be given the opportunity to look at these -- is it tapes?"
     },
     {
-      "id": 718,
+      "id": 720,
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour. I don't believe the same right extends to the witness, so I would ask that the witness again because he's in the middle of his testimony not have communication with anyone overnight."
     },
     {
-      "id": 719,
+      "id": 721,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "And Your Honour, we would ask to be able to provide these to the witness. I mean, it's not -- the Prosecution's already asked Mr. McCoy to look at things overnight."
     },
     {
-      "id": 720,
+      "id": 722,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "You can look at them but not the witness, he will show the witness them in court. That's a ruling."
     },
     {
-      "id": 721,
+      "id": 723,
       "speaker": "MR. ALARID",
       "role": "counsel",
       "type": "statement",
       "text": "He's an expert, Your Honour. He is not of the same --"
     },
     {
-      "id": 722,
+      "id": 724,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
       "text": "We'll adjourn until tomorrow morning."
     },
     {
-      "id": 723,
+      "id": 725,
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
@@ -5562,31 +5576,31 @@
       "text": "--- On resuming at 4.21 p.m."
     },
     {
-      "after_utterance": 430,
+      "after_utterance": 432,
       "text": "Cross-examination by Mr. Groome:"
     },
     {
-      "after_utterance": 611,
+      "after_utterance": 613,
       "text": "--- Recess taken at 5.38 p.m."
     },
     {
-      "after_utterance": 611,
+      "after_utterance": 613,
       "text": "[The witness stands down]"
     },
     {
-      "after_utterance": 611,
+      "after_utterance": 613,
       "text": "--- On resuming at 6.09 p.m."
     },
     {
-      "after_utterance": 626,
+      "after_utterance": 628,
       "text": "[The witness takes the stand]"
     },
     {
-      "after_utterance": 711,
+      "after_utterance": 713,
       "text": "[Trial Chamber confers]"
     },
     {
-      "after_utterance": 722,
+      "after_utterance": 724,
       "text": "--- Whereupon the hearing adjourned at 6.28 p.m.,"
     }
   ],

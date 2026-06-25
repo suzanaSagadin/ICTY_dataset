@@ -571,7 +571,7 @@
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you, Mr. Rogers. Questioned by the Court:"
+      "text": "Thank you, Mr. Rogers."
     },
     {
       "id": 81,
@@ -664,14 +664,15 @@
       "speaker": "MR. EMMERSON",
       "role": "counsel",
       "type": "statement",
-      "text": "I just want, if I may, just to be absolutely clear. Further cross-examination by Mr. Emmerson:"
+      "text": "I just want, if I may, just to be absolutely clear."
     },
     {
       "id": 94,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. EMMERSON",
       "role": "counsel",
       "type": "question",
-      "text": "When you came down, you were told that there were people there who would take you to your family in answer to Judge Delvoie you have just clarified; is that right?"
+      "text": "When you came down, you were told that there were people there who would take you to your family in answer to Judge Delvoie you have just clarified; is that right?",
+      "examination": "cross"
     },
     {
       "id": 95,
@@ -683,10 +684,11 @@
     },
     {
       "id": 96,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. EMMERSON",
       "role": "counsel",
       "type": "question",
-      "text": "But in fact somebody came to take you home at around about 11.00?"
+      "text": "But in fact somebody came to take you home at around about 11.00?",
+      "examination": "cross"
     },
     {
       "id": 97,
@@ -698,10 +700,11 @@
     },
     {
       "id": 98,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. EMMERSON",
       "role": "counsel",
       "type": "question",
-      "text": "Now Judge Delvoie was asking about your state of mind of what you understood to be taking place when you went downstairs. Can I just ask you, you said in answer to Mr. Rogers earlier this afternoon: \"I never thought that somebody would help me and save my life, just like they did in Gllogjan.\" Can you explain how that relates to what was in your mind when you came downstairs, please, the suggestion that you'd never thought that someone would save your life like they did in Gllogjan."
+      "text": "Now Judge Delvoie was asking about your state of mind of what you understood to be taking place when you went downstairs. Can I just ask you, you said in answer to Mr. Rogers earlier this afternoon: \"I never thought that somebody would help me and save my life, just like they did in Gllogjan.\" Can you explain how that relates to what was in your mind when you came downstairs, please, the suggestion that you'd never thought that someone would save your life like they did in Gllogjan.",
+      "examination": "cross"
     },
     {
       "id": 99,
@@ -713,10 +716,11 @@
     },
     {
       "id": 100,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. EMMERSON",
       "role": "counsel",
       "type": "question",
-      "text": "So that it was only after you came down and were informed of the lift back to your family that you realised that your trip to Gllogjan had saved your life; is that correctly understood?"
+      "text": "So that it was only after you came down and were informed of the lift back to your family that you realised that your trip to Gllogjan had saved your life; is that correctly understood?",
+      "examination": "cross"
     },
     {
       "id": 101,
@@ -762,10 +766,11 @@
     },
     {
       "id": 107,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. EMMERSON",
       "role": "counsel",
       "type": "question",
-      "text": "Can I put the question to you again, Witness. It was only after you were informed that you were being taken back to your family that you realised, as you've told us, that your life had been saved by your visit to Gllogjan; is that correct?"
+      "text": "Can I put the question to you again, Witness. It was only after you were informed that you were being taken back to your family that you realised, as you've told us, that your life had been saved by your visit to Gllogjan; is that correct?",
+      "examination": "cross"
     },
     {
       "id": 108,
@@ -833,10 +838,11 @@
     },
     {
       "id": 117,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. EMMERSON",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, you said earlier in answer to Mr. Rogers that you never thought that someone would help you and save your life just like they did in Gllogjan. Firstly, is it correct that you considered that somebody in Gllogjan helped you and saved your life?"
+      "text": "Witness, you said earlier in answer to Mr. Rogers that you never thought that someone would help you and save your life just like they did in Gllogjan. Firstly, is it correct that you considered that somebody in Gllogjan helped you and saved your life?",
+      "examination": "cross"
     },
     {
       "id": 118,
@@ -1707,12 +1713,20 @@
       "text": "[Open session]"
     },
     {
+      "after_utterance": 80,
+      "text": "Questioned by the Court:"
+    },
+    {
       "after_utterance": 85,
       "text": "[Trial Chamber confers]"
     },
     {
       "after_utterance": 92,
       "text": "[Defence counsel confer]"
+    },
+    {
+      "after_utterance": 93,
+      "text": "Further cross-examination by Mr. Emmerson:"
     },
     {
       "after_utterance": 123,

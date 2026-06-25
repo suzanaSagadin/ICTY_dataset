@@ -1,6 +1,6 @@
 {
   "case": "zupljanin",
-  "case_id": null,
+  "case_id": "IT-99-36",
   "date": null,
   "utterances": [
     {
@@ -442,14 +442,15 @@
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, Ms. Korner? Examined by Ms. Korner:"
+      "text": "Yes, Ms. Korner?"
     },
     {
       "id": 64,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Inayat, in respect of the documents which have been placed into the binders from the Banja Luka municipalities, were you asked to conduct the same exercise that you did in respect of Dr. Donia's documents?"
+      "text": "Mr. Inayat, in respect of the documents which have been placed into the binders from the Banja Luka municipalities, were you asked to conduct the same exercise that you did in respect of Dr. Donia's documents?",
+      "examination": "direct"
     },
     {
       "id": 65,
@@ -461,10 +462,11 @@
     },
     {
       "id": 66,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
-      "text": "And was that to check from the documentation available how the -- each document came into the possession of the Office of the Prosecutor?"
+      "text": "And was that to check from the documentation available how the -- each document came into the possession of the Office of the Prosecutor?",
+      "examination": "direct"
     },
     {
       "id": 67,
@@ -476,10 +478,11 @@
     },
     {
       "id": 68,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
-      "text": "And is that recorded in the list which has been given to the Court and to Defence counsel?"
+      "text": "And is that recorded in the list which has been given to the Court and to Defence counsel?",
+      "examination": "direct"
     },
     {
       "id": 69,
@@ -491,10 +494,11 @@
     },
     {
       "id": 70,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
-      "text": "And just one other matter, then, Mr. Inayat. Were you also asked to do a check relating to the minutes or records which had been acquired of the assembly held by the association of Banja Luka municipalities later the Autonomous Region of Krajina assembly?"
+      "text": "And just one other matter, then, Mr. Inayat. Were you also asked to do a check relating to the minutes or records which had been acquired of the assembly held by the association of Banja Luka municipalities later the Autonomous Region of Krajina assembly?",
+      "examination": "direct"
     },
     {
       "id": 71,
@@ -607,14 +611,15 @@
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, Ms. Fauveau, please? Cross-examined by Ms. Fauveau-Ivanovic:"
+      "text": "Yes, Ms. Fauveau, please?"
     },
     {
       "id": 87,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Last time you said that you were personally present only in the building of the municipality of Banja Luka during the seizure in February 1998."
+      "text": "Last time you said that you were personally present only in the building of the municipality of Banja Luka during the seizure in February 1998.",
+      "examination": "cross"
     },
     {
       "id": 88,
@@ -626,10 +631,11 @@
     },
     {
       "id": 89,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Were you present in the centre of the Security Services in Banja Luka at a given moment?"
+      "text": "Were you present in the centre of the Security Services in Banja Luka at a given moment?",
+      "examination": "cross"
     },
     {
       "id": 90,
@@ -641,10 +647,11 @@
     },
     {
       "id": 91,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Then, in fact, you wouldn't be able to explain to us how the seizure was carried out in the centre?"
+      "text": "Then, in fact, you wouldn't be able to explain to us how the seizure was carried out in the centre?",
+      "examination": "cross"
     },
     {
       "id": 92,
@@ -656,10 +663,11 @@
     },
     {
       "id": 93,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you agree that the Security Services Centre in Banja Luka is in fact a police station?"
+      "text": "Do you agree that the Security Services Centre in Banja Luka is in fact a police station?",
+      "examination": "cross"
     },
     {
       "id": 94,
@@ -671,10 +679,11 @@
     },
     {
       "id": 95,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know that all the documents that were seized in the Security Services Centre of Banja Luka -- are you sure that they were documents written in that centre? Or addressed to that centre?"
+      "text": "Do you know that all the documents that were seized in the Security Services Centre of Banja Luka -- are you sure that they were documents written in that centre? Or addressed to that centre?",
+      "examination": "cross"
     },
     {
       "id": 96,
@@ -686,10 +695,11 @@
     },
     {
       "id": 97,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know that the Security Services Centre in Banja Luka, do you know if it also had documents that the Serbian police had seized when they were searching people or organs?"
+      "text": "Do you know that the Security Services Centre in Banja Luka, do you know if it also had documents that the Serbian police had seized when they were searching people or organs?",
+      "examination": "cross"
     },
     {
       "id": 98,
@@ -701,10 +711,11 @@
     },
     {
       "id": 99,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Yes, but my question was: The Serbian police, when they searched, made searches, did it also seize documents and objects possessed by persons? Were these documents and objects conserved in the security service centre in Banja Luka?"
+      "text": "Yes, but my question was: The Serbian police, when they searched, made searches, did it also seize documents and objects possessed by persons? Were these documents and objects conserved in the security service centre in Banja Luka?",
+      "examination": "cross"
     },
     {
       "id": 100,
@@ -758,10 +769,11 @@
     },
     {
       "id": 107,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Could have you a look at document number P207? That id the Document that you received from the AID agency in Sanski Most, investigations and documentation agency in Sanski Most. The person who gave you this document, did he explain to you how this agency got hold of this document?"
+      "text": "Could have you a look at document number P207? That id the Document that you received from the AID agency in Sanski Most, investigations and documentation agency in Sanski Most. The person who gave you this document, did he explain to you how this agency got hold of this document?",
+      "examination": "cross"
     },
     {
       "id": 108,
@@ -773,10 +785,11 @@
     },
     {
       "id": 109,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "So the other people who received -- other people who received the document by -- from the agency, from the AID agency or the Ministry of the Interior or from the liaison officer in Bosnia and Herzegovina, they also don't know how these documents arrived in the possession of the Bosnian organs?"
+      "text": "So the other people who received -- other people who received the document by -- from the agency, from the AID agency or the Ministry of the Interior or from the liaison officer in Bosnia and Herzegovina, they also don't know how these documents arrived in the possession of the Bosnian organs?",
+      "examination": "cross"
     },
     {
       "id": 110,
@@ -788,10 +801,11 @@
     },
     {
       "id": 111,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Could we say the same thing for the document that the AID agency in Bugojno forwarded for the document that the Ministry of the Interior transmitted and for the document that the liaison officer in Bosnia and Herzegovina transmitted?"
+      "text": "Could we say the same thing for the document that the AID agency in Bugojno forwarded for the document that the Ministry of the Interior transmitted and for the document that the liaison officer in Bosnia and Herzegovina transmitted?",
+      "examination": "cross"
     },
     {
       "id": 112,
@@ -803,10 +817,11 @@
     },
     {
       "id": 113,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "But among some of these documents, there are documents for which you don't know how they came into the possession of the organs of Bosnia and Herzegovina?"
+      "text": "But among some of these documents, there are documents for which you don't know how they came into the possession of the organs of Bosnia and Herzegovina?",
+      "examination": "cross"
     },
     {
       "id": 114,
@@ -818,10 +833,11 @@
     },
     {
       "id": 115,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. FAUVEAU-IVANOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Is it possible for the Prosecutor's Office to give us information, a report, on all the documents that were seized or that were transmitted rather by any agency in Bosnia and Herzegovina and to tell us how these organs in Bosnia and Herzegovina came into possession of these documents?"
+      "text": "Is it possible for the Prosecutor's Office to give us information, a report, on all the documents that were seized or that were transmitted rather by any agency in Bosnia and Herzegovina and to tell us how these organs in Bosnia and Herzegovina came into possession of these documents?",
+      "examination": "cross"
     },
     {
       "id": 116,
@@ -891,14 +907,15 @@
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, please go ahead. Cross-examined by Mr. Ackerman:"
+      "text": "Yes, please go ahead."
     },
     {
       "id": 126,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Inayat, would you tell us what the AID organisation was before it acquired the name AID?"
+      "text": "Mr. Inayat, would you tell us what the AID organisation was before it acquired the name AID?",
+      "examination": "cross"
     },
     {
       "id": 127,
@@ -910,10 +927,11 @@
     },
     {
       "id": 128,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "That was the state security service of Bosnia-Herzegovina?"
+      "text": "That was the state security service of Bosnia-Herzegovina?",
+      "examination": "cross"
     },
     {
       "id": 129,
@@ -925,10 +943,11 @@
     },
     {
       "id": 130,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "Many of whom would have been members of and supporters of the SDA?"
+      "text": "Many of whom would have been members of and supporters of the SDA?",
+      "examination": "cross"
     },
     {
       "id": 131,
@@ -940,10 +959,11 @@
     },
     {
       "id": 132,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. In any event they were part of the government headed by Alija Izetbegovic?"
+      "text": "Okay. In any event they were part of the government headed by Alija Izetbegovic?",
+      "examination": "cross"
     },
     {
       "id": 133,
@@ -955,10 +975,11 @@
     },
     {
       "id": 134,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "Could you -- you got these documents from a number of sources and you went through those sources with the Trial Chamber the first day you appeared as a witness. Do you have an opinion, a sense, of which source from which you received documents you consider the most reliable source and which you would consider the least reliable and do you think it might be helpful for you to advise the Trial Chamber of that to assist them in their efforts to determine the reliability of these documents?"
+      "text": "Could you -- you got these documents from a number of sources and you went through those sources with the Trial Chamber the first day you appeared as a witness. Do you have an opinion, a sense, of which source from which you received documents you consider the most reliable source and which you would consider the least reliable and do you think it might be helpful for you to advise the Trial Chamber of that to assist them in their efforts to determine the reliability of these documents?",
+      "examination": "cross"
     },
     {
       "id": 135,
@@ -997,10 +1018,11 @@
     },
     {
       "id": 140,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "In the thousands and thousands of documents you've received, I suspect you have run across some that you believe were not authentic?"
+      "text": "In the thousands and thousands of documents you've received, I suspect you have run across some that you believe were not authentic?",
+      "examination": "cross"
     },
     {
       "id": 141,
@@ -1012,10 +1034,11 @@
     },
     {
       "id": 142,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "You are aware, are you not, that there are -- that efforts have been made in the past and perhaps continue to be made, to create false documents and plant false documents regarding events that occurred during the war in Bosnia and Herzegovina?"
+      "text": "You are aware, are you not, that there are -- that efforts have been made in the past and perhaps continue to be made, to create false documents and plant false documents regarding events that occurred during the war in Bosnia and Herzegovina?",
+      "examination": "cross"
     },
     {
       "id": 143,
@@ -1027,10 +1050,11 @@
     },
     {
       "id": 144,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "I take it you were not -- you're not aware of and were not listening to the testimony of the last witness that testified here regarding that issue? Is that true?"
+      "text": "I take it you were not -- you're not aware of and were not listening to the testimony of the last witness that testified here regarding that issue? Is that true?",
+      "examination": "cross"
     },
     {
       "id": 145,
@@ -1042,10 +1066,11 @@
     },
     {
       "id": 146,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "Yes."
+      "text": "Yes.",
+      "examination": "cross"
     },
     {
       "id": 147,
@@ -1057,10 +1082,11 @@
     },
     {
       "id": 148,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "You didn't see the part where he claimed that a document that I had showed him must have been manufactured by the Security Service of Republika Srpska and that he claimed that it was not a genuine document?"
+      "text": "You didn't see the part where he claimed that a document that I had showed him must have been manufactured by the Security Service of Republika Srpska and that he claimed that it was not a genuine document?",
+      "examination": "cross"
     },
     {
       "id": 149,
@@ -1096,7 +1122,7 @@
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
-      "text": "Just one question to Mr. Inayat Questioned by the Court:"
+      "text": "Just one question to Mr. Inayat"
     },
     {
       "id": 154,
@@ -1132,14 +1158,15 @@
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
-      "text": "Yes. Further cross-examination by Mr. Ackerman:"
+      "text": "Yes."
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Inayat, I take it you would not have the authority to throw out a document because you think it's not authentic? You couldn't just throw it in the trash can, could you?"
+      "text": "Mr. Inayat, I take it you would not have the authority to throw out a document because you think it's not authentic? You couldn't just throw it in the trash can, could you?",
+      "examination": "cross"
     },
     {
       "id": 160,
@@ -1151,10 +1178,11 @@
     },
     {
       "id": 161,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "You came across all of those documents that were apparently signed by a person named Milos, did you not?"
+      "text": "You came across all of those documents that were apparently signed by a person named Milos, did you not?",
+      "examination": "cross"
     },
     {
       "id": 162,
@@ -1166,10 +1194,11 @@
     },
     {
       "id": 163,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "You have no idea who that person is, do you?"
+      "text": "You have no idea who that person is, do you?",
+      "examination": "cross"
     },
     {
       "id": 164,
@@ -1181,10 +1210,11 @@
     },
     {
       "id": 165,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "Well, yeah, but as far as you know, those could very well be documents that were sent there by some nut who was making everything up and they just filed them among their papers there, it doesn't -- just the fact that they were there doesn't mean that they were accurate, does it?"
+      "text": "Well, yeah, but as far as you know, those could very well be documents that were sent there by some nut who was making everything up and they just filed them among their papers there, it doesn't -- just the fact that they were there doesn't mean that they were accurate, does it?",
+      "examination": "cross"
     },
     {
       "id": 166,
@@ -2241,14 +2271,15 @@
       "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "statement",
-      "text": "Thank you, Your Honour. Examined by Ms. Richterova:"
+      "text": "Thank you, Your Honour."
     },
     {
       "id": 317,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Good morning, I would say good afternoon?"
+      "text": "Good morning, I would say good afternoon?",
+      "examination": "direct"
     },
     {
       "id": 318,
@@ -2260,10 +2291,11 @@
     },
     {
       "id": 319,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Would you be so kind and state your full name for the record?"
+      "text": "Would you be so kind and state your full name for the record?",
+      "examination": "direct"
     },
     {
       "id": 320,
@@ -2275,10 +2307,11 @@
     },
     {
       "id": 321,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Tell us the date and the place of your birth?"
+      "text": "Tell us the date and the place of your birth?",
+      "examination": "direct"
     },
     {
       "id": 322,
@@ -2290,10 +2323,11 @@
     },
     {
       "id": 323,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "What is your nationality and what is your ethnic background?"
+      "text": "What is your nationality and what is your ethnic background?",
+      "examination": "direct"
     },
     {
       "id": 324,
@@ -2305,10 +2339,11 @@
     },
     {
       "id": 325,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "What is your religion?"
+      "text": "What is your religion?",
+      "examination": "direct"
     },
     {
       "id": 326,
@@ -2320,10 +2355,11 @@
     },
     {
       "id": 327,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell the judges where did you live in the period 1990 to 1992?"
+      "text": "Can you tell the judges where did you live in the period 1990 to 1992?",
+      "examination": "direct"
     },
     {
       "id": 328,
@@ -2335,10 +2371,11 @@
     },
     {
       "id": 329,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I would like to show you a map. We have unfortunately only one copy. I know it's not a happy start of my appearance that I am not ready, but we will have sufficient amount of maps within one hour, if not within one hour, tomorrow morning, but I would like to state that this similar map was already exhibited under P2, and the exhibit under P2 was annotated by Mr. Mazhar. This is blown up version of very similar map and it would be easier for the witness to orient on this map. Can we place it, please, on the ELMO? I would like to exhibit this map when you have the spare copies, as P2.1A, just P2.1, because it will be only one version."
+      "text": "I would like to show you a map. We have unfortunately only one copy. I know it's not a happy start of my appearance that I am not ready, but we will have sufficient amount of maps within one hour, if not within one hour, tomorrow morning, but I would like to state that this similar map was already exhibited under P2, and the exhibit under P2 was annotated by Mr. Mazhar. This is blown up version of very similar map and it would be easier for the witness to orient on this map. Can we place it, please, on the ELMO? I would like to exhibit this map when you have the spare copies, as P2.1A, just P2.1, because it will be only one version.",
+      "examination": "direct"
     },
     {
       "id": 330,
@@ -2356,10 +2393,11 @@
     },
     {
       "id": 332,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Smailagic, can you indicate on the map the part of the town where you lived in the period which I stated? You have the map next to you, so you can indicate on the map. Take your time and -- no you have to do it on the real map."
+      "text": "Mr. Smailagic, can you indicate on the map the part of the town where you lived in the period which I stated? You have the map next to you, so you can indicate on the map. Take your time and -- no you have to do it on the real map.",
+      "examination": "direct"
     },
     {
       "id": 333,
@@ -2393,10 +2431,11 @@
     },
     {
       "id": 337,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "What was typical ethnic structure of population for this particular area?"
+      "text": "What was typical ethnic structure of population for this particular area?",
+      "examination": "direct"
     },
     {
       "id": 338,
@@ -2408,10 +2447,11 @@
     },
     {
       "id": 339,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "You said this was one part of the town, Banja Luka. Were there other separate parts within Banja Luka town?"
+      "text": "You said this was one part of the town, Banja Luka. Were there other separate parts within Banja Luka town?",
+      "examination": "direct"
     },
     {
       "id": 340,
@@ -2423,10 +2463,11 @@
     },
     {
       "id": 341,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Would you assist us and explain what was ethnic structure of population of these separate parts in the town?"
+      "text": "Would you assist us and explain what was ethnic structure of population of these separate parts in the town?",
+      "examination": "direct"
     },
     {
       "id": 342,
@@ -2438,10 +2479,11 @@
     },
     {
       "id": 343,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Can I stop you for a moment? Would you be so kind and point on your map the places which you are talking about? Take your time and show us the places you are talking about."
+      "text": "Can I stop you for a moment? Would you be so kind and point on your map the places which you are talking about? Take your time and show us the places you are talking about.",
+      "examination": "direct"
     },
     {
       "id": 344,
@@ -2459,10 +2501,11 @@
     },
     {
       "id": 346,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "What was the ethnic structure in these two areas?"
+      "text": "What was the ethnic structure in these two areas?",
+      "examination": "direct"
     },
     {
       "id": 347,
@@ -2474,10 +2517,11 @@
     },
     {
       "id": 348,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell the Trial Chamber what was the ethnic structure of the Banja Luka municipality, if you could explain the differences between the town villages, if there were any?"
+      "text": "Can you tell the Trial Chamber what was the ethnic structure of the Banja Luka municipality, if you could explain the differences between the town villages, if there were any?",
+      "examination": "direct"
     },
     {
       "id": 349,
@@ -2489,10 +2533,11 @@
     },
     {
       "id": 350,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "And what was the existing ethnic structure of Celinac and Laktasi at that time when it was part of Banja Luka municipality?"
+      "text": "And what was the existing ethnic structure of Celinac and Laktasi at that time when it was part of Banja Luka municipality?",
+      "examination": "direct"
     },
     {
       "id": 351,
@@ -2504,10 +2549,11 @@
     },
     {
       "id": 352,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. I will move from this subject and I would like to ask you, you said that there were these separate parts of the town. How they were organised, into which structures?"
+      "text": "Thank you. I will move from this subject and I would like to ask you, you said that there were these separate parts of the town. How they were organised, into which structures?",
+      "examination": "direct"
     },
     {
       "id": 353,
@@ -2519,10 +2565,11 @@
     },
     {
       "id": 354,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "No. I mean you mentioned you live in Pobrdje which was separate part of the town. How did you -- did you call this separate part in some way? I think I can --"
+      "text": "No. I mean you mentioned you live in Pobrdje which was separate part of the town. How did you -- did you call this separate part in some way? I think I can --",
+      "examination": "direct"
     },
     {
       "id": 355,
@@ -2568,10 +2615,11 @@
     },
     {
       "id": 361,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "How was it organised? Were there some authorities in these local communes?"
+      "text": "How was it organised? Were there some authorities in these local communes?",
+      "examination": "direct"
     },
     {
       "id": 362,
@@ -2583,10 +2631,11 @@
     },
     {
       "id": 363,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Now, I would like to move from this subject and -- but we will return to municipal, local commune assembly and other authorities. I want to ask you about your involvement in politics, beginning 1990. Were you a member of some political party before 1990 and after 1990?"
+      "text": "Now, I would like to move from this subject and -- but we will return to municipal, local commune assembly and other authorities. I want to ask you about your involvement in politics, beginning 1990. Were you a member of some political party before 1990 and after 1990?",
+      "examination": "direct"
     },
     {
       "id": 364,
@@ -2598,10 +2647,11 @@
     },
     {
       "id": 365,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Did you hold any position in -- within the party of SDA?"
+      "text": "Did you hold any position in -- within the party of SDA?",
+      "examination": "direct"
     },
     {
       "id": 366,
@@ -2613,10 +2663,11 @@
     },
     {
       "id": 367,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Where were located premises of this main board of the SDA?"
+      "text": "Where were located premises of this main board of the SDA?",
+      "examination": "direct"
     },
     {
       "id": 368,
@@ -2649,10 +2700,11 @@
     },
     {
       "id": 372,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Were there some other parties within the premises in Dom Kultura?"
+      "text": "Were there some other parties within the premises in Dom Kultura?",
+      "examination": "direct"
     },
     {
       "id": 373,
@@ -2664,10 +2716,11 @@
     },
     {
       "id": 374,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "When you mention Party of Democratic Action, what was the ethnic composition of members after this party was established?"
+      "text": "When you mention Party of Democratic Action, what was the ethnic composition of members after this party was established?",
+      "examination": "direct"
     },
     {
       "id": 375,
@@ -2679,10 +2732,11 @@
     },
     {
       "id": 376,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Did it change at some point, the structure of your party?"
+      "text": "Did it change at some point, the structure of your party?",
+      "examination": "direct"
     },
     {
       "id": 377,
@@ -2694,10 +2748,11 @@
     },
     {
       "id": 378,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Did you -- did you hold some responsibility also within local community? Did you receive some -- did you have some functions?"
+      "text": "Did you -- did you hold some responsibility also within local community? Did you receive some -- did you have some functions?",
+      "examination": "direct"
     },
     {
       "id": 379,
@@ -2729,10 +2784,11 @@
     },
     {
       "id": 383,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Were you president of the local community assembly in Pobrdje?"
+      "text": "Were you president of the local community assembly in Pobrdje?",
+      "examination": "direct"
     },
     {
       "id": 384,
@@ -2744,10 +2800,11 @@
     },
     {
       "id": 385,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "I would like to really very briefly ask something what we have already mentioned at the beginning but I would like to mention it here again. After 1990, were there some initials -- initiatives to change the structure of the Banja Luka municipality? Were there some initiatives to change -- to divide municipality of Banja Luka?"
+      "text": "I would like to really very briefly ask something what we have already mentioned at the beginning but I would like to mention it here again. After 1990, were there some initials -- initiatives to change the structure of the Banja Luka municipality? Were there some initiatives to change -- to divide municipality of Banja Luka?",
+      "examination": "direct"
     },
     {
       "id": 386,
@@ -2759,10 +2816,11 @@
     },
     {
       "id": 387,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Was this idea supported also by all three parties?"
+      "text": "Was this idea supported also by all three parties?",
+      "examination": "direct"
     },
     {
       "id": 388,
@@ -2774,10 +2832,11 @@
     },
     {
       "id": 389,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Now, I would like to ask you a few questions about the life of parties. Were there any interparty meetings, I mean meetings among HDZ, SDA, SDS, during 1991, 1992?"
+      "text": "Now, I would like to ask you a few questions about the life of parties. Were there any interparty meetings, I mean meetings among HDZ, SDA, SDS, during 1991, 1992?",
+      "examination": "direct"
     },
     {
       "id": 390,
@@ -2789,10 +2848,11 @@
     },
     {
       "id": 391,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. RICHTEROVA",
       "role": "counsel",
       "type": "question",
-      "text": "Where were these meetings take place -- took place?"
+      "text": "Where were these meetings take place -- took place?",
+      "examination": "direct"
     },
     {
       "id": 392,
@@ -3028,6 +3088,26 @@
       "text": "WITNESS:   MAZHAR INAYAT"
     },
     {
+      "after_utterance": 63,
+      "text": "Examined by Ms. Korner:"
+    },
+    {
+      "after_utterance": 86,
+      "text": "Cross-examined by Ms. Fauveau-Ivanovic:"
+    },
+    {
+      "after_utterance": 125,
+      "text": "Cross-examined by Mr. Ackerman:"
+    },
+    {
+      "after_utterance": 153,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 158,
+      "text": "Further cross-examination by Mr. Ackerman:"
+    },
+    {
       "after_utterance": 169,
       "text": "[The witness withdrew]"
     },
@@ -3054,6 +3134,10 @@
     {
       "after_utterance": 310,
       "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 316,
+      "text": "Examined by Ms. Richterova:"
     },
     {
       "after_utterance": 420,

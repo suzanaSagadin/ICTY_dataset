@@ -1656,7 +1656,7 @@
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you, Ms. Valabhji. Questioned by the Court:"
+      "text": "Thank you, Ms. Valabhji."
     },
     {
       "id": 213,
@@ -2377,7 +2377,7 @@
       "speaker": "MS. VALABHJI",
       "role": "counsel",
       "type": "statement",
-      "text": "Just one point, Your Honour. I was wondering if it might be possible to show the witness admitted Exhibit 270, arising out of the questioning concerning the investigation in Benkovac, to see if he recognises that document. Further examination by Ms. Valabhji:"
+      "text": "Just one point, Your Honour. I was wondering if it might be possible to show the witness admitted Exhibit 270, arising out of the questioning concerning the investigation in Benkovac, to see if he recognises that document."
     },
     {
       "id": 310,
@@ -2385,7 +2385,7 @@
       "role": "counsel",
       "type": "question",
       "text": "Is it displayed now? If we could go to page 3. Witness, are you able to view page 3 of this document on your screen? Can we also then turn to page 4.",
-      "examination": "re-direct"
+      "examination": "direct"
     },
     {
       "id": 311,
@@ -2401,7 +2401,7 @@
       "role": "counsel",
       "type": "question",
       "text": "Do you recognise this document?",
-      "examination": "re-direct"
+      "examination": "direct"
     },
     {
       "id": 313,
@@ -2430,15 +2430,15 @@
       "speaker": "MR. PEROVIC",
       "role": "counsel",
       "type": "statement",
-      "text": "[Interpretation] Your Honour, only a few questions. Further cross-examination by Mr. Perovic:"
+      "text": "[Interpretation] Your Honour, only a few questions."
     },
     {
       "id": 317,
-      "speaker": "MS. VALABHJI",
+      "speaker": "MR. PEROVIC",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Miljanic, today when asked by Her Honour, you explained that the paramilitaries that followed the JNA and committed crimes were composed of people whom you didn't know who they were or how they were dressed because you didn't see any of them. Let me just finish my question. A little later, when asked by His Honour Judge Moloto, you said that some of the eye witnesses told you that these people were masked and that, according to what you know, they wore old military uniforms which had previously belonged to the former JNA, but that you couldn't confirm this because you didn't see them personally. And finally, in your statement given to the district court in Zadar, on page 6, in the third paragraph, you say that, I quote: \"I was unable to recognise any of those Chetniks because they all had black paint on their faces and some had stockings or socks over their heads and some had white ribbons on their shoulders.\"",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 318,
@@ -2450,11 +2450,11 @@
     },
     {
       "id": 319,
-      "speaker": "MS. VALABHJI",
+      "speaker": "MR. PEROVIC",
       "role": "counsel",
       "type": "question",
       "text": "That is your statement to the Zadar district court, and it's on page 6, paragraph 3. Let me finish my question. It seems to me that between these three replies, your reply to Her Honour Judge Nosworthy, your reply to His Honour Judge Moloto, and your statement given to the district court in Zadar, there are certain discrepancies. Can you explain them?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 320,
@@ -2466,11 +2466,11 @@
     },
     {
       "id": 321,
-      "speaker": "MS. VALABHJI",
+      "speaker": "MR. PEROVIC",
       "role": "counsel",
       "type": "question",
       "text": "May I then conclude that you are unable to identify the men you describe as paramilitaries?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 322,
@@ -2482,11 +2482,11 @@
     },
     {
       "id": 323,
-      "speaker": "MS. VALABHJI",
+      "speaker": "MR. PEROVIC",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. One more question: You said that in Skabrnja it was peaceful in the period between the 5th and the 18th of November; is that correct?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 324,
@@ -2498,11 +2498,11 @@
     },
     {
       "id": 325,
-      "speaker": "MS. VALABHJI",
+      "speaker": "MR. PEROVIC",
       "role": "counsel",
       "type": "question",
       "text": "In relation to that I have a question. Why, then, on the 16th of November, on the 16th of November, were you planning an action with a unit for special purposes of the MUP of Croatia under the command of a certain Djuro Zupan? So why were you planning with them to destroy the tank group of the JNA in Veljun --",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 326,
@@ -2514,11 +2514,11 @@
     },
     {
       "id": 327,
-      "speaker": "MS. VALABHJI",
+      "speaker": "MR. PEROVIC",
       "role": "counsel",
       "type": "question",
       "text": "-- Veljane, if the situation was peaceful at the time, as you said?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 328,
@@ -2530,11 +2530,11 @@
     },
     {
       "id": 329,
-      "speaker": "MS. VALABHJI",
+      "speaker": "MR. PEROVIC",
       "role": "counsel",
       "type": "question",
       "text": "Thank you.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 330,
@@ -5740,12 +5740,24 @@
       "text": "Re-examination by Ms. Valabhji:"
     },
     {
+      "after_utterance": 212,
+      "text": "Questioned by the Court:"
+    },
+    {
       "after_utterance": 267,
       "text": "--- Recess taken at 10.17 a.m."
     },
     {
       "after_utterance": 267,
       "text": "--- On resuming at 10.46 a.m."
+    },
+    {
+      "after_utterance": 309,
+      "text": "Further examination by Ms. Valabhji:"
+    },
+    {
+      "after_utterance": 316,
+      "text": "Further cross-examination by Mr. Perovic:"
     },
     {
       "after_utterance": 331,

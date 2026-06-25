@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2015-03-05",
   "utterances": [
     {
@@ -1210,7 +1210,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Mr. Blagojevic, I have one follow-up question in this respect. Questioned by the Court:"
+      "text": "Mr. Blagojevic, I have one follow-up question in this respect."
     },
     {
       "id": 164,
@@ -1299,15 +1299,15 @@
       "speaker": "MR. GILLETT",
       "role": "counsel",
       "type": "statement",
-      "text": "Just one question for further re-examination arising from the -- sorry, for further cross-examination arising from the re-examination. Further Cross-examination by Mr. Gillett:"
+      "text": "Just one question for further re-examination arising from the -- sorry, for further cross-examination arising from the re-examination."
     },
     {
       "id": 176,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. GILLETT",
       "role": "counsel",
       "type": "question",
       "text": "Sir, at temporary transcript line 20, line 5, you were asked: \"When you talked to the investigators in the United States of America, did you ever tell me in all those interviews that you stopped in Konjevic Polje?\" \"A. Well, I don't remember, but I know that we didn't stop in Konjevic Polje.\" When I look at your transcript -- or, sorry, the statement that you gave to the Defence here in these proceedings, which is D922, at paragraph 9, you state: \"After the general addressed the captured Muslims from Sandici, we headed down the road to Konjevic Polje where we briefly stopped at the police check-point where there were several civilian policemen on duty.\" So your answer in re-examination was different from the statement you've made at paragraph 9; correct?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 177,
@@ -4835,6 +4835,14 @@
     {
       "after_utterance": 144,
       "text": "Re-examination by Mr. Lukic:"
+    },
+    {
+      "after_utterance": 163,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 175,
+      "text": "Further Cross-examination by Mr. Gillett:"
     },
     {
       "after_utterance": 180,

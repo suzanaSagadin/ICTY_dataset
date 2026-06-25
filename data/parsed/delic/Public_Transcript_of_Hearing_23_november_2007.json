@@ -1,6 +1,6 @@
 {
   "case": "delic",
-  "case_id": "IT-04-83-T",
+  "case_id": "IT-04-83",
   "date": "2007-11-23",
   "utterances": [
     {
@@ -3823,7 +3823,7 @@
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you very much. Judge? Questioned by the Court:"
+      "text": "Thank you very much. Judge?"
     },
     {
       "id": 505,
@@ -4113,15 +4113,15 @@
       "speaker": "MR. ROBSON",
       "role": "counsel",
       "type": "statement",
-      "text": "Just one, Your Honour. Further cross-examination by Mr. Robson:"
+      "text": "Just one, Your Honour."
     },
     {
       "id": 544,
-      "speaker": "MR. WOOD",
+      "speaker": "MR. ROBSON",
       "role": "counsel",
       "type": "question",
       "text": "As I understand your evidence, Mr. Mujezinovic - and this is in respect of a question by Judge Lattanzi - in theory, according to establishment, the El Mujahedin should have had a security organ; however, is it the case that, in fact, you don't know whether or not that detachment had such a security organ?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 545,
@@ -5439,6 +5439,14 @@
     {
       "after_utterance": 501,
       "text": "--- On resuming at 12.30 p.m."
+    },
+    {
+      "after_utterance": 504,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 543,
+      "text": "Further cross-examination by Mr. Robson:"
     },
     {
       "after_utterance": 548,

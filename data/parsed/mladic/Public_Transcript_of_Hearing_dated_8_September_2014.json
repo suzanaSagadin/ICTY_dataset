@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2014-09-08",
   "utterances": [
     {
@@ -4703,17 +4703,24 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Having dealt with that, Mr. Lukic, you'll now be cross-examined by Mr. Traldi. You'll find Mr. Traldi to your right. Mr. Traldi is counsel for the Prosecution. Mr. Traldi, please proceed."
+      "text": "Having dealt with that, Mr. Lukic, you'll now be"
     },
     {
       "id": 640,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Traldi is counsel for the Prosecution. Mr. Traldi, please proceed."
+    },
+    {
+      "id": 641,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Mr. President."
     },
     {
-      "id": 641,
+      "id": 642,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4721,36 +4728,36 @@
       "examination": "cross"
     },
     {
-      "id": 642,
+      "id": 643,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Could I please have the interpretation?",
-      "reply_to": 641
+      "reply_to": 642
     },
     {
-      "id": 643,
+      "id": 644,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, there seems to be a problem. Could the usher assist. Let's see whether you're on the right channel and whether all the -- can you still not hear my -- Mr. -- can you hear the interpretation of what I say now?"
     },
     {
-      "id": 644,
+      "id": 645,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes, yes, I can hear it now. Yes."
     },
     {
-      "id": 645,
+      "id": 646,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Then we can proceed."
     },
     {
-      "id": 646,
+      "id": 647,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4758,15 +4765,15 @@
       "examination": "cross"
     },
     {
-      "id": 647,
+      "id": 648,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Good afternoon.",
-      "reply_to": 646
+      "reply_to": 647
     },
     {
-      "id": 648,
+      "id": 649,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4774,15 +4781,15 @@
       "examination": "cross"
     },
     {
-      "id": 649,
+      "id": 650,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Correct.",
-      "reply_to": 648
+      "reply_to": 649
     },
     {
-      "id": 650,
+      "id": 651,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4790,22 +4797,22 @@
       "examination": "cross"
     },
     {
-      "id": 651,
+      "id": 652,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 650
+      "reply_to": 651
     },
     {
-      "id": 652,
+      "id": 653,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "Can 65 ter 31216 be brought to our screen."
     },
     {
-      "id": 653,
+      "id": 654,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4813,15 +4820,15 @@
       "examination": "cross"
     },
     {
-      "id": 654,
+      "id": 655,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "We did not discuss anything. He just put one question to me and that was what was the best link between Krajina and Bijeljina; i.e., the eastern part of Republika Srpska. And I answered that it's always the route along the valley, that would be the right bank of the Sava River, where the road goes today and it always went in that direction towards Brcko and Bijeljina. And that was all of our conversation on that topic. The two of us did not have any other conversations at that time. We didn't even know each other.",
-      "reply_to": 653
+      "reply_to": 654
     },
     {
-      "id": 655,
+      "id": 656,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4829,15 +4836,15 @@
       "examination": "cross"
     },
     {
-      "id": 656,
+      "id": 657,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, more or less. That's that route. You cannot mark that road precisely on this map because there are some distortions, but you could understand that as the approximate route. Yes.",
-      "reply_to": 655
+      "reply_to": 656
     },
     {
-      "id": 657,
+      "id": 658,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4845,43 +4852,43 @@
       "examination": "cross"
     },
     {
-      "id": 658,
+      "id": 659,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "I recommended the route because all the roads leading to Bijeljina were more or less closed. They were closed from May 1990 onwards, and then in mid-1990 all the roads were closed or dangerous. So that was that route. It would be easier if we wanted a firm position. It's always to defend a mountain or a hill road rather than a road in a valley from the point of view of defence. But when we are talking about traffic, then we know that valley roads are better than mountain roads and that they are the most favourable routes for laying down roads.",
-      "reply_to": 657
+      "reply_to": 658
     },
     {
-      "id": 659,
+      "id": 660,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "I'd tender this document, 65 ter 31216."
     },
     {
-      "id": 660,
+      "id": 661,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Registrar."
     },
     {
-      "id": 661,
+      "id": 662,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "That will be Exhibit P6726, Your Honours."
     },
     {
-      "id": 662,
+      "id": 663,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "And admitted into evidence."
     },
     {
-      "id": 663,
+      "id": 664,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4889,14 +4896,14 @@
       "examination": "cross"
     },
     {
-      "id": 664,
+      "id": 665,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "I'd ask that we have 65 ter 31218, page 36 at the bottom."
     },
     {
-      "id": 665,
+      "id": 666,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4904,14 +4911,14 @@
       "examination": "cross"
     },
     {
-      "id": 666,
+      "id": 667,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "And we'll be starting at line 25. So we'll continue to the top of the next page in a moment."
     },
     {
-      "id": 667,
+      "id": 668,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4919,15 +4926,15 @@
       "examination": "cross"
     },
     {
-      "id": 668,
+      "id": 669,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "I did probably say that, but the most important feature of a valley route would be for traffic, for roads, and it's much easier than mountain roads. But if you want to be very precise, then a hill road is always more easily defended, especially the one that goes to the highest parts, to the crests of the feature. But they are not so easy if we have inclement weather.",
-      "reply_to": 667
+      "reply_to": 668
     },
     {
-      "id": 669,
+      "id": 670,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4935,36 +4942,36 @@
       "examination": "cross"
     },
     {
-      "id": 670,
+      "id": 671,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Excuse me, excuse me. I just wanted to say something more. That people who are not well versed in that don't know. When we say \"defence,\" it can be defence from floods, from avalanches --",
-      "reply_to": 669
+      "reply_to": 670
     },
     {
-      "id": 671,
+      "id": 672,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "[Overlapping speakers]."
     },
     {
-      "id": 672,
+      "id": 673,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] -- from different other serious threats."
     },
     {
-      "id": 673,
+      "id": 674,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Let me stop you. Mr. Traldi asked you whether you were recommending the easiest route, and then you started explaining a lot. Mr. Traldi then tried to interrupt you, and you showed irritation and you wanted to continue. You went well beyond the question. Mr. Traldi can interrupt you in order to take you back to what he asked you. There is no reason at that point in time where you went beyond what Mr. Traldi asked you to show any irritation or to continue as you wish rather than to follow the questions that are put to you by Mr. Traldi. Let that be clear. Please proceed, Mr. Traldi."
     },
     {
-      "id": 674,
+      "id": 675,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4972,14 +4979,14 @@
       "examination": "cross"
     },
     {
-      "id": 675,
+      "id": 676,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "If we could turn to the next page, actually, of this document."
     },
     {
-      "id": 676,
+      "id": 677,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -4987,14 +4994,14 @@
       "examination": "cross"
     },
     {
-      "id": 677,
+      "id": 678,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "And if we could zoom in beginning on line 11."
     },
     {
-      "id": 678,
+      "id": 679,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5002,15 +5009,15 @@
       "examination": "cross"
     },
     {
-      "id": 679,
+      "id": 680,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, you cannot just neglect that because we were cut off in that entire area and later as well. No one from the Banja Luka or Krajina area, both Krajinas, could cross to Bijeljina. And perhaps it's not so nice and it's a notorious fact that because there were shortages of medicines, patients in Banja Luka were dieing because they could not get the medicines they needed, particularly well known among these events was the death of 12 babies there.",
-      "reply_to": 678
+      "reply_to": 679
     },
     {
-      "id": 680,
+      "id": 681,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5018,15 +5025,15 @@
       "examination": "cross"
     },
     {
-      "id": 681,
+      "id": 682,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Early 1992, yeah.",
-      "reply_to": 680
+      "reply_to": 681
     },
     {
-      "id": 682,
+      "id": 683,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5034,15 +5041,15 @@
       "examination": "cross"
     },
     {
-      "id": 683,
+      "id": 684,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Correct. But the roads were already practically cut. Many in Bosnia and Herzegovina, particularly those to Croatia for Serbs from Bosnia and Herzegovina. This was as early as 1990.",
-      "reply_to": 682
+      "reply_to": 683
     },
     {
-      "id": 684,
+      "id": 685,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5050,14 +5057,14 @@
       "examination": "cross"
     },
     {
-      "id": 685,
+      "id": 686,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "Can 65 ter 03202 be brought to the screen. This will be the transcript of a meeting between President Tudjman, Professor Koljevic, and Mr. Franjo Boras in Zagreb [Realtime transcript read in error \"Zvornik Brigade\"] in January 1992."
     },
     {
-      "id": 686,
+      "id": 687,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5065,133 +5072,133 @@
       "examination": "cross"
     },
     {
-      "id": 687,
+      "id": 688,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "If we could begin by looking at page 8 in the English and 10 in the B/C/S."
     },
     {
-      "id": 688,
+      "id": 689,
       "speaker": "JUDGE FLUEGGE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Traldi, I think you said that this conversation took place in Zagreb."
     },
     {
-      "id": 689,
+      "id": 690,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "I did, and I see --"
     },
     {
-      "id": 690,
+      "id": 691,
       "speaker": "JUDGE FLUEGGE",
       "role": "judge",
       "type": "statement",
       "text": "Not in the Zvornik Brigade."
     },
     {
-      "id": 691,
+      "id": 692,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "That's true, Your Honour. I see that perhaps my speed was off. I apologise, and I'll try to be more careful. I'd asked for 03202. Several years earlier and in a different country."
     },
     {
-      "id": 692,
+      "id": 693,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "While we're waiting for that, Mr. Traldi, I observe that you added that the witness agreed on all matters. That's not what the statement says. We had identical views on the prewar situation. That is not necessarily \"all.\" You added that."
     },
     {
-      "id": 693,
+      "id": 694,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour --"
     },
     {
-      "id": 694,
+      "id": 695,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Sometimes I agree in main areas with someone without necessarily agreeing on every single item."
     },
     {
-      "id": 695,
+      "id": 696,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "I'm going to explore some of the details of that point."
     },
     {
-      "id": 696,
+      "id": 697,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 697,
+      "id": 698,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "So perhaps --"
     },
     {
-      "id": 698,
+      "id": 699,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "That's fine, but I just wanted to insist on accuracy in quoting the witness."
     },
     {
-      "id": 699,
+      "id": 700,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I'm sorry. While you had this conversation with Mr. Traldi, there was no translation at all."
     },
     {
-      "id": 700,
+      "id": 701,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Oh. Is there -- is there translation now, Mr. Lukic? Yes. While --"
     },
     {
-      "id": 701,
+      "id": 702,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I --"
     },
     {
-      "id": 702,
+      "id": 703,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "-- you were able to follow, I --"
     },
     {
-      "id": 703,
+      "id": 704,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I was able to follow, but maybe this wording by Mr. Traldi would be good to have repeated but \"all.\""
     },
     {
-      "id": 704,
+      "id": 705,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "No, I think it is for the witness irrelevant but for Mr. Mladic it may be. But I don't know whether he received any ... I put on the record that when Mr. Traldi refers to the statement of the witness or to his earlier testimony that he should do that as accurately as possible. Please proceed."
     },
     {
-      "id": 705,
+      "id": 706,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5199,14 +5206,14 @@
       "examination": "cross"
     },
     {
-      "id": 706,
+      "id": 707,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "And if we turn to page 9 in the English and 11 in the B/C/S at the bottom, and it's towards the top in the English. I apologise."
     },
     {
-      "id": 707,
+      "id": 708,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5214,15 +5221,15 @@
       "examination": "cross"
     },
     {
-      "id": 708,
+      "id": 709,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, I could have expected anything but a question like this. This was before the war. We agreed to the extent that we needed to fight against war. We agreed that we should try to prevent any crimes from occurring. We agreed that it would be a great shame to breakup Yugoslavia, and so on and so forth. As to what you asked me about now, nobody even could have dreamed then that war would happen and that there would be requests for the sovereignty of this people and that people. Particularly relevant is the fact that I did not attend that meeting. I wasn't even close. Therefore, I really, really must say that I am a bit surprised about getting a question like this.",
-      "reply_to": 707
+      "reply_to": 708
     },
     {
-      "id": 709,
+      "id": 710,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5230,14 +5237,14 @@
       "examination": "cross"
     },
     {
-      "id": 710,
+      "id": 711,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Witness, Witness, there is no need to express your views on the question. Just answer. That's what we expect you to do. Please proceed, Mr. Traldi."
     },
     {
-      "id": 711,
+      "id": 712,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5245,15 +5252,15 @@
       "examination": "cross"
     },
     {
-      "id": 712,
+      "id": 713,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "That was not discussed so we couldn't have agreed on it. We didn't even speak about that.",
-      "reply_to": 711
+      "reply_to": 712
     },
     {
-      "id": 713,
+      "id": 714,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5261,14 +5268,14 @@
       "examination": "cross"
     },
     {
-      "id": 714,
+      "id": 715,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "Turning to page 12 in the B/C/S."
     },
     {
-      "id": 715,
+      "id": 716,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5276,22 +5283,22 @@
       "examination": "cross"
     },
     {
-      "id": 716,
+      "id": 717,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "We did not even talk about it, so we couldn't have agreed on it.",
-      "reply_to": 715
+      "reply_to": 716
     },
     {
-      "id": 717,
+      "id": 718,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "Turning to page 13 in the English and 17 in the B/C/S. Mr. Boras is discussing specific territories. That's at the top of the page in the English."
     },
     {
-      "id": 718,
+      "id": 719,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5299,21 +5306,21 @@
       "examination": "cross"
     },
     {
-      "id": 719,
+      "id": 720,
       "speaker": "JUDGE FLUEGGE",
       "role": "judge",
       "type": "statement",
       "text": "Do we have the right B/C/S version on the screen?"
     },
     {
-      "id": 720,
+      "id": 721,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "It's at the very top. And I believe his remarks begin towards the bottom of the previous page. But we could go back to the bottom of page 16 for the clarity."
     },
     {
-      "id": 721,
+      "id": 722,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5321,21 +5328,21 @@
       "examination": "cross"
     },
     {
-      "id": 722,
+      "id": 723,
       "speaker": "JUDGE FLUEGGE",
       "role": "judge",
       "type": "statement",
       "text": "Now we need the next page in B/C/S."
     },
     {
-      "id": 723,
+      "id": 724,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "And that's actually the only part of his remarks to which I was going to call attention."
     },
     {
-      "id": 724,
+      "id": 725,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5343,22 +5350,22 @@
       "examination": "cross"
     },
     {
-      "id": 725,
+      "id": 726,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I hear it and I see it.",
-      "reply_to": 724
+      "reply_to": 725
     },
     {
-      "id": 726,
+      "id": 727,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "Turning to page 32 in English and 41 in B/C/S, Mr. Koljevic is speaking again. And he says -- and it's in the middle of the second paragraph in the English, Your Honours."
     },
     {
-      "id": 727,
+      "id": 728,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5366,71 +5373,71 @@
       "examination": "cross"
     },
     {
-      "id": 728,
+      "id": 729,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't even remember that we spoke in this way during the war. And before the war this didn't even occur to me. I didn't know anything about it. We did not talk about those problems using those words, Dr. Koljevic and I.",
-      "reply_to": 727
+      "reply_to": 728
     },
     {
-      "id": 729,
+      "id": 730,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "And, Your Honours, I'd tender this document, 65 ter 03202."
     },
     {
-      "id": 730,
+      "id": 731,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Registrar."
     },
     {
-      "id": 731,
+      "id": 732,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "That will be Exhibit P6727, Your Honours."
     },
     {
-      "id": 732,
+      "id": 733,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "P6727 is admitted into evidence. Do we need all the 55 pages, Mr. Traldi?"
     },
     {
-      "id": 733,
+      "id": 734,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "I -- I think for a fair context of the discussion between what would become two of the warring parties, it's probably best. But I'm happy to discuss the matter with the Defence."
     },
     {
-      "id": 734,
+      "id": 735,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Perhaps if you would do so and if the parties would agree that a smaller portion would do as well, then that would be appreciated."
     },
     {
-      "id": 735,
+      "id": 736,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Mr. President."
     },
     {
-      "id": 736,
+      "id": 737,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Please proceed."
     },
     {
-      "id": 737,
+      "id": 738,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5438,15 +5445,15 @@
       "examination": "cross"
     },
     {
-      "id": 738,
+      "id": 739,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "No, no, it's not. I was just a representative of Republika Srpska with UNPROFOR, and there was a military officer, in the beginning, at least, who was the liaison officer.",
-      "reply_to": 737
+      "reply_to": 738
     },
     {
-      "id": 739,
+      "id": 740,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5454,22 +5461,22 @@
       "examination": "cross"
     },
     {
-      "id": 740,
+      "id": 741,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I was a representative of Republika Srpska.",
-      "reply_to": 739
+      "reply_to": 740
     },
     {
-      "id": 741,
+      "id": 742,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "Could we have 65 ter 31229."
     },
     {
-      "id": 742,
+      "id": 743,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5477,22 +5484,22 @@
       "examination": "cross"
     },
     {
-      "id": 743,
+      "id": 744,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "I was appointed to the position by the president of Republika Srpska, Mr. Radovan Karadzic.",
-      "reply_to": 742
+      "reply_to": 743
     },
     {
-      "id": 744,
+      "id": 745,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "And this isn't translated yet. But if we could look at decision 354, and it's on the right."
     },
     {
-      "id": 745,
+      "id": 746,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5500,15 +5507,15 @@
       "examination": "cross"
     },
     {
-      "id": 746,
+      "id": 747,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "\"Decision on the appointment of a temporary representative of the presidency of the Serbian republic of Bosnia and Herzegovina for contact with UNPROFOR. Dr. Vladimir Lukic is appointed temporary representative of the presidency of the Serbian republic of Bosnia and Herzegovina for contacts with UNPROFOR.\" I do also have a decision to that effect. It's slightly longer but the text to that effect is the same. And I did not read that the decision goes into effect on the day it is reached and it would be published in the Official Gazette of the Serbian people of Bosnia and Herzegovina. The date is the 27th of June 1992 and it's signed by the president of the presidency of the Serbian republic of Bosnia and Herzegovina, Dr. Radovan Karadzic.",
-      "reply_to": 745
+      "reply_to": 746
     },
     {
-      "id": 747,
+      "id": 748,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5516,15 +5523,15 @@
       "examination": "cross"
     },
     {
-      "id": 748,
+      "id": 749,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "To members of the presidency, depending on who I could reach or whomever got in touch with me.",
-      "reply_to": 747
+      "reply_to": 748
     },
     {
-      "id": 749,
+      "id": 750,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5532,15 +5539,15 @@
       "examination": "cross"
     },
     {
-      "id": 750,
+      "id": 751,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "It's correct that I received them, but they were mostly verbal. It was mostly verbal information. They weren't written documents. But I responded with correct information to many of these protests because I could see for myself that what the UNPROFOR drew my attention to wasn't quite correct, so --",
-      "reply_to": 749
+      "reply_to": 750
     },
     {
-      "id": 751,
+      "id": 752,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5548,15 +5555,15 @@
       "examination": "cross"
     },
     {
-      "id": 752,
+      "id": 753,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "-- there are plenty of examples where I provided precise data.",
-      "reply_to": 751
+      "reply_to": 752
     },
     {
-      "id": 753,
+      "id": 754,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5564,15 +5571,15 @@
       "examination": "cross"
     },
     {
-      "id": 754,
+      "id": 755,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "Why would I not, as a representative of the government of Republika Srpska, not be able to provide information in instances where my people were getting killed.",
-      "reply_to": 753
+      "reply_to": 754
     },
     {
-      "id": 755,
+      "id": 756,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "question",
@@ -5580,148 +5587,148 @@
       "examination": "cross"
     },
     {
-      "id": 756,
+      "id": 757,
       "speaker": "VLADIMIR LUKIC",
       "role": "witness",
       "type": "answer",
       "text": "First of all, it concerned no investigation. No one gave me any such authority. We never conducted investigations. There was no written correspondence between us and UNPROFOR. We were in the same building, one room next to the other. We regularly --",
-      "reply_to": 755
+      "reply_to": 756
     },
     {
-      "id": 757,
+      "id": 758,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "[Overlapping speakers]"
     },
     {
-      "id": 758,
+      "id": 759,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] -- spoke discussing what was correct or incorrect."
     },
     {
-      "id": 759,
+      "id": 760,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Witness, I stop you there. You have answered the question that no one had given you any such authority to investigate. Please proceed, Mr. Traldi."
     },
     {
-      "id": 760,
+      "id": 761,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "And just --"
     },
     {
-      "id": 761,
+      "id": 762,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes -- and -- no, I'm looking at the clock. I'd rather advise you not to proceed at this moment, Mr. Traldi. Mr. Lukic, we'll adjourn for the day and we'll resume tomorrow morning at 9.30 in the morning. And I'd like to instruct you that you should not speak or communicate with whomever about your testimony, whether that is testimony you've given today or whether that is testimony still to be given tomorrow and perhaps even the day after tomorrow. Is that clear to you?"
     },
     {
-      "id": 762,
+      "id": 763,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes, it is."
     },
     {
-      "id": 763,
+      "id": 764,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Then you may follow the usher and we'd like to see you back tomorrow."
     },
     {
-      "id": 764,
+      "id": 765,
       "speaker": "THE ACCUSED",
       "role": "accused",
       "type": "statement",
       "text": "[Interpretation] [Microphone not activated]."
     },
     {
-      "id": 765,
+      "id": 766,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "No loud speaking, Mr. Mladic. You know the rules. Mr. Traldi, there was something you would like to address."
     },
     {
-      "id": 766,
+      "id": 767,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "Just so I don't forget tomorrow, Mr. President, if we could have 65 ter 31229 marked for identification pending a translation, please."
     },
     {
-      "id": 767,
+      "id": 768,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "That's the decision of appointment. Is there any dispute --"
     },
     {
-      "id": 768,
+      "id": 769,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "It is."
     },
     {
-      "id": 769,
+      "id": 770,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "-- about it? Is there any reason to have this as written evidence available?"
     },
     {
-      "id": 770,
+      "id": 771,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "Um --"
     },
     {
-      "id": 771,
+      "id": 772,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "We have the date. We have who appointed. It's been read out."
     },
     {
-      "id": 772,
+      "id": 773,
       "speaker": "MR. TRALDI",
       "role": "counsel",
       "type": "statement",
       "text": "I'm in your hands in that regard, Mr. President. I -- I'd used it as a result of the witness's testimony as to who he was the representative of."
     },
     {
-      "id": 773,
+      "id": 774,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Okay. That's accepted. It's marginal whether we really need this kind of evidence, but I'll not -- the Chamber will not obstruct you in tendering it. Mr. Registrar, the number would be?"
     },
     {
-      "id": 774,
+      "id": 775,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "That will be MFI P6728, Your Honours."
     },
     {
-      "id": 775,
+      "id": 776,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, marked for identification. We adjourn for the day and we will resume tomorrow, the 9th -- the 10th of -- no, let me. The 9th of September, 9.30 in the morning, in this same courtroom, I."
     },
     {
-      "id": 776,
+      "id": 777,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
@@ -5842,19 +5849,23 @@
       "text": "Examination by Mr. Lukic:"
     },
     {
-      "after_utterance": 640,
+      "after_utterance": 639,
+      "text": "cross-examined by Mr. Traldi.  You'll find Mr. Traldi to your right."
+    },
+    {
+      "after_utterance": 641,
       "text": "Cross-examination by Mr. Traldi:"
     },
     {
-      "after_utterance": 763,
+      "after_utterance": 764,
       "text": "[The witness stands down]"
     },
     {
-      "after_utterance": 772,
+      "after_utterance": 773,
       "text": "[Trial Chamber confers]"
     },
     {
-      "after_utterance": 775,
+      "after_utterance": 776,
       "text": "--- Whereupon the hearing adjourned at 2.21 p.m.,"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "case": "dragomir_milosevic",
-  "case_id": "IT-98-29-T",
+  "case_id": "IT-98-29",
   "date": "2002-01-17",
   "utterances": [
     {
@@ -56,217 +56,231 @@
       "id": 8,
       "speaker": "MS. PILIPOVIC",
       "role": "counsel",
-      "type": "statement",
-      "text": "Cross-examined by Ms. Pilipovic: [Continued]"
+      "type": "question",
+      "text": "Good morning, Mr. Mulaomerovic.",
+      "examination": "cross"
     },
     {
       "id": 9,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Good morning, Mr. Mulaomerovic."
-    },
-    {
-      "id": 10,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Good morning.",
-      "reply_to": 9
+      "reply_to": 8
+    },
+    {
+      "id": 10,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "We left off yesterday discussing the question of the conflict in Pofalici. Do you happen to know whether there were any casualties and fatalities in that conflict?",
+      "examination": "cross"
     },
     {
       "id": 11,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "We left off yesterday discussing the question of the conflict in Pofalici. Do you happen to know whether there were any casualties and fatalities in that conflict?"
-    },
-    {
-      "id": 12,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Well, yes. Our institution, the emergency service, worked at a higher intensity rate. There were more people wounded and injured that we had to take care of.",
-      "reply_to": 11
+      "reply_to": 10
+    },
+    {
+      "id": 12,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you say that patients were brought in to you from that particular area?",
+      "examination": "cross"
     },
     {
       "id": 13,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you say that patients were brought in to you from that particular area?"
-    },
-    {
-      "id": 14,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's right. The wounded were brought in.",
-      "reply_to": 13
+      "reply_to": 12
+    },
+    {
+      "id": 14,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you happen to know or do you remember exactly how many?",
+      "examination": "cross"
     },
     {
       "id": 15,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you happen to know or do you remember exactly how many?"
-    },
-    {
-      "id": 16,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No, I don't. I don't remember how many there were. But I do remember that there were quite a number of patients, or rather, wounded and injured persons.",
-      "reply_to": 15
+      "reply_to": 14
+    },
+    {
+      "id": 16,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said that next to your building, the building of your institute, were the buildings of the Energoinvest company, the social insurance company, and you mentioned a few other buildings. Can you tell us whether, during the duration of the conflict, from 1992, that is to say September, up until 1994, August of 1994, whether those institutions were in fact working?",
+      "examination": "cross"
     },
     {
       "id": 17,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You said that next to your building, the building of your institute, were the buildings of the Energoinvest company, the social insurance company, and you mentioned a few other buildings. Can you tell us whether, during the duration of the conflict, from 1992, that is to say September, up until 1994, August of 1994, whether those institutions were in fact working?"
-    },
-    {
-      "id": 18,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I don't think they were working. I think that those organisations had already stopped working. Some of them had been shelled, others had been set fire to, and I don't think they were operational during that period.",
-      "reply_to": 17
+      "reply_to": 16
+    },
+    {
+      "id": 18,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know whether in those -- there were any soldiers in those buildings and institutions?",
+      "examination": "cross"
     },
     {
       "id": 19,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know whether in those -- there were any soldiers in those buildings and institutions?"
-    },
-    {
-      "id": 20,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No, I don't know that. I don't know that there were any soldiers.",
-      "reply_to": 19
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also said that from September 1992 to August 1994 your building had been shot and hit on several occasions. Could you tell us, perhaps, when you say \"several times,\" how many times that would be?",
+      "examination": "cross"
     },
     {
       "id": 21,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You also said that from September 1992 to August 1994 your building had been shot and hit on several occasions. Could you tell us, perhaps, when you say \"several times,\" how many times that would be?"
-    },
-    {
-      "id": 22,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Well, I would say tens of times. Perhaps there were 50 artillery projectiles and hundreds of other shots from firearms.",
-      "reply_to": 21
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was your building damaged?",
+      "examination": "cross"
     },
     {
       "id": 23,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was your building damaged?"
-    },
-    {
-      "id": 24,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's right, it was. The building had a flat roof, and we were able to count 17 hits on that flat roof of the building.",
-      "reply_to": 23
+      "reply_to": 22
+    },
+    {
+      "id": 24,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you make a note of that? Did you record it, and did anybody come to the spot to ascertain the damage done? Was that recorded anywhere?",
+      "examination": "cross"
     },
     {
       "id": 25,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you make a note of that? Did you record it, and did anybody come to the spot to ascertain the damage done? Was that recorded anywhere?"
-    },
-    {
-      "id": 26,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No. Nobody came officially to ascertain the damage. We did so ourselves. And in the requests we made to the founders, we said that the roof had to be repaired, because it was quite obvious that damage had been done; they were easily visible.",
-      "reply_to": 25
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "As the director of your institution, was your signature registered in the court?",
+      "examination": "cross"
     },
     {
       "id": 27,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "As the director of your institution, was your signature registered in the court?"
-    },
-    {
-      "id": 28,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 27
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "On the basis of that registered signature of yours, what authorisations and competences did you have?",
+      "examination": "cross"
     },
     {
       "id": 29,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "On the basis of that registered signature of yours, what authorisations and competences did you have?"
-    },
-    {
-      "id": 30,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I was authorised to manage the institution and to sign all the documents; financial and others, orders and things of that kind.",
-      "reply_to": 29
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "The document that you were shown yesterday, which you looked at, and you were able to tell us that it was indeed the stamp of your institution, did you sign those documents and were you asked to sign them, in fact?",
+      "examination": "cross"
     },
     {
       "id": 31,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "The document that you were shown yesterday, which you looked at, and you were able to tell us that it was indeed the stamp of your institution, did you sign those documents and were you asked to sign them, in fact?"
-    },
-    {
-      "id": 32,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I don't think I was asked to sign them, and I don't remember having signed them either. And I think I said that our protocol books are accessible to everybody authorised to look at them. They are public records, public documents, and they don't come under any sort of confidentiality. They are documents in our archives and can be used both by people authorised to do so and professionals, of course, as well, and anybody interested in specialising and using those facts and figures for their thesis.",
-      "reply_to": 31
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you tell me who in your institution authorises the use of these documents and access to them?",
+      "examination": "cross"
     },
     {
       "id": 33,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you tell me who in your institution authorises the use of these documents and access to them?"
-    },
-    {
-      "id": 34,
       "speaker": "ALIJA MULAOMEROVIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Well, nobody, actually, has to give permission. This is stated in our rules and regulations. It states that our founders are the assembly of the canton and that medical assistance is of a public character and everything pertaining to that is public and that we are duty-bound to respect that and to inform the public and to be at the service of the public, in fact.",
-      "reply_to": 33
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "MS. PILIPOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, Witness.",
+      "examination": "cross"
     },
     {
       "id": 35,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
-      "type": "question",
-      "text": "Thank you, Witness."
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, that concludes the"
     },
     {
       "id": 36,
       "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "statement",
-      "text": "[Interpretation] Your Honour, that concludes the cross-examination by the Defence. We should like now to tender document D24 into evidence as a Defence Exhibit, in view of the fact that the witness has identified it."
+      "text": "D24 into evidence as a Defence Exhibit, in view of the fact that the witness has identified it."
     },
     {
       "id": 37,
@@ -294,14 +308,15 @@
       "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "statement",
-      "text": "I'm obliged, Your Honour Re-examined by Mr. Stamp:"
+      "text": "I'm obliged, Your Honour"
     },
     {
       "id": 41,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "You said just now in your evidence, Doctor, that you counted 17 hits on the flat roof of the hospital. What did you mean when you said \"hits\"?"
+      "text": "You said just now in your evidence, Doctor, that you counted 17 hits on the flat roof of the hospital. What did you mean when you said \"hits\"?",
+      "examination": "re-direct"
     },
     {
       "id": 42,
@@ -313,10 +328,11 @@
     },
     {
       "id": 43,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "What would you say caused those hits?"
+      "text": "What would you say caused those hits?",
+      "examination": "re-direct"
     },
     {
       "id": 44,
@@ -328,10 +344,11 @@
     },
     {
       "id": 45,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, Doctor."
+      "text": "Thank you, Doctor.",
+      "examination": "re-direct"
     },
     {
       "id": 46,
@@ -373,7 +390,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you. Mr. Mulaomerovic, this Chamber thanks you very much for coming -- I see that one of my colleagues still has a question, so if you please, still wait for a second. Questioned by the Court"
+      "text": "Thank you. Mr. Mulaomerovic, this Chamber thanks you very much for coming -- I see that one of my colleagues still has a question, so if you please, still wait for a second."
     },
     {
       "id": 52,
@@ -557,14 +574,15 @@
       "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "statement",
-      "text": "I'm grateful to you, Mr. President. Your Honours, good morning. Examined by Mr. Blaxill:"
+      "text": "I'm grateful to you, Mr. President. Your Honours, good morning."
     },
     {
       "id": 78,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Good morning, Mr. Hajir. You've heard my name is Michael Blaxill and I will be asking you some questions on behalf of the Prosecution in this case. Would you please commence by giving the Court your full name and your date of birth."
+      "text": "Good morning, Mr. Hajir. You've heard my name is Michael Blaxill and I will be asking you some questions on behalf of the Prosecution in this case. Would you please commence by giving the Court your full name and your date of birth.",
+      "examination": "direct"
     },
     {
       "id": 79,
@@ -576,10 +594,11 @@
     },
     {
       "id": 80,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And Dr. Hajir, I understand you are a surgeon by profession; is that correct?"
+      "text": "And Dr. Hajir, I understand you are a surgeon by profession; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 81,
@@ -591,10 +610,11 @@
     },
     {
       "id": 82,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And is it also correct that you were working as a surgeon in the traumatology clinic in Kosevo Hospital, Sarajevo, around the beginning of 1992?"
+      "text": "And is it also correct that you were working as a surgeon in the traumatology clinic in Kosevo Hospital, Sarajevo, around the beginning of 1992?",
+      "examination": "direct"
     },
     {
       "id": 83,
@@ -606,10 +626,11 @@
     },
     {
       "id": 84,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And what part of Sarajevo were you living in at that time?"
+      "text": "And what part of Sarajevo were you living in at that time?",
+      "examination": "direct"
     },
     {
       "id": 85,
@@ -621,10 +642,11 @@
     },
     {
       "id": 86,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And did you at any time move from that location to another part of town to live?"
+      "text": "And did you at any time move from that location to another part of town to live?",
+      "examination": "direct"
     },
     {
       "id": 87,
@@ -636,10 +658,11 @@
     },
     {
       "id": 88,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And where did you go, sir?"
+      "text": "And where did you go, sir?",
+      "examination": "direct"
     },
     {
       "id": 89,
@@ -651,10 +674,11 @@
     },
     {
       "id": 90,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Was it in April 1992, sir?"
+      "text": "Was it in April 1992, sir?",
+      "examination": "direct"
     },
     {
       "id": 91,
@@ -666,10 +690,11 @@
     },
     {
       "id": 92,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Is it also correct that Dobrinja is a former Olympic village that lies to the western end of Sarajevo, close to the airport? Is that right, sir?"
+      "text": "Is it also correct that Dobrinja is a former Olympic village that lies to the western end of Sarajevo, close to the airport? Is that right, sir?",
+      "examination": "direct"
     },
     {
       "id": 93,
@@ -681,10 +706,11 @@
     },
     {
       "id": 94,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And what sort of area was Dobrinja at the time you moved there? Was it a residential area, a commercial area, or a mixture?"
+      "text": "And what sort of area was Dobrinja at the time you moved there? Was it a residential area, a commercial area, or a mixture?",
+      "examination": "direct"
     },
     {
       "id": 95,
@@ -696,10 +722,11 @@
     },
     {
       "id": 96,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And are you saying by that that it is a predominantly residential area, or was?"
+      "text": "And are you saying by that that it is a predominantly residential area, or was?",
+      "examination": "direct"
     },
     {
       "id": 97,
@@ -711,10 +738,11 @@
     },
     {
       "id": 98,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And you have referred to the apartment complexes. Were these high-rise apartments, tall buildings with many occupants?"
+      "text": "And you have referred to the apartment complexes. Were these high-rise apartments, tall buildings with many occupants?",
+      "examination": "direct"
     },
     {
       "id": 99,
@@ -726,10 +754,11 @@
     },
     {
       "id": 100,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And shortly after you moved to Dobrinja to get away from armed conflict elsewhere in Sarajevo, did the situation in Dobrinja change?"
+      "text": "And shortly after you moved to Dobrinja to get away from armed conflict elsewhere in Sarajevo, did the situation in Dobrinja change?",
+      "examination": "direct"
     },
     {
       "id": 101,
@@ -741,10 +770,11 @@
     },
     {
       "id": 102,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Sorry. Shortly after you moved to Dobrinja, did the situation change in terms of the existence of any armed conflict?"
+      "text": "Sorry. Shortly after you moved to Dobrinja, did the situation change in terms of the existence of any armed conflict?",
+      "examination": "direct"
     },
     {
       "id": 103,
@@ -756,10 +786,11 @@
     },
     {
       "id": 104,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And from what you say, Doctor, did shelling of Dobrinja commence after that date, and likewise, sniping?"
+      "text": "And from what you say, Doctor, did shelling of Dobrinja commence after that date, and likewise, sniping?",
+      "examination": "direct"
     },
     {
       "id": 105,
@@ -771,10 +802,11 @@
     },
     {
       "id": 106,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And to the best of your recollection, were any civilian buildings and civilian areas hit by shells?"
+      "text": "And to the best of your recollection, were any civilian buildings and civilian areas hit by shells?",
+      "examination": "direct"
     },
     {
       "id": 107,
@@ -807,10 +839,11 @@
     },
     {
       "id": 111,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. Hajir, you've heard Mr. President's request. Could you repeat what you've just said about the people going round defending, and could you confirm whether or not you have used the word \"Muslim\" in that context."
+      "text": "Dr. Hajir, you've heard Mr. President's request. Could you repeat what you've just said about the people going round defending, and could you confirm whether or not you have used the word \"Muslim\" in that context.",
+      "examination": "direct"
     },
     {
       "id": 112,
@@ -836,10 +869,11 @@
     },
     {
       "id": 115,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And Dr. Hajir, from what you said, moving on, can you tell us, then, where were the shells landing when they were shelling Dobrinja?"
+      "text": "And Dr. Hajir, from what you said, moving on, can you tell us, then, where were the shells landing when they were shelling Dobrinja?",
+      "examination": "direct"
     },
     {
       "id": 116,
@@ -851,10 +885,11 @@
     },
     {
       "id": 117,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And likewise with the -- you've referred to sniping. Was that sniping on just specific locations or was -- or were there danger points all over Dobrinja as a result of sniping?"
+      "text": "And likewise with the -- you've referred to sniping. Was that sniping on just specific locations or was -- or were there danger points all over Dobrinja as a result of sniping?",
+      "examination": "direct"
     },
     {
       "id": 118,
@@ -866,10 +901,11 @@
     },
     {
       "id": 119,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And where you have stated the fire coming from, can you tell us, please, who was controlling those areas, like at that time, Mojmilo, Lukavica, Dobrinja 4?"
+      "text": "And where you have stated the fire coming from, can you tell us, please, who was controlling those areas, like at that time, Mojmilo, Lukavica, Dobrinja 4?",
+      "examination": "direct"
     },
     {
       "id": 120,
@@ -881,10 +917,11 @@
     },
     {
       "id": 121,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And who were the forces who effected that isolation of Dobrinja? Who were the actual army that were doing it?"
+      "text": "And who were the forces who effected that isolation of Dobrinja? Who were the actual army that were doing it?",
+      "examination": "direct"
     },
     {
       "id": 122,
@@ -896,10 +933,11 @@
     },
     {
       "id": 123,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Would those forces be ones that commonly became identified as the Bosnian Serb army?"
+      "text": "Would those forces be ones that commonly became identified as the Bosnian Serb army?",
+      "examination": "direct"
     },
     {
       "id": 124,
@@ -911,10 +949,11 @@
     },
     {
       "id": 125,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Is it correct that in fact there was a change in position by June of that year and Dobrinja did re-establish some direct contact with the city of Sarajevo? Is that right?"
+      "text": "Is it correct that in fact there was a change in position by June of that year and Dobrinja did re-establish some direct contact with the city of Sarajevo? Is that right?",
+      "examination": "direct"
     },
     {
       "id": 126,
@@ -926,10 +965,11 @@
     },
     {
       "id": 127,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Have you noticed civilian casualties being sustained in Dobrinja during the months from May that caused you to take any action yourself as regards medical facilities?"
+      "text": "Have you noticed civilian casualties being sustained in Dobrinja during the months from May that caused you to take any action yourself as regards medical facilities?",
+      "examination": "direct"
     },
     {
       "id": 128,
@@ -941,10 +981,11 @@
     },
     {
       "id": 129,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And did you notice that there were civilian casualties being sustained, and did that prompt you to take any action to set up a medical facility?"
+      "text": "And did you notice that there were civilian casualties being sustained, and did that prompt you to take any action to set up a medical facility?",
+      "examination": "direct"
     },
     {
       "id": 130,
@@ -956,10 +997,11 @@
     },
     {
       "id": 131,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "I'd just like to ask you: Did you in fact set up an emergency room or something equivalent to a hospital facility in Dobrinja; and if so, when was that operational?"
+      "text": "I'd just like to ask you: Did you in fact set up an emergency room or something equivalent to a hospital facility in Dobrinja; and if so, when was that operational?",
+      "examination": "direct"
     },
     {
       "id": 132,
@@ -971,10 +1013,11 @@
     },
     {
       "id": 133,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "I'm sorry, if I may move forward in time, Dr. Hajir, as time is pressing on us. For the period from September of 1992 through to August of 1994 is the period on which I would like to concentrate. And could you tell us, firstly, did the shelling and the sniping of civilians continue from September 1992 onwards through 1993 and into 1994?"
+      "text": "I'm sorry, if I may move forward in time, Dr. Hajir, as time is pressing on us. For the period from September of 1992 through to August of 1994 is the period on which I would like to concentrate. And could you tell us, firstly, did the shelling and the sniping of civilians continue from September 1992 onwards through 1993 and into 1994?",
+      "examination": "direct"
     },
     {
       "id": 134,
@@ -986,10 +1029,11 @@
     },
     {
       "id": 135,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And you say that is an average. Do you mean by that, Doctor -- do you mean that that was an average through the whole period? In other words, if we take the whole of 1993, would that have been still the daily average, roughly?"
+      "text": "And you say that is an average. Do you mean by that, Doctor -- do you mean that that was an average through the whole period? In other words, if we take the whole of 1993, would that have been still the daily average, roughly?",
+      "examination": "direct"
     },
     {
       "id": 136,
@@ -1001,10 +1045,11 @@
     },
     {
       "id": 137,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And of the casualties that you received into your hospital in Dobrinja, can you tell us how many were civilian patients and how many may have been military patients, i.e., wounded soldiers?"
+      "text": "And of the casualties that you received into your hospital in Dobrinja, can you tell us how many were civilian patients and how many may have been military patients, i.e., wounded soldiers?",
+      "examination": "direct"
     },
     {
       "id": 138,
@@ -1016,10 +1061,11 @@
     },
     {
       "id": 139,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, would the persons treated for wounds in your Dobrinja hospital have included women or children or elderly people?"
+      "text": "Sir, would the persons treated for wounds in your Dobrinja hospital have included women or children or elderly people?",
+      "examination": "direct"
     },
     {
       "id": 140,
@@ -1031,10 +1077,11 @@
     },
     {
       "id": 141,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And what about such casualties, women and children, in respect of the issue of sniping? Did you treat women and/or children or the elderly in respect of bullet wounds from the sniping that occurred?"
+      "text": "And what about such casualties, women and children, in respect of the issue of sniping? Did you treat women and/or children or the elderly in respect of bullet wounds from the sniping that occurred?",
+      "examination": "direct"
     },
     {
       "id": 142,
@@ -1046,10 +1093,11 @@
     },
     {
       "id": 143,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. Hajir, as regards the civilian population of Dobrinja at that time through from September 1992 to the middle of 1994, what did the people have to do to obtain water and food? Was it readily available? Did they have to go to places to get it?"
+      "text": "Dr. Hajir, as regards the civilian population of Dobrinja at that time through from September 1992 to the middle of 1994, what did the people have to do to obtain water and food? Was it readily available? Did they have to go to places to get it?",
+      "examination": "direct"
     },
     {
       "id": 144,
@@ -1061,10 +1109,11 @@
     },
     {
       "id": 145,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And can you, when -- you have said numbers are difficult to remember, but can you give us an indication of the total number of persons that you treated in your hospital in Dobrinja during the war? Just a rough figure."
+      "text": "And can you, when -- you have said numbers are difficult to remember, but can you give us an indication of the total number of persons that you treated in your hospital in Dobrinja during the war? Just a rough figure.",
+      "examination": "direct"
     },
     {
       "id": 146,
@@ -1076,10 +1125,11 @@
     },
     {
       "id": 147,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Can you give us any idea, then, of the total number of casualties from shelling and sniping who passed through your Dobrinja hospital? Clearly, if you can't remember, that's -- please say so."
+      "text": "Can you give us any idea, then, of the total number of casualties from shelling and sniping who passed through your Dobrinja hospital? Clearly, if you can't remember, that's -- please say so.",
+      "examination": "direct"
     },
     {
       "id": 148,
@@ -1091,10 +1141,11 @@
     },
     {
       "id": 149,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. Do you recall whether your hospital itself was ever hit by any shell fire or by any sniping?"
+      "text": "Thank you. Do you recall whether your hospital itself was ever hit by any shell fire or by any sniping?",
+      "examination": "direct"
     },
     {
       "id": 150,
@@ -1106,10 +1157,11 @@
     },
     {
       "id": 151,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, was your -- was the building in which you had the hospital marked in any way to indicate that it was a medical facility?"
+      "text": "Doctor, was your -- was the building in which you had the hospital marked in any way to indicate that it was a medical facility?",
+      "examination": "direct"
     },
     {
       "id": 152,
@@ -1121,10 +1173,11 @@
     },
     {
       "id": 153,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "You've referred to the shelling in respect of the hospital. What about sniping? Were any people sniped at in or near the hospital?"
+      "text": "You've referred to the shelling in respect of the hospital. What about sniping? Were any people sniped at in or near the hospital?",
+      "examination": "direct"
     },
     {
       "id": 154,
@@ -1136,10 +1189,11 @@
     },
     {
       "id": 155,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, Doctor. Dr. Hajir, did you have any ambulances to collect casualties and bring them to your hospital?"
+      "text": "Thank you, Doctor. Dr. Hajir, did you have any ambulances to collect casualties and bring them to your hospital?",
+      "examination": "direct"
     },
     {
       "id": 156,
@@ -1151,10 +1205,11 @@
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Do you recall how many holes were in it?"
+      "text": "Do you recall how many holes were in it?",
+      "examination": "direct"
     },
     {
       "id": 158,
@@ -1166,10 +1221,11 @@
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, in what manner were your ambulances marked to point them out to be ambulances?"
+      "text": "Doctor, in what manner were your ambulances marked to point them out to be ambulances?",
+      "examination": "direct"
     },
     {
       "id": 160,
@@ -1181,10 +1237,11 @@
     },
     {
       "id": 161,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "You've referred to one ambulance being shot at and hit. What about other ambulances? Was this the same fate for all your vehicles?"
+      "text": "You've referred to one ambulance being shot at and hit. What about other ambulances? Was this the same fate for all your vehicles?",
+      "examination": "direct"
     },
     {
       "id": 162,
@@ -1196,10 +1253,11 @@
     },
     {
       "id": 163,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And in fact, that was the next question I would ask you, Doctor. In connection with transporting people on for further treatment in other hospitals, did you find that you had to take any special precautions, or could you do that task safely?"
+      "text": "And in fact, that was the next question I would ask you, Doctor. In connection with transporting people on for further treatment in other hospitals, did you find that you had to take any special precautions, or could you do that task safely?",
+      "examination": "direct"
     },
     {
       "id": 164,
@@ -1211,10 +1269,11 @@
     },
     {
       "id": 165,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Dr. Hajir, I would ask you: Later on in the war, when clearly defences were better, let us say later in 1993 and into 1994, were there any military installations or military presence close to your hospital? By that, I mean the ABiH defence."
+      "text": "Now, Dr. Hajir, I would ask you: Later on in the war, when clearly defences were better, let us say later in 1993 and into 1994, were there any military installations or military presence close to your hospital? By that, I mean the ABiH defence.",
+      "examination": "direct"
     },
     {
       "id": 166,
@@ -1226,10 +1285,11 @@
     },
     {
       "id": 167,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "That being said, were any military stationed actually in your hospital in the latter stages, or in the apartments above, or was that still civilian?"
+      "text": "That being said, were any military stationed actually in your hospital in the latter stages, or in the apartments above, or was that still civilian?",
+      "examination": "direct"
     },
     {
       "id": 168,
@@ -1241,10 +1301,11 @@
     },
     {
       "id": 169,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "I'll turn your memory, if I may, Doctor, to one incident. Do you remember any particular incident occurring on Bajram in 1993?"
+      "text": "I'll turn your memory, if I may, Doctor, to one incident. Do you remember any particular incident occurring on Bajram in 1993?",
+      "examination": "direct"
     },
     {
       "id": 170,
@@ -1290,10 +1351,11 @@
     },
     {
       "id": 176,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. Hajir, you've just been referring to \"the hospital\" in response to my questions about military presence. Were you referring, of course, to your hospital in Dobrinja? Is that right? Thank you, sir."
+      "text": "Dr. Hajir, you've just been referring to \"the hospital\" in response to my questions about military presence. Were you referring, of course, to your hospital in Dobrinja? Is that right? Thank you, sir.",
+      "examination": "direct"
     },
     {
       "id": 177,
@@ -1305,10 +1367,11 @@
     },
     {
       "id": 178,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Dr. Hajir, I refer again to the matter of Bajram, 1993. Do you recall a particular incident that day in Dobrinja?"
+      "text": "Now, Dr. Hajir, I refer again to the matter of Bajram, 1993. Do you recall a particular incident that day in Dobrinja?",
+      "examination": "direct"
     },
     {
       "id": 179,
@@ -1320,10 +1383,11 @@
     },
     {
       "id": 180,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. Hajir, I will ask you a little bit more about record-making in the future, so I would like, in a sense, a yes or no answer. Would any record have been kept by your hospital of the treatment of those patients?"
+      "text": "Dr. Hajir, I will ask you a little bit more about record-making in the future, so I would like, in a sense, a yes or no answer. Would any record have been kept by your hospital of the treatment of those patients?",
+      "examination": "direct"
     },
     {
       "id": 181,
@@ -1335,10 +1399,11 @@
     },
     {
       "id": 182,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Doctor, there's just one small question I would ask you: When shells landed on Dobrinja, were you ever able to hear anything of the shell prior to the explosion? Did it make any sound as it came in?"
+      "text": "Now, Doctor, there's just one small question I would ask you: When shells landed on Dobrinja, were you ever able to hear anything of the shell prior to the explosion? Did it make any sound as it came in?",
+      "examination": "direct"
     },
     {
       "id": 183,
@@ -1371,10 +1436,11 @@
     },
     {
       "id": 187,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. Hajir, I've mentioned the question of records. Can you give us an indication of how your records were kept in the hospital, or the difficulties you had so doing?"
+      "text": "Dr. Hajir, I've mentioned the question of records. Can you give us an indication of how your records were kept in the hospital, or the difficulties you had so doing?",
+      "examination": "direct"
     },
     {
       "id": 188,
@@ -1386,10 +1452,11 @@
     },
     {
       "id": 189,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. Hajir, even with the limitations that you faced, I presume that you were able, at some point, to have records created in respect of a number of patients. Is that right?"
+      "text": "Dr. Hajir, even with the limitations that you faced, I presume that you were able, at some point, to have records created in respect of a number of patients. Is that right?",
+      "examination": "direct"
     },
     {
       "id": 190,
@@ -1401,10 +1468,11 @@
     },
     {
       "id": 191,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "I'm going to ask you to look in a moment, Dr. Hajir, at some documents that we will show to you."
+      "text": "I'm going to ask you to look in a moment, Dr. Hajir, at some documents that we will show to you.",
+      "examination": "direct"
     },
     {
       "id": 192,
@@ -1422,10 +1490,11 @@
     },
     {
       "id": 194,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. Hajir, I'd ask you, sir, just to look through the documents that have been placed in front of you, and the question is very simple in that: Are you able to recognise those documents, and do they represent records from your Dobrinja hospital in respect of the persons named in them?"
+      "text": "Dr. Hajir, I'd ask you, sir, just to look through the documents that have been placed in front of you, and the question is very simple in that: Are you able to recognise those documents, and do they represent records from your Dobrinja hospital in respect of the persons named in them?",
+      "examination": "direct"
     },
     {
       "id": 195,
@@ -1437,10 +1506,11 @@
     },
     {
       "id": 196,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Is it correct, Dr. Hajir, that your signature appears indeed as the senior consultant on a number of those documents?"
+      "text": "Is it correct, Dr. Hajir, that your signature appears indeed as the senior consultant on a number of those documents?",
+      "examination": "direct"
     },
     {
       "id": 197,
@@ -1452,10 +1522,11 @@
     },
     {
       "id": 198,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, Dr. Hajir."
+      "text": "Thank you, Dr. Hajir.",
+      "examination": "direct"
     },
     {
       "id": 199,
@@ -1481,10 +1552,11 @@
     },
     {
       "id": 202,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "I have just one last question, Dr. Hajir. Can you just tell the Chamber the very first time you performed a surgical operation in Dobrinja, what were the conditions you were working under, the very first surgical procedure there, sir?"
+      "text": "I have just one last question, Dr. Hajir. Can you just tell the Chamber the very first time you performed a surgical operation in Dobrinja, what were the conditions you were working under, the very first surgical procedure there, sir?",
+      "examination": "direct"
     },
     {
       "id": 203,
@@ -1496,10 +1568,11 @@
     },
     {
       "id": 204,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "What about the light? What did you use for light?"
+      "text": "What about the light? What did you use for light?",
+      "examination": "direct"
     },
     {
       "id": 205,
@@ -1511,10 +1584,11 @@
     },
     {
       "id": 206,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "And I regret my ignorance as to the technical word for those instruments, but does that mean they were dental tools that you were using to perform surgery?"
+      "text": "And I regret my ignorance as to the technical word for those instruments, but does that mean they were dental tools that you were using to perform surgery?",
+      "examination": "direct"
     },
     {
       "id": 207,
@@ -1526,10 +1600,11 @@
     },
     {
       "id": 208,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. BLAXILL",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. Hajir, that concludes the questions that I have for you, sir. I thank you."
+      "text": "Dr. Hajir, that concludes the questions that I have for you, sir. I thank you.",
+      "examination": "direct"
     },
     {
       "id": 209,
@@ -1550,14 +1625,15 @@
       "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "statement",
-      "text": "[Interpretation] Thank you, Your Honour. Cross-examined by Ms. Pilipovic:"
+      "text": "[Interpretation] Thank you, Your Honour."
     },
     {
       "id": 212,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Hello. In the course of the main cross-examination [as interpreted] you said that when the conflict started, you were in Vrace. When the conflict started, you left Vrace with your family. When did this occur?"
+      "text": "Hello. In the course of the main cross-examination [as interpreted] you said that when the conflict started, you were in Vrace. When the conflict started, you left Vrace with your family. When did this occur?",
+      "examination": "cross"
     },
     {
       "id": 213,
@@ -1569,10 +1645,11 @@
     },
     {
       "id": 214,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "In view of the fact that you lived at Vrace, what conflict existed there, and between which sides?"
+      "text": "In view of the fact that you lived at Vrace, what conflict existed there, and between which sides?",
+      "examination": "cross"
     },
     {
       "id": 215,
@@ -1584,10 +1661,11 @@
     },
     {
       "id": 216,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, sir. In your answer, you mentioned the police school. Do you happen to know that there was a conflict in the police school; and if you do know about that, could you tell us between whom the conflict was."
+      "text": "Thank you, sir. In your answer, you mentioned the police school. Do you happen to know that there was a conflict in the police school; and if you do know about that, could you tell us between whom the conflict was.",
+      "examination": "cross"
     },
     {
       "id": 217,
@@ -1599,10 +1677,11 @@
     },
     {
       "id": 218,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know what the ethnic composition of the police force in Sarajevo was?"
+      "text": "Do you know what the ethnic composition of the police force in Sarajevo was?",
+      "examination": "cross"
     },
     {
       "id": 219,
@@ -1614,10 +1693,11 @@
     },
     {
       "id": 220,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know that there were Serbs and Croats in the police force?"
+      "text": "Do you know that there were Serbs and Croats in the police force?",
+      "examination": "cross"
     },
     {
       "id": 221,
@@ -1629,10 +1709,11 @@
     },
     {
       "id": 222,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Did you know that the clash in the police school broke out between the ethnic Serbs and ethnic Muslims in the police force, the policemen?"
+      "text": "Did you know that the clash in the police school broke out between the ethnic Serbs and ethnic Muslims in the police force, the policemen?",
+      "examination": "cross"
     },
     {
       "id": 223,
@@ -1644,10 +1725,11 @@
     },
     {
       "id": 224,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You said that you came to Dobrinja. What part of Dobrinja did you come to?"
+      "text": "You said that you came to Dobrinja. What part of Dobrinja did you come to?",
+      "examination": "cross"
     },
     {
       "id": 225,
@@ -1659,10 +1741,11 @@
     },
     {
       "id": 226,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You also said that Dobrinja was divided into five parts. Could you explain what those five parts were. What did that mean?"
+      "text": "You also said that Dobrinja was divided into five parts. Could you explain what those five parts were. What did that mean?",
+      "examination": "cross"
     },
     {
       "id": 227,
@@ -1674,10 +1757,11 @@
     },
     {
       "id": 228,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "While you were in Dobrinja, you said you moved around, but did you go to all the parts of Dobrinja?"
+      "text": "While you were in Dobrinja, you said you moved around, but did you go to all the parts of Dobrinja?",
+      "examination": "cross"
     },
     {
       "id": 229,
@@ -1689,10 +1773,11 @@
     },
     {
       "id": 230,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Did you ever go to Dobrinja 5?"
+      "text": "Did you ever go to Dobrinja 5?",
+      "examination": "cross"
     },
     {
       "id": 231,
@@ -1704,10 +1789,11 @@
     },
     {
       "id": 232,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Why?"
+      "text": "Why?",
+      "examination": "cross"
     },
     {
       "id": 233,
@@ -1719,10 +1805,11 @@
     },
     {
       "id": 234,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know --"
+      "text": "Do you know --",
+      "examination": "cross"
     },
     {
       "id": 235,
@@ -1734,10 +1821,11 @@
     },
     {
       "id": 236,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "While you moved around Dobrinja, did you happen to notice organised groups of young men with light weapons, as you said today, a moment ago? And it's in the transcript. You said that at 9:30."
+      "text": "While you moved around Dobrinja, did you happen to notice organised groups of young men with light weapons, as you said today, a moment ago? And it's in the transcript. You said that at 9:30.",
+      "examination": "cross"
     },
     {
       "id": 237,
@@ -1749,10 +1837,11 @@
     },
     {
       "id": 238,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Did you know who those young men were?"
+      "text": "Did you know who those young men were?",
+      "examination": "cross"
     },
     {
       "id": 239,
@@ -1764,10 +1853,11 @@
     },
     {
       "id": 240,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "What about later on? Did you learn who they were?"
+      "text": "What about later on? Did you learn who they were?",
+      "examination": "cross"
     },
     {
       "id": 241,
@@ -1779,10 +1869,11 @@
     },
     {
       "id": 242,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Did you have a chance to meet any of them?"
+      "text": "Did you have a chance to meet any of them?",
+      "examination": "cross"
     },
     {
       "id": 243,
@@ -1794,10 +1885,11 @@
     },
     {
       "id": 244,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "When they came to you, did they have the light weapons that you say they had in their possession?"
+      "text": "When they came to you, did they have the light weapons that you say they had in their possession?",
+      "examination": "cross"
     },
     {
       "id": 245,
@@ -1809,10 +1901,11 @@
     },
     {
       "id": 246,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know where they were put up?"
+      "text": "Do you know where they were put up?",
+      "examination": "cross"
     },
     {
       "id": 247,
@@ -1824,10 +1917,11 @@
     },
     {
       "id": 248,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell us something about the Dobrinja residential area? What are the districts bordering on Dobrinja?"
+      "text": "Can you tell us something about the Dobrinja residential area? What are the districts bordering on Dobrinja?",
+      "examination": "cross"
     },
     {
       "id": 249,
@@ -1839,10 +1933,11 @@
     },
     {
       "id": 250,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "What about Vojnicko Polje and Alipasino Polje?"
+      "text": "What about Vojnicko Polje and Alipasino Polje?",
+      "examination": "cross"
     },
     {
       "id": 251,
@@ -1854,10 +1949,11 @@
     },
     {
       "id": 252,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell us about the Vojnicko Polje and Alipasino Polje apartment blocks? What were they built of?"
+      "text": "Can you tell us about the Vojnicko Polje and Alipasino Polje apartment blocks? What were they built of?",
+      "examination": "cross"
     },
     {
       "id": 253,
@@ -1869,10 +1965,11 @@
     },
     {
       "id": 254,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "How high were these buildings?"
+      "text": "How high were these buildings?",
+      "examination": "cross"
     },
     {
       "id": 255,
@@ -1884,10 +1981,11 @@
     },
     {
       "id": 256,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "What about the Nedzarici settlement?"
+      "text": "What about the Nedzarici settlement?",
+      "examination": "cross"
     },
     {
       "id": 257,
@@ -1899,10 +1997,11 @@
     },
     {
       "id": 258,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You also said that when you arrived in Dobrinja, that at Mojmilo, the Yugoslav army had set up positions."
+      "text": "You also said that when you arrived in Dobrinja, that at Mojmilo, the Yugoslav army had set up positions.",
+      "examination": "cross"
     },
     {
       "id": 259,
@@ -1914,10 +2013,11 @@
     },
     {
       "id": 260,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Yes, I apologise. Mojmilo hill. That's what I meant. Do you happen to know whether throughout the conflict, as you say, from April 1992 until the end of the conflict, for us, 1994 is relevant, whether the Yugoslav army units were on that hill at that time?"
+      "text": "Yes, I apologise. Mojmilo hill. That's what I meant. Do you happen to know whether throughout the conflict, as you say, from April 1992 until the end of the conflict, for us, 1994 is relevant, whether the Yugoslav army units were on that hill at that time?",
+      "examination": "cross"
     },
     {
       "id": 261,
@@ -1929,10 +2029,11 @@
     },
     {
       "id": 262,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "When were they there?"
+      "text": "When were they there?",
+      "examination": "cross"
     },
     {
       "id": 263,
@@ -1944,10 +2045,11 @@
     },
     {
       "id": 264,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You mentioned Kerim Lucarevic and the military police. What was he in the military police?"
+      "text": "You mentioned Kerim Lucarevic and the military police. What was he in the military police?",
+      "examination": "cross"
     },
     {
       "id": 265,
@@ -1959,10 +2061,11 @@
     },
     {
       "id": 266,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "That military police, what was -- within what formation was it established, if you know?"
+      "text": "That military police, what was -- within what formation was it established, if you know?",
+      "examination": "cross"
     },
     {
       "id": 267,
@@ -1974,10 +2077,11 @@
     },
     {
       "id": 268,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you happen to know how many members the military police numbered?"
+      "text": "Do you happen to know how many members the military police numbered?",
+      "examination": "cross"
     },
     {
       "id": 269,
@@ -1989,10 +2093,11 @@
     },
     {
       "id": 270,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "May we agree that you said that the military police, whose commander was Kerim Lucarevic, in June took control of Mojmilo hill?"
+      "text": "May we agree that you said that the military police, whose commander was Kerim Lucarevic, in June took control of Mojmilo hill?",
+      "examination": "cross"
     },
     {
       "id": 271,
@@ -2004,10 +2109,11 @@
     },
     {
       "id": 272,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Were there any soldiers, after Kerim Lucarevic police climbed up Mojmilo hill, were there any soldiers during the war there?"
+      "text": "Were there any soldiers, after Kerim Lucarevic police climbed up Mojmilo hill, were there any soldiers during the war there?",
+      "examination": "cross"
     },
     {
       "id": 273,
@@ -2019,10 +2125,11 @@
     },
     {
       "id": 274,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you happen to know where the headquarters of Kerim Lucarevic's command of the military police was? Where was his staff and headquarters?"
+      "text": "Do you happen to know where the headquarters of Kerim Lucarevic's command of the military police was? Where was his staff and headquarters?",
+      "examination": "cross"
     },
     {
       "id": 275,
@@ -2034,10 +2141,11 @@
     },
     {
       "id": 276,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You also said that the brigade was set up on Dobrinja after the BH army was formed. Since when was that brigade up at Dobrinja?"
+      "text": "You also said that the brigade was set up on Dobrinja after the BH army was formed. Since when was that brigade up at Dobrinja?",
+      "examination": "cross"
     },
     {
       "id": 277,
@@ -2049,10 +2157,11 @@
     },
     {
       "id": 278,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You came to Dobrinja on the 18th of April, 1992, did you not?"
+      "text": "You came to Dobrinja on the 18th of April, 1992, did you not?",
+      "examination": "cross"
     },
     {
       "id": 279,
@@ -2064,10 +2173,11 @@
     },
     {
       "id": 280,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "When did you talk to the commander of the brigade for the first time?"
+      "text": "When did you talk to the commander of the brigade for the first time?",
+      "examination": "cross"
     },
     {
       "id": 281,
@@ -2079,10 +2189,11 @@
     },
     {
       "id": 282,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "But you said there was a brigade and that he was the commander. Now I'm asking you now when the brigade was formed."
+      "text": "But you said there was a brigade and that he was the commander. Now I'm asking you now when the brigade was formed.",
+      "examination": "cross"
     },
     {
       "id": 283,
@@ -2094,10 +2205,11 @@
     },
     {
       "id": 284,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "I'm asking you when that was."
+      "text": "I'm asking you when that was.",
+      "examination": "cross"
     },
     {
       "id": 285,
@@ -2109,10 +2221,11 @@
     },
     {
       "id": 286,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know what that gentleman's name was, the man who later became commander of the brigade?"
+      "text": "Do you know what that gentleman's name was, the man who later became commander of the brigade?",
+      "examination": "cross"
     },
     {
       "id": 287,
@@ -2124,10 +2237,11 @@
     },
     {
       "id": 288,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know, did you know then, or did you happen to learn whether he was an army man?"
+      "text": "Do you know, did you know then, or did you happen to learn whether he was an army man?",
+      "examination": "cross"
     },
     {
       "id": 289,
@@ -2139,10 +2253,11 @@
     },
     {
       "id": 290,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Can you explain how he came to command the brigade?"
+      "text": "Can you explain how he came to command the brigade?",
+      "examination": "cross"
     },
     {
       "id": 291,
@@ -2154,10 +2269,11 @@
     },
     {
       "id": 292,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You said that you came to Dobrinja on the 18th of April because it was peaceful in Dobrinja. Can you explain why Mr. Ismet Hadzic walked around Dobrinja, trying to organise, as you said, these people?"
+      "text": "You said that you came to Dobrinja on the 18th of April because it was peaceful in Dobrinja. Can you explain why Mr. Ismet Hadzic walked around Dobrinja, trying to organise, as you said, these people?",
+      "examination": "cross"
     },
     {
       "id": 293,
@@ -2169,10 +2285,11 @@
     },
     {
       "id": 294,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Are you a member of a party?"
+      "text": "Are you a member of a party?",
+      "examination": "cross"
     },
     {
       "id": 295,
@@ -2184,10 +2301,11 @@
     },
     {
       "id": 296,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "When was that?"
+      "text": "When was that?",
+      "examination": "cross"
     },
     {
       "id": 297,
@@ -2199,10 +2317,11 @@
     },
     {
       "id": 298,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You said today that there was a barracks in Nedzarici and in Lukavica. Do you happen to know how many barracks existed in the city of Sarajevo?"
+      "text": "You said today that there was a barracks in Nedzarici and in Lukavica. Do you happen to know how many barracks existed in the city of Sarajevo?",
+      "examination": "cross"
     },
     {
       "id": 299,
@@ -2214,10 +2333,11 @@
     },
     {
       "id": 300,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "When the brigade was formed in Dobrinja, where was the brigade headquarters?"
+      "text": "When the brigade was formed in Dobrinja, where was the brigade headquarters?",
+      "examination": "cross"
     },
     {
       "id": 301,
@@ -2229,10 +2349,11 @@
     },
     {
       "id": 302,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Was this ground floor facility in a residential block or in a commercial building?"
+      "text": "Was this ground floor facility in a residential block or in a commercial building?",
+      "examination": "cross"
     },
     {
       "id": 303,
@@ -2244,10 +2365,11 @@
     },
     {
       "id": 304,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you happen to know how many soldiers the brigade numbered?"
+      "text": "Do you happen to know how many soldiers the brigade numbered?",
+      "examination": "cross"
     },
     {
       "id": 305,
@@ -2259,10 +2381,11 @@
     },
     {
       "id": 306,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Asked by my learned friend, you said that you remembered an incident that took place on Bajram. Would you tell us when that occurred?"
+      "text": "Asked by my learned friend, you said that you remembered an incident that took place on Bajram. Would you tell us when that occurred?",
+      "examination": "cross"
     },
     {
       "id": 307,
@@ -2274,10 +2397,11 @@
     },
     {
       "id": 308,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "When did you form the health institution at Dobrinja which later on became a hospital?"
+      "text": "When did you form the health institution at Dobrinja which later on became a hospital?",
+      "examination": "cross"
     },
     {
       "id": 309,
@@ -2289,10 +2413,11 @@
     },
     {
       "id": 310,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "And which part of Dobrinja was that in?"
+      "text": "And which part of Dobrinja was that in?",
+      "examination": "cross"
     },
     {
       "id": 311,
@@ -2304,10 +2429,11 @@
     },
     {
       "id": 312,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "In your hospital, did you treat people from Dobrinja 1, 3, 5 as well, and 4?"
+      "text": "In your hospital, did you treat people from Dobrinja 1, 3, 5 as well, and 4?",
+      "examination": "cross"
     },
     {
       "id": 313,
@@ -2319,10 +2445,11 @@
     },
     {
       "id": 314,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You told us that the brigade's headquarters were located on the ground floor of a building that was an apartment block and an office building. Do you happen to know the position of that brigade?"
+      "text": "You told us that the brigade's headquarters were located on the ground floor of a building that was an apartment block and an office building. Do you happen to know the position of that brigade?",
+      "examination": "cross"
     },
     {
       "id": 315,
@@ -2334,10 +2461,11 @@
     },
     {
       "id": 316,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "In June, when the incident occurred, according to you, you said that it was Dobrinja 3B."
+      "text": "In June, when the incident occurred, according to you, you said that it was Dobrinja 3B.",
+      "examination": "cross"
     },
     {
       "id": 317,
@@ -2349,10 +2477,11 @@
     },
     {
       "id": 318,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Did you take in those patients?"
+      "text": "Did you take in those patients?",
+      "examination": "cross"
     },
     {
       "id": 319,
@@ -2399,10 +2528,11 @@
     },
     {
       "id": 325,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Could you be more specific, sir. The hospital was set up in June of what year?"
+      "text": "Could you be more specific, sir. The hospital was set up in June of what year?",
+      "examination": "cross"
     },
     {
       "id": 326,
@@ -2414,10 +2544,11 @@
     },
     {
       "id": 327,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You're going to mix me up. You said June. Tell us which year."
+      "text": "You're going to mix me up. You said June. Tell us which year.",
+      "examination": "cross"
     },
     {
       "id": 328,
@@ -2429,10 +2560,11 @@
     },
     {
       "id": 329,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "And what year did the incident take place that was mentioned? And we were talking about the football match."
+      "text": "And what year did the incident take place that was mentioned? And we were talking about the football match.",
+      "examination": "cross"
     },
     {
       "id": 330,
@@ -2486,10 +2618,11 @@
     },
     {
       "id": 337,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, before the break, we were speaking about the incident that occurred in June 1993. Did you admit the patients who were injured at that match?"
+      "text": "Witness, before the break, we were speaking about the incident that occurred in June 1993. Did you admit the patients who were injured at that match?",
+      "examination": "cross"
     },
     {
       "id": 338,
@@ -2501,10 +2634,11 @@
     },
     {
       "id": 339,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "In your institution, did you keep a record of the admission of patients?"
+      "text": "In your institution, did you keep a record of the admission of patients?",
+      "examination": "cross"
     },
     {
       "id": 340,
@@ -2516,10 +2650,11 @@
     },
     {
       "id": 341,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "In what way?"
+      "text": "In what way?",
+      "examination": "cross"
     },
     {
       "id": 342,
@@ -2531,10 +2666,11 @@
     },
     {
       "id": 343,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Did you enter into this protocol the fact whether it was a civilian or a military man that was injured?"
+      "text": "Did you enter into this protocol the fact whether it was a civilian or a military man that was injured?",
+      "examination": "cross"
     },
     {
       "id": 344,
@@ -2546,10 +2682,11 @@
     },
     {
       "id": 345,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Does your institution have any such document?"
+      "text": "Does your institution have any such document?",
+      "examination": "cross"
     },
     {
       "id": 346,
@@ -2561,10 +2698,11 @@
     },
     {
       "id": 347,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "When I say \"document,\" I mean a protocol. In your institution, do you have this protocol that you kept for the period from the time you founded the hospital for as long as it was operational? And I'm specifically interested in the period up to August 1994. Is there a protocol in your institution?"
+      "text": "When I say \"document,\" I mean a protocol. In your institution, do you have this protocol that you kept for the period from the time you founded the hospital for as long as it was operational? And I'm specifically interested in the period up to August 1994. Is there a protocol in your institution?",
+      "examination": "cross"
     },
     {
       "id": 348,
@@ -2576,10 +2714,11 @@
     },
     {
       "id": 349,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Would you tell me, please: Would that be in the archives of the city of Sarajevo as part of the museum?"
+      "text": "Would you tell me, please: Would that be in the archives of the city of Sarajevo as part of the museum?",
+      "examination": "cross"
     },
     {
       "id": 350,
@@ -2591,10 +2730,11 @@
     },
     {
       "id": 351,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "When, on the 1st of June, when the incident occurred, you were admitting patients who, as you said, were injured during that football match, did you list them, and in what way? What entries did you make when admitting a patient? What entries in that protocol?"
+      "text": "When, on the 1st of June, when the incident occurred, you were admitting patients who, as you said, were injured during that football match, did you list them, and in what way? What entries did you make when admitting a patient? What entries in that protocol?",
+      "examination": "cross"
     },
     {
       "id": 352,
@@ -2606,10 +2746,11 @@
     },
     {
       "id": 353,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "In that document on admission, did you note down whether it was a civilian or a soldier?"
+      "text": "In that document on admission, did you note down whether it was a civilian or a soldier?",
+      "examination": "cross"
     },
     {
       "id": 354,
@@ -2621,10 +2762,11 @@
     },
     {
       "id": 355,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "When admitting patients on the 1st of June, you said you admitted roughly 140, and there were 13 or 14 persons killed. Did you note down for these people whether they were soldiers or civilians?"
+      "text": "When admitting patients on the 1st of June, you said you admitted roughly 140, and there were 13 or 14 persons killed. Did you note down for these people whether they were soldiers or civilians?",
+      "examination": "cross"
     },
     {
       "id": 356,
@@ -2741,10 +2883,11 @@
     },
     {
       "id": 372,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, could you please confirm or tell us whether this is a document from your institution and that in the right-hand corner you have a name and the word \"civilian.\""
+      "text": "Witness, could you please confirm or tell us whether this is a document from your institution and that in the right-hand corner you have a name and the word \"civilian.\"",
+      "examination": "cross"
     },
     {
       "id": 373,
@@ -2756,10 +2899,11 @@
     },
     {
       "id": 374,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "In the left-hand corner, it says State Hospital Dobrinja. There's a stamp."
+      "text": "In the left-hand corner, it says State Hospital Dobrinja. There's a stamp.",
+      "examination": "cross"
     },
     {
       "id": 375,
@@ -2806,10 +2950,11 @@
     },
     {
       "id": 381,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "On that date, the 1st of June, 1993, when the incident occurred at the football match, would you tell us, please, how far that facility is from the entrance to the tunnel."
+      "text": "On that date, the 1st of June, 1993, when the incident occurred at the football match, would you tell us, please, how far that facility is from the entrance to the tunnel.",
+      "examination": "cross"
     },
     {
       "id": 382,
@@ -2821,10 +2966,11 @@
     },
     {
       "id": 383,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You said that you had problems with people passing through the tunnel. Could you tell us why those people were using that tunnel?"
+      "text": "You said that you had problems with people passing through the tunnel. Could you tell us why those people were using that tunnel?",
+      "examination": "cross"
     },
     {
       "id": 384,
@@ -2836,10 +2982,11 @@
     },
     {
       "id": 385,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. Did you sometimes go to the entrance and exit of the tunnel?"
+      "text": "Thank you. Did you sometimes go to the entrance and exit of the tunnel?",
+      "examination": "cross"
     },
     {
       "id": 386,
@@ -2851,10 +2998,11 @@
     },
     {
       "id": 387,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Did anyone provide security of the tunnel?"
+      "text": "Did anyone provide security of the tunnel?",
+      "examination": "cross"
     },
     {
       "id": 388,
@@ -2866,10 +3014,11 @@
     },
     {
       "id": 389,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "When you say \"brigade,\" are you referring to the brigade of which the commander was Ismet Hadzic?"
+      "text": "When you say \"brigade,\" are you referring to the brigade of which the commander was Ismet Hadzic?",
+      "examination": "cross"
     },
     {
       "id": 390,
@@ -2881,10 +3030,11 @@
     },
     {
       "id": 391,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Since you've said that there was a brigade in the territory of Dobrinja as a military unit, did you find out, while treating patients who were admitted from this football match that was played in June, did you learn that there were members of that brigade at the football match?"
+      "text": "Since you've said that there was a brigade in the territory of Dobrinja as a military unit, did you find out, while treating patients who were admitted from this football match that was played in June, did you learn that there were members of that brigade at the football match?",
+      "examination": "cross"
     },
     {
       "id": 392,
@@ -2896,10 +3046,11 @@
     },
     {
       "id": 393,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "As you spoke to the brigade commander in connection with that event, as you yourself said, did the gentleman tell you that at that football match there were brigade members, soldiers from the brigade present?"
+      "text": "As you spoke to the brigade commander in connection with that event, as you yourself said, did the gentleman tell you that at that football match there were brigade members, soldiers from the brigade present?",
+      "examination": "cross"
     },
     {
       "id": 394,
@@ -2911,10 +3062,11 @@
     },
     {
       "id": 395,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "And the commander, after this event, did he come to visit patients in your institution?"
+      "text": "And the commander, after this event, did he come to visit patients in your institution?",
+      "examination": "cross"
     },
     {
       "id": 396,
@@ -2926,10 +3078,11 @@
     },
     {
       "id": 397,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know whether he was visiting his soldiers?"
+      "text": "Do you know whether he was visiting his soldiers?",
+      "examination": "cross"
     },
     {
       "id": 398,
@@ -2976,10 +3129,11 @@
     },
     {
       "id": 404,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Page 2 of that document, last paragraph."
+      "text": "Page 2 of that document, last paragraph.",
+      "examination": "cross"
     },
     {
       "id": 405,
@@ -3074,10 +3228,11 @@
     },
     {
       "id": 418,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "The combatants of the second motorised company --"
+      "text": "The combatants of the second motorised company --",
+      "examination": "cross"
     },
     {
       "id": 419,
@@ -3102,10 +3257,11 @@
     },
     {
       "id": 422,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "\"The combatants of the 2nd motorised company were wounded, MB 120/82 millimetres, Jamakovic Rasid, and Jasar Jasminko. Two mortar mines of 82 millimetres which fell on the parking where football was being played and where there were a large number of observers. Six soldiers were killed and 55 wounded. In this incident, five civilians were killed and 32 wounded. These figures are unofficial and detailed data about the events will be provided by the security organ.\" Signed by the commander, Ismet Hadzic. Sir, you told us that Mr. Ismet Hadzic, after that event, would come to the hospital."
+      "text": "\"The combatants of the 2nd motorised company were wounded, MB 120/82 millimetres, Jamakovic Rasid, and Jasar Jasminko. Two mortar mines of 82 millimetres which fell on the parking where football was being played and where there were a large number of observers. Six soldiers were killed and 55 wounded. In this incident, five civilians were killed and 32 wounded. These figures are unofficial and detailed data about the events will be provided by the security organ.\" Signed by the commander, Ismet Hadzic. Sir, you told us that Mr. Ismet Hadzic, after that event, would come to the hospital.",
+      "examination": "cross"
     },
     {
       "id": 423,
@@ -3117,10 +3273,11 @@
     },
     {
       "id": 424,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Would you allow for the possibility that the commander, Ismet Hadzic, was coming to visit the 55 wounded who were in your hospital?"
+      "text": "Would you allow for the possibility that the commander, Ismet Hadzic, was coming to visit the 55 wounded who were in your hospital?",
+      "examination": "cross"
     },
     {
       "id": 425,
@@ -3167,10 +3324,11 @@
     },
     {
       "id": 431,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, could you tell us how many wounded persons were admitted to your institution after the incident of June at the football stadium?"
+      "text": "Witness, could you tell us how many wounded persons were admitted to your institution after the incident of June at the football stadium?",
+      "examination": "cross"
     },
     {
       "id": 432,
@@ -3182,10 +3340,11 @@
     },
     {
       "id": 433,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know how many patients of those 140 who were injured remained in hospital for treatment?"
+      "text": "Do you know how many patients of those 140 who were injured remained in hospital for treatment?",
+      "examination": "cross"
     },
     {
       "id": 434,
@@ -3197,10 +3356,11 @@
     },
     {
       "id": 435,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you allow for the fact that of those 90 patients that were treated in your hospital included the 55 whom we enumerated which were read out in your statement?"
+      "text": "Do you allow for the fact that of those 90 patients that were treated in your hospital included the 55 whom we enumerated which were read out in your statement?",
+      "examination": "cross"
     },
     {
       "id": 436,
@@ -3269,10 +3429,11 @@
     },
     {
       "id": 445,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "You said it was 90."
+      "text": "You said it was 90.",
+      "examination": "cross"
     },
     {
       "id": 446,
@@ -3530,10 +3691,11 @@
     },
     {
       "id": 482,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "I should now like to ask the witness a few questions with respect to this document on the ELMO, and the first question is as follows: Is the protocol -- was the protocol of your hospital stored in the historical archive of Sarajevo, as you have said?"
+      "text": "I should now like to ask the witness a few questions with respect to this document on the ELMO, and the first question is as follows: Is the protocol -- was the protocol of your hospital stored in the historical archive of Sarajevo, as you have said?",
+      "examination": "cross"
     },
     {
       "id": 483,
@@ -3545,10 +3707,11 @@
     },
     {
       "id": 484,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "May we now see the second page of the document placed on the ELMO, please, the one that was on the screen a moment ago."
+      "text": "May we now see the second page of the document placed on the ELMO, please, the one that was on the screen a moment ago.",
+      "examination": "cross"
     },
     {
       "id": 485,
@@ -3566,10 +3729,11 @@
     },
     {
       "id": 487,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, in the upper left-hand corner, does it say the protocol number, surname, first name, and address? Is that what it says?"
+      "text": "Witness, in the upper left-hand corner, does it say the protocol number, surname, first name, and address? Is that what it says?",
+      "examination": "cross"
     },
     {
       "id": 488,
@@ -3581,10 +3745,11 @@
     },
     {
       "id": 489,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Once again, on the left-hand side, if you look at 911, number 911, does it state the surname and -- name and surname and diagnosis?"
+      "text": "Once again, on the left-hand side, if you look at 911, number 911, does it state the surname and -- name and surname and diagnosis?",
+      "examination": "cross"
     },
     {
       "id": 490,
@@ -3596,10 +3761,11 @@
     },
     {
       "id": 491,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "And does number 913 say Skopak Nenad [as interpreted], combatant or soldier."
+      "text": "And does number 913 say Skopak Nenad [as interpreted], combatant or soldier.",
+      "examination": "cross"
     },
     {
       "id": 492,
@@ -3611,10 +3777,11 @@
     },
     {
       "id": 493,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "918. Let's look at that number. Does it say under that number Sakalas Dzevad, combatant or soldier?"
+      "text": "918. Let's look at that number. Does it say under that number Sakalas Dzevad, combatant or soldier?",
+      "examination": "cross"
     },
     {
       "id": 494,
@@ -3626,10 +3793,11 @@
     },
     {
       "id": 495,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Number 921, Tomic Mladen, does it say soldier?"
+      "text": "Number 921, Tomic Mladen, does it say soldier?",
+      "examination": "cross"
     },
     {
       "id": 496,
@@ -3641,10 +3809,11 @@
     },
     {
       "id": 497,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "And number 922, does it say Lekic Izedin, soldier?"
+      "text": "And number 922, does it say Lekic Izedin, soldier?",
+      "examination": "cross"
     },
     {
       "id": 498,
@@ -3656,10 +3825,11 @@
     },
     {
       "id": 499,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Can you answer the following question: In your hospital protocol when patients were admitted, did you enter whether the person was a civilian or a soldier?"
+      "text": "Can you answer the following question: In your hospital protocol when patients were admitted, did you enter whether the person was a civilian or a soldier?",
+      "examination": "cross"
     },
     {
       "id": 500,
@@ -3671,10 +3841,11 @@
     },
     {
       "id": 501,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Your hospital protocols, were the originals stored in the archives?"
+      "text": "Your hospital protocols, were the originals stored in the archives?",
+      "examination": "cross"
     },
     {
       "id": 502,
@@ -3686,10 +3857,11 @@
     },
     {
       "id": 503,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell us how, in the document that you have before me, on the basis of your hospital protocol, entries were made in the way they were made for the patients that are listed here, that it says \"borac\" or soldier, combatant, or that the other distinction was civilian?"
+      "text": "Can you tell us how, in the document that you have before me, on the basis of your hospital protocol, entries were made in the way they were made for the patients that are listed here, that it says \"borac\" or soldier, combatant, or that the other distinction was civilian?",
+      "examination": "cross"
     },
     {
       "id": 504,
@@ -3701,10 +3873,11 @@
     },
     {
       "id": 505,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Well, we have an example of that other instance where it says \"civilian\" on another page, on another page of the document. We can show you that too. So could you answer the question, please: Who in your hospital wrote the protocol and made the entries into the protocol?"
+      "text": "Well, we have an example of that other instance where it says \"civilian\" on another page, on another page of the document. We can show you that too. So could you answer the question, please: Who in your hospital wrote the protocol and made the entries into the protocol?",
+      "examination": "cross"
     },
     {
       "id": 506,
@@ -3716,10 +3889,11 @@
     },
     {
       "id": 507,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "And who admitted the patients?"
+      "text": "And who admitted the patients?",
+      "examination": "cross"
     },
     {
       "id": 508,
@@ -3731,10 +3905,11 @@
     },
     {
       "id": 509,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "On the basis of what did he introduce these particulars, record these particulars?"
+      "text": "On the basis of what did he introduce these particulars, record these particulars?",
+      "examination": "cross"
     },
     {
       "id": 510,
@@ -3746,10 +3921,11 @@
     },
     {
       "id": 511,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "When you admit a patient, do you take the anamnesis, the case history?"
+      "text": "When you admit a patient, do you take the anamnesis, the case history?",
+      "examination": "cross"
     },
     {
       "id": 512,
@@ -3761,10 +3937,11 @@
     },
     {
       "id": 513,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "What do you write in the anamnesis?"
+      "text": "What do you write in the anamnesis?",
+      "examination": "cross"
     },
     {
       "id": 514,
@@ -3776,10 +3953,11 @@
     },
     {
       "id": 515,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "Do you say how the person was insured?"
+      "text": "Do you say how the person was insured?",
+      "examination": "cross"
     },
     {
       "id": 516,
@@ -3791,10 +3969,11 @@
     },
     {
       "id": 517,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "How were you able to be reimbursed for your services, the services rendered to patients?"
+      "text": "How were you able to be reimbursed for your services, the services rendered to patients?",
+      "examination": "cross"
     },
     {
       "id": 518,
@@ -3806,10 +3985,11 @@
     },
     {
       "id": 519,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. PILIPOVIC",
       "role": "counsel",
       "type": "question",
-      "text": "How can you explain that in these documents - and it is confirmed that they come from your protocols - that entries were made as to civilian or soldier?"
+      "text": "How can you explain that in these documents - and it is confirmed that they come from your protocols - that entries were made as to civilian or soldier?",
+      "examination": "cross"
     },
     {
       "id": 520,
@@ -3908,7 +4088,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you very much. That means that we've still -- any questions by my colleagues? Any questions? Questioned by the Court"
+      "text": "Thank you very much. That means that we've still -- any questions by my colleagues? Any questions?"
     },
     {
       "id": 534,
@@ -4219,14 +4399,15 @@
       "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "statement",
-      "text": "Thank you very much, Mr. President Examined by Mr. Stamp:"
+      "text": "Thank you very much, Mr. President"
     },
     {
       "id": 578,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Could you please state your name."
+      "text": "Could you please state your name.",
+      "examination": "direct"
     },
     {
       "id": 579,
@@ -4238,10 +4419,11 @@
     },
     {
       "id": 580,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "And what is your present job?"
+      "text": "And what is your present job?",
+      "examination": "direct"
     },
     {
       "id": 581,
@@ -4253,10 +4435,11 @@
     },
     {
       "id": 582,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "That is the Bakije Funeral Home in Sarajevo?"
+      "text": "That is the Bakije Funeral Home in Sarajevo?",
+      "examination": "direct"
     },
     {
       "id": 583,
@@ -4268,10 +4451,11 @@
     },
     {
       "id": 584,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "What's the name of the company?"
+      "text": "What's the name of the company?",
+      "examination": "direct"
     },
     {
       "id": 585,
@@ -4311,10 +4495,11 @@
     },
     {
       "id": 590,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "You live in Sarajevo?"
+      "text": "You live in Sarajevo?",
+      "examination": "direct"
     },
     {
       "id": 591,
@@ -4326,10 +4511,11 @@
     },
     {
       "id": 592,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Now, how long have you been the director of that funeral home?"
+      "text": "Now, how long have you been the director of that funeral home?",
+      "examination": "direct"
     },
     {
       "id": 593,
@@ -4341,10 +4527,11 @@
     },
     {
       "id": 594,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "And were you the director of a funeral home during the war in the early 1990s, in particular between September 1992 to August 1994?"
+      "text": "And were you the director of a funeral home during the war in the early 1990s, in particular between September 1992 to August 1994?",
+      "examination": "direct"
     },
     {
       "id": 595,
@@ -4356,10 +4543,11 @@
     },
     {
       "id": 596,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "And did you work at that funeral parlour before you became director?"
+      "text": "And did you work at that funeral parlour before you became director?",
+      "examination": "direct"
     },
     {
       "id": 597,
@@ -4371,10 +4559,11 @@
     },
     {
       "id": 598,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Now, could you tell us briefly, in a sentence or two, what were your responsibilities as director of a funeral parlour?"
+      "text": "Now, could you tell us briefly, in a sentence or two, what were your responsibilities as director of a funeral parlour?",
+      "examination": "direct"
     },
     {
       "id": 599,
@@ -4386,10 +4575,11 @@
     },
     {
       "id": 600,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Yes."
+      "text": "Yes.",
+      "examination": "direct"
     },
     {
       "id": 601,
@@ -4401,10 +4591,11 @@
     },
     {
       "id": 602,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "And as director, you were responsible for organising the work of the funeral parlour?"
+      "text": "And as director, you were responsible for organising the work of the funeral parlour?",
+      "examination": "direct"
     },
     {
       "id": 603,
@@ -4416,10 +4607,11 @@
     },
     {
       "id": 604,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Now, during the war, particularly between September 1992 to August 1994, about how many employees did you have at the funeral parlour?"
+      "text": "Now, during the war, particularly between September 1992 to August 1994, about how many employees did you have at the funeral parlour?",
+      "examination": "direct"
     },
     {
       "id": 605,
@@ -4431,10 +4623,11 @@
     },
     {
       "id": 606,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "And did you operate vehicles?"
+      "text": "And did you operate vehicles?",
+      "examination": "direct"
     },
     {
       "id": 607,
@@ -4446,10 +4639,11 @@
     },
     {
       "id": 608,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "And you used the vehicles to transport the bodies from one place to another?"
+      "text": "And you used the vehicles to transport the bodies from one place to another?",
+      "examination": "direct"
     },
     {
       "id": 609,
@@ -4461,10 +4655,11 @@
     },
     {
       "id": 610,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Where in Sarajevo was the funeral parlour situated at?"
+      "text": "Where in Sarajevo was the funeral parlour situated at?",
+      "examination": "direct"
     },
     {
       "id": 611,
@@ -4476,10 +4671,11 @@
     },
     {
       "id": 612,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Now, in the course of the war, particularly the period I mentioned, September 1992 to August 1994, were any of your vehicles ever fired upon?"
+      "text": "Now, in the course of the war, particularly the period I mentioned, September 1992 to August 1994, were any of your vehicles ever fired upon?",
+      "examination": "direct"
     },
     {
       "id": 613,
@@ -4491,10 +4687,11 @@
     },
     {
       "id": 614,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Were any ever hit by fire?"
+      "text": "Were any ever hit by fire?",
+      "examination": "direct"
     },
     {
       "id": 615,
@@ -4506,10 +4703,11 @@
     },
     {
       "id": 616,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Now, were your vehicles marked in any particular way which may identify them --"
+      "text": "Now, were your vehicles marked in any particular way which may identify them --",
+      "examination": "direct"
     },
     {
       "id": 617,
@@ -4521,10 +4719,11 @@
     },
     {
       "id": 618,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "You said the sign wasn't visible from where?"
+      "text": "You said the sign wasn't visible from where?",
+      "examination": "direct"
     },
     {
       "id": 619,
@@ -4536,10 +4735,11 @@
     },
     {
       "id": 620,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you said at one time you had a Red Cross flag but it wasn't much use. Why did you take it off?"
+      "text": "Now, you said at one time you had a Red Cross flag but it wasn't much use. Why did you take it off?",
+      "examination": "direct"
     },
     {
       "id": 621,
@@ -4551,10 +4751,11 @@
     },
     {
       "id": 622,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Yes. And you told me earlier that it was not of much use and that you took it off. Could you say why you took it off?"
+      "text": "Yes. And you told me earlier that it was not of much use and that you took it off. Could you say why you took it off?",
+      "examination": "direct"
     },
     {
       "id": 623,
@@ -4566,10 +4767,11 @@
     },
     {
       "id": 624,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Was the Red Cross flag ever shot at?"
+      "text": "Was the Red Cross flag ever shot at?",
+      "examination": "direct"
     },
     {
       "id": 625,
@@ -4581,10 +4783,11 @@
     },
     {
       "id": 626,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Now, did your funeral home at -- and I'm going to try to pronounce it - at Bascarsija -- one moment please."
+      "text": "Now, did your funeral home at -- and I'm going to try to pronounce it - at Bascarsija -- one moment please.",
+      "examination": "direct"
     },
     {
       "id": 627,
@@ -4638,10 +4841,11 @@
     },
     {
       "id": 634,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Was the Red Cross flag which you carried on your vehicles ever shot at?"
+      "text": "Was the Red Cross flag which you carried on your vehicles ever shot at?",
+      "examination": "direct"
     },
     {
       "id": 635,
@@ -4653,10 +4857,11 @@
     },
     {
       "id": 636,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Your funeral home, you said, was in Bascarsija?"
+      "text": "Your funeral home, you said, was in Bascarsija?",
+      "examination": "direct"
     },
     {
       "id": 637,
@@ -4668,10 +4873,11 @@
     },
     {
       "id": 638,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Was that funeral home ever hit by shells during the war?"
+      "text": "Was that funeral home ever hit by shells during the war?",
+      "examination": "direct"
     },
     {
       "id": 639,
@@ -4683,10 +4889,11 @@
     },
     {
       "id": 640,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "How about the area immediately surrounding the funeral home? Was that ever hit by shelling?"
+      "text": "How about the area immediately surrounding the funeral home? Was that ever hit by shelling?",
+      "examination": "direct"
     },
     {
       "id": 641,
@@ -4698,10 +4905,11 @@
     },
     {
       "id": 642,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Now, were there any military installations or facilities at your funeral home?"
+      "text": "Now, were there any military installations or facilities at your funeral home?",
+      "examination": "direct"
     },
     {
       "id": 643,
@@ -4713,10 +4921,11 @@
     },
     {
       "id": 644,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Were there any military --"
+      "text": "Were there any military --",
+      "examination": "direct"
     },
     {
       "id": 645,
@@ -4728,10 +4937,11 @@
     },
     {
       "id": 646,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Were there any military installations or facilities in the immediate vicinity of your funeral home?"
+      "text": "Were there any military installations or facilities in the immediate vicinity of your funeral home?",
+      "examination": "direct"
     },
     {
       "id": 647,
@@ -4743,10 +4953,11 @@
     },
     {
       "id": 648,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. STAMP",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you."
+      "text": "Thank you.",
+      "examination": "direct"
     },
     {
       "id": 649,
@@ -4811,6 +5022,22 @@
       "text": "[Witness answered through interpreter]"
     },
     {
+      "after_utterance": 7,
+      "text": "Cross-examined by Ms. Pilipovic: [Continued]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "cross-examination by the Defence.  We should like now to tender document"
+    },
+    {
+      "after_utterance": 40,
+      "text": "Re-examined by Mr. Stamp:"
+    },
+    {
+      "after_utterance": 51,
+      "text": "Questioned by the Court"
+    },
+    {
       "after_utterance": 60,
       "text": "[The witness withdrew]"
     },
@@ -4827,8 +5054,16 @@
       "text": "[Witness answered through interpreter]"
     },
     {
+      "after_utterance": 77,
+      "text": "Examined by Mr. Blaxill:"
+    },
+    {
       "after_utterance": 185,
       "text": "[Prosecution counsel confer]"
+    },
+    {
+      "after_utterance": 211,
+      "text": "Cross-examined by Ms. Pilipovic:"
     },
     {
       "after_utterance": 332,
@@ -4841,6 +5076,10 @@
     {
       "after_utterance": 522,
       "text": "[Trial Chamber and registrar confer]"
+    },
+    {
+      "after_utterance": 533,
+      "text": "Questioned by the Court"
     },
     {
       "after_utterance": 542,
@@ -4861,6 +5100,10 @@
     {
       "after_utterance": 574,
       "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 577,
+      "text": "Examined by Mr. Stamp:"
     },
     {
       "after_utterance": 633,

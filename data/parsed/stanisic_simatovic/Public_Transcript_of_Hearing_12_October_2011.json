@@ -1,6 +1,6 @@
 {
   "case": "stanisic_simatovic",
-  "case_id": "IT-03-69-T",
+  "case_id": "IT-03-69",
   "date": "2011-10-12",
   "utterances": [
     {
@@ -2945,15 +2945,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "One question. Mr. Lekovic, carefully listen to the one question Ms. Marcus is going to put to you. Further Cross-examination by Ms. Marcus:"
+      "text": "One question. Mr. Lekovic, carefully listen to the one question Ms. Marcus is going to put to you."
     },
     {
       "id": 398,
-      "speaker": "MR. JORDASH",
+      "speaker": "MS. MARCUS",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Lekovic, isn't it a fact that you were the one who said that the commission had not finished its work and that Bogdanovic disagreed with you?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 399,
@@ -3000,11 +3000,11 @@
     },
     {
       "id": 405,
-      "speaker": "MR. JORDASH",
+      "speaker": "MS. MARCUS",
       "role": "counsel",
       "type": "question",
       "text": "Please, Mr, Lekovic, look at that document in front of you, that's D289 MFI, the document just quoted to you by Mr. Jordash. I'm looking at page 3 in English, the top paragraph. That would be the bottom of page 2 for you in the Serbian version. It says, and I quote -- and this is you. You wrote this document, so it's you I'm quoting: \"To these --\" Quote: \"To these proposals, I responded by saying that bearing in mind that he no longer held the position of minister, that he does not call together the commission, it would be most logical if he were to write his assessment and positions concerning the report he received from the commission in which he would have to conclude, in addition to other matters, that the commission had not completed its work, that the report was rather general and incomplete, and that the commission had not put in enough effort to be able to specify in the report the elements that indicate that information representing an official or state secret is leaking out of the service.\" Now I'd like to turn to page 4 in English, the first full paragraph there, corresponding did --",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 406,
@@ -3169,11 +3169,11 @@
     },
     {
       "id": 429,
-      "speaker": "MR. JORDASH",
+      "speaker": "MS. MARCUS",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Witness, Mr. Lekovic, at the bottom of page 2 in English, that's the paragraph which I hadn't read before, the very first line states -- sorry, that is the third -- the - one, two, three - fifth paragraph for you on page 2 of the Serbian version. You were asked by Bogdanovic to convene the commission to complete the work started. To that, you say: \"I told --\" Quote: \"I told him that there was no point in convening the commission because this job cannot be finished on the basis of the report provided by the commission.\" Isn't it the case that you were suggesting to Bogdanovic that in your view the work of the commission should continue and that Bogdanovic was saying he wanted to convene the commission in order to conclude its work?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 430,
@@ -3188,7 +3188,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you, Ms. Marcus. Mr. Lekovic, Judge Picard has one question for you. Questioned by the Court:"
+      "text": "Thank you, Ms. Marcus. Mr. Lekovic, Judge Picard has one question for you."
     },
     {
       "id": 432,
@@ -4294,6 +4294,14 @@
     {
       "after_utterance": 295,
       "text": "Re-examination by Mr. Jordash:"
+    },
+    {
+      "after_utterance": 397,
+      "text": "Further Cross-examination by Ms. Marcus:"
+    },
+    {
+      "after_utterance": 431,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 449,

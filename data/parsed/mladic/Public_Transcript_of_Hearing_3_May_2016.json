@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2016-05-03",
   "utterances": [
     {
@@ -3523,15 +3523,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Please, Mr. File, I just wanted to know whether it was there. Please proceed. Further Cross-examination by Mr. File:"
+      "text": "Please, Mr. File, I just wanted to know whether it was there. Please proceed."
     },
     {
       "id": 479,
-      "speaker": "MR. IVETIC",
+      "speaker": "MR. FILE",
       "role": "counsel",
       "type": "question",
       "text": "Just three final questions. When you were talking about what was provided or not provided, regarding the 2009 ICRC list, You were aware, retire, that the 2009 list contains the information from the 2005 list as well; right? The 2009 list is an update?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 480,
@@ -3584,11 +3584,11 @@
     },
     {
       "id": 487,
-      "speaker": "MR. IVETIC",
+      "speaker": "MR. FILE",
       "role": "counsel",
       "type": "question",
       "text": "When you testified that -- when you testified -- pardon me. You said at temporary transcript, page 80: \"Well, if there's no log, how did she perform the matching? So that means that she can perform the matching in any way she wants. She has to show us the criteria.\" Do you consider the criteria for matching and the log to be the same thing?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 488,
@@ -3600,11 +3600,11 @@
     },
     {
       "id": 489,
-      "speaker": "MR. IVETIC",
+      "speaker": "MR. FILE",
       "role": "counsel",
       "type": "question",
       "text": "So you've never heard of a log where every decision that's made on a particular match is written down, recorded, sometimes thousands of times. You don't consider that to be a log or you're not aware of that?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 490,
@@ -3629,11 +3629,11 @@
     },
     {
       "id": 493,
-      "speaker": "MR. IVETIC",
+      "speaker": "MR. FILE",
       "role": "counsel",
       "type": "question",
       "text": "My final question is related to your comment at transcript page 77, line 3, you say: \"If Dr. Tabeau never quotes anything anywhere, then I don't know why I am requested to quote textbooks and I'm in discussion with a demographer who knows a lot about this.\" Just to clarify your comment there, are you saying that Dr. Tabeau never quotes any scholarly sources or any professional or academic articles in her reports?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 494,
@@ -4034,6 +4034,10 @@
     {
       "after_utterance": 458,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 478,
+      "text": "Further Cross-examination by Mr. File:"
     },
     {
       "after_utterance": 485,

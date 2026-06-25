@@ -1,6 +1,6 @@
 {
   "case": "zupljanin_stanisicm",
-  "case_id": "IT-08-91-T",
+  "case_id": "IT-08-91",
   "date": "2010-05-05",
   "utterances": [
     {
@@ -157,11 +157,18 @@
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
-      "text": "And then Judge Orie went: \"Ages?\" And you said: \"That was a long time ago. It's difficult for me to remember. But I do know that they had come from the Dobrinja neighbourhood, that they had been frightened, and that they wanted to leave that area.\" Judge Orie said: \"Yes. Were they exchanged?\" And you said: \"No, Your Honours. On my own initiative, and with the approval of Mico Stanisic and Tepavcevic, who were the heads of police, took those people to the Vrbanja Most.\"",
+      "text": "And then Judge Orie went: \"Ages?\" And you said: \"That was a long time ago. It's difficult for me to remember. But I do know that they had come from the Dobrinja neighbourhood, that they had been frightened, and that they wanted to leave that area.\"",
       "examination": "direct"
     },
     {
       "id": 23,
+      "speaker": "JUDGE ORIE SAID",
+      "role": "judge",
+      "type": "statement",
+      "text": "\"Yes. Were they exchanged?\" And you said: \"No, Your Honours. On my own initiative, and with the approval of Mico Stanisic and Tepavcevic, who were the heads of police, took those people to the Vrbanja Most.\""
+    },
+    {
+      "id": 24,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
@@ -169,7 +176,7 @@
       "reply_to": 22
     },
     {
-      "id": 24,
+      "id": 25,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
@@ -177,15 +184,15 @@
       "examination": "direct"
     },
     {
-      "id": 25,
+      "id": 26,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Just one minute. We spoke yesterday about the 400 people who had had come from Hadzici. It's probably a different group of people, not the one from Dobrinje neighbourhood. There may have been a mix between these two groups.",
-      "reply_to": 24
+      "reply_to": 25
     },
     {
-      "id": 26,
+      "id": 27,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
@@ -193,15 +200,15 @@
       "examination": "direct"
     },
     {
-      "id": 27,
+      "id": 28,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "You are talking about yesterday?",
-      "reply_to": 26
+      "reply_to": 27
     },
     {
-      "id": 28,
+      "id": 29,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
@@ -209,15 +216,15 @@
       "examination": "direct"
     },
     {
-      "id": 29,
+      "id": 30,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No, no, no, I was just a little bit nervous and I was just signing my name on the piece of paper.",
-      "reply_to": 28
+      "reply_to": 29
     },
     {
-      "id": 30,
+      "id": 31,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
@@ -225,15 +232,15 @@
       "examination": "direct"
     },
     {
-      "id": 31,
+      "id": 32,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No, Madam Prosecutor. This order was part of my case when I was being tried in the Bosnia-Herzegovina court. I remember clearly about that when I presented my own defence. What I did yesterday was just writing down my signature. I was not taking any notes. And I can say that I know this order of Mr. Subotic by heart because it was crucial to my trial.",
-      "reply_to": 30
+      "reply_to": 31
     },
     {
-      "id": 32,
+      "id": 33,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
@@ -241,21 +248,21 @@
       "examination": "direct"
     },
     {
-      "id": 33,
+      "id": 34,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Could we have a look at that order. Document P189, please. Which is tab 67 in our binder."
     },
     {
-      "id": 34,
+      "id": 35,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes, yes, that's the one."
     },
     {
-      "id": 35,
+      "id": 36,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
@@ -263,14 +270,14 @@
       "examination": "direct"
     },
     {
-      "id": 36,
+      "id": 37,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "And can we go to the second page, please, in the English. And the third page -- sorry, fourth page in B/C/S."
     },
     {
-      "id": 37,
+      "id": 38,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
@@ -278,14 +285,14 @@
       "examination": "direct"
     },
     {
-      "id": 38,
+      "id": 39,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Now, can we go back to the first page, please, in each. Thank you."
     },
     {
-      "id": 39,
+      "id": 40,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
@@ -293,15 +300,15 @@
       "examination": "direct"
     },
     {
-      "id": 40,
+      "id": 41,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Correct.",
-      "reply_to": 39
+      "reply_to": 40
     },
     {
-      "id": 41,
+      "id": 42,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
@@ -309,15 +316,15 @@
       "examination": "direct"
     },
     {
-      "id": 42,
+      "id": 43,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "This entire instruction relates to the army. The minister of defence is now instructing the army how to treat the captives. Captives involved both military personnel and civilians who are captured. It is true that he is giving instructions to military officers how to use the captured persons for performing the work outside the camp. So this refers exclusively to the army, not to the police or the Ministry of Justice relating to exploitation, release, and capture. So there's no categorisation here whatsoever, whether there were civilians or military personnel, he is just talking about captives here. And this is the minister of defence. He is giving instructions to the army. He is not authorised to give any instructions to the police or anybody else.",
-      "reply_to": 41
+      "reply_to": 42
     },
     {
-      "id": 43,
+      "id": 44,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "question",
@@ -325,43 +332,43 @@
       "examination": "direct"
     },
     {
-      "id": 44,
+      "id": 45,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "That's right.",
-      "reply_to": 43
+      "reply_to": 44
     },
     {
-      "id": 45,
+      "id": 46,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Yes. Thank you very much, Mr. Mandic. That's all that I ask."
     },
     {
-      "id": 46,
+      "id": 47,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Thank you, Madam Prosecutor."
     },
     {
-      "id": 47,
+      "id": 48,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Zecevic."
     },
     {
-      "id": 48,
+      "id": 49,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 49,
+      "id": 50,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -369,15 +376,15 @@
       "examination": "cross"
     },
     {
-      "id": 50,
+      "id": 51,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Good morning. Good luck to you.",
-      "reply_to": 49
+      "reply_to": 50
     },
     {
-      "id": 51,
+      "id": 52,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -385,15 +392,15 @@
       "examination": "cross"
     },
     {
-      "id": 52,
+      "id": 53,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do.",
-      "reply_to": 51
+      "reply_to": 52
     },
     {
-      "id": 53,
+      "id": 54,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -401,15 +408,15 @@
       "examination": "cross"
     },
     {
-      "id": 54,
+      "id": 55,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 53
+      "reply_to": 54
     },
     {
-      "id": 55,
+      "id": 56,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -417,42 +424,42 @@
       "examination": "cross"
     },
     {
-      "id": 56,
+      "id": 57,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Could the counsel please repeat again the page and the line."
     },
     {
-      "id": 57,
+      "id": 58,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Zecevic and Mr. Mandic, I understand that a part of the problem has been that the witness, Mr. Mandic, in his examination-in-chief had been speaking a little too quickly for the interpreters and, of course, Mr. Mandic, you, I would remind you and Mr. Zecevic that inasmuch as you speak the same language, it is especially necessary in cross-examination for both of you to slow down and to allow that interval between the question and the answer."
     },
     {
-      "id": 58,
+      "id": 59,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "I understand, Your Honours."
     },
     {
-      "id": 59,
+      "id": 60,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "The interpreters said they didn't hear the page number."
     },
     {
-      "id": 60,
+      "id": 61,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] I'll repeat."
     },
     {
-      "id": 61,
+      "id": 62,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -460,15 +467,15 @@
       "examination": "cross"
     },
     {
-      "id": 62,
+      "id": 63,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "The figure of 10.000 people was mentioned in my testimony in the Krajisnik case when a letter was shown to me written by Ljubica Vladosic and Dragan Bulajic who requested assistance and food for KPD Butmir. In that letter, it is said that about 10.000 people had been processed at that KPD. Then I accepted that number, that 10.000 people had been processed there, but not as prisoners or captives, but, rather, as persons who were exchanged there, because that was the place where the state commission of both the Serbian entity and the Muslim entity exchanged people. That was a place where people sought shelter from combat activities in the immediate vicinity, and that's the Dobrinje neighbourhood where there's the Sarajevo airport. And the third reason for this large throughput of people was that on the premises of the pre-war prison, there was a large chicken farm where people came and got food to survive, because there was a shortage of food. And I said that in that context. I didn't mean people who were taken prisoner. And that's what I repeated on Monday, and I said as much in the Krajisnik case.",
-      "reply_to": 61
+      "reply_to": 62
     },
     {
-      "id": 63,
+      "id": 64,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -476,15 +483,15 @@
       "examination": "cross"
     },
     {
-      "id": 64,
+      "id": 65,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Both the Prosecutor and I agreed that this is possibly a mistake, the only mistake. Why? Because, under the laws in force then about criminal procedure, in former Yugoslavia there was the rule that the police can detain a person up to 72 hours, which means up to three days. This was obviously a mistake. But another observation of mine about a mistake. Yesterday at a certain moment the Prosecutor showed us the proposal for the police to extend a detention for up to 21 days, but that probably was not adopted. So if the duration of detention was up to 30 days, it's not logical for them to propose an extension for up to 21 days because one excludes the other.",
-      "reply_to": 63
+      "reply_to": 64
     },
     {
-      "id": 65,
+      "id": 66,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -492,15 +499,15 @@
       "examination": "cross"
     },
     {
-      "id": 66,
+      "id": 67,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that is correct.",
-      "reply_to": 65
+      "reply_to": 66
     },
     {
-      "id": 67,
+      "id": 68,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -508,15 +515,15 @@
       "examination": "cross"
     },
     {
-      "id": 68,
+      "id": 69,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that is correct. And I explained to the Trial Chamber what happened. We don't need to repeat that. I also said the same to the Prosecutor during the proofing.",
-      "reply_to": 67
+      "reply_to": 68
     },
     {
-      "id": 69,
+      "id": 70,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -524,43 +531,43 @@
       "examination": "cross"
     },
     {
-      "id": 70,
+      "id": 71,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. And they are the true reasons, the real reasons.",
-      "reply_to": 69
+      "reply_to": 70
     },
     {
-      "id": 71,
+      "id": 72,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Well, if you are going to put the proofing note to him, then you should put the full thing that he said."
     },
     {
-      "id": 72,
+      "id": 73,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "I'm not going to put to the witness the proofing note."
     },
     {
-      "id": 73,
+      "id": 74,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, but you've just said: \"... in the proofing note that you made before testimony ... you stated the identical reasons.\" He gave extra reasons, Mr. Zecevic."
     },
     {
-      "id": 74,
+      "id": 75,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 75,
+      "id": 76,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -568,77 +575,77 @@
       "examination": "cross"
     },
     {
-      "id": 76,
+      "id": 77,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] I don't know, Your Honours, if this document is in e-court. If so, we can show it on the screens."
     },
     {
-      "id": 77,
+      "id": 78,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "I wouldn't have thought so, Your Honours. Sorry, I wouldn't have thought so, Your Honour, because a proofing note is a summary of what the witness said. It's not a word-for-word record of the conversation. So, I mean, as such, I don't know that it's ever become -- it shouldn't be part of evidence."
     },
     {
-      "id": 78,
+      "id": 79,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Can we put it on the ELMO."
     },
     {
-      "id": 79,
+      "id": 80,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "We can put it on -- on Sanction, Your Honours. Your Honours should have had a copy. It was sent to the Legal Officers."
     },
     {
-      "id": 80,
+      "id": 81,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Your Honours, for the very reason that Ms. Korner has mentioned, this being a summary of the witness's statement and the summary was made by an investigator and someone from the OTP is why I didn't want to read it out. But Ms. Korner insisted that the proofing note be read. Now, I expect instructions from the Bench with regard what I should do."
     },
     {
-      "id": 81,
+      "id": 82,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, can I just say, at the beginning of the proofing note it relates to the matter that you had -- that Mr. Mandic raised but which was in private session. So it should probably not be displayed to the general public at the moment."
     },
     {
-      "id": 82,
+      "id": 83,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "While you're on your feet, Ms. Korner, did I understand you to be, as Mr. Zecevic understands your position, that the proofing note, the entire proofing note, should be read? I didn't understand that to be your position."
     },
     {
-      "id": 83,
+      "id": 84,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "No, no. No, no. Mr. Zecevic said to him, In the proofing note you gave exactly the same reasons for why you had changed your testimony. I said he gave additional reasons. And that the only -- it's the additional reason that he gave that should be put to him. If that's what -- I mean, the assertion that Mr. Zecevic made is just slightly inaccurate, that's all. That's all I was saying."
     },
     {
-      "id": 84,
+      "id": 85,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "So, Mr. Zecevic, it seems that it would be sufficient for you to put the relevant passage in the proofing note to set the context for the contradiction you are suggesting the witness has made. That will be sufficient."
     },
     {
-      "id": 85,
+      "id": 86,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "I understand, Your Honours, and I will read the passage of the proofing note."
     },
     {
-      "id": 86,
+      "id": 87,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -646,15 +653,15 @@
       "examination": "cross"
     },
     {
-      "id": 87,
+      "id": 88,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yesterday when I started giving evidence, I clearly explained my mistake, the mistake I made involving the names of the people who had co-operated with me with regard to the dispatch. I didn't want anybody to suffer harm due to my mistake. I mentioned these four children, but -- because I didn't want to wrong the man, because he had nothing to do with the dispatch. And I explained as much on Monday.",
-      "reply_to": 86
+      "reply_to": 87
     },
     {
-      "id": 88,
+      "id": 89,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -662,15 +669,15 @@
       "examination": "cross"
     },
     {
-      "id": 89,
+      "id": 90,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, and that is true.",
-      "reply_to": 88
+      "reply_to": 89
     },
     {
-      "id": 90,
+      "id": 91,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -678,56 +685,56 @@
       "examination": "cross"
     },
     {
-      "id": 91,
+      "id": 92,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] If we can see it on our screens, please, in e-court."
     },
     {
-      "id": 92,
+      "id": 93,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Tab number?"
     },
     {
-      "id": 93,
+      "id": 94,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "I am sorry, I don't have a tab number for this one."
     },
     {
-      "id": 94,
+      "id": 95,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I can see it on the screen."
     },
     {
-      "id": 95,
+      "id": 96,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "207. Ms. Korner, tab 207."
     },
     {
-      "id": 96,
+      "id": 97,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 97,
+      "id": 98,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 98,
+      "id": 99,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -735,15 +742,15 @@
       "examination": "cross"
     },
     {
-      "id": 99,
+      "id": 100,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Correct.",
-      "reply_to": 98
+      "reply_to": 99
     },
     {
-      "id": 100,
+      "id": 101,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -751,15 +758,15 @@
       "examination": "cross"
     },
     {
-      "id": 101,
+      "id": 102,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I believe I explained that.",
-      "reply_to": 100
+      "reply_to": 101
     },
     {
-      "id": 102,
+      "id": 103,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -767,15 +774,15 @@
       "examination": "cross"
     },
     {
-      "id": 103,
+      "id": 104,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, exactly.",
-      "reply_to": 102
+      "reply_to": 103
     },
     {
-      "id": 104,
+      "id": 105,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -783,15 +790,15 @@
       "examination": "cross"
     },
     {
-      "id": 105,
+      "id": 106,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 104
+      "reply_to": 105
     },
     {
-      "id": 106,
+      "id": 107,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -799,15 +806,15 @@
       "examination": "cross"
     },
     {
-      "id": 107,
+      "id": 108,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No, it was published in the Official Gazette, a publication in the public domain. And it says that it would be published in the Official Gazette of the Serbian people of Bosnia-Herzegovina. It's line four.",
-      "reply_to": 106
+      "reply_to": 107
     },
     {
-      "id": 108,
+      "id": 109,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -815,15 +822,15 @@
       "examination": "cross"
     },
     {
-      "id": 109,
+      "id": 110,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Until April 1992 when he resigned to that post, and he was the highest ranking official of Serb ethnicity in the Ministry of the Interior.",
-      "reply_to": 108
+      "reply_to": 109
     },
     {
-      "id": 110,
+      "id": 111,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -831,15 +838,15 @@
       "examination": "cross"
     },
     {
-      "id": 111,
+      "id": 112,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, deputy minister of the joint MUP. And until then he was the highest ranking official of Serb ethnicity in the joint MUP.",
-      "reply_to": 110
+      "reply_to": 111
     },
     {
-      "id": 112,
+      "id": 113,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -847,15 +854,15 @@
       "examination": "cross"
     },
     {
-      "id": 113,
+      "id": 114,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, the address where the car was found and the address where those offices were registered in the name of his wife, Milosava. Shall I give you these addresses again? The offices were in Lenin Street 67, next to the Bosko Buha Kindergarten. It was over 100 square metres. And the car, Mazda 626, was found by the police, the chief of which was Tomo Kovac, at an address in Kasindol. And we didn't find the money.",
-      "reply_to": 112
+      "reply_to": 113
     },
     {
-      "id": 114,
+      "id": 115,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -863,15 +870,15 @@
       "examination": "cross"
     },
     {
-      "id": 115,
+      "id": 116,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, and I can explain.",
-      "reply_to": 114
+      "reply_to": 115
     },
     {
-      "id": 116,
+      "id": 117,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -879,15 +886,15 @@
       "examination": "cross"
     },
     {
-      "id": 117,
+      "id": 118,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I said at the beginning to the Trial Chamber when I was explaining the treatment that I had received when attempting to enter the European Union on this occasion. In 1993 I was black-listed, that is, entry was forbidden to me into the United States and the European Union on the grounds that I was suspected of helping the hiding of Dr. Radovan Karadzic and helping to finance it. I had been detained in Serbia on those suspicions, and Serbia has not apologised to me to this day. And I was also tried before a court in Bosnia and Herzegovina. In this trial, a final decision, a final judgement, acquitted me of those charges. In the same trial, I was, however, convicted of abuse of authority. And Your Honours know that this crime does not exist in democratic societies. It's only when there's nothing else to pin on the person that this crime is claimed. And I was convicted because I gave loans as director of a bank to certain companies that were suspected of helping the hiding of Radovan Karadzic and they failed to return these loans. I was convicted on the basis of false testimony by an American citizen, Tony Robinson -- or Toby Robinson. Later on, it was established that these loans were non-existent. In fact, these loans and the money are my property. And when I was there before the court, I asked, To whom I should pay damages. They said, The owner of Privredna Banka. And when I said that I am the owner of Privredna Banka so I had no one to pay damages to, they had no answer. Therefore, I had been detained solely on the grounds of suspicions that were never proven, and that is my grudge. And the director of the IMF and the World Bank for Development and Reconstruction would have to be in prison for millions of years if they were convicted for writing off loans to countries that are obviously unable to repay them.",
-      "reply_to": 116
+      "reply_to": 117
     },
     {
-      "id": 118,
+      "id": 119,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -895,15 +902,15 @@
       "examination": "cross"
     },
     {
-      "id": 119,
+      "id": 120,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 118
+      "reply_to": 119
     },
     {
-      "id": 120,
+      "id": 121,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -911,15 +918,15 @@
       "examination": "cross"
     },
     {
-      "id": 121,
+      "id": 122,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No, I'm not.",
-      "reply_to": 120
+      "reply_to": 121
     },
     {
-      "id": 122,
+      "id": 123,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -927,15 +934,15 @@
       "examination": "cross"
     },
     {
-      "id": 123,
+      "id": 124,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, by direct ballot in a perfectly democratic way. That's how MPs are chosen.",
-      "reply_to": 122
+      "reply_to": 123
     },
     {
-      "id": 124,
+      "id": 125,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -943,15 +950,15 @@
       "examination": "cross"
     },
     {
-      "id": 125,
+      "id": 126,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that is standard practice and that is what the law envisages throughout the world. We members of executive authority, people who were of the same mind as I who had the best intentions to introduce and impose the rule of law, encountered many problems in our attempts and efforts. These extremists would confront us and oppose us and draw along many other MPs. I refrain from telling people like them that they were wrong. I instead wrote letters asking that local authorities be reflective of the ethnic structure of a given area. But MPs of that kind would make speeches and elicit support from others, saying things along the lines of it's a disgrace if you don't support your own. However, at my insistence, the insistence of Mr. Karadzic and Mr. Djeric, in most of the cases my idea that the ethnic structure of the judiciary should reflect the ethnic structure of a given area succeeded.",
-      "reply_to": 124
+      "reply_to": 125
     },
     {
-      "id": 126,
+      "id": 127,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -959,15 +966,15 @@
       "examination": "cross"
     },
     {
-      "id": 127,
+      "id": 128,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 126
+      "reply_to": 127
     },
     {
-      "id": 128,
+      "id": 129,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -975,15 +982,15 @@
       "examination": "cross"
     },
     {
-      "id": 129,
+      "id": 130,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, as a member of the cabinet, I attended some Assembly sessions.",
-      "reply_to": 128
+      "reply_to": 129
     },
     {
-      "id": 130,
+      "id": 131,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -991,15 +998,15 @@
       "examination": "cross"
     },
     {
-      "id": 131,
+      "id": 132,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 130
+      "reply_to": 131
     },
     {
-      "id": 132,
+      "id": 133,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1007,15 +1014,15 @@
       "examination": "cross"
     },
     {
-      "id": 133,
+      "id": 134,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Correct. The Assembly elects and replaces the government.",
-      "reply_to": 132
+      "reply_to": 133
     },
     {
-      "id": 134,
+      "id": 135,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1023,15 +1030,15 @@
       "examination": "cross"
     },
     {
-      "id": 135,
+      "id": 136,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "When the issue of the election of these judiciary officials was discussed, it is a fact that I had no right to speak.",
-      "reply_to": 134
+      "reply_to": 135
     },
     {
-      "id": 136,
+      "id": 137,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1039,15 +1046,15 @@
       "examination": "cross"
     },
     {
-      "id": 137,
+      "id": 138,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it does.",
-      "reply_to": 136
+      "reply_to": 137
     },
     {
-      "id": 138,
+      "id": 139,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1055,15 +1062,15 @@
       "examination": "cross"
     },
     {
-      "id": 139,
+      "id": 140,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 138
+      "reply_to": 139
     },
     {
-      "id": 140,
+      "id": 141,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1071,15 +1078,15 @@
       "examination": "cross"
     },
     {
-      "id": 141,
+      "id": 142,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it's typical of Serb people.",
-      "reply_to": 140
+      "reply_to": 141
     },
     {
-      "id": 142,
+      "id": 143,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1087,15 +1094,15 @@
       "examination": "cross"
     },
     {
-      "id": 143,
+      "id": 144,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "As the conflict escalated, communications broke down. Both telecommunications and roads were cut off, and it was very difficult to keep in touch with all the territories held by Serbs.",
-      "reply_to": 142
+      "reply_to": 143
     },
     {
-      "id": 144,
+      "id": 145,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1103,22 +1110,22 @@
       "examination": "cross"
     },
     {
-      "id": 145,
+      "id": 146,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, and a decision was made to abolish them.",
-      "reply_to": 144
+      "reply_to": 145
     },
     {
-      "id": 146,
+      "id": 147,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] That's P217, tab 39. Could we call that document up."
     },
     {
-      "id": 147,
+      "id": 148,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1126,15 +1133,15 @@
       "examination": "cross"
     },
     {
-      "id": 148,
+      "id": 149,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 147
+      "reply_to": 148
     },
     {
-      "id": 149,
+      "id": 150,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1142,15 +1149,15 @@
       "examination": "cross"
     },
     {
-      "id": 150,
+      "id": 151,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 149
+      "reply_to": 150
     },
     {
-      "id": 151,
+      "id": 152,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1158,15 +1165,15 @@
       "examination": "cross"
     },
     {
-      "id": 152,
+      "id": 153,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. One of the alternatives was -- just like Mr. Poplasen was in Vogosca - I don't know how it was called - I think it was called commissioners for certain towns that were appointed by the Presidency of Republika Srpska. That was a transitional solution pending total abolishment of the local authorities and stripping them of all their jurisdiction.",
-      "reply_to": 151
+      "reply_to": 152
     },
     {
-      "id": 153,
+      "id": 154,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1174,15 +1181,15 @@
       "examination": "cross"
     },
     {
-      "id": 154,
+      "id": 155,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 153
+      "reply_to": 154
     },
     {
-      "id": 155,
+      "id": 156,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1190,15 +1197,15 @@
       "examination": "cross"
     },
     {
-      "id": 156,
+      "id": 157,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 155
+      "reply_to": 156
     },
     {
-      "id": 157,
+      "id": 158,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1206,15 +1213,15 @@
       "examination": "cross"
     },
     {
-      "id": 158,
+      "id": 159,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. That was a huge problem for the Serbian people. It is well known that tens of babies died in the maternity ward in the hospital in Banja Luka due to the lack of medicine. This caused outrage among the Serbian people in Bosnia-Herzegovina.",
-      "reply_to": 157
+      "reply_to": 158
     },
     {
-      "id": 159,
+      "id": 160,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1222,22 +1229,22 @@
       "examination": "cross"
     },
     {
-      "id": 160,
+      "id": 161,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I explained that all telecommunications and road communications were severed.",
-      "reply_to": 159
+      "reply_to": 160
     },
     {
-      "id": 161,
+      "id": 162,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Could we just -- on page 25, line 12, I said Doboj, Brcko, and Samac. Can that please be corrected in the transcript."
     },
     {
-      "id": 162,
+      "id": 163,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1245,15 +1252,15 @@
       "examination": "cross"
     },
     {
-      "id": 163,
+      "id": 164,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 162
+      "reply_to": 163
     },
     {
-      "id": 164,
+      "id": 165,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1261,14 +1268,14 @@
       "examination": "cross"
     },
     {
-      "id": 165,
+      "id": 166,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can we please have it in e-court. 427.11."
     },
     {
-      "id": 166,
+      "id": 167,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1276,15 +1283,15 @@
       "examination": "cross"
     },
     {
-      "id": 167,
+      "id": 168,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 166
+      "reply_to": 167
     },
     {
-      "id": 168,
+      "id": 169,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1292,15 +1299,15 @@
       "examination": "cross"
     },
     {
-      "id": 169,
+      "id": 170,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, but can I see the proper page. Yes, it's okay now.",
-      "reply_to": 168
+      "reply_to": 169
     },
     {
-      "id": 170,
+      "id": 171,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1308,15 +1315,15 @@
       "examination": "cross"
     },
     {
-      "id": 171,
+      "id": 172,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 170
+      "reply_to": 171
     },
     {
-      "id": 172,
+      "id": 173,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1324,15 +1331,15 @@
       "examination": "cross"
     },
     {
-      "id": 173,
+      "id": 174,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 172
+      "reply_to": 173
     },
     {
-      "id": 174,
+      "id": 175,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1340,15 +1347,15 @@
       "examination": "cross"
     },
     {
-      "id": 175,
+      "id": 176,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 174
+      "reply_to": 175
     },
     {
-      "id": 176,
+      "id": 177,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1356,15 +1363,15 @@
       "examination": "cross"
     },
     {
-      "id": 177,
+      "id": 178,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that is correct. I had no information whatsoever. We simply couldn't obtain any information because the Krajina was completely severed. Only after the corridor had been opened, we could use the roads and telecommunications.",
-      "reply_to": 176
+      "reply_to": 177
     },
     {
-      "id": 178,
+      "id": 179,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1372,15 +1379,15 @@
       "examination": "cross"
     },
     {
-      "id": 179,
+      "id": 180,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, due to these and similar problems, I think that Doboj was set up only towards the end of 1992 in December after we had completed the re-organisation and established the job qualification, adopted rules of governance, and we only appointed the governor of the prison towards the end of 1992.",
-      "reply_to": 178
+      "reply_to": 179
     },
     {
-      "id": 180,
+      "id": 181,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1388,91 +1395,91 @@
       "examination": "cross"
     },
     {
-      "id": 181,
+      "id": 182,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Your Honours, I'm being warned about this document, that it was on the Prosecution 65 ter list but that it had been removed from the list on the 14th of April of this year pursuant to a ruling. At that time, we notified the Registrar about this and we talked with Mr. Philip, and it was suggested to us not to upload this document for a second time since it's already in e-court."
     },
     {
-      "id": 182,
+      "id": 183,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Sorry, could I have an explanation of that. I'm not sure what you are talking about. Are you saying this is a document we removed as a result of a ruling by the Trial Chamber?"
     },
     {
-      "id": 183,
+      "id": 184,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "That is my understanding. The ruling of the --"
     },
     {
-      "id": 184,
+      "id": 185,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, I see the time. Yes, I'm not clear at the moment on what basis. If you ordered us to take it off, it's going back in again. If Your Honours take the break, I can discuss it with Mr. Zecevic and maybe we can sort this out."
     },
     {
-      "id": 185,
+      "id": 186,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, maybe that would be the best."
     },
     {
-      "id": 186,
+      "id": 187,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 187,
+      "id": 188,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "Yes, we'll take the break now."
     },
     {
-      "id": 188,
+      "id": 189,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, while we are waiting for the witness to come in, may I just remind Your Honours that the discussion we had on Monday morning, we need to notify VWS as to when the next witness should be brought up."
     },
     {
-      "id": 189,
+      "id": 190,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "We haven't forgotten, Ms. Korner."
     },
     {
-      "id": 190,
+      "id": 191,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "May I continue, Your Honours?"
     },
     {
-      "id": 191,
+      "id": 192,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "Yes, please."
     },
     {
-      "id": 192,
+      "id": 193,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can we please have 65 ter 1422 in e-court, please. 65 ter 1422. Page 2 in both versions."
     },
     {
-      "id": 193,
+      "id": 194,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1480,15 +1487,15 @@
       "examination": "cross"
     },
     {
-      "id": 194,
+      "id": 195,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 193
+      "reply_to": 194
     },
     {
-      "id": 195,
+      "id": 196,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1496,15 +1503,15 @@
       "examination": "cross"
     },
     {
-      "id": 196,
+      "id": 197,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 195
+      "reply_to": 196
     },
     {
-      "id": 197,
+      "id": 198,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1512,15 +1519,15 @@
       "examination": "cross"
     },
     {
-      "id": 198,
+      "id": 199,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 197
+      "reply_to": 198
     },
     {
-      "id": 199,
+      "id": 200,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1528,15 +1535,15 @@
       "examination": "cross"
     },
     {
-      "id": 200,
+      "id": 201,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 199
+      "reply_to": 200
     },
     {
-      "id": 201,
+      "id": 202,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1544,36 +1551,36 @@
       "examination": "cross"
     },
     {
-      "id": 202,
+      "id": 203,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 201
+      "reply_to": 202
     },
     {
-      "id": 203,
+      "id": 204,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] If there are no objections, I would like to tender this document into evidence."
     },
     {
-      "id": 204,
+      "id": 205,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "Admitted and marked."
     },
     {
-      "id": 205,
+      "id": 206,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "As Exhibit 1D254, Your Honours."
     },
     {
-      "id": 206,
+      "id": 207,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1581,15 +1588,15 @@
       "examination": "cross"
     },
     {
-      "id": 207,
+      "id": 208,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it was the government commission made up of experts in this particular area.",
-      "reply_to": 206
+      "reply_to": 207
     },
     {
-      "id": 208,
+      "id": 209,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1597,14 +1604,14 @@
       "examination": "cross"
     },
     {
-      "id": 209,
+      "id": 210,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can we please have Exhibit P194."
     },
     {
-      "id": 210,
+      "id": 211,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1612,15 +1619,15 @@
       "examination": "cross"
     },
     {
-      "id": 211,
+      "id": 212,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do.",
-      "reply_to": 210
+      "reply_to": 211
     },
     {
-      "id": 212,
+      "id": 213,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1628,15 +1635,15 @@
       "examination": "cross"
     },
     {
-      "id": 213,
+      "id": 214,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 212
+      "reply_to": 213
     },
     {
-      "id": 214,
+      "id": 215,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1644,15 +1651,15 @@
       "examination": "cross"
     },
     {
-      "id": 215,
+      "id": 216,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 214
+      "reply_to": 215
     },
     {
-      "id": 216,
+      "id": 217,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1660,15 +1667,15 @@
       "examination": "cross"
     },
     {
-      "id": 217,
+      "id": 218,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, they were informed of the situation on the ground.",
-      "reply_to": 216
+      "reply_to": 217
     },
     {
-      "id": 218,
+      "id": 219,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1676,15 +1683,15 @@
       "examination": "cross"
     },
     {
-      "id": 219,
+      "id": 220,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 218
+      "reply_to": 219
     },
     {
-      "id": 220,
+      "id": 221,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1692,15 +1699,15 @@
       "examination": "cross"
     },
     {
-      "id": 221,
+      "id": 222,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 220
+      "reply_to": 221
     },
     {
-      "id": 222,
+      "id": 223,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1708,15 +1715,15 @@
       "examination": "cross"
     },
     {
-      "id": 223,
+      "id": 224,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 222
+      "reply_to": 223
     },
     {
-      "id": 224,
+      "id": 225,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1724,15 +1731,15 @@
       "examination": "cross"
     },
     {
-      "id": 225,
+      "id": 226,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I can see it.",
-      "reply_to": 224
+      "reply_to": 225
     },
     {
-      "id": 226,
+      "id": 227,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1740,15 +1747,15 @@
       "examination": "cross"
     },
     {
-      "id": 227,
+      "id": 228,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 226
+      "reply_to": 227
     },
     {
-      "id": 228,
+      "id": 229,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1756,22 +1763,22 @@
       "examination": "cross"
     },
     {
-      "id": 229,
+      "id": 230,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 228
+      "reply_to": 229
     },
     {
-      "id": 230,
+      "id": 231,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can we now see the following page of the Serbian text, and I believe we can stay on the same page of the English version. The items I'm interested in are 12, 17, 18, and 19. Page 2."
     },
     {
-      "id": 231,
+      "id": 232,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1779,15 +1786,15 @@
       "examination": "cross"
     },
     {
-      "id": 232,
+      "id": 233,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. This is exactly what I tried to explain, having been asked by the Prosecutor.",
-      "reply_to": 231
+      "reply_to": 232
     },
     {
-      "id": 233,
+      "id": 234,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1795,15 +1802,15 @@
       "examination": "cross"
     },
     {
-      "id": 234,
+      "id": 235,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. This is what I was saying, the corps commanders were deciding on who was to be released and who was to be kept, who was to be considered a POW, and, again, this was applied to all captured persons, both military staff and civilians, non-Serbs. Only the corps commander had the power to decide on these matters. And this instruction with legal force was published in the Official Gazette of the Serbian People. Since there was an imminent threat of war, this had legal force and was binding for both the military and the civilian authorities, including the police and everybody else.",
-      "reply_to": 233
+      "reply_to": 234
     },
     {
-      "id": 235,
+      "id": 236,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1811,15 +1818,15 @@
       "examination": "cross"
     },
     {
-      "id": 236,
+      "id": 237,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 235
+      "reply_to": 236
     },
     {
-      "id": 237,
+      "id": 238,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1827,15 +1834,15 @@
       "examination": "cross"
     },
     {
-      "id": 238,
+      "id": 239,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, if it happened in combat and if that person was armed.",
-      "reply_to": 237
+      "reply_to": 238
     },
     {
-      "id": 239,
+      "id": 240,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1843,15 +1850,15 @@
       "examination": "cross"
     },
     {
-      "id": 240,
+      "id": 241,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Under the authority of the military commander with territorial jurisdiction.",
-      "reply_to": 239
+      "reply_to": 240
     },
     {
-      "id": 241,
+      "id": 242,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1859,15 +1866,15 @@
       "examination": "cross"
     },
     {
-      "id": 242,
+      "id": 243,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that is in line with the instruction and it's in accordance with the standards of the Geneva Convention.",
-      "reply_to": 241
+      "reply_to": 242
     },
     {
-      "id": 243,
+      "id": 244,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1875,15 +1882,15 @@
       "examination": "cross"
     },
     {
-      "id": 244,
+      "id": 245,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. They remain under the control of the military, but they are captured persons. Once that procedure is carried out, then it is established who is a soldier, who is a civilian, et cetera. It's done by the relevant services, of course.",
-      "reply_to": 243
+      "reply_to": 244
     },
     {
-      "id": 245,
+      "id": 246,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -1891,203 +1898,203 @@
       "examination": "cross"
     },
     {
-      "id": 246,
+      "id": 247,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Zecevic, are you moving on to something else? Because I have a few questions relating to this document and this matter."
     },
     {
-      "id": 247,
+      "id": 248,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, I was it was my intention to move on, yes."
     },
     {
-      "id": 248,
+      "id": 249,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Then can I just kick in a few questions. First of all, Mr. Mandic, the instruction that we saw to set up the reception centres did not, as I could see, make the distinction between POWs and civilians. It just said that the identity had to be established of the captive person, and then once that procedure had been brought to an end, the person was then to be passed on to, I think the term was, prison camps. So my question is: What would the commander do if he sat in front of a captured person and that person turned out to be a civilian? Would that person then still be sent to a prison camp?"
     },
     {
-      "id": 249,
+      "id": 250,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Your Honour, this is about captive persons, and civilians are not distinguished from military prisoners of war. Once the relevant services establish who was a civilian and who isn't, they classify the persons in accordance with military rules and decide where these persons are to be put up. And this depended exclusively on the corps commander and his services."
     },
     {
-      "id": 250,
+      "id": 251,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Yes, I can read that in the rule or in the instruction. But my question to you was that the rule in paragraph 4 only said that the captive persons would be passed on or sent on to prison camps. And so I repeat my question: Since the rule itself does not make any distinction between prison camp for prisoners of war and other detention facilities for civilians, then it looks to me as if everybody, prisoners of war as well as civilians, would be sent to the same prison camps?"
     },
     {
-      "id": 251,
+      "id": 252,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Whether they were sent to separate camps or the same ones as it says here, I cannot tell you, Your Honour, because I had no knowledge about that. Those camps were secured by the army, and the army ran those camps."
     },
     {
-      "id": 252,
+      "id": 253,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "But, Mr. Mandic, you being the minister of justice at the time, you would have taken part in the government's considerations about how to treat all of these people. So what was your input to the issue of how to treat civilians who for one reason or another had been detained?"
     },
     {
-      "id": 253,
+      "id": 254,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] This is contained in the report of the government commission on the proposed measures. It was submitted to both the president of the republic and the cabinet and all relevant institutions. Because the governmental commission, which was composed of experts and had visited various parts of the territory controlled by the Bosnian Serbs, drafted a report on the conditions in those camps and made proposals as to the measures which should be done in those camps where civilians, women and children, and POWs were held. This is a already an exhibit in this trial. Because a civilian body of state administration could only propose measures for the army to implement or those who controlled those camps."
     },
     {
-      "id": 254,
+      "id": 255,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "And so the camps that were set up to hold the civilians, would they come under the jurisdiction of the Ministry of Justice?"
     },
     {
-      "id": 255,
+      "id": 256,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] No, Your Honour. The Ministry of Justice set up prisons and facilities for penitentiary facilities for the needs of the judicial system of Republika Srpska. This has nothing to do with the camps in which non-Serbs were kept. These are two completely separate institutions."
     },
     {
-      "id": 256,
+      "id": 257,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Forgive me for trying to explore this further on. We have been through this issue with many witnesses before you, Mr. Mandic. I'm simply trying to get a better understanding of just how this was done. Let's get back to the starting point. As far as prisoners of war are concerned, they would be held in special prison camps run by the Ministry of Defence; did I get that right?"
     },
     {
-      "id": 257,
+      "id": 258,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes."
     },
     {
-      "id": 258,
+      "id": 259,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Right. If then civilians were detained, then they would first be sent to a reception centre where their identity would be established and in -- more particularly, their role of being either a combatant or a non-combatant. So if --"
     },
     {
-      "id": 259,
+      "id": 260,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Correct."
     },
     {
-      "id": 260,
+      "id": 261,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "If the reception centre established that the person was not a combatant, that is to say, a civilian, then he or she would be sent to a separate camp; is that correct? Separate from the camp that would hold the prisoners of war. Is that correctly understood?"
     },
     {
-      "id": 261,
+      "id": 262,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Reading and trying to interpret this instruction, that's what it says. However, both captured civilians and POWs were the responsibility of the army because they were detained and released on account of war and during the war, and there was no other institution with jurisdiction and authority to detain or release them apart from the army. And that is pursuant to this instruction and on the orders of the President of the Republic Dr. Karadzic. Because this here is preceded by an order which I see is not included in this material."
     },
     {
-      "id": 262,
+      "id": 263,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Well, my concern is still that civilians who were captured and detained would ordinarily be detained under the authority of either the Ministry of Justice or the Ministry of the Interior, but certainly not by the army?"
     },
     {
-      "id": 263,
+      "id": 264,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] It was only under the jurisdiction of the army because nobody could be under the jurisdiction of the Ministry of Justice unless an investigating judge had made a decision to detain a civilian on account of a criminal offence, because the Ministry of Justice as a state organ had no authority to detain anyone during the war unless it was doing a service for the army or following a decision of a competent court in the area, because the Ministry of Justice established penal correctional facilities only in July and early August, and that process continued until December that year, from all I know from my term in office as minister."
     },
     {
-      "id": 264,
+      "id": 265,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Mandic, maybe I could ask you a different question or, rather, ask you a question from a different angle, namely to say, was there in the government a clear plan of how to deal with all the various categories of persons who were detained during the war in the summer of 1992?"
     },
     {
-      "id": 265,
+      "id": 266,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes. In August and September, commissions were established and a plan was adopted to close down collection centres set up by local Crisis Staffs that were spread all over the territory and with which the government had no communication, as it had no communication with certain areas held by Serbs. That's why these commissions were set up and prepared a comprehensive report on how to close down these camps where people were detained, civilian or non-civilian. The government, the Presidency of the republic, and the Supreme Command of the army were all informed of this, and they were the only ones who were able to take the necessary steps because the Ministry of Justice or the Ministry of the Interior as organs of state authority were unable to do anything about detained non-Serbs in circumvention of the army because the immediate state of -- the immediate threat of war had been proclaimed, and we had to act pursuant to this instruction issued by the minister of defence. It was published in the Official Gazette and had the force of law. And this clearly says that local army commanders have jurisdiction over detained people."
     },
     {
-      "id": 266,
+      "id": 267,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "So, if I understand you correctly, in the end the responsibility for all categories of captured persons during the war was left in the hands of the army; is that correct?"
     },
     {
-      "id": 267,
+      "id": 268,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Correct, Your Honour."
     },
     {
-      "id": 268,
+      "id": 269,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 269,
+      "id": 270,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "May I proceed, Your Honours?"
     },
     {
-      "id": 270,
+      "id": 271,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Back to you, Mr. Zecevic. Thanks."
     },
     {
-      "id": 271,
+      "id": 272,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] If I may be of assistance, I believe when the witness was speaking about the commission of the -- of the report of the commission, referred to 5393 -- sorry, P393. It's a report made by the state commission proposing certain measures that needed to be applied."
     },
     {
-      "id": 272,
+      "id": 273,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] That's precisely what I tried to explain to the Court. The government could only propose measures, but it could not enforce them. It could only propose how to close down these illegal prisons and to put everything in conformity with the rule of law, and that could only be implemented by army commanders at the local level."
     },
     {
-      "id": 273,
+      "id": 274,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 274,
+      "id": 275,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2095,21 +2102,21 @@
       "examination": "cross"
     },
     {
-      "id": 275,
+      "id": 276,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "He didn't. I didn't ask him about this."
     },
     {
-      "id": 276,
+      "id": 277,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 277,
+      "id": 278,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2117,29 +2124,29 @@
       "examination": "cross"
     },
     {
-      "id": 278,
+      "id": 279,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, yes, I'm looking at Madam Prosecutor.",
-      "reply_to": 277
+      "reply_to": 278
     },
     {
-      "id": 279,
+      "id": 280,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Sorry, Your Honours, I shouldn't have interrupted. I thought it was suggested that I showed him this document, but I hadn't."
     },
     {
-      "id": 280,
+      "id": 281,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 281,
+      "id": 282,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2147,15 +2154,15 @@
       "examination": "cross"
     },
     {
-      "id": 282,
+      "id": 283,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 281
+      "reply_to": 282
     },
     {
-      "id": 283,
+      "id": 284,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2163,15 +2170,15 @@
       "examination": "cross"
     },
     {
-      "id": 284,
+      "id": 285,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 283
+      "reply_to": 284
     },
     {
-      "id": 285,
+      "id": 286,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2179,15 +2186,15 @@
       "examination": "cross"
     },
     {
-      "id": 286,
+      "id": 287,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I can see that.",
-      "reply_to": 285
+      "reply_to": 286
     },
     {
-      "id": 287,
+      "id": 288,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2195,15 +2202,15 @@
       "examination": "cross"
     },
     {
-      "id": 288,
+      "id": 289,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 287
+      "reply_to": 288
     },
     {
-      "id": 289,
+      "id": 290,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2211,15 +2218,15 @@
       "examination": "cross"
     },
     {
-      "id": 290,
+      "id": 291,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No, I wasn't. I had only just been appointed.",
-      "reply_to": 289
+      "reply_to": 290
     },
     {
-      "id": 291,
+      "id": 292,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2227,15 +2234,15 @@
       "examination": "cross"
     },
     {
-      "id": 292,
+      "id": 293,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. There were municipal commissions and commissions attached to army corps. Municipal commissions had been set up by Crisis Staffs and were later renamed war commissions. That's what I was trying to explain. It was a period when the whole territory held by Serbs was divided into bits and pieces that had no communication amongst themselves. Roads were cut off and telecommunications too.",
-      "reply_to": 291
+      "reply_to": 292
     },
     {
-      "id": 293,
+      "id": 294,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2243,15 +2250,15 @@
       "examination": "cross"
     },
     {
-      "id": 294,
+      "id": 295,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I remember that. He was given a different position.",
-      "reply_to": 293
+      "reply_to": 294
     },
     {
-      "id": 295,
+      "id": 296,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2259,22 +2266,22 @@
       "examination": "cross"
     },
     {
-      "id": 296,
+      "id": 297,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, somebody signed this for me and informed that this Vanovac was going to replace Colovic as chairman of the commission. He was appointed by the government, and somebody signed this on my behalf.",
-      "reply_to": 295
+      "reply_to": 296
     },
     {
-      "id": 297,
+      "id": 298,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can we see page 2 of this document. I'm being told there's no page 2. I'll come back to this issue."
     },
     {
-      "id": 298,
+      "id": 299,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2282,15 +2289,15 @@
       "examination": "cross"
     },
     {
-      "id": 299,
+      "id": 300,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I can see that.",
-      "reply_to": 298
+      "reply_to": 299
     },
     {
-      "id": 300,
+      "id": 301,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2298,28 +2305,28 @@
       "examination": "cross"
     },
     {
-      "id": 301,
+      "id": 302,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can we see page 2."
     },
     {
-      "id": 302,
+      "id": 303,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes, I know."
     },
     {
-      "id": 303,
+      "id": 304,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] That is the agreement of 11 July 1992. If we can just see the last page, page 4 in e-court. It's 5 in English."
     },
     {
-      "id": 304,
+      "id": 305,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2327,15 +2334,15 @@
       "examination": "cross"
     },
     {
-      "id": 305,
+      "id": 306,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Nenad Vanovac.",
-      "reply_to": 304
+      "reply_to": 305
     },
     {
-      "id": 306,
+      "id": 307,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2343,22 +2350,22 @@
       "examination": "cross"
     },
     {
-      "id": 307,
+      "id": 308,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 306
+      "reply_to": 307
     },
     {
-      "id": 308,
+      "id": 309,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Court's indulgence. I had given the 65 ter number, and my assistant suggests that it's P1318.26, already an exhibit."
     },
     {
-      "id": 309,
+      "id": 310,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2366,15 +2373,15 @@
       "examination": "cross"
     },
     {
-      "id": 310,
+      "id": 311,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 309
+      "reply_to": 310
     },
     {
-      "id": 311,
+      "id": 312,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2382,15 +2389,15 @@
       "examination": "cross"
     },
     {
-      "id": 312,
+      "id": 313,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Persons against whom the court had instituted proceedings because all the people imprisoned during the state of immediate threat of war fell under the jurisdiction of the military authorities.",
-      "reply_to": 311
+      "reply_to": 312
     },
     {
-      "id": 313,
+      "id": 314,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2398,15 +2405,15 @@
       "examination": "cross"
     },
     {
-      "id": 314,
+      "id": 315,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 313
+      "reply_to": 314
     },
     {
-      "id": 315,
+      "id": 316,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2414,15 +2421,15 @@
       "examination": "cross"
     },
     {
-      "id": 316,
+      "id": 317,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I did that for the benefit of the Trial Chamber so that they can grasp the situation that existed in certain prisons in Republika Srpska. This refers to Vogosca Correctional and Penal Facility, Butmir, and others.",
-      "reply_to": 315
+      "reply_to": 316
     },
     {
-      "id": 317,
+      "id": 318,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2430,15 +2437,15 @@
       "examination": "cross"
     },
     {
-      "id": 318,
+      "id": 319,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, this was illustrated by the examples that I cited both in Holland and in Bosnia-Herzegovina.",
-      "reply_to": 317
+      "reply_to": 318
     },
     {
-      "id": 319,
+      "id": 320,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2446,15 +2453,15 @@
       "examination": "cross"
     },
     {
-      "id": 320,
+      "id": 321,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "These two examples illustrate the situation in Republika Srpska in 1992.",
-      "reply_to": 319
+      "reply_to": 320
     },
     {
-      "id": 321,
+      "id": 322,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2462,15 +2469,15 @@
       "examination": "cross"
     },
     {
-      "id": 322,
+      "id": 323,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 321
+      "reply_to": 322
     },
     {
-      "id": 323,
+      "id": 324,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2478,14 +2485,14 @@
       "examination": "cross"
     },
     {
-      "id": 324,
+      "id": 325,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] And can we please look at it again. It's 65 ter 2722."
     },
     {
-      "id": 325,
+      "id": 326,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2493,15 +2500,15 @@
       "examination": "cross"
     },
     {
-      "id": 326,
+      "id": 327,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 325
+      "reply_to": 326
     },
     {
-      "id": 327,
+      "id": 328,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2509,22 +2516,22 @@
       "examination": "cross"
     },
     {
-      "id": 328,
+      "id": 329,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 327
+      "reply_to": 328
     },
     {
-      "id": 329,
+      "id": 330,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can I please have page 6 in Serbian. I don't know which page it is in English, but since we are just looking for a specific name, I think it will suffice."
     },
     {
-      "id": 330,
+      "id": 331,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2532,15 +2539,15 @@
       "examination": "cross"
     },
     {
-      "id": 331,
+      "id": 332,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 330
+      "reply_to": 331
     },
     {
-      "id": 332,
+      "id": 333,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2548,28 +2555,28 @@
       "examination": "cross"
     },
     {
-      "id": 333,
+      "id": 334,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] I apologise, it's on the next page. Number 34 we are looking for. It's page 10 in English I'm being told."
     },
     {
-      "id": 334,
+      "id": 335,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Actually, Your Honours, to be clear, I'm not suggesting the crossings out here were done because they were non-Serbs, indeed I didn't suggest it. I went to the actual meeting of the Assembly and quoted what had been said there. I have no idea why these people have been crossed out here. And, indeed, I'm not suggesting anything. I'm merely pointing out what was said."
     },
     {
-      "id": 335,
+      "id": 336,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 336,
+      "id": 337,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2577,15 +2584,15 @@
       "examination": "cross"
     },
     {
-      "id": 337,
+      "id": 338,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 336
+      "reply_to": 337
     },
     {
-      "id": 338,
+      "id": 339,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2593,14 +2600,14 @@
       "examination": "cross"
     },
     {
-      "id": 339,
+      "id": 340,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] And if we move to item 48. It's page 12 in English."
     },
     {
-      "id": 340,
+      "id": 341,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2608,15 +2615,15 @@
       "examination": "cross"
     },
     {
-      "id": 341,
+      "id": 342,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Slavica.",
-      "reply_to": 340
+      "reply_to": 341
     },
     {
-      "id": 342,
+      "id": 343,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2624,15 +2631,15 @@
       "examination": "cross"
     },
     {
-      "id": 343,
+      "id": 344,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 342
+      "reply_to": 343
     },
     {
-      "id": 344,
+      "id": 345,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2640,15 +2647,15 @@
       "examination": "cross"
     },
     {
-      "id": 345,
+      "id": 346,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I understood that Ms. Korner did not comment on the list, not on any individual name on the list.",
-      "reply_to": 344
+      "reply_to": 345
     },
     {
-      "id": 346,
+      "id": 347,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2656,28 +2663,28 @@
       "examination": "cross"
     },
     {
-      "id": 347,
+      "id": 348,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Could the speakers please not overlap. Thank you."
     },
     {
-      "id": 348,
+      "id": 349,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] This refers to the Assembly session held in Banja Luka."
     },
     {
-      "id": 349,
+      "id": 350,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 350,
+      "id": 351,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2685,22 +2692,22 @@
       "examination": "cross"
     },
     {
-      "id": 351,
+      "id": 352,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 350
+      "reply_to": 351
     },
     {
-      "id": 352,
+      "id": 353,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can we please -- it's a wrong document. I need P738 or 65 ter 1459. That's the one. Can we please look at page -- or rather, I can give you ERN number which is 0410-2038. It's entitled, or, rather, there's a subheading, The Discussion of Momcilo Krajisnik."
     },
     {
-      "id": 353,
+      "id": 354,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2708,22 +2715,22 @@
       "examination": "cross"
     },
     {
-      "id": 354,
+      "id": 355,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. It was both my position and the position of the president.",
-      "reply_to": 353
+      "reply_to": 354
     },
     {
-      "id": 355,
+      "id": 356,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can we please look at page which bears number 18 in the upper right-hand corner. Yes, that's the one."
     },
     {
-      "id": 356,
+      "id": 357,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2731,21 +2738,21 @@
       "examination": "cross"
     },
     {
-      "id": 357,
+      "id": 358,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "English, please."
     },
     {
-      "id": 358,
+      "id": 359,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 359,
+      "id": 360,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2753,14 +2760,14 @@
       "examination": "cross"
     },
     {
-      "id": 360,
+      "id": 361,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Yes. You'll have the English version as well."
     },
     {
-      "id": 361,
+      "id": 362,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2768,15 +2775,15 @@
       "examination": "cross"
     },
     {
-      "id": 362,
+      "id": 363,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do. If I may explain --",
-      "reply_to": 361
+      "reply_to": 362
     },
     {
-      "id": 363,
+      "id": 364,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2784,15 +2791,15 @@
       "examination": "cross"
     },
     {
-      "id": 364,
+      "id": 365,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I can comment on it. I was at this session. Mr. Karadzic tried to persuade the MPs to accept the proposal that I put forward for members of judiciary to be elected in proportion to the ethnic composition. However, he was overruled by the MPs and his suggestion was not accepted. In order to illustrate his point, he said that Alija Izetbegovic was paying every Serb in gold just to be in his government. And after that the majority of MPs refused to vote in favour of these officials to be elected. Since Mr. Karadzic, pursuant to Article 83 of the constitution, had powers to sign decisions on behalf of the Assembly, these people were appointed to the Ministry of Justice. That was the problem. I as the minister -- and I think that Mr. Karadzic either was able to confront these people who were rather overheated in their discussion. They had been on the front, et cetera. He tried to find a way to impart on those people that this was the wrong way to take, the wrong course. We didn't manage to do that at that Assembly, but we managed to do that later.",
-      "reply_to": 363
+      "reply_to": 364
     },
     {
-      "id": 365,
+      "id": 366,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2800,15 +2807,15 @@
       "examination": "cross"
     },
     {
-      "id": 366,
+      "id": 367,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 365
+      "reply_to": 366
     },
     {
-      "id": 367,
+      "id": 368,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2816,15 +2823,15 @@
       "examination": "cross"
     },
     {
-      "id": 368,
+      "id": 369,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, they were even against the president himself. They could have impeached him. They could have dismissed me as well. They were the people who had power in their hands because they were elected directly by the people.",
-      "reply_to": 367
+      "reply_to": 368
     },
     {
-      "id": 369,
+      "id": 370,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2832,15 +2839,15 @@
       "examination": "cross"
     },
     {
-      "id": 370,
+      "id": 371,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 369
+      "reply_to": 370
     },
     {
-      "id": 371,
+      "id": 372,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2848,15 +2855,15 @@
       "examination": "cross"
     },
     {
-      "id": 372,
+      "id": 373,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 371
+      "reply_to": 372
     },
     {
-      "id": 373,
+      "id": 374,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2864,21 +2871,21 @@
       "examination": "cross"
     },
     {
-      "id": 374,
+      "id": 375,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "48, correction by the interpreter."
     },
     {
-      "id": 375,
+      "id": 376,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 376,
+      "id": 377,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2886,56 +2893,56 @@
       "examination": "cross"
     },
     {
-      "id": 377,
+      "id": 378,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] And if we can please have ERN page number 0422-6317. That was the part that Ms. Korner didn't read out to you, but I think it will be a good means of illustrating the point that I want to make."
     },
     {
-      "id": 378,
+      "id": 379,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Sorry, tab 38 or 48 in which, yours or ours?"
     },
     {
-      "id": 379,
+      "id": 380,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] It's tab 98 in the Prosecution set of documents."
     },
     {
-      "id": 380,
+      "id": 381,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Interpreter's note: Could the counsel please read slowly when he is quoting numbers. Thank you."
     },
     {
-      "id": 381,
+      "id": 382,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] We had a correct page in the Serbian version, however, the English is wrong, regrettably."
     },
     {
-      "id": 382,
+      "id": 383,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, can I suggest Mr. Zecevic puts his headphones on, because he is not hearing what the interpreters say, and we are having quite a lot of problems at the moment."
     },
     {
-      "id": 383,
+      "id": 384,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] I have read the transcript, Ms. Korner, and I will be careful in future."
     },
     {
-      "id": 384,
+      "id": 385,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2943,15 +2950,15 @@
       "examination": "cross"
     },
     {
-      "id": 385,
+      "id": 386,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 384
+      "reply_to": 385
     },
     {
-      "id": 386,
+      "id": 387,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2959,15 +2966,15 @@
       "examination": "cross"
     },
     {
-      "id": 387,
+      "id": 388,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 386
+      "reply_to": 387
     },
     {
-      "id": 388,
+      "id": 389,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2975,15 +2982,15 @@
       "examination": "cross"
     },
     {
-      "id": 389,
+      "id": 390,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, he is a Muslim.",
-      "reply_to": 388
+      "reply_to": 389
     },
     {
-      "id": 390,
+      "id": 391,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -2991,15 +2998,15 @@
       "examination": "cross"
     },
     {
-      "id": 391,
+      "id": 392,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's what I was talking about all the time.",
-      "reply_to": 390
+      "reply_to": 391
     },
     {
-      "id": 392,
+      "id": 393,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3007,14 +3014,14 @@
       "examination": "cross"
     },
     {
-      "id": 393,
+      "id": 394,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] I have just been told that this was page 116 in English. I do apologise for this. Yes, correct, it's halfway through the page in the English version. Mr. Kovac and Mr. Alagic are mentioned. For the sake of the Trial Chamber, since our legal library still isn't uploaded in e-court unfortunately, I'll give the reference numbers or the issue numbers of the Official Gazettes with the dates where the decisions on appointing non-Serb judges were published. The Official Gazette of the Serbian Republic of Bosnia-Herzegovina issue 13 of 10 August 1992, page 475, 476. And Official Gazette issue 11, page 394, dated 13 July 1992."
     },
     {
-      "id": 394,
+      "id": 395,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3022,15 +3029,15 @@
       "examination": "cross"
     },
     {
-      "id": 395,
+      "id": 396,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, but I remember it anyway.",
-      "reply_to": 394
+      "reply_to": 395
     },
     {
-      "id": 396,
+      "id": 397,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3038,15 +3045,15 @@
       "examination": "cross"
     },
     {
-      "id": 397,
+      "id": 398,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 396
+      "reply_to": 397
     },
     {
-      "id": 398,
+      "id": 399,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3054,43 +3061,43 @@
       "examination": "cross"
     },
     {
-      "id": 399,
+      "id": 400,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, and I explained why. Because the judiciary, the military judiciary, and the prosecutor's office didn't function properly, so we wanted to establish the civilian authorities. There were problems on the ground; there was crime and everything that goes with the state of war or the imminent threat of war. I tried to suggest that regular courts take over the powers of the military judiciary which was possible to do through a decision of the Assembly because we wanted to start working and building the rule of law. I was very dissatisfied with the state of affairs, and that's why I handed if my resignation which was discussed at the Assembly session in Bijeljina -- [Microphone not activated] -- September.",
-      "reply_to": 398
-    },
-    {
-      "id": 400,
-      "speaker": "MR. ZECEVIC",
-      "role": "counsel",
-      "type": "statement",
-      "text": "[Interpretation] I don't know if this may be a convenient moment for making a break, Your Honours, because we can -- thank you."
+      "reply_to": 399
     },
     {
       "id": 401,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
-      "text": "Your Honours, while we are waiting for the witness to be ushered in, I would like to extend my apologies to the interpreters for talking faster than I should have. I'm really sorry."
+      "text": "[Interpretation] I don't know if this may be a convenient moment for making a break, Your Honours, because we can -- thank you."
     },
     {
       "id": 402,
+      "speaker": "MR. ZECEVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honours, while we are waiting for the witness to be ushered in, I would like to extend my apologies to the interpreters for talking faster than I should have. I'm really sorry."
+    },
+    {
+      "id": 403,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "Thank you, Mr. Zecevic."
     },
     {
-      "id": 403,
+      "id": 404,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Could we please see P400, and that's tab 112 of the Prosecution binder. The page of the Serbian version is 89, and the page in the English version is 88."
     },
     {
-      "id": 404,
+      "id": 405,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3098,15 +3105,15 @@
       "examination": "cross"
     },
     {
-      "id": 405,
+      "id": 406,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Let me explain, I addressed the speaker of the Assembly and the president of RS about this problem several times, orally and in writing. At the session in September in Bijeljina when I handed in my resignation, tackling this issue was also postponed, and that was done on the insistence of the military bodies which had a very strong authority and a backing by the political authorities of RS.",
-      "reply_to": 404
+      "reply_to": 405
     },
     {
-      "id": 406,
+      "id": 407,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3114,15 +3121,15 @@
       "examination": "cross"
     },
     {
-      "id": 407,
+      "id": 408,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 406
+      "reply_to": 407
     },
     {
-      "id": 408,
+      "id": 409,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3130,15 +3137,15 @@
       "examination": "cross"
     },
     {
-      "id": 409,
+      "id": 410,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, General Gvero was the assistant commander of General Staff in charge of, I believe, the judiciary and the organisation of the military judiciary, among other things. He -- his rank was that of an assistant commander of the General Staff of the VRS.",
-      "reply_to": 408
+      "reply_to": 409
     },
     {
-      "id": 410,
+      "id": 411,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3146,71 +3153,71 @@
       "examination": "cross"
     },
     {
-      "id": 411,
+      "id": 412,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, by virtue of his position.",
-      "reply_to": 410
+      "reply_to": 411
     },
     {
-      "id": 412,
+      "id": 413,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Mandic, forgive me for being a bit slow on beat here, but could you briefly resume the reasons why you decided to resign as minister. Was that because of this issue relating to the organisation of the judiciary, or were there other reasons?"
     },
     {
-      "id": 413,
+      "id": 414,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I handed in my resignation and requested to be appointed to another duty in Belgrade in September 1922, not at this session, Your Honour. My resignation was not accepted. The MPs did not accept it. And then I was supposed to be a minister without portfolio. That was an agreement with the prime minister. And then I went to Belgrade. This was one of the reasons for my dissatisfaction and one of the reasons why I left Bosnia-Herzegovina. But my resignation was not accepted. You can see the transcript of the session in Bijeljina; I remained in my previous position until this session."
     },
     {
-      "id": 414,
+      "id": 415,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Right, I can see that. But my question to you was what exactly were the issues that prompted you to resign? What was the disagreement about?"
     },
     {
-      "id": 415,
+      "id": 416,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] The main reason for my dissatisfaction was the fact that the judiciary didn't function. We organised a civilian judiciary which had nothing to do. It had no powers because everything was under the authority of the military judiciary because there was a imminent threat of war or the state of war. And all persons from 16 to 70 years of age were under the authority of the military judiciary, and it was mostly them who committed crimes. We established courts and prosecutor's offices, both civilian. Here is an example: In Vogosca, only two persons were tried in eight months, and hundreds of people were detained due to activities of the Military Prosecutor's Office. On the one hand, there was the civilian judiciary having nothing to do; on the other hand, the military judiciary which had lots to do but wasn't efficient. The crime was on the rise. And this was like fighting windmills."
     },
     {
-      "id": 416,
+      "id": 417,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "But the distribution of tasks within a government would be something for the government itself to organise, would it not?"
     },
     {
-      "id": 417,
+      "id": 418,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] No, Your Honour. The law on the government and the law on the ministries clearly defined the tasks of these bodies. My tasks as a body of public administration were clearly defined. I mean I -- when I say \"I,\" I mean the Ministry of Justice. And before I was appointed, the Law on Ministries had already been adopted. My powers were clearly limited by these laws."
     },
     {
-      "id": 418,
+      "id": 419,
       "speaker": "JUDGE HARHOFF",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Back to you, Mr. Zecevic."
     },
     {
-      "id": 419,
+      "id": 420,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 420,
+      "id": 421,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3218,15 +3225,15 @@
       "examination": "cross"
     },
     {
-      "id": 421,
+      "id": 422,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No, not in parallel, but they were a separate institution. They were a body that had both the prosecutor's office and courts and penitentiaries and military police. That was a system that existed in previous -- or former Yugoslavia and had been transposed into the RS pursuant to relevant jurisdiction. That was the system; the rule of law was defined.",
-      "reply_to": 420
+      "reply_to": 421
     },
     {
-      "id": 422,
+      "id": 423,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3234,15 +3241,15 @@
       "examination": "cross"
     },
     {
-      "id": 423,
+      "id": 424,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Most crimes were committed by conscripts who came under the authority of the military judiciary, but that judiciary did not function. That was why I made these proposals, and this motivated my efforts that we should use professionals, judges, prosecutors, and others to establish the rule of law, but I was unsuccessful in two of my attempts. So I handed in my resignation, and in November I also tried to convince the Assembly that they pass a decree with legal force, although it was unconstitutional. Under the constitution the military judiciary was separate from the civilian one because I wanted that finally we start working and that we start building the rule of law, but there was no understanding for my efforts.",
-      "reply_to": 422
+      "reply_to": 423
     },
     {
-      "id": 424,
+      "id": 425,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3250,15 +3257,15 @@
       "examination": "cross"
     },
     {
-      "id": 425,
+      "id": 426,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "It was outside of the institutions -- outside of the institutional framework.",
-      "reply_to": 424
+      "reply_to": 425
     },
     {
-      "id": 426,
+      "id": 427,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3266,15 +3273,15 @@
       "examination": "cross"
     },
     {
-      "id": 427,
+      "id": 428,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 426
+      "reply_to": 427
     },
     {
-      "id": 428,
+      "id": 429,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3282,15 +3289,15 @@
       "examination": "cross"
     },
     {
-      "id": 429,
+      "id": 430,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 428
+      "reply_to": 429
     },
     {
-      "id": 430,
+      "id": 431,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3298,15 +3305,15 @@
       "examination": "cross"
     },
     {
-      "id": 431,
+      "id": 432,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's correct.",
-      "reply_to": 430
+      "reply_to": 431
     },
     {
-      "id": 432,
+      "id": 433,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3314,15 +3321,15 @@
       "examination": "cross"
     },
     {
-      "id": 433,
+      "id": 434,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, they were the victorious parties.",
-      "reply_to": 432
+      "reply_to": 433
     },
     {
-      "id": 434,
+      "id": 435,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3330,15 +3337,15 @@
       "examination": "cross"
     },
     {
-      "id": 435,
+      "id": 436,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 434
+      "reply_to": 435
     },
     {
-      "id": 436,
+      "id": 437,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3346,15 +3353,15 @@
       "examination": "cross"
     },
     {
-      "id": 437,
+      "id": 438,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Until that time, I was the Judge of the Lower Court II in Sarajevo in criminal cases and I had been appointed judge in the high court now called cantonal court in Sarajevo. And then in the beginning of 1991 I was persuaded by Vitomir Zepinic and Alija Delimustafic to go to the seat of the Serbian Democratic Party where I met Rajko Djukic and Dr. Radovan Karadzic. Viktor introduced me, told them about my background, and suggested that they appoint me assistant minister for crime prevention. At first I didn't want to accept this. I had had long years of service in the police dealing with violent crimes; however, I was persuaded eventually by Vitomir Zepinic and by my own brother who taught the police school at Vrace.",
-      "reply_to": 436
+      "reply_to": 437
     },
     {
-      "id": 438,
+      "id": 439,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3362,15 +3369,15 @@
       "examination": "cross"
     },
     {
-      "id": 439,
+      "id": 440,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I believe it was the 1st of February or the 1st of March, 1991. At a government session I was appointed assistant minister for crime prevention.",
-      "reply_to": 438
+      "reply_to": 439
     },
     {
-      "id": 440,
+      "id": 441,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3378,15 +3385,15 @@
       "examination": "cross"
     },
     {
-      "id": 441,
+      "id": 442,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I thought then and I think now that the collegium of Minister Delimustafic functioned very well because it had Muslims, Serbs, and Croats in it, people who had mutual respect for each other, and working together to preserve the unity of the MUP.",
-      "reply_to": 440
+      "reply_to": 441
     },
     {
-      "id": 442,
+      "id": 443,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3394,15 +3401,15 @@
       "examination": "cross"
     },
     {
-      "id": 443,
+      "id": 444,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I think our co-operation was really good, and we worked really well until the end of 1991 approximately.",
-      "reply_to": 442
+      "reply_to": 443
     },
     {
-      "id": 444,
+      "id": 445,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3410,15 +3417,15 @@
       "examination": "cross"
     },
     {
-      "id": 445,
+      "id": 446,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "All the three political parties involved made sometimes unreasonable requests and demands, but we did our best to accommodate them in a reasonable way and defuse the tensions between the parties, and we were rather successful in this. For instance, in staffing decisions, one party from one region wanted to appoint a person who had absolutely no experience of police work, and we tried to handle such demands the best way we could. Sometimes I handled this, sometimes Alija Delimustafic, sometimes Kvesic, Branko, or Bruno Stojic. We managed to navigate these waters quite well.",
-      "reply_to": 444
+      "reply_to": 445
     },
     {
-      "id": 446,
+      "id": 447,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3426,15 +3433,15 @@
       "examination": "cross"
     },
     {
-      "id": 447,
+      "id": 448,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do.",
-      "reply_to": 446
+      "reply_to": 447
     },
     {
-      "id": 448,
+      "id": 449,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3442,15 +3449,15 @@
       "examination": "cross"
     },
     {
-      "id": 449,
+      "id": 450,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "He was a party whip, pro-Shiite, pro-Iran, a real hawk of his party, and he had worked together with Mr. Izetbegovic long before the war when the Young Muslims Association or whatever it was called was established. I'm not sure about the name, but I know he was a very radical man who wanted to introduce, pro-Iranian, pro-Shiite aspects into the work of his party.",
-      "reply_to": 448
+      "reply_to": 449
     },
     {
-      "id": 450,
+      "id": 451,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3458,15 +3465,15 @@
       "examination": "cross"
     },
     {
-      "id": 451,
+      "id": 452,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I was born in Sarajevo which is -- which has a majority Muslim population, and I never really felt any different in -- never felt any difference between Serbs and Bosnians and Croats. We in Herzegovina referred to Muslims as Turks and that -- the atmosphere was really relaxing. The Olympic games in 1984 were held in Sarajevo. It was like a door opened towards the west in capitalism, and it brought a lot of well-being. However, with the break-up of Yugoslavia, all this fell through.",
-      "reply_to": 450
+      "reply_to": 451
     },
     {
-      "id": 452,
+      "id": 453,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3474,15 +3481,15 @@
       "examination": "cross"
     },
     {
-      "id": 453,
+      "id": 454,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Of course we knew about this. People from different localities went to Croatia for training, went even to Iran for training, and the Muslims who worked with us, our work colleagues, did not even try to hide it from us. We openly discussed why a political party would be organising such training, and that the chief and the personnel chief Alija Delimustafic and Ibro Selimovic were very offended and felt personally insulted by this, but we couldn't do anything about it.",
-      "reply_to": 452
+      "reply_to": 453
     },
     {
-      "id": 454,
+      "id": 455,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3490,15 +3497,15 @@
       "examination": "cross"
     },
     {
-      "id": 455,
+      "id": 456,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I know that. It was a centre where they were admitted and recruited and later trained in training centres in Croatia which had already been engulfed in war.",
-      "reply_to": 454
+      "reply_to": 455
     },
     {
-      "id": 456,
+      "id": 457,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3506,15 +3513,15 @@
       "examination": "cross"
     },
     {
-      "id": 457,
+      "id": 458,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, in Krajina and in Slavonia.",
-      "reply_to": 456
+      "reply_to": 457
     },
     {
-      "id": 458,
+      "id": 459,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3522,15 +3529,15 @@
       "examination": "cross"
     },
     {
-      "id": 459,
+      "id": 460,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No, I've never seen it here.",
-      "reply_to": 458
+      "reply_to": 459
     },
     {
-      "id": 460,
+      "id": 461,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3538,15 +3545,15 @@
       "examination": "cross"
     },
     {
-      "id": 461,
+      "id": 462,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, we had information about this from the local level, but I can't remember this document.",
-      "reply_to": 460
+      "reply_to": 461
     },
     {
-      "id": 462,
+      "id": 463,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3554,15 +3561,15 @@
       "examination": "cross"
     },
     {
-      "id": 463,
+      "id": 464,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No. I don't know anything about this letter. No, no.",
-      "reply_to": 462
+      "reply_to": 463
     },
     {
-      "id": 464,
+      "id": 465,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3570,15 +3577,15 @@
       "examination": "cross"
     },
     {
-      "id": 465,
+      "id": 466,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "It was not possible for any single person to get employment with the police without a decision from the ministry. If any rules were broken and if job classification was not observed, that was done by the police station. The police stations were not authorised to employ anyone. It was only the ministry that could do that. And if that was done by the police stations, that constituted the breach of law because they did this without the knowledge of the chief of the centre. And that was illegal according to the rules of service. The chief of the centre for any employment has to give his approval. Zupljanin says here that we gave our approval only for one person, and for the rest there was no approval given. And this breach was done by the police station, not the centre.",
-      "reply_to": 464
+      "reply_to": 465
     },
     {
-      "id": 466,
+      "id": 467,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3586,15 +3593,15 @@
       "examination": "cross"
     },
     {
-      "id": 467,
+      "id": 468,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, yes, of course.",
-      "reply_to": 466
+      "reply_to": 467
     },
     {
-      "id": 468,
+      "id": 469,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3602,15 +3609,15 @@
       "examination": "cross"
     },
     {
-      "id": 469,
+      "id": 470,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "The position of the assistant minister for personnel was allocated to the Muslim people based on the inter-party agreement. For a certain period of time, that is to say, until the second half of 1991, this duty was discharged by Himzo Selimovic, a Muslim from Sarajevo, a very respectable person who had worked for a certain period of time in the police. To our utmost surprise, without any proper procedure and without anything, he was dismissed, and Mirsad Srebrenikovic, a Croat, actually a man who had Croatian citizenship and who worked in the mosque in Zagreb and who was a religious master or teacher, he finished religious schooling in Tehran or some place like that, I don't know. I think that created huge problems in the functioning of the joint MUP.",
-      "reply_to": 468
+      "reply_to": 469
     },
     {
-      "id": 470,
+      "id": 471,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3618,15 +3625,15 @@
       "examination": "cross"
     },
     {
-      "id": 471,
+      "id": 472,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "According to the rules in force at the time, the assistant minister for personnel was allowed to employ certain people but having in mind the needs of certain centres and police stations. But he could do that only up to a certain level. That is to say, beat policemen or any other low-ranking policemen. As for higher ranking officials, it had to be done at a higher level. At that time, I think that hundreds of decisions were issued. I think that two or three offices were engaged full time employing Muslims. So the quotas set up by the job classifications were multiplied many times over. For instance, if you needed 15 policemen, they recruited 45 of them. The Muslim chief would just call me and say, I don't know what to do with these people; I don't know who they are; they cannot speak Serbo-Croatian. And that is when we realised that something was very wrong. Of course, we convened meetings immediately, but Srebrenikovic didn't pay any heed to this, and that started to be a serious problem. This Mirsad Srebrenikovic, about whom I discussed with Madam Prosecutor, is still working in Croatia in Zagreb in the mosque. Can you imagine? We grew up in a socialist society and we were not very versed in religious affairs and then all of a sudden you have a religious teacher coming to perform police duties. That was surprise not only for Serbs and Croat, but for Muslims as well. We had to stop everything at noon to allow Mirsad to go and do his prayers or whatever. We were shocked by that. I don't mean to be offensive, really, but this was really shocking for us. And that just added to mistrust amongst ourselves.",
-      "reply_to": 470
+      "reply_to": 471
     },
     {
-      "id": 472,
+      "id": 473,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3634,15 +3641,15 @@
       "examination": "cross"
     },
     {
-      "id": 473,
+      "id": 474,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I discussed this with the minister of the MUP on several occasion, we were friends, but he told me that he was helpless. That that was the policy of the top Muslim leadership who wanted to have the Muslim police and the Muslim army. And if he opposed Cengic and others, he risked losing his job. And he told me several times that he was helpless and that he couldn't do anything about that. I think that there are minutes of meetings, unless they have been destroyed, where we discussed these issues, because we couldn't understand why would a foreign national be appointed to such an important position. And it was done by first removing a Muslim from that position. We just learned later on that this man had come from the mosque and that he was in charge of personnel affairs. But we couldn't resolve this issue in a peaceful and amicable manner.",
-      "reply_to": 472
+      "reply_to": 473
     },
     {
-      "id": 474,
+      "id": 475,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3650,15 +3657,15 @@
       "examination": "cross"
     },
     {
-      "id": 475,
+      "id": 476,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Believe me, I don't. It was a long time ago. I just quoted Bratunac as an example, but we received these complaints from many places, because at the headquarters of the MUP we didn't know anything about that. We didn't know about these people coming from abroad, getting appointments, and starting working. I can't remember all the places from which we received such information, so it was almost a nightmare. We were stunned. The Serbian Democratic Party and the HDAs [as interpreted] reacted immediately, while those from the SDA pretended that they didn't know what we were talking about. They said that this was just recruitment that was on par with the composition of Bosnia-Herzegovina. And then it meant that you have to sack 2.000 Serbs in order to recruit and employ Muslims mainly in order to achieve the balance within the service with respect to the national composition. And couldn't agree with that. I couldn't say to people who had been working for 20 or 15 years who had finished police academy that they should leave the service to vacate a position for someone who would come from the Zagreb mosque or from Iran to work in his place without any vetting or procedures, without any security checks, et cetera.",
-      "reply_to": 474
+      "reply_to": 475
     },
     {
-      "id": 476,
+      "id": 477,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3666,15 +3673,15 @@
       "examination": "cross"
     },
     {
-      "id": 477,
+      "id": 478,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yugoslavia was functioning at the time. We had an information system in place. If somebody came from Raska, for example, we just check whether he had a criminal record or not. It was not a problem.",
-      "reply_to": 476
+      "reply_to": 477
     },
     {
-      "id": 478,
+      "id": 479,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3682,15 +3689,15 @@
       "examination": "cross"
     },
     {
-      "id": 479,
+      "id": 480,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "That happened to a group headed by Ismet Bajramovic. He was a well known criminal, and he carried an official ID. But I don't believe that that was prompted by the reasons that underlied this procedure of people being brought from abroad. I think that this had do with crime and criminality. That was not the same problem.",
-      "reply_to": 478
+      "reply_to": 479
     },
     {
-      "id": 480,
+      "id": 481,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3698,15 +3705,15 @@
       "examination": "cross"
     },
     {
-      "id": 481,
+      "id": 482,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I remember. Mr. Cengic who was the Secretary-General of the SDA who was the most right-wing oriented man in his party. He was pro-Shiite, he was pro-Iranian, he wanted, among other things, to be in charge of personnel policy in the police. It was normal practice for any executive position to have three candidates nominated for that position who fulfilled formal requirements. We are talking about Foca specifically here. The first proposal was for a Muslim, because Muslims constituted a majority in the municipality of Foca. There were three candidates. There was -- one of them was Hodza who was Cengic's relative. Naturally - and I remember exactly the name of that person - we elected Himzo Selimovic. And in agreement with Delimustafic, I signed this letter of appointment or this decision because he was a professional with long service. Himzo Selimovic is policeman number 1 in Sarajevo canton nowadays. I didn't want to see this Hodza from Ustikolina who had finished religious school. Of course, now he is criticising me that I wasn't pursuing the policy in favour of Muslims but I was in some business deals with Delimustafic. That was how we assistants and executives co-operated when we had these unreasonable requests. Some of us bore the brunt of the anger of those people who wanted to take decisions in our stead. I decided to employ Himzo Selimovic. As I said, he is now in the canton in Sarajevo. And he had a long career in the police. You can find, I think, documentation supporting my claim.",
-      "reply_to": 480
+      "reply_to": 481
     },
     {
-      "id": 482,
+      "id": 483,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3714,15 +3721,15 @@
       "examination": "cross"
     },
     {
-      "id": 483,
+      "id": 484,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Mr. Cengic is alleging here that I'm not pursuing the personnel policy that should be afforded to the Muslim people.",
-      "reply_to": 482
+      "reply_to": 483
     },
     {
-      "id": 484,
+      "id": 485,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3730,15 +3737,15 @@
       "examination": "cross"
     },
     {
-      "id": 485,
+      "id": 486,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I am explaining this in rather extensive form.",
-      "reply_to": 484
+      "reply_to": 485
     },
     {
-      "id": 486,
+      "id": 487,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3746,14 +3753,14 @@
       "examination": "cross"
     },
     {
-      "id": 487,
+      "id": 488,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can you please enlarge the Serbian version so that the witness can read it."
     },
     {
-      "id": 488,
+      "id": 489,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3761,15 +3768,15 @@
       "examination": "cross"
     },
     {
-      "id": 489,
+      "id": 490,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. And in order to avoid repeating, these are the very same reasons I've been speak being for quite a while.",
-      "reply_to": 488
+      "reply_to": 489
     },
     {
-      "id": 490,
+      "id": 491,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3777,15 +3784,15 @@
       "examination": "cross"
     },
     {
-      "id": 491,
+      "id": 492,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do.",
-      "reply_to": 490
+      "reply_to": 491
     },
     {
-      "id": 492,
+      "id": 493,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3793,15 +3800,15 @@
       "examination": "cross"
     },
     {
-      "id": 493,
+      "id": 494,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do.",
-      "reply_to": 492
+      "reply_to": 493
     },
     {
-      "id": 494,
+      "id": 495,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3809,15 +3816,15 @@
       "examination": "cross"
     },
     {
-      "id": 495,
+      "id": 496,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, yes.",
-      "reply_to": 494
+      "reply_to": 495
     },
     {
-      "id": 496,
+      "id": 497,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3825,15 +3832,15 @@
       "examination": "cross"
     },
     {
-      "id": 497,
+      "id": 498,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 496
+      "reply_to": 497
     },
     {
-      "id": 498,
+      "id": 499,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3841,15 +3848,15 @@
       "examination": "cross"
     },
     {
-      "id": 499,
+      "id": 500,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 498
+      "reply_to": 499
     },
     {
-      "id": 500,
+      "id": 501,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3857,15 +3864,15 @@
       "examination": "cross"
     },
     {
-      "id": 501,
+      "id": 502,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Can I see page 1 again?",
-      "reply_to": 500
+      "reply_to": 501
     },
     {
-      "id": 502,
+      "id": 503,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3873,15 +3880,15 @@
       "examination": "cross"
     },
     {
-      "id": 503,
+      "id": 504,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do.",
-      "reply_to": 502
+      "reply_to": 503
     },
     {
-      "id": 504,
+      "id": 505,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3889,15 +3896,15 @@
       "examination": "cross"
     },
     {
-      "id": 505,
+      "id": 506,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 504
+      "reply_to": 505
     },
     {
-      "id": 506,
+      "id": 507,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3905,15 +3912,15 @@
       "examination": "cross"
     },
     {
-      "id": 507,
+      "id": 508,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, and that was actually the intention.",
-      "reply_to": 506
+      "reply_to": 507
     },
     {
-      "id": 508,
+      "id": 509,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3921,15 +3928,15 @@
       "examination": "cross"
     },
     {
-      "id": 509,
+      "id": 510,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 508
+      "reply_to": 509
     },
     {
-      "id": 510,
+      "id": 511,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -3937,71 +3944,71 @@
       "examination": "cross"
     },
     {
-      "id": 511,
+      "id": 512,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 510
+      "reply_to": 511
     },
     {
-      "id": 512,
+      "id": 513,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Your Honours, my assistants are signalling me that document 1D121 is still -- still has the status of marked for identification. Unless there are objections by the Prosecution, I seek to tender this document into evidence now. [English] 24. That was the previous document which the -- which the witness commented signed by Minister Alija Delimustafic, dated 26 September 1991."
     },
     {
-      "id": 513,
+      "id": 514,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "Is there an objection?"
     },
     {
-      "id": 514,
+      "id": 515,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "[Microphone not activated]"
     },
     {
-      "id": 515,
+      "id": 516,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Microphone for the Prosecution, if you mean to say anything."
     },
     {
-      "id": 516,
+      "id": 517,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, well, it has your ERN number."
     },
     {
-      "id": 517,
+      "id": 518,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "No objection, Your Honour."
     },
     {
-      "id": 518,
+      "id": 519,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "So we'll lift the MFI status, and it is now entered as an exhibit."
     },
     {
-      "id": 519,
+      "id": 520,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you very much, Your Honours."
     },
     {
-      "id": 520,
+      "id": 521,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4009,15 +4016,15 @@
       "examination": "cross"
     },
     {
-      "id": 521,
+      "id": 522,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 520
+      "reply_to": 521
     },
     {
-      "id": 522,
+      "id": 523,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4025,14 +4032,14 @@
       "examination": "cross"
     },
     {
-      "id": 523,
+      "id": 524,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] 1D03-2191. Tab 25."
     },
     {
-      "id": 524,
+      "id": 525,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4040,14 +4047,14 @@
       "examination": "cross"
     },
     {
-      "id": 525,
+      "id": 526,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can we please see page 2."
     },
     {
-      "id": 526,
+      "id": 527,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4055,15 +4062,15 @@
       "examination": "cross"
     },
     {
-      "id": 527,
+      "id": 528,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do. He was a psychologist by training. And he was appointed assistant for policing. But after these things, he was replaced and Jusuf Pusina was appointed in that position. He was known as a person who disliked Serbs. He came to this position before the elections when the ethnic-based parties won the elections. He came to Doboj to conduct some illegal checks, and that's what I also mentioned.",
-      "reply_to": 526
+      "reply_to": 527
     },
     {
-      "id": 528,
+      "id": 529,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4071,15 +4078,15 @@
       "examination": "cross"
     },
     {
-      "id": 529,
+      "id": 530,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 528
+      "reply_to": 529
     },
     {
-      "id": 530,
+      "id": 531,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4087,15 +4094,15 @@
       "examination": "cross"
     },
     {
-      "id": 531,
+      "id": 532,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 530
+      "reply_to": 531
     },
     {
-      "id": 532,
+      "id": 533,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4103,15 +4110,15 @@
       "examination": "cross"
     },
     {
-      "id": 533,
+      "id": 534,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 532
+      "reply_to": 533
     },
     {
-      "id": 534,
+      "id": 535,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4119,15 +4126,15 @@
       "examination": "cross"
     },
     {
-      "id": 535,
+      "id": 536,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do. You received a copy, but the original was signed and is kept in the ministry in Sarajevo.",
-      "reply_to": 534
+      "reply_to": 535
     },
     {
-      "id": 536,
+      "id": 537,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4135,43 +4142,43 @@
       "examination": "cross"
     },
     {
-      "id": 537,
+      "id": 538,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I wrote this dispatch.",
-      "reply_to": 536
+      "reply_to": 537
     },
     {
-      "id": 538,
+      "id": 539,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Unless there is opposition, I seek to tender this document into evidence?"
     },
     {
-      "id": 539,
+      "id": 540,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "Appears to be none. Admitted and marked."
     },
     {
-      "id": 540,
+      "id": 541,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "As Exhibit 1D255, Your Honours."
     },
     {
-      "id": 541,
+      "id": 542,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 542,
+      "id": 543,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4179,50 +4186,50 @@
       "examination": "cross"
     },
     {
-      "id": 543,
+      "id": 544,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I haven't received it.",
-      "reply_to": 542
+      "reply_to": 543
     },
     {
-      "id": 544,
+      "id": 545,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] 1D11 --"
     },
     {
-      "id": 545,
+      "id": 546,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Could counsel please repeat the number."
     },
     {
-      "id": 546,
+      "id": 547,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] 65 ter 37."
     },
     {
-      "id": 547,
+      "id": 548,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Now I can see it."
     },
     {
-      "id": 548,
+      "id": 549,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 549,
+      "id": 550,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4230,36 +4237,36 @@
       "examination": "cross"
     },
     {
-      "id": 550,
+      "id": 551,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, they became more profound.",
-      "reply_to": 549
+      "reply_to": 550
     },
     {
-      "id": 551,
+      "id": 552,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Right. The document allegedly is dated 6th of Feb, but if you look at the line below it says 2nd of March. So can anybody -- maybe the witness can assist with when this document was issued."
     },
     {
-      "id": 552,
+      "id": 553,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] This document was published on the 6th of February. It mentions the session of the 2nd of March - this must be a typo - a session of the Presidency of the SRBiH."
     },
     {
-      "id": 553,
+      "id": 554,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 554,
+      "id": 555,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4267,15 +4274,15 @@
       "examination": "cross"
     },
     {
-      "id": 555,
+      "id": 556,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I couldn't remember the sequence. The problems were personnel related. It was about the hiring of foreign citizens by the MUP, and these problems were put forward to the Presidency of BiH, and there was discussion. And after the decisions taken, this letter was written. Whether this was on the 2nd of February, 1992, most probably it was. I think this is a typo. And Dr. Karadzic refers to the decisions taken at the cessation of the Presidency, so -- which had to -- which had to have been earlier. I'm sure that there was a session of the Presidency at which these problems were discussed.",
-      "reply_to": 554
+      "reply_to": 555
     },
     {
-      "id": 556,
+      "id": 557,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "question",
@@ -4283,29 +4290,29 @@
       "examination": "cross"
     },
     {
-      "id": 557,
+      "id": 558,
       "speaker": "MOMCILO MANDIC [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "He only worked on Serbian personnel, and these intercepted conversations, most of them, were scrambled. It was explained how Munir went about that. He edited taped conversations, and I prohibited him from entering MUP premises. I even threw him out. But he continued working. He enjoyed the support of his party. And he was the one who jailed Alija Izetbegovic as a young Muslim. And then he became a supporter of some right-wing Muslims. And after the war he co-operated with the chief prosecutor, Karla del Ponte, and the international community, that is, the OHR, banned him from the police service for life because he had given false information to this Tribunal. Of course, that information was verified and then he was banned from doing police work for life.",
-      "reply_to": 556
+      "reply_to": 557
     },
     {
-      "id": 558,
+      "id": 559,
       "speaker": "MR. ZECEVIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Thank you. Your Honours, I believe this is a convenient moment and it's time to adjourn too. Let me just mention that this document hasn't been recorded correctly. It is 65 ter 37. It is already an exhibit, and a reference is 1D117."
     },
     {
-      "id": 559,
+      "id": 560,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
       "text": "That you, Mr. Zecevic. So we take the adjournment, to resume in this courtroom at 9.00 tomorrow morning. Thank you."
     },
     {
-      "id": 560,
+      "id": 561,
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
@@ -4346,43 +4353,43 @@
       "text": "Examination by Ms. Korner:  [Continued]"
     },
     {
-      "after_utterance": 48,
+      "after_utterance": 49,
       "text": "Cross-examination by Mr. Zecevic:"
     },
     {
-      "after_utterance": 187,
+      "after_utterance": 188,
       "text": "[The witness stands down]"
     },
     {
-      "after_utterance": 187,
+      "after_utterance": 188,
       "text": "--- Recess taken at 10.23 a.m."
     },
     {
-      "after_utterance": 187,
+      "after_utterance": 188,
       "text": "--- On resuming at 10.53 a.m."
     },
     {
-      "after_utterance": 189,
+      "after_utterance": 190,
       "text": "[The witness takes the stand]"
     },
     {
-      "after_utterance": 400,
+      "after_utterance": 401,
       "text": "[The witness stands down]"
     },
     {
-      "after_utterance": 400,
+      "after_utterance": 401,
       "text": "--- Recess taken at 12.05 p.m."
     },
     {
-      "after_utterance": 400,
+      "after_utterance": 401,
       "text": "--- On resuming at 12.31 a.m."
     },
     {
-      "after_utterance": 402,
+      "after_utterance": 403,
       "text": "[The witness takes the stand]"
     },
     {
-      "after_utterance": 559,
+      "after_utterance": 560,
       "text": "--- Whereupon the hearing adjourned at 1.48 p.m.,"
     }
   ],

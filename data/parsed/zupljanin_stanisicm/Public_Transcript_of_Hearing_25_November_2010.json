@@ -1,6 +1,6 @@
 {
   "case": "zupljanin_stanisicm",
-  "case_id": "IT-08-91-T",
+  "case_id": "IT-08-91",
   "date": "2010-11-25",
   "utterances": [
     {
@@ -2221,7 +2221,7 @@
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, Mr. Cvijetic. Further Cross-examination by Mr. Cvijetic:"
+      "text": "Yes, Mr. Cvijetic."
     },
     {
       "id": 291,
@@ -2232,11 +2232,11 @@
     },
     {
       "id": 292,
-      "speaker": "MR. DEMIRDJIAN",
+      "speaker": "MR. CVIJETIC",
       "role": "counsel",
       "type": "question",
       "text": "But I believe you said something else. Could you please repeat?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 293,
@@ -2248,11 +2248,11 @@
     },
     {
       "id": 294,
-      "speaker": "MR. DEMIRDJIAN",
+      "speaker": "MR. CVIJETIC",
       "role": "counsel",
       "type": "question",
       "text": "Just say when you got it.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 295,
@@ -2292,11 +2292,11 @@
     },
     {
       "id": 300,
-      "speaker": "MR. DEMIRDJIAN",
+      "speaker": "MR. CVIJETIC",
       "role": "counsel",
       "type": "question",
       "text": "Yes, you've already said as much. It was just the date that mattered to me.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 301,
@@ -2394,7 +2394,7 @@
       "speaker": "JUDGE HALL",
       "role": "judge",
       "type": "statement",
-      "text": "The Bench has some questions of the witness, after which we have a short oral ruling to deliver, then we will hear from counsel as to whether they have a report on the matter we raised just before the break. And we will take the adjournment for the day, because it is obvious that we couldn't complete the next witness before, so we would begin his testimony tomorrow. Questioned by the Court:"
+      "text": "The Bench has some questions of the witness, after which we have a short oral ruling to deliver, then we will hear from counsel as to whether they have a report on the matter we raised just before the break. And we will take the adjournment for the day, because it is obvious that we couldn't complete the next witness before, so we would begin his testimony tomorrow."
     },
     {
       "id": 315,
@@ -3315,6 +3315,10 @@
       "text": "[Prosecution counsel confer]"
     },
     {
+      "after_utterance": 290,
+      "text": "Further Cross-examination by Mr. Cvijetic:"
+    },
+    {
       "after_utterance": 302,
       "text": "[Trial Chamber confers]"
     },
@@ -3337,6 +3341,10 @@
     {
       "after_utterance": 313,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 314,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 354,

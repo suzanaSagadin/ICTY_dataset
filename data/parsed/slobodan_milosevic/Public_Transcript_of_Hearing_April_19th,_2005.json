@@ -302,14 +302,15 @@
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
-      "text": "Mr. Bulatovic, you remain subject to the declaration that you made. Mr. Nice, please continue. Cross-examined by Mr. Nice: [Continued]"
+      "text": "Mr. Bulatovic, you remain subject to the declaration that you made. Mr. Nice, please continue."
     },
     {
       "id": 44,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. NICE",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Bulatovic, a couple matters of history. Vojvodina had enjoyed some autonomy in the Austro-Hungarian Empire and in 1946 was accorded the title of province in its autonomous status as opposed to the different title of Oblast for Kosovo; correct?"
+      "text": "Mr. Bulatovic, a couple matters of history. Vojvodina had enjoyed some autonomy in the Austro-Hungarian Empire and in 1946 was accorded the title of province in its autonomous status as opposed to the different title of Oblast for Kosovo; correct?",
+      "examination": "cross"
     },
     {
       "id": 45,
@@ -831,6 +832,10 @@
     {
       "after_utterance": 42,
       "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 43,
+      "text": "Cross-examined by Mr. Nice: [Continued]"
     },
     {
       "after_utterance": 83,

@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2013-10-21",
   "utterances": [
     {
@@ -1644,7 +1644,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "I have one more question for you before I give an opportunity to Ms. Marcus for re-examination. Questioned by the Court:"
+      "text": "I have one more question for you before I give an opportunity to Ms. Marcus for re-examination."
     },
     {
       "id": 217,
@@ -1909,15 +1909,15 @@
       "speaker": "MR. STOJANOVIC",
       "role": "counsel",
       "type": "statement",
-      "text": "[Interpretation] That's right, Your Honour, just one question. Further Cross-examination by Mr. Stojanovic:"
+      "text": "[Interpretation] That's right, Your Honour, just one question."
     },
     {
       "id": 253,
-      "speaker": "MS. MARCUS",
+      "speaker": "MR. STOJANOVIC",
       "role": "counsel",
       "type": "question",
       "text": "[Interpretation] Today, in response to Judge Orie's question, at one point in time you said that this was loud communication and that you could hear that. This is what I'm asking you now: How is it possible, then, that part of this communication that you described in such a way you did not write down and you could not hear?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 254,
@@ -2366,8 +2366,16 @@
       "text": "[Trial Chamber confers]"
     },
     {
+      "after_utterance": 216,
+      "text": "Questioned by the Court:"
+    },
+    {
       "after_utterance": 240,
       "text": "Re-examination by Ms. Marcus:"
+    },
+    {
+      "after_utterance": 252,
+      "text": "Further Cross-examination by Mr. Stojanovic:"
     },
     {
       "after_utterance": 262,

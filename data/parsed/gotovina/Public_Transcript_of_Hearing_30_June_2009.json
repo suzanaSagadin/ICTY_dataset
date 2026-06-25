@@ -1,6 +1,6 @@
 {
   "case": "gotovina",
-  "case_id": "IT-06-90-T",
+  "case_id": "IT-06-90",
   "date": "2009-06-30",
   "utterances": [
     {
@@ -6480,7 +6480,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Judge Kinis has one or more questions for you. Questioned by the Court:"
+      "text": "Judge Kinis has one or more questions for you."
     },
     {
       "id": 870,
@@ -6851,15 +6851,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, Mr. Kehoe. Further examination by Mr. Kehoe"
+      "text": "Yes, Mr. Kehoe."
     },
     {
       "id": 920,
-      "speaker": "MR. HEDARALY",
+      "speaker": "MR. KEHOE",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Perkovic, Judge Kinis asked you - this was at page 95, line 20. Judge Kinis asked - excuse me, line 18 is the question - \"did you travel by personal vehicles, or did you have some service cars?\" And your answer was: \"Both. Military vehicles and civilian vehicles were used.\" Sorry. Now, after Operation Storm, what did you drive around in? A military vehicle or a civilian vehicle?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 921,
@@ -6871,11 +6871,11 @@
     },
     {
       "id": 922,
-      "speaker": "MR. HEDARALY",
+      "speaker": "MR. KEHOE",
       "role": "counsel",
       "type": "question",
       "text": "And which was the civilian vehicle that you travelled around in?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 923,
@@ -7312,6 +7312,14 @@
     {
       "after_utterance": 868,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 869,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 919,
+      "text": "Further examination by Mr. Kehoe"
     },
     {
       "after_utterance": 945,

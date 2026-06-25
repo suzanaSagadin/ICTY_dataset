@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2013-04-23",
   "utterances": [
     {
@@ -2673,10 +2673,17 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes. Meanwhile, Mr. Rave, you'll -- after half a minute you'll be cross-examined by Mr. Lukic. Mr. Lukic is counsel for Mr. Mladic and you'll find him to your left."
+      "text": "Yes. Meanwhile, Mr. Rave, you'll -- after half a minute you'll be"
     },
     {
       "id": 356,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "type": "statement",
+      "text": "you'll find him to your left."
+    },
+    {
+      "id": 357,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -2684,15 +2691,15 @@
       "examination": "cross"
     },
     {
-      "id": 357,
+      "id": 358,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Good morning.",
-      "reply_to": 356
+      "reply_to": 357
     },
     {
-      "id": 358,
+      "id": 359,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -2700,22 +2707,22 @@
       "examination": "cross"
     },
     {
-      "id": 359,
+      "id": 360,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "No, I'm not aware of that.",
-      "reply_to": 358
+      "reply_to": 359
     },
     {
-      "id": 360,
+      "id": 361,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can we call up 1D887 in e-court."
     },
     {
-      "id": 361,
+      "id": 362,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -2723,14 +2730,14 @@
       "examination": "cross"
     },
     {
-      "id": 362,
+      "id": 363,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] We need page 32 in e-court. That should correspond to transcript page 6849. We need lines 11 through 23."
     },
     {
-      "id": 363,
+      "id": 364,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -2738,49 +2745,49 @@
       "examination": "cross"
     },
     {
-      "id": 364,
+      "id": 365,
       "speaker": "JUDGE FLUEGGE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic, I think it would be fair if you could indicate the origin of the quotation you have put to the witness."
     },
     {
-      "id": 365,
+      "id": 366,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour, it's D20 in Tolimir case, but we were not able to locate the very document since we have some problems with the electronics. And I had to quote from the transcript, from the Tolimir trial."
     },
     {
-      "id": 366,
+      "id": 367,
       "speaker": "JUDGE FLUEGGE",
       "role": "judge",
       "type": "statement",
       "text": "At least it is stated --"
     },
     {
-      "id": 367,
+      "id": 368,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Overlapping speakers] --"
     },
     {
-      "id": 368,
+      "id": 369,
       "speaker": "JUDGE FLUEGGE",
       "role": "judge",
       "type": "statement",
       "text": "At least it is stated in lines 4 and 5 that: \"This is a report based on a debriefing which says, amongst other things ...\" and so on."
     },
     {
-      "id": 369,
+      "id": 370,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I will clarify this with the witness. Thank you."
     },
     {
-      "id": 370,
+      "id": 371,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -2788,15 +2795,15 @@
       "examination": "cross"
     },
     {
-      "id": 371,
+      "id": 372,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Yes, a debriefing took place, but I can't imagine that in my debriefing I stated this. One thing that rings a bell is that somebody was shot in the head and that one of the DutchBat soldiers was aware of this and he reported it. But I don't think I reported this in my debriefings. It might be from a debriefing from another DutchBat soldier.",
-      "reply_to": 370
+      "reply_to": 371
     },
     {
-      "id": 372,
+      "id": 373,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -2804,147 +2811,147 @@
       "examination": "cross"
     },
     {
-      "id": 373,
+      "id": 374,
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
       "text": "For the record --"
     },
     {
-      "id": 374,
+      "id": 375,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, sir, sorry."
     },
     {
-      "id": 375,
+      "id": 376,
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
       "text": "I just wanted say for the record, it's Mr. Rave not Mr. Evert, number 1. Number two, I think if you could make clear that, in fact, this debriefing is not a debriefing of the witness but he was being read this part."
     },
     {
-      "id": 376,
+      "id": 377,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour, I will."
     },
     {
-      "id": 377,
+      "id": 378,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, that should be clarified at least. It should be perfectly clear what you put to the witness, whether you put to him what is his own words or whether it's someone else's words. If the Prosecution could assist in any way to get hold of the debriefing report and the actual -- one second. I'm ..."
     },
     {
-      "id": 378,
+      "id": 379,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "I think that Madam Registrar suggests that she might be able to assist the parties. Something is on our screen now which -- I don't know provided by whom at this very moment but ..."
     },
     {
-      "id": 379,
+      "id": 380,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "I think that Madam Registrar has located this report, Mr. Jeremy, Mr. Lukic, and if you would like to use that, if you have got the page reference, but I think in the Tolimir it refers to paragraph 3.58. If you would like to -- Mr. Jeremy."
     },
     {
-      "id": 380,
+      "id": 381,
       "speaker": "MR. JEREMY",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Mr. President. Ms. Stewart tells me that the document that Madam Registrar identified is on our 65 ter exhibit list as 17353."
     },
     {
-      "id": 381,
+      "id": 382,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Okay. Then, Mr. Lukic, if you would like to use that, it is on the Prosecution's 65 ter list. Just say yes and then you will be assisted."
     },
     {
-      "id": 382,
+      "id": 383,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I think that I'm finished, actually, with this document. I just have this introductory question, but I will clarify what you -- Your Honours think that I should clarify with this witness."
     },
     {
-      "id": 383,
+      "id": 384,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Let's do that on the basis of the document --"
     },
     {
-      "id": 384,
+      "id": 385,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Okay."
     },
     {
-      "id": 385,
+      "id": 386,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "-- which --"
     },
     {
-      "id": 386,
+      "id": 387,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Then can we --"
     },
     {
-      "id": 387,
+      "id": 388,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "-- has been referred to in the Tolimir --"
     },
     {
-      "id": 388,
+      "id": 389,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Okay. Then can we have in the e-court 17353, but since I didn't have this document in my hands, I don't know on which page this paragraph is."
     },
     {
-      "id": 389,
+      "id": 390,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Well, it is paragraph 3 --"
     },
     {
-      "id": 390,
+      "id": 391,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "58."
     },
     {
-      "id": 391,
+      "id": 392,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "-- .58. I take it that it is a ... 3.58 is to be found on -- beginning on e-court page 38. Was this 3.58? Yes."
     },
     {
-      "id": 392,
+      "id": 393,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 393,
+      "id": 394,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -2952,57 +2959,57 @@
       "examination": "cross"
     },
     {
-      "id": 394,
+      "id": 395,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I think when we returned, that in August the debriefing of all DutchBat soldiers started and, in my opinion, this is paragraph on a summary of all the debriefings. So I don't remember anything more than I told you. And one of the soldiers might have told this in his debriefing, but ...",
-      "reply_to": 393
+      "reply_to": 394
     },
     {
-      "id": 395,
+      "id": 396,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Well, I think it's clear it does not appear as a quote from this witness in paragraph 3.58 in this report. I think that is what we wanted to know for sure and it has been established."
     },
     {
-      "id": 396,
+      "id": 397,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour. And I think it's time for our break."
     },
     {
-      "id": 397,
+      "id": 398,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, it indeed is. We will take a break and we resume after the witness has left the courtroom, and he's invited to follow the usher, and we will resume after that at 20 minutes past 12.00."
     },
     {
-      "id": 398,
+      "id": 399,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Could the witness be escorted into the courtroom, please."
     },
     {
-      "id": 399,
+      "id": 400,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic, you may proceed."
     },
     {
-      "id": 400,
+      "id": 401,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour."
     },
     {
-      "id": 401,
+      "id": 402,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3010,15 +3017,15 @@
       "examination": "cross"
     },
     {
-      "id": 402,
+      "id": 403,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Yes, thanks.",
-      "reply_to": 401
+      "reply_to": 402
     },
     {
-      "id": 403,
+      "id": 404,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3026,15 +3033,15 @@
       "examination": "cross"
     },
     {
-      "id": 404,
+      "id": 405,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I know that some fights were going on between the BiH and the VRS soldiers, but I'm not aware that BiH soldiers wore blue caps.",
-      "reply_to": 403
+      "reply_to": 404
     },
     {
-      "id": 405,
+      "id": 406,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3042,15 +3049,15 @@
       "examination": "cross"
     },
     {
-      "id": 406,
+      "id": 407,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "When the VRS started to attack the enclave, BiH soldiers went to the vicinities of the UN OPs, opened fire towards the VRS, and tried to involve the UN in the fights towards the VRS.",
-      "reply_to": 405
+      "reply_to": 406
     },
     {
-      "id": 407,
+      "id": 408,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3058,15 +3065,15 @@
       "examination": "cross"
     },
     {
-      "id": 408,
+      "id": 409,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "No. The only thing I know is that the VRS opened fire towards the town of Srebrenica especially with tanks, mortars, and other heavy weapons and not the other way around.",
-      "reply_to": 407
+      "reply_to": 408
     },
     {
-      "id": 409,
+      "id": 410,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3074,29 +3081,29 @@
       "examination": "cross"
     },
     {
-      "id": 410,
+      "id": 411,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 409
-    },
-    {
-      "id": 411,
-      "speaker": "MR. LUKIC",
-      "role": "counsel",
-      "type": "statement",
-      "text": "[Interpretation] Could we now, with Ms. Stewart's assistance, see 65 ter -- or, in fact, today it's become an exhibit already, a Prosecution exhibit, P1147, more specifically the section V000-9265. That is a video-clip beginning at 5 minutes, 25 seconds, through 6 minutes, 35 seconds. This is a video-clip that was made by a Muslim from Srebrenica and we will now have a chance to see this 1 minute and 10 seconds. Can we please play it."
+      "reply_to": 410
     },
     {
       "id": 412,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
-      "text": "[Interpretation] I thank Ms. Stewart for this."
+      "text": "[Interpretation] Could we now, with Ms. Stewart's assistance, see 65 ter -- or, in fact, today it's become an exhibit already, a Prosecution exhibit, P1147, more specifically the section V000-9265. That is a video-clip beginning at 5 minutes, 25 seconds, through 6 minutes, 35 seconds. This is a video-clip that was made by a Muslim from Srebrenica and we will now have a chance to see this 1 minute and 10 seconds. Can we please play it."
     },
     {
       "id": 413,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation] I thank Ms. Stewart for this."
+    },
+    {
+      "id": 414,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3104,15 +3111,15 @@
       "examination": "cross"
     },
     {
-      "id": 414,
+      "id": 415,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I know where it is.",
-      "reply_to": 413
+      "reply_to": 414
     },
     {
-      "id": 415,
+      "id": 416,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3120,71 +3127,71 @@
       "examination": "cross"
     },
     {
-      "id": 416,
+      "id": 417,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Well, I can't exactly say what the distance was, but it's not too far.",
-      "reply_to": 415
+      "reply_to": 416
     },
     {
-      "id": 417,
+      "id": 418,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "But is that by a couple of hundred metres?"
     },
     {
-      "id": 418,
+      "id": 419,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "Yeah, it's --"
     },
     {
-      "id": 419,
+      "id": 420,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "A couple of kilometres? I mean, \"not too far\" is a relative concept."
     },
     {
-      "id": 420,
+      "id": 421,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "Not more than a couple of hundred metres."
     },
     {
-      "id": 421,
+      "id": 422,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "And \"a couple\" means anything between 200 and ...?"
     },
     {
-      "id": 422,
+      "id": 423,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "I would say between 3- and 700 metres, but I even don't know exactly -- I know the spot, but if it was north of the compound of the Bravo Company or south of it, so ..."
     },
     {
-      "id": 423,
+      "id": 424,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, please proceed."
     },
     {
-      "id": 424,
+      "id": 425,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour."
     },
     {
-      "id": 425,
+      "id": 426,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3192,15 +3199,15 @@
       "examination": "cross"
     },
     {
-      "id": 426,
+      "id": 427,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "As far as I see it now, they are firing in the southern direction.",
-      "reply_to": 425
+      "reply_to": 426
     },
     {
-      "id": 427,
+      "id": 428,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3208,15 +3215,15 @@
       "examination": "cross"
     },
     {
-      "id": 428,
+      "id": 429,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "During the day I saw a lot of civilians in the town of Srebrenica just running around, staying in the town of Srebrenica and not knowing where to go. In the evening of the 10th, when we went to the PTT building, we had to pass a crossroad that was a dirt road in the north-western direction. There we saw a huge column of Muslim men from which a lot of them were military uniforms going in the north-western direction. But for the rest, on the day itself, it was unorganised and people were just running around and trying to find a safe spot for themselves.",
-      "reply_to": 427
+      "reply_to": 428
     },
     {
-      "id": 429,
+      "id": 430,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3224,14 +3231,14 @@
       "examination": "cross"
     },
     {
-      "id": 430,
+      "id": 431,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Could we now briefly take a look at 1D887 in e-court."
     },
     {
-      "id": 431,
+      "id": 432,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3239,14 +3246,14 @@
       "examination": "cross"
     },
     {
-      "id": 432,
+      "id": 433,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] And we need page 67, which is transcript page 6884. Can we zoom in on lines 12 through 14, or rather, we just need line 14."
     },
     {
-      "id": 433,
+      "id": 434,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3254,15 +3261,15 @@
       "examination": "cross"
     },
     {
-      "id": 434,
+      "id": 435,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I think we're mixing up now some things. We were talking about the 10th. On the 10th the people were still in Srebrenica. They were gathering in the vicinity of the UN compound. And I think that when we're talking about this document, we're talking about the 12th or the 13th when the people already left, because they didn't want to leave. They wanted to stay on the UN compound in Srebrenica. The 11th in the morning or in the afternoon we managed to get them in a northern direction, and after that, this is the text we can use but not on the 10th.",
-      "reply_to": 433
+      "reply_to": 434
     },
     {
-      "id": 435,
+      "id": 436,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3270,15 +3277,15 @@
       "examination": "cross"
     },
     {
-      "id": 436,
+      "id": 437,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I don't have the impression that on the 10th there were men in uniform who tried to prevent people leaving Srebrenica. I think they decided themselves to stay where they were because, as I told you before, at one moment on the 11th we had to arrange that they went upwards towards Potocari. But on the 11th they had only one goal: Stay near their own houses or stay on the UN compound, which was a safe place for them.",
-      "reply_to": 435
+      "reply_to": 436
     },
     {
-      "id": 437,
+      "id": 438,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3286,36 +3293,36 @@
       "examination": "cross"
     },
     {
-      "id": 438,
+      "id": 439,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Could we now once again request that Ms. Stewart assist us. Video P1147, the same video-clip, V000-9265, from the eighth minute, 5 seconds, through 8 minutes, 10 seconds. So just a very brief 5-second-long video-clip. Please observe especially the bottom of the video-clip. You see the sentence there where they are trying people to stop. We see that this person in civilian clothing said: C'mon, stay. Where are you going? Addressing the mass of people. And according to this video-clip this was recorded on the 10th of July, 1995."
     },
     {
-      "id": 439,
+      "id": 440,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "But what do you want to prove with this, that there is somebody who is telling the people: Stay here? Well, it's possible.",
-      "reply_to": 437
-    },
-    {
-      "id": 440,
-      "speaker": "MR. LUKIC",
-      "role": "counsel",
-      "type": "statement",
-      "text": "Can we see the video, please."
+      "reply_to": 438
     },
     {
       "id": 441,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
-      "text": "[Interpretation]"
+      "text": "Can we see the video, please."
     },
     {
       "id": 442,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 443,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3323,21 +3330,21 @@
       "examination": "cross"
     },
     {
-      "id": 443,
+      "id": 444,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Could we just replay these five seconds, please."
     },
     {
-      "id": 444,
+      "id": 445,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 445,
+      "id": 446,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3345,29 +3352,29 @@
       "examination": "cross"
     },
     {
-      "id": 446,
+      "id": 447,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I --",
-      "reply_to": 445
+      "reply_to": 446
     },
     {
-      "id": 447,
+      "id": 448,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Interpreter's correction: From left to right."
     },
     {
-      "id": 448,
+      "id": 449,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 449,
+      "id": 450,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3375,57 +3382,57 @@
       "examination": "cross"
     },
     {
-      "id": 450,
+      "id": 451,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 449
+      "reply_to": 450
     },
     {
-      "id": 451,
+      "id": 452,
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
       "text": "I also see, Mr. Lukic --"
     },
     {
-      "id": 452,
+      "id": 453,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 453,
+      "id": 454,
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
       "text": "-- somebody with a blue helmet having a -- three of them, but one of them definitely having something that looks like a gun."
     },
     {
-      "id": 454,
+      "id": 455,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 455,
+      "id": 456,
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
       "text": "So I don't know the other person that you showed."
     },
     {
-      "id": 456,
+      "id": 457,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 457,
+      "id": 458,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3433,29 +3440,29 @@
       "examination": "cross"
     },
     {
-      "id": 458,
+      "id": 459,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 457
+      "reply_to": 458
     },
     {
-      "id": 459,
+      "id": 460,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic --"
     },
     {
-      "id": 460,
+      "id": 461,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 461,
+      "id": 462,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3463,127 +3470,127 @@
       "examination": "cross"
     },
     {
-      "id": 462,
+      "id": 463,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 461
+      "reply_to": 462
     },
     {
-      "id": 463,
+      "id": 464,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic, I still was unable to identify where the man with a Kalashnikov is. Could we take it perhaps shot by shot --"
     },
     {
-      "id": 464,
+      "id": 465,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 465,
+      "id": 466,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "-- so that -- here we see that someone says: Come on, stay. Well, where are you going?"
     },
     {
-      "id": 466,
+      "id": 467,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Forward a couple of seconds ahead. One more, one more, one more. Okay, stop. This is --"
     },
     {
-      "id": 467,
+      "id": 468,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Let me see -- let me see --"
     },
     {
-      "id": 468,
+      "id": 469,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "In a green uniform [overlapping speakers] --"
     },
     {
-      "id": 469,
+      "id": 470,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, is that -- are you referring to a person whose head is visible more or less on the red blouse of a lady?"
     },
     {
-      "id": 470,
+      "id": 471,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour."
     },
     {
-      "id": 471,
+      "id": 472,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Then I have identified. Is that what you saw as well, Witness?"
     },
     {
-      "id": 472,
+      "id": 473,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "Yeah, I saw the same."
     },
     {
-      "id": 473,
+      "id": 474,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. So we have -- is it a Kalashnikov? Can you identify that?"
     },
     {
-      "id": 474,
+      "id": 475,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "No, I can't identify this."
     },
     {
-      "id": 475,
+      "id": 476,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Can you identify at all that it's a fire weapon?"
     },
     {
-      "id": 476,
+      "id": 477,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "It seems to be a long rifle weapon."
     },
     {
-      "id": 477,
+      "id": 478,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Could we perhaps go a few seconds back again so that I can see the sequence because now I know what to look for. Yes, thank you."
     },
     {
-      "id": 478,
+      "id": 479,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour. [Interpretation] Now could we have the same video from the 13th minute, 48 seconds, through 14 minutes, 10 seconds. Can we just pause briefly at the 14th minute, 48 seconds."
     },
     {
-      "id": 479,
+      "id": 480,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3591,29 +3598,29 @@
       "examination": "cross"
     },
     {
-      "id": 480,
+      "id": 481,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 479
+      "reply_to": 480
     },
     {
-      "id": 481,
+      "id": 482,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Can we play the video now, please."
     },
     {
-      "id": 482,
+      "id": 483,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "But can I add something? Because I see a shot now and I think the shot is made from outside the compound point towards the compound and men of \"our army went up there,\" that could be everywhere, not on the truck. Because I think you suggest now that men of the army went up there, that they went in the UN truck, but I think that's jumping to the conclusion because when somebody is taking --"
     },
     {
-      "id": 483,
+      "id": 484,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3621,15 +3628,15 @@
       "examination": "cross"
     },
     {
-      "id": 484,
+      "id": 485,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Okay.",
-      "reply_to": 483
+      "reply_to": 484
     },
     {
-      "id": 485,
+      "id": 486,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3637,21 +3644,21 @@
       "examination": "cross"
     },
     {
-      "id": 486,
+      "id": 487,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Can we move it -- play it now, please."
     },
     {
-      "id": 487,
+      "id": 488,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 488,
+      "id": 489,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3659,77 +3666,77 @@
       "examination": "cross"
     },
     {
-      "id": 489,
+      "id": 490,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic, I'm not yet aware of who is speaking. You put that to the witness, but perhaps you could ask the witness whether he knows who is speaking."
     },
     {
-      "id": 490,
+      "id": 491,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I doubt that, that he might know but --"
     },
     {
-      "id": 491,
+      "id": 492,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Okay. But --"
     },
     {
-      "id": 492,
+      "id": 493,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "-- because it was obviously translated from B/C/S."
     },
     {
-      "id": 493,
+      "id": 494,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, and let me then just -- one second, please."
     },
     {
-      "id": 494,
+      "id": 495,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "We can play it again, if you want, Your Honour."
     },
     {
-      "id": 495,
+      "id": 496,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "No, that's not it. But you say, are only local people from Srebrenica speaking B/C/S?"
     },
     {
-      "id": 496,
+      "id": 497,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "No. But on the -- I can clarify whether there was any Serb soldiers on the 10th in Srebrenica."
     },
     {
-      "id": 497,
+      "id": 498,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "I'm not talking about soldiers yet. You assume a lot of things and the basis for such assumptions is not yet clear. Whether the witness could help us, you may of course give it a try."
     },
     {
-      "id": 498,
+      "id": 499,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour."
     },
     {
-      "id": 499,
+      "id": 500,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3737,15 +3744,15 @@
       "examination": "cross"
     },
     {
-      "id": 500,
+      "id": 501,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "No, I really don't know who made it and who is speaking there.",
-      "reply_to": 499
+      "reply_to": 500
     },
     {
-      "id": 501,
+      "id": 502,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3753,15 +3760,15 @@
       "examination": "cross"
     },
     {
-      "id": 502,
+      "id": 503,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "No, they still were in the southern part of the area and in the southern part in the outskirts of the town of Srebrenica, not in this area.",
-      "reply_to": 501
+      "reply_to": 502
     },
     {
-      "id": 503,
+      "id": 504,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3769,85 +3776,85 @@
       "examination": "cross"
     },
     {
-      "id": 504,
+      "id": 505,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "No, I've no idea that there lived any Serb in Srebrenica during that period.",
-      "reply_to": 503
+      "reply_to": 504
     },
     {
-      "id": 505,
+      "id": 506,
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
       "text": "If I may just intervene. I see Mr. Lukic asked you that: \"On the 10th of July, 1995, the Army of Republika Srpska was not in Srebrenica.\" Are you able to see from this footage the date when this was taken?"
     },
     {
-      "id": 506,
+      "id": 507,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "Yeah, it's the date of the 11th, but as you know, on a video camera you can change dates and timings."
     },
     {
-      "id": 507,
+      "id": 508,
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
       "text": "Okay. But the fact is what we see here is the 11th, not the 10th?"
     },
     {
-      "id": 508,
+      "id": 509,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "In my opinion, as I told you on the 11th --"
     },
     {
-      "id": 509,
+      "id": 510,
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
       "text": "I'm not asking for your opinion. I'm saying what we see on the picture is the 11th, not the 10th."
     },
     {
-      "id": 510,
+      "id": 511,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "It should be the 11th because on the 10th there were no refugees on the compound. And we see them now on the compound, so it must be the 11th."
     },
     {
-      "id": 511,
+      "id": 512,
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
       "text": "Thank you so much."
     },
     {
-      "id": 512,
+      "id": 513,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "And what about the presence of the VRS or Serbs on the 11th?"
     },
     {
-      "id": 513,
+      "id": 514,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "On the 11th the VRS was in the southern part. As I told you, we had blocking positions about in the middle of the town of Srebrenica. In the southern part the Serbs were there moving northwards. So there were Serbs in Srebrenica, but not in this area because this is already the northern part of the town of Srebrenica."
     },
     {
-      "id": 514,
+      "id": 515,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Thank you."
     },
     {
-      "id": 515,
+      "id": 516,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3855,15 +3862,15 @@
       "examination": "cross"
     },
     {
-      "id": 516,
+      "id": 517,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Because there was no standing army and hardly none of them wore a uniform, now and then only parts of a uniform, we knew them by person and not by military outfits or ranks or those kinds of things.",
-      "reply_to": 515
+      "reply_to": 516
     },
     {
-      "id": 517,
+      "id": 518,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3871,15 +3878,15 @@
       "examination": "cross"
     },
     {
-      "id": 518,
+      "id": 519,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I have no idea if members of the BiH army were in the stream of refugees because I don't think that men in uniform went upwards to Potocari. Most of them in uniform disappeared in the evening of the 10th to the 11th in a north-western direction. I can't remember having seen people in uniform going northwards towards Potocari.",
-      "reply_to": 517
+      "reply_to": 518
     },
     {
-      "id": 519,
+      "id": 520,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3887,21 +3894,21 @@
       "examination": "cross"
     },
     {
-      "id": 520,
+      "id": 521,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "The interpreter did not understand one word."
     },
     {
-      "id": 521,
+      "id": 522,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 522,
+      "id": 523,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -3909,99 +3916,99 @@
       "examination": "cross"
     },
     {
-      "id": 523,
+      "id": 524,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "No, I can't exclude it because there were men in an age that normally they would be in the army. They were wearing civilian clothes, so there's always a possibility that there were members or former members from the BiH army among those men going upward to Potocari.",
-      "reply_to": 522
+      "reply_to": 523
     },
     {
-      "id": 524,
+      "id": 525,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic, if you look at the transcript, you'll see that the interpreters missed one of your words. If you would read your question again and tell us what is missing."
     },
     {
-      "id": 525,
+      "id": 526,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I think that this part has sense. I wasn't reading so that's the question I wanted to pose."
     },
     {
-      "id": 526,
+      "id": 527,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Then we can move on."
     },
     {
-      "id": 527,
+      "id": 528,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you. [Interpretation] Can we now briefly see in e-court 18217, that's the 65 ter number."
     },
     {
-      "id": 528,
+      "id": 529,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Before we further look at that, Witness, could you tell us the following if we saw the text that is: \"You see, our army is up there and around.\" At the 11th of July, were there still positions held by the BiH forces?"
     },
     {
-      "id": 529,
+      "id": 530,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "In my opinion, not because I think we were the only ones who had the blocking positions in the town of Srebrenica and the BiH army already were gone."
     },
     {
-      "id": 530,
+      "id": 531,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 531,
+      "id": 532,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "That's my opinion because I was on the compound and not outside of the compound, so I really can't confirm that they weren't there."
     },
     {
-      "id": 532,
+      "id": 533,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, but the information you had was such that you thought they would not be there anymore?"
     },
     {
-      "id": 533,
+      "id": 534,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "Yes, that's correct."
     },
     {
-      "id": 534,
+      "id": 535,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Please proceed."
     },
     {
-      "id": 535,
+      "id": 536,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour. I just have one follow-up question."
     },
     {
-      "id": 536,
+      "id": 537,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4009,15 +4016,15 @@
       "examination": "cross"
     },
     {
-      "id": 537,
+      "id": 538,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "On the 11th on 1500 hours I was on the compound of the Bravo Company in Srebrenica and I really don't know if there were parts of the BiH army in that vicinity, as I just told Mr. Oric [sic]. I really don't know.",
-      "reply_to": 536
+      "reply_to": 537
     },
     {
-      "id": 538,
+      "id": 539,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4025,15 +4032,15 @@
       "examination": "cross"
     },
     {
-      "id": 539,
+      "id": 540,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I can't see the date of the document. I can see the investigation date, it was 2004, but I can't the date of the document. And if it might have been in 2002, of course there's a --",
-      "reply_to": 538
+      "reply_to": 539
     },
     {
-      "id": 540,
+      "id": 541,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4041,15 +4048,15 @@
       "examination": "cross"
     },
     {
-      "id": 541,
+      "id": 542,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "1992. Well, that was three years before the UN entered the enclave and of course it might be possible that I don't know and I'm not aware of this.",
-      "reply_to": 540
+      "reply_to": 541
     },
     {
-      "id": 542,
+      "id": 543,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4057,99 +4064,99 @@
       "examination": "cross"
     },
     {
-      "id": 543,
+      "id": 544,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Oh.",
-      "reply_to": 542
+      "reply_to": 543
     },
     {
-      "id": 544,
+      "id": 545,
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic, if you might just help me, how do we determine that the date of this document is 1992? Where do we find that?"
     },
     {
-      "id": 545,
+      "id": 546,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Since there is no date, Your Honour, on the document but it says -- it's talking only about TO, Territorial Defence, and afterwards there was no TO that there was Army of Bosnia-Herzegovina. So having this TO then we know that it's from 1992 and I wasn't able to locate the date as well. That's why I wasn't claiming that it's -- the document is from 1995."
     },
     {
-      "id": 546,
+      "id": 547,
       "speaker": "JUDGE MOLOTO",
       "role": "judge",
       "type": "statement",
       "text": "When in 1992 did the TO come to an end?"
     },
     {
-      "id": 547,
+      "id": 548,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Probably summer 1992."
     },
     {
-      "id": 548,
+      "id": 549,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Instead of guessing, is there any shared views on when the TO ..."
     },
     {
-      "id": 549,
+      "id": 550,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "Not right now, Mr. President."
     },
     {
-      "id": 550,
+      "id": 551,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "But it seems something that perhaps you could agree on as --"
     },
     {
-      "id": 551,
+      "id": 552,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I hope -- I'm sure that we --"
     },
     {
-      "id": 552,
+      "id": 553,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "-- many other matters --"
     },
     {
-      "id": 553,
+      "id": 554,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "-- can agree on that."
     },
     {
-      "id": 554,
+      "id": 555,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, if in addition to that you could agree on a few more matters which -- then which apparently are not in dispute, it would be highly appreciated. Please proceed."
     },
     {
-      "id": 555,
+      "id": 556,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Thank you."
     },
     {
-      "id": 556,
+      "id": 557,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4157,15 +4164,15 @@
       "examination": "cross"
     },
     {
-      "id": 557,
+      "id": 558,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "We could, of course, ask support as many times as we would, but of course there must be reason to ask support. The decisions to provide us with air support in whatever way was on the higher levels and not even in Tuzla, but it was in Sarajevo and even in Zagreb, I think.",
-      "reply_to": 556
+      "reply_to": 557
     },
     {
-      "id": 558,
+      "id": 559,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4173,22 +4180,22 @@
       "examination": "cross"
     },
     {
-      "id": 559,
+      "id": 560,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I can't answer that question correctly because I really don't know.",
-      "reply_to": 558
+      "reply_to": 559
     },
     {
-      "id": 560,
+      "id": 561,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] 1D887, could we please have a look at that now."
     },
     {
-      "id": 561,
+      "id": 562,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4196,14 +4203,14 @@
       "examination": "cross"
     },
     {
-      "id": 562,
+      "id": 563,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] We need page 51 in e-court and it is supposed to correspond to page 6868 of the transcript in the Tolimir case. We need lines 13 through 22."
     },
     {
-      "id": 563,
+      "id": 564,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4211,15 +4218,15 @@
       "examination": "cross"
     },
     {
-      "id": 564,
+      "id": 565,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I think we're mixing up again two things. Talking about air support in general or talking about air support in this specific case, because in this case we're referring to an ultimatum that was sent to the parties on the 10th of July and in that ultimatum was the statement that when UN positions were attacked that it would be possible for the battalion to ask for air support. So in this specific case it was clear that when the blocking positions were attacked or UN persons were attacked we were able to ask for close air support.",
-      "reply_to": 563
+      "reply_to": 564
     },
     {
-      "id": 565,
+      "id": 566,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4227,15 +4234,15 @@
       "examination": "cross"
     },
     {
-      "id": 566,
+      "id": 567,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "The Army of Bosnia-Herzegovina had no positions because they didn't exist as an army during the period we were there. As I told you, when tensions got stronger, parts of the BiH soldiers went in the vicinity of the UN OPs and tried to get fire on the UN OPs so that when the UN OPs were attacked, they were involved, and of course there was a possibility for us to ask for air support. It was of course not the way that if there were units of the BiH, as far as you can speak about units, that we protect them with our close air support. We were there to protect the enclave, to deter attacks, and to protect ourself, and not to protect the BiH army with supporting them with close air support.",
-      "reply_to": 565
+      "reply_to": 566
     },
     {
-      "id": 567,
+      "id": 568,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4243,15 +4250,15 @@
       "examination": "cross"
     },
     {
-      "id": 568,
+      "id": 569,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "We tried to block because we had our OPs already in the southern part of the enclave, and the VRS went forward all the time. And we had to move backwards with our OPs and we weren't able because we had no ammunition or anything else enough to deter the attack in a proper way. So -- but the only thing we could do was try to block the VRS when they attacked as much as possible and to gain as much as possible time also for the higher echelons eventually to take action.",
-      "reply_to": 567
+      "reply_to": 568
     },
     {
-      "id": 569,
+      "id": 570,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4259,15 +4266,15 @@
       "examination": "cross"
     },
     {
-      "id": 570,
+      "id": 571,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "We were blocking the roads already after the fall of OP Echo in the south. We made several blocking positions or OPs, whatever you can call them, and I think that the first time when we were attacked on the 10th, that physically the VRS attacked UN positions, in my opinion - but I'm not sure because I didn't do it myself - that there was a question for close air support on the 10th.",
-      "reply_to": 569
+      "reply_to": 570
     },
     {
-      "id": 571,
+      "id": 572,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4275,15 +4282,15 @@
       "examination": "cross"
     },
     {
-      "id": 572,
+      "id": 573,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "As a battalion commander he was a lieutenant-colonel.",
-      "reply_to": 571
+      "reply_to": 572
     },
     {
-      "id": 573,
+      "id": 574,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4291,15 +4298,15 @@
       "examination": "cross"
     },
     {
-      "id": 574,
+      "id": 575,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did.",
-      "reply_to": 573
+      "reply_to": 574
     },
     {
-      "id": 575,
+      "id": 576,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4307,113 +4314,113 @@
       "examination": "cross"
     },
     {
-      "id": 576,
+      "id": 577,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Yes. He told the civilian and the military authorities that when the attacks - as was stated in the ultimatum - was going on, the next morning there would be a possibility for an air-strike, so a heavy bombing of a part in the terrain, and possibility for close air support.",
-      "reply_to": 575
+      "reply_to": 576
     },
     {
-      "id": 577,
+      "id": 578,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Interpreter's note: We can hardly hear Mr. Lukic."
     },
     {
-      "id": 578,
+      "id": 579,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "We have some noise --"
     },
     {
-      "id": 579,
+      "id": 580,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic, the interpreters have difficulties hearing you. There is something technically -- there is a kind of echo on the line. And since I don't like to hear myself again -- yes, and it changed halfway, then it went back to a different level. Are there any ..."
     },
     {
-      "id": 580,
+      "id": 581,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Can we check microphones on the accused bench."
     },
     {
-      "id": 581,
+      "id": 582,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "[Microphone not activated] No, apparently there isn't. I still hear a kind of a rumble, a kind of -- could everyone switch his microphone off to see whether that sound remains. When I just opened my microphone, nothing special happens. Could the microphone of the witness be switched on."
     },
     {
-      "id": 582,
+      "id": 583,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "This is the one?"
     },
     {
-      "id": 583,
+      "id": 584,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "[Microphone not activated]"
     },
     {
-      "id": 584,
+      "id": 585,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Could the microphone of the witness be replaced by another one."
     },
     {
-      "id": 585,
+      "id": 586,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "I think it's over."
     },
     {
-      "id": 586,
+      "id": 587,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "And your microphone is still on?"
     },
     {
-      "id": 587,
+      "id": 588,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "Yeah."
     },
     {
-      "id": 588,
+      "id": 589,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Let's move on."
     },
     {
-      "id": 589,
+      "id": 590,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "Problem solved."
     },
     {
-      "id": 590,
+      "id": 591,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "That's fine. It's fixed."
     },
     {
-      "id": 591,
+      "id": 592,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4421,21 +4428,21 @@
       "examination": "cross"
     },
     {
-      "id": 592,
+      "id": 593,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Interpreter's note: Could all unnecessary microphones please be switched off. Thank you."
     },
     {
-      "id": 593,
+      "id": 594,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 594,
+      "id": 595,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4443,15 +4450,15 @@
       "examination": "cross"
     },
     {
-      "id": 595,
+      "id": 596,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I am not aware of that because I was not in that line of communication.",
-      "reply_to": 594
+      "reply_to": 595
     },
     {
-      "id": 596,
+      "id": 597,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4459,14 +4466,14 @@
       "examination": "cross"
     },
     {
-      "id": 597,
+      "id": 598,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] 1D885 is what we need. That's the trial transcript, page 71. It should correspond to transcript page 3473 in the Tolimir trial. From line 5 up to line 10, that's what we need."
     },
     {
-      "id": 598,
+      "id": 599,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4474,15 +4481,15 @@
       "examination": "cross"
     },
     {
-      "id": 599,
+      "id": 600,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I know that Mr. Franken gave a green order. It might have been on the 9th, that might be possible, but because I was not in a fighting unit but always in the negotiation position, I didn't even read this order because it was more for the both companies, Charlie and the Bravo Companies, that were to deal with this and, of course, the battalion staff on the compound in the operation room. But I didn't read it myself.",
-      "reply_to": 598
+      "reply_to": 599
     },
     {
-      "id": 600,
+      "id": 601,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4490,35 +4497,35 @@
       "examination": "cross"
     },
     {
-      "id": 601,
+      "id": 602,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Could the witness also explain to us what his understanding of a green order is because you asked him and you may be interested in his answer."
     },
     {
-      "id": 602,
+      "id": 603,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I am, I just repeated it, but you were talking with Judge Fluegge."
     },
     {
-      "id": 603,
+      "id": 604,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "A green order is not a common word in the communications, but in this case, I would say that all the orders we used as UNPROFOR were blue orders and we acted as UNPROFOR. In my opinion, this green order does only mean that we stop being visible, being only deterring attacks, but going into a real war situation and firing against the enemy that attacks us and more in a green way than in a blue way. Because in an UNPROFOR situation, I don't think that we were able to go in really fighting a war. And when you want to go into the situation that you act as real soldiers, then you have to go -- to do it in a green way. It's a little bit difficult for me to explain what the real difference is between green and blue because the green order doesn't exist. It's just an order. And we switched a little bit more from blue towards green, and I think that's why it was called a green order. Because normally, as you know, the positions we were on, in an OP, for example, was on the top of the hill with a lot of light, white vehicles, white markings on everything, so that's not a military position. That's a sitting duck who is looking around. And when you have to fight a war and defend yourself, then you go in another mode."
     },
     {
-      "id": 604,
+      "id": 605,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 605,
+      "id": 606,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4526,21 +4533,21 @@
       "examination": "cross"
     },
     {
-      "id": 606,
+      "id": 607,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "That's a few questions together. Could you split up, please, Mr. Lukic."
     },
     {
-      "id": 607,
+      "id": 608,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I will. Thank you."
     },
     {
-      "id": 608,
+      "id": 609,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4548,57 +4555,57 @@
       "examination": "cross"
     },
     {
-      "id": 609,
+      "id": 610,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I have to answer the question in yes and no. I know that our role changed, but I also know that in -- as far as I remember, the order was not directly to fire on the VRS soldiers, but to fire overhead. Because we were in the minority, we had no possibilities to go into a real fight, so the only thing was to try to deter, warn them, and give them the warning by firing overhead that they had to stop. And I don't think that there was an order, as far as I know, directly to attack the VRS.",
-      "reply_to": 608
+      "reply_to": 609
     },
     {
-      "id": 610,
+      "id": 611,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Could I seek some clarification there as well. Part of your answer suggests - that's at least what I hear - that it was firing -- returning fire if they would not stop, unless I misunderstood that. Whereas at the end you say -- that there was no -- I don't think there was an order directly to attack the VRS. Now, we have two issues apparently. The one is whether or not to fire and the second is whether or not to attack or to return an attack. Could you, in your answer, distinguish between these two elements of what you told us?"
     },
     {
-      "id": 611,
+      "id": 612,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "When you are directly personally attacked, either on person or in a vehicle, then you have the possibility to try to stop the attack on those vehicles, on those persons. When an attack is going on from front -- from the enemy, as we call it from this moment on, I think, we were not able to stop them because we hadn't the vehicles, we hadn't the ammunition, we hadn't the weapons to stop them, so the order was to try to deter the attack by firing overhead, warning them, and warning them by stopping. The other possibility was, of course, and that was in the other stage, that we asked for close air support. The UN was attacked, we didn't have the means ourselves to defend ourselves enough, so we asked for close air support and then we got a direct attack on the VRS."
     },
     {
-      "id": 612,
+      "id": 613,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Was there -- were you allowed in any way to fire at whomever without you being fired at before that?"
     },
     {
-      "id": 613,
+      "id": 614,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "No, before that it wasn't possible because only when you were attacked yourself or somebody else and you had to stop it, then you were able to fire."
     },
     {
-      "id": 614,
+      "id": 615,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, thank you. Please proceed."
     },
     {
-      "id": 615,
+      "id": 616,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 616,
+      "id": 617,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4606,15 +4613,15 @@
       "examination": "cross"
     },
     {
-      "id": 617,
+      "id": 618,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I didn't see the green order.",
-      "reply_to": 616
+      "reply_to": 617
     },
     {
-      "id": 618,
+      "id": 619,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4622,15 +4629,15 @@
       "examination": "cross"
     },
     {
-      "id": 619,
+      "id": 620,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "Yeah, because he was the one who organised the operational part of the whole party.",
-      "reply_to": 618
+      "reply_to": 619
     },
     {
-      "id": 620,
+      "id": 621,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4638,91 +4645,91 @@
       "examination": "cross"
     },
     {
-      "id": 621,
+      "id": 622,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, we'll take a break, but could we first invite the witness to leave the courtroom. We resume in 20 minutes from now."
     },
     {
-      "id": 622,
+      "id": 623,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "20 minutes from now means 20 minutes to 2.00."
     },
     {
-      "id": 623,
+      "id": 624,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Could the witness be escorted into the courtroom. Mr. Lukic, could you give us an indication as to where we are in terms of time?"
     },
     {
-      "id": 624,
+      "id": 625,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I can see that I have a lot. I think that I can finish maybe a bit before the time I asked for since this witness for us is very important to explain some crucial things from those crucial days in Srebrenica."
     },
     {
-      "id": 625,
+      "id": 626,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, and again your estimate was?"
     },
     {
-      "id": 626,
+      "id": 627,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Five hours."
     },
     {
-      "id": 627,
+      "id": 628,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Five hours. And you think you could -- okay. Then we'll -- but you say there's even a little chance that you would finish earlier?"
     },
     {
-      "id": 628,
+      "id": 629,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour."
     },
     {
-      "id": 629,
+      "id": 630,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Then we'll wait and see."
     },
     {
-      "id": 630,
+      "id": 631,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 631,
+      "id": 632,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic, you may proceed."
     },
     {
-      "id": 632,
+      "id": 633,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Thank you."
     },
     {
-      "id": 633,
+      "id": 634,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4730,14 +4737,14 @@
       "examination": "cross"
     },
     {
-      "id": 634,
+      "id": 635,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] I'd like us to look at 1D885. I think that we have the document on our screens. We need page 51 in the e-court, which should correspond to page 3453. That's the transcript page from the Tolimir case. We need lines 12 onwards."
     },
     {
-      "id": 635,
+      "id": 636,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4745,15 +4752,15 @@
       "examination": "cross"
     },
     {
-      "id": 636,
+      "id": 637,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I think the order was issued by Mr. Franken himself, so I think he took the decision together with Colonel Karremans to issue this order. And in a better position, well, I think that they took the decision to protect their own unit and, as much as possible, the people of the enclave.",
-      "reply_to": 635
+      "reply_to": 636
     },
     {
-      "id": 637,
+      "id": 638,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4761,14 +4768,14 @@
       "examination": "cross"
     },
     {
-      "id": 638,
+      "id": 639,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] I'd like to read something from page 81 of the same document which should correspond to -- that's page 81 in e-court. It should correspond to page number 3483 of the transcript from the Tolimir case, where General Tolimir asked Mr. Franken from line 22 through to the end of the page and we have to move on to the next page up until line 8."
     },
     {
-      "id": 639,
+      "id": 640,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4776,141 +4783,141 @@
       "examination": "cross"
     },
     {
-      "id": 640,
+      "id": 641,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I think that you state now that we were in a war, yes, we were in a war because we were attacked as being in a war, and I think we tried to defend ourselves and the population of the enclave with all the means we had - and that wasn't too much. But of course you get a situation that you can speak of a war situation, but it was not declaring a war towards anybody. We just got into it.",
-      "reply_to": 639
+      "reply_to": 640
     },
     {
-      "id": 641,
+      "id": 642,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic --"
     },
     {
-      "id": 642,
+      "id": 643,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Overlapping speakers] --"
     },
     {
-      "id": 643,
+      "id": 644,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "-- we are talking about apparently two orders, one order by the UN that the mandate was changed and a green order. We are talking about it. I haven't seen any order. Is there any recording, written or otherwise, of the one order, the UN order, as the witness told us, or the order issued by Mr. Franken?"
     },
     {
-      "id": 644,
+      "id": 645,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "All I located by now was this testimony of Mr. Franken and I --"
     },
     {
-      "id": 645,
+      "id": 646,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 646,
+      "id": 647,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Give me one second."
     },
     {
-      "id": 647,
+      "id": 648,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 648,
+      "id": 649,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "A colleague of mine, Mr. Stojanovic, who was part of two Srebrenica trials told -- just told me that he has never seen any written order in this regard. Maybe that can be found somewhere in -- among US cables -- UN cables, but we haven't located it yet. We'll try to locate those orders as much as we can."
     },
     {
-      "id": 649,
+      "id": 650,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Because if I -- if I understand what Mr. Franken apparently has said - you quoted that - they were just in an ordinary combat situation, which would mean that you would take territory -- I mean, is that all involved? I've got no idea but --"
     },
     {
-      "id": 650,
+      "id": 651,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "We'll have Mr. Franken in a couple of days here in front of Your Honours."
     },
     {
-      "id": 651,
+      "id": 652,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, okay. Then we'll see what he tells us. Were you ever informed about the green order and what it exactly was?"
     },
     {
-      "id": 652,
+      "id": 653,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "No, I know about the existence of the green order and I know that we went into a kind of war situation, but I've never seen the order and I've never seen exactly what was in it and what would be my role in it. My mandate didn't change because we just went on with our work. The only thing I think is the most important thing for the two companies who had to do the operational part of the things, they got the green order. And I think that the rest of the battalion just went on as we did before the green order was issued."
     },
     {
-      "id": 653,
+      "id": 654,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Now you've explained to us that, first of all, that there's not the green order but there was an order you called the green order of which you do not know the content exactly. Second, that one of the consequences was to going more in a military situation, green -- more the direction of green rather than blue, that you would be less visible and that you would fire if there was any fire at you, either if you identified the source of fire clearly that you would fire at that target and, otherwise, if it was a broader kind of an attack that you would fire --"
     },
     {
-      "id": 654,
+      "id": 655,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "Overhead."
     },
     {
-      "id": 655,
+      "id": 656,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "-- overhead. To your knowledge, was there anything else in that order you were aware of?"
     },
     {
-      "id": 656,
+      "id": 657,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "No, I really don't know what else was in that order."
     },
     {
-      "id": 657,
+      "id": 658,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic, please proceed."
     },
     {
-      "id": 658,
+      "id": 659,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Thank you."
     },
     {
-      "id": 659,
+      "id": 660,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4918,50 +4925,50 @@
       "examination": "cross"
     },
     {
-      "id": 660,
+      "id": 661,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "There wasn't a real agreement against -- between the BiH and the Dutch Battalion in fighting against the VRS. I know I was in a meeting where Mr. Franken explained to the BiH leaders in the enclave that we were sitting on the OPs, we would defend the OPs and try to deter as much as possible attacks from the VRS towards the enclave. Of course, they were aware where our OPs were and in what space there was no defence for the enclave at all. So it wasn't said loudly, but they knew we were on the OPs. They knew that there was a part of terrain between several OPs that was not defended and, of course, they could take their own plans to go into those gaps. They asked us several times that if we would leave the OPs because we were attacked, just to inform them in time so that they could take over the OPs. And of course that started already when the OP Echo fell, they wanted -- the BH wanted to go forward and take over the OPs.",
-      "reply_to": 659
+      "reply_to": 660
     },
     {
-      "id": 661,
+      "id": 662,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] Can we now have a look at 1D888 in e-court."
     },
     {
-      "id": 662,
+      "id": 663,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Could I meanwhile ask the following: You said they requested that they would be informed if you would leave your OPs. Did you do it? Did you agree that you would inform them?"
     },
     {
-      "id": 663,
+      "id": 664,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "No, because we would not leave the OPs abandoned. It just happened when we were attacked and then left the OPs, but we didn't inform them that we left the OPs. But there were so many people in and around the OPs that they knew and they saw that we went back."
     },
     {
-      "id": 664,
+      "id": 665,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 665,
+      "id": 666,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation] We see here a document issued by the command of the 28th Division of the Srebrenica land forces. The document was sent by Naser Oric and we'll see that on the next page. Can we have that? We'll see that he signed as commander brigadier and it's addressed to the Chief of Staff Major Ramiz Becirovic. The letter was sent on the 31st of May, 1995. And under 1 - this is page 2 - we see that -- of course, since it's in the form of a telegram there is no handwritten signature. We need page 1 again."
     },
     {
-      "id": 666,
+      "id": 667,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4969,15 +4976,15 @@
       "examination": "cross"
     },
     {
-      "id": 667,
+      "id": 668,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "But what is your question?",
-      "reply_to": 666
+      "reply_to": 667
     },
     {
-      "id": 668,
+      "id": 669,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -4985,35 +4992,35 @@
       "examination": "cross"
     },
     {
-      "id": 669,
+      "id": 670,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "You've explained why you put an earlier question to the witness."
     },
     {
-      "id": 670,
+      "id": 671,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yeah, because I didn't get the answer on that part of my question so that's why I have to -- why I had to repeat it."
     },
     {
-      "id": 671,
+      "id": 672,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "I think you suggest now that on the 26th of May we started to negotiate with the command of the 28th Division. We started to talk to the military component in the enclave in the beginning of January when we entered. And during this whole period, of course, they tried to get advantage of us, to get their own freedom of movement, to steer us in the direction they wanted. A good example is, for example, the OP Bravo in the western part of the enclave, they wanted to decide where we would put our OP. We didn't. And of course I think the game they are talking about here was going on from the beginning of January till the end, trying to get advantage from the battalion, trying to get, it's possible, of course, as much information about the VRS, what was going on, about what was going on outside the enclave, and about how the UN would react on eventual attacks from the VRS."
     },
     {
-      "id": 672,
+      "id": 673,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 673,
+      "id": 674,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -5021,15 +5028,15 @@
       "examination": "cross"
     },
     {
-      "id": 674,
+      "id": 675,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "That's correct.",
-      "reply_to": 673
+      "reply_to": 674
     },
     {
-      "id": 675,
+      "id": 676,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -5037,15 +5044,15 @@
       "examination": "cross"
     },
     {
-      "id": 676,
+      "id": 677,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "I think I already answered the question. There was an ultimatum and the ultimatum was that when the VRS continued attacking UN positions, that there was a possibility for close air support and an air-strike. And an air-strike does mean an airship with lots of weapons on board who is able to destroy a square kilometre in the terrain. That was told that was in the ultimatum. And it was promised that when the VRS continues attacking Srebrenica and the UN, it would be asked to use those means. And then I jump directly to the answer. We asked for it the next morning when the VRS continued the attack, but we didn't get the answer.",
-      "reply_to": 675
+      "reply_to": 676
     },
     {
-      "id": 677,
+      "id": 678,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -5053,147 +5060,147 @@
       "examination": "cross"
     },
     {
-      "id": 678,
+      "id": 679,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic, the change of a mandate and any mass-scale bombing, is the mass-scale bombing not part of the mandate for the units the witness belonged to or is it?"
     },
     {
-      "id": 679,
+      "id": 680,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I'm asking if he knows about the change of the mandate --"
     },
     {
-      "id": 680,
+      "id": 681,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, but --"
     },
     {
-      "id": 681,
+      "id": 682,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "-- because I think that before they only could ask for close air support."
     },
     {
-      "id": 682,
+      "id": 683,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Okay. Now, a mandate is, from my understanding, is the task given and the means given to perform that task. That's my understanding of what a mandate is. Now, bombing is, as far as I can see, you need airplanes for that, and as far as I'm aware of, at least the units there, DutchBat did not have such means. So therefore I'm a bit confused about the change of the mandate. Do you mean the overall UNPROFOR mandate? Do you mean the specific mandate for DutchBat? And how do you link that to bombings? That's --"
     },
     {
-      "id": 683,
+      "id": 684,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "How I do understand it is that before NATO could be ordered only to bomb in the immediate vicinity of the confrontation between UNPROFOR and VRS positions, obviously, since we heard before that it was never considered to bomb Muslim positions. Now the mandate was changed that you can bomb not only there but also in another parts of Bosnia-Herzegovina. For example, attack --"
     },
     {
-      "id": 684,
+      "id": 685,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, now --"
     },
     {
-      "id": 685,
+      "id": 686,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "That's why I asked him if he knows --"
     },
     {
-      "id": 686,
+      "id": 687,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Apparently --"
     },
     {
-      "id": 687,
+      "id": 688,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "If he knows about the change of the mandate."
     },
     {
-      "id": 688,
+      "id": 689,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "So you are talking about the mandate of the totality of the --"
     },
     {
-      "id": 689,
+      "id": 690,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 690,
+      "id": 691,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "-- the forces. Okay. Let's -- let that be clear --"
     },
     {
-      "id": 691,
+      "id": 692,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "But of course I limit it only in regard to Srebrenica if the gentleman knows."
     },
     {
-      "id": 692,
+      "id": 693,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 693,
+      "id": 694,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "The general change in regard of Srebrenica. Probably he does not know anything about Bihac --"
     },
     {
-      "id": 694,
+      "id": 695,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "My problem is the following, Mr. Lukic. If you are talking about the mandate and you link that to bombing, then I would expect someone to have planes to bomb. As far as I've heard, DutchBat had no planes available, which means what mandate are you talking about, the mandate of DutchBat or the UNPROFOR mandate for the whole of the territory or the UNPROFOR mandate specifically for Srebrenica? I'm just wondering what exactly it is that you want to know from this witness?"
     },
     {
-      "id": 695,
+      "id": 696,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "I want to know from him if he heard about general change of the UN mandate that affected DutchBat on the ground in Srebrenica."
     },
     {
-      "id": 696,
+      "id": 697,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Okay. Are you aware of any general change in the UN mandate which had an effect on your functioning, the functioning of DutchBat?"
     },
     {
-      "id": 697,
+      "id": 698,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "I'm not aware of any change of the mandate. I'm only aware of orders in the chain of command as to -- although stated in the document that Mr. Franken said that he got the order, whatever it might be, to defend Srebrenica. I've never seen this order, and I didn't hear that there was a change in the mandate, not even that we went from UN over to NATO."
     },
     {
-      "id": 698,
+      "id": 699,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -5201,15 +5208,15 @@
       "examination": "cross"
     },
     {
-      "id": 699,
+      "id": 700,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "No, we had to ask -- we were not NATO troops. We had to ask close air support in the UN line and, for me, the UN line ended in either Tuzla or Sarajevo. But I think that the decision for close air support was made in Zagreb and maybe not even in Zagreb. It might be even in New York. So we asked in the UN line for the support and not in the NATO line.",
-      "reply_to": 698
+      "reply_to": 699
     },
     {
-      "id": 700,
+      "id": 701,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -5217,15 +5224,15 @@
       "examination": "cross"
     },
     {
-      "id": 701,
+      "id": 702,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 700
+      "reply_to": 701
     },
     {
-      "id": 702,
+      "id": 703,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -5233,15 +5240,15 @@
       "examination": "cross"
     },
     {
-      "id": 703,
+      "id": 704,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "That's right. He had to demand and to ask for close air support or air-strikes. He couldn't make the decision. He could just ask for it and tell his higher level that what that was in the ultimatum was violated. So that's it.",
-      "reply_to": 702
+      "reply_to": 703
     },
     {
-      "id": 704,
+      "id": 705,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
@@ -5249,190 +5256,190 @@
       "examination": "cross"
     },
     {
-      "id": 705,
+      "id": 706,
       "speaker": "EVERT RAVE",
       "role": "witness",
       "type": "answer",
       "text": "When there is in the ultimatum that we have to prove that the VRS is still attacking the UN, we send forward on the ground an APC and an APC is attacked by a VRS tank, then we got enough proof to send it up in the line, and they have to decide either we get close air support or air-strikes or not.",
-      "reply_to": 704
+      "reply_to": 705
     },
     {
-      "id": 706,
+      "id": 707,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Lukic, the ultimatum has been mentioned several times. Could we inquire with the witness whether that ultimatum is formalised anywhere, whether it's recorded anywhere, so that we know what we're talking about."
     },
     {
-      "id": 707,
+      "id": 708,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Overlapping speakers] --"
     },
     {
-      "id": 708,
+      "id": 709,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Perhaps, Witness, you could answer that question."
     },
     {
-      "id": 709,
+      "id": 710,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "I have not seen the ultimatum nor the green order so --"
     },
     {
-      "id": 710,
+      "id": 711,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "But you say, \"I have not seen the ultimatum.\""
     },
     {
-      "id": 711,
+      "id": 712,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "No."
     },
     {
-      "id": 712,
+      "id": 713,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Where and when and by whom was that ultimatum made, do you know?"
     },
     {
-      "id": 713,
+      "id": 714,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "No. Colonel Karremans made me aware of the ultimatum and talked about the ultimatum and explained it to the Muslim military and civilian leaders in the enclave."
     },
     {
-      "id": 714,
+      "id": 715,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 715,
+      "id": 716,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "That was the only -- that's the only thing I'm aware of of the ultimatum, and he explained that in the ultimatum was what I've just told you. But I've never seen a written ultimatum."
     },
     {
-      "id": 716,
+      "id": 717,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. And that ultimatum was addressed to the Bosnian Serb forces?"
     },
     {
-      "id": 717,
+      "id": 718,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "Yes, also."
     },
     {
-      "id": 718,
+      "id": 719,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "You say \"also.\" To whom was --"
     },
     {
-      "id": 719,
+      "id": 720,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "No, it was to the Bosnian Serb forces and it was explained to the Muslims in the enclave."
     },
     {
-      "id": 720,
+      "id": 721,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Was it an oral ultimatum? Was it made orally or do you know?"
     },
     {
-      "id": 721,
+      "id": 722,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "No, it was a written ultimatum and I may find it in my notes when it was brought to, I think, the OP Papa to hand it over in the VRS line."
     },
     {
-      "id": 722,
+      "id": 723,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. I am looking to the parties whether there's any awareness of a written document which contains the ultimatum."
     },
     {
-      "id": 723,
+      "id": 724,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "We have to check my ..."
     },
     {
-      "id": 724,
+      "id": 725,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "No, I'm not. It's never been really contested, but we can double-check."
     },
     {
-      "id": 725,
+      "id": 726,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Is the ultimatum not contested or ...?"
     },
     {
-      "id": 726,
+      "id": 727,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "No, it's never been contested. It's clearly part of the history of this case and --"
     },
     {
-      "id": 727,
+      "id": 728,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, but, of course, the reason why I'm asking for it because I'd like to know what it exactly says. If it's put on paper."
     },
     {
-      "id": 728,
+      "id": 729,
       "speaker": "MR. MCCLOSKEY",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, we can take a look. The higher-ranking officers that are more involved in this have a clearer recollection, as has been referred to already, but we'll take a good look for documents."
     },
     {
-      "id": 729,
+      "id": 730,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Then, Mr. Lukic, at the same time I'm looking at the clock. Mr. Rave, we'll adjourn for the day and we'd like to see you back tomorrow morning at 9.30 in the same courtroom. But before you leave, I'd like to instruct you that you should not speak or communicate in any other way with whomever about your testimony, and irrespective of whether that's testimony given today or testimony still to be given tomorrow. You may follow the usher."
     },
     {
-      "id": 730,
+      "id": 731,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "We adjourn and we'll resume tomorrow, Wednesday, the 24th of April, Courtroom I, 9.30 in the morning."
     },
     {
-      "id": 731,
+      "id": 732,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
@@ -5702,86 +5709,90 @@
     },
     {
       "after_utterance": 355,
-      "text": "Cross-examination by Mr. Lukic:"
+      "text": "cross-examined by Mr. Lukic.  Mr. Lukic is counsel for Mr. Mladic and"
     },
     {
-      "after_utterance": 377,
-      "text": "[Trial Chamber and Registrar confer]"
+      "after_utterance": 356,
+      "text": "Cross-examination by Mr. Lukic:"
     },
     {
       "after_utterance": 378,
       "text": "[Trial Chamber and Registrar confer]"
     },
     {
-      "after_utterance": 397,
-      "text": "[The witness stands down]"
-    },
-    {
-      "after_utterance": 397,
-      "text": "--- Recess taken at 12.00 p.m."
-    },
-    {
-      "after_utterance": 397,
-      "text": "--- On resuming at 12.22 p.m."
+      "after_utterance": 379,
+      "text": "[Trial Chamber and Registrar confer]"
     },
     {
       "after_utterance": 398,
-      "text": "[The witness takes the stand]"
-    },
-    {
-      "after_utterance": 411,
-      "text": "[Video-clip played]"
-    },
-    {
-      "after_utterance": 440,
-      "text": "[Video-clip played]"
-    },
-    {
-      "after_utterance": 443,
-      "text": "[Video-clip played]"
-    },
-    {
-      "after_utterance": 486,
-      "text": "[Video-clip played]"
-    },
-    {
-      "after_utterance": 583,
-      "text": "[Trial Chamber and Registrar confer]"
-    },
-    {
-      "after_utterance": 621,
       "text": "[The witness stands down]"
     },
     {
+      "after_utterance": 398,
+      "text": "--- Recess taken at 12.00 p.m."
+    },
+    {
+      "after_utterance": 398,
+      "text": "--- On resuming at 12.22 p.m."
+    },
+    {
+      "after_utterance": 399,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 412,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 441,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 444,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 487,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 584,
+      "text": "[Trial Chamber and Registrar confer]"
+    },
+    {
       "after_utterance": 622,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 623,
       "text": "--- Recess taken at 1.20 p.m."
     },
     {
-      "after_utterance": 622,
+      "after_utterance": 623,
       "text": "--- On resuming at 1.41 p.m."
     },
     {
-      "after_utterance": 630,
+      "after_utterance": 631,
       "text": "[Trial Chamber and Registrar confer]"
     },
     {
-      "after_utterance": 630,
+      "after_utterance": 631,
       "text": "[The witness takes the stand]"
     },
     {
-      "after_utterance": 647,
+      "after_utterance": 648,
       "text": "[Defence counsel confer]"
     },
     {
-      "after_utterance": 722,
+      "after_utterance": 723,
       "text": "[Defence counsel confer]"
-    },
-    {
-      "after_utterance": 729,
-      "text": "[The witness stands down]"
     },
     {
       "after_utterance": 730,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 731,
       "text": "--- Whereupon the hearing adjourned at 2.15 p.m.,"
     }
   ],

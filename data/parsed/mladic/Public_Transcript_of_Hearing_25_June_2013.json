@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2013-06-25",
   "utterances": [
     {
@@ -1349,15 +1349,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, please proceed. Further cross-examination by Mr. Lukic:"
+      "text": "Yes, please proceed."
     },
     {
       "id": 183,
-      "speaker": "MS. HASAN",
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
       "text": "[Interpretation] Let me just ask you: Were the prisoners taken to the Standard barracks or not?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 184,
@@ -1369,11 +1369,11 @@
     },
     {
       "id": 185,
-      "speaker": "MS. HASAN",
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
       "text": "It was misstated earlier. Standard is in town and it was near the Zvornik Brigade.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 186,
@@ -1385,11 +1385,11 @@
     },
     {
       "id": 187,
-      "speaker": "MS. HASAN",
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
       "text": "Not Vitinka?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 188,
@@ -1401,11 +1401,11 @@
     },
     {
       "id": 189,
-      "speaker": "MS. HASAN",
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
       "text": "Concerning these soldiers in your battalion, who commanded them when they would come with their trucks?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 190,
@@ -1417,11 +1417,11 @@
     },
     {
       "id": 191,
-      "speaker": "MS. HASAN",
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
       "text": "So they were not officially placed under any other command by virtue of official document?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 192,
@@ -4369,7 +4369,7 @@
     },
     {
       "id": 590,
-      "speaker": "MR.  IVETIC",
+      "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "statement",
       "text": "On the same thought because I'm perplexed now."
@@ -4914,6 +4914,10 @@
     {
       "after_utterance": 142,
       "text": "Re-examination by Ms. Hasan:"
+    },
+    {
+      "after_utterance": 182,
+      "text": "Further cross-examination by Mr. Lukic:"
     },
     {
       "after_utterance": 195,

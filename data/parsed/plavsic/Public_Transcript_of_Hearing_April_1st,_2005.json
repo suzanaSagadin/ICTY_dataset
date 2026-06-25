@@ -1,6 +1,6 @@
 {
   "case": "plavsic",
-  "case_id": "IT-00-39-T",
+  "case_id": "IT-00-39",
   "date": "2005-04-01",
   "utterances": [
     {
@@ -131,1052 +131,1074 @@
     },
     {
       "id": 19,
-      "speaker": "JUDGE ORIE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Gaynor: [Continued]"
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good morning, sir.",
+      "examination": "direct"
     },
     {
       "id": 20,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Good morning, sir."
-    },
-    {
-      "id": 21,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Good morning.",
-      "reply_to": 20
+      "reply_to": 19
     },
     {
-      "id": 22,
+      "id": 21,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Could the witness please be asked to speak into the microphone, thank you."
     },
     {
-      "id": 23,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 22,
+      "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, I'd like to remind you that while your face is distorted on the television screens, this portion of the hearing is in public session so please don't identify yourself nor identify any members of the family nor please don't reveal any information which might lead to your own identification."
+      "text": "Sir, I'd like to remind you that while your face is distorted on the television screens, this portion of the hearing is in public session so please don't identify yourself nor identify any members of the family nor please don't reveal any information which might lead to your own identification.",
+      "examination": "direct"
     },
     {
-      "id": 24,
+      "id": 23,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, I'd like to direct you to paragraph 47."
     },
     {
-      "id": 25,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 24,
+      "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, it's not necessary for to you look at your statement for this period but in your statement you said that on some occasions you saw Rajko Kusic walk around the buildings and speak to detainees, and my question is this: On how many separate occasions during your detention at the school did you see Rajko Kusic in the school compound?"
+      "text": "Witness, it's not necessary for to you look at your statement for this period but in your statement you said that on some occasions you saw Rajko Kusic walk around the buildings and speak to detainees, and my question is this: On how many separate occasions during your detention at the school did you see Rajko Kusic in the school compound?",
+      "examination": "direct"
     },
     {
-      "id": 26,
+      "id": 25,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "It's difficult for me to say, to give you an exact figure. I really can't say. I can't remember all the times and didn't do so, but judging -- but on the basis of my experiences there, maybe 10, 12, 15 times.",
-      "reply_to": 25
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, in your statement, you say that Rajko Kusic addressed the camp. Now, I'd like to direct your attention to an address to the inmates of the camp which took place in the staff room of the school. Do you recall that address?",
+      "examination": "direct"
     },
     {
       "id": 27,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sir, in your statement, you say that Rajko Kusic addressed the camp. Now, I'd like to direct your attention to an address to the inmates of the camp which took place in the staff room of the school. Do you recall that address?"
-    },
-    {
-      "id": 28,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes. It was -- I think it was the longest visit he paid to all of us -- well, not all of us, all of us couldn't fit into that room, but it lasted about an hour and Rajko Kusic told us that we weren't -- that we weren't cooperating enough with the Serb police and that those who were taken off for interrogation were not giving precise information and making his work difficult and that he was facing a problem linked to a deadline that he had received. He'd been given a deadline, as he told us then. He said, \"And I'm running late with the cleansing of Rogatica. Other towns have already been taken control of, Rogatica still hasn't, so I have to report to Pale tomorrow why this hasn't been completed yet.\" And then in a threatening, at least I saw it as a threatening speech, he said that we had to be more forthright in cooperating with those interrogating us. The questions that they asked us boiled down to, and I know on the basis of my own experience, to this kind of thing: There were daily interrogations asking us where the Sandzak men were, where the Muslims from Rogatica were who were defending Rogatica. I'm speaking about my own particular case and experience. Every time, I just told them the truth; I said that I had absolutely not seen in my environment any Muslims, my friends and neighbours, people I knew, my acquaintances around --",
-      "reply_to": 27
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. In your --",
+      "examination": "direct"
     },
     {
       "id": 29,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. In your --"
-    },
-    {
-      "id": 30,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "-- weapons.",
-      "reply_to": 29
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "In your response there, you said that Kusic said, \"I have to report to Pale tomorrow why this hasn't been completed yet.\" Do you recall any other references to Pale by Rajko Kusic?",
+      "examination": "direct"
     },
     {
       "id": 31,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In your response there, you said that Kusic said, \"I have to report to Pale tomorrow why this hasn't been completed yet.\" Do you recall any other references to Pale by Rajko Kusic?"
-    },
-    {
-      "id": 32,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Well, whenever he would come and visit the -- and when he spoke to us, addressed us, to a group of us or a large number of us, he would mention his obligations, that he had to send a report to Pale, because he was running late in his operations. And we just talked to each other once. Once was very brief, a brief exchange, and the second time, another time we talked, and he said that he was running late with his operations, getting behind the deadline and he could have problems with the leadership at Pale and that he, therefore, had to work in a different way with us detainees in the camp and with those who were still civilians and were possibly still in the centre of town, in the cellars there. So he talked about this quite frequently, saying he had to go to Pale and he had to report orally there.",
-      "reply_to": 31
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said that, \"Kusic said that he had to report orally there.\" Did he at any time say to whom he had to report?",
+      "examination": "direct"
     },
     {
       "id": 33,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You said that, \"Kusic said that he had to report orally there.\" Did he at any time say to whom he had to report?"
-    },
-    {
-      "id": 34,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Just on the first occasion, during our first meeting, he said he had to go to Pale and inform the military leadership at Pale. He didn't mention any names.",
-      "reply_to": 33
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'd like to direct -- before we move on, did you -- was there a television in the school compound?",
+      "examination": "direct"
     },
     {
       "id": 35,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I'd like to direct -- before we move on, did you -- was there a television in the school compound?"
-    },
-    {
-      "id": 36,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, there was. In the room, some two months later, the group that I was in actually was transferred to a larger room and that's where the television was. We didn't use it. We quite simply didn't --",
-      "reply_to": 35
+      "reply_to": 34
+    },
+    {
+      "id": 36,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Did you ever see Rajko Kusic on that television?",
+      "examination": "direct"
     },
     {
       "id": 37,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. Did you ever see Rajko Kusic on that television?"
-    },
-    {
-      "id": 38,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "After some time -- there was no electricity to begin with, but later on, electricity came back to that part of town and the school building. I suppose the television had been switched on at one time so suddenly the picture came back on again when the electricity returned and at that point in time, they were filming the Assembly at Pale where Mr. Krajisnik was making a speech and Rajko Kusic was standing to the left, on the left-hand side. He wasn't sitting down, he was standing there with -- in a uniform and he was propped up against a radiator or perhaps the -- a windowsill or something like that but I saw him standing there at that Assembly on television. So when the soldiers saw that the electricity had returned and that the television was on, they took the television set away.",
-      "reply_to": 37
+      "reply_to": 36
     },
     {
-      "id": 39,
+      "id": 38,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "I'd like to direct Your Honours' attention to paragraph 49. The middle of that paragraph there's a reference to conversation."
     },
     {
-      "id": 40,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 39,
+      "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, in your written evidence, you refer to a conversation you had with Sveto Veselinovic, who was the president of the municipal SDS. You say that he criticised you for being a Muslim. Do you recall that conversation?"
+      "text": "Sir, in your written evidence, you refer to a conversation you had with Sveto Veselinovic, who was the president of the municipal SDS. You say that he criticised you for being a Muslim. Do you recall that conversation?",
+      "examination": "direct"
     },
     {
-      "id": 41,
+      "id": 40,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do recall the conversation. I was -- well, I learned from two soldiers that I was supposed to go and have a talk or questioning, as they called it, to one of the leaders of the SDS from Rogatica and they took me to Sveto Veselinovic. The conversation didn't last long and Sveto Veselinovic I knew, actually -- well, I didn't know him personally much, but he had his back turned towards me and was looking out of the window and he told me -- he didn't mention any names, but all he said was, in a very strict tone of voice, he said, \"All the Muslims will disappear,\" in this sharp tone of voice as if he was sort of scolding me. I kept quiet. I wasn't ready to answer, to respond. I was shocked as well by the statement and I was afraid of what was going to happen next. Then he continued the conversation or he continued to speak and he said, \"Well, look, it's a nice day, it's sunny. We'll have good plums this year and good plum brandy.\" I didn't really know what he was on about. Then he returned to the topic of the Muslims and the people in the camp, and he said that, \"It's going to be the way --\" he -- he told me at that time, he said, \"Everything's going to be the way it should be: A third of the Muslims will be killed, a third become Orthodox, and a third will escape.\" A third will be converted to Orthodoxism and a third will escape. Later on, he went back to these thoughts of his about the weather and he called the soldiers back and they took me back to my room, to the school building.",
-      "reply_to": 40
+      "reply_to": 39
+    },
+    {
+      "id": 41,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "First question is this: Did you consider his comments about a third of the Muslims being killed, a third being converted and a third being expelled, did you consider this to be mere political rhetoric or how did you understand those comments?",
+      "examination": "direct"
     },
     {
       "id": 42,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "First question is this: Did you consider his comments about a third of the Muslims being killed, a third being converted and a third being expelled, did you consider this to be mere political rhetoric or how did you understand those comments?"
-    },
-    {
-      "id": 43,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Well, at that point in time, I finally came to realise that the end was nigh for me and my family. First of all a camp, then this conversion in the camp. All of the pieces of the jigsaw puzzle seemed to have come together and I realised that I had come to the end; I hadn't succeeded in escaping at the beginning before the shelling in Rogatica took place. The people, in an organised manner, the women and children had left, and then it seemed that Muslim -- the Muslim people, women and children and others had managed to leave. They were -- could do so. But then I saw that what he was actually saying to me was what had actually been done and then as I was still alive myself, I saw myself as being one of the people in the group that were going to be killed. And I found myself in a situation where I wasn't able to react at all. I tried to ask him at one point to leave my family alone, to save my family, but I didn't have the strength to do so, really, I was completely shocked. I was in shock and I didn't ask him to help me, actually. I was going to but I didn't ask him to help me or my family.",
-      "reply_to": 42
+      "reply_to": 41
+    },
+    {
+      "id": 43,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was this the first time that you had heard someone refer to a portion of the Muslims being killed, a portion converted, and a portion expelled? Did you hear any references about that before this?",
+      "examination": "direct"
     },
     {
       "id": 44,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was this the first time that you had heard someone refer to a portion of the Muslims being killed, a portion converted, and a portion expelled? Did you hear any references about that before this?"
-    },
-    {
-      "id": 45,
       "speaker": "MS. LOUKAS",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, that's actually a misstatement of the evidence by Mr. Gaynor."
     },
     {
-      "id": 46,
+      "id": 45,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Gaynor, would you please literally quote that part so that there could be no dispute about ..."
     },
     {
-      "id": 47,
+      "id": 46,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Certainly."
     },
     {
-      "id": 48,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 47,
+      "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "question",
-      "text": "You said earlier that Sveto Veselinovic told you that one-third of the Muslims would be killed, one-third would be converted, and one-third would be expelled?"
+      "text": "You said earlier that Sveto Veselinovic told you that one-third of the Muslims would be killed, one-third would be converted, and one-third would be expelled?",
+      "examination": "direct"
     },
     {
-      "id": 49,
+      "id": 48,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "I think, as a matter of fact, that \"expulsion\" is the --"
     },
     {
-      "id": 50,
+      "id": 49,
       "speaker": "MS. LOUKAS",
       "role": "counsel",
       "type": "statement",
       "text": "Precisely, Your Honour, yes."
     },
     {
-      "id": 51,
+      "id": 50,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Those were not the words."
     },
     {
-      "id": 52,
+      "id": 51,
       "speaker": "MS. LOUKAS",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, if one looks at the statement and if one looks at the transcript --"
     },
     {
-      "id": 53,
+      "id": 52,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Let's just literally quote what the witness said. \"A third of the Muslims will be killed, a third become Orthodox, and a third will escape.\" That's what the witness said."
     },
     {
-      "id": 54,
+      "id": 53,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 55,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 54,
+      "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "question",
-      "text": "Now, the -- His Honour has just repeated your earlier evidence. Was that the first time you had heard reference to this?"
+      "text": "Now, the -- His Honour has just repeated your earlier evidence. Was that the first time you had heard reference to this?",
+      "examination": "direct"
     },
     {
-      "id": 56,
+      "id": 55,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "No. In the school, in the camp, from time to time Rajko Kusic or others of lower rank would come in with information to the effect that at the Assemblies that were held at Pale, some sort of new conclusions had been made along the lines of the fact that in Rogatica -- first of all, there was 30, 37 per cent mentioned, or rather, citizens who were Muslims. Later on this number was reduced to 20 and then it got lower until the last -- the latest information that we heard and that latest piece of information was that nonetheless no Muslims could be in Rogatica. Well, actually, my first encounter with information of that kind was through television, on television, the Assembly in Sarajevo where Mr. Karadzic at one point -- I don't remember all those speeches, but I do remember this, it was imprinted in my brain when Mr. Karadzic said that if -- I don't know what he was talking about, that if this continued, the Muslim people will disappear from the face of the earth.",
-      "reply_to": 55
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "At the start of 1992, how many mosques were in Rogatica town?",
+      "examination": "direct"
     },
     {
       "id": 57,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "At the start of 1992, how many mosques were in Rogatica town?"
-    },
-    {
-      "id": 58,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Two.",
-      "reply_to": 57
+      "reply_to": 56
+    },
+    {
+      "id": 58,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "At the end of 1992, please describe the condition of those mosques.",
+      "examination": "direct"
     },
     {
       "id": 59,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "At the end of 1992, please describe the condition of those mosques."
-    },
-    {
-      "id": 60,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "At the end of 1992, and I have had the -- I saw the remains of the mosques later, and when people were taken off for interrogations, so I personally saw certain parts of town, what they looked like, and I was shocked. And both the mosques had been destroyed.",
-      "reply_to": 59
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know approximately when the mosques were destroyed?",
+      "examination": "direct"
     },
     {
       "id": 61,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know approximately when the mosques were destroyed?"
-    },
-    {
-      "id": 62,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "One mosque had been destroyed -- as far as I can remember, it was in the month of -- well, the end of June, beginning of July, it was destroyed then, and that's the mosque that is closer to the secondary school centre. The further mosque, the one further away, I can't remember exactly and say for sure but I assume that that was destroyed when that district was cleansed, end of July -- I can't really say exactly.",
-      "reply_to": 61
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just focussing on the first mosque, what was it that made you believe that the mosque had been destroyed?",
+      "examination": "direct"
     },
     {
       "id": 63,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Just focussing on the first mosque, what was it that made you believe that the mosque had been destroyed?"
-    },
-    {
-      "id": 64,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I suppose that's what the events showed, that -- and it came to us that the mosque was destroyed. One day, the soldiers went past the school in a tank, they stopped, and told us to approach the glass, the window, and to hear what they had to say. Danko Neric had in his hand a flag, he was carrying a flag in his hand, a black one with the skull and bone insignia, and his brother had the red tricolour flag of the Republika Srpska. The tank's motor was still running so we couldn't hear what they were saying, the engine was rather loud, and they made gestures of this kind: They had a bottle of plum brandy and they would sort of put it up in the air by way of greeting, and then the tank continued on in the direction of the mosque. After a certain amount of time had gone by, we heard a couple of blows or knocks, whether they were in the tank or whatever, and then ten minutes later, the tank returned. They waved to us again. We didn't understand what they were saying, the engine was still on. And the next day, not the same time but thereabouts, it was sometime before noon, the tank turned up again and the same procedure was repeated. The tank went off and we could hear just one hit on that occasion. We expected the tank to come back, however, the tank didn't come back. And shortly afterwards, Rajko Kusic turned up with quite a lot of soldiers and I saw that something had happened. And they collected up four or five men from the camp, they took them off with them, and what happened was that the tank had come across an anti-tank mine of some kind and that it had exploded and the driver had been killed and that the other soldiers wounded and they -- these people were being taken off now, the Muslims from the camp, to be a sort of human shield for the Serb soldiers to pull out -- so that they could pull out their dead and wounded from the tank.",
-      "reply_to": 63
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sorry, I'm just -- I just have to interrupt you for a second. I just want to take you back to my original question. You said that you believed the first mosque was destroyed, put a month on it. Just very briefly, what was it specifically that made you believe that the mosque was destroyed?",
+      "examination": "direct"
     },
     {
       "id": 65,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sorry, I'm just -- I just have to interrupt you for a second. I just want to take you back to my original question. You said that you believed the first mosque was destroyed, put a month on it. Just very briefly, what was it specifically that made you believe that the mosque was destroyed?"
-    },
-    {
-      "id": 66,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Later on, I came to realise what had happened, that everything that was Muslim had to be destroyed, that Muslim places of worship had to be destroyed, the Muslim people had to be destroyed, Muslim businesses had to be destroyed. Everything that was going on showed with good reason that that would ultimately happen.",
-      "reply_to": 65
+      "reply_to": 64
     },
     {
-      "id": 67,
+      "id": 66,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "The question of Mr. Gaynor was whether you saw it being destroyed, whether you heard it and heard that it was destroyed. I mean, what exactly was known to you in relation to the destruction of the mosque?"
     },
     {
-      "id": 68,
+      "id": 67,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] A few shots were fired from a tank. It was destroyed but not fully, and then the second day, others came to destroy it completely."
     },
     {
-      "id": 69,
+      "id": 68,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Did you see the tank firing?"
     },
     {
-      "id": 70,
+      "id": 69,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I didn't, because between the school and the mosque, there were quite a few houses, and smaller houses too, so you couldn't really see it."
     },
     {
-      "id": 71,
+      "id": 70,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Did you hear the tank firing?"
     },
     {
-      "id": 72,
+      "id": 71,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes, I did. That, I did hear."
     },
     {
-      "id": 73,
+      "id": 72,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Before the first partly demolition, did you observe the mosque being intact before that?"
     },
     {
-      "id": 74,
+      "id": 73,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes."
     },
     {
-      "id": 75,
+      "id": 74,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Did you see, with your own eyes, the mosque being partly demolished after you had heard these -- this fire?"
     },
     {
-      "id": 76,
+      "id": 75,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] No, no, I was not in the group of people who were going there to help, to help the wounded and to carry out the dead. But later on, I saw the mosque after it had been totally destroyed."
     },
     {
-      "id": 77,
+      "id": 76,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "How did you know that at the -- in the first round, it was partially destroyed? How did you learn about that?"
     },
     {
-      "id": 78,
+      "id": 77,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Well, Danko Neric and his brother came in the afternoon, after the tank went there for the first time. They came to the big hall of the school, they talked to some people. My wife was nearby. Danko had been such a nice child, my wife really liked him."
     },
     {
-      "id": 79,
+      "id": 78,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "I just asked you, did you hear that from him directly or indirectly? Did he report --"
     },
     {
-      "id": 80,
+      "id": 79,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Indirectly."
     },
     {
-      "id": 81,
+      "id": 80,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 82,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 81,
+      "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, in your statement, paragraph 44, you refer to a statement by Nebojsa Motika, he said the men were competing to see how many bulas they could turn. The expression \"bulas\" is not explained. Could you briefly explain what the expression \"bulas\" means."
+      "text": "Sir, in your statement, paragraph 44, you refer to a statement by Nebojsa Motika, he said the men were competing to see how many bulas they could turn. The expression \"bulas\" is not explained. Could you briefly explain what the expression \"bulas\" means.",
+      "examination": "direct"
     },
     {
-      "id": 83,
+      "id": 82,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Bula, as far as I know about the origin of the word bula, it would denote a Muslim woman preparing a dead body for burial, a female body. So this is a religious person who would be preparing a female who had died to be buried. She prays, she physically prepares the body, washes it, and the Serb soldiers actually called all females bulas, starting from children to old women. In the camp, there was an elderly woman who was indeed a bula.",
-      "reply_to": 82
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you, sir.",
+      "examination": "direct"
     },
     {
       "id": 84,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you, sir."
-    },
-    {
-      "id": 85,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "I request that the next exhibit be circulated. While it's being circulated, I'm going to explain very briefly explain to Your Honours what this exhibit is. There were a number of exhumations carried out in the Visegrad municipality in 2000 and 2001. The exhumation information will be submitted to Your Honours in separate reports by exhumation experts as part of expert evidence. That's not what this is. The Bosnian Commission for Missing Persons undertook an identification project identifying the remains of the people found in those pits. They produced a very large quantity of documentation which identifies the victims. Now, in another case before this Tribunal, the Vasiljevic case, in order to gather all of that information into a short summary, this document was prepared, which lists the -- which basically summarises the information gathered by the Bosnian Commission for Missing Persons. Now, I would -- have reviewed this with the witness and I'll just direct the witness to this, and I'd request that it be given an exhibit number."
     },
     {
-      "id": 86,
+      "id": 85,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "It will be Prosecution Exhibit number P580."
     },
     {
-      "id": 87,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 86,
+      "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, is it correct that I drew your attention to names on this list where the former residence is listed as Rogatica and is it correct that I highlighted the word Rogatica in green to draw your attention to those names?"
+      "text": "Sir, is it correct that I drew your attention to names on this list where the former residence is listed as Rogatica and is it correct that I highlighted the word Rogatica in green to draw your attention to those names?",
+      "examination": "direct"
     },
     {
-      "id": 88,
+      "id": 87,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 87
+      "reply_to": 86
     },
     {
-      "id": 89,
+      "id": 88,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, just for clarification, the witness is in possession of the highlighted version that will be submitted into evidence."
     },
     {
-      "id": 90,
+      "id": 89,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Mr. Gaynor, I see some handwriting on it and these are words that appear the same at various lines."
     },
     {
-      "id": 91,
+      "id": 90,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 92,
+      "id": 91,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Could you either ask or explain what this is."
     },
     {
-      "id": 93,
+      "id": 92,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Yeah, it's not -- in my submission, it's not appropriate to ask the witness about that. The handwriting is, I understand, handwriting put there by an expert witness in the Vasiljevic case to indicate where -- from which exhumation site the body was taken."
     },
     {
-      "id": 94,
+      "id": 93,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 95,
+      "id": 94,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "The bodies which the witness is about to identify, all but one were taken from the Paklenik pit site and one was taken from the Slap site."
     },
     {
-      "id": 96,
+      "id": 95,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 97,
+      "id": 96,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Now you will be receiving expert evidence --"
     },
     {
-      "id": 98,
+      "id": 97,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Okay, that indicates the site where the bodies were found."
     },
     {
-      "id": 99,
+      "id": 98,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Yes. Blank page inserted to ensure pagination corresponds between the French and English transcripts."
     },
     {
-      "id": 100,
+      "id": 99,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Please proceed."
     },
     {
-      "id": 101,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 100,
+      "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "question",
-      "text": "Is it correct that I asked you to highlight in green the names of persons who you were sure that you knew?"
+      "text": "Is it correct that I asked you to highlight in green the names of persons who you were sure that you knew?",
+      "examination": "direct"
     },
     {
-      "id": 102,
+      "id": 101,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 101
+      "reply_to": 100
+    },
+    {
+      "id": 102,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did you then highlight in green the persons that you knew?",
+      "examination": "direct"
     },
     {
       "id": 103,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And did you then highlight in green the persons that you knew?"
-    },
-    {
-      "id": 104,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did. I myself highlighted in green the names of the persons who I knew.",
-      "reply_to": 103
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "What ethnicity are those persons?",
+      "examination": "direct"
     },
     {
       "id": 105,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What ethnicity are those persons?"
-    },
-    {
-      "id": 106,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Muslim ethnicity. However, Mladenovic Adonis was the offspring of a mixed marriage. That is the only case of a Serb surname appearing on this list. I had a look at this list and I found names of people from Rogatica on the list. All the other names are Muslim names.",
-      "reply_to": 105
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, just focussing on the names of the people that you identified, could you clarify whether they were military personnel or whether they were civilians, to the best of your knowledge.",
+      "examination": "direct"
     },
     {
       "id": 107,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sir, just focussing on the names of the people that you identified, could you clarify whether they were military personnel or whether they were civilians, to the best of your knowledge."
-    },
-    {
-      "id": 108,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I am absolutely certain these people were civilians, and they were with me, we were hiding in cellars, and none of them wore uniforms or had any type of weapon.",
-      "reply_to": 107
+      "reply_to": 106
     },
     {
-      "id": 109,
+      "id": 108,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Now, I'd request that that copy being held by the witness be the copy in evidence."
     },
     {
-      "id": 110,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 109,
+      "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "question",
-      "text": "I have one final question for you, sir. In your evidence you've described how your town was taken over by Serb forces and how the Muslim population was rounded up -- well, part of the Muslim population was brought into the school, and how your mosques were destroyed. You've described the extremely serious abuse and beatings to which you personally were subjected, and you've described mistreatment of members of your family. Could you explain to the Judges, in your own words, what impact this has had."
+      "text": "I have one final question for you, sir. In your evidence you've described how your town was taken over by Serb forces and how the Muslim population was rounded up -- well, part of the Muslim population was brought into the school, and how your mosques were destroyed. You've described the extremely serious abuse and beatings to which you personally were subjected, and you've described mistreatment of members of your family. Could you explain to the Judges, in your own words, what impact this has had.",
+      "examination": "direct"
+    },
+    {
+      "id": 110,
+      "speaker": "Witness 382 [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Everything that happened in Rogatica had a terrible impact on me. I'm seriously ill. I lost all trust in people who I knew and liked well. I am still afraid of them. I'm trying to find something to hitch onto so that I could talk to a Serb again, have contact with Serbs, but the facts are so truthful and so painful that this agony of mine, this suffering of mine that I still feel is something that I cannot get rid of. I cannot get rid of the images. I cannot understand my former friend Rajko, my acquaintances, my friends, people who were best men at our weddings, that they did everything they did. That they could do such inhumane things. In the time of war, I understood that a war had started. I had seen war in the movies beforehand, I saw soldiers shooting at each other, but what was done in Rogatica is something that a person cannot -- rather I could not, and I still cannot digest that. How is it possible to accept that even now as a truth? I keep thinking that it's a nightmare, but it is a cruel reality that actually took place. I think -- I tried to kill myself three times. I did not succeed. I understood that what was done during the war - I'm talking, unfortunately, about my former friends and neighbours - these people were totally led astray, and I will never understand where this madness came from. I don't know why. It's a very brief question, a few letters only, really, but for me, it is volumes and volumes of books that I cannot read, that I cannot understand, although I experienced all of this myself. On the one hand, I feel pain and sorry for the people who were killed; civilians, innocent civilians, children who were killed. On the other hand, my own humaneness cannot tell me anything but, (redacted), you lived with these people. So in a way, I feel sorry for those people too, those criminals. Unfortunately, I'm using that word human beings, people, men, but the persons who did this are not human beings. They're not animals either, they are some kind of creatures that, in those moments, did what they did.",
+      "reply_to": 109
     },
     {
       "id": 111,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
-      "text": "Everything that happened in Rogatica had a terrible impact on me. I'm seriously ill. I lost all trust in people who I knew and liked well. I am still afraid of them. I'm trying to find something to hitch onto so that I could talk to a Serb again, have contact with Serbs, but the facts are so truthful and so painful that this agony of mine, this suffering of mine that I still feel is something that I cannot get rid of. I cannot get rid of the images. I cannot understand my former friend Rajko, my acquaintances, my friends, people who were best men at our weddings, that they did everything they did. That they could do such inhumane things. In the time of war, I understood that a war had started. I had seen war in the movies beforehand, I saw soldiers shooting at each other, but what was done in Rogatica is something that a person cannot -- rather I could not, and I still cannot digest that. How is it possible to accept that even now as a truth? I keep thinking that it's a nightmare, but it is a cruel reality that actually took place. I think -- I tried to kill myself three times. I did not succeed. I understood that what was done during the war - I'm talking, unfortunately, about my former friends and neighbours - these people were totally led astray, and I will never understand where this madness came from. I don't know why. It's a very brief question, a few letters only, really, but for me, it is volumes and volumes of books that I cannot read, that I cannot understand, although I experienced all of this myself. On the one hand, I feel pain and sorry for the people who were killed; civilians, innocent civilians, children who were killed. On the other hand, my own humaneness cannot tell me anything but, (redacted), you lived with these people. So in a way, I feel sorry for those people too, those criminals. Unfortunately, I'm using that word human beings, people, men, but the persons who did this are not human beings. They're not animals either, they are some kind of creatures that, in those moments, did what they did.",
-      "reply_to": 110
+      "text": "(redacted) Could you just express briefly what impact the events of 1992 had on the Muslim community of Rogatica."
     },
     {
       "id": 112,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
-      "text": "(redacted) Could you just express briefly what impact the events of 1992 had on the Muslim community of Rogatica."
+      "text": "I'm sorry. Once again, I wasn't focused.",
+      "reply_to": 109
     },
     {
       "id": 113,
-      "speaker": "Witness 382 [Resumed]",
-      "role": "witness",
-      "type": "answer",
-      "text": "I'm sorry. Once again, I wasn't focused.",
-      "reply_to": 110
+      "speaker": "MR. GAYNOR",
+      "role": "counsel",
+      "type": "question",
+      "text": "My question is just briefly describe the impact of the events of 1992 on the Muslim community of Rogatica.",
+      "examination": "direct"
     },
     {
       "id": 114,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "My question is just briefly describe the impact of the events of 1992 on the Muslim community of Rogatica."
-    },
-    {
-      "id": 115,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "If I understood your question correctly, you're asking me about the impact of the events on the Muslim community of Rogatica, and it was disastrous. It was a nightmare. People disappeared. They were expelled. They were in prisons. Their property was taken away. They were robbed. They were maimed. Even those who survived live with a hard truth and terrible pain that they have to live with for the rest of their lives.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 116,
+      "id": 115,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, that ends the examination-in-chief."
     },
     {
-      "id": 117,
+      "id": 116,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you, Mr. Gaynor. Witness 382, you will now be cross-examined by counsel for the Defence, Ms. Loukas. Ms. Loukas, you may proceed."
     },
     {
-      "id": 118,
+      "id": 117,
       "speaker": "MS. LOUKAS",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour. I might begin, in fact, in closed session."
     },
     {
-      "id": 119,
+      "id": 118,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes, we turn it to private session, I take it that's enough."
     },
     {
-      "id": 120,
+      "id": 119,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "You said there were people who were sent for forced labour and that you were pushed around and beaten every night, and you identified some of the perpetrators, among which you mentioned a man nicknamed Noka from Pancevo who was one of Arkan's soldiers. Do I have to understand that he was the only paramilitary in the camp, or were there more? And how did he or they cooperate with the others in the camp, the other guards?"
     },
     {
-      "id": 121,
+      "id": 120,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "He was not the only one who came and who did what everybody else did. There were many of them. The first thing that made them readily recognizable was the Ekavian dialect of the Serbo-Croat language that they used. Also, people did not know them by sight, they did not know their faces. I spoke of Noka and I could have spoken about others too but I don't know their names, I don't know these persons, and they were under the direct control of Commander Kusic. They actually did, probably, what they had been ordered to do.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 122,
+      "id": 121,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Were there any regular forces, either police forces or military forces, involved in the guarding of the prisoners in the camp?"
     },
     {
-      "id": 123,
+      "id": 122,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "By \"regular\" I mean only what existed before the war in Rogatica, when there was a regular police. Later on, as far as I'm concerned, everything was irregular, and actually, this police or the militaries who guarded us were the Serb police and Serb militaries. At that moment, as a prisoner, I did not feel that I could say that they were regular. They belonged to the aggressor.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 124,
+      "id": 123,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. But at the same time, you say there were also those who were in what used to be the regular police force and the regular army before the conflict started. Could you tell us how the -- how did the paramilitaries work together, or did they not work together, with what I just called the \"regular\" and what you considered, at that time, to be irregular forces, that is those who worked in the police and those who worked in the military before the conflict."
     },
     {
-      "id": 125,
+      "id": 124,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "If I understood the question properly, at any rate, I did discern some elements of the regular force among the -- some of the policemen who were under Kusic's command. Some policemen were, in a way, bitter about everything that was going on but they didn't dare show it. A few times when I talked to people like that and who'd come to bring me a cigarette or two or a little bit of bread, these people would directly condemn everything that was going on, but this was a very small number of people. These were people who had worked in the police before and they were well-respected in town as policemen because they did their work properly. In wartime, it was a different situation. These people did what they had to do, but my impression, on the basis of these brief conversations, brief encounters with them, was that these people strongly condemned everything that was going on.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 126,
+      "id": 125,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "But did they perform the duties together with the paramilitary persons?"
     },
     {
-      "id": 127,
+      "id": 126,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Yes, yes.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 128,
+      "id": 127,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you for that answer. You talked about the two mosques in Rogatica. Could you -- did they have any names, just to distinguish the two?"
     },
     {
-      "id": 129,
+      "id": 128,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I myself was not very focused on religion in terms of being a Muslim believer. I had a higher education. I knew as much as I needed to know myself about Orthodoxy, Catholicism, Islam. I'm trying to explain that I did not know the exact names of the mosques.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 130,
+      "id": 129,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "You don't need to explain that. Either you know it or you do not know it. You say you did not know the exact names of the mosques. Could you ..."
     },
     {
-      "id": 131,
+      "id": 130,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "But I know the names that we used when referring to them. For example, one was called the Carsija mosque, the town mosque, and the other one Arnaudija.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 132,
+      "id": 131,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Arnaudija. Thank you for that answer. My last question is the following: You explained to Ms. Loukas, first, that you were not bitter against Serbs and then you said you were bitter against Serbs from Rogatica who committed these crimes. How do I have to understand that? Were you bitter against all Serbs of Rogatica because Serbs in Rogatica had committed crimes, or were you bitter only to Serbs who had committed crimes in Rogatica and not the other Serbs? Could you explain to me what your ..."
     },
     {
-      "id": 133,
+      "id": 132,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I am bitter only in respect of people, Serb soldiers -- unfortunately, even female persons, who did evil things. I am bitter about Tomo Batinic because he was president of the municipality. I'm bitter about Mr. Krajisnik, Mr. Karadzic, who played their own part in all of this. What it was exactly, I don't know, but I cannot be bitter about my friends, Serbs in Rogatica, who I'd like to see. I'd like to talk to them. Regrettably, a friend of mine, a Serb, died. Serbs were not allowed to enter the camp but he managed to get in a few times and he would bring a little bit of meat for my daughter under his arm. I can never forget that. This man did a great thing. I appreciate that. And there were persons like that in Rogatica. So can I repeat this once again, may I repeat it once again: I'm bitter about non-human beings, about non-human politicians, and about non-human perpetrators among the Serbs.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 134,
+      "id": 133,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. You included Mr. Krajisnik, although I was asking about people from Rogatica. On what basis do you include Mr. Krajisnik in those people? You said, \"I do not know what role --\" let me just quote you literally, \"... who played their own part in all this.\" What's the basis for your knowledge of the role Mr. Krajisnik may have played?"
     },
     {
-      "id": 135,
+      "id": 134,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Well, I'll try to put it as briefly as possible. I did not know Mr. Krajisnik personally. I never knew him personally. But at any rate, Mr. Krajisnik, in his public appearances that I saw on television, he came across as a reasonable man. I mean, I am absolutely not knowledgeable about politics, but I think he pursued this policy, I don't know whether sincerely and honestly are the right words, and I watched television -- and during the war, I came to realise the value of the position he held. And also, what it meant that my friend Kusic went to Pale, and that he had to bring information to Pale. Then I came to realise that Mr. Krajisnik had to know about these details and that as a human being, he had to react at some point in time and say, \"Stop all of this. This is no way to behave.\" And the political leadership of Republika Srpska did nothing to stop the agony of the civilians of Rogatica, the Muslim civilians of Rogatica. On the contrary, it escalated from day-to-day until extermination, under quotation marks, because the Rogatica Muslims did disappear. They moved out. They were converted. They fled. That is how I saw some kind of responsibility on the part of Mr. Krajisnik and Mr. Karadzic as persons who could have stopped the slaughter in Rogatica. As a person, I'm disappointed in myself, in a way, because I misassessed Mr. Krajisnik's personality, although I'm not entitled to judge people.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 136,
+      "id": 135,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "No one asked you to assess the personality of Mr. Krajisnik. Let me put the following question very directly to you: You just explained that when you heard about reporting to Pale, that you became aware that they should have known that they could have stopped the whole situation. A very direct question to you is the following: Is it on the basis of what you were told about reporting to Pale that you formed this opinion, or is it on the basis of the opinion about the leadership that you told us, or that you came to the conclusion that there must have been reporting to Pale? So I'm clearly asking you whether what you just told us was based on the information you received on reporting to Pale or that it was just the other way around, that you concluded that there must have been reporting to Pale because they should have known about it."
     },
     {
-      "id": 137,
+      "id": 136,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Absolutely, that's the only reason. Because I could not come to a conclusion on the basis of illusions but on the basis of reality, a reality that actually happened. I talked to Rajko Kusic. I knew him. I learned that he had to report to Pale. And therefore, as a human being, I respected that kind of reaction, that he would report on what the situation actually was at the camp in Rogatica and then, that on the basis of that, there would be a reaction, probably on the part of the political leadership, that they would say, \"Stop doing this.\" That did not happen, however. This bitterness of mine boils down to the fact that, for me, there was a firm basis to believe that the leadership from Pale would do something in order to have this kind of thing stopped, what was being done to people. It's not that this was some kind of illusion on my part, that I was imagining in my own head that the leadership of Republika Srpska would do something, after all, and that I can hope for that. That's not what was in my thoughts. I could not hope for that and I did not think along those lines at the time.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 138,
+      "id": 137,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Have you ever learned about misbehaviour and serious misbehaviour on the Croat side, on the Muslim side? I'm not talking about any specifics, but whether you heard about ill-treatment."
     },
     {
-      "id": 139,
+      "id": 138,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "While I was in the camp, you mean?",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 140,
+      "id": 139,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Well, or even later or ..."
     },
     {
-      "id": 141,
+      "id": 140,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Oh, I certainly did hear about that.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 142,
+      "id": 141,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Would your bitterness extend to Croats and Muslims who would have misbehaved and ill-treated or even killed other persons as well?"
     },
     {
-      "id": 143,
+      "id": 142,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "Absolutely. Absolutely. For me, it is the same kind of people, and I see them the same way.",
-      "reply_to": 114
+      "reply_to": 113
     },
     {
-      "id": 144,
+      "id": 143,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you for those answers. Any need ...?"
     },
     {
-      "id": 145,
+      "id": 144,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "No further questions from us, Your Honour."
     },
     {
-      "id": 146,
+      "id": 145,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Ms. Loukas, any further questions arising out of the questions from the Bench?"
     },
     {
-      "id": 147,
+      "id": 146,
       "speaker": "MS. LOUKAS",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, sorry, Your Honour, I was just in conference. Just one quick question, Your Honour."
     },
     {
-      "id": 148,
+      "id": 147,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes. One more question for you by Ms. Loukas. Further cross-examination by Ms. Loukas:"
+      "text": "Yes. One more question for you by Ms. Loukas."
+    },
+    {
+      "id": 148,
+      "speaker": "MS. LOUKAS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, Witness, you've indicated that - let me just check your answer here - yes, about Rajko Kusic. You, of course, don't know, as a matter of fact, whether or not Rajko Kusic reported to Pale; correct?",
+      "examination": "cross"
     },
     {
       "id": 149,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, Witness, you've indicated that - let me just check your answer here - yes, about Rajko Kusic. You, of course, don't know, as a matter of fact, whether or not Rajko Kusic reported to Pale; correct?"
-    },
-    {
-      "id": 150,
       "speaker": "Witness 382 [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I don't know whether he reported to them. I know that he said that he had to report to them, but whether he actually did it is something I don't know.",
-      "reply_to": 149
+      "reply_to": 148
     },
     {
-      "id": 151,
+      "id": 150,
       "speaker": "MS. LOUKAS",
       "role": "counsel",
       "type": "statement",
       "text": "No further questions."
     },
     {
-      "id": 152,
+      "id": 151,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you, Ms. Loukas. Witness 382, the Chamber is aware that it might not have been easy to tell us about the events now more than ten years ago. The Chamber appreciates very much that you came to The Hague, that you've answered the questions both of the Prosecution and of the Defence and questions put to you by the Bench. The Chamber wishes that you could see the positive sides of life and to have at least some optimism for the future. I'd like to thank you, and we wish you to safe trip home again."
     },
     {
-      "id": 153,
+      "id": 152,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Thank you."
     },
     {
-      "id": 154,
+      "id": 153,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Usher, could you please escort Witness 382 out of the courtroom."
     },
     {
-      "id": 155,
+      "id": 154,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "The next witness will testify in closed session?"
     },
     {
-      "id": 156,
+      "id": 155,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, just before we get to the next witness, who will testify in closed session, that's right, I just want to clarify that in the statement of the witness who has just completed his testimony, there is one sentence, paragraph 50, the Prosecution and the Defence have agreed to excise it from the statement. I wish to identify that for you."
     },
     {
-      "id": 157,
+      "id": 156,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Would you then please tender the new copy of the -- or you say it's just one sentence. Which one is that?"
     },
     {
-      "id": 158,
+      "id": 157,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "In paragraph --"
     },
     {
-      "id": 159,
+      "id": 158,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Let's just --"
     },
     {
-      "id": 160,
+      "id": 159,
       "speaker": "MS. LOUKAS",
       "role": "counsel",
       "type": "statement",
       "text": "Well, Your Honour, just in relation to that, in view of the way the evidence has developed, I think we might as well just leave it in."
     },
     {
-      "id": 161,
+      "id": 160,
       "speaker": "MR. GAYNOR",
       "role": "counsel",
       "type": "statement",
       "text": "Fair enough, Your Honour."
     },
     {
-      "id": 162,
+      "id": 161,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
       "text": "Okay. Then -- okay. Then this is the -- so therefore, then, the -- it was Exhibit P576. And during the -- during yesterday's session, in paragraph 31, the word \"hundred,\" not the number 300, was removed. I redacted that in the original, as you have provided that to the Registry, with my initials and with the date on it. Next witness to be heard in closed session. Just as far as scheduling is concerned, I'd really deplore if we would now spend time on exhibits from the previous witness and the present witness and then have to keep the witness over the weekend, so perhaps we first proceed with the next witness. Turn it to closed session."
     },
     {
-      "id": 163,
+      "id": 162,
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
@@ -1209,299 +1231,307 @@
       "text": "[Witness answered through interpreter]"
     },
     {
-      "after_utterance": 111,
+      "after_utterance": 18,
+      "text": "Examined by Mr. Gaynor: [Continued]"
+    },
+    {
+      "after_utterance": 110,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 111,
+      "after_utterance": 110,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 111,
+      "after_utterance": 110,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 111,
+      "after_utterance": 110,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 111,
+      "after_utterance": 110,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 111,
+      "after_utterance": 110,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 111,
+      "after_utterance": 110,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 111,
+      "after_utterance": 110,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 111,
+      "after_utterance": 110,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "[Private session]"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "Pages 11292-11307 redacted. Private session."
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 119,
+      "after_utterance": 118,
       "text": "[Open session]"
     },
     {
-      "after_utterance": 154,
+      "after_utterance": 147,
+      "text": "Further cross-examination by Ms. Loukas:"
+    },
+    {
+      "after_utterance": 153,
       "text": "[The witness withdrew]"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "[Closed session]"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "Pages 11318-11375 redacted. Closed session."
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 162,
+      "after_utterance": 161,
       "text": "--- Whereupon the hearing adjourned at 2.02 p.m."
     }
   ],

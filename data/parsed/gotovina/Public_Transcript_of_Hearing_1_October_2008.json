@@ -1,6 +1,6 @@
 {
   "case": "gotovina",
-  "case_id": "IT-06-90-T",
+  "case_id": "IT-06-90",
   "date": "2008-10-01",
   "utterances": [
     {
@@ -5537,7 +5537,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Mr. Gusa, I have a question for you. Questioned by the Court:"
+      "text": "Mr. Gusa, I have a question for you."
     },
     {
       "id": 735,
@@ -5626,15 +5626,15 @@
       "speaker": "MR. MISETIC",
       "role": "counsel",
       "type": "statement",
-      "text": "Yes, just one question. Further cross-examination by Mr. Misetic:"
+      "text": "Yes, just one question."
     },
     {
       "id": 747,
-      "speaker": "MR. DU-TOIT",
+      "speaker": "MR. MISETIC",
       "role": "counsel",
       "type": "question",
       "text": "If you can help us, Mr. Gusa, you say that your neighbours weren't the type of people that would do that, but you also now testified for Mr. Mikulicic that one of your neighbours is, in fact, the one who knocked your two front teeth out, right? Was, in fact, there a feeling of revenge by your neighbours when they returned?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 748,
@@ -5899,6 +5899,14 @@
     {
       "after_utterance": 733,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 734,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 746,
+      "text": "Further cross-examination by Mr. Misetic:"
     },
     {
       "after_utterance": 752,

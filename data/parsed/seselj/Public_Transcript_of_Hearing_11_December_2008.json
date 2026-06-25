@@ -1,6 +1,6 @@
 {
   "case": "seselj",
-  "case_id": "IT-03-67-T",
+  "case_id": "IT-03-67",
   "date": "2008-12-11",
   "utterances": [
     {
@@ -3283,7 +3283,7 @@
       "speaker": "JUDGE ANTONETTI",
       "role": "judge",
       "type": "statement",
-      "text": "[Interpretation] The court is back in session. The Judges have a few questions for the witness. Questioned by the Court:"
+      "text": "[Interpretation] The court is back in session. The Judges have a few questions for the witness."
     },
     {
       "id": 428,
@@ -4010,11 +4010,11 @@
     },
     {
       "id": 528,
-      "speaker": "MR. SESELJ",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "And when it's shown, Mr. Witness, can you please tell us what this photo depicts?",
-      "examination": "cross"
+      "examination": "questioned"
     },
     {
       "id": 529,
@@ -4026,11 +4026,11 @@
     },
     {
       "id": 530,
-      "speaker": "MR. SESELJ",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "Is this the location you have been beaten by Lugar?",
-      "examination": "cross"
+      "examination": "questioned"
     },
     {
       "id": 531,
@@ -4042,11 +4042,11 @@
     },
     {
       "id": 532,
-      "speaker": "MR. SESELJ",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "So the beating happened outside?",
-      "examination": "cross"
+      "examination": "questioned"
     },
     {
       "id": 533,
@@ -4100,11 +4100,11 @@
     },
     {
       "id": 540,
-      "speaker": "MR. SESELJ",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "Mr. Witness, could you please let us know what this document shows and if you remember about this document?",
-      "examination": "cross"
+      "examination": "questioned"
     },
     {
       "id": 541,
@@ -4116,11 +4116,11 @@
     },
     {
       "id": 542,
-      "speaker": "MR. SESELJ",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "Does it also say that you have been arrested before you were released?",
-      "examination": "cross"
+      "examination": "questioned"
     },
     {
       "id": 543,
@@ -4177,7 +4177,7 @@
       "speaker": "JUDGE ANTONETTI",
       "role": "judge",
       "type": "statement",
-      "text": "[Interpretation] Witness, I only have one question for you. Questioned by the Court:"
+      "text": "[Interpretation] Witness, I only have one question for you."
     },
     {
       "id": 551,
@@ -4402,6 +4402,10 @@
       "text": "--- On resuming at 10.36 a.m."
     },
     {
+      "after_utterance": 427,
+      "text": "Questioned by the Court:"
+    },
+    {
       "after_utterance": 489,
       "text": "[The witness withdrew]"
     },
@@ -4596,6 +4600,10 @@
     {
       "after_utterance": 525,
       "text": "[Open session]"
+    },
+    {
+      "after_utterance": 550,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 573,

@@ -9,7 +9,7 @@ Status legend: 🔴 open · 🟡 investigating · 🟢 fixed
 
 ---
 
-## 1. 🔴 Examiner attribution lost — bare `Q.` lines become `UNKNOWN EXAMINER`
+## 1. 🟢 Examiner attribution lost — bare `Q.` lines become `UNKNOWN EXAMINER`
 
 **Summary.** When a witness is questioned, the original transcript names the
 examiner once in a header line (`Examined by Mr. Nice:`,
@@ -111,6 +111,14 @@ question stream of every examination is mis-attributed. Most affected cases:
 examined) by <name>:` header lines, set the current examiner from `<name>`, and
 attribute subsequent `Q.` lines to that examiner (and `A.` lines to the current
 witness) until the next header.
+
+**Fix applied (2026-06-25).** `EXAM_HEADER_RE` now matches both `examin*ation*`
+and `examin*ed*` forms, plus `Further ...`, `Questioned by the Court:`, and
+`Questioned by Mr./Ms. X:`. Also recognises `Judge X` and `the Court` as
+examiners. Result: `UNKNOWN EXAMINER` dropped from **~1,485,412 utterances in
+6,519 files** to **~45,303 utterances in 515 files** (97% reduction). The
+residual cases are transcripts where Q/A starts without any formal examination
+header (judge says "go ahead" informally).
 
 ---
 
@@ -317,6 +325,48 @@ above):
    files (Milošević 12 June 2002, Todorović 16 Jan 2002, a Karibi-Whyte file, a
    Delić file) and confirm the specific anomaly counts drop to ~0 without
    regressing the others.
+
+## 8. 🔴 Cross-case contamination — transcripts filed under the wrong case folder
+
+**Summary.** Some case folders in `data/parsed/` contain transcripts that belong
+to an entirely different case. The scraper pulls transcripts by case-number
+prefix from the ICTY website; when two cases share a prefix (e.g. a sub-case
+that was later renumbered) or are cross-referenced on the same page, all
+transcripts end up in the same download and are placed in the wrong folder.
+
+**Evidence.**
+
+| Folder | Expected case | Contaminating `case_id` | Belongs to | Files |
+|---|---|---|---|---|
+| `blagojevic_old/` | IT-02-60 (Blagojević) | IT-98-33 | Krstić | ~23 |
+| `martic/` | IT-03-72 (Martić) | IT-95-11 | wrong/old case number | ~22 |
+| `jokic_old/` | IT-01-44 (Jokić) | IT-98-33 | Krstić | 1 |
+| `obrenovic_old/` | IT-01-43 (Obrenović) | IT-98-33 | Krstić | 1 |
+| `karadzic/` | IT-05-88 (Karadžić) | IT-94-1, IT-08-91, IT-96-93, IT-98-30 | various | 5 |
+| `dokmanovic/` | IT-95-13 (Dokmanović) | IT-94-1 | Tadić? | 1 |
+| `dragan_nikolic/` | IT-94-2 (Nikolić) | IT-92-4 | unrelated | 1 |
+| `dragomir_milosevic/` | IT-98-29 (D. Milošević) | IT-05-87 | Milutinović | 1 |
+
+**Root cause.** Blagojević was originally indicted as a sub-case of Krstić
+(`IT-98-33/1`) before being renumbered `IT-02-60`. The ICTY website lists all
+`IT-98-33*` transcripts together, so the scraper downloaded the Krstić trial and
+appeal transcripts into the Blagojević folder. The same mechanism affects
+`jokic_old/` and `obrenovic_old/`. The `martic/` folder likely has a similar
+renumbering history (IT-95-11 → IT-03-72). Single-file outliers in other folders
+are probably cross-references or shared hearings that appear on both case pages.
+
+**Not contamination.** Folders like `aleksovski/blaskic/kordic_cerkez` sharing
+IT-94-14 / IT-95-14 transcripts, and `popovic/tolimir` sharing IT-05-88 /
+IT-05-85, are **joint trials** — those are expected and correct.
+
+**Suggested fix.** After scraping, validate each transcript's `case_id` against
+the expected case for that folder and either move mismatched files to the correct
+folder or flag them for manual review. For the Krstić sub-case pattern, filter
+on the full case number (e.g. `IT-98-33/1` vs bare `IT-98-33`).
+
+---
+
+# How to check the parser systematically
 
 Probe files used so far:
 - `slobodan_milosevic/Public_Transcript_of_Hearing_12_June_2002` — #1, #5

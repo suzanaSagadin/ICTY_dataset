@@ -1,6 +1,6 @@
 {
   "case": "plavsic",
-  "case_id": "IT-00-39-T",
+  "case_id": "IT-00-39",
   "date": "2004-11-22",
   "utterances": [
     {
@@ -400,14 +400,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Please proceed. Examined by Ms. Edgerton:"
+      "text": "Please proceed."
     },
     {
       "id": 58,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Good morning, Mr. Music."
+      "text": "Good morning, Mr. Music.",
+      "examination": "direct"
     },
     {
       "id": 59,
@@ -419,10 +420,11 @@
     },
     {
       "id": 60,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "I wonder if, before we go further, the witness could be given copies now of the four statements he's variously provided."
+      "text": "I wonder if, before we go further, the witness could be given copies now of the four statements he's variously provided.",
+      "examination": "direct"
     },
     {
       "id": 61,
@@ -468,10 +470,11 @@
     },
     {
       "id": 67,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Mr. Music, I see you have before you copies in your own language of four documents, one dating from 1993, one from 1994, one from 1997, and one from 1998. Is that correct?"
+      "text": "Now, Mr. Music, I see you have before you copies in your own language of four documents, one dating from 1993, one from 1994, one from 1997, and one from 1998. Is that correct?",
+      "examination": "direct"
     },
     {
       "id": 68,
@@ -483,10 +486,11 @@
     },
     {
       "id": 69,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Have you had an opportunity recently to review those documents in detail?"
+      "text": "Have you had an opportunity recently to review those documents in detail?",
+      "examination": "direct"
     },
     {
       "id": 70,
@@ -498,10 +502,11 @@
     },
     {
       "id": 71,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Do you recognise those documents?"
+      "text": "Do you recognise those documents?",
+      "examination": "direct"
     },
     {
       "id": 72,
@@ -513,10 +518,11 @@
     },
     {
       "id": 73,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Are those documents copies of statements that you've given on four separate occasions to the Bosnian authorities and representatives of the ICTY?"
+      "text": "Are those documents copies of statements that you've given on four separate occasions to the Bosnian authorities and representatives of the ICTY?",
+      "examination": "direct"
     },
     {
       "id": 74,
@@ -528,10 +534,11 @@
     },
     {
       "id": 75,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "When you reviewed those documents, did you find them to be true to the best of your knowledge and recollection?"
+      "text": "When you reviewed those documents, did you find them to be true to the best of your knowledge and recollection?",
+      "examination": "direct"
     },
     {
       "id": 76,
@@ -543,10 +550,11 @@
     },
     {
       "id": 77,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, with respect to those corrections which you asked me to make on the record today, perhaps I could deal with them, and they both relate to the statement from 1997, English -- well, paragraph number 43. You wish to correct a place-name set out in the second-to-last line of paragraph 43. The place-name, which presently reads \"Rastovica\" you said should read \"Rastelica\"; is that correct?"
+      "text": "Now, with respect to those corrections which you asked me to make on the record today, perhaps I could deal with them, and they both relate to the statement from 1997, English -- well, paragraph number 43. You wish to correct a place-name set out in the second-to-last line of paragraph 43. The place-name, which presently reads \"Rastovica\" you said should read \"Rastelica\"; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 78,
@@ -558,10 +566,11 @@
     },
     {
       "id": 79,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "And the second correction, as I have noted here, appears in paragraph 76, the sentence which in English reads: \"I never saw that group who had beaten us in the corridor again.\" I understand from you that the version in your language is missing the \"G\" at the beginning of the word \"group.\" Is that correct?"
+      "text": "And the second correction, as I have noted here, appears in paragraph 76, the sentence which in English reads: \"I never saw that group who had beaten us in the corridor again.\" I understand from you that the version in your language is missing the \"G\" at the beginning of the word \"group.\" Is that correct?",
+      "examination": "direct"
     },
     {
       "id": 80,
@@ -573,10 +582,11 @@
     },
     {
       "id": 81,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "You asked me to have those corrections made on the record?"
+      "text": "You asked me to have those corrections made on the record?",
+      "examination": "direct"
     },
     {
       "id": 82,
@@ -588,10 +598,11 @@
     },
     {
       "id": 83,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, leaving aside for the moment the information which you remembered, which we'll deal with later, can you now confirm that these statements you have before you are copies of your statements, which are true to the best of your knowledge and recollection?"
+      "text": "Now, leaving aside for the moment the information which you remembered, which we'll deal with later, can you now confirm that these statements you have before you are copies of your statements, which are true to the best of your knowledge and recollection?",
+      "examination": "direct"
     },
     {
       "id": 84,
@@ -603,10 +614,11 @@
     },
     {
       "id": 85,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "I wonder, then, Your Honour, if I could ask these documents receive the appropriate exhibit numbers."
+      "text": "I wonder, then, Your Honour, if I could ask these documents receive the appropriate exhibit numbers.",
+      "examination": "direct"
     },
     {
       "id": 86,
@@ -687,10 +699,11 @@
     },
     {
       "id": 97,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Mr. Music, having read out this summary, I'd now like to ask you some questions, largely relating to clarifications or additional details based on the information contained in those four statements you have before you."
+      "text": "Now, Mr. Music, having read out this summary, I'd now like to ask you some questions, largely relating to clarifications or additional details based on the information contained in those four statements you have before you.",
+      "examination": "direct"
     },
     {
       "id": 98,
@@ -702,10 +715,11 @@
     },
     {
       "id": 99,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "First, then, relating to the first paragraphs of these statements, you talk about your village of Musici and its location. At this time, I'd like to show you a map, which you prepared yesterday."
+      "text": "First, then, relating to the first paragraphs of these statements, you talk about your village of Musici and its location. At this time, I'd like to show you a map, which you prepared yesterday.",
+      "examination": "direct"
     },
     {
       "id": 100,
@@ -737,10 +751,11 @@
     },
     {
       "id": 104,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "On this map, you made some markings yesterday."
+      "text": "On this map, you made some markings yesterday.",
+      "examination": "direct"
     },
     {
       "id": 105,
@@ -752,10 +767,11 @@
     },
     {
       "id": 106,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "And could you tell us what you've marked at point number 1 on the map."
+      "text": "And could you tell us what you've marked at point number 1 on the map.",
+      "examination": "direct"
     },
     {
       "id": 107,
@@ -767,10 +783,11 @@
     },
     {
       "id": 108,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, just moving on further in your statements: In paragraph 7 and 8 of your statement to the Tribunal, you mention a camp called Catina Bara in Blazuj. Could you point out, or have you been able to point out the location called Blazuj on the map?"
+      "text": "Now, just moving on further in your statements: In paragraph 7 and 8 of your statement to the Tribunal, you mention a camp called Catina Bara in Blazuj. Could you point out, or have you been able to point out the location called Blazuj on the map?",
+      "examination": "direct"
     },
     {
       "id": 109,
@@ -782,10 +799,11 @@
     },
     {
       "id": 110,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "That was an occasion you've spoken about in your -- in a couple of your statements; isn't that correct?"
+      "text": "That was an occasion you've spoken about in your -- in a couple of your statements; isn't that correct?",
+      "examination": "direct"
     },
     {
       "id": 111,
@@ -797,10 +815,11 @@
     },
     {
       "id": 112,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, in your statement from 1993, you mention being taken to Zunovnica, to load ammunition from the weapons store there. Have you been able to mark the location of Zunovnica on that map?"
+      "text": "Now, in your statement from 1993, you mention being taken to Zunovnica, to load ammunition from the weapons store there. Have you been able to mark the location of Zunovnica on that map?",
+      "examination": "direct"
     },
     {
       "id": 113,
@@ -812,10 +831,11 @@
     },
     {
       "id": 114,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "What kind of weapons were you loading?"
+      "text": "What kind of weapons were you loading?",
+      "examination": "direct"
     },
     {
       "id": 115,
@@ -827,10 +847,11 @@
     },
     {
       "id": 116,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "You were under guard while you were offloading that ammunition; is that correct?"
+      "text": "You were under guard while you were offloading that ammunition; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 117,
@@ -842,10 +863,11 @@
     },
     {
       "id": 118,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "And how were the guards dressed?"
+      "text": "And how were the guards dressed?",
+      "examination": "direct"
     },
     {
       "id": 119,
@@ -857,10 +879,11 @@
     },
     {
       "id": 120,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now -- thank you. Now, leaving that map aside for a time, and going back both in time chronologically to the beginning of your statements and period before the outbreak of war. You mentioned the visit of one neighbour, Goran Todorovic, to your settlement to ask for a surrender. Now, what ethnicity was Todorovic?"
+      "text": "Now -- thank you. Now, leaving that map aside for a time, and going back both in time chronologically to the beginning of your statements and period before the outbreak of war. You mentioned the visit of one neighbour, Goran Todorovic, to your settlement to ask for a surrender. Now, what ethnicity was Todorovic?",
+      "examination": "direct"
     },
     {
       "id": 121,
@@ -872,10 +895,11 @@
     },
     {
       "id": 122,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music just tell me: How was Mr. Todorovic dressed at the time he visited you? What was he wearing?"
+      "text": "Mr. Music just tell me: How was Mr. Todorovic dressed at the time he visited you? What was he wearing?",
+      "examination": "direct"
     },
     {
       "id": 123,
@@ -887,10 +911,11 @@
     },
     {
       "id": 124,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, if I could just interrupt you, Mr. Music. This is information that you've given to us in your statement from 1997; isn't that correct?"
+      "text": "Now, if I could just interrupt you, Mr. Music. This is information that you've given to us in your statement from 1997; isn't that correct?",
+      "examination": "direct"
     },
     {
       "id": 125,
@@ -902,10 +927,11 @@
     },
     {
       "id": 126,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "And these are statements which are now evidence, exhibits before the Trial Chamber, and they're aware of the content of these statements and they'll be able to read them and study them, and these questions are just by way of clarification to what you've said previously."
+      "text": "And these are statements which are now evidence, exhibits before the Trial Chamber, and they're aware of the content of these statements and they'll be able to read them and study them, and these questions are just by way of clarification to what you've said previously.",
+      "examination": "direct"
     },
     {
       "id": 127,
@@ -917,10 +943,11 @@
     },
     {
       "id": 128,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Just to move further now. You mention Djukanovic came to ask for surrender; is that correct?"
+      "text": "Just to move further now. You mention Djukanovic came to ask for surrender; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 129,
@@ -932,10 +959,11 @@
     },
     {
       "id": 130,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "How was he dressed at the time?"
+      "text": "How was he dressed at the time?",
+      "examination": "direct"
     },
     {
       "id": 131,
@@ -947,10 +975,11 @@
     },
     {
       "id": 132,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you also talk about one Dragan Pusara calling for surrender through a megaphone; is that correct?"
+      "text": "Now, you also talk about one Dragan Pusara calling for surrender through a megaphone; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 133,
@@ -962,10 +991,11 @@
     },
     {
       "id": 134,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "How do you know it was Pusara who was calling for surrender?"
+      "text": "How do you know it was Pusara who was calling for surrender?",
+      "examination": "direct"
     },
     {
       "id": 135,
@@ -977,10 +1007,11 @@
     },
     {
       "id": 136,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, the -- Djukanovic and Pusara are both ethnic Serbs; is that correct?"
+      "text": "Now, the -- Djukanovic and Pusara are both ethnic Serbs; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 137,
@@ -992,10 +1023,11 @@
     },
     {
       "id": 138,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Two men named Elcic who came into your home to detain you, what's their ethnicity?"
+      "text": "Two men named Elcic who came into your home to detain you, what's their ethnicity?",
+      "examination": "direct"
     },
     {
       "id": 139,
@@ -1007,10 +1039,11 @@
     },
     {
       "id": 140,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you talk about, in paragraph 3 of your 1993 and 1998 statement, and paragraph 28 of your ICTY statement, you talk about your capture, and you describe your capture by a large group of people. You put the number of captors at between 50 and 60. Now, if we could just talk about that group of people for a minute. Could you tell us whether they were in uniform or in civilian clothes, and if they were in uniform, what kind of uniform were they wearing?"
+      "text": "Now, you talk about, in paragraph 3 of your 1993 and 1998 statement, and paragraph 28 of your ICTY statement, you talk about your capture, and you describe your capture by a large group of people. You put the number of captors at between 50 and 60. Now, if we could just talk about that group of people for a minute. Could you tell us whether they were in uniform or in civilian clothes, and if they were in uniform, what kind of uniform were they wearing?",
+      "examination": "direct"
     },
     {
       "id": 141,
@@ -1022,10 +1055,11 @@
     },
     {
       "id": 142,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Among those captors, you mention an individual by the name of Rade Veselinovic. What was his ethnicity?"
+      "text": "Among those captors, you mention an individual by the name of Rade Veselinovic. What was his ethnicity?",
+      "examination": "direct"
     },
     {
       "id": 143,
@@ -1037,10 +1071,11 @@
     },
     {
       "id": 144,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you mention seeing the bodies of three men by the house of Alija Music. Were these three men any close family relation to you?"
+      "text": "Now, you mention seeing the bodies of three men by the house of Alija Music. Were these three men any close family relation to you?",
+      "examination": "direct"
     },
     {
       "id": 145,
@@ -1052,10 +1087,11 @@
     },
     {
       "id": 146,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. I'd now like to provide you and the Trial Chamber with a photograph bearing the number 00520200-35. If it could receive an exhibit number."
+      "text": "Thank you. I'd now like to provide you and the Trial Chamber with a photograph bearing the number 00520200-35. If it could receive an exhibit number.",
+      "examination": "direct"
     },
     {
       "id": 147,
@@ -1080,10 +1116,11 @@
     },
     {
       "id": 150,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, you saw that photograph yesterday; is that correct?"
+      "text": "Mr. Music, you saw that photograph yesterday; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 151,
@@ -1095,10 +1132,11 @@
     },
     {
       "id": 152,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Do you recognise what you see in the picture before you?"
+      "text": "Do you recognise what you see in the picture before you?",
+      "examination": "direct"
     },
     {
       "id": 153,
@@ -1110,10 +1148,11 @@
     },
     {
       "id": 154,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. I was --"
+      "text": "Thank you. I was --",
+      "examination": "direct"
     },
     {
       "id": 155,
@@ -1125,10 +1164,11 @@
     },
     {
       "id": 156,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, I was just trying to ask you -- you're pointing with your pen, and the Trial Chamber is not in a position to see what you're pointing to. I wonder if you can describe what you're pointing to. I wonder if we could -- are we in a position to put it on the ELMO?"
+      "text": "Mr. Music, I was just trying to ask you -- you're pointing with your pen, and the Trial Chamber is not in a position to see what you're pointing to. I wonder if you can describe what you're pointing to. I wonder if we could -- are we in a position to put it on the ELMO?",
+      "examination": "direct"
     },
     {
       "id": 157,
@@ -1146,10 +1186,11 @@
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Mr. Music, with the pointer, could you show the Trial Chamber where you were detained."
+      "text": "Now, Mr. Music, with the pointer, could you show the Trial Chamber where you were detained.",
+      "examination": "direct"
     },
     {
       "id": 160,
@@ -1174,10 +1215,11 @@
     },
     {
       "id": 163,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "And Mr. Music, at the point where I interrupted you, you mentioned something about a green car. What were you speaking about?"
+      "text": "And Mr. Music, at the point where I interrupted you, you mentioned something about a green car. What were you speaking about?",
+      "examination": "direct"
     },
     {
       "id": 164,
@@ -1189,10 +1231,11 @@
     },
     {
       "id": 165,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Mr. Music, does this photo of this building you call the Municipal Assembly building look like the building as it did in May 1992?"
+      "text": "Now, Mr. Music, does this photo of this building you call the Municipal Assembly building look like the building as it did in May 1992?",
+      "examination": "direct"
     },
     {
       "id": 166,
@@ -1218,10 +1261,11 @@
     },
     {
       "id": 169,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. Now, leaving that photo aside and moving on to another photo, which I'd ask be given an exhibit number."
+      "text": "Thank you. Now, leaving that photo aside and moving on to another photo, which I'd ask be given an exhibit number.",
+      "examination": "direct"
     },
     {
       "id": 170,
@@ -1309,10 +1353,11 @@
     },
     {
       "id": 182,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, now looking tell next photograph on the ELMO, you had an opportunity to view that photograph yesterday; is that correct?"
+      "text": "Mr. Music, now looking tell next photograph on the ELMO, you had an opportunity to view that photograph yesterday; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 183,
@@ -1324,10 +1369,11 @@
     },
     {
       "id": 184,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Could you tell us what you see in front of you."
+      "text": "Could you tell us what you see in front of you.",
+      "examination": "direct"
     },
     {
       "id": 185,
@@ -1339,10 +1385,11 @@
     },
     {
       "id": 186,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, at the moment you have your pointer on the -- what looks like an entry way to the bottom right-hand side. Could you point to the location or the entry way to the area where you were detained."
+      "text": "Now, at the moment you have your pointer on the -- what looks like an entry way to the bottom right-hand side. Could you point to the location or the entry way to the area where you were detained.",
+      "examination": "direct"
     },
     {
       "id": 187,
@@ -1354,10 +1401,11 @@
     },
     {
       "id": 188,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "If I could just stop you there. I note that for the record the witness is pointing to what appears to be damage to the roof of the building on the top right-hand corner."
+      "text": "If I could just stop you there. I note that for the record the witness is pointing to what appears to be damage to the roof of the building on the top right-hand corner.",
+      "examination": "direct"
     },
     {
       "id": 189,
@@ -1368,10 +1416,11 @@
     },
     {
       "id": 190,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Mr. Music, if we could leave that aside and move on further in clarifying your previous evidence or the evidence in your statements, I'd like to talk about your transfer into the Sarajevo area. You mentioned you drove by -- you were driven by bus. Could you tell me if the drivers of the bus, buses, were in uniform or not, as far as you could see."
+      "text": "Now, Mr. Music, if we could leave that aside and move on further in clarifying your previous evidence or the evidence in your statements, I'd like to talk about your transfer into the Sarajevo area. You mentioned you drove by -- you were driven by bus. Could you tell me if the drivers of the bus, buses, were in uniform or not, as far as you could see.",
+      "examination": "direct"
     },
     {
       "id": 191,
@@ -1383,10 +1432,11 @@
     },
     {
       "id": 192,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, once you had arrived at the gate to Kula prison, you talk about people boarding the bus and beating the prisoners. Were these people in uniform?"
+      "text": "Now, once you had arrived at the gate to Kula prison, you talk about people boarding the bus and beating the prisoners. Were these people in uniform?",
+      "examination": "direct"
     },
     {
       "id": 193,
@@ -1398,10 +1448,11 @@
     },
     {
       "id": 194,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "These are difficult times that you're recalling, I know, and I apologise, but I feel I ought to remind you again that this is something you've spoken about previously in your statements and these are now exhibits with the Trial Chamber, and they do have that evidence in front of them. What I'd like to ask you about next, if I could, is when you speak about arriving in the Slavisa Vajner Cica barracks, you mention you were beaten by a gauntlet as you were leaving the bus, entering the barracks building, and including up the stairs. Do you recall whether this gauntlet of people were wearing uniform at all?"
+      "text": "These are difficult times that you're recalling, I know, and I apologise, but I feel I ought to remind you again that this is something you've spoken about previously in your statements and these are now exhibits with the Trial Chamber, and they do have that evidence in front of them. What I'd like to ask you about next, if I could, is when you speak about arriving in the Slavisa Vajner Cica barracks, you mention you were beaten by a gauntlet as you were leaving the bus, entering the barracks building, and including up the stairs. Do you recall whether this gauntlet of people were wearing uniform at all?",
+      "examination": "direct"
     },
     {
       "id": 195,
@@ -1413,10 +1464,11 @@
     },
     {
       "id": 196,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Can I ask you about the gauntlet --"
+      "text": "Can I ask you about the gauntlet --",
+      "examination": "direct"
     },
     {
       "id": 197,
@@ -1448,10 +1500,11 @@
     },
     {
       "id": 201,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, do you recall hearing anybody in this gauntlet speak as you were running past?"
+      "text": "Mr. Music, do you recall hearing anybody in this gauntlet speak as you were running past?",
+      "examination": "direct"
     },
     {
       "id": 202,
@@ -1463,10 +1516,11 @@
     },
     {
       "id": 203,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Do you remember noticing anything in particular about their accent at that time?"
+      "text": "Do you remember noticing anything in particular about their accent at that time?",
+      "examination": "direct"
     },
     {
       "id": 204,
@@ -1478,10 +1532,11 @@
     },
     {
       "id": 205,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, the witness is actually moved on to paragraph 7 of the 1993 statement, paragraphs 3 and 4 of the 1994, 70 to 73 of the ICTY statement, and 5 of the 1998 statement. He's talking about the calling out of the 48 prisoners in Lukavica barracks. Now, Mr. Music, in the paragraph numbers that I've just stated, you describe that gauntlet and say that the people in the gauntlet were wearing red berets; is that correct?"
+      "text": "Now, the witness is actually moved on to paragraph 7 of the 1993 statement, paragraphs 3 and 4 of the 1994, 70 to 73 of the ICTY statement, and 5 of the 1998 statement. He's talking about the calling out of the 48 prisoners in Lukavica barracks. Now, Mr. Music, in the paragraph numbers that I've just stated, you describe that gauntlet and say that the people in the gauntlet were wearing red berets; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 206,
@@ -1493,10 +1548,11 @@
     },
     {
       "id": 207,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "And did you have a chance to notice what kind of uniforms they were wearing?"
+      "text": "And did you have a chance to notice what kind of uniforms they were wearing?",
+      "examination": "direct"
     },
     {
       "id": 208,
@@ -1508,10 +1564,11 @@
     },
     {
       "id": 209,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, in paragraph 7 of your 1993 statement, paragraph 4 of your 1994 statement, and 74 of your statement to the Tribunal, you talk about arriving in the next room and seeing three officers sitting at a desk. I'd like to know what led you to the conclusion that these were officers."
+      "text": "Now, in paragraph 7 of your 1993 statement, paragraph 4 of your 1994 statement, and 74 of your statement to the Tribunal, you talk about arriving in the next room and seeing three officers sitting at a desk. I'd like to know what led you to the conclusion that these were officers.",
+      "examination": "direct"
     },
     {
       "id": 210,
@@ -1523,10 +1580,11 @@
     },
     {
       "id": 211,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, that's right. We can find that in your previous statement. And just to clarify --"
+      "text": "Mr. Music, that's right. We can find that in your previous statement. And just to clarify --",
+      "examination": "direct"
     },
     {
       "id": 212,
@@ -1538,10 +1596,11 @@
     },
     {
       "id": 213,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "-- something further. I note at page 30, line 3 of the transcript, Mr. Music is referring to his statement in December of last year. That's when he testified --"
+      "text": "-- something further. I note at page 30, line 3 of the transcript, Mr. Music is referring to his statement in December of last year. That's when he testified --",
+      "examination": "direct"
     },
     {
       "id": 214,
@@ -1573,10 +1632,11 @@
     },
     {
       "id": 218,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "I'd like to move on now to paragraph 84, Mr. Music, of your statement to the Tribunal. And that's where you mention seeing or meeting a man who you identify as Slobodan Avlijas. Could you clarify for us where you saw Mr. Avlijas?"
+      "text": "I'd like to move on now to paragraph 84, Mr. Music, of your statement to the Tribunal. And that's where you mention seeing or meeting a man who you identify as Slobodan Avlijas. Could you clarify for us where you saw Mr. Avlijas?",
+      "examination": "direct"
     },
     {
       "id": 219,
@@ -1595,10 +1655,11 @@
     },
     {
       "id": 221,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, you were able to recognise Mr. Avlijas because you knew him personally, you had known him from before the war; is that correct?"
+      "text": "Mr. Music, you were able to recognise Mr. Avlijas because you knew him personally, you had known him from before the war; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 222,
@@ -1610,10 +1671,11 @@
     },
     {
       "id": 223,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Could you tell us what his occupation was before the war?"
+      "text": "Could you tell us what his occupation was before the war?",
+      "examination": "direct"
     },
     {
       "id": 224,
@@ -1744,10 +1806,11 @@
     },
     {
       "id": 242,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, yesterday, with Mr. Hannis and myself, you listened to two intercepted conversations. I'm going to play those conversations for you again in sequence, one after the other. And I'd ask you to follow along on the transcript in front of you as best you can, please. The first conversation is dated 26 June 1992, between Momcilo Krajisnik and Momcilo Mandic."
+      "text": "Mr. Music, yesterday, with Mr. Hannis and myself, you listened to two intercepted conversations. I'm going to play those conversations for you again in sequence, one after the other. And I'd ask you to follow along on the transcript in front of you as best you can, please. The first conversation is dated 26 June 1992, between Momcilo Krajisnik and Momcilo Mandic.",
+      "examination": "direct"
     },
     {
       "id": 243,
@@ -1828,10 +1891,11 @@
     },
     {
       "id": 254,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "At this point, Mr. Music, I'd like to move forward in the chronology of what took place in 1992 to the point at which you were taken to the police station in Ilidza, and that principally begins at around paragraph 93 and onward from the ICTY statement. And I'd like to deal with the new information that you told us about over the course of the weekend. Now, Mr. Music, you've described in your statements that you were held with a small number of other detainees in a cell in the police station in Ilidza; is that correct?"
+      "text": "At this point, Mr. Music, I'd like to move forward in the chronology of what took place in 1992 to the point at which you were taken to the police station in Ilidza, and that principally begins at around paragraph 93 and onward from the ICTY statement. And I'd like to deal with the new information that you told us about over the course of the weekend. Now, Mr. Music, you've described in your statements that you were held with a small number of other detainees in a cell in the police station in Ilidza; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 255,
@@ -1843,10 +1907,11 @@
     },
     {
       "id": 256,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, from this cell, I understand that you had some small --"
+      "text": "Now, from this cell, I understand that you had some small --",
+      "examination": "direct"
     },
     {
       "id": 257,
@@ -1871,10 +1936,11 @@
     },
     {
       "id": 260,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, could you tell us where this cell was located in the police station."
+      "text": "Mr. Music, could you tell us where this cell was located in the police station.",
+      "examination": "direct"
     },
     {
       "id": 261,
@@ -1886,10 +1952,11 @@
     },
     {
       "id": 262,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Sorry, Mr. Music. What was 25 times 20, please?"
+      "text": "Sorry, Mr. Music. What was 25 times 20, please?",
+      "examination": "direct"
     },
     {
       "id": 263,
@@ -1901,10 +1968,11 @@
     },
     {
       "id": 264,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "So if you could just clarify, then. There was a door to this cell with an opening. And where did that door look out onto?"
+      "text": "So if you could just clarify, then. There was a door to this cell with an opening. And where did that door look out onto?",
+      "examination": "direct"
     },
     {
       "id": 265,
@@ -1923,10 +1991,11 @@
     },
     {
       "id": 267,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Just in terms of the opening that you're describing in this door, you've mentioned 25 times 20 but I see you're holding your hands up. Are you demonstrating for the Trial Chamber the size of the opening in the door?"
+      "text": "Just in terms of the opening that you're describing in this door, you've mentioned 25 times 20 but I see you're holding your hands up. Are you demonstrating for the Trial Chamber the size of the opening in the door?",
+      "examination": "direct"
     },
     {
       "id": 268,
@@ -1938,10 +2007,11 @@
     },
     {
       "id": 269,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you've said that this door looked out onto the staircase and the entrance and exit to all the offices in the police station; is that correct?"
+      "text": "Now, you've said that this door looked out onto the staircase and the entrance and exit to all the offices in the police station; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 270,
@@ -1953,10 +2023,11 @@
     },
     {
       "id": 271,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "On --"
+      "text": "On --",
+      "examination": "direct"
     },
     {
       "id": 272,
@@ -1967,10 +2038,11 @@
     },
     {
       "id": 273,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, with that description of the cell and the viewpoint, could you tell us about the day in which you saw the accused at the police station in Ilidza."
+      "text": "Now, with that description of the cell and the viewpoint, could you tell us about the day in which you saw the accused at the police station in Ilidza.",
+      "examination": "direct"
     },
     {
       "id": 274,
@@ -2317,10 +2389,11 @@
     },
     {
       "id": 323,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, dealing with paragraph 10 of your 1993 statement and paragraph 103 of your statement to the Tribunal, you talk about your return to the sports centre in Hadzici, where you found there were approximately 500 detainees. Could you tell us: Did you have any immediate family members present in that group of 500?"
+      "text": "Mr. Music, dealing with paragraph 10 of your 1993 statement and paragraph 103 of your statement to the Tribunal, you talk about your return to the sports centre in Hadzici, where you found there were approximately 500 detainees. Could you tell us: Did you have any immediate family members present in that group of 500?",
+      "examination": "direct"
     },
     {
       "id": 324,
@@ -2332,10 +2405,11 @@
     },
     {
       "id": 325,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "And from conversations with the other detainees, did you learn where they were from, where they had come from?"
+      "text": "And from conversations with the other detainees, did you learn where they were from, where they had come from?",
+      "examination": "direct"
     },
     {
       "id": 326,
@@ -2347,10 +2421,11 @@
     },
     {
       "id": 327,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. Now dealing with paragraph 11 of your 1993 statement and paragraphs 108 to 112 of your ICTY statement. You talk about your transfer to Svrake and the situation there. And at this point, I'd like to show you a photo, a further photo, which -- bearing the number 03616938, which has an exhibit number from this Trial Chamber, number P379. It was previously shown. I have both copies of the photo here, but Mr. Registrar might ... If a copy could be shown to the witness?"
+      "text": "Thank you. Now dealing with paragraph 11 of your 1993 statement and paragraphs 108 to 112 of your ICTY statement. You talk about your transfer to Svrake and the situation there. And at this point, I'd like to show you a photo, a further photo, which -- bearing the number 03616938, which has an exhibit number from this Trial Chamber, number P379. It was previously shown. I have both copies of the photo here, but Mr. Registrar might ... If a copy could be shown to the witness?",
+      "examination": "direct"
     },
     {
       "id": 328,
@@ -2382,10 +2457,11 @@
     },
     {
       "id": 332,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Mr. Music, did you have occasion to have a look at this photograph yesterday?"
+      "text": "Now, Mr. Music, did you have occasion to have a look at this photograph yesterday?",
+      "examination": "direct"
     },
     {
       "id": 333,
@@ -2397,10 +2473,11 @@
     },
     {
       "id": 334,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Do you recognise what's depicted in the photograph?"
+      "text": "Do you recognise what's depicted in the photograph?",
+      "examination": "direct"
     },
     {
       "id": 335,
@@ -2412,10 +2489,11 @@
     },
     {
       "id": 336,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Indicating the entrance on the left-hand side of the photograph."
+      "text": "Indicating the entrance on the left-hand side of the photograph.",
+      "examination": "direct"
     },
     {
       "id": 337,
@@ -2427,10 +2505,11 @@
     },
     {
       "id": 338,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Indicating the first floor."
+      "text": "Indicating the first floor.",
+      "examination": "direct"
     },
     {
       "id": 339,
@@ -2442,10 +2521,11 @@
     },
     {
       "id": 340,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "And does this --"
+      "text": "And does this --",
+      "examination": "direct"
     },
     {
       "id": 341,
@@ -2457,10 +2537,11 @@
     },
     {
       "id": 342,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Indicating the second -- one of the second-floor windows; is that correct?"
+      "text": "Indicating the second -- one of the second-floor windows; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 343,
@@ -2472,10 +2553,11 @@
     },
     {
       "id": 344,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, does this depict the picture of what you call Planjo's house resemble how it appeared in 1992?"
+      "text": "Now, does this depict the picture of what you call Planjo's house resemble how it appeared in 1992?",
+      "examination": "direct"
     },
     {
       "id": 345,
@@ -2487,10 +2569,11 @@
     },
     {
       "id": 346,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, in paragraph 11 of your 1993 statement, you say you found 102 detainees there on your arrival. From conversations with those other detainees, did you learn where they were from? You can remove the photo now."
+      "text": "Now, in paragraph 11 of your 1993 statement, you say you found 102 detainees there on your arrival. From conversations with those other detainees, did you learn where they were from? You can remove the photo now.",
+      "examination": "direct"
     },
     {
       "id": 347,
@@ -2502,10 +2585,11 @@
     },
     {
       "id": 348,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, now if we could just --"
+      "text": "Mr. Music, now if we could just --",
+      "examination": "direct"
     },
     {
       "id": 349,
@@ -2551,10 +2635,11 @@
     },
     {
       "id": 355,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Mr. Music, in your -- in paragraph 11 of your statement from 1993, you noted that you were transferred to Svrake on 23 October 1992; is that correct?"
+      "text": "Now, Mr. Music, in your -- in paragraph 11 of your statement from 1993, you noted that you were transferred to Svrake on 23 October 1992; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 356,
@@ -2566,10 +2651,11 @@
     },
     {
       "id": 357,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, Mr. Music, did you have an opportunity to look at these two documents yesterday?"
+      "text": "Now, Mr. Music, did you have an opportunity to look at these two documents yesterday?",
+      "examination": "direct"
     },
     {
       "id": 358,
@@ -2581,10 +2667,11 @@
     },
     {
       "id": 359,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "And you can read Cyrillic, Mr. Music?"
+      "text": "And you can read Cyrillic, Mr. Music?",
+      "examination": "direct"
     },
     {
       "id": 360,
@@ -2596,10 +2683,11 @@
     },
     {
       "id": 361,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Were you able to -- you reviewed these documents. Were you able to understand what was contained in them?"
+      "text": "Were you able to -- you reviewed these documents. Were you able to understand what was contained in them?",
+      "examination": "direct"
     },
     {
       "id": 362,
@@ -2611,10 +2699,11 @@
     },
     {
       "id": 363,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "All right. Turning to -- having looked at these documents, then, Mr. Music, could you, for the Court, tell us what these documents are."
+      "text": "All right. Turning to -- having looked at these documents, then, Mr. Music, could you, for the Court, tell us what these documents are.",
+      "examination": "direct"
     },
     {
       "id": 364,
@@ -3087,10 +3176,11 @@
     },
     {
       "id": 431,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "You've listened to this yesterday, and have the same transcript that you reviewed yesterday in front of you again; is that correct?"
+      "text": "You've listened to this yesterday, and have the same transcript that you reviewed yesterday in front of you again; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 432,
@@ -3102,10 +3192,11 @@
     },
     {
       "id": 433,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. We can begin."
+      "text": "Thank you. We can begin.",
+      "examination": "direct"
     },
     {
       "id": 434,
@@ -3131,10 +3222,11 @@
     },
     {
       "id": 437,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "And you've understood everything you've heard?"
+      "text": "And you've understood everything you've heard?",
+      "examination": "direct"
     },
     {
       "id": 438,
@@ -3146,10 +3238,11 @@
     },
     {
       "id": 439,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, yesterday, before -- after listening to this conversation or while listening to this conversation and before looking at the transcript, were you able to recognise any of the speakers, the voices of any of the speakers in this conversation?"
+      "text": "Now, yesterday, before -- after listening to this conversation or while listening to this conversation and before looking at the transcript, were you able to recognise any of the speakers, the voices of any of the speakers in this conversation?",
+      "examination": "direct"
     },
     {
       "id": 440,
@@ -3161,10 +3254,11 @@
     },
     {
       "id": 441,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Who was that?"
+      "text": "Who was that?",
+      "examination": "direct"
     },
     {
       "id": 442,
@@ -3176,10 +3270,11 @@
     },
     {
       "id": 443,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "How were you able to recognise those voices?"
+      "text": "How were you able to recognise those voices?",
+      "examination": "direct"
     },
     {
       "id": 444,
@@ -3191,10 +3286,11 @@
     },
     {
       "id": 445,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, if I can just make you step back for a couple of seconds. When you say I knew them before the war, do you mean you had personal acquaintance with them before the war or you had had occasion to hear their voices some other way?"
+      "text": "Mr. Music, if I can just make you step back for a couple of seconds. When you say I knew them before the war, do you mean you had personal acquaintance with them before the war or you had had occasion to hear their voices some other way?",
+      "examination": "direct"
     },
     {
       "id": 446,
@@ -3206,10 +3302,11 @@
     },
     {
       "id": 447,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you said that one of the speakers in this conversation was Momcilo Mandic. Did you ever have occasion to see a person who was identified to you as Mandic visit Kula during your detention there?"
+      "text": "Now, you said that one of the speakers in this conversation was Momcilo Mandic. Did you ever have occasion to see a person who was identified to you as Mandic visit Kula during your detention there?",
+      "examination": "direct"
     },
     {
       "id": 448,
@@ -3241,10 +3338,11 @@
     },
     {
       "id": 452,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, other than --"
+      "text": "Mr. Music, other than --",
+      "examination": "direct"
     },
     {
       "id": 453,
@@ -3256,10 +3354,11 @@
     },
     {
       "id": 454,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Other than seeing either of these individuals on TV, did you have occasion to personally see them?"
+      "text": "Other than seeing either of these individuals on TV, did you have occasion to personally see them?",
+      "examination": "direct"
     },
     {
       "id": 455,
@@ -3271,10 +3370,11 @@
     },
     {
       "id": 456,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, Mr. Music. So that's about Mr. Krajisnik as a speaker. Now, you mentioned that you recognised the voice of Mr. Mandic as a speaker. Other than seeing Mr. Mandic on TV, did you have occasion to see him face to face?"
+      "text": "Thank you, Mr. Music. So that's about Mr. Krajisnik as a speaker. Now, you mentioned that you recognised the voice of Mr. Mandic as a speaker. Other than seeing Mr. Mandic on TV, did you have occasion to see him face to face?",
+      "examination": "direct"
     },
     {
       "id": 457,
@@ -3286,10 +3386,11 @@
     },
     {
       "id": 458,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "All right. Now, Mr. Music, you said that you saw him in Kula. Could you tell us how often you saw him during the course of your detention there?"
+      "text": "All right. Now, Mr. Music, you said that you saw him in Kula. Could you tell us how often you saw him during the course of your detention there?",
+      "examination": "direct"
     },
     {
       "id": 459,
@@ -3301,10 +3402,11 @@
     },
     {
       "id": 460,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Was it on more than one occasion?"
+      "text": "Was it on more than one occasion?",
+      "examination": "direct"
     },
     {
       "id": 461,
@@ -3316,10 +3418,11 @@
     },
     {
       "id": 462,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, you've spoken about your work on Ozrenska Street in your statements which are before the Trial Chamber. I just have, before we get to the next intercept, one other question for you, and it deals with the number of detainees that you were aware of at Kula as of the date of this conversation. How many men were detained, to your knowledge, as of the 26th of June?"
+      "text": "Mr. Music, you've spoken about your work on Ozrenska Street in your statements which are before the Trial Chamber. I just have, before we get to the next intercept, one other question for you, and it deals with the number of detainees that you were aware of at Kula as of the date of this conversation. How many men were detained, to your knowledge, as of the 26th of June?",
+      "examination": "direct"
     },
     {
       "id": 463,
@@ -3331,10 +3434,11 @@
     },
     {
       "id": 464,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, Mr. Music. I think you've answered the question very well. And I think it's time for us to move on to the second conversation that you heard yesterday."
+      "text": "Thank you, Mr. Music. I think you've answered the question very well. And I think it's time for us to move on to the second conversation that you heard yesterday.",
+      "examination": "direct"
     },
     {
       "id": 465,
@@ -4416,10 +4520,11 @@
     },
     {
       "id": 619,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Do you have a copy of the transcript in front of you, Mr. Music?"
+      "text": "Do you have a copy of the transcript in front of you, Mr. Music?",
+      "examination": "direct"
     },
     {
       "id": 620,
@@ -4473,10 +4578,11 @@
     },
     {
       "id": 627,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, you've clearly heard everything that was said in this conversation?"
+      "text": "Mr. Music, you've clearly heard everything that was said in this conversation?",
+      "examination": "direct"
     },
     {
       "id": 628,
@@ -4488,10 +4594,11 @@
     },
     {
       "id": 629,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Now, could you tell us: As of July 1st, 1992, how many days had you been at Kula?"
+      "text": "Now, could you tell us: As of July 1st, 1992, how many days had you been at Kula?",
+      "examination": "direct"
     },
     {
       "id": 630,
@@ -4503,10 +4610,11 @@
     },
     {
       "id": 631,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Music, sorry. Let me perhaps be a little bit more clear when I ask you this question. In your statements which have been filed with the Trial Chamber, you've said that you were transferred to Kula from Lukavica after two or three days at Lukavica. Is that correct?"
+      "text": "Mr. Music, sorry. Let me perhaps be a little bit more clear when I ask you this question. In your statements which have been filed with the Trial Chamber, you've said that you were transferred to Kula from Lukavica after two or three days at Lukavica. Is that correct?",
+      "examination": "direct"
     },
     {
       "id": 632,
@@ -4518,10 +4626,11 @@
     },
     {
       "id": 633,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "So by the 1st of July, then, 1992, how many nights had you been at Kula?"
+      "text": "So by the 1st of July, then, 1992, how many nights had you been at Kula?",
+      "examination": "direct"
     },
     {
       "id": 634,
@@ -4554,10 +4663,11 @@
     },
     {
       "id": 638,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "One last question. Were all the men with you during that time from Hadzici?"
+      "text": "One last question. Were all the men with you during that time from Hadzici?",
+      "examination": "direct"
     },
     {
       "id": 639,
@@ -4569,10 +4679,11 @@
     },
     {
       "id": 640,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MS. EDGERTON",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, Mr. Music. That concludes the questions that I have."
+      "text": "Thank you, Mr. Music. That concludes the questions that I have.",
+      "examination": "direct"
     },
     {
       "id": 641,
@@ -5034,6 +5145,10 @@
     {
       "after_utterance": 51,
       "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 57,
+      "text": "Examined by Ms. Edgerton:"
     },
     {
       "after_utterance": 63,

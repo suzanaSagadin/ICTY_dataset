@@ -1,6 +1,6 @@
 {
   "case": "kupreskic",
-  "case_id": "IT-95-16-T",
+  "case_id": "IT-95-16",
   "date": "1999-07-07",
   "utterances": [
     {
@@ -42,2890 +42,3056 @@
       "id": 6,
       "speaker": "MR. PAVKOVIC",
       "role": "counsel",
-      "type": "statement",
-      "text": "Examined by Mr. Pavkovic:"
+      "type": "question",
+      "text": "Good morning, Mr. Vidovic.",
+      "examination": "direct"
     },
     {
       "id": 7,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Good morning, Mr. Vidovic."
-    },
-    {
-      "id": 8,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Good morning.",
-      "reply_to": 7
+      "reply_to": 6
+    },
+    {
+      "id": 8,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please, could you first tell the Court some personal details?",
+      "examination": "direct"
     },
     {
       "id": 9,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Please, could you first tell the Court some personal details?"
-    },
-    {
-      "id": 10,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 9
+      "reply_to": 8
+    },
+    {
+      "id": 10,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When were you born? Where?",
+      "examination": "direct"
     },
     {
       "id": 11,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When were you born? Where?"
-    },
-    {
-      "id": 12,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I was born in Vitez, where I live today, in the village of Pirici. I am a carpenter. I went to school for carpenters. I am employed -- I worked in Vitez and now I am employed in Busovaca. I worked in TKC, which is the telecommunications company.",
-      "reply_to": 11
+      "reply_to": 10
+    },
+    {
+      "id": 12,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You say that you were born in Pirici.",
+      "examination": "direct"
     },
     {
       "id": 13,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You say that you were born in Pirici."
-    },
-    {
-      "id": 14,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 13
+      "reply_to": 12
+    },
+    {
+      "id": 14,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you tell me, as far as we have been able to learn so far, we know that there is Lower and Upper Pirici. What part were you born in?",
+      "examination": "direct"
     },
     {
       "id": 15,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you tell me, as far as we have been able to learn so far, we know that there is Lower and Upper Pirici. What part were you born in?"
-    },
-    {
-      "id": 16,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I was born in Lower Pirici and I live there.",
-      "reply_to": 15
+      "reply_to": 14
+    },
+    {
+      "id": 16,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Please, could you wait for me to complete my question and then pause a little before answering? Could you tell me, in Lower Pirici, where you lived, what was the ethnic make-up of the population up to the conflict, the first and the second clash with the Muslims?",
+      "examination": "direct"
     },
     {
       "id": 17,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Please, could you wait for me to complete my question and then pause a little before answering? Could you tell me, in Lower Pirici, where you lived, what was the ethnic make-up of the population up to the conflict, the first and the second clash with the Muslims?"
-    },
-    {
-      "id": 18,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Mostly Croatian.",
-      "reply_to": 17
+      "reply_to": 16
+    },
+    {
+      "id": 18,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And in Upper Pirici?",
+      "examination": "direct"
     },
     {
       "id": 19,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And in Upper Pirici?"
-    },
-    {
-      "id": 20,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "The Muslims lived there.",
-      "reply_to": 19
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Vidovic, today we will deal mainly with two topics. We shall talk a little bit about the village patrols, and then we shall talk a little bit more about your departure to Kuber, your stay on Kuber, and everything that happened during that time. So I would first like to ask you to tell me what you know about the village patrols which were organised in Lower Ahmici or, rather, Pirici.",
+      "examination": "direct"
     },
     {
       "id": 21,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Vidovic, today we will deal mainly with two topics. We shall talk a little bit about the village patrols, and then we shall talk a little bit more about your departure to Kuber, your stay on Kuber, and everything that happened during that time. So I would first like to ask you to tell me what you know about the village patrols which were organised in Lower Ahmici or, rather, Pirici."
-    },
-    {
-      "id": 22,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "They were organised by the villagers.",
-      "reply_to": 21
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And why were they organised?",
+      "examination": "direct"
     },
     {
       "id": 23,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And why were they organised?"
-    },
-    {
-      "id": 24,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "The reason was the Serbian population. There was a Serbian village overlooking our village.",
-      "reply_to": 23
+      "reply_to": 22
+    },
+    {
+      "id": 24,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Why because of the Serbian population?",
+      "examination": "direct"
     },
     {
       "id": 25,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Why because of the Serbian population?"
-    },
-    {
-      "id": 26,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Because they had already started attacking Croatian and Muslim villages. The war had already started, and they were already taking over power and so on.",
-      "reply_to": 25
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you tell us when this happened?",
+      "examination": "direct"
     },
     {
       "id": 27,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you tell us when this happened?"
-    },
-    {
-      "id": 28,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I can't tell you the exact date, but I know that the people organised themselves, the people in the village, in every village.",
-      "reply_to": 27
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was that in 1992, in the second half of 1992?",
+      "examination": "direct"
     },
     {
       "id": 29,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was that in 1992, in the second half of 1992?"
-    },
-    {
-      "id": 30,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 29
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. Could you tell me now how these patrols were organised. Was there someone in charge? Who ordered that they should be organised? Could you describe it?",
+      "examination": "direct"
     },
     {
       "id": 31,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Very well. Could you tell me now how these patrols were organised. Was there someone in charge? Who ordered that they should be organised? Could you describe it?"
-    },
-    {
-      "id": 32,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, I don't know that there was anyone in charge. The villagers got together and agreed, and we kept guard together with the Muslims then.",
-      "reply_to": 31
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "During these patrols, did you have any weapons?",
+      "examination": "direct"
     },
     {
       "id": 33,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "During these patrols, did you have any weapons?"
-    },
-    {
-      "id": 34,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, but the people who were on patrol before us would give us weapons. They would wake us up. There were two rifles, as far as I know, there were two carbine M-48 rifles belonging to Croats.",
-      "reply_to": 33
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you did have weapons, but you did not take them home. Whenever there was a change of shift, you would take them over, and when the shift was finished, you would give them back to the next shift?",
+      "examination": "direct"
     },
     {
       "id": 35,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you did have weapons, but you did not take them home. Whenever there was a change of shift, you would take them over, and when the shift was finished, you would give them back to the next shift?"
-    },
-    {
-      "id": 36,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, yes.",
-      "reply_to": 35
+      "reply_to": 34
+    },
+    {
+      "id": 36,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "How long were these shifts when you undertook to patrol? How long was that for?",
+      "examination": "direct"
     },
     {
       "id": 37,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How long were these shifts when you undertook to patrol? How long was that for?"
-    },
-    {
-      "id": 38,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, we would keep guard for two hours.",
-      "reply_to": 37
+      "reply_to": 36
+    },
+    {
+      "id": 38,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What did you do during that time?",
+      "examination": "direct"
     },
     {
       "id": 39,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What did you do during that time?"
-    },
-    {
-      "id": 40,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "We would go around the village and the houses.",
-      "reply_to": 39
+      "reply_to": 38
+    },
+    {
+      "id": 40,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said that, when you were referring to the patrols, you said that \"the Muslims went on patrol with us then.\" Does that mean that later, the patrols separated? What do you mean about that?",
+      "examination": "direct"
     },
     {
       "id": 41,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You said that, when you were referring to the patrols, you said that \"the Muslims went on patrol with us then.\" Does that mean that later, the patrols separated? What do you mean about that?"
-    },
-    {
-      "id": 42,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. When the Muslims set up a checkpoint on the main Vitez-Busovaca road, they set up a checkpoint at the bus stop across from Mehmed Ahmic's house and Ivo Papic's house. After that, the following day, they moved the checkpoint to where the Croatian cemetery was. There's a bend in the road some 150 or 200 metres lower down where they had trenches, they dug trenches there, and they put a roadblock on the road and they checked everyone who passed through.",
-      "reply_to": 41
+      "reply_to": 40
+    },
+    {
+      "id": 42,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. And why did they set up these roadblocks and checkpoints; do you know?",
+      "examination": "direct"
     },
     {
       "id": 43,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Very well. And why did they set up these roadblocks and checkpoints; do you know?"
-    },
-    {
-      "id": 44,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, nobody knew then.",
-      "reply_to": 43
+      "reply_to": 42
+    },
+    {
+      "id": 44,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you tell me what relations prevailed between the Croats and Muslims at that time?",
+      "examination": "direct"
     },
     {
       "id": 45,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you tell me what relations prevailed between the Croats and Muslims at that time?"
-    },
-    {
-      "id": 46,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, up to that time, they were very good.",
-      "reply_to": 45
+      "reply_to": 44
+    },
+    {
+      "id": 46,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "After October 1992, when they set up the checkpoint -- wait.",
+      "examination": "direct"
     },
     {
       "id": 47,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "After October 1992, when they set up the checkpoint -- wait."
-    },
-    {
-      "id": 48,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, they --",
-      "reply_to": 47
+      "reply_to": 46
+    },
+    {
+      "id": 48,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "They set up the roadblock and they checked whom?",
+      "examination": "direct"
     },
     {
       "id": 49,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "They set up the roadblock and they checked whom?"
-    },
-    {
-      "id": 50,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, every vehicle that passed by had to stop because it couldn't get through. They also stopped pedestrians.",
-      "reply_to": 49
+      "reply_to": 48
+    },
+    {
+      "id": 50,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did that cause dissatisfaction and indignation among the Croats?",
+      "examination": "direct"
     },
     {
       "id": 51,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did that cause dissatisfaction and indignation among the Croats?"
-    },
-    {
-      "id": 52,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, because if anything happened, the houses would be exposed. There were children there.",
-      "reply_to": 51
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So we can say that relations deteriorated between the Croats and the Muslims?",
+      "examination": "direct"
     },
     {
       "id": 53,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So we can say that relations deteriorated between the Croats and the Muslims?"
-    },
-    {
-      "id": 54,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, and they simply avoided us.",
-      "reply_to": 53
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When these village patrols split up, you patrolled on one side, they patrolled on the other. Can you tell me how they were equipped, how they were armed, whether they had some kind of organisation of these patrols?",
+      "examination": "direct"
     },
     {
       "id": 55,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When these village patrols split up, you patrolled on one side, they patrolled on the other. Can you tell me how they were equipped, how they were armed, whether they had some kind of organisation of these patrols?"
-    },
-    {
-      "id": 56,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Their command was in the Ahmici village school. They had a radio transmitter there. In that period, a lot of arms were brought -- a lot of weapons were brought by the refugees from Jajce, from Krajina, because they had already fought with the Serbs there and they were better armed than we were.",
-      "reply_to": 55
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. I will not go further into this topic. Let us proceed to the second topic I would like to talk about today, and this refers to Kuber. Quite a lot has been said about that before this Court, so I will try to avoid some questions which would be redundant. Could you tell me what you know about how guards were organised on Kuber?",
+      "examination": "direct"
     },
     {
       "id": 57,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. I will not go further into this topic. Let us proceed to the second topic I would like to talk about today, and this refers to Kuber. Quite a lot has been said about that before this Court, so I will try to avoid some questions which would be redundant. Could you tell me what you know about how guards were organised on Kuber?"
-    },
-    {
-      "id": 58,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. I went there for the first time. I didn't know what was going on there. I didn't know until I got there.",
-      "reply_to": 57
+      "reply_to": 56
+    },
+    {
+      "id": 58,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When did you go to Kuber?",
+      "examination": "direct"
     },
     {
       "id": 59,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When did you go to Kuber?"
-    },
-    {
-      "id": 60,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I went there before the conflict for three or four days, and I think it was the 13th. A friend came by.",
-      "reply_to": 59
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You say \"before the conflict.\" What conflict are you referring to?",
+      "examination": "direct"
     },
     {
       "id": 61,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You say \"before the conflict.\" What conflict are you referring to?"
-    },
-    {
-      "id": 62,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Before the second conflict.",
-      "reply_to": 61
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you said you went around the 13th. What month was that?",
+      "examination": "direct"
     },
     {
       "id": 63,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you said you went around the 13th. What month was that?"
-    },
-    {
-      "id": 64,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "The 13th of April.",
-      "reply_to": 63
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What year?",
+      "examination": "direct"
     },
     {
       "id": 65,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What year?"
-    },
-    {
-      "id": 66,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "1993.",
-      "reply_to": 65
+      "reply_to": 64
+    },
+    {
+      "id": 66,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. So on the 13th of April, 1993, you went to Kuber.",
+      "examination": "direct"
     },
     {
       "id": 67,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Very well. So on the 13th of April, 1993, you went to Kuber."
-    },
-    {
-      "id": 68,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 67
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Tell me, who did you go with when you went to Kuber?",
+      "examination": "direct"
     },
     {
       "id": 69,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Tell me, who did you go with when you went to Kuber?"
-    },
-    {
-      "id": 70,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I was at home, and my friend, Zarko Kristo, dropped in and asked me whether I would like to go to Kuber with him. We were very good friends. It wasn't necessary for me to go there, but because I know that it's a very nice place and he was a friend of mine, I said \"Yes, I'd like to.\"",
-      "reply_to": 69
+      "reply_to": 68
+    },
+    {
+      "id": 70,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So it was not necessary for you to go there?",
+      "examination": "direct"
     },
     {
       "id": 71,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So it was not necessary for you to go there?"
-    },
-    {
-      "id": 72,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No. I didn't know people were going there. I was not informed that I had to go. Simply my friend dropped in.",
-      "reply_to": 71
+      "reply_to": 70
+    },
+    {
+      "id": 72,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And the other people who went there with you, were they supposed to go?",
+      "examination": "direct"
     },
     {
       "id": 73,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And the other people who went there with you, were they supposed to go?"
-    },
-    {
-      "id": 74,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "This was organised by the people themselves.",
-      "reply_to": 73
+      "reply_to": 72
+    },
+    {
+      "id": 74,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Why did they go there?",
+      "examination": "direct"
     },
     {
       "id": 75,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Why did they go there?"
-    },
-    {
-      "id": 76,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "There was a Serbian village there, and people were afraid that they might do something.",
-      "reply_to": 75
+      "reply_to": 74
+    },
+    {
+      "id": 76,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did Muslims go to Kuber?",
+      "examination": "direct"
     },
     {
       "id": 77,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did Muslims go to Kuber?"
-    },
-    {
-      "id": 78,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. They were 100 to 150 metres away from us.",
-      "reply_to": 77
+      "reply_to": 76
+    },
+    {
+      "id": 78,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you go there together?",
+      "examination": "direct"
     },
     {
       "id": 79,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you go there together?"
-    },
-    {
-      "id": 80,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No. We took the road to Nadioci and then climbed up via Nadioci, Kratine, to Kuber.",
-      "reply_to": 79
+      "reply_to": 78
+    },
+    {
+      "id": 80,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let us go back to the 13th of April when Zarko Kristo dropped in and when you accompanied him to Kuber. Where did you gather, first of all?",
+      "examination": "direct"
     },
     {
       "id": 81,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Let us go back to the 13th of April when Zarko Kristo dropped in and when you accompanied him to Kuber. Where did you gather, first of all?"
-    },
-    {
-      "id": 82,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, we gathered in the village of Nadioci. There was a shop there, and we bought supplies, and we also took some from home.",
-      "reply_to": 81
+      "reply_to": 80
+    },
+    {
+      "id": 82,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you have any weapons?",
+      "examination": "direct"
     },
     {
       "id": 83,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you have any weapons?"
-    },
-    {
-      "id": 84,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, we didn't have any weapons. We found weapons there when we got there.",
-      "reply_to": 83
+      "reply_to": 82
+    },
+    {
+      "id": 84,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "On that day when you set out for Kuber, were any of you armed?",
+      "examination": "direct"
     },
     {
       "id": 85,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "On that day when you set out for Kuber, were any of you armed?"
-    },
-    {
-      "id": 86,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, none of us.",
-      "reply_to": 85
+      "reply_to": 84
+    },
+    {
+      "id": 86,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did anyone have any military equipment?",
+      "examination": "direct"
     },
     {
       "id": 87,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did anyone have any military equipment?"
-    },
-    {
-      "id": 88,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No. Perhaps some people wore trousers.",
-      "reply_to": 87
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who gathered in Nadioci on that day in the shop?",
+      "examination": "direct"
     },
     {
       "id": 89,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Who gathered in Nadioci on that day in the shop?"
-    },
-    {
-      "id": 90,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "We gathered, some 12 to 15 of us. Do I have to list the people?",
-      "reply_to": 89
+      "reply_to": 88
+    },
+    {
+      "id": 90,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, if you can remember.",
+      "examination": "direct"
     },
     {
       "id": 91,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Well, if you can remember."
-    },
-    {
-      "id": 92,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I can. There was Zarko Kristo, my friend; Ivica Plavcic; Stipica Grgic; another Stipica Grgic; Ivo Pranjkovic; Zeljo Livancic; Mirko Livancic; Anto Santic; Mirko Vidovic perhaps, also known as Pitola.",
-      "reply_to": 91
+      "reply_to": 90
+    },
+    {
+      "id": 92,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was Ivan Pranjkovic among them?",
+      "examination": "direct"
     },
     {
       "id": 93,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was Ivan Pranjkovic among them?"
-    },
-    {
-      "id": 94,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. I mentioned him.",
-      "reply_to": 93
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "I overlooked it. So when you decided to go up there and you didn't have to go --",
+      "examination": "direct"
     },
     {
       "id": 95,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I overlooked it. So when you decided to go up there and you didn't have to go --"
-    },
-    {
-      "id": 96,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 95
+      "reply_to": 94
+    },
+    {
+      "id": 96,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "-- did you ask your friend, \"How long am I going to stay there?\"",
+      "examination": "direct"
     },
     {
       "id": 97,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "-- did you ask your friend, \"How long am I going to stay there?\""
-    },
-    {
-      "id": 98,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did, and he said, \"Seven days.\"",
-      "reply_to": 97
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So the shifts lasted seven days?",
+      "examination": "direct"
     },
     {
       "id": 99,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So the shifts lasted seven days?"
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 98
     },
     {
       "id": 100,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes.",
-      "reply_to": 99
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Very well. Let us go a little faster now. So you organised yourselves, took some food, and set out toward Kuber?",
+      "examination": "direct"
     },
     {
       "id": 101,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Very well. Let us go a little faster now. So you organised yourselves, took some food, and set out toward Kuber?"
-    },
-    {
-      "id": 102,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 101
+      "reply_to": 100
+    },
+    {
+      "id": 102,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "How long did it take you to get there?",
+      "examination": "direct"
     },
     {
       "id": 103,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How long did it take you to get there?"
-    },
-    {
-      "id": 104,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "About an hour and a half or two hours.",
-      "reply_to": 103
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you go on foot?",
+      "examination": "direct"
     },
     {
       "id": 105,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you go on foot?"
-    },
-    {
-      "id": 106,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, yes.",
-      "reply_to": 105
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you have gone by car?",
+      "examination": "direct"
     },
     {
       "id": 107,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you have gone by car?"
-    },
-    {
-      "id": 108,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No. No. We couldn't have got on to the road.",
-      "reply_to": 107
+      "reply_to": 106
+    },
+    {
+      "id": 108,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you came to Kuber and where did you stay?",
+      "examination": "direct"
     },
     {
       "id": 109,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you came to Kuber and where did you stay?"
-    },
-    {
-      "id": 110,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "There were two holiday homes there.",
-      "reply_to": 109
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who did they belong to?",
+      "examination": "direct"
     },
     {
       "id": 111,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Who did they belong to?"
-    },
-    {
-      "id": 112,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "One belonged to someone whose last name is Samija. I don't know who the other one is but probably a relative of his.",
-      "reply_to": 111
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who did you find there?",
+      "examination": "direct"
     },
     {
       "id": 113,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Who did you find there?"
-    },
-    {
-      "id": 114,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I found people. They were from a village but I can't remember which one exactly.",
-      "reply_to": 113
+      "reply_to": 112
+    },
+    {
+      "id": 114,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you were taking over their shift?",
+      "examination": "direct"
     },
     {
       "id": 115,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you were taking over their shift?"
-    },
-    {
-      "id": 116,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 115
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you then take over their weapons?",
+      "examination": "direct"
     },
     {
       "id": 117,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you then take over their weapons?"
-    },
-    {
-      "id": 118,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Ivo Pranjkovic and Zeljo Livancic issued all the weapons and handed them to us, and those were the weapons that were there.",
-      "reply_to": 117
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was there?",
+      "examination": "direct"
     },
     {
       "id": 119,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What was there?"
-    },
-    {
-      "id": 120,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "There was a Chinese -- what we call a Chinese. It's an automatic light machine gun. Then there were M-48 rifles. There was a Spagin, which is a Russian weapon.",
-      "reply_to": 119
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did each one of you get a rifle then?",
+      "examination": "direct"
     },
     {
       "id": 121,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did each one of you get a rifle then?"
-    },
-    {
-      "id": 122,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No. There were cooks who did not have rifles.",
-      "reply_to": 121
+      "reply_to": 120
+    },
+    {
+      "id": 122,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you issued with a weapon?",
+      "examination": "direct"
     },
     {
       "id": 123,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were you issued with a weapon?"
-    },
-    {
-      "id": 124,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, because I was not supposed to be there. The number of people who were called up to go there corresponded to the number of weapons and my arrival had not been planned.",
-      "reply_to": 123
+      "reply_to": 122
+    },
+    {
+      "id": 124,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know whether there was a radio transmitter there?",
+      "examination": "direct"
     },
     {
       "id": 125,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know whether there was a radio transmitter there?"
-    },
-    {
-      "id": 126,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, there was, but it wasn't functioning properly. It was out of order.",
-      "reply_to": 125
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were there any other devises for communications?",
+      "examination": "direct"
     },
     {
       "id": 127,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were there any other devises for communications?"
-    },
-    {
-      "id": 128,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No. Maybe a telephone, but we had a courier.",
-      "reply_to": 127
+      "reply_to": 126
+    },
+    {
+      "id": 128,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you did not have any communications with the village?",
+      "examination": "direct"
     },
     {
       "id": 129,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you did not have any communications with the village?"
-    },
-    {
-      "id": 130,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, except for the courier.",
-      "reply_to": 129
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you say \"courier,\" who was that and what did he do?",
+      "examination": "direct"
     },
     {
       "id": 131,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you say \"courier,\" who was that and what did he do?"
-    },
-    {
-      "id": 132,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, if something were to happen, he would go down to the village and tell them to watch out.",
-      "reply_to": 131
+      "reply_to": 130
+    },
+    {
+      "id": 132,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can we now talk about the way in which the guards were organised on Kuber, how long the shifts were, and who kept guard, when and at what time? Could you tell me whether people were on duty both by day and by night?",
+      "examination": "direct"
     },
     {
       "id": 133,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can we now talk about the way in which the guards were organised on Kuber, how long the shifts were, and who kept guard, when and at what time? Could you tell me whether people were on duty both by day and by night?"
-    },
-    {
-      "id": 134,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Not by day because we were all awake and we were all there. At night, two men would be on duty for two hours.",
-      "reply_to": 133
+      "reply_to": 132
+    },
+    {
+      "id": 134,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So until what time were you awake all together?",
+      "examination": "direct"
     },
     {
       "id": 135,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So until what time were you awake all together?"
-    },
-    {
-      "id": 136,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, until 10.00 p.m. After that, there would be two-hour shifts.",
-      "reply_to": 135
+      "reply_to": 134
+    },
+    {
+      "id": 136,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "direct"
     },
     {
       "id": 137,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes."
-    },
-    {
-      "id": 138,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "The guard duty started at 10.00 p.m.",
-      "reply_to": 137
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was anyone in charge of organising the shifts?",
+      "examination": "direct"
     },
     {
       "id": 139,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was anyone in charge of organising the shifts?"
-    },
-    {
-      "id": 140,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. It was Ivo Pranjkovic and Zeljo Livancic.",
-      "reply_to": 139
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were they in charge of the shifts?",
+      "examination": "direct"
     },
     {
       "id": 141,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were they in charge of the shifts?"
-    },
-    {
-      "id": 142,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. They were in charge of that, yes.",
-      "reply_to": 141
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you wait -- could you pause a little after I ask my question. So from 10.00 p.m., there were two-hour shifts.",
+      "examination": "direct"
     },
     {
       "id": 143,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you wait -- could you pause a little after I ask my question. So from 10.00 p.m., there were two-hour shifts."
-    },
-    {
-      "id": 144,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 143
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "While some people were on duty, where were the others?",
+      "examination": "direct"
     },
     {
       "id": 145,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "While some people were on duty, where were the others?"
-    },
-    {
-      "id": 146,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "They were in one of the two holiday homes and they were sleeping.",
-      "reply_to": 145
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was in the other house?",
+      "examination": "direct"
     },
     {
       "id": 147,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What was in the other house?"
-    },
-    {
-      "id": 148,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "It was a kitchen and food was cooked there.",
-      "reply_to": 147
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where did you keep guard on 15th to 16th of April, '93?",
+      "examination": "direct"
     },
     {
       "id": 149,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Where did you keep guard on 15th to 16th of April, '93?"
-    },
-    {
-      "id": 150,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Around these two houses, because there was a path and that was the only way that you could reach the two houses.",
-      "reply_to": 149
+      "reply_to": 148
+    },
+    {
+      "id": 150,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "How far from the house where the others were sleeping?",
+      "examination": "direct"
     },
     {
       "id": 151,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How far from the house where the others were sleeping?"
-    },
-    {
-      "id": 152,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "About 40 metres.",
-      "reply_to": 151
+      "reply_to": 150
+    },
+    {
+      "id": 152,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "At the place where you were on guard, did you stand still or did you walk around?",
+      "examination": "direct"
     },
     {
       "id": 153,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "At the place where you were on guard, did you stand still or did you walk around?"
-    },
-    {
-      "id": 154,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "We walked around the house, and sometimes we would linger a little on the path.",
-      "reply_to": 153
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "From that place did you have a good view of the house where the others were sleeping?",
+      "examination": "direct"
     },
     {
       "id": 155,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "From that place did you have a good view of the house where the others were sleeping?"
-    },
-    {
-      "id": 156,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. You could see everything.",
-      "reply_to": 155
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "On the 15th to the 16th, do you remember when you took over the shift?",
+      "examination": "direct"
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "On the 15th to the 16th, do you remember when you took over the shift?"
-    },
-    {
-      "id": 158,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "From 2.00 to 4.00 a.m.",
-      "reply_to": 157
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "That was in the morning?",
+      "examination": "direct"
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "That was in the morning?"
-    },
-    {
-      "id": 160,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, yes.",
-      "reply_to": 159
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "On the morning from the 15th to the 16th, were you on duty from 2.00 to 4.00 a.m.?",
+      "examination": "direct"
     },
     {
       "id": 161,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "On the morning from the 15th to the 16th, were you on duty from 2.00 to 4.00 a.m.?"
-    },
-    {
-      "id": 162,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I was.",
-      "reply_to": 161
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you remember who you were on guard duty with?",
+      "examination": "direct"
     },
     {
       "id": 163,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you remember who you were on guard duty with?"
-    },
-    {
-      "id": 164,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "With Zarko Kristo. I always went together with him.",
-      "reply_to": 163
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "On that night, when did you retire?",
+      "examination": "direct"
     },
     {
       "id": 165,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "On that night, when did you retire?"
-    },
-    {
-      "id": 166,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "It could have been around 10.00 or 11.00 perhaps.",
-      "reply_to": 165
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you remember where was Zeljo Livancic at the time?",
+      "examination": "direct"
     },
     {
       "id": 167,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you remember where was Zeljo Livancic at the time?"
-    },
-    {
-      "id": 168,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "He and Ivo Pranjkovic agreed about that. Zeljo was there. Zeljo was on duty sometime between 10.00 to 12.00, and then he would go to bed and Ivo Pranjkovic would take over to go around the guards.",
-      "reply_to": 167
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So the two of them were the leaders of the shift, that is, Zeljo Livancic, and Ivo Pranjkovic, as his deputy, would make rounds of the guards, wouldn't they?",
+      "examination": "direct"
     },
     {
       "id": 169,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So the two of them were the leaders of the shift, that is, Zeljo Livancic, and Ivo Pranjkovic, as his deputy, would make rounds of the guards, wouldn't they?"
-    },
-    {
-      "id": 170,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 169
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So that night, until 12.00, Zeljo Livancic was on duty?",
+      "examination": "direct"
     },
     {
       "id": 171,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So that night, until 12.00, Zeljo Livancic was on duty?"
-    },
-    {
-      "id": 172,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "He was, yes.",
-      "reply_to": 171
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You went to bed a little bit before that. When you woke up or, rather, when you were roused to take over your shift, did you see Zeljo Livancic then?",
+      "examination": "direct"
     },
     {
       "id": 173,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You went to bed a little bit before that. When you woke up or, rather, when you were roused to take over your shift, did you see Zeljo Livancic then?"
-    },
-    {
-      "id": 174,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. He was sleeping right next to me.",
-      "reply_to": 173
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you came back from the guard duty at 4.00, did you see Zeljo Livancic then and where?",
+      "examination": "direct"
     },
     {
       "id": 175,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you came back from the guard duty at 4.00, did you see Zeljo Livancic then and where?"
-    },
-    {
-      "id": 176,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. He was still asleep and he was in the same place where I left him, in the summer cottage.",
-      "reply_to": 175
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you went to bed at 4.00 in the morning?",
+      "examination": "direct"
     },
     {
       "id": 177,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you went to bed at 4.00 in the morning?"
-    },
-    {
-      "id": 178,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, after being on guard.",
-      "reply_to": 177
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When did you wake up in the morning?",
+      "examination": "direct"
     },
     {
       "id": 179,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When did you wake up in the morning?"
-    },
-    {
-      "id": 180,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Around 6.00 or half past five. That was the regular time for us to get up.",
-      "reply_to": 179
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you all get up then?",
+      "examination": "direct"
     },
     {
       "id": 181,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you all get up then?"
-    },
-    {
-      "id": 182,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. We would then have coffee.",
-      "reply_to": 181
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Then when you woke up, did you see Zeljo Livancic then?",
+      "examination": "direct"
     },
     {
       "id": 183,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Then when you woke up, did you see Zeljo Livancic then?"
-    },
-    {
-      "id": 184,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. He was with us. He was having coffee.",
-      "reply_to": 183
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, tell me -- we've now reached the 16th of April, 1993, and you were having coffee. It is morning. When did the gunfire at Kuber begin?",
+      "examination": "direct"
     },
     {
       "id": 185,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, tell me -- we've now reached the 16th of April, 1993, and you were having coffee. It is morning. When did the gunfire at Kuber begin?"
-    },
-    {
-      "id": 186,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "It began around 10.00.",
-      "reply_to": 185
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who was firing at whom?",
+      "examination": "direct"
     },
     {
       "id": 187,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Who was firing at whom?"
-    },
-    {
-      "id": 188,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "We were sitting there eating, having fun a little, and at some point a shell fell about 15 metres from the summer cottage, fortunately on the other side of the cottage so nobody was injured, but it damaged the roof and the wall of that summer cottage. We were slightly taken aback. We didn't know what was happening until the Muslims from the other side opened fire on us. We were quite surprised, we were quite confounded by this, and nobody realised what was going on until it really began. We were there and we defended ourselves. We deployed one next to the -- at a certain distance from the other one, and then we retreated down, as best we could, to the village of Kratine.",
-      "reply_to": 187
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You are saying that when this gunfire was opened, you were deployed up there. Where were you?",
+      "examination": "direct"
     },
     {
       "id": 189,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You are saying that when this gunfire was opened, you were deployed up there. Where were you?"
-    },
-    {
-      "id": 190,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I was just below this summer cottage with a friend who had a rifle because I could not pull out. It was just too late. They had come and surrounded us.",
-      "reply_to": 189
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you return fire to the Muslims?",
+      "examination": "direct"
     },
     {
       "id": 191,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you return fire to the Muslims?"
-    },
-    {
-      "id": 192,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. They were all firing.",
-      "reply_to": 191
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was anyone wounded then?",
+      "examination": "direct"
     },
     {
       "id": 193,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was anyone wounded then?"
-    },
-    {
-      "id": 194,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Mirko Livancic was and Stipica Grgic were killed, but nobody knows anything about them.",
-      "reply_to": 193
+      "reply_to": 192
+    },
+    {
+      "id": 194,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And then what happened?",
+      "examination": "direct"
     },
     {
       "id": 195,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And then what happened?"
-    },
-    {
-      "id": 196,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, people ran out of ammunition, so they were pulling down to Kratine, and there the villagers met them.",
-      "reply_to": 195
+      "reply_to": 194
+    },
+    {
+      "id": 196,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So around 10.00 or so, when the conflict began?",
+      "examination": "direct"
     },
     {
       "id": 197,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So around 10.00 or so, when the conflict began?"
-    },
-    {
-      "id": 198,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 197
+      "reply_to": 196
+    },
+    {
+      "id": 198,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When did you begin to withdraw towards Kratine?",
+      "examination": "direct"
     },
     {
       "id": 199,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When did you begin to withdraw towards Kratine?"
-    },
-    {
-      "id": 200,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "When we all were together down there -- I mean, it depended when each one of us was arriving. It was around 6.00 or 7.00 in the afternoon.",
-      "reply_to": 199
+      "reply_to": 198
+    },
+    {
+      "id": 200,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you meet Zeljo Livancic again that day?",
+      "examination": "direct"
     },
     {
       "id": 201,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you meet Zeljo Livancic again that day?"
-    },
-    {
-      "id": 202,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, when we all met down there.",
-      "reply_to": 201
+      "reply_to": 200
+    },
+    {
+      "id": 202,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "But did you see him at Kuber yet when this fire was opened around 10.00 in the morning?",
+      "examination": "direct"
     },
     {
       "id": 203,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But did you see him at Kuber yet when this fire was opened around 10.00 in the morning?"
-    },
-    {
-      "id": 204,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I saw him then, but then after that, we were deployed around and I could not see him because there were bushes and scrub and wood.",
-      "reply_to": 203
+      "reply_to": 202
+    },
+    {
+      "id": 204,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you saw him again that evening when you came to Kratine?",
+      "examination": "direct"
     },
     {
       "id": 205,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you saw him again that evening when you came to Kratine?"
-    },
-    {
-      "id": 206,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 205
+      "reply_to": 204
+    },
+    {
+      "id": 206,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where was it that you saw him?",
+      "examination": "direct"
     },
     {
       "id": 207,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Where was it that you saw him?"
-    },
-    {
-      "id": 208,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Near Jerko Bralo's house.",
-      "reply_to": 207
+      "reply_to": 206
+    },
+    {
+      "id": 208,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you talk to him?",
+      "examination": "direct"
     },
     {
       "id": 209,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you talk to him?"
-    },
-    {
-      "id": 210,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. I asked him, \"Are we all all right? Are we all there?\" And those two who stayed behind were missing and we still do not know their fate. They have not been found.",
-      "reply_to": 209
+      "reply_to": 208
+    },
+    {
+      "id": 210,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "That night, between the 16th and the 17th of April, 1993, were there any more conflicts, any more clashes?",
+      "examination": "direct"
     },
     {
       "id": 211,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "That night, between the 16th and the 17th of April, 1993, were there any more conflicts, any more clashes?"
-    },
-    {
-      "id": 212,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't know because we could not hear anything up there.",
-      "reply_to": 211
+      "reply_to": 210
+    },
+    {
+      "id": 212,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you had to come down to Kratine and you said that you were met by villagers there and that was on the 16th in the evening. So that night, between the 16th and the 17th of April, '93, were there any clashes?",
+      "examination": "direct"
     },
     {
       "id": 213,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But you had to come down to Kratine and you said that you were met by villagers there and that was on the 16th in the evening. So that night, between the 16th and the 17th of April, '93, were there any clashes?"
-    },
-    {
-      "id": 214,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Down there, when we got down there, one could hear gunfire all around us.",
-      "reply_to": 213
+      "reply_to": 212
+    },
+    {
+      "id": 214,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And tell us, what do you know about Zeljo Livancic after that?",
+      "examination": "direct"
     },
     {
       "id": 215,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And tell us, what do you know about Zeljo Livancic after that?"
-    },
-    {
-      "id": 216,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "After that, the next day, I heard, because that was where the front line above the village was mounted so they couldn't enter the village, and I heard that Zeljo Livancic had been killed. I did not see him until they carried him past us.",
-      "reply_to": 215
+      "reply_to": 214
+    },
+    {
+      "id": 216,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When was he killed?",
+      "examination": "direct"
     },
     {
       "id": 217,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When was he killed?"
-    },
-    {
-      "id": 218,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "On the 17th.",
-      "reply_to": 217
+      "reply_to": 216
+    },
+    {
+      "id": 218,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Tell me, Mr. Vidovic, how far is Kuber from Ahmici?",
+      "examination": "direct"
     },
     {
       "id": 219,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Tell me, Mr. Vidovic, how far is Kuber from Ahmici?"
-    },
-    {
-      "id": 220,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, some 4 or 5 kilometres.",
-      "reply_to": 219
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can one reach Ahmici from Kuber by some means of transportation apart from walking down there?",
+      "examination": "direct"
     },
     {
       "id": 221,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can one reach Ahmici from Kuber by some means of transportation apart from walking down there?"
-    },
-    {
-      "id": 222,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, you can't. You cannot reach Ahmici, you cannot get to Ahmici by vehicle. You can use a car only as far as Nadioci.",
-      "reply_to": 221
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "My last question to you: You said that from where you stood guard, you had a good view of the cottage where your other friends were sleeping.",
+      "examination": "direct"
     },
     {
       "id": 223,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "My last question to you: You said that from where you stood guard, you had a good view of the cottage where your other friends were sleeping."
-    },
-    {
-      "id": 224,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, yes, I did.",
-      "reply_to": 223
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, tell me, could it be that Zeljo Livancic, who, as you told us, was asleep when you went on duty --",
+      "examination": "direct"
     },
     {
       "id": 225,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, tell me, could it be that Zeljo Livancic, who, as you told us, was asleep when you went on duty --"
-    },
-    {
-      "id": 226,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 225
+      "reply_to": 224
+    },
+    {
+      "id": 226,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "-- could Zeljo Livancic have left that summer cottage without you noticing it?",
+      "examination": "direct"
     },
     {
       "id": 227,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "-- could Zeljo Livancic have left that summer cottage without you noticing it?"
-    },
-    {
-      "id": 228,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, it wasn't possible for him or anyone else.",
-      "reply_to": 227
+      "reply_to": 226
+    },
+    {
+      "id": 228,
+      "speaker": "MR. PAVKOVIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Why is that?",
+      "examination": "direct"
     },
     {
       "id": 229,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Why is that?"
-    },
-    {
-      "id": 230,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Especially at night, and by day, we were all together, we were all there, and at night, one simply could not move around. And besides, wherever somebody would go from there, one would be seen.",
-      "reply_to": 229
+      "reply_to": 228
     },
     {
-      "id": 231,
+      "id": 230,
       "speaker": "MR. PAVKOVIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you. I have no further questions. Thank you, Mr. President."
     },
     {
-      "id": 232,
+      "id": 231,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 233,
+      "id": 232,
       "speaker": "MR. PAVKOVIC",
       "role": "counsel",
       "type": "statement",
       "text": "As I am on my feet, may I just say that my colleague Par and Mr. Susak will continue with the examination of this witness."
     },
     {
-      "id": 234,
+      "id": 233,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "You mean cross-examination?"
     },
     {
-      "id": 235,
+      "id": 234,
       "speaker": "MR. PAVKOVIC",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, yes."
     },
     {
-      "id": 236,
+      "id": 235,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Counsel Par?"
     },
     {
-      "id": 237,
+      "id": 236,
       "speaker": "MR. PAR",
       "role": "counsel",
       "type": "statement",
-      "text": "Thank you, Mr. President. Only a few questions. Cross-examined by Mr. Par:"
+      "text": "Thank you, Mr. President. Only a few questions."
+    },
+    {
+      "id": 237,
+      "speaker": "MR. PAR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Vidovic, today you listed the names of individuals who were at Kuber with you, and you mentioned a person called Mirko Vidovic, nicknamed Pitola?",
+      "examination": "cross"
     },
     {
       "id": 238,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Vidovic, today you listed the names of individuals who were at Kuber with you, and you mentioned a person called Mirko Vidovic, nicknamed Pitola?"
-    },
-    {
-      "id": 239,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 238
+      "reply_to": 237
+    },
+    {
+      "id": 239,
+      "speaker": "MR. PAR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you please tell us something more about that individual, if you know, of course? How old is Mirko Vidovic?",
+      "examination": "cross"
     },
     {
       "id": 240,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you please tell us something more about that individual, if you know, of course? How old is Mirko Vidovic?"
-    },
-    {
-      "id": 241,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "He's a relative of mine. We are a very large family. He was with us up there, and he was alive as long as Kratine. After that, he asked to go back to his village, to the front line, that is, after the war had broken out.",
-      "reply_to": 240
+      "reply_to": 239
+    },
+    {
+      "id": 241,
+      "speaker": "MR. PAR",
+      "role": "counsel",
+      "type": "question",
+      "text": "No, what we want to know is his particulars. He is dead, if I understand properly.",
+      "examination": "cross"
     },
     {
       "id": 242,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "No, what we want to know is his particulars. He is dead, if I understand properly."
-    },
-    {
-      "id": 243,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, he was butchered in the village of Buhina Kuce.",
-      "reply_to": 242
+      "reply_to": 241
+    },
+    {
+      "id": 243,
+      "speaker": "MR. PAR",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm really sorry about that.",
+      "examination": "cross"
     },
     {
       "id": 244,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I'm really sorry about that."
-    },
-    {
-      "id": 245,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "He, his brother, brother's wife and son.",
-      "reply_to": 244
+      "reply_to": 243
+    },
+    {
+      "id": 245,
+      "speaker": "MR. PAR",
+      "role": "counsel",
+      "type": "question",
+      "text": "And when was that?",
+      "examination": "cross"
     },
     {
       "id": 246,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And when was that?"
-    },
-    {
-      "id": 247,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "After Buhina Kuce fell.",
-      "reply_to": 246
+      "reply_to": 245
+    },
+    {
+      "id": 247,
+      "speaker": "MR. PAR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know his father's name?",
+      "examination": "cross"
     },
     {
       "id": 248,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know his father's name?"
-    },
-    {
-      "id": 249,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Anto.",
-      "reply_to": 248
+      "reply_to": 247
+    },
+    {
+      "id": 249,
+      "speaker": "MR. PAR",
+      "role": "counsel",
+      "type": "question",
+      "text": "And how old was he then?",
+      "examination": "cross"
     },
     {
       "id": 250,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And how old was he then?"
-    },
-    {
-      "id": 251,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Then? Forty, forty-five, on the outside.",
-      "reply_to": 250
+      "reply_to": 249
+    },
+    {
+      "id": 251,
+      "speaker": "MR. PAR",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where did he live before that?",
+      "examination": "cross"
     },
     {
       "id": 252,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Where did he live before that?"
-    },
-    {
-      "id": 253,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "In Buhina Kuce.",
-      "reply_to": 252
+      "reply_to": 251
     },
     {
-      "id": 254,
+      "id": 253,
       "speaker": "MR. PAR",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you very much. I have no further questions. THE PRESIDENT: Thank you, Counsel Par. Counsel Susak?"
     },
     {
-      "id": 255,
+      "id": 254,
       "speaker": "MR. SUSAK",
       "role": "counsel",
       "type": "statement",
-      "text": "Thank you, Mr. President. I shall be very brief. Cross-examined by Mr. Susak:"
+      "text": "Thank you, Mr. President. I shall be very brief."
+    },
+    {
+      "id": 255,
+      "speaker": "MR. SUSAK",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Vidovic, you told us you were born in Donji Pirici.",
+      "examination": "cross"
     },
     {
       "id": 256,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Vidovic, you told us you were born in Donji Pirici."
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 255
     },
     {
       "id": 257,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes.",
-      "reply_to": 256
+      "speaker": "MR. SUSAK",
+      "role": "counsel",
+      "type": "question",
+      "text": "You also told us that on the 16th of April, 1993, you were at Kuber.",
+      "examination": "cross"
     },
     {
       "id": 258,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You also told us that on the 16th of April, 1993, you were at Kuber."
-    },
-    {
-      "id": 259,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 258
+      "reply_to": 257
+    },
+    {
+      "id": 259,
+      "speaker": "MR. SUSAK",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know Drago Josipovic?",
+      "examination": "cross"
     },
     {
       "id": 260,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know Drago Josipovic?"
-    },
-    {
-      "id": 261,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I do because we are neighbours.",
-      "reply_to": 260
+      "reply_to": 259
+    },
+    {
+      "id": 261,
+      "speaker": "MR. SUSAK",
+      "role": "counsel",
+      "type": "question",
+      "text": "You come from Upper Pirici and he comes from Santici.",
+      "examination": "cross"
     },
     {
       "id": 262,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You come from Upper Pirici and he comes from Santici."
-    },
-    {
-      "id": 263,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, but the distance is about 500 metres, practically next door.",
-      "reply_to": 262
+      "reply_to": 261
+    },
+    {
+      "id": 263,
+      "speaker": "MR. SUSAK",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know where Drago Josipovic was at the time of the first conflict, and to help you, that was on the 20th of October, 1992?",
+      "examination": "cross"
     },
     {
       "id": 264,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know where Drago Josipovic was at the time of the first conflict, and to help you, that was on the 20th of October, 1992?"
-    },
-    {
-      "id": 265,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I do not know where he was during the first conflict.",
-      "reply_to": 264
+      "reply_to": 263
+    },
+    {
+      "id": 265,
+      "speaker": "MR. SUSAK",
+      "role": "counsel",
+      "type": "question",
+      "text": "But do you know or have you heard anything about where Drago Josipovic was on the 16th of April, '93? I'm asking you that. I mean, you would know as you were neighbours.",
+      "examination": "cross"
     },
     {
       "id": 266,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But do you know or have you heard anything about where Drago Josipovic was on the 16th of April, '93? I'm asking you that. I mean, you would know as you were neighbours."
-    },
-    {
-      "id": 267,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I don't know where he was, but I only heard it from other people when they came and knocked on his door, as everybody else's door, to go help the defence, that he had gone away to Rovna. Even his father was saying that.",
-      "reply_to": 266
+      "reply_to": 265
+    },
+    {
+      "id": 267,
+      "speaker": "MR. SUSAK",
+      "role": "counsel",
+      "type": "question",
+      "text": "How old is your father?",
+      "examination": "cross"
     },
     {
       "id": 268,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How old is your father?"
-    },
-    {
-      "id": 269,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "He was born in 1939.",
-      "reply_to": 268
+      "reply_to": 267
+    },
+    {
+      "id": 269,
+      "speaker": "MR. SUSAK",
+      "role": "counsel",
+      "type": "question",
+      "text": "Nenad Santic; do you know him?",
+      "examination": "cross"
     },
     {
       "id": 270,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Nenad Santic; do you know him?"
-    },
-    {
-      "id": 271,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "That is one that I have in mind. He worked at the petrol pump in Vitez.",
-      "reply_to": 270
+      "reply_to": 269
+    },
+    {
+      "id": 271,
+      "speaker": "MR. SUSAK",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know if he worked at the petrol pump on the eve of the war or, better said, on the 15th of April, 1993?",
+      "examination": "cross"
     },
     {
       "id": 272,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know if he worked at the petrol pump on the eve of the war or, better said, on the 15th of April, 1993?"
-    },
-    {
-      "id": 273,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Then? I don't know. I suppose so because he worked there all the time.",
-      "reply_to": 272
+      "reply_to": 271
+    },
+    {
+      "id": 273,
+      "speaker": "MR. SUSAK",
+      "role": "counsel",
+      "type": "question",
+      "text": "How do you know him? Did you stop to talk to him?",
+      "examination": "cross"
     },
     {
       "id": 274,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How do you know him? Did you stop to talk to him?"
-    },
-    {
-      "id": 275,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, I had my vehicle, and he was quite a talkative person.",
-      "reply_to": 274
+      "reply_to": 273
+    },
+    {
+      "id": 275,
+      "speaker": "MR. SUSAK",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. I understand. So you know him since that time.",
+      "examination": "cross"
     },
     {
       "id": 276,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes. I understand. So you know him since that time."
-    },
-    {
-      "id": 277,
       "speaker": "MR. SUSAK",
       "role": "counsel",
       "type": "statement",
       "text": "Mr. President, I have no further questions. Thank you."
     },
     {
-      "id": 278,
+      "id": 277,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Counsel Puliselic?"
     },
     {
-      "id": 279,
+      "id": 278,
       "speaker": "MR. PULISELIC",
       "role": "counsel",
       "type": "statement",
       "text": "I apologise, Mr. President. Only one question. May I ask only one question of the witness?"
     },
     {
-      "id": 280,
+      "id": 279,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes. Cross-examined by Mr. Puliselic:"
+      "text": "Yes."
+    },
+    {
+      "id": 280,
+      "speaker": "MR. PULISELIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Vidovic, could you tell us if you had a nickname?",
+      "examination": "cross"
     },
     {
       "id": 281,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Vidovic, could you tell us if you had a nickname?"
-    },
-    {
-      "id": 282,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Acko.",
-      "reply_to": 281
+      "reply_to": 280
+    },
+    {
+      "id": 282,
+      "speaker": "MR. PULISELIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Acko, is it?",
+      "examination": "cross"
     },
     {
       "id": 283,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Acko, is it?"
-    },
-    {
-      "id": 284,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 283
+      "reply_to": 282
     },
     {
-      "id": 285,
+      "id": 284,
       "speaker": "MR. PULISELIC",
       "role": "counsel",
       "type": "statement",
       "text": "All right. Thank you very much."
     },
     {
-      "id": 286,
+      "id": 285,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you, Counsel Puliselic. Mr. Terrier?"
     },
     {
-      "id": 287,
-      "speaker": "MR. TERRIER",
-      "role": "counsel",
-      "type": "statement",
-      "text": "Thank you, Your Honour. Cross-examined by Mr. Terrier:"
-    },
-    {
-      "id": 288,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Witness, I'm Franck Terrier, I am one of the trial attorneys in this case, and I have a few questions for you. Earlier on you told us that you lived in Lower Pirici. Could you tell us exactly where your house is or was and who your neighbours were?"
-    },
-    {
-      "id": 289,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes. My house is right down there next to the main road. As you come from Vitez, before you enter Ahmici, and from there is my gate before that entrance into Ahmici, some 100 metres before that. Perhaps even less.",
-      "reply_to": 288
-    },
-    {
-      "id": 290,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Witness, what was your work then? You told us that you were a carpenter, but what were you doing then, back then?"
-    },
-    {
-      "id": 291,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "I was only trained in the vocational school, but I did not work full time before the war.",
-      "reply_to": 290
-    },
-    {
-      "id": 292,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you do some vocational training aiming towards a specific trade?"
-    },
-    {
-      "id": 293,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes. There was a course in Vitez after the war, and that is how I got a job.",
-      "reply_to": 292
-    },
-    {
-      "id": 294,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You told us that you were nicknamed Acko. What is your father's name?"
-    },
-    {
-      "id": 295,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Simun.",
-      "reply_to": 294
-    },
-    {
-      "id": 296,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Therefore, if anybody mentions Andjelko Vidovic, son of Simun, and nicknamed Acko, you are the one, aren't you?"
-    },
-    {
-      "id": 297,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes, indeed, yes.",
-      "reply_to": 296
-    },
-    {
-      "id": 298,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you have one or several brothers?"
-    },
-    {
-      "id": 299,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "I have one brother and three sisters.",
-      "reply_to": 298
-    },
-    {
-      "id": 300,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What is your brother's first name?"
-    },
-    {
-      "id": 301,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Vinko. Vinko Vidovic.",
-      "reply_to": 300
-    },
-    {
-      "id": 302,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What did Vinko do at the time, around October '92 up to April 1993? What was his work? What was he doing then?"
-    },
-    {
-      "id": 303,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Like everybody else.",
-      "reply_to": 302
-    },
-    {
-      "id": 304,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Well, I have to ask you to be more specific."
-    },
-    {
-      "id": 305,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "What did he do then? Well, I guess he was at the front line like everybody else.",
-      "reply_to": 304
-    },
-    {
-      "id": 306,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you mean by that, that he didn't have any civil activity but he did have military activity?"
-    },
-    {
-      "id": 307,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes, highly likely. I'm not sure but presumably.",
-      "reply_to": 306
-    },
-    {
-      "id": 308,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What do you mean you're not sure? You have to be sure."
-    },
-    {
-      "id": 309,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Well, I am not because I was at the front line too at Kuber, so that we simply did not see one another or we saw one another very seldom.",
-      "reply_to": 308
-    },
-    {
-      "id": 310,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is it true to say that you and your brother Vinko did not have any civil work but that you had some military occupation in that period going from October '92 to April '93 and beyond?"
-    },
-    {
-      "id": 311,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "I became a military simply because the war caught up with me at Kuber, and then I, naturally, became a soldier.",
-      "reply_to": 310
-    },
-    {
-      "id": 312,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you tell us when, at what time you were mobilised?"
-    },
-    {
-      "id": 313,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "When the war broke out, due to the circumstances.",
-      "reply_to": 312
-    },
-    {
-      "id": 314,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you be more specific as to the period or as to the date when you were mobilised?"
-    },
-    {
-      "id": 315,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "As of the day when the Muslims attacked us on Kuber.",
-      "reply_to": 314
-    },
-    {
-      "id": 316,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you were mobilised on the 16th of April, 1993?"
-    },
-    {
-      "id": 317,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes, quite.",
-      "reply_to": 316
-    },
-    {
-      "id": 318,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Since April 1993, you had some military activity since you were keeping the guard on the front line; isn't that so?"
-    },
-    {
-      "id": 319,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "But it was on our own initiative. It was not any kind of organisation.",
-      "reply_to": 318
-    },
-    {
-      "id": 320,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Under such circumstances, is it right to say that the concept of mobilisation is a very formal one but it didn't change anything in practice on the ground; is that so?"
-    },
-    {
-      "id": 321,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "I didn't understand your question.",
-      "reply_to": 320
-    },
-    {
-      "id": 322,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I'll move on to another question. Do you know Zeljo Vidovic?"
-    },
-    {
-      "id": 323,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "No. Yes, I do. I do know one. He has a bakery in Vitez and has a brother called Bruno, a relative of mine.",
-      "reply_to": 322
-    },
-    {
-      "id": 324,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Excuse me. So Zeljo Vidovic is one of your cousins, is that so?"
-    },
-    {
-      "id": 325,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes. Yes, he is.",
-      "reply_to": 324
-    },
-    {
-      "id": 326,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you know where he was, your cousin Zeljo, on the 16th of April, 1993?"
-    },
-    {
-      "id": 327,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Vidovic. Zeljo Vidovic.",
-      "reply_to": 326
-    },
-    {
-      "id": 328,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Indeed. Where was Zeljo Vidovic on the 16th of April, 1993?"
-    },
-    {
-      "id": 329,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "I don't know, because he lives in Vitez and I lived down there. I was on Kuber anyway. I haven't the slightest, even where my parents were let alone.",
-      "reply_to": 328
-    },
-    {
-      "id": 330,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Witness, you told us that on the 13th of April, 1993, you were friends with Zarko Kristo, and because Kuber was a nice location, you went on guard duty there, on that location, but you didn't have any uniform, you said, and you didn't have weapons because there were too many of you to have enough weapons for everybody. Did I understand you properly?"
-    },
-    {
-      "id": 331,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes.",
-      "reply_to": 330
-    },
-    {
-      "id": 332,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You told us that Zeljo Livancic and Ivo Pranjkovic were responsible or were in charge of Kuber?"
-    },
-    {
-      "id": 333,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes, yes.",
-      "reply_to": 332
-    },
-    {
-      "id": 334,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "On what grounds did they have responsibility for that location? Were they soldiers?"
-    },
-    {
-      "id": 335,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Well, yes, like we were. Every village has some kind of a mayor, the president of the neighbourhood community, and perhaps he assigned duties, but nobody had a uniform, not even the two of them.",
-      "reply_to": 334
-    },
-    {
-      "id": 336,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you be more specific, witness? What does the president of a local community or a neighbourhood community have to carry out as duties?"
-    },
-    {
-      "id": 337,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Well, regardless of what one does, what kind of activity is involved, he always had said whether one builds a road or does something else in the village. He is the one who is charge. I mean, the president of that community, the mayor of that village.",
-      "reply_to": 336
-    },
-    {
-      "id": 338,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "That was the case for Zeljo Livancic, was it?"
-    },
-    {
-      "id": 339,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes. Yes, on Kuber.",
-      "reply_to": 338
-    },
-    {
-      "id": 340,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Witness, before you went to Kuber in April 1993, had you, prior to that, been subject to military training?"
-    },
-    {
-      "id": 341,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "No, and I did not serve even that army.",
-      "reply_to": 340
-    },
-    {
-      "id": 342,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "The reason why I am asking this question is because Mirsad Ahmic made a statement in Zenica in November 1994, and he said several months before the conflict you and your brother followed some training, did some training Celiste in Nadioci. Is anything funny about this?"
-    },
-    {
-      "id": 343,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Celiste. Never heard of it. Don't know where it is. We did not go to train. My brother was trained with the Yugoslav People's Army where he served, and I did not serve even that army.",
-      "reply_to": 342
-    },
-    {
-      "id": 344,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Prior to the 16th of April, 1993, did you sometimes go to the Bungalow? Are you familiar with the Bungalow?"
-    },
-    {
-      "id": 345,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "I do, yes. I know where it is. But if you're asking me if I ever went there, I didn't.",
-      "reply_to": 344
-    },
-    {
-      "id": 346,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You mentioned the events that took place on the 20th of October, 1992. Where were you on that day?"
-    },
-    {
-      "id": 347,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "You mean when the conflict broke out? I didn't understand the question. I couldn't hear it properly.",
-      "reply_to": 346
-    },
-    {
-      "id": 348,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Well, you referred to what happened on the 20th of October 1992 in Ahmici at the time of the first conflict, and my question is: Where were you on that day?"
-    },
-    {
-      "id": 349,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "I was at home. I was asleep, and I was aroused by the detonation.",
-      "reply_to": 348
-    },
-    {
-      "id": 350,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What did you do during that day? Did you take part in the events that took place then?"
-    },
-    {
-      "id": 351,
-      "speaker": "ANDJELKO VIDOVIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "No, because I did not know what was going on. The checkpoint was a bit further away from my house and that was where the conflict started.",
-      "reply_to": 350
-    },
-    {
-      "id": 352,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "The reason why I am asking this question is because Salih Ahmic, a witness, said to the investigating magistrate, in December 1994, said that he had seen you shooting towards the house of Mr. Ahmic, thereby endangering the lives of his family members."
-    },
-    {
-      "id": 353,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Is there an objection?"
-    },
-    {
-      "id": 354,
-      "speaker": "MS. SLOKOVIC-GLUMAC",
-      "role": "counsel",
-      "type": "statement",
-      "text": "I would just like to intervene. I don't know what witnesses the Prosecutor is quoting. He's putting forward names. We didn't hear any of them. He mentioned an Ahmic a moment ago, we were not even able to catch the name, who had allegedly said some things. But I don't know where the Prosecutor gets this information from, because they were not witnesses brought to testify. So if he has some other statements that we do not have, we're not able to follow. This last man, Ahmic, that was mentioned, we cannot follow that either because we do not have the information."
-    },
-    {
-      "id": 355,
-      "speaker": "MR. TERRIER",
-      "role": "counsel",
-      "type": "statement",
-      "text": "I do admit there is a problem as to the method, but it is also a problem that the Prosecution are faced with. We do have witnesses who, when it comes to sort of second-ranking questions, happen to mention witnesses or have mentioned the witness who is now testifying, and it so happens that such witness statements are in contradiction -- I mean, the written statements are quite contradictory to what is being stated here by the witness. I shall, of course, comply with what your decision may be, but I don't know how to go about this. Are we supposed to -- are we not allowed to mention the witness statements that we have, or do we have to, before we mention anything about them, hand them over to the Defence? I know it is a problem as to the method. There may be a problem. It may be difficult for the Defence, given the method I'm applying. This is the reason why I shall comply with your decisions or instructions. I have several written statements by witnesses. They were never disclosed to the Defence, it is true, because they do not relate to the situation of the accused, but they do mention the witness and his behaviour but in a very different light from what he has said to this Tribunal. So I shall comply with your decision. (Trial Chamber confers)"
-    },
-    {
-      "id": 356,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Mr. Terrier, we believe that this has to do with statements which you have not disclosed to the Defence, if I'm not mistaken, so you have to avoid mentioning such statements. However, you might possibly use information gained from such statements in order to put questions to the witness in order to challenge specific facts he has stated, because we believe that the questions you have asked or are about to ask may be relevant as to the credibility of this witness, but do not mention a statement or a name."
-    },
-    {
-      "id": 357,
-      "speaker": "MR. TERRIER",
-      "role": "counsel",
-      "type": "statement",
-      "text": "Well, there are three types of statements which I am planning to put to the witness in this cross-examination. There are statements that are here and under oath in this Tribunal. No problem with regard to them. Then there is the written statements disclosed to the witness under Rule 66. Some of the witnesses appeared but did not mention anything specific as to this witness because there was no reason for mentioning that. These are statements which the Defence have. There are also statements which the Defence don't have. So I shall comply with your instructions, Your Honours, as to the statements that have not been disclosed to the Defence."
-    },
-    {
-      "id": 358,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Thank you."
-    },
-    {
-      "id": 359,
-      "speaker": "MS. SLOKOVIC-GLUMAC",
-      "role": "counsel",
-      "type": "statement",
-      "text": "Mr. President, I apologise, but I'd like to clear up one matter so that we know how to behave in the future. The problem will arise of some statements which were handed to the Defence counsel, but those witnesses were not brought before the Trial Chamber so that they did not give their testimony in front of you. So we were not able to conduct a cross-examination or bring some facts into doubt. So if the Prosecutor is going to ask some questions as something being proved by the witnesses, and it is a witness who has not given testimony and who has just handed in his statement, then by quoting, in the way the Prosecutor does, this can be brought into question, and that he is bringing this as a fait accompli to the court and the witness. So we do agree he can, of course, use all the information he has in his statements but without quoting names and going into detail as he has been doing, because the Defence was not allowed to do this either."
-    },
-    {
-      "id": 360,
-      "speaker": "MR. TERRIER",
-      "role": "counsel",
-      "type": "statement",
-      "text": "Your Honour, I am somewhat taken aback, I am surprised, because I think that if I state the name of the person that gave the statements or just mentioned the source, this would be a guarantee, some kind of warranty for the Defence, who are then able to verify what I have said. As long as they have documents at their disposal, that must be some kind of a guarantee. Well, if they don't want that, well, I shall do without it. But I do think that this is a guarantee that is given to them. There is another problem not mentioned by Mrs. Glumac. Witnesses who have been heard by this Tribunal but who have made several written statements in which they mentioned facts that were not mentioned during the hearings, of course, not each and every witness was asked to repeat every single word they had said in their written statements, they only were asked to mention what was relevant at the time; therefore, the information they had regarding the accused but not related to everybody that might have played some part during those events. So I have the feeling that if we want to make sure that the rights of the Defence are respected, they want to be able to check where the documents come from; and if I have done so, if I have given them this information as to the source, I should be able to give them the name."
-    },
-    {
-      "id": 361,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Mr. Radovic?"
-    },
-    {
-      "id": 362,
-      "speaker": "MR. RADOVIC",
-      "role": "counsel",
-      "type": "statement",
-      "text": "Mr. President, I cannot agree with what the Prosecutor has stated, first of all, because we do not know whether the witness quoted by the Prosecutor would give the same testimony in this court of law as he did to the investigators in Zenica. If we were to follow up on what the Prosecutor has said and that we should believe what the witness said to the investigator in Zenica, then the Prosecutor could give up all [redacted]"
-    },
-    {
-      "id": 363,
-      "speaker": "MR. RADOVIC",
-      "role": "counsel",
-      "type": "statement",
-      "text": "[redacted] than the one he gave later on. So that particular witness is not repeating that statement to this Trial Chamber, and as we cannot examine the witness to see whether it is a trustworthy witness or not, then the Prosecutor cannot pull out papers and, on the basis of those papers, consider that what is written there is trustworthy and true and correct. That is why we object to that line of questioning by the Prosecutor and consider that that infringes upon the principle of the public character and direct character of this trial and that he presents evidence for which nobody knows whether they would be confirmed in court or not. That is why we would like you to refute that attempt made by the Prosecutor which places us into a completely unequal position because we do not have the possibility of ascertaining the trustworthiness of the witness because they are witnesses from the Muslim territory who do not wish contact with us at all. That would be all. Thank you."
-    },
-    {
-      "id": 364,
-      "speaker": "MR. TERRIER",
-      "role": "counsel",
-      "type": "statement",
-      "text": "Well, Mr. Radovic has just said that I maintain or affirm specific facts on the strength of documents that were not or could not be cross-examined. I'm not affirming anything. The only thing I do is put questions and show the witness statements that are contrary to what he says, and I hope that the truth will emerge from this confrontation: between what he says here at the hearing and what is being said in the statements. On the other hand, I think that the Defence have had written documents referring to the written statements I have mentioned, and that is a guarantee that the adversarial system is not being jeopardised here."
-    },
-    {
-      "id": 365,
-      "speaker": "MR. TERRIER",
-      "role": "counsel",
-      "type": "statement",
-      "text": "[redacted], whenever we have a witness in front of us, we would have to ask him or her about anything or everything possible that might have some relevance later on. I think we must remain within boundaries. We must allow each party to express themselves. We must make it possible for the Defence to examine, to have a look at the documents used by the Prosecution. I do think that there is a problem when I mention a document here in this cross-examination, a document which is not known to the Defence, and I believe that there is a problem; but if I mention a document that has been disclosed to the Defence several months ago, then I remain within the boundaries of the adversarial system and I am not prejudicing at all the Defence's rights. (Trial Chamber confers)"
-    },
-    {
-      "id": 366,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Let us come back to the three main types of documents mentioned by Mr. Terrier. It goes without saying that as to the category of witnesses -- sorry -- as to the people interviewed by the Prosecution and whose statements were not disclosed to the Defence, the Prosecutor is not in a position to ask any question mentioning the name of the person who was interviewed. So we have already decided that then your questions should relate to facts without your mentioning the source of your information because the documents are not familiar to the Defence. There is another category of documents. They relate to witnesses whose statements were disclosed to the Defence and the witnesses were witnesses, they testified here, they were examined and cross-examined, even if the cross-examination did not relate to the facts mentioned here right now by the Prosecutor. Mr. Terrier is right. Whenever he has a new witness, he can't ask every possible question of this witness thinking that these questions might be of relevance in the future. Now, what are we going to do with regard to the third category, i.e., people whose statements were disclosed to the Defence by the Prosecution, but since the witness was not summoned, the Defence were not in a position to cross-examine that witness? We believe that Mr. Terrier is entitled to ask questions whilst he mentions the source of his information because this is not evidence. He is going to quote a statement and not the evidence as provided by the witness at the hearing, in the courtroom. The statement as such is not evidence; it is a source which is likely to be challenged, and so it has the value it has as such. The value will be assessed by the Trial Chamber in the light of the evidence adduced in court. Through the system of cross-examination, evidence is, as it were, created during the hearing; it doesn't exist as such before the hearing. So in the light of this all, we believe that the Prosecution is entitled to ask questions because the Defence must be aware of the limited probative value of a written statement mentioned while the witness who provided the statement did not testify. Since that person did not testify, we feel that the statement does not have the same weight as another piece of evidence. It may be used in order to challenge facts. And there I do agree with Mr. Terrier too. This should be seen as a kind of guarantee for the Defence because a specific statement is being mentioned, coming from a person known to the Defence; that means that the Defence is given some guarantees. Mr. Radovic?"
-    },
-    {
-      "id": 367,
-      "speaker": "MR. RADOVIC",
-      "role": "counsel",
-      "type": "statement",
-      "text": "Mr. President, we did not expect that decision on the part of the Trial Chamber with regard to this point in question, and we are going to use our right to complain. So much for me. Thank you."
-    },
-    {
-      "id": 368,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Fine. Mr. Par?"
-    },
-    {
-      "id": 369,
-      "speaker": "MR. PAR",
-      "role": "counsel",
-      "type": "statement",
-      "text": "If I may, I have just one question with respect to this decision. I'm not quite clear on one point. When we're talking about a statement from the third category, does that mean that the Prosecutor can quote the statement as a source and read out a part only with regard to the witness he is questioning and not with regard to the other contents of the statement? I don't know if I was clear enough. We have had an example here today. For example, the witness is being faced with part of a statement. Now, is it just part of that statement which refers to the witness, or can we interpret the statement in a broader fashion? I don't know whether I'm being clear enough."
-    },
-    {
-      "id": 370,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Our decision was as follows: The Prosecutor is free to challenge a specific fact from a witness by saying that somebody else, thereby quotes the name of that somebody else, he can even quote or read out part of the statement: \"That witness said that, on that specific day, you were somewhere else, for instance, in Pirici and not in Kuber.\" So that is challenging a fact. The witness, and that will be evidence, can say yea or nay to that fact, can challenge it or confirm it. So the evidence is then adduced, and it is the result from what the witness may have said. So the challenging, by the Prosecutor, of a specific fact whilst the source of that fact is being quoted, that is done to prompt the witness to say what he or she knows about a specific fact, to supply their version of the facts."
-    },
-    {
-      "id": 371,
-      "speaker": "MR. PAR",
-      "role": "counsel",
-      "type": "statement",
-      "text": "Yes, I have understood you, but I don't know if you have understood me. Mr. Terrier now, when he quotes this part, does he only say that \"For you, Mr. Vidovic, that witness said the following\"? Or can he take the statement and say, \"The witness spoke about other individuals,\" and so on and so forth? So does he just face the witness with the concrete fact that he wishes him to give an answer to?"
-    },
-    {
-      "id": 372,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Yes, yes, only regarding that witness because it is a specific challenge which is aimed -- I want to repeat that -- aimed at prompting the witness to express himself or herself on a fact that may have been challenged. I hope you grasp the difference between the probative value of a written statement coming from that specific person who was not called as a witness, who has not been cross-examined, the difference between that and what a witness who is in court can say as to a specific fact."
-    },
-    {
-      "id": 373,
-      "speaker": "MR. PAR",
-      "role": "counsel",
-      "type": "statement",
-      "text": "Thank you very much. I understand now. Thank you very much, yes."
-    },
-    {
-      "id": 374,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Thank you. Mr. Terrier, you have the floor."
-    },
-    {
-      "id": 375,
+      "id": 286,
       "speaker": "MR. TERRIER",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour."
     },
     {
-      "id": 376,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 287,
+      "speaker": "MR. TERRIER",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, I would like to call you to attention. Did you take part in the events of the 20th of October, 1992, in Ahmici, whilst you were armed? Did you shoot at houses? Did you partake in any kind of military action on that day in Ahmici?"
+      "text": "Witness, I'm Franck Terrier, I am one of the trial attorneys in this case, and I have a few questions for you. Earlier on you told us that you lived in Lower Pirici. Could you tell us exactly where your house is or was and who your neighbours were?",
+      "examination": "cross"
     },
     {
-      "id": 377,
+      "id": 288,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
-      "text": "No.",
-      "reply_to": 376
+      "text": "Yes. My house is right down there next to the main road. As you come from Vitez, before you enter Ahmici, and from there is my gate before that entrance into Ahmici, some 100 metres before that. Perhaps even less.",
+      "reply_to": 287
     },
     {
-      "id": 378,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 289,
+      "speaker": "MR. TERRIER",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, later on, after the 20th of October, 1992, and for several days, did you hold a checkpoint at the entrance to Ahmici whilst you were wearing a uniform and were armed?"
+      "text": "Witness, what was your work then? You told us that you were a carpenter, but what were you doing then, back then?",
+      "examination": "cross"
     },
     {
-      "id": 379,
+      "id": 290,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
-      "text": "No. There was a row of houses. Nobody was there. I guarded the houses, my father and I, and my mother was there. My mother tended to her cow until she returned a day or two later.",
-      "reply_to": 378
+      "text": "I was only trained in the vocational school, but I did not work full time before the war.",
+      "reply_to": 289
     },
     {
-      "id": 380,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 291,
+      "speaker": "MR. TERRIER",
       "role": "counsel",
       "type": "question",
-      "text": "So did you carry out guard duty armed and in uniform?"
+      "text": "Did you do some vocational training aiming towards a specific trade?",
+      "examination": "cross"
     },
     {
-      "id": 381,
+      "id": 292,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
-      "text": "No, because I didn't have a rifle or weapons at all or a uniform.",
-      "reply_to": 380
+      "text": "Yes. There was a course in Vitez after the war, and that is how I got a job.",
+      "reply_to": 291
     },
     {
-      "id": 382,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 293,
+      "speaker": "MR. TERRIER",
       "role": "counsel",
       "type": "question",
-      "text": "Witness, you told us that on the 13th of April, 1993, you went to Kuber, and that in the night of the 15th to the 16th of April, you were on guard duty from 2.00 to 4.00 in the morning, that you went to sleep at 4.00 in the morning, that you woke up towards 5.00 or 6.00 in the morning, and you were attacked around 10.00. Is that what you said?"
+      "text": "You told us that you were nicknamed Acko. What is your father's name?",
+      "examination": "cross"
     },
     {
-      "id": 383,
+      "id": 294,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Simun.",
+      "reply_to": 293
+    },
+    {
+      "id": 295,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Therefore, if anybody mentions Andjelko Vidovic, son of Simun, and nicknamed Acko, you are the one, aren't you?",
+      "examination": "cross"
+    },
+    {
+      "id": 296,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, indeed, yes.",
+      "reply_to": 295
+    },
+    {
+      "id": 297,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you have one or several brothers?",
+      "examination": "cross"
+    },
+    {
+      "id": 298,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I have one brother and three sisters.",
+      "reply_to": 297
+    },
+    {
+      "id": 299,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What is your brother's first name?",
+      "examination": "cross"
+    },
+    {
+      "id": 300,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Vinko. Vinko Vidovic.",
+      "reply_to": 299
+    },
+    {
+      "id": 301,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What did Vinko do at the time, around October '92 up to April 1993? What was his work? What was he doing then?",
+      "examination": "cross"
+    },
+    {
+      "id": 302,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Like everybody else.",
+      "reply_to": 301
+    },
+    {
+      "id": 303,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, I have to ask you to be more specific.",
+      "examination": "cross"
+    },
+    {
+      "id": 304,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "What did he do then? Well, I guess he was at the front line like everybody else.",
+      "reply_to": 303
+    },
+    {
+      "id": 305,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you mean by that, that he didn't have any civil activity but he did have military activity?",
+      "examination": "cross"
+    },
+    {
+      "id": 306,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, highly likely. I'm not sure but presumably.",
+      "reply_to": 305
+    },
+    {
+      "id": 307,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What do you mean you're not sure? You have to be sure.",
+      "examination": "cross"
+    },
+    {
+      "id": 308,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, I am not because I was at the front line too at Kuber, so that we simply did not see one another or we saw one another very seldom.",
+      "reply_to": 307
+    },
+    {
+      "id": 309,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it true to say that you and your brother Vinko did not have any civil work but that you had some military occupation in that period going from October '92 to April '93 and beyond?",
+      "examination": "cross"
+    },
+    {
+      "id": 310,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I became a military simply because the war caught up with me at Kuber, and then I, naturally, became a soldier.",
+      "reply_to": 309
+    },
+    {
+      "id": 311,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you tell us when, at what time you were mobilised?",
+      "examination": "cross"
+    },
+    {
+      "id": 312,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "When the war broke out, due to the circumstances.",
+      "reply_to": 311
+    },
+    {
+      "id": 313,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you be more specific as to the period or as to the date when you were mobilised?",
+      "examination": "cross"
+    },
+    {
+      "id": 314,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "As of the day when the Muslims attacked us on Kuber.",
+      "reply_to": 313
+    },
+    {
+      "id": 315,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you were mobilised on the 16th of April, 1993?",
+      "examination": "cross"
+    },
+    {
+      "id": 316,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, quite.",
+      "reply_to": 315
+    },
+    {
+      "id": 317,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Since April 1993, you had some military activity since you were keeping the guard on the front line; isn't that so?",
+      "examination": "cross"
+    },
+    {
+      "id": 318,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "But it was on our own initiative. It was not any kind of organisation.",
+      "reply_to": 317
+    },
+    {
+      "id": 319,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Under such circumstances, is it right to say that the concept of mobilisation is a very formal one but it didn't change anything in practice on the ground; is that so?",
+      "examination": "cross"
+    },
+    {
+      "id": 320,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I didn't understand your question.",
+      "reply_to": 319
+    },
+    {
+      "id": 321,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'll move on to another question. Do you know Zeljo Vidovic?",
+      "examination": "cross"
+    },
+    {
+      "id": 322,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. Yes, I do. I do know one. He has a bakery in Vitez and has a brother called Bruno, a relative of mine.",
+      "reply_to": 321
+    },
+    {
+      "id": 323,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Excuse me. So Zeljo Vidovic is one of your cousins, is that so?",
+      "examination": "cross"
+    },
+    {
+      "id": 324,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Yes, he is.",
+      "reply_to": 323
+    },
+    {
+      "id": 325,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you know where he was, your cousin Zeljo, on the 16th of April, 1993?",
+      "examination": "cross"
+    },
+    {
+      "id": 326,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Vidovic. Zeljo Vidovic.",
+      "reply_to": 325
+    },
+    {
+      "id": 327,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Indeed. Where was Zeljo Vidovic on the 16th of April, 1993?",
+      "examination": "cross"
+    },
+    {
+      "id": 328,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I don't know, because he lives in Vitez and I lived down there. I was on Kuber anyway. I haven't the slightest, even where my parents were let alone.",
+      "reply_to": 327
+    },
+    {
+      "id": 329,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, you told us that on the 13th of April, 1993, you were friends with Zarko Kristo, and because Kuber was a nice location, you went on guard duty there, on that location, but you didn't have any uniform, you said, and you didn't have weapons because there were too many of you to have enough weapons for everybody. Did I understand you properly?",
+      "examination": "cross"
+    },
+    {
+      "id": 330,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 382
+      "reply_to": 329
+    },
+    {
+      "id": 331,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You told us that Zeljo Livancic and Ivo Pranjkovic were responsible or were in charge of Kuber?",
+      "examination": "cross"
+    },
+    {
+      "id": 332,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, yes.",
+      "reply_to": 331
+    },
+    {
+      "id": 333,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "On what grounds did they have responsibility for that location? Were they soldiers?",
+      "examination": "cross"
+    },
+    {
+      "id": 334,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, yes, like we were. Every village has some kind of a mayor, the president of the neighbourhood community, and perhaps he assigned duties, but nobody had a uniform, not even the two of them.",
+      "reply_to": 333
+    },
+    {
+      "id": 335,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you be more specific, witness? What does the president of a local community or a neighbourhood community have to carry out as duties?",
+      "examination": "cross"
+    },
+    {
+      "id": 336,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Well, regardless of what one does, what kind of activity is involved, he always had said whether one builds a road or does something else in the village. He is the one who is charge. I mean, the president of that community, the mayor of that village.",
+      "reply_to": 335
+    },
+    {
+      "id": 337,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "That was the case for Zeljo Livancic, was it?",
+      "examination": "cross"
+    },
+    {
+      "id": 338,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes. Yes, on Kuber.",
+      "reply_to": 337
+    },
+    {
+      "id": 339,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, before you went to Kuber in April 1993, had you, prior to that, been subject to military training?",
+      "examination": "cross"
+    },
+    {
+      "id": 340,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, and I did not serve even that army.",
+      "reply_to": 339
+    },
+    {
+      "id": 341,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "The reason why I am asking this question is because Mirsad Ahmic made a statement in Zenica in November 1994, and he said several months before the conflict you and your brother followed some training, did some training Celiste in Nadioci. Is anything funny about this?",
+      "examination": "cross"
+    },
+    {
+      "id": 342,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Celiste. Never heard of it. Don't know where it is. We did not go to train. My brother was trained with the Yugoslav People's Army where he served, and I did not serve even that army.",
+      "reply_to": 341
+    },
+    {
+      "id": 343,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Prior to the 16th of April, 1993, did you sometimes go to the Bungalow? Are you familiar with the Bungalow?",
+      "examination": "cross"
+    },
+    {
+      "id": 344,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I do, yes. I know where it is. But if you're asking me if I ever went there, I didn't.",
+      "reply_to": 343
+    },
+    {
+      "id": 345,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "You mentioned the events that took place on the 20th of October, 1992. Where were you on that day?",
+      "examination": "cross"
+    },
+    {
+      "id": 346,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "You mean when the conflict broke out? I didn't understand the question. I couldn't hear it properly.",
+      "reply_to": 345
+    },
+    {
+      "id": 347,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, you referred to what happened on the 20th of October 1992 in Ahmici at the time of the first conflict, and my question is: Where were you on that day?",
+      "examination": "cross"
+    },
+    {
+      "id": 348,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "I was at home. I was asleep, and I was aroused by the detonation.",
+      "reply_to": 347
+    },
+    {
+      "id": 349,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "What did you do during that day? Did you take part in the events that took place then?",
+      "examination": "cross"
+    },
+    {
+      "id": 350,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, because I did not know what was going on. The checkpoint was a bit further away from my house and that was where the conflict started.",
+      "reply_to": 349
+    },
+    {
+      "id": 351,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "The reason why I am asking this question is because Salih Ahmic, a witness, said to the investigating magistrate, in December 1994, said that he had seen you shooting towards the house of Mr. Ahmic, thereby endangering the lives of his family members.",
+      "examination": "cross"
+    },
+    {
+      "id": 352,
+      "speaker": "JUDGE CASSESE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Is there an objection?"
+    },
+    {
+      "id": 353,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I would just like to intervene. I don't know what witnesses the Prosecutor is quoting. He's putting forward names. We didn't hear any of them. He mentioned an Ahmic a moment ago, we were not even able to catch the name, who had allegedly said some things. But I don't know where the Prosecutor gets this information from, because they were not witnesses brought to testify. So if he has some other statements that we do not have, we're not able to follow. This last man, Ahmic, that was mentioned, we cannot follow that either because we do not have the information."
+    },
+    {
+      "id": 354,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "I do admit there is a problem as to the method, but it is also a problem that the Prosecution are faced with. We do have witnesses who, when it comes to sort of second-ranking questions, happen to mention witnesses or have mentioned the witness who is now testifying, and it so happens that such witness statements are in contradiction -- I mean, the written statements are quite contradictory to what is being stated here by the witness. I shall, of course, comply with what your decision may be, but I don't know how to go about this. Are we supposed to -- are we not allowed to mention the witness statements that we have, or do we have to, before we mention anything about them, hand them over to the Defence? I know it is a problem as to the method. There may be a problem. It may be difficult for the Defence, given the method I'm applying. This is the reason why I shall comply with your decisions or instructions. I have several written statements by witnesses. They were never disclosed to the Defence, it is true, because they do not relate to the situation of the accused, but they do mention the witness and his behaviour but in a very different light from what he has said to this Tribunal. So I shall comply with your decision. (Trial Chamber confers)"
+    },
+    {
+      "id": 355,
+      "speaker": "JUDGE CASSESE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Terrier, we believe that this has to do with statements which you have not disclosed to the Defence, if I'm not mistaken, so you have to avoid mentioning such statements. However, you might possibly use information gained from such statements in order to put questions to the witness in order to challenge specific facts he has stated, because we believe that the questions you have asked or are about to ask may be relevant as to the credibility of this witness, but do not mention a statement or a name."
+    },
+    {
+      "id": 356,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, there are three types of statements which I am planning to put to the witness in this cross-examination. There are statements that are here and under oath in this Tribunal. No problem with regard to them. Then there is the written statements disclosed to the witness under Rule 66. Some of the witnesses appeared but did not mention anything specific as to this witness because there was no reason for mentioning that. These are statements which the Defence have. There are also statements which the Defence don't have. So I shall comply with your instructions, Your Honours, as to the statements that have not been disclosed to the Defence."
+    },
+    {
+      "id": 357,
+      "speaker": "JUDGE CASSESE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 358,
+      "speaker": "MS. SLOKOVIC-GLUMAC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, I apologise, but I'd like to clear up one matter so that we know how to behave in the future. The problem will arise of some statements which were handed to the Defence counsel, but those witnesses were not brought before the Trial Chamber so that they did not give their testimony in front of you. So we were not able to conduct a cross-examination or bring some facts into doubt. So if the Prosecutor is going to ask some questions as something being proved by the witnesses, and it is a witness who has not given testimony and who has just handed in his statement, then by quoting, in the way the Prosecutor does, this can be brought into question, and that he is bringing this as a fait accompli to the court and the witness. So we do agree he can, of course, use all the information he has in his statements but without quoting names and going into detail as he has been doing, because the Defence was not allowed to do this either."
+    },
+    {
+      "id": 359,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Your Honour, I am somewhat taken aback, I am surprised, because I think that if I state the name of the person that gave the statements or just mentioned the source, this would be a guarantee, some kind of warranty for the Defence, who are then able to verify what I have said. As long as they have documents at their disposal, that must be some kind of a guarantee. Well, if they don't want that, well, I shall do without it. But I do think that this is a guarantee that is given to them. There is another problem not mentioned by Mrs. Glumac. Witnesses who have been heard by this Tribunal but who have made several written statements in which they mentioned facts that were not mentioned during the hearings, of course, not each and every witness was asked to repeat every single word they had said in their written statements, they only were asked to mention what was relevant at the time; therefore, the information they had regarding the accused but not related to everybody that might have played some part during those events. So I have the feeling that if we want to make sure that the rights of the Defence are respected, they want to be able to check where the documents come from; and if I have done so, if I have given them this information as to the source, I should be able to give them the name."
+    },
+    {
+      "id": 360,
+      "speaker": "JUDGE CASSESE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Mr. Radovic?"
+    },
+    {
+      "id": 361,
+      "speaker": "MR. RADOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, I cannot agree with what the Prosecutor has stated, first of all, because we do not know whether the witness quoted by the Prosecutor would give the same testimony in this court of law as he did to the investigators in Zenica. If we were to follow up on what the Prosecutor has said and that we should believe what the witness said to the investigator in Zenica, then the Prosecutor could give up all [redacted]"
+    },
+    {
+      "id": 362,
+      "speaker": "MR. RADOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[redacted] than the one he gave later on. So that particular witness is not repeating that statement to this Trial Chamber, and as we cannot examine the witness to see whether it is a trustworthy witness or not, then the Prosecutor cannot pull out papers and, on the basis of those papers, consider that what is written there is trustworthy and true and correct. That is why we object to that line of questioning by the Prosecutor and consider that that infringes upon the principle of the public character and direct character of this trial and that he presents evidence for which nobody knows whether they would be confirmed in court or not. That is why we would like you to refute that attempt made by the Prosecutor which places us into a completely unequal position because we do not have the possibility of ascertaining the trustworthiness of the witness because they are witnesses from the Muslim territory who do not wish contact with us at all. That would be all. Thank you."
+    },
+    {
+      "id": 363,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Well, Mr. Radovic has just said that I maintain or affirm specific facts on the strength of documents that were not or could not be cross-examined. I'm not affirming anything. The only thing I do is put questions and show the witness statements that are contrary to what he says, and I hope that the truth will emerge from this confrontation: between what he says here at the hearing and what is being said in the statements. On the other hand, I think that the Defence have had written documents referring to the written statements I have mentioned, and that is a guarantee that the adversarial system is not being jeopardised here."
+    },
+    {
+      "id": 364,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "[redacted], whenever we have a witness in front of us, we would have to ask him or her about anything or everything possible that might have some relevance later on. I think we must remain within boundaries. We must allow each party to express themselves. We must make it possible for the Defence to examine, to have a look at the documents used by the Prosecution. I do think that there is a problem when I mention a document here in this cross-examination, a document which is not known to the Defence, and I believe that there is a problem; but if I mention a document that has been disclosed to the Defence several months ago, then I remain within the boundaries of the adversarial system and I am not prejudicing at all the Defence's rights. (Trial Chamber confers)"
+    },
+    {
+      "id": 365,
+      "speaker": "JUDGE CASSESE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Let us come back to the three main types of documents mentioned by Mr. Terrier. It goes without saying that as to the category of witnesses -- sorry -- as to the people interviewed by the Prosecution and whose statements were not disclosed to the Defence, the Prosecutor is not in a position to ask any question mentioning the name of the person who was interviewed. So we have already decided that then your questions should relate to facts without your mentioning the source of your information because the documents are not familiar to the Defence. There is another category of documents. They relate to witnesses whose statements were disclosed to the Defence and the witnesses were witnesses, they testified here, they were examined and cross-examined, even if the cross-examination did not relate to the facts mentioned here right now by the Prosecutor. Mr. Terrier is right. Whenever he has a new witness, he can't ask every possible question of this witness thinking that these questions might be of relevance in the future. Now, what are we going to do with regard to the third category, i.e., people whose statements were disclosed to the Defence by the Prosecution, but since the witness was not summoned, the Defence were not in a position to cross-examine that witness? We believe that Mr. Terrier is entitled to ask questions whilst he mentions the source of his information because this is not evidence. He is going to quote a statement and not the evidence as provided by the witness at the hearing, in the courtroom. The statement as such is not evidence; it is a source which is likely to be challenged, and so it has the value it has as such. The value will be assessed by the Trial Chamber in the light of the evidence adduced in court. Through the system of cross-examination, evidence is, as it were, created during the hearing; it doesn't exist as such before the hearing. So in the light of this all, we believe that the Prosecution is entitled to ask questions because the Defence must be aware of the limited probative value of a written statement mentioned while the witness who provided the statement did not testify. Since that person did not testify, we feel that the statement does not have the same weight as another piece of evidence. It may be used in order to challenge facts. And there I do agree with Mr. Terrier too. This should be seen as a kind of guarantee for the Defence because a specific statement is being mentioned, coming from a person known to the Defence; that means that the Defence is given some guarantees. Mr. Radovic?"
+    },
+    {
+      "id": 366,
+      "speaker": "MR. RADOVIC",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Mr. President, we did not expect that decision on the part of the Trial Chamber with regard to this point in question, and we are going to use our right to complain. So much for me. Thank you."
+    },
+    {
+      "id": 367,
+      "speaker": "JUDGE CASSESE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Fine. Mr. Par?"
+    },
+    {
+      "id": 368,
+      "speaker": "MR. PAR",
+      "role": "counsel",
+      "type": "statement",
+      "text": "If I may, I have just one question with respect to this decision. I'm not quite clear on one point. When we're talking about a statement from the third category, does that mean that the Prosecutor can quote the statement as a source and read out a part only with regard to the witness he is questioning and not with regard to the other contents of the statement? I don't know if I was clear enough. We have had an example here today. For example, the witness is being faced with part of a statement. Now, is it just part of that statement which refers to the witness, or can we interpret the statement in a broader fashion? I don't know whether I'm being clear enough."
+    },
+    {
+      "id": 369,
+      "speaker": "JUDGE CASSESE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Our decision was as follows: The Prosecutor is free to challenge a specific fact from a witness by saying that somebody else, thereby quotes the name of that somebody else, he can even quote or read out part of the statement: \"That witness said that, on that specific day, you were somewhere else, for instance, in Pirici and not in Kuber.\" So that is challenging a fact. The witness, and that will be evidence, can say yea or nay to that fact, can challenge it or confirm it. So the evidence is then adduced, and it is the result from what the witness may have said. So the challenging, by the Prosecutor, of a specific fact whilst the source of that fact is being quoted, that is done to prompt the witness to say what he or she knows about a specific fact, to supply their version of the facts."
+    },
+    {
+      "id": 370,
+      "speaker": "MR. PAR",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Yes, I have understood you, but I don't know if you have understood me. Mr. Terrier now, when he quotes this part, does he only say that \"For you, Mr. Vidovic, that witness said the following\"? Or can he take the statement and say, \"The witness spoke about other individuals,\" and so on and so forth? So does he just face the witness with the concrete fact that he wishes him to give an answer to?"
+    },
+    {
+      "id": 371,
+      "speaker": "JUDGE CASSESE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Yes, yes, only regarding that witness because it is a specific challenge which is aimed -- I want to repeat that -- aimed at prompting the witness to express himself or herself on a fact that may have been challenged. I hope you grasp the difference between the probative value of a written statement coming from that specific person who was not called as a witness, who has not been cross-examined, the difference between that and what a witness who is in court can say as to a specific fact."
+    },
+    {
+      "id": 372,
+      "speaker": "MR. PAR",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you very much. I understand now. Thank you very much, yes."
+    },
+    {
+      "id": 373,
+      "speaker": "JUDGE CASSESE",
+      "role": "judge",
+      "type": "statement",
+      "text": "Thank you. Mr. Terrier, you have the floor."
+    },
+    {
+      "id": 374,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 375,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, I would like to call you to attention. Did you take part in the events of the 20th of October, 1992, in Ahmici, whilst you were armed? Did you shoot at houses? Did you partake in any kind of military action on that day in Ahmici?",
+      "examination": "cross"
+    },
+    {
+      "id": 376,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 375
+    },
+    {
+      "id": 377,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, later on, after the 20th of October, 1992, and for several days, did you hold a checkpoint at the entrance to Ahmici whilst you were wearing a uniform and were armed?",
+      "examination": "cross"
+    },
+    {
+      "id": 378,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No. There was a row of houses. Nobody was there. I guarded the houses, my father and I, and my mother was there. My mother tended to her cow until she returned a day or two later.",
+      "reply_to": 377
+    },
+    {
+      "id": 379,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "So did you carry out guard duty armed and in uniform?",
+      "examination": "cross"
+    },
+    {
+      "id": 380,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No, because I didn't have a rifle or weapons at all or a uniform.",
+      "reply_to": 379
+    },
+    {
+      "id": 381,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness, you told us that on the 13th of April, 1993, you went to Kuber, and that in the night of the 15th to the 16th of April, you were on guard duty from 2.00 to 4.00 in the morning, that you went to sleep at 4.00 in the morning, that you woke up towards 5.00 or 6.00 in the morning, and you were attacked around 10.00. Is that what you said?",
+      "examination": "cross"
+    },
+    {
+      "id": 382,
+      "speaker": "ANDJELKO VIDOVIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 381
+    },
+    {
+      "id": 383,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you woke up around 5.30, between 5.30 and 6.00, did you hear the sound of the conflict, as it were, that was happening in Ahmici at the time?",
+      "examination": "cross"
     },
     {
       "id": 384,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you woke up around 5.30, between 5.30 and 6.00, did you hear the sound of the conflict, as it were, that was happening in Ahmici at the time?"
-    },
-    {
-      "id": 385,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, nothing. Just the grenade, until it fell. We couldn't see anything down there. There was a heavy fog.",
-      "reply_to": 384
+      "reply_to": 383
+    },
+    {
+      "id": 385,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "I didn't say seeing anything, I said hearing anything. I mean, the fog shouldn't have prevented you from hearing what was happening in Ahmici at the time.",
+      "examination": "cross"
     },
     {
       "id": 386,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I didn't say seeing anything, I said hearing anything. I mean, the fog shouldn't have prevented you from hearing what was happening in Ahmici at the time."
-    },
-    {
-      "id": 387,
       "speaker": "ANDJELKO VIDOVIC",
       "role": "witness",
       "type": "answer",
       "text": "We didn't hear anything, nor did anybody tell us anything.",
-      "reply_to": 386
+      "reply_to": 385
+    },
+    {
+      "id": 387,
+      "speaker": "MR. TERRIER",
+      "role": "counsel",
+      "type": "question",
+      "text": "Witness --",
+      "examination": "cross"
     },
     {
       "id": 388,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Witness --"
-    },
-    {
-      "id": 389,
       "speaker": "MR. TERRIER",
       "role": "counsel",
       "type": "statement",
       "text": "One moment, please. Your Honour, I am going to mention the names of a couple of witnesses who testified. They were protected witnesses. I think we'd better move to private session or we'll have the break now."
     },
     {
-      "id": 390,
+      "id": 389,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Obviously you have several other questions."
     },
     {
-      "id": 391,
+      "id": 390,
       "speaker": "MR. TERRIER",
       "role": "counsel",
       "type": "statement",
       "text": "That's right. Yes. Most of them relate to protected witnesses."
     },
     {
-      "id": 392,
+      "id": 391,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "We'll move on to private session or closed session, but we'll have a 30-minute break first and then we can resume in closed session."
     },
     {
-      "id": 393,
+      "id": 392,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "(Private session)"
     },
     {
-      "id": 394,
+      "id": 393,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
@@ -2942,151 +3108,171 @@
       "text": "WITNESS:  ANDJELKO VIDOVIC"
     },
     {
-      "after_utterance": 362,
+      "after_utterance": 5,
+      "text": "Examined by Mr. Pavkovic:"
+    },
+    {
+      "after_utterance": 236,
+      "text": "Cross-examined by Mr. Par:"
+    },
+    {
+      "after_utterance": 254,
+      "text": "Cross-examined by Mr. Susak:"
+    },
+    {
+      "after_utterance": 279,
+      "text": "Cross-examined by Mr. Puliselic:"
+    },
+    {
+      "after_utterance": 286,
+      "text": "Cross-examined by Mr. Terrier:"
+    },
+    {
+      "after_utterance": 361,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 364,
+      "after_utterance": 363,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 392,
+      "after_utterance": 391,
       "text": "--- Recess taken at 10.26 a.m."
     },
     {
-      "after_utterance": 392,
+      "after_utterance": 391,
       "text": "--- On resuming at 11.00 a.m."
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "Pages 10701 to 10711 – redacted – private session."
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 393,
+      "after_utterance": 392,
       "text": "--- Whereupon the hearing adjourned at"
     }
   ],

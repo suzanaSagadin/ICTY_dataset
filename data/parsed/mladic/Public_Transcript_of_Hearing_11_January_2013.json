@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2013-01-11",
   "utterances": [
     {
@@ -3698,15 +3698,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, please. Further cross-examination by Mr. Ivetic:"
+      "text": "Yes, please."
     },
     {
       "id": 491,
-      "speaker": "MS. HOCHHAUSER",
+      "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "question",
       "text": "Sir, counsel asked you about the problems with optical sights, and by my recollection, and please correct me if I'm wrong, the optical sight problems that we discussed were with four times magnification, you could not see what a person is holding in their hands at distance greater than 800 metres, and the problem that the reticle on the optical sight can be an impediment to see things at 600 metres. Am I accurate in the topics that you and I discussed earlier this morning as to problems with optical sights?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 492,
@@ -3718,11 +3718,11 @@
     },
     {
       "id": 493,
-      "speaker": "MS. HOCHHAUSER",
+      "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "question",
       "text": "My focus was on the 600 metres and the 800 metres. Is that the what we were discussing?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 494,
@@ -3734,11 +3734,11 @@
     },
     {
       "id": 495,
-      "speaker": "MS. HOCHHAUSER",
+      "speaker": "MR. IVETIC",
       "role": "counsel",
       "type": "question",
       "text": "Ms. Hochhauser showed you some documents with some information as to some passive infrared sights. Am I correct, sir, that such sites are known as second generation sights and are good for up to 300 to 400 metres?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 496,
@@ -4615,6 +4615,10 @@
     {
       "after_utterance": 430,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 490,
+      "text": "Further cross-examination by Mr. Ivetic:"
     },
     {
       "after_utterance": 497,

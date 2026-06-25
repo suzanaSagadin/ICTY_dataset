@@ -1,6 +1,6 @@
 {
   "case": "prlic",
-  "case_id": "IT-04-74-T",
+  "case_id": "IT-04-74",
   "date": "2009-06-17",
   "utterances": [
     {
@@ -92,7 +92,7 @@
       "speaker": "JUDGE ANTONETTI",
       "role": "judge",
       "type": "statement",
-      "text": "[Interpretation] Right. Mr. Praljak, Judge Prandler has seen that your microphones were on. So when you see this little red signal, everything which has been said by Judge Prandler was not necessarily translated, so this is not an issue. What I want to say, Mr. Praljak, I will continue asking you questions, but please try to be as brief as possible in your answers, because the shorter your answers will be, more I will be in a position to ask you questions. If not, I will be obliged to limit my questions, because sometimes your answers are particularly developed. They're interesting, but this also takes away a part of your defence, because you prevent me from asking questions on other points which may be important. Questioned by the Court: [Continued]"
+      "text": "[Interpretation] Right. Mr. Praljak, Judge Prandler has seen that your microphones were on. So when you see this little red signal, everything which has been said by Judge Prandler was not necessarily translated, so this is not an issue. What I want to say, Mr. Praljak, I will continue asking you questions, but please try to be as brief as possible in your answers, because the shorter your answers will be, more I will be in a position to ask you questions. If not, I will be obliged to limit my questions, because sometimes your answers are particularly developed. They're interesting, but this also takes away a part of your defence, because you prevent me from asking questions on other points which may be important."
     },
     {
       "id": 14,
@@ -1741,10 +1741,11 @@
     },
     {
       "id": 249,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
-      "text": "How is it that General Bobetko, who is a general in the Croatian army, he has a territorial area that falls within his remit, an area which belongs to Bosnia-Herzegovina, and he wants all the reports to be sent to the IZM of Grude."
+      "text": "How is it that General Bobetko, who is a general in the Croatian army, he has a territorial area that falls within his remit, an area which belongs to Bosnia-Herzegovina, and he wants all the reports to be sent to the IZM of Grude.",
+      "examination": "questioned"
     },
     {
       "id": 250,
@@ -2009,6 +2010,10 @@
     {
       "after_utterance": 10,
       "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 13,
+      "text": "Questioned by the Court:  [Continued]"
     },
     {
       "after_utterance": 144,

@@ -1,6 +1,6 @@
 {
   "case": "hadzic",
-  "case_id": "IT-04-75-T",
+  "case_id": "IT-04-75",
   "date": "2013-09-11",
   "utterances": [
     {
@@ -1571,15 +1571,15 @@
       "speaker": "MS. CLANTON",
       "role": "counsel",
       "type": "statement",
-      "text": "Just one question, Your Honour. Re-examination by Ms. Clanton"
+      "text": "Just one question, Your Honour."
     },
     {
       "id": 205,
-      "speaker": "MR. ZIVANOVIC",
+      "speaker": "MS. CLANTON",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Gasparovic, I just want to clarify something that you said when you were speaking to Defence counsel a moment ago. And this is on transcript page 21, line 1. You mentioned Judge Slavoljub Sremac and that your family -- that a member of your family owned a garage where he left his car. Who owned the garage?",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 206,
@@ -1591,11 +1591,11 @@
     },
     {
       "id": 207,
-      "speaker": "MR. ZIVANOVIC",
+      "speaker": "MS. CLANTON",
       "role": "counsel",
       "type": "question",
       "text": "Do you have a familial relationship with Ivan Kamrla?",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 208,
@@ -1607,11 +1607,11 @@
     },
     {
       "id": 209,
-      "speaker": "MR. ZIVANOVIC",
+      "speaker": "MS. CLANTON",
       "role": "counsel",
       "type": "question",
       "text": "Thank you, Mr. Gasparovic.",
-      "examination": "cross"
+      "examination": "re-direct"
     },
     {
       "id": 210,
@@ -1715,6 +1715,10 @@
     {
       "after_utterance": 110,
       "text": "Cross-examination by Mr. Zivanovic:"
+    },
+    {
+      "after_utterance": 204,
+      "text": "Re-examination by Ms. Clanton"
     },
     {
       "after_utterance": 210,

@@ -4266,7 +4266,7 @@
       "speaker": "JUDGE ROBINSON",
       "role": "judge",
       "type": "statement",
-      "text": "One question on -- yes. Further cross-examination by Mr. Groome:"
+      "text": "One question on -- yes."
     },
     {
       "id": 589,
@@ -4277,10 +4277,11 @@
     },
     {
       "id": 590,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, if I could ask you to look at the second page of the military booklet. Could I ask you just to look at where it says your date of birth. Read what it says and then tell us whether that's correct."
+      "text": "Sir, if I could ask you to look at the second page of the military booklet. Could I ask you just to look at where it says your date of birth. Read what it says and then tell us whether that's correct.",
+      "examination": "cross"
     },
     {
       "id": 591,
@@ -4292,10 +4293,11 @@
     },
     {
       "id": 592,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, if I could just interrupt you, maybe we should go into private session if you're going to give your date of birth."
+      "text": "Sir, if I could just interrupt you, maybe we should go into private session if you're going to give your date of birth.",
+      "examination": "cross"
     },
     {
       "id": 593,
@@ -4774,6 +4776,10 @@
     {
       "after_utterance": 583,
       "text": "[Open session]"
+    },
+    {
+      "after_utterance": 588,
+      "text": "Further cross-examination by Mr. Groome:"
     },
     {
       "after_utterance": 593,

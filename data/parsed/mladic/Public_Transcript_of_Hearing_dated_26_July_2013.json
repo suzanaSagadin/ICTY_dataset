@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2013-07-26",
   "utterances": [
     {
@@ -1390,7 +1390,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Since -- Questioned by the Court:"
+      "text": "Since --"
     },
     {
       "id": 187,
@@ -1697,11 +1697,11 @@
     },
     {
       "id": 229,
-      "speaker": "MR. IVETIC",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "Dr. Brunborg, if you can look with me at -- and I'm going to go by the ICMP protocol number, it's the column that's the second from the right, and just past the half -- mid-point of the screen, we have the number 3238-03. It's a body that was recovered in Cerska and under clarification requests that it says, \"Yes, but there is no corrected date of death and the date of death remains 10/01/1994.\" Would that indicate that the further inquiry from the armija BiH confirmed that the originally reported date of 10/01/1994 is still the date that they confirmed for this particular individual?",
-      "examination": "cross"
+      "examination": "questioned"
     },
     {
       "id": 230,
@@ -1713,11 +1713,11 @@
     },
     {
       "id": 231,
-      "speaker": "MR. IVETIC",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "Agreed. And if we look at the four on the bottom for whom the dates have been changed, I can -- this is in B/C/S but it says next to at least three of them \"Put Srebrenica-Tuzla,\" which would mean, of course, the road from Srebrenica to Tuzla. Looking at this information we cannot, therefore, exclude that these persons would have died in combat on the road from Srebrenica to Tuzla; is that accurate?",
-      "examination": "cross"
+      "examination": "questioned"
     },
     {
       "id": 232,
@@ -1756,11 +1756,11 @@
     },
     {
       "id": 237,
-      "speaker": "MR. IVETIC",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "Thank you again, Mr. Brunborg.",
-      "examination": "cross"
+      "examination": "questioned"
     },
     {
       "id": 238,
@@ -2054,6 +2054,10 @@
     {
       "after_utterance": 185,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 186,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 267,

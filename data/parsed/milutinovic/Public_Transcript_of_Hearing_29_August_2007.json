@@ -367,15 +367,15 @@
       "speaker": "JUDGE BONOMY",
       "role": "judge",
       "type": "statement",
-      "text": "Mr. Fila, we will allow you to ask that question. Further cross-examination by Mr. Fila:"
+      "text": "Mr. Fila, we will allow you to ask that question."
     },
     {
       "id": 50,
-      "speaker": "MR. HANNIS",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
       "text": "[Interpretation] Mr. Vasiljevic -- Mr. Vasiljevic, do you have the statement in front of you?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 51,
@@ -387,11 +387,11 @@
     },
     {
       "id": 52,
-      "speaker": "MR. HANNIS",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
       "text": "Could you please read out paragraph 4 aloud and tell me do you stand in every respect by what is stated there?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 53,
@@ -437,11 +437,11 @@
     },
     {
       "id": 59,
-      "speaker": "MR. HANNIS",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
       "text": "Thank you, Mr. Vasiljevic. That was all I wanted to ask you.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 60,
@@ -4493,7 +4493,7 @@
       "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, Mr. Mijatovic. I apologise for having kept you so long. It was not up to me. Questioned by the Court:",
+      "text": "Thank you, Mr. Mijatovic. I apologise for having kept you so long. It was not up to me.",
       "examination": "re-direct"
     },
     {
@@ -6610,6 +6610,10 @@
       "text": "[Trial Chamber confers]"
     },
     {
+      "after_utterance": 49,
+      "text": "Further cross-examination by Mr. Fila:"
+    },
+    {
       "after_utterance": 60,
       "text": "[The witness withdrew]"
     },
@@ -6716,6 +6720,10 @@
     {
       "after_utterance": 581,
       "text": "Re-examination by Mr. Fila:"
+    },
+    {
+      "after_utterance": 588,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 592,

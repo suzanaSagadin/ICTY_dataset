@@ -216,7 +216,7 @@ def strip_line_numbers(text: str) -> list[str]:
 # Speaker labels
 SPEAKER_RE = re.compile(
     r"^("
-    r"(?:JUDGE\s+[\w'-]+)"                        # JUDGE ORIE, JUDGE O'BRIEN
+    r"(?:JUDGE\s+[\w'-]+(?:\s+[\w'-]+){0,3})"     # JUDGE ORIE, JUDGE WEINBERG DE ROCA
     r"|(?:THE\s+PRESIDING\s+JUDGE)"                # THE PRESIDING JUDGE
     r"|(?:MR\.?\s+[\w'-]+)"                         # MR. IVETIC
     r"|(?:MS\.?\s+[\w'-]+)"                         # MS. UERTZ-RETZLAFF
@@ -231,10 +231,22 @@ SPEAKER_RE = re.compile(
 # Q/A markers
 QA_RE = re.compile(r"^\s*([QA])\.\s+(.*)", re.DOTALL)
 
-# Examination headers
+# Examination headers — match both noun and past-participle forms:
+#   "Examination by Mr. Nice:", "Cross-examined by Mr. Lukic:",
+#   "Further cross-examination by Ms. Korner:",
+#   "Questioned by the Court:", "Questioned by Mr. Saxon:"
 EXAM_HEADER_RE = re.compile(
-    r"^\s*((?:Cross-e|Re-(?:cross-)?e|E|Re-e)xamination)\s+by\s+"
-    r"((?:Mr|Ms|Mrs|Miss)\.?\s+[\w'-]+)\s*:",
+    r"^\s*"
+    r"((?:Further\s+)?(?:Cross-|Re-(?:cross-)?)?[Ee]xamin\w+|Questioned)"
+    r"\s+by\s+"
+    r"("
+        r"(?:Mr|Ms|Mrs|Miss)\.?\s+[\w'-]+"       # Mr. Nice
+        r"|the\s+Court"                            # the Court
+        r"|Judge\s+[\w'-]+(?:\s+[\w'-]+){0,3}"     # Judge Orie / Judge Karibi Whyte
+        r"|the\s+\w+(?:\s+\w+){0,2}"              # the Appeals Chamber, the defence
+        r"|Assigned\s+\w+"                          # Assigned Counsel
+    r")"
+    r"\s*:?\s*",                                    # colon is sometimes missing
     re.IGNORECASE,
 )
 
@@ -243,6 +255,54 @@ WITNESS_DECL_RE = re.compile(
     r"^\s*WITNESS:\s+(.+)",
     re.IGNORECASE,
 )
+
+
+def _valid_witness_name(name: str) -> bool:
+    """Check that a witness name from WITNESS: line is plausible.
+
+    Rejects quoted text, sentence fragments, and bare single characters
+    that are not valid pseudonyms.
+    """
+    if not name:
+        return False
+    # Reject quoted text
+    if name.startswith('"') or name.startswith("'"):
+        return False
+    # Reject text that looks like a sentence
+    lower = name.lower()
+    if any(w in lower for w in (" the ", " that ", " you ", " was ", " is ",
+                                " are ", " it ", " do ", " did ")):
+        return False
+    # Reject if it contains question marks or double dashes (sentence fragments)
+    if "?" in name or "--" in name:
+        return False
+    # Reject bare single characters
+    if len(name) == 1:
+        return False
+    # Reject if a period appears mid-text (sentence, not abbreviation/initial)
+    # Valid: "PW-108.", "WITNESS M.", "ANTO PESA."
+    # Invalid: "Yes.", "I see.", "1995.  Don't waste..."
+    # Heuristic: reject if period is followed by more text (space + word)
+    if re.search(r"\.\s+\w", name):
+        return False
+    # Reject single words that end in punctuation and aren't codes/pseudonyms
+    # e.g. "Yes.", 'Yes."' but not "ANTO PESA." or "PW-108."
+    stripped = name.rstrip('."\' ')
+    if " " not in stripped and "-" not in stripped and not stripped.isupper() and not stripped.isdigit():
+        if name != stripped:  # had trailing punctuation
+            return False
+    # Strip trailing suffix like (Resumed), [Resumed] for core name check
+    core = re.sub(r"\s*[\(\[].*?[\)\]]\s*$", "", name).strip()
+    # Reject if core is very short lowercase or mixed-case fragments
+    # Valid cores start with uppercase or are codes (all-caps, digits, hyphens)
+    if core and not core[0].isupper() and not core[0].isdigit() and not core.startswith("("):
+        return False
+    # Reject if core contains lowercase words (sentence fragments like "I see.", "Thank you.")
+    if core and " " in core:
+        words = core.rstrip('."').split()
+        if any(w[0].islower() for w in words if len(w) > 1):
+            return False
+    return True
 
 # Procedural annotations (standalone bracketed text)
 PROCEDURAL_RE = re.compile(r"^\s*\[(.+?)\]\s*$")
@@ -265,8 +325,9 @@ DATE_ALT_RE = re.compile(
     r"(\d{1,2})(?:st|nd|rd|th)?\s+(\w+)\s+(\d{4})",
 )
 
-# Case ID
-CASE_ID_RE = re.compile(r"IT-\d+-\d+(?:[/-]\w+)*")
+# Case ID — match regular hyphens and en-dash variants (U+2010–U+2014)
+_DASH = r"[\-\u2010\u2011\u2012\u2013\u2014]"
+CASE_ID_RE = re.compile(rf"IT{_DASH}\d+{_DASH}\d+(?:[/{_DASH}]\w+)*")
 
 # Redacted pages
 REDACTED_RE = re.compile(
@@ -305,6 +366,8 @@ def classify_role(speaker: str) -> str:
         return "interpreter"
     if s == "THE ACCUSED":
         return "accused"
+    if s == "THE COURT":
+        return "judge"
     # MR./MS./MRS./MISS — counsel, side unknown at this point
     return "counsel"
 
@@ -312,12 +375,14 @@ def classify_role(speaker: str) -> str:
 def classify_examination_type(exam_str: str) -> str:
     """Normalize examination type string."""
     e = exam_str.lower().strip()
-    if e.startswith("cross-e"):
-        return "cross"
-    if e.startswith("re-cross"):
+    if "cross-" in e and "re-" in e:
         return "re-cross"
-    if e.startswith("re-e") or e.startswith("re-examination"):
+    if "cross-" in e:
+        return "cross"
+    if e.startswith("re-") or "re-examin" in e:
         return "re-direct"
+    if e.startswith("questioned"):
+        return "questioned"
     return "direct"
 
 
@@ -441,6 +506,18 @@ def parse_transcript(lines: list[str], case_slug: str,
     if state.date is None:
         state.date = filename_date
 
+    # Fallback: search full text for case ID if not found in header
+    if state.case_id is None:
+        for line in lines:
+            m = CASE_ID_RE.search(line)
+            if m:
+                state.case_id = m.group(0)
+                break
+
+    # Normalize any dash variants in case_id to regular hyphens
+    if state.case_id:
+        state.case_id = re.sub(r"[\u2010\u2011\u2012\u2013\u2014]", "-", state.case_id)
+
     # Main parse loop
     for line in lines:
         # --- Examination header ---
@@ -458,7 +535,9 @@ def parse_transcript(lines: list[str], case_slug: str,
         m = WITNESS_DECL_RE.match(line)
         if m:
             state.flush_utterance()
-            state.witness_name = m.group(1).strip()
+            name = m.group(1).strip()
+            if _valid_witness_name(name):
+                state.witness_name = name
             state.add_procedural_note(line.strip())
             continue
 
@@ -500,6 +579,8 @@ def parse_transcript(lines: list[str], case_slug: str,
         if m:
             state.flush_utterance()
             speaker = m.group(1).strip().upper()
+            # Collapse internal whitespace ("MR.  ZECEVIC" -> "MR. ZECEVIC")
+            speaker = re.sub(r"\s+", " ", speaker)
             # Normalize speaker: remove trailing period artifacts
             speaker = re.sub(r"\.\s*$", "", speaker)
             # Standardize MR./MS. with period

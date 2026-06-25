@@ -1,6 +1,6 @@
 {
   "case": "sikirica",
-  "case_id": "IT-95-8-PT",
+  "case_id": "IT-95-8",
   "date": "1999-06-24",
   "utterances": [
     {
@@ -411,1202 +411,1259 @@
     },
     {
       "id": 59,
-      "speaker": "JUDGE MAY",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Niemann:"
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you please state your full name?",
+      "examination": "direct"
     },
     {
       "id": 60,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Would you please state your full name?"
-    },
-    {
-      "id": 61,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Sulejman Crnkic.",
-      "reply_to": 60
+      "reply_to": 59
+    },
+    {
+      "id": 61,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And where were you born, Mr. Crnkic?",
+      "examination": "direct"
     },
     {
       "id": 62,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And where were you born, Mr. Crnkic?"
-    },
-    {
-      "id": 63,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "In Prijedor.",
-      "reply_to": 62
+      "reply_to": 61
+    },
+    {
+      "id": 63,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was your date of birth?",
+      "examination": "direct"
     },
     {
       "id": 64,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And what was your date of birth?"
-    },
-    {
-      "id": 65,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "1956.",
-      "reply_to": 64
+      "reply_to": 63
+    },
+    {
+      "id": 65,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And up to the period of 1992, where did you live for all of your life?",
+      "examination": "direct"
     },
     {
       "id": 66,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And up to the period of 1992, where did you live for all of your life?"
-    },
-    {
-      "id": 67,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Prijedor.",
-      "reply_to": 66
+      "reply_to": 65
+    },
+    {
+      "id": 67,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And was that in the Prijedor opstina or in the city of Prijedor?",
+      "examination": "direct"
     },
     {
       "id": 68,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And was that in the Prijedor opstina or in the city of Prijedor?"
-    },
-    {
-      "id": 69,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "In the city of Prijedor.",
-      "reply_to": 68
+      "reply_to": 67
+    },
+    {
+      "id": 69,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And during that period of time, did you come to know a number of the people who lived in and around the Prijedor city area?",
+      "examination": "direct"
     },
     {
       "id": 70,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And during that period of time, did you come to know a number of the people who lived in and around the Prijedor city area?"
-    },
-    {
-      "id": 71,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I did.",
-      "reply_to": 70
+      "reply_to": 69
+    },
+    {
+      "id": 71,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And would it be true to say that you knew a lot of people in that town?",
+      "examination": "direct"
     },
     {
       "id": 72,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And would it be true to say that you knew a lot of people in that town?"
-    },
-    {
-      "id": 73,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it would.",
-      "reply_to": 72
+      "reply_to": 71
+    },
+    {
+      "id": 73,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And during the period of time that you lived in Prijedor, up until 1992, did you come to know the person who had a nickname, \"Kole\"?",
+      "examination": "direct"
     },
     {
       "id": 74,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And during the period of time that you lived in Prijedor, up until 1992, did you come to know the person who had a nickname, \"Kole\"?"
-    },
-    {
-      "id": 75,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I did.",
-      "reply_to": 74
+      "reply_to": 73
+    },
+    {
+      "id": 75,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And can you tell Their Honours how it is that you knew this person with that name, \"Kole\"?",
+      "examination": "direct"
     },
     {
       "id": 76,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And can you tell Their Honours how it is that you knew this person with that name, \"Kole\"?"
-    },
-    {
-      "id": 77,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I met him in town, as I did all other colleagues, passing by. We didn't have any personal contacts.",
-      "reply_to": 76
+      "reply_to": 75
+    },
+    {
+      "id": 77,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Perhaps, would it be fair to say that he was a person you knew of, more than that you knew personally?",
+      "examination": "direct"
     },
     {
       "id": 78,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Perhaps, would it be fair to say that he was a person you knew of, more than that you knew personally?"
-    },
-    {
-      "id": 79,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it would.",
-      "reply_to": 78
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, during the course of 1992, in fact in May of 1992, were you arrested?",
+      "examination": "direct"
     },
     {
       "id": 80,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, during the course of 1992, in fact in May of 1992, were you arrested?"
-    },
-    {
-      "id": 81,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I was.",
-      "reply_to": 80
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And upon your arrest, where were you taken?",
+      "examination": "direct"
     },
     {
       "id": 82,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And upon your arrest, where were you taken?"
-    },
-    {
-      "id": 83,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I was taken to Keraterm.",
-      "reply_to": 82
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And where were you confined in Keraterm?",
+      "examination": "direct"
     },
     {
       "id": 84,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And where were you confined in Keraterm?"
-    },
-    {
-      "id": 85,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I was confined in room number 2.",
-      "reply_to": 84
+      "reply_to": 83
+    },
+    {
+      "id": 85,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, immediately upon your arrival, was it possible for you to move freely about the Keraterm facility?",
+      "examination": "direct"
     },
     {
       "id": 86,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, immediately upon your arrival, was it possible for you to move freely about the Keraterm facility?"
-    },
-    {
-      "id": 87,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Upon my arrival, it was not possible at first, freely. Only when people had to go to the toilet.",
-      "reply_to": 86
+      "reply_to": 85
+    },
+    {
+      "id": 87,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "But did that situation change some eight days later? That is, your ability to move about?",
+      "examination": "direct"
     },
     {
       "id": 88,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But did that situation change some eight days later? That is, your ability to move about?"
-    },
-    {
-      "id": 89,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. After interrogation I was moved to number 1, and I had greater freedom there, freedom of movement.",
-      "reply_to": 88
+      "reply_to": 87
+    },
+    {
+      "id": 89,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And following your interrogation, some eight days later, were you then able to make observations of who were people that were guards in the camp and other such officials?",
+      "examination": "direct"
     },
     {
       "id": 90,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And following your interrogation, some eight days later, were you then able to make observations of who were people that were guards in the camp and other such officials?"
-    },
-    {
-      "id": 91,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, one could observe them. They were all people we knew from Prijedor and the surroundings.",
-      "reply_to": 90
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, the person that you described a moment ago as \"Kole,\" did you at any stage see that person in Keraterm camp?",
+      "examination": "direct"
     },
     {
       "id": 92,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, the person that you described a moment ago as \"Kole,\" did you at any stage see that person in Keraterm camp?"
-    },
-    {
-      "id": 93,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. After a certain amount of time, walking around, I saw him, among others.",
-      "reply_to": 92
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did you ever have occasion to speak to him while you were in the Keraterm camp?",
+      "examination": "direct"
     },
     {
       "id": 94,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And did you ever have occasion to speak to him while you were in the Keraterm camp?"
-    },
-    {
-      "id": 95,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "On a couple of occasions we exchanged a few words in passing. Nothing personal.",
-      "reply_to": 94
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, this person, \"Kole,\" did you know his name, his proper name, prior to going into the Keraterm camp?",
+      "examination": "direct"
     },
     {
       "id": 96,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, this person, \"Kole,\" did you know his name, his proper name, prior to going into the Keraterm camp?"
-    },
-    {
-      "id": 97,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I didn't know.",
-      "reply_to": 96
+      "reply_to": 95
+    },
+    {
+      "id": 97,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, when in Keraterm camp did you subsequently discover his name?",
+      "examination": "direct"
     },
     {
       "id": 98,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, when in Keraterm camp did you subsequently discover his name?"
-    },
-    {
-      "id": 99,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I learnt it from colleagues who were there with me and who knew him.",
-      "reply_to": 98
+      "reply_to": 97
+    },
+    {
+      "id": 99,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you know this person -- and what name were you given for \"Kole\"?",
+      "examination": "direct"
     },
     {
       "id": 100,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you know this person -- and what name were you given for \"Kole\"?"
-    },
-    {
-      "id": 101,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "His name was Dragan Kolundzija.",
-      "reply_to": 100
+      "reply_to": 99
+    },
+    {
+      "id": 101,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And do you know what position or status he had when he was in the camp at Keraterm while you were there?",
+      "examination": "direct"
     },
     {
       "id": 102,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And do you know what position or status he had when he was in the camp at Keraterm while you were there?"
-    },
-    {
-      "id": 103,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "He was the leader of a shift.",
-      "reply_to": 102
+      "reply_to": 101
+    },
+    {
+      "id": 103,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, after you were subsequently released from the Keraterm camp, did you ever see or meet this person, Dragan Kolundzija, again?",
+      "examination": "direct"
     },
     {
       "id": 104,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, after you were subsequently released from the Keraterm camp, did you ever see or meet this person, Dragan Kolundzija, again?"
-    },
-    {
-      "id": 105,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I met him in Brcko, in the street. I think he was in the communications company. It was a building that was used as a command building.",
-      "reply_to": 104
+      "reply_to": 103
+    },
+    {
+      "id": 105,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was he doing at the time when you met him on the next occasion, in Brcko?",
+      "examination": "direct"
     },
     {
       "id": 106,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And what was he doing at the time when you met him on the next occasion, in Brcko?"
-    },
-    {
-      "id": 107,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "In Brcko was the front line, and he was there.",
-      "reply_to": 106
+      "reply_to": 105
+    },
+    {
+      "id": 107,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was he performing military duties, that you know of?",
+      "examination": "direct"
     },
     {
       "id": 108,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was he performing military duties, that you know of?"
-    },
-    {
-      "id": 109,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 108
+      "reply_to": 107
+    },
+    {
+      "id": 109,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, can you tell me what he was doing? If you know; if you don't know, it doesn't matter.",
+      "examination": "direct"
     },
     {
       "id": 110,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Well, can you tell me what he was doing? If you know; if you don't know, it doesn't matter."
-    },
-    {
-      "id": 111,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't have any contact with him. Perhaps on one occasion only we exchanged a few words in connection with the camp. In fact, afterwards, we just said hello to each other when we passed each other, \"Are you tired or not,\" and that's all.",
-      "reply_to": 110
+      "reply_to": 109
+    },
+    {
+      "id": 111,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Tell Their Honours about the time that you discussed with him the camp. Can you firstly tell us what date this was, approximately when it was, the year and month?",
+      "examination": "direct"
     },
     {
       "id": 112,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Tell Their Honours about the time that you discussed with him the camp. Can you firstly tell us what date this was, approximately when it was, the year and month?"
-    },
-    {
-      "id": 113,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "This was in April in '94, I assume. A lot of other things have become mixed up. I changed my battalion, and I went to work in a work-duty unit.",
-      "reply_to": 112
+      "reply_to": 111
+    },
+    {
+      "id": 113,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And this work-duty unit, did it go to Brcko?",
+      "examination": "direct"
     },
     {
       "id": 114,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And this work-duty unit, did it go to Brcko?"
-    },
-    {
-      "id": 115,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Yes, the work unit did work in Brcko.",
-      "reply_to": 114
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And was it while you were performing duties in the work unit that you'd seen the person \"Kole\" who you now know as Dragan Kolundzija?",
+      "examination": "direct"
     },
     {
       "id": 116,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And was it while you were performing duties in the work unit that you'd seen the person \"Kole\" who you now know as Dragan Kolundzija?"
-    },
-    {
-      "id": 117,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "We met in the morning, when we went to work on the division line.",
-      "reply_to": 116
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you tell Their Honours what he said to you when you met, as best you can remember, what he said to you?",
+      "examination": "direct"
     },
     {
       "id": 118,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Would you tell Their Honours what he said to you when you met, as best you can remember, what he said to you?"
-    },
-    {
-      "id": 119,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "He told me not to tell anybody that I was in the camp, because there were a lot of guards on the dividing line who were guards in the camp, so to tell my colleagues not to tell that to anybody.",
-      "reply_to": 118
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And did you see this as being an offer of help or assistance to you, to protect you?",
+      "examination": "direct"
     },
     {
       "id": 120,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And did you see this as being an offer of help or assistance to you, to protect you?"
-    },
-    {
-      "id": 121,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "In any case, it was protection for me and for the others who were with me, so that we could know how to behave ourselves.",
-      "reply_to": 120
+      "reply_to": 119
+    },
+    {
+      "id": 121,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now that person, \"Kole,\" who you subsequently knew as Dragan Kolundzija, who you saw before the war, saw in the Keraterm camp, and then subsequently talked to in Brcko, would you look around the courtroom and see if you can see that person here today.",
+      "examination": "direct"
     },
     {
       "id": 122,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now that person, \"Kole,\" who you subsequently knew as Dragan Kolundzija, who you saw before the war, saw in the Keraterm camp, and then subsequently talked to in Brcko, would you look around the courtroom and see if you can see that person here today."
-    },
-    {
-      "id": 123,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that person is sitting right there in the middle, between those two gentlemen right there.",
-      "reply_to": 122
+      "reply_to": 121
     },
     {
-      "id": 124,
+      "id": 123,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes, the transcript should say that the witness has identified the accused."
     },
     {
-      "id": 125,
+      "id": 124,
       "speaker": "MR. NIEMANN",
       "role": "counsel",
       "type": "statement",
       "text": "No further questions, Your Honour."
     },
     {
-      "id": 126,
+      "id": 125,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Ostojic?"
     },
     {
-      "id": 127,
+      "id": 126,
       "speaker": "MR. OSTOJIC",
       "role": "counsel",
       "type": "statement",
-      "text": "Yes, thank you, Your Honour. Cross-examined by Mr. Ostojic:"
+      "text": "Yes, thank you, Your Honour."
+    },
+    {
+      "id": 127,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Crnkic, when were you released from the Keraterm camp?",
+      "examination": "cross"
     },
     {
       "id": 128,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Crnkic, when were you released from the Keraterm camp?"
-    },
-    {
-      "id": 129,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "On August 3rd, 1992.",
-      "reply_to": 128
+      "reply_to": 127
+    },
+    {
+      "id": 129,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "From August 3rd of 1992 up until April of 1994, did you have an occasion to see Mr. Kolundzija?",
+      "examination": "cross"
     },
     {
       "id": 130,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "From August 3rd of 1992 up until April of 1994, did you have an occasion to see Mr. Kolundzija?"
-    },
-    {
-      "id": 131,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I didn't have any opportunity to see him.",
-      "reply_to": 130
+      "reply_to": 129
+    },
+    {
+      "id": 131,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Prior to May of 1992, can you give us an idea how many times you saw Mr. Kolundzija?",
+      "examination": "cross"
     },
     {
       "id": 132,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Prior to May of 1992, can you give us an idea how many times you saw Mr. Kolundzija?"
-    },
-    {
-      "id": 133,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I can't really respond to that. It's a small town, and we constantly meet when we're not doing any work.",
-      "reply_to": 132
+      "reply_to": 131
+    },
+    {
+      "id": 133,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you agree with me, sir, that it was less than five occasions that you saw Mr. Kolundzija prior to May of 1992?",
+      "examination": "cross"
     },
     {
       "id": 134,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Would you agree with me, sir, that it was less than five occasions that you saw Mr. Kolundzija prior to May of 1992?"
-    },
-    {
-      "id": 135,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Five, six times, seven.",
-      "reply_to": 134
+      "reply_to": 133
+    },
+    {
+      "id": 135,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "What is your best estimate, sir? Five, or seven?",
+      "examination": "cross"
     },
     {
       "id": 136,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What is your best estimate, sir? Five, or seven?"
-    },
-    {
-      "id": 137,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Five times, perhaps.",
-      "reply_to": 136
+      "reply_to": 135
+    },
+    {
+      "id": 137,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So over what period of time would you say that you had met Mr. Kolundzija's acquaintance in the years prior to 1992 on those five occasions?",
+      "examination": "cross"
     },
     {
       "id": 138,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So over what period of time would you say that you had met Mr. Kolundzija's acquaintance in the years prior to 1992 on those five occasions?"
-    },
-    {
-      "id": 139,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "It was perhaps a couple of years, five or six years before the war.",
-      "reply_to": 138
+      "reply_to": 137
+    },
+    {
+      "id": 139,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, do I understand your testimony that over a five-to-six-year period, you had come across a gentleman by the name of \"Kole\" on approximately five or so occasions?",
+      "examination": "cross"
     },
     {
       "id": 140,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sir, do I understand your testimony that over a five-to-six-year period, you had come across a gentleman by the name of \"Kole\" on approximately five or so occasions?"
-    },
-    {
-      "id": 141,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 140
+      "reply_to": 139
+    },
+    {
+      "id": 141,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, in April of 1994, you testified that you had a conversation with Mr. Kolundzija; do you remember that testimony? Who else was present during that discussion?",
+      "examination": "cross"
     },
     {
       "id": 142,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sir, in April of 1994, you testified that you had a conversation with Mr. Kolundzija; do you remember that testimony? Who else was present during that discussion?"
-    },
-    {
-      "id": 143,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "It wasn't a discussion. It was just in passing.",
-      "reply_to": 142
+      "reply_to": 141
+    },
+    {
+      "id": 143,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Thank you for correcting me. During that passing in April of 1994, who else was present when you exchanged pleasantries and some words?",
+      "examination": "cross"
     },
     {
       "id": 144,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Thank you for correcting me. During that passing in April of 1994, who else was present when you exchanged pleasantries and some words?"
-    },
-    {
-      "id": 145,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "No, colleagues who were with me there were present. There were about nine or ten of us in Brcko in 1994.",
-      "reply_to": 144
+      "reply_to": 143
+    },
+    {
+      "id": 145,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you identify those nine or so individuals?",
+      "examination": "cross"
     },
     {
       "id": 146,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you identify those nine or so individuals?"
-    },
-    {
-      "id": 147,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "No, no, I couldn't.",
-      "reply_to": 146
+      "reply_to": 145
+    },
+    {
+      "id": 147,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You don't remember any of those nine or ten individuals as you sit here today?",
+      "examination": "cross"
     },
     {
       "id": 148,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You don't remember any of those nine or ten individuals as you sit here today?"
-    },
-    {
-      "id": 149,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "There was one person from Prijedor, the others from different municipalities, from Brcko, Banja Luka, from Ljubija.",
-      "reply_to": 148
+      "reply_to": 147
+    },
+    {
+      "id": 149,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you today, sir, identify the names of those nine or ten individuals that were in the group during this period when you and Mr. Kolundzija, in April of 1994, purportedly exchanged a conversation?",
+      "examination": "cross"
     },
     {
       "id": 150,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you today, sir, identify the names of those nine or ten individuals that were in the group during this period when you and Mr. Kolundzija, in April of 1994, purportedly exchanged a conversation?"
-    },
-    {
-      "id": 151,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Well, the witness has said that he can't."
     },
     {
-      "id": 152,
+      "id": 151,
       "speaker": "MR. OSTOJIC",
       "role": "counsel",
       "type": "statement",
       "text": "If I may direct a question to Your Honour. I thought the witness may have misunderstood the question, because he subsequently identified where the witnesses were from, and he mentioned a couple of cities and villages. So I was just restating it in the event that he may have misunderstood it, because his response was actually not responsive, so I put the question to him again for that very reason. So I just needed clarification on that."
     },
     {
-      "id": 153,
+      "id": 152,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Well, I think you have it. The answer is, \"No.\""
     },
     {
-      "id": 154,
+      "id": 153,
       "speaker": "MR. OSTOJIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honour."
     },
     {
-      "id": 155,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 154,
+      "speaker": "MR. OSTOJIC",
       "role": "counsel",
       "type": "question",
-      "text": "What, if anything, did you respond to Mr. Kolundzija in April of 1994?"
+      "text": "What, if anything, did you respond to Mr. Kolundzija in April of 1994?",
+      "examination": "cross"
     },
     {
-      "id": 156,
+      "id": 155,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I just said once that I didn't know anybody and that nobody knew, and that I wasn't going to tell anybody about it.",
-      "reply_to": 155
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Subsequently, sir, did you tell anyone about this conversation, other than here today?",
+      "examination": "cross"
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Subsequently, sir, did you tell anyone about this conversation, other than here today?"
-    },
-    {
-      "id": 158,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "The only thing that I said to those boys who were with me was that if anybody is in the camp, don't tell anybody about it.",
-      "reply_to": 157
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Inaudible]",
+      "examination": "cross"
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "[Inaudible]"
-    },
-    {
-      "id": 160,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 159
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, do you remember what occurred in June of 1992?",
+      "examination": "cross"
     },
     {
       "id": 161,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sir, do you remember what occurred in June of 1992?"
-    },
-    {
-      "id": 162,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "What does that question mean?"
     },
     {
-      "id": 163,
+      "id": 162,
       "speaker": "MR. OSTOJIC",
       "role": "counsel",
       "type": "statement",
       "text": "I can restate it, Your Honour."
     },
     {
-      "id": 164,
+      "id": 163,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Make it clear."
     },
     {
-      "id": 165,
+      "id": 164,
       "speaker": "MR. OSTOJIC",
       "role": "counsel",
       "type": "statement",
       "text": "I apologise."
     },
     {
-      "id": 166,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 165,
+      "speaker": "MR. OSTOJIC",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell us, in June of 1992, what your day-to-day activities were, if you recall?"
+      "text": "Can you tell us, in June of 1992, what your day-to-day activities were, if you recall?",
+      "examination": "cross"
     },
     {
-      "id": 167,
+      "id": 166,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I was in the camp. We were walking around, sitting around. Sometimes it was interesting. Many people were beaten up. We were trying to stay alive, to stay out of the way.",
-      "reply_to": 166
+      "reply_to": 165
+    },
+    {
+      "id": 167,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you say, \"We were walking around,\" who are you referring to?",
+      "examination": "cross"
     },
     {
       "id": 168,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you say, \"We were walking around,\" who are you referring to?"
-    },
-    {
-      "id": 169,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I mean all the people who were in the camp.",
-      "reply_to": 168
+      "reply_to": 167
+    },
+    {
+      "id": 169,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Inaudible]... 1992, I believe the Prosecutor asked you approximately eight days upon your arrest, that you saw Kole walking around; correct?",
+      "examination": "cross"
     },
     {
       "id": 170,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "[Inaudible]... 1992, I believe the Prosecutor asked you approximately eight days upon your arrest, that you saw Kole walking around; correct?"
-    },
-    {
-      "id": 171,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "On May 31st, I was brought to the camp.",
-      "reply_to": 170
+      "reply_to": 169
+    },
+    {
+      "id": 171,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Inaudible]... days after May 31st of 1992?",
+      "examination": "cross"
     },
     {
       "id": 172,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "[Inaudible]... days after May 31st of 1992?"
-    },
-    {
-      "id": 173,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. I was in one room. They took me for interrogation. From that room, they would take us out only to go to the toilet.",
-      "reply_to": 172
+      "reply_to": 171
+    },
+    {
+      "id": 173,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "You mentioned, sir, a room, that you were detained in room number 2; correct?",
+      "examination": "cross"
     },
     {
       "id": 174,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You mentioned, sir, a room, that you were detained in room number 2; correct?"
-    },
-    {
-      "id": 175,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 174
+      "reply_to": 173
+    },
+    {
+      "id": 175,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "During your entire stay at the Keraterm camp, were you detained in room number 2?",
+      "examination": "cross"
     },
     {
       "id": 176,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "During your entire stay at the Keraterm camp, were you detained in room number 2?"
-    },
-    {
-      "id": 177,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Only the first eight days that I was in the camp.",
-      "reply_to": 176
+      "reply_to": 175
+    },
+    {
+      "id": 177,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Subsequently, sir, where were you detained?",
+      "examination": "cross"
     },
     {
       "id": 178,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Subsequently, sir, where were you detained?"
-    },
-    {
-      "id": 179,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "In room number 1.",
-      "reply_to": 178
+      "reply_to": 177
+    },
+    {
+      "id": 179,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So is it fair to say, sir, from approximately June of 1992, through and including the date of your release August 2nd, 1992, you were detained in room number 2? I mean room number 1. I'm sorry, strike that. If I can repeat the question. Sir, is it fair to state that from June 8th, approximately, 1992, through August 3rd, 1992, you were detained in the Keraterm camp in room number 1?",
+      "examination": "cross"
     },
     {
       "id": 180,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So is it fair to say, sir, from approximately June of 1992, through and including the date of your release August 2nd, 1992, you were detained in room number 2? I mean room number 1. I'm sorry, strike that. If I can repeat the question. Sir, is it fair to state that from June 8th, approximately, 1992, through August 3rd, 1992, you were detained in the Keraterm camp in room number 1?"
-    },
-    {
-      "id": 181,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 180
+      "reply_to": 179
+    },
+    {
+      "id": 181,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Since April of 1994, can you tell us how many times you either saw, exchanged pleasantries, or had a discussion with Mr. Kolundzija?",
+      "examination": "cross"
     },
     {
       "id": 182,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Since April of 1994, can you tell us how many times you either saw, exchanged pleasantries, or had a discussion with Mr. Kolundzija?"
-    },
-    {
-      "id": 183,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "When we went to the front line, we would pass by the command, by the headquarters where they were. That was from the period of April 1994 up until perhaps May or April '95. We would meet every time that he was on the shift.",
-      "reply_to": 182
+      "reply_to": 181
+    },
+    {
+      "id": 183,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Other than -- pardon me.",
+      "examination": "cross"
     },
     {
       "id": 184,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Other than -- pardon me."
-    },
-    {
-      "id": 185,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Every 15 days.",
-      "reply_to": 184
+      "reply_to": 183
+    },
+    {
+      "id": 185,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Up until when, sir?",
+      "examination": "cross"
     },
     {
       "id": 186,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Up until when, sir?"
-    },
-    {
-      "id": 187,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I worked for about six months there in that place.",
-      "reply_to": 186
+      "reply_to": 185
+    },
+    {
+      "id": 187,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Sir, are you calculating six months from April of '94, or if you could estimate for me, when was the last time that you saw Mr. Kolundzija?",
+      "examination": "cross"
     },
     {
       "id": 188,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sir, are you calculating six months from April of '94, or if you could estimate for me, when was the last time that you saw Mr. Kolundzija?"
-    },
-    {
-      "id": 189,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I can't really tell you when was the last time that I saw him.",
-      "reply_to": 188
+      "reply_to": 187
+    },
+    {
+      "id": 189,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would you agree with me, sir, that it's been approximately three to five years since the last time you saw Mr. Kolundzija?",
+      "examination": "cross"
     },
     {
       "id": 190,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Would you agree with me, sir, that it's been approximately three to five years since the last time you saw Mr. Kolundzija?"
-    },
-    {
-      "id": 191,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "From which period?",
-      "reply_to": 190
+      "reply_to": 189
+    },
+    {
+      "id": 191,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "If we would go back three to five years, can we agree, or if you can just tell us what you recall, when was the last time that you saw Mr. Kolundzija, other than here today?",
+      "examination": "cross"
     },
     {
       "id": 192,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If we would go back three to five years, can we agree, or if you can just tell us what you recall, when was the last time that you saw Mr. Kolundzija, other than here today?"
-    },
-    {
-      "id": 193,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't see him after that period at all.",
-      "reply_to": 192
+      "reply_to": 191
+    },
+    {
+      "id": 193,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "So approximately April 1994 and possibly the six months thereafter, you had not seen Mr. Kolundzija; correct?",
+      "examination": "cross"
     },
     {
       "id": 194,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So approximately April 1994 and possibly the six months thereafter, you had not seen Mr. Kolundzija; correct?"
-    },
-    {
-      "id": 195,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "Later, no.",
-      "reply_to": 194
+      "reply_to": 193
+    },
+    {
+      "id": 195,
+      "speaker": "MR. OSTOJIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Can you explain to me, then, because I do not understand when the last date was when you saw him.",
+      "examination": "cross"
     },
     {
       "id": 196,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Can you explain to me, then, because I do not understand when the last date was when you saw him."
-    },
-    {
-      "id": 197,
       "speaker": "SULEJMAN CRNKIC",
       "role": "witness",
       "type": "answer",
       "text": "This is very hard to say, because I was constantly there for about six or seven months and I wasn't going home, I didn't go home at all, so it's very difficult to connect that time with the present.",
-      "reply_to": 196
+      "reply_to": 195
     },
     {
-      "id": 198,
+      "id": 197,
       "speaker": "MR. OSTOJIC",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, sir. That's all the questions I have."
     },
     {
-      "id": 199,
+      "id": 198,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Any re-examination?"
     },
     {
-      "id": 200,
+      "id": 199,
       "speaker": "MR. NIEMANN",
       "role": "counsel",
       "type": "statement",
       "text": "No, Your Honours."
     },
     {
-      "id": 201,
+      "id": 200,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Crnkic, that concludes your evidence. Thank you for coming to the International Tribunal to give evidence. You are released. (The witness withdrew)"
     },
     {
-      "id": 202,
+      "id": 201,
       "speaker": "MR. NIEMANN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, with respect to the next witness, I ask that his testimony not be made public."
     },
     {
-      "id": 203,
+      "id": 202,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Are you asking for a closed session?"
     },
     {
-      "id": 204,
+      "id": 203,
       "speaker": "MR. NIEMANN",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour."
     },
     {
-      "id": 205,
+      "id": 204,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Very well. (Closed session)"
     },
     {
-      "id": 206,
+      "id": 205,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "(Open session)"
     },
     {
-      "id": 207,
+      "id": 206,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "At this stage of the proceedings, we only need rule as follows: Having heard and seen the witnesses called by the Prosecution, we are satisfied that Dragan Kolundzija, the person remanded, is the accused named in the indictment. Now that we are here, although time is short, Mr. Niemann, it may be helpful to consider the future progress of the case."
     },
     {
-      "id": 208,
+      "id": 207,
       "speaker": "MR. NIEMANN",
       "role": "counsel",
       "type": "statement",
       "text": "If Your Honours please: Your Honours, on the last occasion I did indicate to you that we would be seeking to amend the indictment because of the errors in it, but in addition to that, we would be seeking to have this indictment joined with the indictment of Kvocka and others. Your Honours, last Friday we filed an amendment to the indictment with His Honour Judge Vohrah. His Honour is considering that amendment to the indictment at this moment. Your Honours, with respect to where we go from here, it seems to me that there are two courses open, and I'm in Your Honours' hands as to which course Your Honours prefer. If, Your Honours, the reference to the date of birth, the place of birth, and the spelling in the original indictment -- and that's the indictment of Sikirica and others -- is not put to this accused, then it seems to me that he could be read those charges and could plead to that indictment, and then the amendment could take its course, and if confirmed by His Honour Judge Vohrah, that new indictment would come back, and this accused would be asked to plead to that indictment. That's one course that could occur, Your Honours, but I think it would be important that the incorrect date of birth, place of birth, and spelling of the name be not put to this accused if that plea is taken. Alternatively, Your Honours, it's hard -- I'm not in a position to assist the Chamber with respect to when the other indictment would be ready, if indeed it is confirmed by His Honour Judge Vohrah. I can say that there's not a lot of new material, so although these confirmation processes can be burdensome at times, this particular indictment is not on the extreme end of that process in terms of material and reading that has to be done, but nevertheless the process must take place. It seems to me that if that indictment were to be ready within one or two weeks, and as I say, I just can't tell Your Honours when that's going to be, then the accused could be brought back, those charges could be read to him from the new indictment, and he can plead to it. That would obviate the necessity of having two initial appearances. The Prosecution is content with whichever course Your Honour chooses or prefers to take."
     },
     {
-      "id": 209,
+      "id": 208,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "So if the indictment were amended, it would seem preferable for the accused to plead to the amended indictment and in correct form. That should be done within 30 days of the initial appearance."
     },
     {
-      "id": 210,
+      "id": 209,
       "speaker": "MR. NIEMANN",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, and if it's not confirmed in that period, we would have to come back and present the old Sikirica indictment. My concern, Your Honour, is about putting to this accused information which is proven incorrect and the difficulty associated with that."
     },
     {
-      "id": 211,
+      "id": 210,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Yes. (Trial Chamber deliberates)"
     },
     {
-      "id": 212,
+      "id": 211,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "The date we have in mind for the accused to plead to the indictment would be Tuesday, the 13th of July, it being the amended indictment, it's to be hoped, which will by then be ready. The other matter, Mr. Niemann, is the question of joinder."
     },
     {
-      "id": 213,
+      "id": 212,
       "speaker": "MR. NIEMANN",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour."
     },
     {
-      "id": 214,
+      "id": 213,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "I don't know what consideration is being given to that at the moment."
     },
     {
-      "id": 215,
+      "id": 214,
       "speaker": "JUDGE BENNOUNA",
       "role": "judge",
       "type": "statement",
       "text": "(Interpretation) There's no transcript."
     },
     {
-      "id": 216,
+      "id": 215,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "There's no transcript coming up on the screen, but I think we can go on to deal with these matters. One consideration is the effect of joining this case to Kvocka, the effect on that trial."
     },
     {
-      "id": 217,
+      "id": 216,
       "speaker": "MR. NIEMANN",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honours. Under the Rules, it's not, as I understand it, an application that we make to Your Honours in relation to joinder, as such, at this stage. As I have interpreted the Rules, at this stage of the proceedings we approach the confirming Judge for an amendment. Then after that, the Defence presumably would make an application for severance if they were unhappy with the fact that the indictment is joined. I did examine this issue, Your Honour, before we went down this road. Our intention was to join it to the Kvocka indictment and to make the amendment for that purpose. As Your Honours know, we had to have an amendment anyway, the indictment had to be amended, which was to join it to the Kvocka indictment so we could have the one trial, thus obviating the necessity for two trials, and so we proceeded on the basis that we would have this indictment against this accused form part of the Kvocka indictment, and that's the application that is now before His Honour Judge Vohrah. Presumably, if the Defence find that objectionable, they might bring an application for severance and, in so doing, would ventilate all issues which concern them. And indeed the other parties to the Kvocka indictment could join in that, if they so wished. That would also permit ventilation of the issue of whether or not the Kvocka indictment will in any way be delayed. In our submission, there's no reason why that should happen. It's not the eve of the trial, and I don't want to argue the point now, Your Honour, but it's not the eve of the trial and so we, ourselves, proceeded on the assumption that we wouldn't be unduly delaying the trial. In the event that that would have been the case, we might have taken a different view of it, but that was the position we took at the time. But I don't think that it can happen any other way in this jurisdiction, where the application is adjourned, is dealt with as an issue before the trial, but I may be wrong on that, Your Honour. But that was my interpretation of the Rules."
     },
     {
-      "id": 218,
+      "id": 217,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Mr. Ostojic, is there anything you want to say?"
     },
     {
-      "id": 219,
+      "id": 218,
       "speaker": "MR. OSTOJIC",
       "role": "counsel",
       "type": "statement",
       "text": "I'm not sure if the time is appropriate. We would strenuously object to the Prosecutor's attempt to file an oral motion in joinder with the other matter. As this panel knows, there were two entirely different camps. There is absolutely no mixture of the witnesses, no commonality of any of the factors that we would normally find in a motion such as this. I would just request this panel, if you're entertaining that, that you give us an ample opportunity so that we may brief it and address it fully to you."
     },
     {
-      "id": 220,
+      "id": 219,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
       "text": "At this stage, there's no such motion before the Chamber. If one comes, of course you will have the opportunity to deal with it or to apply, if necessary, for severance. If there are no other matters, there simply remains two matters for me to deal with. First of all, dealing with the accused, he will be detained in the detention unit until further order. This matter will be adjourned until the 13th of July, 2.30, for the accused to plead to the indictment. Very well."
     },
     {
-      "id": 221,
+      "id": 220,
       "speaker": "JUDGE MAY",
       "role": "judge",
       "type": "statement",
@@ -1631,103 +1688,111 @@
       "text": "WITNESS:  SULEJMAN CRNKIC"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 58,
+      "text": "Examined by Mr. Niemann:"
+    },
+    {
+      "after_utterance": 126,
+      "text": "Cross-examined by Mr. Ostojic:"
+    },
+    {
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "pages 46-61 redacted – closed session"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 205,
+      "after_utterance": 204,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 220,
+      "after_utterance": 219,
       "text": "--- Whereupon the hearing adjourned at"
     }
   ],

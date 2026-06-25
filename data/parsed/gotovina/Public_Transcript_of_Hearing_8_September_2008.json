@@ -1,6 +1,6 @@
 {
   "case": "gotovina",
-  "case_id": "IT-06-90-T",
+  "case_id": "IT-06-90",
   "date": "2008-09-08",
   "utterances": [
     {
@@ -5878,7 +5878,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Ms. Malm, I have a few questions for you. Questioned by the Court:"
+      "text": "Ms. Malm, I have a few questions for you."
     },
     {
       "id": 767,
@@ -5989,15 +5989,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, Mr. Kehoe. Further Cross-examination by Mr. Kehoe"
+      "text": "Yes, Mr. Kehoe."
     },
     {
       "id": 782,
-      "speaker": "MS. GUSTAFSON",
+      "speaker": "MR. KEHOE",
       "role": "counsel",
       "type": "question",
       "text": "With regard to the -- Ms. Malm, just a few brief questions with regard to the goods that were taken. Do you have any idea where those people were taking those goods?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 783,
@@ -6009,11 +6009,11 @@
     },
     {
       "id": 784,
-      "speaker": "MS. GUSTAFSON",
+      "speaker": "MR. KEHOE",
       "role": "counsel",
       "type": "question",
       "text": "Now, this graveyard situation, and the guard that was there, was it a fact that this -- this policeman that was there was preventing anybody from going in there without authorisation? Isn't that what he told you?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 785,
@@ -6025,11 +6025,11 @@
     },
     {
       "id": 786,
-      "speaker": "MS. GUSTAFSON",
+      "speaker": "MR. KEHOE",
       "role": "counsel",
       "type": "question",
       "text": "So from the report that you got, nobody was allowed into the graveyard without authorisation.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 787,
@@ -6048,11 +6048,11 @@
     },
     {
       "id": 789,
-      "speaker": "MS. GUSTAFSON",
+      "speaker": "MR. KEHOE",
       "role": "counsel",
       "type": "question",
       "text": "One last question on this. One last question on this, ma'am. As a police officer, if you receive an order not to allow people to come into an area, you as a police officer aren't going to allow anybody in with without authorisation, are you?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 790,
@@ -7477,6 +7477,14 @@
     {
       "after_utterance": 765,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 766,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 781,
+      "text": "Further Cross-examination by Mr. Kehoe"
     },
     {
       "after_utterance": 788,

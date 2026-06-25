@@ -1,6 +1,6 @@
 {
   "case": "haradinaj",
-  "case_id": "IT-04-84-T",
+  "case_id": "IT-04-84",
   "date": "2007-10-23",
   "utterances": [
     {
@@ -4996,15 +4996,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Okay. Please. Further cross-examination by Mr. Guy-Smith:"
+      "text": "Okay. Please."
     },
     {
       "id": 654,
-      "speaker": "MR. RE",
+      "speaker": "MR. GUY-SMITH",
       "role": "counsel",
       "type": "question",
       "text": "You indicated you received information from the intelligence service of the MUP. And my question to you is: Did you receive any information from any of the following individuals: Dragan Jasovic, Momcilo Sparavalo, Darko Amanovic? Did you receive any information concerning what the JSO or police special units were doing in the field so that you could make a determination of how best to coordinate with the MUP?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 655,
@@ -5592,6 +5592,10 @@
     {
       "after_utterance": 620,
       "text": "Re-examination by Mr. Re:"
+    },
+    {
+      "after_utterance": 653,
+      "text": "Further cross-examination by Mr. Guy-Smith:"
     },
     {
       "after_utterance": 656,

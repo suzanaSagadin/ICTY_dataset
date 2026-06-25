@@ -1,6 +1,6 @@
 {
   "case": "naletilic_martinovic",
-  "case_id": "IT-98-34-T",
+  "case_id": "IT-98-34",
   "date": "2001-10-15",
   "utterances": [
     {
@@ -230,307 +230,307 @@
       "speaker": "MR. BOS",
       "role": "counsel",
       "type": "statement",
-      "text": "Just a couple of questions, Your Honour. Re-examined by Mr. Bos:"
+      "text": "Just a couple of questions, Your Honour."
     },
     {
       "id": 31,
-      "speaker": "MR. PAR",
+      "speaker": "MR. BOS",
       "role": "counsel",
       "type": "question",
-      "text": "Witness AA, this goes back to last week when you were cross-examined by Mr. Meek, the Defence counsel for Mladen Naletilic. Mr. Meek put it in cross to you that you testified in chief that you had observed that Tuta hit Pobric with the butt of a gun. Did you ever in this courtroom testify that you saw Tuta hit Pobric with the butt of a gun?",
-      "examination": "cross"
+      "text": "Witness AA, this goes back to last week when you were",
+      "examination": "re-direct"
     },
     {
       "id": 32,
+      "speaker": "MR. BOS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Meek put it in cross to you that you testified in chief that you had observed that Tuta hit Pobric with the butt of a gun. Did you ever in this courtroom testify that you saw Tuta hit Pobric with the butt of a gun?"
+    },
+    {
+      "id": 33,
       "speaker": "WITNESS AA [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "I only said in my statement, as I was asked, that he did hit him, but I didn't know whether it was the butt of a gun or a Motorola.",
-      "reply_to": 31
+      "reply_to": 32
     },
     {
-      "id": 33,
-      "speaker": "MR. PAR",
+      "id": 34,
+      "speaker": "MR. MEEK",
       "role": "counsel",
       "type": "question",
       "text": "In fact, when I asked you that question on Wednesday in examination-in-chief, that you in fact gave the following answer:",
       "examination": "cross"
     },
     {
-      "id": 34,
-      "speaker": "WITNESS AA [Resumed]",
-      "role": "witness",
-      "type": "answer",
-      "text": "Then he approached Pobric. Don't know what he told him, but at that moment, he suddenly hit him with the Motorola on his head and he started bleeding. And this is on page 80, line 7 of the transcript of Wednesday, 10 October. Is that what you answered on that question, Witness AA?",
-      "reply_to": 33
-    },
-    {
       "id": 35,
       "speaker": "WITNESS AA [Resumed]",
       "role": "witness",
       "type": "answer",
-      "text": "Yes.",
-      "reply_to": 33
+      "text": "Then he approached Pobric. Don't know what he told him, but at that moment, he suddenly hit him with the Motorola on his head and he started bleeding. And this is on page 80, line 7 of the transcript of Wednesday, 10 October. Is that what you answered on that question, Witness AA?",
+      "reply_to": 34
     },
     {
       "id": 36,
-      "speaker": "MR. PAR",
+      "speaker": "WITNESS AA [Resumed]",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 34
+    },
+    {
+      "id": 37,
+      "speaker": "MR. MEEK",
       "role": "counsel",
       "type": "question",
       "text": "Now, on Thursday, the witness -- the counsel for Martinovic showed you an exhibit, P704.",
       "examination": "cross"
     },
     {
-      "id": 37,
+      "id": 38,
       "speaker": "MR. BOS",
       "role": "counsel",
       "type": "statement",
       "text": "I'd like the witness to have that exhibit again. I'd like the witness to look at the front page of the exhibit, the first page of the B/C/S version."
     },
     {
-      "id": 38,
-      "speaker": "MR. PAR",
+      "id": 39,
+      "speaker": "MR. MEEK",
       "role": "counsel",
       "type": "question",
       "text": "This exhibit was shown to you last Thursday, and could you please read out what's written -- what's written -- there are three sort of paragraphs. What's written in the middle paragraph? Could you read that out, please?",
       "examination": "cross"
     },
     {
-      "id": 39,
+      "id": 40,
       "speaker": "WITNESS AA [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "\"We enclose herewith the payroll for November 1993 for the members of the Convicts Battalion and the ATG.\"",
-      "reply_to": 38
+      "reply_to": 39
     },
     {
-      "id": 40,
+      "id": 41,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Could we have the text put on the ELMO, please."
     },
     {
-      "id": 41,
-      "speaker": "MR. PAR",
+      "id": 42,
+      "speaker": "MR. MEEK",
       "role": "counsel",
       "type": "question",
       "text": "Now, Witness, do you remember the date when you were beaten by Romeo Blazevic in the MUP station?",
       "examination": "cross"
     },
     {
-      "id": 42,
+      "id": 43,
       "speaker": "WITNESS AA [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "It was in the evening on the 10th. It must have been around 8.00 or half past eight the same day.",
-      "reply_to": 41
+      "reply_to": 42
     },
     {
-      "id": 43,
-      "speaker": "MR. PAR",
+      "id": 44,
+      "speaker": "MR. MEEK",
       "role": "counsel",
       "type": "question",
       "text": "Of which month? The 10th of which month?",
       "examination": "cross"
     },
     {
-      "id": 44,
+      "id": 45,
       "speaker": "WITNESS AA [Resumed]",
       "role": "witness",
       "type": "answer",
       "text": "May.",
-      "reply_to": 43
+      "reply_to": 44
     },
     {
-      "id": 45,
+      "id": 46,
       "speaker": "MR. BOS",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honours, I have no further questions except that I would like to tender Exhibit P12.11 as marked by the witness. And I would like to tender under seal Exhibit P752.1."
     },
     {
-      "id": 46,
+      "id": 47,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Any questions from the judges?"
     },
     {
-      "id": 47,
+      "id": 48,
       "speaker": "JUDGE CLARK",
       "role": "judge",
       "type": "statement",
       "text": "Can I ask the Prosecutor a question about the origin of the video clip that we saw?"
     },
     {
-      "id": 48,
+      "id": 49,
       "speaker": "MR. BOS",
       "role": "counsel",
       "type": "statement",
       "text": "Yes. Well, that's taken from the Croatian Television, HTV."
     },
     {
-      "id": 49,
+      "id": 50,
       "speaker": "JUDGE CLARK",
       "role": "judge",
       "type": "statement",
       "text": "Was it actually shown on television or was it footage that wasn't used?"
     },
     {
-      "id": 50,
+      "id": 51,
       "speaker": "MR. BOS",
       "role": "counsel",
       "type": "statement",
       "text": "Yes. It was indeed shown on television and you can ask the witness. I think he knows about this as well."
     },
     {
-      "id": 51,
+      "id": 52,
       "speaker": "JUDGE CLARK",
       "role": "judge",
       "type": "statement",
       "text": "Okay. Do you know that, that it was a piece of film Blank page inserted to ensure pagination corresponds between the French and English transcripts. that was shown on the news? Was it accompanied with any narrative?"
     },
     {
-      "id": 52,
+      "id": 53,
       "speaker": "MR. BOS",
       "role": "counsel",
       "type": "statement",
       "text": "I'll have to ask. I'm not sure about that."
     },
     {
-      "id": 53,
+      "id": 54,
       "speaker": "JUDGE CLARK",
       "role": "judge",
       "type": "statement",
       "text": "And if so, would it be possible for us to hear it and have a translation of what was said?"
     },
     {
-      "id": 54,
+      "id": 55,
       "speaker": "MR. BOS",
       "role": "counsel",
       "type": "statement",
       "text": "Yes. We can provide that to the Court but it may take --"
     },
     {
-      "id": 55,
+      "id": 56,
       "speaker": "JUDGE CLARK",
       "role": "judge",
       "type": "statement",
       "text": "It may take some time. I don't want to put you on the spot. I don't want you to have to say something that you don't absolutely know. You can come back to me on that. If it was shown on television, I think the Court would like to know what the narrative was that accompanied that clip. I think the Court would like to see that clip again, to see if the emblems and the insignia on the uniforms of the soldiers who appear there could be identified, what force they belonged to. And on the clip also, it seems to me that in the line up of prisoners, we saw, or I think I saw, a prisoner who appeared to be injured about the face, and I was wondering if this witness could identify if that was the prisoner that he was describing who was hit either with the Motorola or the butt of a gun. And if we show the clip first at normal speed, because it's less distorted."
     },
     {
-      "id": 56,
+      "id": 57,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "We have to go to private session?"
     },
     {
-      "id": 57,
+      "id": 58,
       "speaker": "MR. BOS",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 58,
+      "id": 59,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "We will go to private session."
     },
     {
-      "id": 59,
+      "id": 60,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Are there any protective measures that you asked before for the next witness?"
     },
     {
-      "id": 60,
+      "id": 61,
       "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "statement",
       "text": "Good morning, Mr. President and Your Honours. No. The next witness will testify in public session. Like one previous witness in this case, he is currently a prisoner in a state, and I'm going to caution the witness that he should not say where he's presently being held, but beyond that, there are no protective measures that the witness is requesting. If I could, while we're in a moment of transition, Mr. President, because the next witness is going to testify in German, we have -- with the Trial Chamber's kind permission, we understand that you've allowed or agreed that an additional OTP staff member can be present in the courtroom during the testimony of this witness. She is present. This is Marie-Ursula Kind, whom -- I believe the Trial Chamber's preference was that she sit at the counsel table, and we can make that arrangement but she's been -- among her many skills is her first language is German, and she's been of great assistance to me in preparing for this witness, and we're grateful that you've allowed her to be present in the courtroom. Mr. President, I could continue, I think, to inform the Trial Chamber of the relevant parts of the indictment that this witness will give testimony and evidence about. We believe his testimony --"
     },
     {
-      "id": 61,
+      "id": 62,
       "speaker": "JUDGE CLARK",
       "role": "judge",
       "type": "statement",
       "text": "Could you tell us first who he is, which witness he is?"
     },
     {
-      "id": 62,
+      "id": 63,
       "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "statement",
       "text": "Yes. I apologise, Your Honour. This is a gentleman named Falk Simang, and he is going to give evidence relevant to paragraphs 7, 10, and 11 of the indictment, which relate to the background part of the indictment. He will give evidence relevant to paragraphs 14 through 16 relating to the superior authority of the accused Mladen Naletilic. He will give evidence relevant to paragraphs 18 through 20 regarding the existence of an international armed conflict. In respect of count 1, the persecution count, he will give evidence relevant to paragraphs 25 through 27, 31 and 34. In respect of the counts 2 through 5, the counts related to forced labour, he will give evidence relevant to paragraphs 35 and 44. He will give evidence also relevant to paragraph 46, which relates to counts 11 and 12, particularly beatings, mistreatment which occurred in Sovici-Doljani area. He will give evidence relevant to paragraph 53, which is part of count 18 on forced transfer of civilians, and also paragraph 53 relating to Sovici-Doljani, paragraph 54 relating to Mostar. And finally, he will give evidence relevant to paragraphs 55 and 56, which relate to the destruction of Muslim property and the mosque in the area of Sovici-Doljani. And finally, paragraph 57, which relates to plunder."
     },
     {
-      "id": 63,
+      "id": 64,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Could the usher bring the witness in, please. Yes, Mr. Meek."
     },
     {
-      "id": 64,
+      "id": 65,
       "speaker": "MR. MEEK",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Mr. President and Your Honours. The Defence is a little confused as to why there would be Ms. Marie-Ursula Kind in the courtroom from the OTP. She's not an interpreter, and Mr. Stringer indicates that he made some agreement with the Trial Chamber to let her to sit in the courtroom. We don't know why. We haven't heard of such a thing."
     },
     {
-      "id": 65,
+      "id": 66,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Well, we received this request last Thursday asking for a member from the OTP to be present during the testimony of this witness. Her role is very limited. She's not allowed to make any interventions in the proceedings. She's just present here as a member of the OTP, so we granted this motion."
     },
     {
-      "id": 66,
+      "id": 67,
       "speaker": "MR. MEEK",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 67,
+      "id": 68,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Good morning, Witness. Would you please make the solemn declaration."
     },
     {
-      "id": 68,
+      "id": 69,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I solemnly declare that I will speak the truth, the whole truth and nothing but the truth."
     },
     {
-      "id": 69,
+      "id": 70,
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
       "text": "You may sit down, please."
     },
     {
-      "id": 70,
-      "speaker": "JUDGE LIU",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Stringer:"
-    },
-    {
       "id": 71,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Good morning, Witness.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 72,
@@ -542,11 +542,11 @@
     },
     {
       "id": 73,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "As you can see, you have the assistance of an interpreter seated next to you, and I would ask, before we start, a couple of things. Perhaps it would be better if you could move forward a little closer to the microphones. Witness, can you please tell me your name and spell your last name for the record?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 74,
@@ -558,11 +558,11 @@
     },
     {
       "id": 75,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, are you presently being held in custody in a prison facility in a different state outside of the Netherlands?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 76,
@@ -574,11 +574,11 @@
     },
     {
       "id": 77,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "I want to just remind you that although we'll be referring to you by your name in the courtroom, I'd ask that you keep in mind not to tell us where you are currently being held.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 78,
@@ -590,11 +590,11 @@
     },
     {
       "id": 79,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, Mr. Simang, were you born and raised in the city of Dresden?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 80,
@@ -606,11 +606,11 @@
     },
     {
       "id": 81,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "That's in the former German Democratic Republic?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 82,
@@ -622,11 +622,11 @@
     },
     {
       "id": 83,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And by profession, were you trained -- was your skill that of Blank page inserted to ensure pagination corresponds between the French and English transcripts. being a mason and a roofer?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 84,
@@ -638,11 +638,11 @@
     },
     {
       "id": 85,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "In approximately January of 1993, did you leave East Germany and travel to Marseille in France?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 86,
@@ -654,11 +654,11 @@
     },
     {
       "id": 87,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Why did you go to Marseille?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 88,
@@ -670,11 +670,11 @@
     },
     {
       "id": 89,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were you able to join the Foreign Legion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 90,
@@ -686,11 +686,11 @@
     },
     {
       "id": 91,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "When you were in Marseille, did you meet any other Germans who were also trying to join the Foreign Legion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 92,
@@ -702,11 +702,11 @@
     },
     {
       "id": 93,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And can you tell us the name of that person?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 94,
@@ -718,11 +718,11 @@
     },
     {
       "id": 95,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Was Jurgen successful in joining the Foreign Legion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 96,
@@ -734,11 +734,11 @@
     },
     {
       "id": 97,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So did then you and Jurgen leave Marseille and travel to a different city?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 98,
@@ -750,11 +750,11 @@
     },
     {
       "id": 99,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And what city did you travel to?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 100,
@@ -766,11 +766,11 @@
     },
     {
       "id": 101,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Approximately what month and what year did you arrive in Zagreb?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 102,
@@ -782,11 +782,11 @@
     },
     {
       "id": 103,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What was the reason why you travelled to Zagreb?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 104,
@@ -798,11 +798,11 @@
     },
     {
       "id": 105,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Tell us what happened then when you arrived in Zagreb?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 106,
@@ -814,11 +814,11 @@
     },
     {
       "id": 107,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "You state that you were introduced to certain officers there. Do you know what army or military organisation they belonged to?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 108,
@@ -830,11 +830,11 @@
     },
     {
       "id": 109,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And you said that you were then sent to Bosnia-Herzegovina. Did these officers of the HV provide you with anything?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 110,
@@ -846,11 +846,11 @@
     },
     {
       "id": 111,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did these officers indicate anywhere in particular where you should go in Bosnia-Herzegovina?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 112,
@@ -862,11 +862,11 @@
     },
     {
       "id": 113,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How long did it take for you to arrive in Mostar, travelling by bus?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 114,
@@ -878,11 +878,11 @@
     },
     {
       "id": 115,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So we are still talking roughly about the period sometime February 1993?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 116,
@@ -894,11 +894,11 @@
     },
     {
       "id": 117,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "When you arrived in Mostar, tell us what happened. Did you attempt to join an army in Mostar?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 118,
@@ -910,11 +910,11 @@
     },
     {
       "id": 119,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, when you say \"we were taken to the Heliodrom,\" who are you referring to?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 120,
@@ -926,11 +926,11 @@
     },
     {
       "id": 121,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And what happened when you arrived at the Heliodrom?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 122,
@@ -942,11 +942,11 @@
     },
     {
       "id": 123,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you recall who the commanders were that you were introduced to at that time?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 124,
@@ -958,11 +958,11 @@
     },
     {
       "id": 125,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you mentioned another German and also a Croatian person who spoke German. Do you recall their names?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 126,
@@ -974,11 +974,11 @@
     },
     {
       "id": 127,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were they -- did they belong to any military organisation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 128,
@@ -990,11 +990,11 @@
     },
     {
       "id": 129,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And within the HVO, do you know if they belonged to a particular unit?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 130,
@@ -1006,11 +1006,11 @@
     },
     {
       "id": 131,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you have a conversation with the person you've named Baja, Lija?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 132,
@@ -1022,11 +1022,11 @@
     },
     {
       "id": 133,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And can you tell us what he said in that conversation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 134,
@@ -1038,11 +1038,11 @@
     },
     {
       "id": 135,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And what happened after this conversation with Lija?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 136,
@@ -1054,11 +1054,11 @@
     },
     {
       "id": 137,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And who informed you that you had to meet with a general?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 138,
@@ -1070,11 +1070,11 @@
     },
     {
       "id": 139,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Let me ask you that question again. You said that you were informed that you had to wait or you had to be introduced to the general who would have the final say. Let me first ask you: Who told you that you had to be introduced to the general?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 140,
@@ -1086,11 +1086,11 @@
     },
     {
       "id": 141,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And did you subsequently learn who was the general that he referred to?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 142,
@@ -1102,11 +1102,11 @@
     },
     {
       "id": 143,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you learn anything else about Tuta at that time?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 144,
@@ -1153,11 +1153,11 @@
     },
     {
       "id": 150,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And as the usher puts those on the ELMO - either one is fine; we will put them both on one after the other - witness, can you tell us if you recognise the person whose photographs were just placed in front of you?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 151,
@@ -1169,11 +1169,11 @@
     },
     {
       "id": 152,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Is this the person that you've just referred to?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 153,
@@ -1192,11 +1192,11 @@
     },
     {
       "id": 155,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, after this particular meeting at the Heliodrom, did you have an opportunity to see this person at other times?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 156,
@@ -1208,11 +1208,11 @@
     },
     {
       "id": 157,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. I think we can withdraw the photographs now. So then you said that you were to be introduced to this -- the general who would decide. Did that meeting then subsequently take place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 158,
@@ -1224,11 +1224,11 @@
     },
     {
       "id": 159,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "When did that happen?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 160,
@@ -1240,11 +1240,11 @@
     },
     {
       "id": 161,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Tell us what happened when you arrived in Siroki Brijeg.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 162,
@@ -1256,11 +1256,11 @@
     },
     {
       "id": 163,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How did you communicate with General Tuta?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 164,
@@ -1272,11 +1272,11 @@
     },
     {
       "id": 165,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Was anyone else present with him at the Cafe Marlboro, if you can recall?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 166,
@@ -1288,11 +1288,11 @@
     },
     {
       "id": 167,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you subsequently learn the identity of any of those other people?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 168,
@@ -1304,11 +1304,11 @@
     },
     {
       "id": 169,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did anyone accompany you to Siroki Brijeg from Mostar?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 170,
@@ -1320,11 +1320,11 @@
     },
     {
       "id": 171,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And was Jurgen also with you? Blank page inserted to ensure pagination corresponds between the French and English transcripts.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 172,
@@ -1336,11 +1336,11 @@
     },
     {
       "id": 173,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How was Tuta dressed at this meeting?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 174,
@@ -1352,11 +1352,11 @@
     },
     {
       "id": 175,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Can you tell us what was said by you and by Tuta when you met with him there?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 176,
@@ -1368,11 +1368,11 @@
     },
     {
       "id": 177,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, when you told Tuta that you had military training, were you telling him the truth?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 178,
@@ -1384,11 +1384,11 @@
     },
     {
       "id": 179,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Can you recall anything else that was said at this meeting?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 180,
@@ -1400,11 +1400,11 @@
     },
     {
       "id": 181,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What took place after this meeting occurred?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 182,
@@ -1416,11 +1416,11 @@
     },
     {
       "id": 183,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know what was written on this sheet of paper? What was it about?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 184,
@@ -1432,11 +1432,11 @@
     },
     {
       "id": 185,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So then after you had this meeting with Tuta, you said that you went back to the Heliodrom in Mostar. What happened then back at the Heliodrom?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 186,
@@ -1448,11 +1448,11 @@
     },
     {
       "id": 187,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you receive any supplies or equipment then after you did this paperwork?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 188,
@@ -1464,11 +1464,11 @@
     },
     {
       "id": 189,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, at the time that you were doing the paperwork in Mostar, did anyone tell you about any rules that applied to your joining?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 190,
@@ -1480,11 +1480,11 @@
     },
     {
       "id": 191,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, at this point when you were at the Heliodrom, what group or army did you think you were joining? What was your understanding?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 192,
@@ -1496,11 +1496,11 @@
     },
     {
       "id": 193,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And then did that change at some point?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 194,
@@ -1512,11 +1512,11 @@
     },
     {
       "id": 195,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, a moment ago I think you were starting -- I had asked you about military supplies or equipment that you received. Where did you receive those?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 196,
@@ -1528,11 +1528,11 @@
     },
     {
       "id": 197,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What sorts of things did you then receive in Siroki Brijeg?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 198,
@@ -1544,11 +1544,11 @@
     },
     {
       "id": 199,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "At any point did you receive an identification card?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 200,
@@ -1567,11 +1567,11 @@
     },
     {
       "id": 202,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. Witness, you've just been handed two pieces of paper, and can you tell us if you recognise what's been placed before you?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 203,
@@ -1583,11 +1583,11 @@
     },
     {
       "id": 204,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Can you tell us when and how that was made?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 205,
@@ -1599,11 +1599,11 @@
     },
     {
       "id": 206,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, Mr. Simang, looking at the identification, it appears to be dated 27th of April, 1993. Are you able to explain the time difference between what I thought was February 1993, this being dated April 1993?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 207,
@@ -1615,11 +1615,11 @@
     },
     {
       "id": 208,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And so do you recognise this as an ID card that you received?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 209,
@@ -1631,11 +1631,11 @@
     },
     {
       "id": 210,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you testified that you were informed, in fact, that you would be assigned to the Kaznjenicka Bojna, the Convicts Battalion. Where was the Convicts Battalion based?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 211,
@@ -1647,11 +1647,11 @@
     },
     {
       "id": 212,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, we are talking about, I believe, February of 1993. Tell us, from that point forward -- from that point forward, how long did you remain a member of the Convicts Battalion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 213,
@@ -1663,11 +1663,11 @@
     },
     {
       "id": 214,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you recall when that was?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 215,
@@ -1679,11 +1679,11 @@
     },
     {
       "id": 216,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "At the time that you left, was the conflict between the Muslims and the Croats still going on?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 217,
@@ -1702,11 +1702,11 @@
     },
     {
       "id": 219,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, do you recognise the photograph that's now been placed on the ELMO?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 220,
@@ -1718,11 +1718,11 @@
     },
     {
       "id": 221,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And how long did you live at this place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 222,
@@ -1734,11 +1734,11 @@
     },
     {
       "id": 223,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And during that period, what rank or position did you hold in the Convicts Battalion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 224,
@@ -1750,11 +1750,11 @@
     },
     {
       "id": 225,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Can you tell us generally what sorts of tasks you were assigned to perform during military operations of the Convicts Battalion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 226,
@@ -1766,11 +1766,11 @@
     },
     {
       "id": 227,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How were you paid?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 228,
@@ -1782,11 +1782,11 @@
     },
     {
       "id": 229,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Is that per month?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 230,
@@ -1798,11 +1798,11 @@
     },
     {
       "id": 231,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, again, generally speaking, during this period, February 1993 until the time you left the Convicts Battalion, tell us, as far as you know, how the Convicts Battalion was organised. What was its structure?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 232,
@@ -1814,11 +1814,11 @@
     },
     {
       "id": 233,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were subordinates of -- were other soldiers based in other places outside of Siroki Brijeg?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 234,
@@ -1830,11 +1830,11 @@
     },
     {
       "id": 235,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "You said earlier that Lija was the commander of the anti-terrorist group or ATG. What is ATG?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 236,
@@ -1846,11 +1846,11 @@
     },
     {
       "id": 237,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did General Tuta have any superiors, as far as you knew?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 238,
@@ -1869,11 +1869,11 @@
     },
     {
       "id": 240,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. Now, Witness, are you able to recognise this place which appears on this photograph?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 241,
@@ -1892,11 +1892,11 @@
     },
     {
       "id": 243,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Witness, are you able to recognise this photograph?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 244,
@@ -1915,11 +1915,11 @@
     },
     {
       "id": 246,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Witness, let me ask you first, you mentioned the Cafe Marlboro. Is the Cafe Marlboro shown in this photograph?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 247,
@@ -1938,11 +1938,11 @@
     },
     {
       "id": 249,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, if you can -- and if it would assist you just to hold the photograph for a moment again, just let us know.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 250,
@@ -1954,11 +1954,11 @@
     },
     {
       "id": 251,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, are you --",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 252,
@@ -1970,11 +1970,11 @@
     },
     {
       "id": 253,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So just for the record, is the Marlboro Cafe shown in its entirety on this photograph?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 254,
@@ -1986,11 +1986,11 @@
     },
     {
       "id": 255,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 256,
@@ -2001,11 +2001,11 @@
     },
     {
       "id": 257,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, I'm going to ask you to place a circle in the area in which you're indicating would be the location of the Cafe Marlboro. And, Witness, while you've got the pen, you've just mentioned that your base was there, and so I'm going to ask you also --",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 258,
@@ -2017,11 +2017,11 @@
     },
     {
       "id": 259,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. We can set the photograph aside then. We can withdraw the photograph. Now, during the time that you were a member of the Convicts Battalion, tell us generally what was the daily routine, if there was a daily routine there in Siroki Brijeg for members of the Convicts Battalion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 260,
@@ -2033,11 +2033,11 @@
     },
     {
       "id": 261,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What was the difference between stage green, yellow, or red?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 262,
@@ -2049,11 +2049,11 @@
     },
     {
       "id": 263,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "You mentioned a roll call. Who would do the roll call?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 264,
@@ -2065,11 +2065,11 @@
     },
     {
       "id": 265,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Who was Ivan Andabak?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 266,
@@ -2081,11 +2081,11 @@
     },
     {
       "id": 267,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What was his role in the Convicts Battalion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 268,
@@ -2097,11 +2097,11 @@
     },
     {
       "id": 269,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What languages did he speak?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 270,
@@ -2113,11 +2113,11 @@
     },
     {
       "id": 271,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you ever have occasion to see him using his Spanish language skills?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 272,
@@ -2129,11 +2129,11 @@
     },
     {
       "id": 273,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know if Andabak ever received a promotion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 274,
@@ -2145,11 +2145,11 @@
     },
     {
       "id": 275,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you recall when that occurred generally?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 276,
@@ -2161,11 +2161,11 @@
     },
     {
       "id": 277,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Who promoted him to the rank of general?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 278,
@@ -2177,11 +2177,11 @@
     },
     {
       "id": 279,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And how do you know that?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 280,
@@ -2193,11 +2193,11 @@
     },
     {
       "id": 281,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Where did the ceremony take place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 282,
@@ -2209,11 +2209,11 @@
     },
     {
       "id": 283,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Was this in Siroki Brijeg?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 284,
@@ -2225,11 +2225,11 @@
     },
     {
       "id": 285,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "You mentioned that -- you mentioned also the name of someone named Cikota. Who is Cikota?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 286,
@@ -2241,11 +2241,11 @@
     },
     {
       "id": 287,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What was his position in the Convicts Battalion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 288,
@@ -2257,11 +2257,11 @@
     },
     {
       "id": 289,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Who was superior to him in the chain of command?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 290,
@@ -2308,11 +2308,11 @@
     },
     {
       "id": 296,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, Mr. Simang, during the time that you were a member of the Convicts Battalion, did the Convicts Battalion participate in any military operations in a place called Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 297,
@@ -2324,11 +2324,11 @@
     },
     {
       "id": 298,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And did you participate in any of those military operations yourself?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 299,
@@ -2340,11 +2340,11 @@
     },
     {
       "id": 300,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How many times were you involved in operations in Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 301,
@@ -2356,11 +2356,11 @@
     },
     {
       "id": 302,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Can you recall approximately what month these operations took place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 303,
@@ -2372,11 +2372,11 @@
     },
     {
       "id": 304,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So you're saying that the first operation in Doljani was the one in which Cikota was killed?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 305,
@@ -2388,11 +2388,11 @@
     },
     {
       "id": 306,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Let me ask you some questions, then, about the operation that occurred there prior to or at the time Cikota was killed. First, let me ask, if you know, what was the objective of this first operation at Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 307,
@@ -2404,11 +2404,11 @@
     },
     {
       "id": 308,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know how many members of the Convicts Battalion were deployed in this operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 309,
@@ -2420,11 +2420,11 @@
     },
     {
       "id": 310,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "When you say the ATG, are you able to identify a particular ATG?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 311,
@@ -2436,11 +2436,11 @@
     },
     {
       "id": 312,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And again, who was the commander of that particular ATG?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 313,
@@ -2452,11 +2452,11 @@
     },
     {
       "id": 314,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you and other members of the Convicts Battalion go directly from Siroki Brijeg to Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 315,
@@ -2468,11 +2468,11 @@
     },
     {
       "id": 316,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What did you do at Masna Luka and how long did you stay there?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 317,
@@ -2484,11 +2484,11 @@
     },
     {
       "id": 318,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What was your own task in this operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 319,
@@ -2500,11 +2500,11 @@
     },
     {
       "id": 320,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "The English word that I just received is \"cleansing.\" Tell us what you mean by \"cleansing.\"",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 321,
@@ -2516,11 +2516,11 @@
     },
     {
       "id": 322,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Tell us how you participated in that task.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 323,
@@ -2532,11 +2532,11 @@
     },
     {
       "id": 324,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And what was done with persons who were found in those houses?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 325,
@@ -2548,11 +2548,11 @@
     },
     {
       "id": 326,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you mentioned also something about taking a bunker. What -- can you explain that?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 327,
@@ -2564,11 +2564,11 @@
     },
     {
       "id": 328,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How did you learn that he was killed?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 329,
@@ -2580,11 +2580,11 @@
     },
     {
       "id": 330,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How did you personally learn that Cikota had been killed in this operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 331,
@@ -2596,11 +2596,11 @@
     },
     {
       "id": 332,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, did -- was any base or headquarters established for this Doljani operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 333,
@@ -2612,11 +2612,11 @@
     },
     {
       "id": 334,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Can you describe this place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 335,
@@ -2650,11 +2650,11 @@
     },
     {
       "id": 339,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. We're talking about all three photographs. Is it your testimony that they show this base that you've just described?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 340,
@@ -2673,11 +2673,11 @@
     },
     {
       "id": 342,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you just talked about when Cikota was killed in this operation. Tell us then what happened after that occurred.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 343,
@@ -2689,11 +2689,11 @@
     },
     {
       "id": 344,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So did any further military operations take place at that time in Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 345,
@@ -2705,11 +2705,11 @@
     },
     {
       "id": 346,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How long were you in Doljani, you personally, how long were you in Doljani before Cikota was killed?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 347,
@@ -2721,11 +2721,11 @@
     },
     {
       "id": 348,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, during this day, this operation, do you know if any Muslims were captured in Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 349,
@@ -2737,11 +2737,11 @@
     },
     {
       "id": 350,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And do you know what happened to them?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 351,
@@ -2753,11 +2753,11 @@
     },
     {
       "id": 352,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "When you say \"the base,\" are you talking about the photographs that you were just looking at?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 353,
@@ -2769,11 +2769,11 @@
     },
     {
       "id": 354,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were any prisoners removed from Doljani and taken to a different town during that first operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 355,
@@ -2785,11 +2785,11 @@
     },
     {
       "id": 356,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, did you personally participate in that transport to Ljubuski?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 357,
@@ -2801,11 +2801,11 @@
     },
     {
       "id": 358,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you stated that the Convicts Battalion withdrew and returned to Siroki Brijeg for the funeral. Were you present in Siroki Brijeg when the funeral of Cikota took place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 359,
@@ -2817,11 +2817,11 @@
     },
     {
       "id": 360,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How many days did the Convicts Battalion remain in Siroki Brijeg for the funeral of Cikota?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 361,
@@ -2833,11 +2833,11 @@
     },
     {
       "id": 362,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And then after those few days, what did the Convicts Battalion do?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 363,
@@ -2849,11 +2849,11 @@
     },
     {
       "id": 364,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And what was the purpose of going back to Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 365,
@@ -2865,11 +2865,11 @@
     },
     {
       "id": 366,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, what were your orders in respect of that second operation at Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 367,
@@ -2881,11 +2881,11 @@
     },
     {
       "id": 368,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How did you receive those orders?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 369,
@@ -2897,11 +2897,11 @@
     },
     {
       "id": 370,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Who personally gave you that order?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 371,
@@ -2913,11 +2913,11 @@
     },
     {
       "id": 372,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were those orders carried out during this operation in Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 373,
@@ -2929,11 +2929,11 @@
     },
     {
       "id": 374,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, during what we are now calling the second operation at Doljani, were any Muslim prisoners captured at that time?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 375,
@@ -2945,11 +2945,11 @@
     },
     {
       "id": 376,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And what was done, then, with those prisoners?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 377,
@@ -2961,11 +2961,11 @@
     },
     {
       "id": 378,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know whether those prisoners were mistreated in any way?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 379,
@@ -2984,11 +2984,11 @@
     },
     {
       "id": 381,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, looking again, for the record, what is this place that we are looking at here?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 382,
@@ -3000,11 +3000,11 @@
     },
     {
       "id": 383,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were any other commanders of the Convicts Battalion based in this location?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 384,
@@ -3016,11 +3016,11 @@
     },
     {
       "id": 385,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "You were describing beatings that took place at this location. Perhaps if you could use the pointer, you could indicate the location where the beatings were occurring.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 386,
@@ -3032,11 +3032,11 @@
     },
     {
       "id": 387,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What was taking place at the wooden shed?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 388,
@@ -3048,11 +3048,11 @@
     },
     {
       "id": 389,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. Now, I want to go through this event in greater detail. Were prisoners beaten before Tuta and Andabak arrived?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 390,
@@ -3064,11 +3064,11 @@
     },
     {
       "id": 391,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Who was beating the prisoners at that time?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 392,
@@ -3080,11 +3080,11 @@
     },
     {
       "id": 393,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you participate in the beating of the prisoners at that time?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 394,
@@ -3096,11 +3096,11 @@
     },
     {
       "id": 395,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "You said that they were crawling. What was the ground like in that area?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 396,
@@ -3112,11 +3112,11 @@
     },
     {
       "id": 397,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How many prisoners, approximately, were in your custody there on that occasion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 398,
@@ -3128,11 +3128,11 @@
     },
     {
       "id": 399,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How long did these beatings take place before Tuta and Andabak arrived?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 400,
@@ -3144,11 +3144,11 @@
     },
     {
       "id": 401,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Can you give an approximation? Are we talking about several hours, or some shorter period of time?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 402,
@@ -3160,11 +3160,11 @@
     },
     {
       "id": 403,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So just so we are clear, you were not present in the place where these people were captured?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 404,
@@ -3176,11 +3176,11 @@
     },
     {
       "id": 405,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, taking the pointer again would you please indicate the location in which these beatings were taking place before the arrival of Tuta and Andabak?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 406,
@@ -3192,11 +3192,11 @@
     },
     {
       "id": 407,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, at this time taking a marker, if you would please place a number 1 to indicate the location where the prisoners were crawling through the mud and being beaten.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 408,
@@ -3208,11 +3208,11 @@
     },
     {
       "id": 409,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. I'd like for you to put a -- before you give the photo back to the usher, please put a number 2 at the location of the wooden shed.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 410,
@@ -3224,11 +3224,11 @@
     },
     {
       "id": 411,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. Now, tell us what then occurred after Tuta and Andabak arrived.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 412,
@@ -3240,11 +3240,11 @@
     },
     {
       "id": 413,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, at some point while these interrogations were taking place, did a different group of people arrive?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 414,
@@ -3256,11 +3256,11 @@
     },
     {
       "id": 415,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Again perhaps using the photograph and the pointer, could you indicate where they came from or where they became apparent to you and the others who were at that headquarters?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 416,
@@ -3272,11 +3272,11 @@
     },
     {
       "id": 417,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. Perhaps you could put a number 3 at that location.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 418,
@@ -3288,11 +3288,11 @@
     },
     {
       "id": 419,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So what occurred when these UNPROFOR people showed up?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 420,
@@ -3304,11 +3304,11 @@
     },
     {
       "id": 421,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And after they left -- well, let me first ask you, while they were there, what was happening with the prisoners while these UNPROFOR people were present?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 422,
@@ -3320,11 +3320,11 @@
     },
     {
       "id": 423,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you ever learn what the UNPROFOR people were told by Andabak?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 424,
@@ -3336,11 +3336,11 @@
     },
     {
       "id": 425,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Then after the UNPROFOR people left, what happened?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 426,
@@ -3352,11 +3352,11 @@
     },
     {
       "id": 427,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Let me first ask you about interrogations. How many of the prisoners were interrogated?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 428,
@@ -3368,11 +3368,11 @@
     },
     {
       "id": 429,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Who interrogated them?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 430,
@@ -3384,11 +3384,11 @@
     },
     {
       "id": 431,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know if they were mistreated during the interrogations?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 432,
@@ -3400,11 +3400,11 @@
     },
     {
       "id": 433,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you've indicated that the prisoners were led into the woods behind the shed. When did that occur?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 434,
@@ -3416,11 +3416,11 @@
     },
     {
       "id": 435,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Who led them into the woods?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 436,
@@ -3432,11 +3432,11 @@
     },
     {
       "id": 437,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know why they did that?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 438,
@@ -3448,11 +3448,11 @@
     },
     {
       "id": 439,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were any orders given in respect of those prisoners?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 440,
@@ -3464,11 +3464,11 @@
     },
     {
       "id": 441,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you hear others being given orders?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 442,
@@ -3480,11 +3480,11 @@
     },
     {
       "id": 443,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What happened after those prisoners were led into the woods?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 444,
@@ -3509,11 +3509,11 @@
     },
     {
       "id": 447,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you see what happened to those prisoners after they were led into the woods?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 448,
@@ -3525,11 +3525,11 @@
     },
     {
       "id": 449,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you hear what happened in the woods?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 450,
@@ -3541,11 +3541,11 @@
     },
     {
       "id": 451,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Where was the shooting coming from?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 452,
@@ -3557,11 +3557,11 @@
     },
     {
       "id": 453,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you see anyone come out of the woods subsequently?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 454,
@@ -3573,11 +3573,11 @@
     },
     {
       "id": 455,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Which people are you talking about?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 456,
@@ -3589,11 +3589,11 @@
     },
     {
       "id": 457,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How long were they in the woods?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 458,
@@ -3605,11 +3605,11 @@
     },
     {
       "id": 459,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What did those soldiers do after they returned from the woods?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 460,
@@ -3621,11 +3621,11 @@
     },
     {
       "id": 461,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know why they replenished their magazines?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 462,
@@ -3650,11 +3650,11 @@
     },
     {
       "id": 465,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, can you tell us, if you know, why then did they replenish their magazines?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 466,
@@ -3666,11 +3666,11 @@
     },
     {
       "id": 467,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. Now, during this second operation in Doljani that we are talking about, you've been talking about Muslim prisoners. Perhaps we should clarify. Were those prisoners soldiers or civilians?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 468,
@@ -3682,11 +3682,11 @@
     },
     {
       "id": 469,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know which army they belonged to?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 470,
@@ -3698,11 +3698,11 @@
     },
     {
       "id": 471,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, were any civilians, particularly Muslim civilians, present in Doljani during this operation after the funeral of Cikota?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 472,
@@ -3714,11 +3714,11 @@
     },
     {
       "id": 473,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "I'm sorry, I will ask the question again. After the funeral of Cikota, after the Convicts Battalion returned to Doljani, did you find any Muslim civilians in the village?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 474,
@@ -3730,11 +3730,11 @@
     },
     {
       "id": 475,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Can you tell us how the civilians -- first of all, how were you able to identify persons as being civilians?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 476,
@@ -3746,11 +3746,11 @@
     },
     {
       "id": 477,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How were the civilians treated?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 478,
@@ -3762,11 +3762,11 @@
     },
     {
       "id": 479,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And why were they driven out from the mosque?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 480,
@@ -3778,11 +3778,11 @@
     },
     {
       "id": 481,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Why was the mosque going to be blown up?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 482,
@@ -3794,11 +3794,11 @@
     },
     {
       "id": 483,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you receive an order regarding the mosque?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 484,
@@ -3810,11 +3810,11 @@
     },
     {
       "id": 485,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What was done with the mosque? What happened to it?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 486,
@@ -3826,11 +3826,11 @@
     },
     {
       "id": 487,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Who attached explosives to the mosque?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 488,
@@ -3842,11 +3842,11 @@
     },
     {
       "id": 489,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you hear the explosion of the mosque?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 490,
@@ -3858,11 +3858,11 @@
     },
     {
       "id": 491,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "These soldiers who placed explosives there, why did they do that?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 492,
@@ -3874,11 +3874,11 @@
     },
     {
       "id": 493,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you see -- well, were any houses in Doljani damaged at that time?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 494,
@@ -3890,11 +3890,11 @@
     },
     {
       "id": 495,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you receive any orders in respect of the Muslim houses?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 496,
@@ -3906,11 +3906,11 @@
     },
     {
       "id": 497,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Are you aware of any orders that were carried out?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 498,
@@ -3922,11 +3922,11 @@
     },
     {
       "id": 499,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were the soldiers doing this on their own?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 500,
@@ -3958,11 +3958,11 @@
     },
     {
       "id": 504,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, were you present when houses were burned?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 505,
@@ -3974,11 +3974,11 @@
     },
     {
       "id": 506,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And who was participating in the burning of the houses?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 507,
@@ -3990,11 +3990,11 @@
     },
     {
       "id": 508,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And which unit is that?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 509,
@@ -4048,11 +4048,11 @@
     },
     {
       "id": 516,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "At the time the houses were burned or prior to, were they being used for any military purpose?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 517,
@@ -4064,11 +4064,11 @@
     },
     {
       "id": 518,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How did the members of the Convicts Battalion know which houses were Muslim houses?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 519,
@@ -4080,11 +4080,11 @@
     },
     {
       "id": 520,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What was done with houses of Croats at this time?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 521,
@@ -4096,11 +4096,11 @@
     },
     {
       "id": 522,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Was anything done with other property of Muslims in the village?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 523,
@@ -4112,11 +4112,11 @@
     },
     {
       "id": 524,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What sorts of things were taken?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 525,
@@ -4128,11 +4128,11 @@
     },
     {
       "id": 526,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Where was Tuta while this was taking place, if you know?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 527,
@@ -4144,11 +4144,11 @@
     },
     {
       "id": 528,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "The base in Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 529,
@@ -4160,11 +4160,11 @@
     },
     {
       "id": 530,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did he see -- was he present when this looting was taking place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 531,
@@ -4176,11 +4176,11 @@
     },
     {
       "id": 532,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Was he present or was he aware that others were looting?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 533,
@@ -4192,11 +4192,11 @@
     },
     {
       "id": 534,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And was he in a position also to see Muslim houses burning?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 535,
@@ -4208,11 +4208,11 @@
     },
     {
       "id": 536,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Was -- I may have asked this before. If I did, I apologise. The mosque in Doljani, was it used for any military purpose?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 537,
@@ -4224,11 +4224,11 @@
     },
     {
       "id": 538,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "By anyone.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 539,
@@ -4240,11 +4240,11 @@
     },
     {
       "id": 540,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What was the mosque used for?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 541,
@@ -4256,11 +4256,11 @@
     },
     {
       "id": 542,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. How many -- how long did you and the other members of the Convicts Battalion remain in Doljani on this occasion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 543,
@@ -4272,11 +4272,11 @@
     },
     {
       "id": 544,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, do you know if any members of the Convicts Battalion received any sorts of awards or recommendations, recognition, I should say, in connection with the operation in Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 545,
@@ -4288,11 +4288,11 @@
     },
     {
       "id": 546,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. I didn't ask about a reward. I was asking more in terms of recognition in an official capacity.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 547,
@@ -4304,11 +4304,11 @@
     },
     {
       "id": 548,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. Now, Mr. Simang, I'd like to change the topic and ask you now if you and other members of the Convicts Battalion participated in any military operations in the city of Mostar.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 549,
@@ -4320,11 +4320,11 @@
     },
     {
       "id": 550,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And before we start talking about those -- I will just go directly to the first, the first operation which you can recall [no microphone], the first time you participated in an operation in Mostar. Are you able to tell us roughly when that occurred?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 551,
@@ -4349,11 +4349,11 @@
     },
     {
       "id": 554,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, I'll just ask you again. The first time, the first operation in Mostar, can you tell us approximately what month that took place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 555,
@@ -4365,11 +4365,11 @@
     },
     {
       "id": 556,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Describe for us what this first operation -- what occurred and what was your task?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 557,
@@ -4381,11 +4381,11 @@
     },
     {
       "id": 558,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. Let me ask you some questions about that. You -- first of all, starting with the last part of what you just said, you said, \"It was dark and all barrels were fired at the other side.\" Can you be more specific? What's the location that was being fired into?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 559,
@@ -4397,11 +4397,11 @@
     },
     {
       "id": 560,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And you said it was still dark. Did the attack begin while it was still dark?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 561,
@@ -4413,11 +4413,11 @@
     },
     {
       "id": 562,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And what weapon were you using?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 563,
@@ -4429,11 +4429,11 @@
     },
     {
       "id": 564,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know what other sorts of weapons were used in this operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 565,
@@ -4445,11 +4445,11 @@
     },
     {
       "id": 566,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "You said that you were firing into the other side. Again, I just want to be very clear, if you can tell us, what side of Mostar, geographically, were you firing into?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 567,
@@ -4461,11 +4461,11 @@
     },
     {
       "id": 568,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you have specific targets in that Muslim side?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 569,
@@ -4477,11 +4477,11 @@
     },
     {
       "id": 570,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, as time went on that day, did -- were you given other targets to fire at?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 571,
@@ -4493,11 +4493,11 @@
     },
     {
       "id": 572,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How were you informed of those other targets?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 573,
@@ -4509,11 +4509,11 @@
     },
     {
       "id": 574,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And with whom did you speak on the Motorola?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 575,
@@ -4525,11 +4525,11 @@
     },
     {
       "id": 576,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "At that point, what targets did you give you?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 577,
@@ -4541,11 +4541,11 @@
     },
     {
       "id": 578,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How long did this operation last?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 579,
@@ -4557,11 +4557,11 @@
     },
     {
       "id": 580,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know where Tuta was located while this attack was taking place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 581,
@@ -4573,11 +4573,11 @@
     },
     {
       "id": 582,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know what town he was in?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 583,
@@ -4589,11 +4589,11 @@
     },
     {
       "id": 584,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Could you communicate from Mostar to Siroki Brijeg by Motorola?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 585,
@@ -4605,11 +4605,11 @@
     },
     {
       "id": 586,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know where the ministry was located?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 587,
@@ -4621,11 +4621,11 @@
     },
     {
       "id": 588,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Just to be clear, do you know in what city or town this ministry that you're referring to was located?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 589,
@@ -4637,11 +4637,11 @@
     },
     {
       "id": 590,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. Do you know what was the objective of this attack on Mostar that you've just described?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 591,
@@ -4653,11 +4653,11 @@
     },
     {
       "id": 592,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, Mr. Simang, I'd like to ask you some questions about other military operations that occurred in Mostar. What was the next operation that you can recall?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 593,
@@ -4669,11 +4669,11 @@
     },
     {
       "id": 594,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Are you able to tell us again approximately when this occurred?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 595,
@@ -4685,11 +4685,11 @@
     },
     {
       "id": 596,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. You said that the objective or that you cleansed the entire side after troops had been massed there. Tell us what do you mean by cleansing the entire side?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 597,
@@ -4701,11 +4701,11 @@
     },
     {
       "id": 598,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "From whom did you receive your instructions about what to do that day?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 599,
@@ -4717,11 +4717,11 @@
     },
     {
       "id": 600,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "The people who were driven from their houses, can you tell us generally what group that belonged to?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 601,
@@ -4733,11 +4733,11 @@
     },
     {
       "id": 602,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And what were your instructions in terms of what to do with those Muslims?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 603,
@@ -4749,11 +4749,11 @@
     },
     {
       "id": 604,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, this operation that you're describing in Mostar, can you tell us approximately how long it lasted? Blank page inserted to ensure pagination corresponds between the French and English transcripts.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 605,
@@ -4765,11 +4765,11 @@
     },
     {
       "id": 606,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Where did you stay at night during this operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 607,
@@ -4781,11 +4781,11 @@
     },
     {
       "id": 608,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did other members of the Convicts Battalion participate in this operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 609,
@@ -4797,11 +4797,11 @@
     },
     {
       "id": 610,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And just to be clear, you said the \"HV.\" What unit are you referring to?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 611,
@@ -4813,11 +4813,11 @@
     },
     {
       "id": 612,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How were you able to recognise members of the Croatian army?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 613,
@@ -4829,11 +4829,11 @@
     },
     {
       "id": 614,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know what actions the HV members were doing in Mostar at that time?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 615,
@@ -4845,11 +4845,11 @@
     },
     {
       "id": 616,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know who was the commander of the Croatian army units which were present?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 617,
@@ -4861,11 +4861,11 @@
     },
     {
       "id": 618,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you see General Praljak in Mostar at that time?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 619,
@@ -4877,11 +4877,11 @@
     },
     {
       "id": 620,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you have an idea roughly how many soldiers combined participated in this operation which you've been describing?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 621,
@@ -4893,11 +4893,11 @@
     },
     {
       "id": 622,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How were you able to locate Muslims who were driven out of their homes?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 623,
@@ -4909,11 +4909,11 @@
     },
     {
       "id": 624,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, could you describe for us if there is a typical example of how one of these cleansing events took place? How did you actually drive the people out of their homes?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 625,
@@ -4925,11 +4925,11 @@
     },
     {
       "id": 626,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Was it ever necessary to use force in order to accomplish this task?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 627,
@@ -4941,11 +4941,11 @@
     },
     {
       "id": 628,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you see any Muslims mistreated during this operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 629,
@@ -4957,11 +4957,11 @@
     },
     {
       "id": 630,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were any beatings -- did any beatings occur?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 631,
@@ -4973,11 +4973,11 @@
     },
     {
       "id": 632,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "I'll ask the witness -- let me first ask you, Mr. Simang, during this operation, did you communicate with Tuta?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 633,
@@ -5010,11 +5010,11 @@
     },
     {
       "id": 637,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, before we go to the photograph, let me ask you about that. You've described already the events in Doljani in which your commander, Cikota, was killed. The events that you're now describing in Mostar, do you know if that occurred before or after the events in Doljani?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 638,
@@ -5026,11 +5026,11 @@
     },
     {
       "id": 639,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So you associate the attack you're now describing as being the beginning of the war, if you will?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 640,
@@ -5049,11 +5049,11 @@
     },
     {
       "id": 642,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Simang, have you had an opportunity to look at the photograph that's been marked Exhibit 36?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 643,
@@ -5065,11 +5065,11 @@
     },
     {
       "id": 644,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "I want to ask you, with the pointer, and then I'm going to ask you to place some marks on this photograph, if you recognise any of the people who are shown in this photograph.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 645,
@@ -5213,11 +5213,11 @@
     },
     {
       "id": 665,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. Mr. Simang, looking at this photograph, I'd like you to tell us if you recognise any of the people whose faces appear in that photograph.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 666,
@@ -5229,11 +5229,11 @@
     },
     {
       "id": 667,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What are the names of the people that you recognise?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 668,
@@ -5245,11 +5245,11 @@
     },
     {
       "id": 669,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "If you could take a pen, I'm going to ask you to place a circle around the heads of each of the persons you've just mentioned. A circle.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 670,
@@ -5261,11 +5261,11 @@
     },
     {
       "id": 671,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And now while you've got the marker in your hand, place a number 1 next to the person you're calling General Tuta.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 672,
@@ -5277,11 +5277,11 @@
     },
     {
       "id": 673,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "A number 2 above the circle of the person you're calling Andabak?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 674,
@@ -5293,11 +5293,11 @@
     },
     {
       "id": 675,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And number 3 around the person or by the circle of the person you're calling Praljak.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 676,
@@ -5309,11 +5309,11 @@
     },
     {
       "id": 677,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. Now we can place that on the ELMO. Now, Mr. Simang, this person Praljak, if you could just tell us again where you saw this person.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 678,
@@ -5325,11 +5325,11 @@
     },
     {
       "id": 679,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. And that's something that you mentioned already earlier today in your testimony; is that right?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 680,
@@ -5341,11 +5341,11 @@
     },
     {
       "id": 681,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know in respect of that Mostar operation what was the position of Mr. Praljak?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 682,
@@ -5357,11 +5357,11 @@
     },
     {
       "id": 683,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "You said \"his troops.\" What troops are you referring to?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 684,
@@ -5373,11 +5373,11 @@
     },
     {
       "id": 685,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "This person Praljak, did you see him on any other occasions?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 686,
@@ -5389,11 +5389,11 @@
     },
     {
       "id": 687,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you ever see him in Siroki Brijeg?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 688,
@@ -5405,11 +5405,11 @@
     },
     {
       "id": 689,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Before the lunch break, you were testifying about an operation in Mostar in which you were driving people from their homes. And again, just so we're clear, what people or group of people are we talking about who were driven from their homes?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 690,
@@ -5421,11 +5421,11 @@
     },
     {
       "id": 691,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What kind of places were they living in? Where were these people found?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 692,
@@ -5437,11 +5437,11 @@
     },
     {
       "id": 693,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "You say \"their flats.\" What do you mean by that?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 694,
@@ -5453,11 +5453,11 @@
     },
     {
       "id": 695,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, during this operation, what was done with Croat inhabitants whom you encountered?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 696,
@@ -5469,11 +5469,11 @@
     },
     {
       "id": 697,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Why not?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 698,
@@ -5485,11 +5485,11 @@
     },
     {
       "id": 699,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Who was in command of this operation which you've been describing?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 700,
@@ -5501,11 +5501,11 @@
     },
     {
       "id": 701,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know where he was located during this operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 702,
@@ -5517,11 +5517,11 @@
     },
     {
       "id": 703,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And again, what town or city was the ministry located in?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 704,
@@ -5533,11 +5533,11 @@
     },
     {
       "id": 705,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "During this operation, were there any Muslims who resisted leaving their flats?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 706,
@@ -5549,11 +5549,11 @@
     },
     {
       "id": 707,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "During this operation, did you attempt to distinguish between civilians and Muslim soldiers?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 708,
@@ -5565,11 +5565,11 @@
     },
     {
       "id": 709,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Why not?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 710,
@@ -5581,11 +5581,11 @@
     },
     {
       "id": 711,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know why the civilians were forced from their homes on that day in Mostar?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 712,
@@ -5597,11 +5597,11 @@
     },
     {
       "id": 713,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, after the Muslims were removed from their homes and their flats, what happened to their property that was inside those places?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 714,
@@ -5613,11 +5613,11 @@
     },
     {
       "id": 715,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were any of your commanding officers aware that this was taking place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 716,
@@ -5629,11 +5629,11 @@
     },
     {
       "id": 717,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And why do you say that?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 718,
@@ -5645,11 +5645,11 @@
     },
     {
       "id": 719,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, when we talk about commanders, who are we talking about that knew about the taking of property?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 720,
@@ -5661,11 +5661,11 @@
     },
     {
       "id": 721,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "To your knowledge, were any members of the Convicts Battalion ever punished for taking the property of Muslims from Mostar?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 722,
@@ -5677,11 +5677,11 @@
     },
     {
       "id": 723,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you've just said that during this operation, you believe Tuta was located at the ministry in Mostar. Did you ever see him there?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 724,
@@ -5693,11 +5693,11 @@
     },
     {
       "id": 725,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And now I'm talking about these days of this Mostar operation that you've been describing.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 726,
@@ -5709,11 +5709,11 @@
     },
     {
       "id": 727,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you see him there with any prisoners?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 728,
@@ -5725,11 +5725,11 @@
     },
     {
       "id": 729,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "We can take a pause, if you like.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 730,
@@ -5741,11 +5741,11 @@
     },
     {
       "id": 731,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you need some water? Can you tell us what happened to the prisoners who were at the ministry that you've described?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 732,
@@ -5757,11 +5757,11 @@
     },
     {
       "id": 733,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "First let me start by asking you if you [no microphone] -- let me first ask you to describe this group of prisoners you're talking about now. How many people and what kind of people were they?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 734,
@@ -5773,11 +5773,11 @@
     },
     {
       "id": 735,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How were they dressed?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 736,
@@ -5789,11 +5789,11 @@
     },
     {
       "id": 737,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What was your position as you were observing this? How far away were you?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 738,
@@ -5805,11 +5805,11 @@
     },
     {
       "id": 739,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you said that they had to show their hands. Do you know why they had to do that? Blank page inserted to ensure pagination corresponds between the French and English transcripts.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 740,
@@ -5821,11 +5821,11 @@
     },
     {
       "id": 741,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you said that you saw Tuta take his pistol and shoot one of the prisoners. Can you please describe for us exactly what you saw as you recall that today?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 742,
@@ -5837,11 +5837,11 @@
     },
     {
       "id": 743,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Where did he shoot him? In what part of his body was this person shot?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 744,
@@ -5853,11 +5853,11 @@
     },
     {
       "id": 745,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What happened next?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 746,
@@ -5869,11 +5869,11 @@
     },
     {
       "id": 747,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So can you tell us precisely what Andabak did?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 748,
@@ -5885,11 +5885,11 @@
     },
     {
       "id": 749,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were these prisoners armed at the time that this occurred?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 750,
@@ -5901,11 +5901,11 @@
     },
     {
       "id": 751,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So after this second person was shot then, tell us what happened next.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 752,
@@ -5917,11 +5917,11 @@
     },
     {
       "id": 753,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What's the next thing that you observed?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 754,
@@ -5933,11 +5933,11 @@
     },
     {
       "id": 755,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Who led them away?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 756,
@@ -5949,11 +5949,11 @@
     },
     {
       "id": 757,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you hear anything after they were led away?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 758,
@@ -5965,11 +5965,11 @@
     },
     {
       "id": 759,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were the women and the child among this group of people who were led away?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 760,
@@ -5981,11 +5981,11 @@
     },
     {
       "id": 761,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, the soldiers who led those people away, did you ever see them again?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 762,
@@ -5997,11 +5997,11 @@
     },
     {
       "id": 763,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What did they do after they returned?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 764,
@@ -6013,11 +6013,11 @@
     },
     {
       "id": 765,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What did they tell you?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 766,
@@ -6029,11 +6029,11 @@
     },
     {
       "id": 767,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What were you told?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 768,
@@ -6045,11 +6045,11 @@
     },
     {
       "id": 769,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, Mr. Simang, I'd like to ask you whether you at any subsequent time took part in any other military operations in the town of Mostar.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 770,
@@ -6061,11 +6061,11 @@
     },
     {
       "id": 771,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Yes, correct.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 772,
@@ -6077,11 +6077,11 @@
     },
     {
       "id": 773,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you recall approximately how much later this other action took place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 774,
@@ -6093,11 +6093,11 @@
     },
     {
       "id": 775,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Can you recall any other operations in Mostar which you have not yet told us about today?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 776,
@@ -6109,11 +6109,11 @@
     },
     {
       "id": 777,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And can -- well, first let me ask you. You've described two operations already in Mostar. Now, this operation which you say started at noon, can you recall if this operation occurred after the operations that you've already testified about?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 778,
@@ -6125,11 +6125,11 @@
     },
     {
       "id": 779,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you said that this operation started at 12.00, 12.00 noon. What was the objective of this operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 780,
@@ -6141,11 +6141,11 @@
     },
     {
       "id": 781,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you receive any instructions or briefing prior to this operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 782,
@@ -6157,11 +6157,11 @@
     },
     {
       "id": 783,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So tell us then what happened at 12.00 noon.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 784,
@@ -6173,11 +6173,11 @@
     },
     {
       "id": 785,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you start firing on your own or did you receive an order?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 786,
@@ -6189,11 +6189,11 @@
     },
     {
       "id": 787,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And do you know who gave the order to you over the Motorola?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 788,
@@ -6205,11 +6205,11 @@
     },
     {
       "id": 789,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, once you received this order, tell us what you did, how long the shooting lasted.",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 790,
@@ -6221,11 +6221,11 @@
     },
     {
       "id": 791,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "So then after the firing stopped, what did you do?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 792,
@@ -6237,11 +6237,11 @@
     },
     {
       "id": 793,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Were other members of the Convicts Battalion involved in this operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 794,
@@ -6253,11 +6253,11 @@
     },
     {
       "id": 795,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know why 12.00 noon was selected as the time for this particular military operation?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 796,
@@ -6269,11 +6269,11 @@
     },
     {
       "id": 797,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "How did -- I think you said that you fired for some five minutes. Tell us what happened after that. How did the operation draw to a close?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 798,
@@ -6285,11 +6285,11 @@
     },
     {
       "id": 799,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Okay. Maybe you could explain that a little more. So then after five minutes, how did things change?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 800,
@@ -6301,11 +6301,11 @@
     },
     {
       "id": 801,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Witness, let me ask you -- I believe earlier in your testimony you mentioned a place called Ljubuski. I want to ask you have you ever been to Ljubuski and is there anything about Ljubuski which you associate with the Convicts Battalion?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 802,
@@ -6317,11 +6317,11 @@
     },
     {
       "id": 803,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And do you know who was held at that prison?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 804,
@@ -6333,11 +6333,11 @@
     },
     {
       "id": 805,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you ever go to that prison?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 806,
@@ -6349,11 +6349,11 @@
     },
     {
       "id": 807,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What were you doing when you were in front of it?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 808,
@@ -6365,11 +6365,11 @@
     },
     {
       "id": 809,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Are you able to recall where those prisoners came from?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 810,
@@ -6381,11 +6381,11 @@
     },
     {
       "id": 811,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know if any members of the Convicts Battalion took prisoners also to Ljubuski?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 812,
@@ -6397,11 +6397,11 @@
     },
     {
       "id": 813,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Do you know how the prisoners at Ljubuski were treated?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 814,
@@ -6420,11 +6420,11 @@
     },
     {
       "id": 816,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Witness, you've had an opportunity to look at those two photographs. We can put 25.5 now on the ELMO. Do you recognise this place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 817,
@@ -6436,11 +6436,11 @@
     },
     {
       "id": 818,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And then we can put 25.6 on the ELMO. Is this also what you've called the villa of General Tuta?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 819,
@@ -6452,11 +6452,11 @@
     },
     {
       "id": 820,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you ever go to this place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 821,
@@ -6468,11 +6468,11 @@
     },
     {
       "id": 822,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "For what purpose did you go there?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 823,
@@ -6484,11 +6484,11 @@
     },
     {
       "id": 824,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you see other members of the Convicts Battalion there?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 825,
@@ -6500,11 +6500,11 @@
     },
     {
       "id": 826,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. Now, Mr. Simang, as we indicated at the beginning of Blank page inserted to ensure pagination corresponds between the French and English transcripts. your testimony, you're currently being held in a prison in a country that's not the Netherlands; is that correct?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 827,
@@ -6516,11 +6516,11 @@
     },
     {
       "id": 828,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Can you tell us what is the reason, what are the crimes for which you were convicted that resulted in your being put into a prison?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 829,
@@ -6532,11 +6532,11 @@
     },
     {
       "id": 830,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you've mentioned that you shot two soldiers of your unit. I want to ask you a couple of questions about the second of those two shootings, and if I understand correctly, we're talking about a person whose name was Biske; is that correct?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 831,
@@ -6548,11 +6548,11 @@
     },
     {
       "id": 832,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And he was shot by you in August of 1993; is that correct?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 833,
@@ -6564,11 +6564,11 @@
     },
     {
       "id": 834,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Where did that take place?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 835,
@@ -6580,11 +6580,11 @@
     },
     {
       "id": 836,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And after that occurred, did you inform anyone of that?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 837,
@@ -6596,11 +6596,11 @@
     },
     {
       "id": 838,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What did he say to you about that?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 839,
@@ -6612,11 +6612,11 @@
     },
     {
       "id": 840,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "What's the reason why you shot this person, Biske?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 841,
@@ -6628,11 +6628,11 @@
     },
     {
       "id": 842,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "After you informed Tuta that you had shot this person, what happened?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 843,
@@ -6644,11 +6644,11 @@
     },
     {
       "id": 844,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Now, you say, \"We had to hand in weapons.\" Who are you referring to?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 845,
@@ -6660,11 +6660,11 @@
     },
     {
       "id": 846,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And these people that you've mentioned, Trupp and Niederreiter, who were they?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 847,
@@ -6676,11 +6676,11 @@
     },
     {
       "id": 848,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "You say you were not allowed to leave Siroki Brijeg. How long were you restricted there in Siroki Brijeg?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 849,
@@ -6692,11 +6692,11 @@
     },
     {
       "id": 850,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And then what happened?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 851,
@@ -6708,11 +6708,11 @@
     },
     {
       "id": 852,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "Did you ever speak to Tuta again then at that point?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 853,
@@ -6724,11 +6724,11 @@
     },
     {
       "id": 854,
-      "speaker": "MR. PAR",
+      "speaker": "MR. STRINGER",
       "role": "counsel",
       "type": "question",
       "text": "And then from that point forward, can you tell us approximately the period of time that you remained a member of the Convicts Battalion before you left Bosnia-Herzegovina?",
-      "examination": "cross"
+      "examination": "direct"
     },
     {
       "id": 855,
@@ -6750,11 +6750,11 @@
       "speaker": "JUDGE LIU",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you. Cross-examination. Yes, Mr. Krsnik. Cross-examined by Mr. Krsnik:"
+      "text": "Thank you. Cross-examination. Yes, Mr. Krsnik."
     },
     {
       "id": 858,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "[Interpretation] Good afternoon, Witness.",
@@ -6770,7 +6770,7 @@
     },
     {
       "id": 860,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "I am Defence counsel for the accused Mladen Naletilic and I have a few questions for you. I shall try to put my questions in such a way that I get the briefest and most concise answers possible from you. Also, please be so kind as to bear in mind the fact that everything that we are saying is being interpreted, so let us wait until we finish our respective questions and answers and then start speaking again. My first question, Witness, is: How many interviews have you had with the investigators or rather the Prosecutors of this Tribunal?",
@@ -6786,7 +6786,7 @@
     },
     {
       "id": 862,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "How did this happen? How come the investigators of this Tribunal came to see you?",
@@ -6802,7 +6802,7 @@
     },
     {
       "id": 864,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "So you do not know how come they found out that you were in prison and why?",
@@ -6818,7 +6818,7 @@
     },
     {
       "id": 866,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "(redacted), in addition to this verdict convicting you as a murderer and thief, you were also investigated for genocide; is that correct?",
@@ -6834,7 +6834,7 @@
     },
     {
       "id": 868,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "My question was whether there was an investigation going on, not whether you were being tried.",
@@ -6850,7 +6850,7 @@
     },
     {
       "id": 870,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "As for this joyous piece of news, did you write to Mr. Van Hecke about this, who is an investigator of this Tribunal?",
@@ -6866,7 +6866,7 @@
     },
     {
       "id": 872,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Do you know how many letters you've sent to Mr. Van Hecke?",
@@ -6882,7 +6882,7 @@
     },
     {
       "id": 874,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Do you know Ralf Rudiger?",
@@ -6898,7 +6898,7 @@
     },
     {
       "id": 876,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Did he also write some letters to the investigators of this Tribunal?",
@@ -6914,7 +6914,7 @@
     },
     {
       "id": 878,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "You don't have to give the name of the prison, but you were in the same prison, weren't you?",
@@ -6930,7 +6930,7 @@
     },
     {
       "id": 880,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And you have no knowledge whatsoever of Mr. Mrachacz being in contact, notably in writing, with the investigators of this Tribunal?",
@@ -6946,7 +6946,7 @@
     },
     {
       "id": 882,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Do you remember, since it wasn't a long time ago, the 29th of June 1990, a letter that you wrote to Mr. Van Hecke?",
@@ -7003,7 +7003,7 @@
     },
     {
       "id": 890,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "So it was 1999.",
@@ -7019,7 +7019,7 @@
     },
     {
       "id": 892,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "By all means I shall remind you.",
@@ -7048,7 +7048,7 @@
     },
     {
       "id": 896,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Since we have the English version only, we don't have the German or Croatian versions, I assume that you wrote in the German language, didn't you?",
@@ -7064,7 +7064,7 @@
     },
     {
       "id": 898,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "In the English version, this is how the letter reads: \"Dear Mr. Van Hecke [In English] Mr. Reiser told me yesterday that my captain, Mr. Mrachacz, has written a letter to you.\" [Interpretation] Has this sentenced jogged your memory in respect of the rest of the contents of your letter?",
@@ -7080,7 +7080,7 @@
     },
     {
       "id": 900,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "So my first question is: You did communicate with Mrachacz in prison, didn't you?",
@@ -7096,7 +7096,7 @@
     },
     {
       "id": 902,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "My second question: Why was he angry?",
@@ -7134,7 +7134,7 @@
     },
     {
       "id": 907,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "In this letter, did you apologise to Mr. Van Hecke because of the tone of Mr. Mrachacz's letters and the way he wrote them?",
@@ -7150,7 +7150,7 @@
     },
     {
       "id": 909,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "You were aware of the contents of that letter?",
@@ -7166,7 +7166,7 @@
     },
     {
       "id": 911,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Witness, how did your lawyer know what the other prisoner's letter said?",
@@ -7209,7 +7209,7 @@
     },
     {
       "id": 917,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Please be so kind as to tell me, Witness, you said \"prison conditions.\" Did you get any promises from Mr. Van Hecke with regard to prison conditions?",
@@ -7225,7 +7225,7 @@
     },
     {
       "id": 919,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Tell me, in your letters both to Mr. Van Hecke and to the honourable trial attorney Susan Somers and to Mr. O'Brien - and we'll go back to the other names later - did you not condition your position not only by the transferral to another prison but also other matters? Do you remember that?",
@@ -7241,7 +7241,7 @@
     },
     {
       "id": 921,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And what about your lawyer? Did he also contact the Office of the Prosecutor of this Tribunal with regard to the same requests?",
@@ -7257,7 +7257,7 @@
     },
     {
       "id": 923,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Didn't the lawyer extend his thanks twice, first of all because you remained in the prison hospital and second -- and the second time because through the Ministry of Justice of the Republic (redacted), the Office of the Prosecutor intervened on your behalf, to your benefit?",
@@ -7273,7 +7273,7 @@
     },
     {
       "id": 925,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Did you write a letter to a journalist who interviewed you when you appeared on television on his talk show, when you spoke about the events that you experienced in Bosnia? Did you write to him as well?",
@@ -7289,7 +7289,7 @@
     },
     {
       "id": 927,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "That's what I mean, yes. Did you also seek assistance from him, saying that, after that interview, you ended up in prison, or rather you wrote to him saying that in your letter?",
@@ -7305,7 +7305,7 @@
     },
     {
       "id": 929,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "You are giving me answers that are too extensive. I just asked you whether you wrote to him and whether you sought his assistance, nothing else.",
@@ -7321,7 +7321,7 @@
     },
     {
       "id": 931,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Thank you. Tell me, when you gave this interview, were you given money for it?",
@@ -7337,7 +7337,7 @@
     },
     {
       "id": 933,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Tell me, please, during that talk show, did you say anything that led to the start of an investigation? Because the tape does exist.",
@@ -7353,7 +7353,7 @@
     },
     {
       "id": 935,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "That is Mr. Biske, right?",
@@ -7369,7 +7369,7 @@
     },
     {
       "id": 937,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Yes, yes. I beg your pardon, because you were tried for two murders.",
@@ -7385,7 +7385,7 @@
     },
     {
       "id": 939,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Tell me, do you remember what you said during that interview on that talk show?",
@@ -7401,7 +7401,7 @@
     },
     {
       "id": 941,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "With regard to what you said during the talk show. I'm asking about that talk show. Do you remember it? Do you remember the questions and your answers?",
@@ -7417,7 +7417,7 @@
     },
     {
       "id": 943,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Tell me, did you speak similarly to the way you're speaking today or did you speak quite differently?",
@@ -7433,7 +7433,7 @@
     },
     {
       "id": 945,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "I don't want to lead you, really, because there is a videotape. I just wanted to ask you not only with regard to, as you had put it, General Tuta, but with regard to the Convicts Battalion in general.",
@@ -7449,7 +7449,7 @@
     },
     {
       "id": 947,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "We'll go back to that. Tell me, how come you believe that Tuta is a general? Do you know that personally or did somebody tell you that?",
@@ -7465,7 +7465,7 @@
     },
     {
       "id": 949,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Others introduced him to you as a general, and after that, you concluded that he was a general. Did I understand you correctly?",
@@ -7481,7 +7481,7 @@
     },
     {
       "id": 951,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Tell me, since you spoke in German, did you socialise with everyone from the Convicts Battalion, as you would put it, or only people who came from the same area that you came from, the German-speaking area?",
@@ -7497,7 +7497,7 @@
     },
     {
       "id": 953,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Of course. The only question that comes to mind is: Could you talk at all to other soldiers without a translator?",
@@ -7513,7 +7513,7 @@
     },
     {
       "id": 955,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Please be so kind as to tell me who was your immediate superior. Were you in a separate special unit within the Convicts Battalion? Did you have an immediate superior, an immediate commander?",
@@ -7529,7 +7529,7 @@
     },
     {
       "id": 957,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "What was the name of this Croatian person?",
@@ -7545,7 +7545,7 @@
     },
     {
       "id": 959,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And tell me, who commanded these Bofors?",
@@ -7561,7 +7561,7 @@
     },
     {
       "id": 961,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Tell me, didn't you find it strange, although you did not have any military experience before that or, rather, is that correct, that you did not have any military experience before you came to Bosnia?",
@@ -7577,7 +7577,7 @@
     },
     {
       "id": 963,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Didn't you find it strange that a general would have meetings in cafes and issue directly orders to soldiers?",
@@ -7593,7 +7593,7 @@
     },
     {
       "id": 965,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "You took that for granted or is that the way things actually happened all the time?",
@@ -7609,7 +7609,7 @@
     },
     {
       "id": 967,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "I see. And now tell me, if you had a commander, and if I understood you properly, it was that man called Resch who knew German. So tell me, how is it that nobody more or less than a general calls you directly, and even more than that, he issues orders, instructions directly to you, a plain soldier?",
@@ -7625,7 +7625,7 @@
     },
     {
       "id": 969,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Yes, of course, Witness. That's why I'm asking you. But your superior, your immediate superior at the Bofors, he knows German. So if somebody is to be issued orders, shouldn't it be Mr. Resch, who speaks German?",
@@ -7641,7 +7641,7 @@
     },
     {
       "id": 971,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "I think we're talking at cross-purposes now, so let me try to clarify it for you. In your testimony today, you said that a man whom you called Tuta knows German, didn't you?",
@@ -7657,7 +7657,7 @@
     },
     {
       "id": 973,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Well, then, my question is quite logical, because Resch speaks German, Tuta speaks German. And if he wanted to issue an order, as you are telling us all the time, then why didn't he call Resch on Motorola or at meetings if, that is, you had any meetings? Why did he speak to you?",
@@ -7673,7 +7673,7 @@
     },
     {
       "id": 975,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Well, that's my question. Did they come to Max or did they come to you? Because you said today that you received those orders.",
@@ -7689,7 +7689,7 @@
     },
     {
       "id": 977,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Thank you very much for this explanation. Now, tell me, who commanded the fire? I mean the Bofors.",
@@ -7705,7 +7705,7 @@
     },
     {
       "id": 979,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Tell me, please. Did Mr. Mrachacz, was he at the Bofors too?",
@@ -7721,7 +7721,7 @@
     },
     {
       "id": 981,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And he didn't even lend you a hand in those operations?",
@@ -7737,7 +7737,7 @@
     },
     {
       "id": 983,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Tell me, when this thing with mosques happened, was Mrachacz on sick leave at the time?",
@@ -7780,7 +7780,7 @@
     },
     {
       "id": 989,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "So the event that you described a little earlier of the mosque in Mostar, if I'm correct, was Mr. Mrachacz in hospital at the time or receiving treatment or on a sick leave?",
@@ -7796,7 +7796,7 @@
     },
     {
       "id": 991,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "But that operation, when you were given the tasks -- task with mosque and everything, it was before April, it was in the very early days of the conflict, wasn't it?",
@@ -7812,7 +7812,7 @@
     },
     {
       "id": 993,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "I'm not insisting that you tell me, but was it before Doljani, in any event? The operation that you described to us today, was it before Doljani? It's just to get some time references.",
@@ -7828,7 +7828,7 @@
     },
     {
       "id": 995,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Yes, the mosque in Mostar. Yes, the Mostar mosque. Was that operation that you described today, did it precede the operation in Doljani?",
@@ -7844,7 +7844,7 @@
     },
     {
       "id": 997,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Yeah, the event that you described to the Prosecutor that the task you were given were to fire at the mosque. That is what you testified today, didn't you, if I'm correct? Yes, I think it was that operation at noon.",
@@ -7860,7 +7860,7 @@
     },
     {
       "id": 999,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Well, a while ago you were not sure when you said that it was in March. I'm not insisting but then when did the operation in Doljani take place?",
@@ -7917,7 +7917,7 @@
     },
     {
       "id": 1007,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Tell me, Witness, you testified today about something that happened in front of the ministry. Could you give us the names of people who were there, of those 40? I think -- I believe you said 40. Could you give us some of those names, members of your battalion you were there?",
@@ -7939,7 +7939,7 @@
     },
     {
       "id": 1010,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "How many men were there from the Convicts Battalion in front of that ministry?",
@@ -7976,7 +7976,7 @@
     },
     {
       "id": 1015,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "But do you know their nicknames? Will you give me one nickname, at least, one name, the name of one soldier who was with you in front of the ministry? Was Cikota there? You already mentioned his name. Or Lija or ...",
@@ -7992,7 +7992,7 @@
     },
     {
       "id": 1017,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Tell me, please, Zdenko, are you referring to Zdenko who was at the Bofors with you?",
@@ -8008,7 +8008,7 @@
     },
     {
       "id": 1019,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Yes, Witness, but in your testimony, you said that you spent quite a long time with that unit. You're talking about events which are not easily forgettable. So I'm asking you something very simple. Give me at least one name. You must remember the names of some people.",
@@ -8024,7 +8024,7 @@
     },
     {
       "id": 1021,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Will you please be so kind as to list us the members of the unit that you call the Convicts Battalion, that is, those that you remember? Before that, tell me, please, your unit that was caught at that Heliodrom, was it also called the Convicts Battalion?",
@@ -8040,7 +8040,7 @@
     },
     {
       "id": 1023,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "ATG, the Convicts Battalion, or was it only called ATG? Blank page inserted to ensure pagination corresponds between the French and English transcripts.",
@@ -8056,7 +8056,7 @@
     },
     {
       "id": 1025,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And that ATG is a part of the Convicts Battalion at Siroki Brijeg. Did they make that battalion? Is that what you are saying?",
@@ -8072,7 +8072,7 @@
     },
     {
       "id": 1027,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And together you were the sabotage unit, an intervention unit, or what?",
@@ -8088,7 +8088,7 @@
     },
     {
       "id": 1029,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And you'd do your job and return; is that correct?",
@@ -8104,7 +8104,7 @@
     },
     {
       "id": 1031,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Right. Now, tell me, please, so you were either on the front line or at Siroki Brijeg every day. Siroki Brijeg is a small place, isn't it?",
@@ -8120,7 +8120,7 @@
     },
     {
       "id": 1033,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Right. This is not what I wanted to ask you. Let's go back a little. I asked you all these questions trying to make you to give me at least five names or nicknames or anything of members of your unit at Siroki Brijeg or from this ATG, from what you call the ATG.",
@@ -8136,7 +8136,7 @@
     },
     {
       "id": 1035,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And you do not know any other names?",
@@ -8152,7 +8152,7 @@
     },
     {
       "id": 1037,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Tell me, Witness, how did you get to Doljani?",
@@ -8168,7 +8168,7 @@
     },
     {
       "id": 1039,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And in that VW bus you arrived in Doljani directly?",
@@ -8184,7 +8184,7 @@
     },
     {
       "id": 1041,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Right. Now, will you tell the Honourable Court where is Masna Luka exactly?",
@@ -8221,7 +8221,7 @@
     },
     {
       "id": 1046,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Now, tell me, if you remember, this Masna Luka, where is it?",
@@ -8237,7 +8237,7 @@
     },
     {
       "id": 1048,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And how did you get to Doljani from Masna Luka then?",
@@ -8253,7 +8253,7 @@
     },
     {
       "id": 1050,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Taking the road, I guess?",
@@ -8269,7 +8269,7 @@
     },
     {
       "id": 1052,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And you fetched up in Doljani?",
@@ -8285,7 +8285,7 @@
     },
     {
       "id": 1054,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "[Previous translation continues] ... fighting before you went to Doljani?",
@@ -8301,7 +8301,7 @@
     },
     {
       "id": 1056,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "No. I mean, was there any fighting? You arrived in Doljani, and there was no fighting, no combat?",
@@ -8317,7 +8317,7 @@
     },
     {
       "id": 1058,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "In Doljani?",
@@ -8333,7 +8333,7 @@
     },
     {
       "id": 1060,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Now, to make it quite clear, you fetched up in Doljani without any fighting. It was only from Doljani that you were to go to those front lines or what?",
@@ -8349,7 +8349,7 @@
     },
     {
       "id": 1062,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "No, no. I really don't know what the interpretation is, but when you say that the front lines had been moved. So it was from Doljani that you headed towards those front lines; is that it?",
@@ -8365,7 +8365,7 @@
     },
     {
       "id": 1064,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Well, that is precisely the answer that I wanted to arrive at by asking you all these questions. And now, tell me, please, which way did you take from Doljani? In which direction did you start from Doljani to arrive at the bunkers or ...",
@@ -8381,7 +8381,7 @@
     },
     {
       "id": 1066,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "And you again took the road to advance towards Konjic and Jablanica or -- no, to be more precise, my question is exactly where were the bunkers?",
@@ -8397,7 +8397,7 @@
     },
     {
       "id": 1068,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "Next to the road?",
@@ -8435,7 +8435,7 @@
     },
     {
       "id": 1073,
-      "speaker": "MR. PAR",
+      "speaker": "MR. KRSNIK",
       "role": "counsel",
       "type": "question",
       "text": "So if I understand what you are saying, the bunker that you headed for was in a forest or in a copse some way away from the road; is that correct?",
@@ -8609,84 +8609,96 @@
       "text": "[Open session]"
     },
     {
-      "after_utterance": 53,
+      "after_utterance": 30,
+      "text": "Re-examined by Mr. Bos:"
+    },
+    {
+      "after_utterance": 31,
+      "text": "cross-examined by Mr. Meek, the Defence counsel for Mladen Naletilic."
+    },
+    {
+      "after_utterance": 54,
       "text": "[Prosecution counsel confer]"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "[Private session]"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "Pages 3764 to 3771 – redacted – private session."
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 58,
+      "after_utterance": 59,
       "text": "[Open session]"
     },
     {
-      "after_utterance": 69,
+      "after_utterance": 70,
       "text": "WITNESS:  FALK SIMANG"
     },
     {
-      "after_utterance": 69,
+      "after_utterance": 70,
       "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 70,
+      "text": "Examined by Mr. Stringer:"
     },
     {
       "after_utterance": 293,
@@ -8707,6 +8719,10 @@
     {
       "after_utterance": 662,
       "text": "--- On resuming at 2.25 p.m."
+    },
+    {
+      "after_utterance": 857,
+      "text": "Cross-examined by Mr. Krsnik:"
     },
     {
       "after_utterance": 1076,

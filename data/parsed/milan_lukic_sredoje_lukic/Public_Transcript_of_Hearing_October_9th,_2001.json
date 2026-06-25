@@ -1,6 +1,6 @@
 {
   "case": "milan_lukic_sredoje_lukic",
-  "case_id": "IT-98-32-T",
+  "case_id": "IT-98-32",
   "date": null,
   "utterances": [
     {
@@ -64,14 +64,15 @@
       "speaker": "JUDGE HUNT",
       "role": "judge",
       "type": "statement",
-      "text": "Sit down, please. Yes, Mr. Groome. Examined by Mr. Groome."
+      "text": "Sit down, please. Yes, Mr. Groome."
     },
     {
       "id": 10,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. De Grave, could you briefly describe your educational background for the Tribunal?"
+      "text": "Dr. De Grave, could you briefly describe your educational background for the Tribunal?",
+      "examination": "direct"
     },
     {
       "id": 11,
@@ -98,10 +99,11 @@
     },
     {
       "id": 14,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And have you called -- been called to serve as an expert to the Tribunal?"
+      "text": "And have you called -- been called to serve as an expert to the Tribunal?",
+      "examination": "direct"
     },
     {
       "id": 15,
@@ -113,10 +115,11 @@
     },
     {
       "id": 16,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell us approximately how many times have you rendered expert opinions for the Courts of Belgium?"
+      "text": "Can you tell us approximately how many times have you rendered expert opinions for the Courts of Belgium?",
+      "examination": "direct"
     },
     {
       "id": 17,
@@ -128,10 +131,11 @@
     },
     {
       "id": 18,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Prior to today, have you been asked to render your medical expertise before this Tribunal?"
+      "text": "Prior to today, have you been asked to render your medical expertise before this Tribunal?",
+      "examination": "direct"
     },
     {
       "id": 19,
@@ -143,10 +147,11 @@
     },
     {
       "id": 20,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Can you describe for the Chamber what experience you have regarding the examination and comparison of radiological X-rays?"
+      "text": "Can you describe for the Chamber what experience you have regarding the examination and comparison of radiological X-rays?",
+      "examination": "direct"
     },
     {
       "id": 21,
@@ -158,10 +163,11 @@
     },
     {
       "id": 22,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Have you in the past been called upon to give your expertise on the interpretation of X-rays and the comparison of X-rays?"
+      "text": "Have you in the past been called upon to give your expertise on the interpretation of X-rays and the comparison of X-rays?",
+      "examination": "direct"
     },
     {
       "id": 23,
@@ -173,10 +179,11 @@
     },
     {
       "id": 24,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Last year were you asked to provide your medical expertise in connection with this case, the Prosecutor against Mitar Vasiljevic?"
+      "text": "Last year were you asked to provide your medical expertise in connection with this case, the Prosecutor against Mitar Vasiljevic?",
+      "examination": "direct"
     },
     {
       "id": 25,
@@ -188,10 +195,11 @@
     },
     {
       "id": 26,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Were you asked to compare an X-ray purported to have been taken in 1992 with one that was taken in the detention facility here in Holland?"
+      "text": "Were you asked to compare an X-ray purported to have been taken in 1992 with one that was taken in the detention facility here in Holland?",
+      "examination": "direct"
     },
     {
       "id": 27,
@@ -203,10 +211,11 @@
     },
     {
       "id": 28,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Were you given an X-ray plate that bore the name of Mitar Vasiljevic and the date 14th of June 1992, by an investigator, Yves Roy, of the Office of the Prosecutor?"
+      "text": "Were you given an X-ray plate that bore the name of Mitar Vasiljevic and the date 14th of June 1992, by an investigator, Yves Roy, of the Office of the Prosecutor?",
+      "examination": "direct"
     },
     {
       "id": 29,
@@ -246,10 +255,11 @@
     },
     {
       "id": 34,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Have you been in custody of -- for the remainder of your testimony, I'd ask you to refer to this X-ray that you were given from 1992 as the 1992 X-ray. And I would ask you, have you been in custody of that X-ray plate since the time you were given it to -- it was given to you by investigator Roy? Have you been in custody of that X-ray since the time it was given to you?"
+      "text": "Have you been in custody of -- for the remainder of your testimony, I'd ask you to refer to this X-ray that you were given from 1992 as the 1992 X-ray. And I would ask you, have you been in custody of that X-ray plate since the time you were given it to -- it was given to you by investigator Roy? Have you been in custody of that X-ray since the time it was given to you?",
+      "examination": "direct"
     },
     {
       "id": 35,
@@ -261,10 +271,11 @@
     },
     {
       "id": 36,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "The only X-ray that you were given by Mr. Roy that I will refer to, is the X-ray that says Mitar Vasiljevic, 14th of June 1992. And that is the one you have in your hand, is it?"
+      "text": "The only X-ray that you were given by Mr. Roy that I will refer to, is the X-ray that says Mitar Vasiljevic, 14th of June 1992. And that is the one you have in your hand, is it?",
+      "examination": "direct"
     },
     {
       "id": 37,
@@ -296,10 +307,11 @@
     },
     {
       "id": 41,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, doctor, on the 15th of August this year, did you conduct an examination of Mr. Vasiljevic yourself?"
+      "text": "Now, doctor, on the 15th of August this year, did you conduct an examination of Mr. Vasiljevic yourself?",
+      "examination": "direct"
     },
     {
       "id": 42,
@@ -311,10 +323,11 @@
     },
     {
       "id": 43,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. As part of that examination, were new X-rays taken of the leg of Mr. Vasiljevic?"
+      "text": "Okay. As part of that examination, were new X-rays taken of the leg of Mr. Vasiljevic?",
+      "examination": "direct"
     },
     {
       "id": 44,
@@ -326,10 +339,11 @@
     },
     {
       "id": 45,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. De Grave, I want to ask you, it sounds as if you took many X-rays, did you attempt to position the leg of Mr. Vasiljevic in such a way as to obtain an X-ray that was most suitable for comparison with the 1992 X-ray?"
+      "text": "Dr. De Grave, I want to ask you, it sounds as if you took many X-rays, did you attempt to position the leg of Mr. Vasiljevic in such a way as to obtain an X-ray that was most suitable for comparison with the 1992 X-ray?",
+      "examination": "direct"
     },
     {
       "id": 46,
@@ -341,10 +355,11 @@
     },
     {
       "id": 47,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'm going to ask you to put the other X-rays away and just take out the X-ray plate of the position of Mr. Vasiljevic that is most similar to the X-ray plate from 1992."
+      "text": "I'm going to ask you to put the other X-rays away and just take out the X-ray plate of the position of Mr. Vasiljevic that is most similar to the X-ray plate from 1992.",
+      "examination": "direct"
     },
     {
       "id": 48,
@@ -356,10 +371,11 @@
     },
     {
       "id": 49,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. So there are two X-rays that best simulate the position that a leg was in in 1992; is that correct?"
+      "text": "Okay. So there are two X-rays that best simulate the position that a leg was in in 1992; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 50,
@@ -371,10 +387,11 @@
     },
     {
       "id": 51,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. I would ask at this time that those X-rays be marked as Prosecution number 21, and I would tender them into evidence."
+      "text": "Okay. I would ask at this time that those X-rays be marked as Prosecution number 21, and I would tender them into evidence.",
+      "examination": "direct"
     },
     {
       "id": 52,
@@ -434,10 +451,11 @@
     },
     {
       "id": 60,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, I'd ask you maybe just put the other X-rays aside for the moment?"
+      "text": "Doctor, I'd ask you maybe just put the other X-rays aside for the moment?",
+      "examination": "direct"
     },
     {
       "id": 61,
@@ -477,10 +495,11 @@
     },
     {
       "id": 66,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, I'd ask you to take a look at a copy of your report which is being handed to you and take a look at document number 35, a photocopy of your original report?"
+      "text": "Doctor, I'd ask you to take a look at a copy of your report which is being handed to you and take a look at document number 35, a photocopy of your original report?",
+      "examination": "direct"
     },
     {
       "id": 67,
@@ -505,10 +524,11 @@
     },
     {
       "id": 70,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I would ask you to please refer us to the page of what we are now going to refer to as the 1992 X-ray. Is there a photograph or a reproduction of that X-ray plate in your report and, if so, tell us what page number."
+      "text": "I would ask you to please refer us to the page of what we are now going to refer to as the 1992 X-ray. Is there a photograph or a reproduction of that X-ray plate in your report and, if so, tell us what page number.",
+      "examination": "direct"
     },
     {
       "id": 71,
@@ -520,10 +540,11 @@
     },
     {
       "id": 72,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'd ask to you place that on the ELMO. I believe we will be able to see that clearly on the ELMO?"
+      "text": "I'd ask to you place that on the ELMO. I believe we will be able to see that clearly on the ELMO?",
+      "examination": "direct"
     },
     {
       "id": 73,
@@ -576,10 +597,11 @@
     },
     {
       "id": 80,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now the X-ray that you took on the 15th, or that was taken on the 15th of August 2001, can we from this point forward refer to that as the 2001 X-ray. And would I ask to you refer to the page on your report where a reproduction of that X-ray is contained."
+      "text": "Now the X-ray that you took on the 15th, or that was taken on the 15th of August 2001, can we from this point forward refer to that as the 2001 X-ray. And would I ask to you refer to the page on your report where a reproduction of that X-ray is contained.",
+      "examination": "direct"
     },
     {
       "id": 81,
@@ -591,10 +613,11 @@
     },
     {
       "id": 82,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, so is it true that the X-ray that is now Prosecution Exhibit number 21 is reproduced on page 14 of your report? Is that correct?"
+      "text": "Doctor, so is it true that the X-ray that is now Prosecution Exhibit number 21 is reproduced on page 14 of your report? Is that correct?",
+      "examination": "direct"
     },
     {
       "id": 83,
@@ -628,10 +651,11 @@
     },
     {
       "id": 87,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, doctor we can not see the X-ray itself on the ELMO. I would ask you to place your reproduction of Exhibit number 21 on the ELMO side by side with the reproduction of the 1992 X-ray. Can you place both of those on the ELMO next to each other?"
+      "text": "Now, doctor we can not see the X-ray itself on the ELMO. I would ask you to place your reproduction of Exhibit number 21 on the ELMO side by side with the reproduction of the 1992 X-ray. Can you place both of those on the ELMO next to each other?",
+      "examination": "direct"
     },
     {
       "id": 88,
@@ -649,10 +673,11 @@
     },
     {
       "id": 90,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor on page 14 of your report, you're holding up now the original of document or Exhibit number 21. On that are two impressions or two exposures of an X-ray; is that correct?"
+      "text": "Doctor on page 14 of your report, you're holding up now the original of document or Exhibit number 21. On that are two impressions or two exposures of an X-ray; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 91,
@@ -663,10 +688,11 @@
     },
     {
       "id": 92,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Is this is, what you're holding up in your hand, the most suitable X-ray taken in August of 2001 for comparison with the X-ray taken in 1992? Is that the most suitable one for comparison? Okay, answer yes or no, please?"
+      "text": "Is this is, what you're holding up in your hand, the most suitable X-ray taken in August of 2001 for comparison with the X-ray taken in 1992? Is that the most suitable one for comparison? Okay, answer yes or no, please?",
+      "examination": "direct"
     },
     {
       "id": 93,
@@ -678,10 +704,11 @@
     },
     {
       "id": 94,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And does it contain two exposures of the leg?"
+      "text": "And does it contain two exposures of the leg?",
+      "examination": "direct"
     },
     {
       "id": 95,
@@ -706,10 +733,11 @@
     },
     {
       "id": 98,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, if you could follow my instructions as far as the ELMO --"
+      "text": "Doctor, if you could follow my instructions as far as the ELMO --",
+      "examination": "direct"
     },
     {
       "id": 99,
@@ -721,10 +749,11 @@
     },
     {
       "id": 100,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, would you please place the reproduction of the 1992 X-ray on the ELMO. Can you place that on the ELMO next to -- can you place it along side of the reproduction of the 2001 X-ray."
+      "text": "Doctor, would you please place the reproduction of the 1992 X-ray on the ELMO. Can you place that on the ELMO next to -- can you place it along side of the reproduction of the 2001 X-ray.",
+      "examination": "direct"
     },
     {
       "id": 101,
@@ -735,10 +764,11 @@
     },
     {
       "id": 102,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, doctor, did you compare the 1992 X-ray with the 2001 X-ray?"
+      "text": "Now, doctor, did you compare the 1992 X-ray with the 2001 X-ray?",
+      "examination": "direct"
     },
     {
       "id": 103,
@@ -750,10 +780,11 @@
     },
     {
       "id": 104,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "First, let me ask you a few questions regarding them. Did you compare the fibula or small bone of the lower leg in those two X-rays? Did you compare those two bones?"
+      "text": "First, let me ask you a few questions regarding them. Did you compare the fibula or small bone of the lower leg in those two X-rays? Did you compare those two bones?",
+      "examination": "direct"
     },
     {
       "id": 105,
@@ -765,10 +796,11 @@
     },
     {
       "id": 106,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor --"
+      "text": "Doctor --",
+      "examination": "direct"
     },
     {
       "id": 107,
@@ -815,10 +847,11 @@
     },
     {
       "id": 113,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, I would ask you to take the pen in front of you and write 1992 on the reproduction that represents the 1992 X-ray. There is a pen on the table in front of you."
+      "text": "Doctor, I would ask you to take the pen in front of you and write 1992 on the reproduction that represents the 1992 X-ray. There is a pen on the table in front of you.",
+      "examination": "direct"
     },
     {
       "id": 114,
@@ -830,10 +863,11 @@
     },
     {
       "id": 115,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'd ask to you write 2001 on the other X-ray. Doctor, I would just ask you to take a look at what you marked on the X-ray closest to you?"
+      "text": "I'd ask to you write 2001 on the other X-ray. Doctor, I would just ask you to take a look at what you marked on the X-ray closest to you?",
+      "examination": "direct"
     },
     {
       "id": 116,
@@ -844,10 +878,11 @@
     },
     {
       "id": 117,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'd ask you to write 1992 on the X-ray or the reproduction on your left. Now I would ask you on the X-ray or the reproduction of the X-ray 2001 X-ray, would you please circle the deformity that you're now referring to?"
+      "text": "I'd ask you to write 1992 on the X-ray or the reproduction on your left. Now I would ask you on the X-ray or the reproduction of the X-ray 2001 X-ray, would you please circle the deformity that you're now referring to?",
+      "examination": "direct"
     },
     {
       "id": 118,
@@ -859,10 +894,11 @@
     },
     {
       "id": 119,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, would you please circle the same area on the 1992 X-ray which does not indicate the same deformity?"
+      "text": "Now, would you please circle the same area on the 1992 X-ray which does not indicate the same deformity?",
+      "examination": "direct"
     },
     {
       "id": 120,
@@ -874,10 +910,11 @@
     },
     {
       "id": 121,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, doctor, did you also examine the tibia or large bone of the lower leg?"
+      "text": "Now, doctor, did you also examine the tibia or large bone of the lower leg?",
+      "examination": "direct"
     },
     {
       "id": 122,
@@ -889,10 +926,11 @@
     },
     {
       "id": 123,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And can you describe for us your findings regarding your comparison of the large bone in the 1992 X-ray and that of the 2001 X-ray?"
+      "text": "And can you describe for us your findings regarding your comparison of the large bone in the 1992 X-ray and that of the 2001 X-ray?",
+      "examination": "direct"
     },
     {
       "id": 124,
@@ -904,10 +942,11 @@
     },
     {
       "id": 125,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Before you move any X-ray I'd like to ask you a few questions on the X-ray?"
+      "text": "Before you move any X-ray I'd like to ask you a few questions on the X-ray?",
+      "examination": "direct"
     },
     {
       "id": 126,
@@ -939,10 +978,11 @@
     },
     {
       "id": 130,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "The reproduction that's on the right that you've marked the deformity in the fibula, I would just ask to you write the number 1 on the bottom of that. We will call this the first X-ray that you're referring to in your testimony. Would you please write the number one on the bottom of that X-ray on the right."
+      "text": "The reproduction that's on the right that you've marked the deformity in the fibula, I would just ask to you write the number 1 on the bottom of that. We will call this the first X-ray that you're referring to in your testimony. Would you please write the number one on the bottom of that X-ray on the right.",
+      "examination": "direct"
     },
     {
       "id": 131,
@@ -954,10 +994,11 @@
     },
     {
       "id": 132,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, is there another X-ray that you took which you think is more suitable for comparison of the large bone or tibia of the leg? Please Blank page inserted to ensure pagination corresponds between the French and English transcripts. answer yes or no for the transcript."
+      "text": "Now, is there another X-ray that you took which you think is more suitable for comparison of the large bone or tibia of the leg? Please Blank page inserted to ensure pagination corresponds between the French and English transcripts. answer yes or no for the transcript.",
+      "examination": "direct"
     },
     {
       "id": 133,
@@ -976,10 +1017,11 @@
     },
     {
       "id": 135,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, what page in the annex is this new X-ray that you're showing us now?"
+      "text": "Doctor, what page in the annex is this new X-ray that you're showing us now?",
+      "examination": "direct"
     },
     {
       "id": 136,
@@ -1012,10 +1054,11 @@
     },
     {
       "id": 140,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, before you make any marks on the plate, I want to ask you to put 2001 on the bottom. I see you've done that and I would ask, Your Honour, that this document be marked as Prosecution or tendered as Prosecution Exhibit 21.2."
+      "text": "Doctor, before you make any marks on the plate, I want to ask you to put 2001 on the bottom. I see you've done that and I would ask, Your Honour, that this document be marked as Prosecution or tendered as Prosecution Exhibit 21.2.",
+      "examination": "direct"
     },
     {
       "id": 141,
@@ -1040,10 +1083,11 @@
     },
     {
       "id": 144,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, doctor, before you make any marks on it, I'm going to ask to you return to the 1992 X-ray and I'm going to ask you to draw a horizontal line to indicate the lowest -- where the fracture at its lowest point is on the leg. Where did the fracture end on the lowest part of the leg? Can you draw it with the blue pen, please, on the 1992 X-ray. On the 1992 X-ray."
+      "text": "Now, doctor, before you make any marks on it, I'm going to ask to you return to the 1992 X-ray and I'm going to ask you to draw a horizontal line to indicate the lowest -- where the fracture at its lowest point is on the leg. Where did the fracture end on the lowest part of the leg? Can you draw it with the blue pen, please, on the 1992 X-ray. On the 1992 X-ray.",
+      "examination": "direct"
     },
     {
       "id": 145,
@@ -1062,10 +1106,11 @@
     },
     {
       "id": 147,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Would I also ask you to mark the upper-most portion of the fracture. Okay. And I would ask you to draw a line parallel to the fracture to indicate the angle at which the fracture occurred --"
+      "text": "Would I also ask you to mark the upper-most portion of the fracture. Okay. And I would ask you to draw a line parallel to the fracture to indicate the angle at which the fracture occurred --",
+      "examination": "direct"
     },
     {
       "id": 148,
@@ -1077,10 +1122,11 @@
     },
     {
       "id": 149,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "-- on the 1992 X-ray."
+      "text": "-- on the 1992 X-ray.",
+      "examination": "direct"
     },
     {
       "id": 150,
@@ -1092,10 +1138,11 @@
     },
     {
       "id": 151,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay."
+      "text": "Okay.",
+      "examination": "direct"
     },
     {
       "id": 152,
@@ -1135,10 +1182,11 @@
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, doctor I would ask you just to point out with the pointer the angle of the fracture that you observed on the 1992 X-ray. On page 13 of your annex."
+      "text": "Now, doctor I would ask you just to point out with the pointer the angle of the fracture that you observed on the 1992 X-ray. On page 13 of your annex.",
+      "examination": "direct"
     },
     {
       "id": 158,
@@ -1150,10 +1198,11 @@
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I would ask you to place your pen along side and leave it for a moment, along the plane of the fracture that you observed in the 2001 X-ray. And now would you shift the pen to parallel the angle of the 1992 X-ray?"
+      "text": "I would ask you to place your pen along side and leave it for a moment, along the plane of the fracture that you observed in the 2001 X-ray. And now would you shift the pen to parallel the angle of the 1992 X-ray?",
+      "examination": "direct"
     },
     {
       "id": 160,
@@ -1165,10 +1214,11 @@
     },
     {
       "id": 161,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. I'd ask that you take 21.3 off the ELMO now at this point. Would you remove page 13 of your report from the ELMO?"
+      "text": "Okay. I'd ask that you take 21.3 off the ELMO now at this point. Would you remove page 13 of your report from the ELMO?",
+      "examination": "direct"
     },
     {
       "id": 162,
@@ -1235,10 +1285,11 @@
     },
     {
       "id": 171,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, I would ask to you place your pen to show the angle of the fracture on the X-ray itself, just as you did on page 13. Would you please place your pen on the 1992 X-ray parallel to the fracture? Just place your pen on the X-ray and leave it there for a moment."
+      "text": "Doctor, I would ask to you place your pen to show the angle of the fracture on the X-ray itself, just as you did on page 13. Would you please place your pen on the 1992 X-ray parallel to the fracture? Just place your pen on the X-ray and leave it there for a moment.",
+      "examination": "direct"
     },
     {
       "id": 172,
@@ -1250,10 +1301,11 @@
     },
     {
       "id": 173,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'd ask to you place the pen, leave the pointer where it is, place the pen to show us the plane of the fracture on the 2001 X-ray. Page 15 of your report."
+      "text": "I'd ask to you place the pen, leave the pointer where it is, place the pen to show us the plane of the fracture on the 2001 X-ray. Page 15 of your report.",
+      "examination": "direct"
     },
     {
       "id": 174,
@@ -1265,10 +1317,11 @@
     },
     {
       "id": 175,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "You've just drawn a line. Is that to indicate the upper-most portion of the fracture?"
+      "text": "You've just drawn a line. Is that to indicate the upper-most portion of the fracture?",
+      "examination": "direct"
     },
     {
       "id": 176,
@@ -1280,10 +1333,11 @@
     },
     {
       "id": 177,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, doctor, in addition to examining the tibia and the fibula or the large and small bone of the lower leg, did you also examine and compare the structures of the heel?"
+      "text": "Now, doctor, in addition to examining the tibia and the fibula or the large and small bone of the lower leg, did you also examine and compare the structures of the heel?",
+      "examination": "direct"
     },
     {
       "id": 178,
@@ -1301,10 +1355,11 @@
     },
     {
       "id": 180,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, before we leave the fracture of the Tibia and fibula, I want to ask you one additional question."
+      "text": "Doctor, before we leave the fracture of the Tibia and fibula, I want to ask you one additional question.",
+      "examination": "direct"
     },
     {
       "id": 181,
@@ -1322,10 +1377,11 @@
     },
     {
       "id": 183,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Were you able to measure the length of the fractures?"
+      "text": "Were you able to measure the length of the fractures?",
+      "examination": "direct"
     },
     {
       "id": 184,
@@ -1337,10 +1393,11 @@
     },
     {
       "id": 185,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, let me ask you a few questions. Given this variability that you're now telling us about, given what you're saying is possible uncertainty, are you able to say or are you able to accurately compare the length of the fractures?"
+      "text": "Doctor, let me ask you a few questions. Given this variability that you're now telling us about, given what you're saying is possible uncertainty, are you able to say or are you able to accurately compare the length of the fractures?",
+      "examination": "direct"
     },
     {
       "id": 186,
@@ -1351,10 +1408,11 @@
     },
     {
       "id": 187,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Are you able to answer that question, doctor?"
+      "text": "Are you able to answer that question, doctor?",
+      "examination": "direct"
     },
     {
       "id": 188,
@@ -1366,10 +1424,11 @@
     },
     {
       "id": 189,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Which X-ray are you talking about, doctor, the X-ray taken in 2001?"
+      "text": "Which X-ray are you talking about, doctor, the X-ray taken in 2001?",
+      "examination": "direct"
     },
     {
       "id": 190,
@@ -1579,10 +1638,11 @@
     },
     {
       "id": 219,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, if I may take it just one step further, if we subtract 16.4 -- if we subtract 6.8 centimetres from 16.4 centimetres, we end up with a difference of 9.2 centimetres between the uppermost portion and the lowermost portion of these fractures; is that correct?"
+      "text": "Doctor, if I may take it just one step further, if we subtract 16.4 -- if we subtract 6.8 centimetres from 16.4 centimetres, we end up with a difference of 9.2 centimetres between the uppermost portion and the lowermost portion of these fractures; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 220,
@@ -1593,10 +1653,11 @@
     },
     {
       "id": 221,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "In a horizontal plane?"
+      "text": "In a horizontal plane?",
+      "examination": "direct"
     },
     {
       "id": 222,
@@ -1615,10 +1676,11 @@
     },
     {
       "id": 224,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, before we move to the heel structure, I'd like to ask one more question regarding the fractures we are now discussing at length, if I may, Your Honour. Doctor, earlier in your testimony you described the fracture indicated in the 1992 X-ray as a spiral fracture. Can you please characterise the fracture in the 2001 X-ray? Is that a spiral fracture?"
+      "text": "Doctor, before we move to the heel structure, I'd like to ask one more question regarding the fractures we are now discussing at length, if I may, Your Honour. Doctor, earlier in your testimony you described the fracture indicated in the 1992 X-ray as a spiral fracture. Can you please characterise the fracture in the 2001 X-ray? Is that a spiral fracture?",
+      "examination": "direct"
     },
     {
       "id": 225,
@@ -1630,10 +1692,11 @@
     },
     {
       "id": 226,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Can you please describe how somebody would incur the injury that you observed in the 2001 X-ray?"
+      "text": "Can you please describe how somebody would incur the injury that you observed in the 2001 X-ray?",
+      "examination": "direct"
     },
     {
       "id": 227,
@@ -1666,10 +1729,11 @@
     },
     {
       "id": 231,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So, doctor, would it be fair to say that the two fractures are of different types and caused by different mechanisms?"
+      "text": "So, doctor, would it be fair to say that the two fractures are of different types and caused by different mechanisms?",
+      "examination": "direct"
     },
     {
       "id": 232,
@@ -1681,10 +1745,11 @@
     },
     {
       "id": 233,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, doctor, did you also compare the structure of the heel of the two X-rays, the X-rays taken in August 2001 and the 1992 X-ray?"
+      "text": "Now, doctor, did you also compare the structure of the heel of the two X-rays, the X-rays taken in August 2001 and the 1992 X-ray?",
+      "examination": "direct"
     },
     {
       "id": 234,
@@ -1710,10 +1775,11 @@
     },
     {
       "id": 237,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Let's just work with one photograph at a time, doctor."
+      "text": "Let's just work with one photograph at a time, doctor.",
+      "examination": "direct"
     },
     {
       "id": 238,
@@ -1759,10 +1825,11 @@
     },
     {
       "id": 244,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, doctor, I would ask you to go step by step and ask you to indicate certain things on the X-rays that are now before us. I would ask you just to work with the documents. Please do not put anything else on the ELMO at this time. Doctor, I'd ask you to circle the portion of the heel structure on the 1992 X-ray that you observed or you examined. Can you circle the portion or the area that you examined? On the 1992 X-ray? On the 1992 X-ray?"
+      "text": "Now, doctor, I would ask you to go step by step and ask you to indicate certain things on the X-rays that are now before us. I would ask you just to work with the documents. Please do not put anything else on the ELMO at this time. Doctor, I'd ask you to circle the portion of the heel structure on the 1992 X-ray that you observed or you examined. Can you circle the portion or the area that you examined? On the 1992 X-ray? On the 1992 X-ray?",
+      "examination": "direct"
     },
     {
       "id": 245,
@@ -1773,10 +1840,11 @@
     },
     {
       "id": 246,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay, doctor, just the 1992 X-ray. Can you describe -- I see you've drawn a line now to indicate a portion of the 1992 X-ray. Can you please describe for us the shape of that structure? Just the 1992 X-ray."
+      "text": "Okay, doctor, just the 1992 X-ray. Can you describe -- I see you've drawn a line now to indicate a portion of the 1992 X-ray. Can you please describe for us the shape of that structure? Just the 1992 X-ray.",
+      "examination": "direct"
     },
     {
       "id": 247,
@@ -1788,10 +1856,11 @@
     },
     {
       "id": 248,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you've also drawn a line to indicate the same structure on the 2001 X-ray. I'd ask you to now describe how the -- how the structure appears in the 2001 X-ray."
+      "text": "Now, you've also drawn a line to indicate the same structure on the 2001 X-ray. I'd ask you to now describe how the -- how the structure appears in the 2001 X-ray.",
+      "examination": "direct"
     },
     {
       "id": 249,
@@ -1803,10 +1872,11 @@
     },
     {
       "id": 250,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, doctor, after examining the X-ray from -- purported to be from 1992 and those that you were involved in taking in August of 2001, are you able to say with a degree of scientific certainty whether or not they are of the same person?"
+      "text": "Now, doctor, after examining the X-ray from -- purported to be from 1992 and those that you were involved in taking in August of 2001, are you able to say with a degree of scientific certainty whether or not they are of the same person?",
+      "examination": "direct"
     },
     {
       "id": 251,
@@ -1831,10 +1901,11 @@
     },
     {
       "id": 254,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, after examining or comparing the X-rays from 1992 with those that you were involved in taken in August of 2001, are you able to say whether or not these two -- the people or the bones depicted in both of these X-rays could not reasonably be of the same person?"
+      "text": "Doctor, after examining or comparing the X-rays from 1992 with those that you were involved in taken in August of 2001, are you able to say whether or not these two -- the people or the bones depicted in both of these X-rays could not reasonably be of the same person?",
+      "examination": "direct"
     },
     {
       "id": 255,
@@ -1846,10 +1917,11 @@
     },
     {
       "id": 256,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'm sorry, I didn't hear your answer."
+      "text": "I'm sorry, I didn't hear your answer.",
+      "examination": "direct"
     },
     {
       "id": 257,
@@ -1868,10 +1940,11 @@
     },
     {
       "id": 259,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Is there another structure on the two heels that is not similar? One by one, doctor."
+      "text": "Is there another structure on the two heels that is not similar? One by one, doctor.",
+      "examination": "direct"
     },
     {
       "id": 260,
@@ -1883,10 +1956,11 @@
     },
     {
       "id": 261,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, I'd ask you to put the number 2 next to those two structures you're now referring to."
+      "text": "Doctor, I'd ask you to put the number 2 next to those two structures you're now referring to.",
+      "examination": "direct"
     },
     {
       "id": 262,
@@ -1898,10 +1972,11 @@
     },
     {
       "id": 263,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Are there other structures that you can observe in the comparison of these two X-rays that are different?"
+      "text": "Are there other structures that you can observe in the comparison of these two X-rays that are different?",
+      "examination": "direct"
     },
     {
       "id": 264,
@@ -1913,10 +1988,11 @@
     },
     {
       "id": 265,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So you found a hole in the talus of the 1992 X-ray that you did not find in the 2001 X-ray; is that correct?"
+      "text": "So you found a hole in the talus of the 1992 X-ray that you did not find in the 2001 X-ray; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 266,
@@ -1928,10 +2004,11 @@
     },
     {
       "id": 267,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Are there any other differences in the heel structure?"
+      "text": "Are there any other differences in the heel structure?",
+      "examination": "direct"
     },
     {
       "id": 268,
@@ -2033,10 +2110,11 @@
     },
     {
       "id": 282,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, taking the totality of the all the comparisons that you made of the tibia, of the fibula, and the heel structures of the bone, are you able to render us an opinion whether or not the leg of the 1992 X-ray and that of Mr. Vasiljevic taken in August of 2001, could they reasonably be the same person?"
+      "text": "Doctor, taking the totality of the all the comparisons that you made of the tibia, of the fibula, and the heel structures of the bone, are you able to render us an opinion whether or not the leg of the 1992 X-ray and that of Mr. Vasiljevic taken in August of 2001, could they reasonably be the same person?",
+      "examination": "direct"
     },
     {
       "id": 283,
@@ -2062,10 +2140,11 @@
     },
     {
       "id": 286,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Is it reasonably possible that they are of the same person?"
+      "text": "Is it reasonably possible that they are of the same person?",
+      "examination": "direct"
     },
     {
       "id": 287,
@@ -2105,10 +2184,11 @@
     },
     {
       "id": 292,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, in addition to what you've testified to earlier today, did your examination of the 1992 X-ray indicate some irregularities regarding the labelling of that X-ray?"
+      "text": "Doctor, in addition to what you've testified to earlier today, did your examination of the 1992 X-ray indicate some irregularities regarding the labelling of that X-ray?",
+      "examination": "direct"
     },
     {
       "id": 293,
@@ -2120,10 +2200,11 @@
     },
     {
       "id": 294,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Well, in addition to that, were there other indications on or in the labelling portion of the X-ray that you found irregular?"
+      "text": "Well, in addition to that, were there other indications on or in the labelling portion of the X-ray that you found irregular?",
+      "examination": "direct"
     },
     {
       "id": 295,
@@ -2135,10 +2216,11 @@
     },
     {
       "id": 296,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Let me draw your attention to the bottom of the X-ray and there are several white boxes or the outlines of white boxes. Do you know which boxes I'm referring to?"
+      "text": "Let me draw your attention to the bottom of the X-ray and there are several white boxes or the outlines of white boxes. Do you know which boxes I'm referring to?",
+      "examination": "direct"
     },
     {
       "id": 297,
@@ -2150,10 +2232,11 @@
     },
     {
       "id": 298,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "In your experience as somebody who has examined numerous X-rays, would this be something that you would expect to find on an X-ray?"
+      "text": "In your experience as somebody who has examined numerous X-rays, would this be something that you would expect to find on an X-ray?",
+      "examination": "direct"
     },
     {
       "id": 299,
@@ -2165,10 +2248,11 @@
     },
     {
       "id": 300,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, I'd ask you --"
+      "text": "Doctor, I'd ask you --",
+      "examination": "direct"
     },
     {
       "id": 301,
@@ -2180,10 +2264,11 @@
     },
     {
       "id": 302,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "-- to just with your pen circle the areas which appear to you to be other labels placed on this X-ray. Would you just circle those areas that indicate that to you?"
+      "text": "-- to just with your pen circle the areas which appear to you to be other labels placed on this X-ray. Would you just circle those areas that indicate that to you?",
+      "examination": "direct"
     },
     {
       "id": 303,
@@ -2195,10 +2280,11 @@
     },
     {
       "id": 304,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, I'd ask to you put a number 1 next to the first sticker that you see on the bottom of this X-ray, just to indicate which one -- where that is. Just, not on the X-ray itself, doctor, on the exhibit that's on the ELMO, please."
+      "text": "Doctor, I'd ask to you put a number 1 next to the first sticker that you see on the bottom of this X-ray, just to indicate which one -- where that is. Just, not on the X-ray itself, doctor, on the exhibit that's on the ELMO, please.",
+      "examination": "direct"
     },
     {
       "id": 305,
@@ -2210,10 +2296,11 @@
     },
     {
       "id": 306,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'm not asking you to tell us which came first. Can you put the numbers 1, 2 and 3 next to the three different labels that you see evidence of on the X-ray?"
+      "text": "I'm not asking you to tell us which came first. Can you put the numbers 1, 2 and 3 next to the three different labels that you see evidence of on the X-ray?",
+      "examination": "direct"
     },
     {
       "id": 307,
@@ -2225,10 +2312,11 @@
     },
     {
       "id": 308,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I would ask you to just repeat those markings on the exhibit that's on the ELMO."
+      "text": "I would ask you to just repeat those markings on the exhibit that's on the ELMO.",
+      "examination": "direct"
     },
     {
       "id": 309,
@@ -2240,10 +2328,11 @@
     },
     {
       "id": 310,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Yes. Number 1, 2, and 3 to indicate the three different labels that you see."
+      "text": "Yes. Number 1, 2, and 3 to indicate the three different labels that you see.",
+      "examination": "direct"
     },
     {
       "id": 311,
@@ -2255,10 +2344,11 @@
     },
     {
       "id": 312,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, doctor. Now, during the course of your examination of Mr. Mitar Vasiljevic, did you interview him regarding how he injured his leg?"
+      "text": "Thank you, doctor. Now, during the course of your examination of Mr. Mitar Vasiljevic, did you interview him regarding how he injured his leg?",
+      "examination": "direct"
     },
     {
       "id": 313,
@@ -2270,10 +2360,11 @@
     },
     {
       "id": 314,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Can you summarise for us how it was he told you he injured his leg?"
+      "text": "Can you summarise for us how it was he told you he injured his leg?",
+      "examination": "direct"
     },
     {
       "id": 315,
@@ -2285,10 +2376,11 @@
     },
     {
       "id": 316,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did he say that a horse did fall on his leg?"
+      "text": "Did he say that a horse did fall on his leg?",
+      "examination": "direct"
     },
     {
       "id": 317,
@@ -2300,10 +2392,11 @@
     },
     {
       "id": 318,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, the injuries that you --"
+      "text": "Now, the injuries that you --",
+      "examination": "direct"
     },
     {
       "id": 319,
@@ -2315,10 +2408,11 @@
     },
     {
       "id": 320,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "The injuries that you observed in the X-ray, the 2001 X-ray, were they consistent with his description of how he received a broken leg?"
+      "text": "The injuries that you observed in the X-ray, the 2001 X-ray, were they consistent with his description of how he received a broken leg?",
+      "examination": "direct"
     },
     {
       "id": 321,
@@ -2330,10 +2424,11 @@
     },
     {
       "id": 322,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And would the fractures that you observed in the 2001 X-ray also be consistent with somebody slipping and falling on a steep, grassy embankment?"
+      "text": "And would the fractures that you observed in the 2001 X-ray also be consistent with somebody slipping and falling on a steep, grassy embankment?",
+      "examination": "direct"
     },
     {
       "id": 323,
@@ -2345,10 +2440,11 @@
     },
     {
       "id": 324,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'm going to ask that the witness now be shown Prosecution document number 62, a translation of the medical history form which is already in evidence as P138."
+      "text": "I'm going to ask that the witness now be shown Prosecution document number 62, a translation of the medical history form which is already in evidence as P138.",
+      "examination": "direct"
     },
     {
       "id": 325,
@@ -2408,10 +2504,11 @@
     },
     {
       "id": 333,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, Exhibit number 62 you've had an opportunity to see this document already, haven't you?"
+      "text": "Doctor, Exhibit number 62 you've had an opportunity to see this document already, haven't you?",
+      "examination": "direct"
     },
     {
       "id": 334,
@@ -2423,10 +2520,11 @@
     },
     {
       "id": 335,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Are you are observations regarding the injury that you could see on the X-ray that -- the 2001 X-ray, are they consistent with the diagnosis indicated on lines 10 and 11 on this medical history form?"
+      "text": "Are you are observations regarding the injury that you could see on the X-ray that -- the 2001 X-ray, are they consistent with the diagnosis indicated on lines 10 and 11 on this medical history form?",
+      "examination": "direct"
     },
     {
       "id": 336,
@@ -2537,10 +2635,11 @@
     },
     {
       "id": 351,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Doctor, I want to draw your attention to line number 20. Does this form indicate the date and the time that the person sustained their injury?"
+      "text": "Doctor, I want to draw your attention to line number 20. Does this form indicate the date and the time that the person sustained their injury?",
+      "examination": "direct"
     },
     {
       "id": 352,
@@ -2552,10 +2651,11 @@
     },
     {
       "id": 353,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And the date an hour of injury were left blank on this document; is that correct? Did you answer yes?"
+      "text": "And the date an hour of injury were left blank on this document; is that correct? Did you answer yes?",
+      "examination": "direct"
     },
     {
       "id": 354,
@@ -2567,10 +2667,11 @@
     },
     {
       "id": 355,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, would it be standard medical practice during the initial interview or initial examination of an injured person to ask them how they received their injury, assuming that the person was conscious at the time?"
+      "text": "Now, would it be standard medical practice during the initial interview or initial examination of an injured person to ask them how they received their injury, assuming that the person was conscious at the time?",
+      "examination": "direct"
     },
     {
       "id": 356,
@@ -2582,10 +2683,11 @@
     },
     {
       "id": 357,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And if the patient is conscious, wouldn't the doctor interview the patient and ask the patient him or herself how it was they were injured?"
+      "text": "And if the patient is conscious, wouldn't the doctor interview the patient and ask the patient him or herself how it was they were injured?",
+      "examination": "direct"
     },
     {
       "id": 358,
@@ -2597,10 +2699,11 @@
     },
     {
       "id": 359,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I want to draw your attention to the third page of this exhibit and ask you to read aloud the first paragraph of a note by Dr. Jovicevic?"
+      "text": "I want to draw your attention to the third page of this exhibit and ask you to read aloud the first paragraph of a note by Dr. Jovicevic?",
+      "examination": "direct"
     },
     {
       "id": 360,
@@ -2612,10 +2715,11 @@
     },
     {
       "id": 361,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Perhaps if you don't mind if you read this portion in English as that is what we have before us?"
+      "text": "Perhaps if you don't mind if you read this portion in English as that is what we have before us?",
+      "examination": "direct"
     },
     {
       "id": 362,
@@ -2627,10 +2731,11 @@
     },
     {
       "id": 363,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, doctor. During your examination of the medical history form in this case, did you find any reference to a horse or an accident involving a horse?"
+      "text": "Thank you, doctor. During your examination of the medical history form in this case, did you find any reference to a horse or an accident involving a horse?",
+      "examination": "direct"
     },
     {
       "id": 364,
@@ -2652,14 +2757,15 @@
       "speaker": "JUDGE HUNT",
       "role": "judge",
       "type": "statement",
-      "text": "Mr. Domazet? Cross-examined by Mr. Domazet:"
+      "text": "Mr. Domazet?"
     },
     {
       "id": 367,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "[Interpretation] Dr. De Grave, if I understood you correctly, from the X-rays taken in 2001, it is possible to conclude that in the case of Mitar Vasiljevic, the fractures occurred as indicated in the case history issued by the hospital that you have just reviewed. Is that true?"
+      "text": "[Interpretation] Dr. De Grave, if I understood you correctly, from the X-rays taken in 2001, it is possible to conclude that in the case of Mitar Vasiljevic, the fractures occurred as indicated in the case history issued by the hospital that you have just reviewed. Is that true?",
+      "examination": "cross"
     },
     {
       "id": 368,
@@ -2671,10 +2777,11 @@
     },
     {
       "id": 369,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "You also found traces of traction on the X-rays. My question is whether your examination of Mitar Vasiljevic's leg also showed such signs. Is it possible to establish any such signs of traction?"
+      "text": "You also found traces of traction on the X-rays. My question is whether your examination of Mitar Vasiljevic's leg also showed such signs. Is it possible to establish any such signs of traction?",
+      "examination": "cross"
     },
     {
       "id": 370,
@@ -2686,10 +2793,11 @@
     },
     {
       "id": 371,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Groome asked you about the standard procedure for filling in case history forms such as the one you have in front of you. Are you familiar with the standards that used to be applied, especially in those days, that is almost ten years ago, in Yugoslavia, or is what you are saying based on the standard procedure in your country, that is, in Belgium?"
+      "text": "Mr. Groome asked you about the standard procedure for filling in case history forms such as the one you have in front of you. Are you familiar with the standards that used to be applied, especially in those days, that is almost ten years ago, in Yugoslavia, or is what you are saying based on the standard procedure in your country, that is, in Belgium?",
+      "examination": "cross"
     },
     {
       "id": 372,
@@ -2701,10 +2809,11 @@
     },
     {
       "id": 373,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Yes. Mr. De Grave, you were talking about a military document and the military, the army. I would just like to draw your attention to the fact that this document which is before you, and it is Exhibit P62, or 136 of the English version, is a document issued by a civilian hospital, not a military hospital. It is a document that is issued for civilians and not for military men."
+      "text": "Yes. Mr. De Grave, you were talking about a military document and the military, the army. I would just like to draw your attention to the fact that this document which is before you, and it is Exhibit P62, or 136 of the English version, is a document issued by a civilian hospital, not a military hospital. It is a document that is issued for civilians and not for military men.",
+      "examination": "cross"
     },
     {
       "id": 374,
@@ -2716,10 +2825,11 @@
     },
     {
       "id": 375,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Yes, I agree with you. In this document where the date and hour of the injury should be filled in, nothing has, in fact, been filled in, and we really don't know why that wasn't done, whether the practice should have been applied to all cases or not, but I thought you were talking about military hospitals and military forms. My question is whether a form of this kind, though this is a translation and it is difficult for you to say whether it is an internationally acceptable form or is it a form specially adapted to local circumstances in Yugoslavia?"
+      "text": "Yes, I agree with you. In this document where the date and hour of the injury should be filled in, nothing has, in fact, been filled in, and we really don't know why that wasn't done, whether the practice should have been applied to all cases or not, but I thought you were talking about military hospitals and military forms. My question is whether a form of this kind, though this is a translation and it is difficult for you to say whether it is an internationally acceptable form or is it a form specially adapted to local circumstances in Yugoslavia?",
+      "examination": "cross"
     },
     {
       "id": 376,
@@ -2731,10 +2841,11 @@
     },
     {
       "id": 377,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. De Grave, have you had occasion to review a copy of the discharge document issued by the same hospital of the 6th of May 1993? And the diagnosis is refractura cruris sinistra. So a little less than a year after this first injury dated the 14th of June 1992."
+      "text": "Mr. De Grave, have you had occasion to review a copy of the discharge document issued by the same hospital of the 6th of May 1993? And the diagnosis is refractura cruris sinistra. So a little less than a year after this first injury dated the 14th of June 1992.",
+      "examination": "cross"
     },
     {
       "id": 378,
@@ -2746,10 +2857,11 @@
     },
     {
       "id": 379,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "If this is a repeated fracture of the same leg, is it possible for the fracture to occur in the same place or, rather, if it is in a different location, would there be traces on the X-ray -- your X-rays, of 2001?"
+      "text": "If this is a repeated fracture of the same leg, is it possible for the fracture to occur in the same place or, rather, if it is in a different location, would there be traces on the X-ray -- your X-rays, of 2001?",
+      "examination": "cross"
     },
     {
       "id": 380,
@@ -2761,10 +2873,11 @@
     },
     {
       "id": 381,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "So if I understood you correctly, Doctor, it is possible that, in the case of a repeated fracture that occurred within a period of less than a year since the first fracture, that such a refracture could have existed and that your X-rays from the year 2001 do not exclude that possibility?"
+      "text": "So if I understood you correctly, Doctor, it is possible that, in the case of a repeated fracture that occurred within a period of less than a year since the first fracture, that such a refracture could have existed and that your X-rays from the year 2001 do not exclude that possibility?",
+      "examination": "cross"
     },
     {
       "id": 382,
@@ -2810,10 +2923,11 @@
     },
     {
       "id": 388,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. De Grave, yes, you explained regarding fractures that would occur after a period of two years. But this was not the case here. And I am just interested in the possibility of a further fracture within a period of less than one year since the original fracture. So is it possible that such a further fracture occurred without this being specifically visible on the X-rays you took in 2001?"
+      "text": "Dr. De Grave, yes, you explained regarding fractures that would occur after a period of two years. But this was not the case here. And I am just interested in the possibility of a further fracture within a period of less than one year since the original fracture. So is it possible that such a further fracture occurred without this being specifically visible on the X-rays you took in 2001?",
+      "examination": "cross"
     },
     {
       "id": 389,
@@ -2825,10 +2939,11 @@
     },
     {
       "id": 390,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. De Grave, in your written report, in the part on the discussion and answer to questions, there is a question as to: Can you see whether the leg was fractured one time or more than once? Your answer is: \"No, after more than two years, we can't see whether the leg was fractured once or several times or more than once. It is possible that the two bones of the lower leg were broken separately in different orders.\" What I have just read out, does it differ from your previous answer? Because it seems to me that it does."
+      "text": "Mr. De Grave, in your written report, in the part on the discussion and answer to questions, there is a question as to: Can you see whether the leg was fractured one time or more than once? Your answer is: \"No, after more than two years, we can't see whether the leg was fractured once or several times or more than once. It is possible that the two bones of the lower leg were broken separately in different orders.\" What I have just read out, does it differ from your previous answer? Because it seems to me that it does.",
+      "examination": "cross"
     },
     {
       "id": 391,
@@ -2840,10 +2955,11 @@
     },
     {
       "id": 392,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "On that same page, may I read a little further on, where it says: \"When a second fracturing incident of the lower leg happens, in the not too distant future, and certainly within one year, that fracture shall overcome on the same location as the first fracture.\""
+      "text": "On that same page, may I read a little further on, where it says: \"When a second fracturing incident of the lower leg happens, in the not too distant future, and certainly within one year, that fracture shall overcome on the same location as the first fracture.\"",
+      "examination": "cross"
     },
     {
       "id": 393,
@@ -2855,10 +2971,11 @@
     },
     {
       "id": 394,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "You are mentioning as one of the arguments the fact that the bone healed well. Could that good healing have occurred after the repeated fracture, the second fracture?"
+      "text": "You are mentioning as one of the arguments the fact that the bone healed well. Could that good healing have occurred after the repeated fracture, the second fracture?",
+      "examination": "cross"
     },
     {
       "id": 395,
@@ -2870,10 +2987,11 @@
     },
     {
       "id": 396,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Could you explain to me, then, what I have just read out in relation to what I have asked? Because otherwise, I really don't see the -- don't understand the meaning of this written answer."
+      "text": "Could you explain to me, then, what I have just read out in relation to what I have asked? Because otherwise, I really don't see the -- don't understand the meaning of this written answer.",
+      "examination": "cross"
     },
     {
       "id": 397,
@@ -2885,10 +3003,11 @@
     },
     {
       "id": 398,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "If necessary, I can read it again?"
+      "text": "If necessary, I can read it again?",
+      "examination": "cross"
     },
     {
       "id": 399,
@@ -2927,10 +3046,11 @@
     },
     {
       "id": 404,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "But doctor, you were answering the question regarding this particular case. And later on, on that same page, you can find verbatim, and I quote, \"When a second fracturing incident of the lower leg happened, in the not too distant future, and certainly within one year, that fracture shall overcome on the same localization as the first fracture.\" What does this mean, then, this answer? What does your answer mean?"
+      "text": "But doctor, you were answering the question regarding this particular case. And later on, on that same page, you can find verbatim, and I quote, \"When a second fracturing incident of the lower leg happened, in the not too distant future, and certainly within one year, that fracture shall overcome on the same localization as the first fracture.\" What does this mean, then, this answer? What does your answer mean?",
+      "examination": "cross"
     },
     {
       "id": 405,
@@ -2942,10 +3062,11 @@
     },
     {
       "id": 406,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "The question is, whether this second incident that you mention, is it a refracture or a repeated fracture of the leg? Because there is no other incident that we could have been referring to."
+      "text": "The question is, whether this second incident that you mention, is it a refracture or a repeated fracture of the leg? Because there is no other incident that we could have been referring to.",
+      "examination": "cross"
     },
     {
       "id": 407,
@@ -3042,10 +3163,11 @@
     },
     {
       "id": 420,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Have I understood you correctly, then, doctor? It is within this period of two years that that is possible, that is to say the time limit within which we speak that a refracturing was possible?"
+      "text": "Have I understood you correctly, then, doctor? It is within this period of two years that that is possible, that is to say the time limit within which we speak that a refracturing was possible?",
+      "examination": "cross"
     },
     {
       "id": 421,
@@ -3057,10 +3179,11 @@
     },
     {
       "id": 422,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "One more question, Dr. De Grave: In view of the concrete situation, this fracture with traction, fracture plus traction, which is the case in hand, on the basis of your report, in a hospital of that type, traction would have to last six weeks, and after that period of six weeks, after a plaster cast has been worn, the fracture can be reduced and then you use a word, you use a term, which is probably not English, and all this is accompanied by a six-week recovery period. Does that mean that you consider that six weeks were necessary, six weeks of traction, plus six weeks of wearing a plaster cast and at least six weeks of rehabilitation after that? Did I understand you properly?"
+      "text": "One more question, Dr. De Grave: In view of the concrete situation, this fracture with traction, fracture plus traction, which is the case in hand, on the basis of your report, in a hospital of that type, traction would have to last six weeks, and after that period of six weeks, after a plaster cast has been worn, the fracture can be reduced and then you use a word, you use a term, which is probably not English, and all this is accompanied by a six-week recovery period. Does that mean that you consider that six weeks were necessary, six weeks of traction, plus six weeks of wearing a plaster cast and at least six weeks of rehabilitation after that? Did I understand you properly?",
+      "examination": "cross"
     },
     {
       "id": 423,
@@ -3072,10 +3195,11 @@
     },
     {
       "id": 424,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "On the basis of your written report dated the 26th of August, you state the following: \"In regional hospitals, and when there is a shortage of medical materials, a traction throughout six weeks, followed by six weeks in a plaster cast, can replace the reduction of the fracture by means of a,\" something I can't read, \"Kuntchner nail,\" you say, whatever language that is. Then it says: \"This all will be followed by six weeks revalidation at least.\" Do I understand you properly that in a fracture of this kind, traction lasts six weeks, plaster cast is a further six weeks, so six plus six weeks for a plaster cast, and finally at least another six weeks for rehabilitation? That was my question."
+      "text": "On the basis of your written report dated the 26th of August, you state the following: \"In regional hospitals, and when there is a shortage of medical materials, a traction throughout six weeks, followed by six weeks in a plaster cast, can replace the reduction of the fracture by means of a,\" something I can't read, \"Kuntchner nail,\" you say, whatever language that is. Then it says: \"This all will be followed by six weeks revalidation at least.\" Do I understand you properly that in a fracture of this kind, traction lasts six weeks, plaster cast is a further six weeks, so six plus six weeks for a plaster cast, and finally at least another six weeks for rehabilitation? That was my question.",
+      "examination": "cross"
     },
     {
       "id": 425,
@@ -3087,10 +3211,11 @@
     },
     {
       "id": 426,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "One more point, Dr. De Grave, although this might be common knowledge to laymen as well, but I think it would be a good idea for you to tell us. When we deal with traction in cases of this kind, does that mean immobilisation, that the patient has to lie in bed immobile with weights on their legs, with the impossibility of any kind of movement even within a hospital room or a room?"
+      "text": "One more point, Dr. De Grave, although this might be common knowledge to laymen as well, but I think it would be a good idea for you to tell us. When we deal with traction in cases of this kind, does that mean immobilisation, that the patient has to lie in bed immobile with weights on their legs, with the impossibility of any kind of movement even within a hospital room or a room?",
+      "examination": "cross"
     },
     {
       "id": 427,
@@ -3102,10 +3227,11 @@
     },
     {
       "id": 428,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Apart -- unless the therapy does not include alcohol as well. Is that possible for the therapy to include alcohol?"
+      "text": "Apart -- unless the therapy does not include alcohol as well. Is that possible for the therapy to include alcohol?",
+      "examination": "cross"
     },
     {
       "id": 429,
@@ -3155,14 +3281,15 @@
       "speaker": "JUDGE HUNT",
       "role": "judge",
       "type": "statement",
-      "text": "Very well, then. Thank you. Yes, Mr. Groome? Re-examined by Mr. Groome:"
+      "text": "Very well, then. Thank you. Yes, Mr. Groome?"
     },
     {
       "id": 436,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Dr. De Grave, Mr. Domazet has asked you or put to you some information regarding a possible injury of the accused in 1993. And the question that I have for you is, just looking at the X-rays that were taken in August of 2001, are they as -- are they also consistent with a single fracture to the -- Mr. Vasiljevic's leg occurring from an injury in 1993?"
+      "text": "Dr. De Grave, Mr. Domazet has asked you or put to you some information regarding a possible injury of the accused in 1993. And the question that I have for you is, just looking at the X-rays that were taken in August of 2001, are they as -- are they also consistent with a single fracture to the -- Mr. Vasiljevic's leg occurring from an injury in 1993?",
+      "examination": "re-direct"
     },
     {
       "id": 437,
@@ -3174,10 +3301,11 @@
     },
     {
       "id": 438,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Let me rephrase the question: Is it possible for you, simply looking at the X-ray taken in 2001, to tell us whether that fracture occurred in 1992 or 1993? Are you able to tell, just looking at the X-ray, the date at which the fracture occurred?"
+      "text": "Let me rephrase the question: Is it possible for you, simply looking at the X-ray taken in 2001, to tell us whether that fracture occurred in 1992 or 1993? Are you able to tell, just looking at the X-ray, the date at which the fracture occurred?",
+      "examination": "re-direct"
     },
     {
       "id": 439,
@@ -3203,10 +3331,11 @@
     },
     {
       "id": 442,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. One final question. Assuming Mr. Domazet's proposition that Mr. Vasiljevic may have broken his leg two different times, assuming that proposition, would it change your position whether the leg shown in X-ray from 1992 is not from the same person as the 2001 X-ray?"
+      "text": "Thank you. One final question. Assuming Mr. Domazet's proposition that Mr. Vasiljevic may have broken his leg two different times, assuming that proposition, would it change your position whether the leg shown in X-ray from 1992 is not from the same person as the 2001 X-ray?",
+      "examination": "re-direct"
     },
     {
       "id": 443,
@@ -3218,10 +3347,11 @@
     },
     {
       "id": 444,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So even if what Mr. Domazet is saying were to be true, that the -- Mr. Vasiljevic's leg was broken two times, is it still your opinion that the leg depicted in X-ray 1992 is of a different person than the leg of Mr. Vasiljevic?"
+      "text": "So even if what Mr. Domazet is saying were to be true, that the -- Mr. Vasiljevic's leg was broken two times, is it still your opinion that the leg depicted in X-ray 1992 is of a different person than the leg of Mr. Vasiljevic?",
+      "examination": "re-direct"
     },
     {
       "id": 445,
@@ -3233,10 +3363,11 @@
     },
     {
       "id": 446,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So it is still your opinion at this time that the legs depicted in or the leg bone depicted in the X-ray from 1992 is that of a different person than that of Mr. Vasiljevic? Is that correct?"
+      "text": "So it is still your opinion at this time that the legs depicted in or the leg bone depicted in the X-ray from 1992 is that of a different person than that of Mr. Vasiljevic? Is that correct?",
+      "examination": "re-direct"
     },
     {
       "id": 447,
@@ -3629,14 +3760,15 @@
       "speaker": "JUDGE HUNT",
       "role": "judge",
       "type": "statement",
-      "text": "Obviously they weren't needed in this time, but it's just as well. You proceed, Mr. Groome. Examined by Mr. Groome: [Continued]"
+      "text": "Obviously they weren't needed in this time, but it's just as well. You proceed, Mr. Groome."
     },
     {
       "id": 501,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Witness 84, I apologise for the delay in resuming your testimony. Yesterday, you concluded your testimony at the point in time when you're inside the house by the creek. I want to draw your attention to a particular time when you were in that house. Did there come a time when you were aware of a fire inside of that house?"
+      "text": "Witness 84, I apologise for the delay in resuming your testimony. Yesterday, you concluded your testimony at the point in time when you're inside the house by the creek. I want to draw your attention to a particular time when you were in that house. Did there come a time when you were aware of a fire inside of that house?",
+      "examination": "direct"
     },
     {
       "id": 502,
@@ -3648,10 +3780,11 @@
     },
     {
       "id": 503,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell us what first brought your attention and what first made you aware of such a fire?"
+      "text": "Can you tell us what first brought your attention and what first made you aware of such a fire?",
+      "examination": "direct"
     },
     {
       "id": 504,
@@ -3663,10 +3796,11 @@
     },
     {
       "id": 505,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Where were you at the time the fire broke out?"
+      "text": "Where were you at the time the fire broke out?",
+      "examination": "direct"
     },
     {
       "id": 506,
@@ -3678,10 +3812,11 @@
     },
     {
       "id": 507,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Can you characterise for us the intensity of that fire?"
+      "text": "Can you characterise for us the intensity of that fire?",
+      "examination": "direct"
     },
     {
       "id": 508,
@@ -3693,10 +3828,11 @@
     },
     {
       "id": 509,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Was there much smoke from that fire?"
+      "text": "Was there much smoke from that fire?",
+      "examination": "direct"
     },
     {
       "id": 510,
@@ -3708,10 +3844,11 @@
     },
     {
       "id": 511,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did there come a time -- or you testified about receiving an injury from shrapnel. Was there an explosion inside of the house?"
+      "text": "Did there come a time -- or you testified about receiving an injury from shrapnel. Was there an explosion inside of the house?",
+      "examination": "direct"
     },
     {
       "id": 512,
@@ -3723,10 +3860,11 @@
     },
     {
       "id": 513,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And what happened when you were at the window?"
+      "text": "And what happened when you were at the window?",
+      "examination": "direct"
     },
     {
       "id": 514,
@@ -3738,10 +3876,11 @@
     },
     {
       "id": 515,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Were you able to see who threw that bomb inside the house?"
+      "text": "Were you able to see who threw that bomb inside the house?",
+      "examination": "direct"
     },
     {
       "id": 516,
@@ -3753,10 +3892,11 @@
     },
     {
       "id": 517,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "What happened after the bomb exploded?"
+      "text": "What happened after the bomb exploded?",
+      "examination": "direct"
     },
     {
       "id": 518,
@@ -3768,10 +3908,11 @@
     },
     {
       "id": 519,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "How far was the creek from the house?"
+      "text": "How far was the creek from the house?",
+      "examination": "direct"
     },
     {
       "id": 520,
@@ -3783,10 +3924,11 @@
     },
     {
       "id": 521,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And where did you go from the creek?"
+      "text": "And where did you go from the creek?",
+      "examination": "direct"
     },
     {
       "id": 522,
@@ -3798,10 +3940,11 @@
     },
     {
       "id": 523,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Were you aware that anyone else jumped out of that same window behind you?"
+      "text": "Were you aware that anyone else jumped out of that same window behind you?",
+      "examination": "direct"
     },
     {
       "id": 524,
@@ -3813,10 +3956,11 @@
     },
     {
       "id": 525,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now you mentioned going to a big tree. What did you do at that tree?"
+      "text": "Now you mentioned going to a big tree. What did you do at that tree?",
+      "examination": "direct"
     },
     {
       "id": 526,
@@ -3828,10 +3972,11 @@
     },
     {
       "id": 527,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Were you able to see the house from this tree, where you were hiding by this tree?"
+      "text": "Were you able to see the house from this tree, where you were hiding by this tree?",
+      "examination": "direct"
     },
     {
       "id": 528,
@@ -3843,10 +3988,11 @@
     },
     {
       "id": 529,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "But you were able to see the light from the flashlights?"
+      "text": "But you were able to see the light from the flashlights?",
+      "examination": "direct"
     },
     {
       "id": 530,
@@ -3858,10 +4004,11 @@
     },
     {
       "id": 531,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "For what period of time did the gunshots last at that time?"
+      "text": "For what period of time did the gunshots last at that time?",
+      "examination": "direct"
     },
     {
       "id": 532,
@@ -3873,10 +4020,11 @@
     },
     {
       "id": 533,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And approximately how long did the shooting last?"
+      "text": "And approximately how long did the shooting last?",
+      "examination": "direct"
     },
     {
       "id": 534,
@@ -3888,10 +4036,11 @@
     },
     {
       "id": 535,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did you see any other people attempt to get out of the house at that time?"
+      "text": "Did you see any other people attempt to get out of the house at that time?",
+      "examination": "direct"
     },
     {
       "id": 536,
@@ -3903,10 +4052,11 @@
     },
     {
       "id": 537,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "What could you hear from this tree?"
+      "text": "What could you hear from this tree?",
+      "examination": "direct"
     },
     {
       "id": 538,
@@ -3918,10 +4068,11 @@
     },
     {
       "id": 539,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Was there much smoke coming out of the house?"
+      "text": "Was there much smoke coming out of the house?",
+      "examination": "direct"
     },
     {
       "id": 540,
@@ -3933,10 +4084,11 @@
     },
     {
       "id": 541,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did there come a time when you left this hiding place by the tree?"
+      "text": "Did there come a time when you left this hiding place by the tree?",
+      "examination": "direct"
     },
     {
       "id": 542,
@@ -3948,10 +4100,11 @@
     },
     {
       "id": 543,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And where did you go?"
+      "text": "And where did you go?",
+      "examination": "direct"
     },
     {
       "id": 544,
@@ -3963,10 +4116,11 @@
     },
     {
       "id": 545,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And how long did you remain at this location?"
+      "text": "And how long did you remain at this location?",
+      "examination": "direct"
     },
     {
       "id": 546,
@@ -3978,10 +4132,11 @@
     },
     {
       "id": 547,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "From this vantage point, were you able to see the house?"
+      "text": "From this vantage point, were you able to see the house?",
+      "examination": "direct"
     },
     {
       "id": 548,
@@ -3993,10 +4148,11 @@
     },
     {
       "id": 549,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Were you able to hear any sounds coming from the house?"
+      "text": "Were you able to hear any sounds coming from the house?",
+      "examination": "direct"
     },
     {
       "id": 550,
@@ -4008,10 +4164,11 @@
     },
     {
       "id": 551,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "From this location, can you estimate for us how long the shooting continued?"
+      "text": "From this location, can you estimate for us how long the shooting continued?",
+      "examination": "direct"
     },
     {
       "id": 552,
@@ -4023,10 +4180,11 @@
     },
     {
       "id": 553,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And the crying that you've just mentioned, how long did that last?"
+      "text": "And the crying that you've just mentioned, how long did that last?",
+      "examination": "direct"
     },
     {
       "id": 554,
@@ -4038,10 +4196,11 @@
     },
     {
       "id": 555,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did you eventually leave that place and go to a village?"
+      "text": "Did you eventually leave that place and go to a village?",
+      "examination": "direct"
     },
     {
       "id": 556,
@@ -4053,10 +4212,11 @@
     },
     {
       "id": 557,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And what village did you go to?"
+      "text": "And what village did you go to?",
+      "examination": "direct"
     },
     {
       "id": 558,
@@ -4068,10 +4228,11 @@
     },
     {
       "id": 559,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And how long did you remain there before leaving?"
+      "text": "And how long did you remain there before leaving?",
+      "examination": "direct"
     },
     {
       "id": 560,
@@ -4083,10 +4244,11 @@
     },
     {
       "id": 561,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Yes."
+      "text": "Yes.",
+      "examination": "direct"
     },
     {
       "id": 562,
@@ -4098,10 +4260,11 @@
     },
     {
       "id": 563,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And where did you go from there?"
+      "text": "And where did you go from there?",
+      "examination": "direct"
     },
     {
       "id": 564,
@@ -4120,10 +4283,11 @@
     },
     {
       "id": 566,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Witness 84, there is a blue pen to your right in this device to your right. I'd ask you to take that blue pen -- actually I'd ask you just to make the markings on the desk in front of you."
+      "text": "Witness 84, there is a blue pen to your right in this device to your right. I'd ask you to take that blue pen -- actually I'd ask you just to make the markings on the desk in front of you.",
+      "examination": "direct"
     },
     {
       "id": 567,
@@ -4135,10 +4299,11 @@
     },
     {
       "id": 568,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'd ask you to write VG84 at the bottom of Exhibit 17.3."
+      "text": "I'd ask you to write VG84 at the bottom of Exhibit 17.3.",
+      "examination": "direct"
     },
     {
       "id": 569,
@@ -4150,10 +4315,11 @@
     },
     {
       "id": 570,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'd now ask to you write the number 1 on the Memic house."
+      "text": "I'd now ask to you write the number 1 on the Memic house.",
+      "examination": "direct"
     },
     {
       "id": 571,
@@ -4165,10 +4331,11 @@
     },
     {
       "id": 572,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'd ask to you write the number 2 on the house which caught fire."
+      "text": "I'd ask to you write the number 2 on the house which caught fire.",
+      "examination": "direct"
     },
     {
       "id": 573,
@@ -4180,10 +4347,11 @@
     },
     {
       "id": 574,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'd now ask you to draw a circle and inside it put the initials MV to show where Mitar Vasiljevic was at the time he said that he was a representative of the Red Cross."
+      "text": "I'd now ask you to draw a circle and inside it put the initials MV to show where Mitar Vasiljevic was at the time he said that he was a representative of the Red Cross.",
+      "examination": "direct"
     },
     {
       "id": 575,
@@ -4195,10 +4363,11 @@
     },
     {
       "id": 576,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, you've testified about hiding behind a big tree. I would ask you to approximate the location of that tree and put a circle with the number 84 to indicate where you were when you were hiding behind that tree."
+      "text": "Now, you've testified about hiding behind a big tree. I would ask you to approximate the location of that tree and put a circle with the number 84 to indicate where you were when you were hiding behind that tree.",
+      "examination": "direct"
     },
     {
       "id": 577,
@@ -4210,10 +4379,11 @@
     },
     {
       "id": 578,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And finally, I would ask you to put a X to indicate where it was you saw people with flashlights."
+      "text": "And finally, I would ask you to put a X to indicate where it was you saw people with flashlights.",
+      "examination": "direct"
     },
     {
       "id": 579,
@@ -4225,10 +4395,11 @@
     },
     {
       "id": 580,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Okay I'm going to ask that that now be placed on the ELMO and that the witness be given a pointer. Could we slide up the picture a little bit? Would I ask you, with the pointer, to indicate where you marked the house with the number 1."
+      "text": "Okay I'm going to ask that that now be placed on the ELMO and that the witness be given a pointer. Could we slide up the picture a little bit? Would I ask you, with the pointer, to indicate where you marked the house with the number 1.",
+      "examination": "direct"
     },
     {
       "id": 581,
@@ -4240,10 +4411,11 @@
     },
     {
       "id": 582,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And the house that you marked number 2?"
+      "text": "And the house that you marked number 2?",
+      "examination": "direct"
     },
     {
       "id": 583,
@@ -4255,10 +4427,11 @@
     },
     {
       "id": 584,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'd ask to you point and hold the pointer on the circle with MV to indicate where it was you saw Mr. Mitar Vasiljevic."
+      "text": "I'd ask to you point and hold the pointer on the circle with MV to indicate where it was you saw Mr. Mitar Vasiljevic.",
+      "examination": "direct"
     },
     {
       "id": 585,
@@ -4270,10 +4443,11 @@
     },
     {
       "id": 586,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I'd ask you now to point to the circle containing the number 84, to indicate where you were hiding behind the tree."
+      "text": "I'd ask you now to point to the circle containing the number 84, to indicate where you were hiding behind the tree.",
+      "examination": "direct"
     },
     {
       "id": 587,
@@ -4285,10 +4459,11 @@
     },
     {
       "id": 588,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And finally I'd ask you to point or indicate the X where you testified you saw somebody or people with flashlights?"
+      "text": "And finally I'd ask you to point or indicate the X where you testified you saw somebody or people with flashlights?",
+      "examination": "direct"
     },
     {
       "id": 589,
@@ -4300,10 +4475,11 @@
     },
     {
       "id": 590,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you. I'd ask that this now be tendered into evidence as Prosecution Exhibit 17.3.VG84?"
+      "text": "Thank you. I'd ask that this now be tendered into evidence as Prosecution Exhibit 17.3.VG84?",
+      "examination": "direct"
     },
     {
       "id": 591,
@@ -4335,10 +4511,11 @@
     },
     {
       "id": 595,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Witness 84, I'd ask you once again to put VG84 at the bottom of Exhibit 17.7."
+      "text": "Witness 84, I'd ask you once again to put VG84 at the bottom of Exhibit 17.7.",
+      "examination": "direct"
     },
     {
       "id": 596,
@@ -4350,10 +4527,11 @@
     },
     {
       "id": 597,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And I'd ask to you circle the window that you pushed your mother out of and you jumped out of?"
+      "text": "And I'd ask to you circle the window that you pushed your mother out of and you jumped out of?",
+      "examination": "direct"
     },
     {
       "id": 598,
@@ -4365,10 +4543,11 @@
     },
     {
       "id": 599,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And I now ask that that be placed on the ELMO. I would just ask to you indicate with the pointer the window you've just circled."
+      "text": "And I now ask that that be placed on the ELMO. I would just ask to you indicate with the pointer the window you've just circled.",
+      "examination": "direct"
     },
     {
       "id": 600,
@@ -4418,7 +4597,7 @@
       "speaker": "JUDGE HUNT",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you. It will be Exhibit P17.7.VG84. Yes, Mr. Domazet. Cross-examined by Mr. Domazet."
+      "text": "Thank you. It will be Exhibit P17.7.VG84. Yes, Mr. Domazet."
     },
     {
       "id": 607,
@@ -4429,10 +4608,11 @@
     },
     {
       "id": 608,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Good afternoon. Sir, I have -- I'm going to ask you about a few details as to what you saw regarding the encounter between (redacted) and Mitar Vasiljevic. On that occasion, did you notice that Mitar Vasiljevic was holding a bottle in his hand? Did you see a bottle at all?"
+      "text": "Good afternoon. Sir, I have -- I'm going to ask you about a few details as to what you saw regarding the encounter between (redacted) and Mitar Vasiljevic. On that occasion, did you notice that Mitar Vasiljevic was holding a bottle in his hand? Did you see a bottle at all?",
+      "examination": "cross"
     },
     {
       "id": 609,
@@ -4444,10 +4624,11 @@
     },
     {
       "id": 610,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Did you see him holding a megaphone? I assume you know what that is?"
+      "text": "Did you see him holding a megaphone? I assume you know what that is?",
+      "examination": "cross"
     },
     {
       "id": 611,
@@ -4459,10 +4640,11 @@
     },
     {
       "id": 612,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Would you be kind enough to tell me once again, to the best of your recollection, what he was wearing? Because you gave two alternative descriptions. Could you repeat what he was wearing?"
+      "text": "Would you be kind enough to tell me once again, to the best of your recollection, what he was wearing? Because you gave two alternative descriptions. Could you repeat what he was wearing?",
+      "examination": "cross"
     },
     {
       "id": 613,
@@ -4474,10 +4656,11 @@
     },
     {
       "id": 614,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Do you remember what he had on his feet?"
+      "text": "Do you remember what he had on his feet?",
+      "examination": "cross"
     },
     {
       "id": 615,
@@ -4489,10 +4672,11 @@
     },
     {
       "id": 616,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Were you looking at the time he was writing the certificate you mentioned?"
+      "text": "Were you looking at the time he was writing the certificate you mentioned?",
+      "examination": "cross"
     },
     {
       "id": 617,
@@ -4504,10 +4688,11 @@
     },
     {
       "id": 618,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Was that in the street outside the house?"
+      "text": "Was that in the street outside the house?",
+      "examination": "cross"
     },
     {
       "id": 619,
@@ -4519,10 +4704,11 @@
     },
     {
       "id": 620,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "So if I understand you correctly, he was writing this certificate in the street while he was standing with Mujo?"
+      "text": "So if I understand you correctly, he was writing this certificate in the street while he was standing with Mujo?",
+      "examination": "cross"
     },
     {
       "id": 621,
@@ -4534,10 +4720,11 @@
     },
     {
       "id": 622,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Wasn't it raining at the time?"
+      "text": "Wasn't it raining at the time?",
+      "examination": "cross"
     },
     {
       "id": 623,
@@ -4549,10 +4736,11 @@
     },
     {
       "id": 624,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Do you remember that on your way there, you got wet because it was raining when you were coming from the centre of town?"
+      "text": "Do you remember that on your way there, you got wet because it was raining when you were coming from the centre of town?",
+      "examination": "cross"
     },
     {
       "id": 625,
@@ -4564,10 +4752,11 @@
     },
     {
       "id": 626,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "What did (redacted) do with that certificate?"
+      "text": "What did (redacted) do with that certificate?",
+      "examination": "cross"
     },
     {
       "id": 627,
@@ -4579,10 +4768,11 @@
     },
     {
       "id": 628,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "So you didn't see him show it to anyone but you know that he took the certificate?"
+      "text": "So you didn't see him show it to anyone but you know that he took the certificate?",
+      "examination": "cross"
     },
     {
       "id": 629,
@@ -4594,10 +4784,11 @@
     },
     {
       "id": 630,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Did you see where he put the certificate?"
+      "text": "Did you see where he put the certificate?",
+      "examination": "cross"
     },
     {
       "id": 631,
@@ -4609,10 +4800,11 @@
     },
     {
       "id": 632,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Just one further point: Do you remember whether Mitar Vasiljevic had any kind of ribbon on one of his sleeves?"
+      "text": "Just one further point: Do you remember whether Mitar Vasiljevic had any kind of ribbon on one of his sleeves?",
+      "examination": "cross"
     },
     {
       "id": 633,
@@ -4624,10 +4816,11 @@
     },
     {
       "id": 634,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "When you were describing the three soldiers who were in the house, and you identified two of them as being Milan and Sredoje on the basis of what others told you?"
+      "text": "When you were describing the three soldiers who were in the house, and you identified two of them as being Milan and Sredoje on the basis of what others told you?",
+      "examination": "cross"
     },
     {
       "id": 635,
@@ -4639,10 +4832,11 @@
     },
     {
       "id": 636,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "The third soldier, did he have a mustache?"
+      "text": "The third soldier, did he have a mustache?",
+      "examination": "cross"
     },
     {
       "id": 637,
@@ -4654,10 +4848,11 @@
     },
     {
       "id": 638,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "If you can remember, when you jumped out of this house, you mentioned that after that, you saw these flashlights and you were afraid of being discovered, if I understood you correctly?"
+      "text": "If you can remember, when you jumped out of this house, you mentioned that after that, you saw these flashlights and you were afraid of being discovered, if I understood you correctly?",
+      "examination": "cross"
     },
     {
       "id": 639,
@@ -4669,10 +4864,11 @@
     },
     {
       "id": 640,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Without those flashlights, could one see? Was there sufficient light? Could you have been seen without the flashlights? Or were you afraid that the flashlights would light you up?"
+      "text": "Without those flashlights, could one see? Was there sufficient light? Could you have been seen without the flashlights? Or were you afraid that the flashlights would light you up?",
+      "examination": "cross"
     },
     {
       "id": 641,
@@ -4684,10 +4880,11 @@
     },
     {
       "id": 642,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "So when you say that, that you couldn't see, does that mean that you couldn't see from the smoke or was it because it was dark?"
+      "text": "So when you say that, that you couldn't see, does that mean that you couldn't see from the smoke or was it because it was dark?",
+      "examination": "cross"
     },
     {
       "id": 643,
@@ -4699,10 +4896,11 @@
     },
     {
       "id": 644,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Yes, but you haven't answered my question; that is, you were afraid of these flashlights lighting you up but was it possible to see without the flashlights or was it so dark that it was not possible to see without flashlights?"
+      "text": "Yes, but you haven't answered my question; that is, you were afraid of these flashlights lighting you up but was it possible to see without the flashlights or was it so dark that it was not possible to see without flashlights?",
+      "examination": "cross"
     },
     {
       "id": 645,
@@ -4714,10 +4912,11 @@
     },
     {
       "id": 646,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Could you see who was holding the flashlights?"
+      "text": "Could you see who was holding the flashlights?",
+      "examination": "cross"
     },
     {
       "id": 647,
@@ -4729,10 +4928,11 @@
     },
     {
       "id": 648,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Why?"
+      "text": "Why?",
+      "examination": "cross"
     },
     {
       "id": 649,
@@ -4744,10 +4944,11 @@
     },
     {
       "id": 650,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "A moment ago on the photograph, you drew a circle around the window you jumped out of and according to the photograph, it is the second window?"
+      "text": "A moment ago on the photograph, you drew a circle around the window you jumped out of and according to the photograph, it is the second window?",
+      "examination": "cross"
     },
     {
       "id": 651,
@@ -4759,10 +4960,11 @@
     },
     {
       "id": 652,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "What was on the window before you jumped out, before anybody jumped out, in fact?"
+      "text": "What was on the window before you jumped out, before anybody jumped out, in fact?",
+      "examination": "cross"
     },
     {
       "id": 653,
@@ -4774,10 +4976,11 @@
     },
     {
       "id": 654,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "What about the first window? Was that the same?"
+      "text": "What about the first window? Was that the same?",
+      "examination": "cross"
     },
     {
       "id": 655,
@@ -4789,10 +4992,11 @@
     },
     {
       "id": 656,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Well, I'm asking if you know."
+      "text": "Well, I'm asking if you know.",
+      "examination": "cross"
     },
     {
       "id": 657,
@@ -4804,10 +5008,11 @@
     },
     {
       "id": 658,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Did you happen to see anyone jumping out of that other window?"
+      "text": "Did you happen to see anyone jumping out of that other window?",
+      "examination": "cross"
     },
     {
       "id": 659,
@@ -4819,10 +5024,11 @@
     },
     {
       "id": 660,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "At the point at which you yourself jumped out and fled towards the creek, were there any soldiers there shooting at you? There weren't. I understand you to say that there weren't any soldiers shooting at you?"
+      "text": "At the point at which you yourself jumped out and fled towards the creek, were there any soldiers there shooting at you? There weren't. I understand you to say that there weren't any soldiers shooting at you?",
+      "examination": "cross"
     },
     {
       "id": 661,
@@ -4834,10 +5040,11 @@
     },
     {
       "id": 662,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "When you said that some people were shot at and hit and killed underneath the window, below the window, did you see that personally yourself? Were you able to see that personally or did you assume that or hear it from somebody perhaps?"
+      "text": "When you said that some people were shot at and hit and killed underneath the window, below the window, did you see that personally yourself? Were you able to see that personally or did you assume that or hear it from somebody perhaps?",
+      "examination": "cross"
     },
     {
       "id": 663,
@@ -4849,10 +5056,11 @@
     },
     {
       "id": 664,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "My question was: Did you see this yourself directly or do you assume that that's how it was?"
+      "text": "My question was: Did you see this yourself directly or do you assume that that's how it was?",
+      "examination": "cross"
     },
     {
       "id": 665,
@@ -4864,10 +5072,11 @@
     },
     {
       "id": 666,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "What did you see in that split second?"
+      "text": "What did you see in that split second?",
+      "examination": "cross"
     },
     {
       "id": 667,
@@ -4879,10 +5088,11 @@
     },
     {
       "id": 668,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Yes, of course I understand. I do understand. But I'm interested in one more thing, if you can remember. On the photograph a moment ago, you drew in the spot where you saw the flashlight throwing light on this area. Now, that individual or individuals, if there are more of them, how far away were they from that other room -- window where you saw the people jumping out of?"
+      "text": "Yes, of course I understand. I do understand. But I'm interested in one more thing, if you can remember. On the photograph a moment ago, you drew in the spot where you saw the flashlight throwing light on this area. Now, that individual or individuals, if there are more of them, how far away were they from that other room -- window where you saw the people jumping out of?",
+      "examination": "cross"
     },
     {
       "id": 669,
@@ -4894,10 +5104,11 @@
     },
     {
       "id": 670,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "If you take the corner of the house, the edge of the house, could you determine the point where the flashlight was? You drew it for us a moment ago."
+      "text": "If you take the corner of the house, the edge of the house, could you determine the point where the flashlight was? You drew it for us a moment ago.",
+      "examination": "cross"
     },
     {
       "id": 671,
@@ -4909,10 +5120,11 @@
     },
     {
       "id": 672,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Well, you don't have to, if you're not sure."
+      "text": "Well, you don't have to, if you're not sure.",
+      "examination": "cross"
     },
     {
       "id": 673,
@@ -5088,14 +5300,15 @@
       "speaker": "JUDGE HUNT",
       "role": "judge",
       "type": "statement",
-      "text": "Sit down, please, sir. Examined by Mr. Groome:"
+      "text": "Sit down, please, sir."
     },
     {
       "id": 698,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Investigator Roy, the Prosecution number 92 has given to you and it contains the names and numbers of protected witnesses. I would ask you during the course of your testimony to please refer to those witnesses by their number."
+      "text": "Investigator Roy, the Prosecution number 92 has given to you and it contains the names and numbers of protected witnesses. I would ask you during the course of your testimony to please refer to those witnesses by their number.",
+      "examination": "direct"
     },
     {
       "id": 699,
@@ -5107,10 +5320,11 @@
     },
     {
       "id": 700,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Investigator Roy, would you please begin by describing for the Court your background?"
+      "text": "Investigator Roy, would you please begin by describing for the Court your background?",
+      "examination": "direct"
     },
     {
       "id": 701,
@@ -5129,10 +5343,11 @@
     },
     {
       "id": 703,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "In your work with the RCMP, would it be fair to say that you were involved in investigations in numerous countries outside of Canada?"
+      "text": "In your work with the RCMP, would it be fair to say that you were involved in investigations in numerous countries outside of Canada?",
+      "examination": "direct"
     },
     {
       "id": 704,
@@ -5144,10 +5359,11 @@
     },
     {
       "id": 705,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Pursuant to your duties with the Office of the Prosecutor, were you assigned to investigate some of the crimes alleged to have been committed in the town of Visegrad?"
+      "text": "Pursuant to your duties with the Office of the Prosecutor, were you assigned to investigate some of the crimes alleged to have been committed in the town of Visegrad?",
+      "examination": "direct"
     },
     {
       "id": 706,
@@ -5159,10 +5375,11 @@
     },
     {
       "id": 707,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "In connection with this case, the case against Mr. Vasiljevic, did you show photo arrays to several witnesses?"
+      "text": "In connection with this case, the case against Mr. Vasiljevic, did you show photo arrays to several witnesses?",
+      "examination": "direct"
     },
     {
       "id": 708,
@@ -5174,10 +5391,11 @@
     },
     {
       "id": 709,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Can you please describe briefly the general procedure that you followed when you showed photo arrays to witnesses?"
+      "text": "Can you please describe briefly the general procedure that you followed when you showed photo arrays to witnesses?",
+      "examination": "direct"
     },
     {
       "id": 710,
@@ -5189,10 +5407,11 @@
     },
     {
       "id": 711,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And if a witness is able to recognise somebody, what procedure do you then follow?"
+      "text": "And if a witness is able to recognise somebody, what procedure do you then follow?",
+      "examination": "direct"
     },
     {
       "id": 712,
@@ -5204,10 +5423,11 @@
     },
     {
       "id": 713,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did there come a time when you showed VG80 such a photo array according to that procedure?"
+      "text": "Did there come a time when you showed VG80 such a photo array according to that procedure?",
+      "examination": "direct"
     },
     {
       "id": 714,
@@ -5219,10 +5439,11 @@
     },
     {
       "id": 715,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did you show such a photo array to VG81?"
+      "text": "Did you show such a photo array to VG81?",
+      "examination": "direct"
     },
     {
       "id": 716,
@@ -5234,10 +5455,11 @@
     },
     {
       "id": 717,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And how about to --"
+      "text": "And how about to --",
+      "examination": "direct"
     },
     {
       "id": 718,
@@ -5255,10 +5477,11 @@
     },
     {
       "id": 720,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And can you tell us with respect to VG38 did you also show a photo array to that witness?"
+      "text": "And can you tell us with respect to VG38 did you also show a photo array to that witness?",
+      "examination": "direct"
     },
     {
       "id": 721,
@@ -5270,10 +5493,11 @@
     },
     {
       "id": 722,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, can you describe for us how it is that you locate witnesses or how did you locate witnesses in this particular case?"
+      "text": "Now, can you describe for us how it is that you locate witnesses or how did you locate witnesses in this particular case?",
+      "examination": "direct"
     },
     {
       "id": 723,
@@ -5285,10 +5509,11 @@
     },
     {
       "id": 724,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I want to ask you specifically about witnesses VG78 and VG101, was it you that located those witnesses?"
+      "text": "I want to ask you specifically about witnesses VG78 and VG101, was it you that located those witnesses?",
+      "examination": "direct"
     },
     {
       "id": 725,
@@ -5300,10 +5525,11 @@
     },
     {
       "id": 726,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, did there come a time when you met and interviewed both VG78 and VG101?"
+      "text": "Now, did there come a time when you met and interviewed both VG78 and VG101?",
+      "examination": "direct"
     },
     {
       "id": 727,
@@ -5315,10 +5541,11 @@
     },
     {
       "id": 728,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Sorry?"
+      "text": "Sorry?",
+      "examination": "direct"
     },
     {
       "id": 729,
@@ -5330,10 +5557,11 @@
     },
     {
       "id": 730,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "VG78, did she have the same name at the time you located her as the name that she had at the time of the fire in 1992?"
+      "text": "VG78, did she have the same name at the time you located her as the name that she had at the time of the fire in 1992?",
+      "examination": "direct"
     },
     {
       "id": 731,
@@ -5345,10 +5573,11 @@
     },
     {
       "id": 732,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I ask you the same question regarding VG101?"
+      "text": "I ask you the same question regarding VG101?",
+      "examination": "direct"
     },
     {
       "id": 733,
@@ -5360,10 +5589,11 @@
     },
     {
       "id": 734,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, I've given a person's pseudonym --"
+      "text": "Now, I've given a person's pseudonym --",
+      "examination": "direct"
     },
     {
       "id": 735,
@@ -5388,10 +5618,11 @@
     },
     {
       "id": 738,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "There is a person at the bottom of that pseudonym sheet who we've arbitrarily assigned the number VG999, one of the victims in the fire. Could you describe for us what is the relationship between VG999 and VG101 and VG78?"
+      "text": "There is a person at the bottom of that pseudonym sheet who we've arbitrarily assigned the number VG999, one of the victims in the fire. Could you describe for us what is the relationship between VG999 and VG101 and VG78?",
+      "examination": "direct"
     },
     {
       "id": 739,
@@ -5403,10 +5634,11 @@
     },
     {
       "id": 740,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "In the original interview of VG13, did she describe seeing VG999 and her children as being victims of the Pionirska Street fire?"
+      "text": "In the original interview of VG13, did she describe seeing VG999 and her children as being victims of the Pionirska Street fire?",
+      "examination": "direct"
     },
     {
       "id": 741,
@@ -5418,10 +5650,11 @@
     },
     {
       "id": 742,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And did she identify them by the name that they had or used at that time?"
+      "text": "And did she identify them by the name that they had or used at that time?",
+      "examination": "direct"
     },
     {
       "id": 743,
@@ -5433,10 +5666,11 @@
     },
     {
       "id": 744,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And did she identify, did she identify them both as sisters?"
+      "text": "And did she identify, did she identify them both as sisters?",
+      "examination": "direct"
     },
     {
       "id": 745,
@@ -5448,10 +5682,11 @@
     },
     {
       "id": 746,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Now, just to clear up some confusion, I draw your attention to VG79. Are there two individuals connected with this case that have the same name?"
+      "text": "Now, just to clear up some confusion, I draw your attention to VG79. Are there two individuals connected with this case that have the same name?",
+      "examination": "direct"
     },
     {
       "id": 747,
@@ -5463,10 +5698,11 @@
     },
     {
       "id": 748,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Without telling us who they are, we'll leave it to the Court to figure that out. During the course of your investigation, did you become aware that Mr. Vasiljevic had represented himself to be some type much official or have some official relationship with the Red Cross?"
+      "text": "Without telling us who they are, we'll leave it to the Court to figure that out. During the course of your investigation, did you become aware that Mr. Vasiljevic had represented himself to be some type much official or have some official relationship with the Red Cross?",
+      "examination": "direct"
     },
     {
       "id": 749,
@@ -5478,10 +5714,11 @@
     },
     {
       "id": 750,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And did you investigate that aspect of the case?"
+      "text": "And did you investigate that aspect of the case?",
+      "examination": "direct"
     },
     {
       "id": 751,
@@ -5493,10 +5730,11 @@
     },
     {
       "id": 752,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And did you receive a reply?"
+      "text": "And did you receive a reply?",
+      "examination": "direct"
     },
     {
       "id": 753,
@@ -5508,10 +5746,11 @@
     },
     {
       "id": 754,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And what did that reply indicate?"
+      "text": "And what did that reply indicate?",
+      "examination": "direct"
     },
     {
       "id": 755,
@@ -5523,10 +5762,11 @@
     },
     {
       "id": 756,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I Would ask at this time that the witness be shown Prosecution document 51."
+      "text": "I Would ask at this time that the witness be shown Prosecution document 51.",
+      "examination": "direct"
     },
     {
       "id": 757,
@@ -5537,10 +5777,11 @@
     },
     {
       "id": 758,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Investigator Roy, do you recognise what Exhibit 51 is?"
+      "text": "Investigator Roy, do you recognise what Exhibit 51 is?",
+      "examination": "direct"
     },
     {
       "id": 759,
@@ -5552,10 +5793,11 @@
     },
     {
       "id": 760,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "What is it?"
+      "text": "What is it?",
+      "examination": "direct"
     },
     {
       "id": 761,
@@ -5588,10 +5830,11 @@
     },
     {
       "id": 765,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Investigator Roy, did you also attempt to contact governmental authorities of the Republika Srpska to ascertain whether he represented any local branch of the Red Cross?"
+      "text": "Investigator Roy, did you also attempt to contact governmental authorities of the Republika Srpska to ascertain whether he represented any local branch of the Red Cross?",
+      "examination": "direct"
     },
     {
       "id": 766,
@@ -5603,10 +5846,11 @@
     },
     {
       "id": 767,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And did you in fact attempt to ascertain whether he had any type of official position for refugees or otherwise with the government of the Republika Srpska during the time period concerned in this case?"
+      "text": "And did you in fact attempt to ascertain whether he had any type of official position for refugees or otherwise with the government of the Republika Srpska during the time period concerned in this case?",
+      "examination": "direct"
     },
     {
       "id": 768,
@@ -5618,10 +5862,11 @@
     },
     {
       "id": 769,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And at that time, did you also make inquiry into the existence of any criminal record for Milan Lukic, Sredoje Lukic and Mitar Vasiljevic?"
+      "text": "And at that time, did you also make inquiry into the existence of any criminal record for Milan Lukic, Sredoje Lukic and Mitar Vasiljevic?",
+      "examination": "direct"
     },
     {
       "id": 770,
@@ -5640,10 +5885,11 @@
     },
     {
       "id": 772,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Investigator Roy, I'd ask to you look at Prosecution document number 69. Do you recognise what it is?"
+      "text": "Investigator Roy, I'd ask to you look at Prosecution document number 69. Do you recognise what it is?",
+      "examination": "direct"
     },
     {
       "id": 773,
@@ -5655,10 +5901,11 @@
     },
     {
       "id": 774,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And does it indicate whether or not Mr. Vasiljevic held any type of position with the Red Cross, the local red cross in the Republika Srpska?"
+      "text": "And does it indicate whether or not Mr. Vasiljevic held any type of position with the Red Cross, the local red cross in the Republika Srpska?",
+      "examination": "direct"
     },
     {
       "id": 775,
@@ -5670,10 +5917,11 @@
     },
     {
       "id": 776,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And does it indicate whether or not he had any position of appointment by the government of the Republika Srpska to any official duties in the time period concerned in this case?"
+      "text": "And does it indicate whether or not he had any position of appointment by the government of the Republika Srpska to any official duties in the time period concerned in this case?",
+      "examination": "direct"
     },
     {
       "id": 777,
@@ -5720,10 +5968,11 @@
     },
     {
       "id": 783,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did there come a time when you were involved in taking a statement from Mr. Vasiljevic in the matters concerned with this case?"
+      "text": "Did there come a time when you were involved in taking a statement from Mr. Vasiljevic in the matters concerned with this case?",
+      "examination": "direct"
     },
     {
       "id": 784,
@@ -5735,10 +5984,11 @@
     },
     {
       "id": 785,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "And did Mr. Vasiljevic make any statement to you regarding any activity or anything he did after the killing of the man at the Drina River?"
+      "text": "And did Mr. Vasiljevic make any statement to you regarding any activity or anything he did after the killing of the man at the Drina River?",
+      "examination": "direct"
     },
     {
       "id": 786,
@@ -5777,10 +6027,11 @@
     },
     {
       "id": 791,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Let me ask you this way, Investigator Roy: Did there come a time when you investigated whether or not Mr. Vasiljevic went to the police station and filed a report claiming that Milan Lukic had committed murder at the Drina River on the 7th of June?"
+      "text": "Let me ask you this way, Investigator Roy: Did there come a time when you investigated whether or not Mr. Vasiljevic went to the police station and filed a report claiming that Milan Lukic had committed murder at the Drina River on the 7th of June?",
+      "examination": "direct"
     },
     {
       "id": 792,
@@ -5792,10 +6043,11 @@
     },
     {
       "id": 793,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did they have any record of any criminal report being filed by anybody against Milan Lukic during the time period that we are concerned with?"
+      "text": "Did they have any record of any criminal report being filed by anybody against Milan Lukic during the time period that we are concerned with?",
+      "examination": "direct"
     },
     {
       "id": 794,
@@ -5814,10 +6066,11 @@
     },
     {
       "id": 796,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Investigator Roy, I'd ask to you take a look at Exhibit number 162 and 163. Do you recognise what they are?"
+      "text": "Investigator Roy, I'd ask to you take a look at Exhibit number 162 and 163. Do you recognise what they are?",
+      "examination": "direct"
     },
     {
       "id": 797,
@@ -5829,10 +6082,11 @@
     },
     {
       "id": 798,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Did there also come a time during the course of this investigation that you attempted to investigate whether or not Mr. Vasiljevic was a member of the Territorial Defence of the military and whether or not he was injured in performance of those duties?"
+      "text": "Did there also come a time during the course of this investigation that you attempted to investigate whether or not Mr. Vasiljevic was a member of the Territorial Defence of the military and whether or not he was injured in performance of those duties?",
+      "examination": "direct"
     },
     {
       "id": 799,
@@ -5844,10 +6098,11 @@
     },
     {
       "id": 800,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "What did you do to investigate this aspect of his account?"
+      "text": "What did you do to investigate this aspect of his account?",
+      "examination": "direct"
     },
     {
       "id": 801,
@@ -5957,10 +6212,11 @@
     },
     {
       "id": 816,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Investigator Roy, do you recognise what Prosecution document number 64 is?"
+      "text": "Investigator Roy, do you recognise what Prosecution document number 64 is?",
+      "examination": "direct"
     },
     {
       "id": 817,
@@ -6000,10 +6256,11 @@
     },
     {
       "id": 822,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Investigator Roy, was there ever any reply to that request?"
+      "text": "Investigator Roy, was there ever any reply to that request?",
+      "examination": "direct"
     },
     {
       "id": 823,
@@ -6060,14 +6317,15 @@
       "speaker": "JUDGE HUNT",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, Mr. Domazet. Cross-examined by Mr. Domazet:"
+      "text": "Yes, Mr. Domazet."
     },
     {
       "id": 831,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "[Interpretation] Mr. Roy, do you remember investigating this case in the course of this year, having had a conversation with a person of Muslim ethnicity, who was a patient at the Uzice hospital in May, June and July 1992, in connection with Mitar Vasiljevic?"
+      "text": "[Interpretation] Mr. Roy, do you remember investigating this case in the course of this year, having had a conversation with a person of Muslim ethnicity, who was a patient at the Uzice hospital in May, June and July 1992, in connection with Mitar Vasiljevic?",
+      "examination": "cross"
     },
     {
       "id": 832,
@@ -6188,10 +6446,11 @@
     },
     {
       "id": 848,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Roy, do you remember this person giving you some documents? The discharge, his discharge paper, from that hospital, as evidence as to the time he spent in hospital?"
+      "text": "Mr. Roy, do you remember this person giving you some documents? The discharge, his discharge paper, from that hospital, as evidence as to the time he spent in hospital?",
+      "examination": "cross"
     },
     {
       "id": 849,
@@ -6240,10 +6499,11 @@
     },
     {
       "id": 855,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "I have here this statement in English and in B/C/S, and it says on it, that the witness is 113. But that witness hasn't been called."
+      "text": "I have here this statement in English and in B/C/S, and it says on it, that the witness is 113. But that witness hasn't been called.",
+      "examination": "cross"
     },
     {
       "id": 856,
@@ -6261,10 +6521,11 @@
     },
     {
       "id": 858,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Do you recall showing to that person this photo spread which you also showed to other witnesses as you just explained to us?"
+      "text": "Do you recall showing to that person this photo spread which you also showed to other witnesses as you just explained to us?",
+      "examination": "cross"
     },
     {
       "id": 859,
@@ -6276,10 +6537,11 @@
     },
     {
       "id": 860,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Yes. In the statement, it says that it was shown to him, and that he identified Mitar Vasiljevic as person number 9 and signed it."
+      "text": "Yes. In the statement, it says that it was shown to him, and that he identified Mitar Vasiljevic as person number 9 and signed it.",
+      "examination": "cross"
     },
     {
       "id": 861,
@@ -6334,10 +6596,11 @@
     },
     {
       "id": 868,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Do you remember, Mr. Roy, that this person confirmed that Mitar Vasiljevic was in the Uzice hospital at the same time as he was there?"
+      "text": "Do you remember, Mr. Roy, that this person confirmed that Mitar Vasiljevic was in the Uzice hospital at the same time as he was there?",
+      "examination": "cross"
     },
     {
       "id": 869,
@@ -6538,10 +6801,11 @@
     },
     {
       "id": 897,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Roy, do you recall that this witness handed over to you or told you that he had given a written statement to the police in Bosnia-Herzegovina, the MUP of Bosnia-Herzegovina?"
+      "text": "Mr. Roy, do you recall that this witness handed over to you or told you that he had given a written statement to the police in Bosnia-Herzegovina, the MUP of Bosnia-Herzegovina?",
+      "examination": "cross"
     },
     {
       "id": 898,
@@ -6553,10 +6817,11 @@
     },
     {
       "id": 899,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Do you recollect roughly when that statement was given, in relation to the time when you took your statement?"
+      "text": "Do you recollect roughly when that statement was given, in relation to the time when you took your statement?",
+      "examination": "cross"
     },
     {
       "id": 900,
@@ -6611,10 +6876,11 @@
     },
     {
       "id": 907,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. DOMAZET",
       "role": "counsel",
       "type": "question",
-      "text": "Just one more question: As the investigator, Mr. Roy, did you talk to a Muslim woman who eye-witnessed Mitar Vasiljevic's fall from a horse?"
+      "text": "Just one more question: As the investigator, Mr. Roy, did you talk to a Muslim woman who eye-witnessed Mitar Vasiljevic's fall from a horse?",
+      "examination": "cross"
     },
     {
       "id": 908,
@@ -6672,14 +6938,15 @@
       "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "statement",
-      "text": "Just one question of the witness, Your Honour. Re-examined by Mr. Groome:"
+      "text": "Just one question of the witness, Your Honour."
     },
     {
       "id": 916,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Domazet has just asked you about whether you interviewed a woman who stated that she observed Mr. Vasiljevic fall off a horse. Did this woman tell you the date on which she observed this?"
+      "text": "Mr. Domazet has just asked you about whether you interviewed a woman who stated that she observed Mr. Vasiljevic fall off a horse. Did this woman tell you the date on which she observed this?",
+      "examination": "re-direct"
     },
     {
       "id": 917,
@@ -7605,12 +7872,24 @@
       "text": "[Witness answered through interpreter]"
     },
     {
+      "after_utterance": 9,
+      "text": "Examined by Mr. Groome."
+    },
+    {
       "after_utterance": 289,
       "text": "--- Recess taken at 11.00 a.m."
     },
     {
       "after_utterance": 289,
       "text": "--- On resuming at 11.30 a.m."
+    },
+    {
+      "after_utterance": 366,
+      "text": "Cross-examined by Mr. Domazet:"
+    },
+    {
+      "after_utterance": 435,
+      "text": "Re-examined by Mr. Groome:"
     },
     {
       "after_utterance": 485,
@@ -7629,12 +7908,32 @@
       "text": "WITNESS: WITNESS VG84 [Resumed]"
     },
     {
+      "after_utterance": 500,
+      "text": "Examined by Mr. Groome: [Continued]"
+    },
+    {
+      "after_utterance": 606,
+      "text": "Cross-examined by Mr. Domazet."
+    },
+    {
       "after_utterance": 678,
       "text": "[The witness withdrew]"
     },
     {
       "after_utterance": 696,
       "text": "WITNESS:  Yves Roy"
+    },
+    {
+      "after_utterance": 697,
+      "text": "Examined by Mr. Groome:"
+    },
+    {
+      "after_utterance": 830,
+      "text": "Cross-examined by Mr. Domazet:"
+    },
+    {
+      "after_utterance": 915,
+      "text": "Re-examined by Mr. Groome:"
     },
     {
       "after_utterance": 920,

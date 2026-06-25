@@ -1,6 +1,6 @@
 {
   "case": "zupljanin",
-  "case_id": "IT-99-36-T",
+  "case_id": "IT-99-36",
   "date": "2004-01-16",
   "utterances": [
     {
@@ -208,2762 +208,2871 @@
     },
     {
       "id": 30,
-      "speaker": "JUDGE AGIUS",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Ackerman:"
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good morning, Mr. Talic. How are you today?",
+      "examination": "direct"
     },
     {
       "id": 31,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Good morning, Mr. Talic. How are you today?"
-    },
-    {
-      "id": 32,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I'm fine, thank you. How are you?",
-      "reply_to": 31
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Fine, thank you. Would you tell the Chamber when and where you were born, please.",
+      "examination": "direct"
     },
     {
       "id": 33,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Fine, thank you. Would you tell the Chamber when and where you were born, please."
-    },
-    {
-      "id": 34,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I was born in Celinac on the 20th of April 1940 in Zdravka Celera Street, Celinac, near Banja Luka.",
-      "reply_to": 33
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where did you live in the years 1991 and 1992?",
+      "examination": "direct"
     },
     {
       "id": 35,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Where did you live in the years 1991 and 1992?"
-    },
-    {
-      "id": 36,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I lived in Celinac up until 1995.",
-      "reply_to": 35
+      "reply_to": 34
+    },
+    {
+      "id": 36,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, I have a series of questions that I'm going to ask you, and I would request that you listen very carefully to my questions and make sure that you confine your answer to the questions that I --",
+      "examination": "direct"
     },
     {
       "id": 37,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, I have a series of questions that I'm going to ask you, and I would request that you listen very carefully to my questions and make sure that you confine your answer to the questions that I --"
-    },
-    {
-      "id": 38,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Fine.",
-      "reply_to": 37
+      "reply_to": 36
+    },
+    {
+      "id": 38,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is that acceptable to you?",
+      "examination": "direct"
     },
     {
       "id": 39,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is that acceptable to you?"
-    },
-    {
-      "id": 40,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 39
+      "reply_to": 38
+    },
+    {
+      "id": 40,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know Radoslav Brdjanin?",
+      "examination": "direct"
     },
     {
       "id": 41,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know Radoslav Brdjanin?"
-    },
-    {
-      "id": 42,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Very well.",
-      "reply_to": 41
+      "reply_to": 40
+    },
+    {
+      "id": 42,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "How long have you known Radoslav Brdjanin?",
+      "examination": "direct"
     },
     {
       "id": 43,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How long have you known Radoslav Brdjanin?"
-    },
-    {
-      "id": 44,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I have known him ever since he started school in Celinac. He lived with us, that is, in a Muslim house and went to school there. And he was director in Krajina of two companies, Gradjenje and Standard. These two work units were united together, unified into a company called Krajina. He was born some 6 kilometres away from me. I know him very well. I know his family very well. And he knows very well our family, the Talics.",
-      "reply_to": 43
+      "reply_to": 42
+    },
+    {
+      "id": 44,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "You just told the Chamber that when he went to school in Celinac that he lived with a Muslim family. Do you know the name of that family?",
+      "examination": "direct"
     },
     {
       "id": 45,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You just told the Chamber that when he went to school in Celinac that he lived with a Muslim family. Do you know the name of that family?"
-    },
-    {
-      "id": 46,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I know. Junuz Jusic. He lived with Junuz Jusic.",
-      "reply_to": 45
+      "reply_to": 44
+    },
+    {
+      "id": 46,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "You mentioned in an answer a moment ago that he at one point became a director of a company in Celinac. Did you have any association with the company, the Standard company --",
+      "examination": "direct"
     },
     {
       "id": 47,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You mentioned in an answer a moment ago that he at one point became a director of a company in Celinac. Did you have any association with the company, the Standard company --"
-    },
-    {
-      "id": 48,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "In Banja Luka.",
-      "reply_to": 47
+      "reply_to": 46
+    },
+    {
+      "id": 48,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Did you have any association with that company when he was its director?",
+      "examination": "direct"
     },
     {
       "id": 49,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Did you have any association with that company when he was its director?"
-    },
-    {
-      "id": 50,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. He was a director of a working unit in Banja Luka, and I worked as a construction worker in Banja Luka. And there were two work units, Gradjenje and Standard. I worked in Standard, and he became the director of the Standard company. The general director was someone else. Well, it was a long time ago, I've forgotten it. But for a while before the war, he was director of Standard. He was my director, therefore.",
-      "reply_to": 49
+      "reply_to": 48
+    },
+    {
+      "id": 50,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "During how long a period of time was he the director while you were working there? Do you recall?",
+      "examination": "direct"
     },
     {
       "id": 51,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "During how long a period of time was he the director while you were working there? Do you recall?"
-    },
-    {
-      "id": 52,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I could not tell you precisely, but for a year or two. I'm not sure.",
-      "reply_to": 51
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you observe during that time whether he treated -- well, let me ask the question differently. Were there other non-Serb employees of Standard at the time? You weren't the only one, were you?",
+      "examination": "direct"
     },
     {
       "id": 53,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you observe during that time whether he treated -- well, let me ask the question differently. Were there other non-Serb employees of Standard at the time? You weren't the only one, were you?"
-    },
-    {
-      "id": 54,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I wasn't the only one, nor did Mr. Brdjanin mind, nor did Muslims themselves mind that. I can tell you on my part that I was very well received and that nobody paid attention to ethnicities. I can tell you that there were quite a few Muslims who worked at Krajina. I can also say that I never felt with Mr. Brdjanin, although I was not on such intimate terms with him so as to sit down with him at a table with him and talk. But before the war broke out, when the war broke out, I sat with him in the office in Celinac, and he actually helped me quite a great deal.",
-      "reply_to": 53
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "We'll come to that in a moment.",
+      "examination": "direct"
     },
     {
       "id": 55,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "We'll come to that in a moment."
-    },
-    {
-      "id": 56,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. But what I want to say is the following: I was very well received at -- in Krajina. I had my own brigade and whatever I needed I received. I was -- also appeared in the papers, and Mr. Brdjanin is very well aware of that. And I also am very well familiar with the events surrounding Mr. Brdjanin.",
-      "reply_to": 55
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "I neglected to ask you specifically, although I think it's clear from your testimony, by ethnicity you are a Muslim, aren't you, Bosniak?",
+      "examination": "direct"
     },
     {
       "id": 57,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I neglected to ask you specifically, although I think it's clear from your testimony, by ethnicity you are a Muslim, aren't you, Bosniak?"
-    },
-    {
-      "id": 58,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I'm a Muslim, Bosnian. Well, they can call me whatever they want.",
-      "reply_to": 57
+      "reply_to": 56
+    },
+    {
+      "id": 58,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Back now to Standard, as the director of Standard, did you ever see any indication that Mr. Brdjanin treated the non-Serb employees any differently from the Serb employees?",
+      "examination": "direct"
     },
     {
       "id": 59,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Back now to Standard, as the director of Standard, did you ever see any indication that Mr. Brdjanin treated the non-Serb employees any differently from the Serb employees?"
+      "speaker": "MEHMED TALIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 58
     },
     {
       "id": 60,
-      "speaker": "MEHMED TALIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "No.",
-      "reply_to": 59
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "You've already told us that you were living in Celinac throughout the year 1992. Did there come a time in Celinac in 1992 when the Muslim population became frightened of Serbs?",
+      "examination": "direct"
     },
     {
       "id": 61,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You've already told us that you were living in Celinac throughout the year 1992. Did there come a time in Celinac in 1992 when the Muslim population became frightened of Serbs?"
-    },
-    {
-      "id": 62,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 61
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were there any -- did the Serb population of Celinac change any during the year 1992?",
+      "examination": "direct"
     },
     {
       "id": 63,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were there any -- did the Serb population of Celinac change any during the year 1992?"
-    },
-    {
-      "id": 64,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "As for the Serbs in Celinac, we had no trouble with them. We lived as brethren. I lived in the very centre of Celinac. People knew me very well, and I have never been afraid of the Serbs. We will come to that later. As for 1992, there were no problems up until 1993. It was in 1993 that the unrest began.",
-      "reply_to": 63
+      "reply_to": 62
     },
     {
-      "id": 65,
+      "id": 64,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, there's a transcript correction. It's page 11, line 17. The witness said that he received some kind of an award from the company that was mentioned in the newspaper. That didn't quite get in the transcript the way he said it."
     },
     {
-      "id": 66,
+      "id": 65,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I don't find it in line 17. It may be different in yours."
     },
     {
-      "id": 67,
+      "id": 66,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "He said: \"I was also appeared in the papers,\" in page 11, line 17. And what he said there was that he had received an award, and that appeared in the papers."
     },
     {
-      "id": 68,
+      "id": 67,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "All right, I see. Is that correct, Mr. Talic?"
     },
     {
-      "id": 69,
+      "id": 68,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] This was an award that wasn't a monetary one. It was -- they just wrote in the papers that I was appreciated as a very good worker, and this constituted a great award for me. But I will tell you later on what sort of an award I was given by Brdjanin and what he did for me. That's something that we will talk about later."
     },
     {
-      "id": 70,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 69,
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "Have you ever heard of any statements made by Mr. Brdjanin against non-Serb people?"
+      "text": "Have you ever heard of any statements made by Mr. Brdjanin against non-Serb people?",
+      "examination": "direct"
     },
     {
-      "id": 71,
+      "id": 70,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 70
+      "reply_to": 69
+    },
+    {
+      "id": 71,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "You never heard him make any of those kinds of statements?",
+      "examination": "direct"
     },
     {
       "id": 72,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You never heard him make any of those kinds of statements?"
-    },
-    {
-      "id": 73,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, I personally didn't hear that. To tell you the truth, there was no electricity. It wasn't possible to watch television so much or listen to the radio. Occasionally we would have that, but specifically that I heard any kind of order from Brdjanin, Brdjanin was a leader, at a leadership position in Celinac, and he only contributed to the calming of the situation. But we will come to that later. He actually established order and discipline in Celinac. So there were no excesses which were unwanted by any ethnic group, and particularly by the Muslims.",
-      "reply_to": 72
+      "reply_to": 71
+    },
+    {
+      "id": 73,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "What I'm trying --",
+      "examination": "direct"
     },
     {
       "id": 74,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What I'm trying --"
-    },
-    {
-      "id": 75,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "That's as much as I want to say.",
-      "reply_to": 74
+      "reply_to": 73
+    },
+    {
+      "id": 75,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "-- at any time, did anyone tell you that Mr. Brdjanin had made comments, speeches, and so forth that were very derogatory and against Muslim people? Did you ever hear that from any source at all?",
+      "examination": "direct"
     },
     {
       "id": 76,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "-- at any time, did anyone tell you that Mr. Brdjanin had made comments, speeches, and so forth that were very derogatory and against Muslim people? Did you ever hear that from any source at all?"
-    },
-    {
-      "id": 77,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't hear anything like that, and I cannot confirm that.",
-      "reply_to": 76
+      "reply_to": 75
+    },
+    {
+      "id": 77,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. During the time that you were aware of Mr. Brdjanin being a director at Standard, what kind of a director was he?",
+      "examination": "direct"
     },
     {
       "id": 78,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. During the time that you were aware of Mr. Brdjanin being a director at Standard, what kind of a director was he?"
-    },
-    {
-      "id": 79,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Great. We didn't have any extra salary for four or five months. He was -- there was another director who managed the firm badly. And the firm was almost in ruins. It was almost ruined, practically ruined. As soon as Mr. Brdjanin came, we immediately received half of our extra salary. In the third month, we received the second part of the extra salary. And then afterwards, our salaries were very, very good. I know him very well as a construction engineer, designer, as a person, and I never noticed. He knew very well how many Muslims there were in Standard, and everything else. So that man never -- at least, I never heard him make such statements. I know that -- I'm familiar with practically 90 per cent of the kind of conduct of his towards the Muslim population in Celinac. But we'll come to that later.",
-      "reply_to": 78
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "These statements that you just alluded to, again, do you know if any Muslims in Celinac became frightened as a result of hearing Mr. Brdjanin say anything at all?",
+      "examination": "direct"
     },
     {
       "id": 80,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "These statements that you just alluded to, again, do you know if any Muslims in Celinac became frightened as a result of hearing Mr. Brdjanin say anything at all?"
-    },
-    {
-      "id": 81,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't hear from anyone that Brdjanin intimidated Muslims. It's normal that there was fear amongst the people, both Muslims and Serbs and also the Croats when the war began in Bosnia and Herzegovina, when everybody was waging war against everyone else. So it's natural that the situation changed and that the people were frightened. That is true. But as far as hearing anything about Brdjanin, I specifically did not, and I cannot say what is not true and what I did not hear. That's about it.",
-      "reply_to": 80
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you just tell the Chamber that all the people in Celinac were frightened, including Serbs? Is that what your position is?",
+      "examination": "direct"
     },
     {
       "id": 82,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you just tell the Chamber that all the people in Celinac were frightened, including Serbs? Is that what your position is?"
-    },
-    {
-      "id": 83,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "That's true. That's true. I went to the municipality building --",
-      "reply_to": 82
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let me ask you this.",
+      "examination": "direct"
     },
     {
       "id": 84,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Let me ask you this."
-    },
-    {
-      "id": 85,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I beg your pardon.",
-      "reply_to": 84
+      "reply_to": 83
+    },
+    {
+      "id": 85,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "I think we'll come to that in a moment, so let's just wait until we get there. Do you know of your own personal knowledge of any Muslim people or any non-Serb people in Celinac or elsewhere who were hurt in any way by things that Mr. Brdjanin either said or did?",
+      "examination": "direct"
     },
     {
       "id": 86,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I think we'll come to that in a moment, so let's just wait until we get there. Do you know of your own personal knowledge of any Muslim people or any non-Serb people in Celinac or elsewhere who were hurt in any way by things that Mr. Brdjanin either said or did?"
-    },
-    {
-      "id": 87,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I did not notice anything like that and cannot say anything about that. I am saying again that I never heard Mr. Brdjanin say anything like that, nor did I hear anybody else say that. People know me well in Celinac. I live in the centre of town, about 500 metres away. So in 1992, 1993 all the way up to 1995, I sat with Serbs in cafes in the municipality, and they never looked at me in a weird way, nor did I look at them in any strange way. I never heard of anyone, a Muslim, a Romanie, a Croat, that Brdjanin had said this or that or anything like that. So I never heard anything like that. Later we will come to the specific encounter between Brdjanin and myself at the municipal building.",
-      "reply_to": 86
+      "reply_to": 85
+    },
+    {
+      "id": 87,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "I want to ask you now the other side of the question that I just asked you. In late 1991 or any time in 1992, do you know of any non-Serb persons, any Muslim persons, who were helped in any way by Mr. Brdjanin?",
+      "examination": "direct"
     },
     {
       "id": 88,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I want to ask you now the other side of the question that I just asked you. In late 1991 or any time in 1992, do you know of any non-Serb persons, any Muslim persons, who were helped in any way by Mr. Brdjanin?"
-    },
-    {
-      "id": 89,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, I can say that he did help. He would come to the municipal building. People at the municipal building told me that, that he would come and that he would try to calm down the situation to prevent complications from the Serb and Muslim inhabitants, and to continue to live the way we lived before.",
-      "reply_to": 88
+      "reply_to": 87
+    },
+    {
+      "id": 89,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "The Chamber has heard about an incident in Celinac where a large number of Muslims were gathered and perhaps even placed on buses. Do you know anything about that situation?",
+      "examination": "direct"
     },
     {
       "id": 90,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "The Chamber has heard about an incident in Celinac where a large number of Muslims were gathered and perhaps even placed on buses. Do you know anything about that situation?"
-    },
-    {
-      "id": 91,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I know very well.",
-      "reply_to": 90
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Could you tell the Chamber what you observed during that incident, where you were, what you observed, what you saw happen?",
+      "examination": "direct"
     },
     {
       "id": 92,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Could you tell the Chamber what you observed during that incident, where you were, what you observed, what you saw happen?"
-    },
-    {
-      "id": 93,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Listen, if I can say before that something happened, that we had to go to buses, I'm not sure exactly in 1992, there was the encounter between myself and Brdjanin at the municipal building.",
-      "reply_to": 92
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Go ahead and tell the Chamber about the encounter between you and Brdjanin at the municipal building.",
+      "examination": "direct"
     },
     {
       "id": 94,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Go ahead and tell the Chamber about the encounter between you and Brdjanin at the municipal building."
-    },
-    {
-      "id": 95,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Very well. Before that, I went to the SUP or the MUP building, to the police. My daughter, it was Bajram, that's our Muslim holiday. I went to SUP, to the police, as they know me very well because my daughter happened to be in Kotor Varos for Bajram at a relative's place. And then on the second day of Bajram, Kotor Varos was blocked. And I was asking for a police car and driver, for the police to provide a driver and a car so I could bring my daughter from Kotor Varos. The police commander, because there was a fuel shortage going on, told me, but still they knew who I was and what my situation was, so they did give me a police car, but none of the police drivers wanted to go. So I remembered or I -- that I should go and see Mr. Brdjanin at the municipality. So I was fortunate because that day, Mr. Brdjanin said that he was supposed to go to a meeting in Prnjavor. And since the mosque house in Prijedor was burned, Brdjanin was called to come to Celinac. I met him on the staircase, and I said: \"Mr. Brdjanin, I would like to speak to you.\" And he said: \"Yes, very well. Go to the office, I'll be up there in a minute.\" And I came to the office and we sat down together and we talked about all the problems, about everything. And he asked me: \"Talic, what is bothering you?\" And I told him what it was. And he said: \"Yes, Mr. Brdjanin will help you.\" At 12.00, maybe 11.30 or 12.00, I'm not sure, the meeting was supposed to be held at the Celinac municipal office. So we went out at 11.30 from his office. At that time, Mile Maksimovic came out. I don't know what he was, chief of the ministry or something. And he said from the door: \"Mr. Maksimovic, make me a special permit and secure me a driver and a car so that Meho can be taken. When you make this permit, bring it to my office, I'm bringing a stamp and I will stamp it so that Meho can go and bring his daughter back.\" And he said: \"Very well.\" Ilija came back and he made the certificate for the driver and the vehicle and he took it to the office. And Rajko Orasanin was the driver of the car. He took me to Kotor Varos, and I went and I brought my daughter back, and I returned, and everything went very well. I found my daughter in Kotor Varos, and I managed to bring her back. So this is what Mr. Brdjanin did for me. Secondly, let me tell you about the buses.",
-      "reply_to": 94
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Let me interrupt you and ask you a question or two about the other matter first. You said that your daughter was in Kotor Varos for Bajram, and you heard that Kotor Varos was blocked. Correct?",
+      "examination": "direct"
     },
     {
       "id": 96,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Let me interrupt you and ask you a question or two about the other matter first. You said that your daughter was in Kotor Varos for Bajram, and you heard that Kotor Varos was blocked. Correct?"
+      "speaker": "MEHMED TALIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 95
     },
     {
       "id": 97,
-      "speaker": "MEHMED TALIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes.",
-      "reply_to": 96
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you mean by that that she was in a situation where she couldn't come back home?",
+      "examination": "direct"
     },
     {
       "id": 98,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you mean by that that she was in a situation where she couldn't come back home?"
-    },
-    {
-      "id": 99,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 98
+      "reply_to": 97
+    },
+    {
+      "id": 99,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what was your concern? Why were you concerned about your daughter at that stage? Were you concerned about her safety, or you just wanted her to be back home?",
+      "examination": "direct"
     },
     {
       "id": 100,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And what was your concern? Why were you concerned about your daughter at that stage? Were you concerned about her safety, or you just wanted her to be back home?"
-    },
-    {
-      "id": 101,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "The Muslims and the Croats up there had already fled. They left Kotor Varos and fled to the woods because they were simply afraid. There was -- there was shooting from the Muslim side. It was Bajram, and they were celebrating up in a village called Ravne. And simply Kotor Varos was blocked. Nobody could enter or leave Kotor Varos. The telephone lines were cut, and I was worried about how to -- how everything will pass and what the situation will turn out to be. So I went to see Mr. Brdjanin, and he helped me out. He gave me a car and a driver. I went to Kotor Varos. The municipal car was stopped at the checkpoint, and they allowed me to go in. I went into Kotor Varos. I found my daughter, and when I found her I returned. So everything passed very well, and everything turned out all right. That's it.",
-      "reply_to": 100
+      "reply_to": 99
+    },
+    {
+      "id": 101,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Can you tell the Chamber about when this happened. It was Bajram of 1992, I take it.",
+      "examination": "direct"
     },
     {
       "id": 102,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Can you tell the Chamber about when this happened. It was Bajram of 1992, I take it."
-    },
-    {
-      "id": 103,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "It was Bajram, thereabouts. 1991, at the end of 1991 or in early 1992. I don't remember exactly. It has been ten years since then, 10 to 12 years. So you forget some of that. But this is the situation when Mr. Brdjanin helped me out in this way.",
-      "reply_to": 102
+      "reply_to": 101
+    },
+    {
+      "id": 103,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "After that was the situation with the buses. Correct?",
+      "examination": "direct"
     },
     {
       "id": 104,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "After that was the situation with the buses. Correct?"
-    },
-    {
-      "id": 105,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "No. Before we were boarded on to the buses, I personally went to the SUP, and two other cousins of mine who were from the outskirts of Celinac, Mehovci and Basici, Mr. Brdjanin knows those places. The Muslims all gathered in the centre of Celinac because it was safer there, more secure. They were not expelled by anyone, they were not expelled, but they were afraid. Fear was prevalent amongst the people. So we had all gathered in Celinac. 1.860 of us were there in Celinac. So before the buses became to deport us, to drive us anywhere, I don't know, but before that, it happened that two evenings before that, 22 Muslim houses were set on fire. When we saw that, I personally went to SUP, and these two relatives of mine from Mehovci and Basici, we went to the SUP and I told them there \"is there any possibility that you can protect us?\" And they said: \"Mr. Talic, we don't know to do with us, never mind what to do with you. We can just tell you go. We don't want to be responsible for anyone. Anyone can do whatever they decide to do.\" So the same thing they told me at SUP, they told me at the municipal building as well because everybody knows me there very well. Like I said, I sat in cafes with them. I never had any bad looks from any of them. But the refugees who came from the outside or the Serb population that was leaving their homes were coming towards Banja Luka and Celinac, we were afraid of them because I also was a refugee. I know what it is like to be a refugee, to eat refugee bread and live under a refugee sky. So I went to the SUP to tell them. So when they told us all of this, we all gathered together, us Muslims, and we held a meeting. And we had decided to go towards Banja Luka, and we came to the gas station in Celinac. In the meantime, these hamlets, Radovci, Brezik, and all these other hamlets, everybody from there gathered at the gas station there. There was 1.860 of us Muslims. There were maybe 50 or 60 Croats as well. I don't know the exact number. In the meantime, Dr. Mile Kuzmanovic came to the gas station and took us to the municipal building and to the post office. Not an hour had gone by. Women, children, the elderly, the feeble, and the younger people were located in the municipality, in the offices there, in the basement of the post office and so on. So out of curiosity, I wanted to see what would happen. So in the meantime, I could see a car that came from the direction of Banja Luka. It stopped in front of the municipal building. I was quiet. I heard upstairs in the municipal offices some kind of shouting or a quarrel, and I heard Brdjanin's voice. In the meantime, Gojko Gligoric, I don't know whether he was a corporal or a shift leader, anyway, he was in the army. He wasn't any kind of -- what can I say? He wasn't any kind of important person. But anyway, he picked up the phone in the military point. But any time when he came back from the army, we used to sit down, have a cigarette, we would talk. He would say: \"Meho, are there any problems or not?\" So then I was quiet, and Gojko literally told me that Mr. Brdjanin said and how some people wanted to blow up the municipal building and the post office and to kill us all. Gojko literally said if it's necessary to kill the Muslims, I will do it myself if they're guilty. And I heard Brdjanin tapped Gojko on the shoulder. And in the morning, Brdjanin ordered that buses come, so the buses came in the morning to take us away. Blank page inserted to ensure pagination corresponds between the French and English transcripts. Brdjanin ordered us to go to the elementary school, to stay there and to be secured properly, to be guarded properly. And this was done. We went to the school. We were guarded. We were protected. Food was brought. Bread, and so on. We weren't hungry or starving for eight days. After eight days, whether this was Brdjanin's order or not I don't know, but we were supposed to go to our houses, all of us, under escort, and all of those who had cattle or poultry, and then also to clean up a little bit, and this is what we did. We went to our homes, and we came back. I don't know how long we were there. For 15 days or something. After that, we were allowed to go to our homes, and we were guaranteed that nothing would happen to us. And this is what happened. That's how it was. I don't know whose order this was, but it's probably Brdjanin's order. And I -- just one second. We went to our homes, and there were no problems. We continued living there, working. Since there were quite a lot of people and since all the inhabitants couldn't receive all of the Muslims who had come from the outside, those from the Vrbanja, Gornji Seher, Vrbas, and so on. So then in 1992 and early 1993, all the younger people, the youth, both boys and girls, young men and women, had already started to leave the territory of Republika Srpska and to go to seek their fortunes outside, in other countries. They organised in Banja Luka. There were these organisations. Of course, you had to pay for transport. They went for sure. I have a son and a daughter, and the same thing happened. They went. They left, and I stayed until 1995, until August 1995. I saw that things were not going to turn out well, that things were brewing, war was going on, money was running out. It was difficult to survive. From the municipality, we asked, we appealed to them. We talked. They sent people. They made a list of those who wanted to leave. They were allowed to leave. They should make a statement that they were leaving, and that is what we did. I was amongst those people also. Since my children had gone to Germany, I have a brother there who has been working in Germany for 40 years. My children went to him. And in 1995, in August, I went to Davor. I crossed into Croatia. I received all sorts of guarantees from my brother, but in Zagreb it was not -- nobody could be received by Germany any more, so I had to stay in Zagreb or in Croatia. My son-in-law lived in my house. He's a Serb. He was living in my house in 1998 when I got in touch with him, and I returned again. He said I could come back, that it was safe. So my wife and I returned, came back to our house without any problems. To this very day, I am living there, I'm working there. I am sick, so I work as much as I can. I am surviving, so to say. When the Serbs don't have work, I don't have work either. This is normal. There's a crisis. So even after I left in 1995, there was still some Muslims who remained in Celinac, and no harm came to them. But this was perhaps up to about 80 Muslims who remained, and that's how it ended, and that's it.",
-      "reply_to": 104
+      "reply_to": 103
+    },
+    {
+      "id": 105,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. I have a lot of questions to ask you about some of the things that you said. You talked at one point of being in front of the municipal building, and Mr. Brdjanin had arrived and gone inside, and you said you could hear his voice from inside the building. Do you have any recollection as to what it was you heard him saying?",
+      "examination": "direct"
     },
     {
       "id": 106,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. I have a lot of questions to ask you about some of the things that you said. You talked at one point of being in front of the municipal building, and Mr. Brdjanin had arrived and gone inside, and you said you could hear his voice from inside the building. Do you have any recollection as to what it was you heard him saying?"
-    },
-    {
-      "id": 107,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I couldn't hear exactly what he was saying, but I could just hear him shouting, raising his voice up there to those officials. I heard that personally, that he was shouting at them. This was the second or the third floor. The windows were closed, of course. So it wasn't possible to hear everything that he was saying. But I know very well that he ordered that we should be put in the elementary school and that there should be a guard for us.",
-      "reply_to": 106
+      "reply_to": 105
+    },
+    {
+      "id": 107,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you then made prisoners there in the elementary school? Were you in custody? Were you prisoners, or were you being protected? Which was it?",
+      "examination": "direct"
     },
     {
       "id": 108,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were you then made prisoners there in the elementary school? Were you in custody? Were you prisoners, or were you being protected? Which was it?"
-    },
-    {
-      "id": 109,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Protected us. Nobody was detained. We could go out. We could walk in front of the municipal building and the post office. It was all close by. We were not detained. We could go out freely. They were really protecting us.",
-      "reply_to": 108
+      "reply_to": 107
+    },
+    {
+      "id": 109,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you have a sense of who among the leadership in Celinac is responsible for you and the 859 other Muslims being protected there at that time? 1.859 is what I meant to say if I didn't say that.",
+      "examination": "direct"
     },
     {
       "id": 110,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you have a sense of who among the leadership in Celinac is responsible for you and the 859 other Muslims being protected there at that time? 1.859 is what I meant to say if I didn't say that."
-    },
-    {
-      "id": 111,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, I gave a statement about these three Serbs, but I don't want to mention their names. You have it written there. Do you have them written down there?",
-      "reply_to": 110
+      "reply_to": 109
+    },
+    {
+      "id": 111,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "You didn't understand my question, sir. My question was: Who do you believe is responsible --",
+      "examination": "direct"
     },
     {
       "id": 112,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You didn't understand my question, sir. My question was: Who do you believe is responsible --"
-    },
-    {
-      "id": 113,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 112
+      "reply_to": 111
+    },
+    {
+      "id": 113,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "-- for the 1.860 persons in Celinac being protected and placed in the school and being protected? Who do you think is responsible for that?",
+      "examination": "direct"
     },
     {
       "id": 114,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "-- for the 1.860 persons in Celinac being protected and placed in the school and being protected? Who do you think is responsible for that?"
-    },
-    {
-      "id": 115,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Mr. Brdjanin. And three other Serbs who reported to the military police. When we wanted to go to Banja Luka, they informed the military police, these three Serbs - two of them are still alive; one of them is dead - but I wouldn't want them to have any consequences, because of their neighbours, people are people. There are extremists on all sides, and there will still be such people. So if it's not necessary, I wouldn't want to mention their names, but I can do that. So they reported to the military police. They were in Kotor Varos. They came, they stopped us. In the meantime, as I said, Mile Kuzmanovic, the doctor, came and returned us to the municipal building, and after that Brdjanin was called for sure because he came, he had heard about it. So I give recognition for this, the most to Mr. Brdjanin. He personally saved the Muslim population. It was him personally. I stand by this.",
-      "reply_to": 114
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "You told the Chamber that in 1992 that several of the young people, and the words you used were \"they left to seek their fortunes elsewhere.\" My question is were these young people forced to leave, or did they leave of their own free will?",
+      "examination": "direct"
     },
     {
       "id": 116,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You told the Chamber that in 1992 that several of the young people, and the words you used were \"they left to seek their fortunes elsewhere.\" My question is were these young people forced to leave, or did they leave of their own free will?"
-    },
-    {
-      "id": 117,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "They left of their own free will.",
-      "reply_to": 116
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you left, were you forced to leave or did you leave of your own free will?",
+      "examination": "direct"
     },
     {
       "id": 118,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you left, were you forced to leave or did you leave of your own free will?"
-    },
-    {
-      "id": 119,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Of my own will. No one forced me to, no one. We were merely protected. There were two people from the municipality building who made a list of those who wanted to leave, and those were to be escorted. And those who didn't want to could remain. I told my children, son and daughter, that they should leave as well. I told them: \"You have the papers. Leave. You will inherit this world.\" And as for us, the older ones, we'll see what the situation will be like. And that is how it happened. I sent my two children away. They were in no way forced to leave. I ordered them to leave Celinac. There were many parents who had such young children who asked them to leave the territory of Republika Srpska. They did not even go to the federation. Many of them went abroad.",
-      "reply_to": 118
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Thank you, Mr. Talic. That's all I have.",
+      "examination": "direct"
     },
     {
       "id": 120,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. Thank you, Mr. Talic. That's all I have."
-    },
-    {
-      "id": 121,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, Ms. Chana, please."
     },
     {
-      "id": 122,
+      "id": 121,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
-      "text": "Thank you, Your Honour. Cross-examined by Ms. Chana:"
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 122,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic --",
+      "examination": "cross"
     },
     {
       "id": 123,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic --"
-    },
-    {
-      "id": 124,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "You may remain seated if you prefer."
     },
     {
-      "id": 125,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 124,
+      "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "question",
-      "text": "Good morning, Mr. Talic. Mr. Talic, are you hearing me?"
+      "text": "Good morning, Mr. Talic. Mr. Talic, are you hearing me?",
+      "examination": "cross"
     },
     {
-      "id": 126,
+      "id": 125,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "Sorry."
     },
     {
-      "id": 127,
+      "id": 126,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Very well.",
-      "reply_to": 125
+      "reply_to": 124
+    },
+    {
+      "id": 127,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, do you hear me? Good morning, Mr. Talic.",
+      "examination": "cross"
     },
     {
       "id": 128,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, do you hear me? Good morning, Mr. Talic."
-    },
-    {
-      "id": 129,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I hear you.",
-      "reply_to": 128
+      "reply_to": 127
+    },
+    {
+      "id": 129,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now --",
+      "examination": "cross"
     },
     {
       "id": 130,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now --"
-    },
-    {
-      "id": 131,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I hear you well.",
-      "reply_to": 130
+      "reply_to": 129
+    },
+    {
+      "id": 131,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "-- please, you said you worked with Mr. Brdjanin in this factory called Krajina. Is that correct?",
+      "examination": "cross"
     },
     {
       "id": 132,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "-- please, you said you worked with Mr. Brdjanin in this factory called Krajina. Is that correct?"
-    },
-    {
-      "id": 133,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Correct.",
-      "reply_to": 132
+      "reply_to": 131
+    },
+    {
+      "id": 133,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know a factory called -- a workshop called 25th November?",
+      "examination": "cross"
     },
     {
       "id": 134,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know a factory called -- a workshop called 25th November?"
-    },
-    {
-      "id": 135,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "This was a company in Celinac, a construction company.",
-      "reply_to": 134
+      "reply_to": 133
+    },
+    {
+      "id": 135,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Wasn't that the company that Mr. Brdjanin also worked in?",
+      "examination": "cross"
     },
     {
       "id": 136,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Wasn't that the company that Mr. Brdjanin also worked in?"
-    },
-    {
-      "id": 137,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Before arriving to Krajina.",
-      "reply_to": 136
+      "reply_to": 135
+    },
+    {
+      "id": 137,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you worked with him in the Krajina company?",
+      "examination": "cross"
     },
     {
       "id": 138,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But you worked with him in the Krajina company?"
-    },
-    {
-      "id": 139,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I started working with Krajina before him. He started working there later on when he came to Celinac. There was also the 25th November, the construction company in Celinac which had suffered severe losses. Mr. Brdjanin then came to work for it and managed to pull it out of the crisis. And when he did so, I heard from some people that he had some trouble with the people -- with his associates working in the company. Mr. Brdjanin is a good man, educated man, a very sensible man. Krajina felt this, and that is why Krajina decided to employ him.",
-      "reply_to": 138
+      "reply_to": 137
+    },
+    {
+      "id": 139,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, thank you very much, but I'd be grateful if you would confine yourself to answering my questions, please. Have you been in touch with Mr. Brdjanin since he has been arrested?",
+      "examination": "cross"
     },
     {
       "id": 140,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, thank you very much, but I'd be grateful if you would confine yourself to answering my questions, please. Have you been in touch with Mr. Brdjanin since he has been arrested?"
-    },
-    {
-      "id": 141,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 140
+      "reply_to": 139
+    },
+    {
+      "id": 141,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you been in touch with any of his family members?",
+      "examination": "cross"
     },
     {
       "id": 142,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Have you been in touch with any of his family members?"
-    },
-    {
-      "id": 143,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I haven't.",
-      "reply_to": 142
+      "reply_to": 141
+    },
+    {
+      "id": 143,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And why is that, Mr. Talic?",
+      "examination": "cross"
     },
     {
       "id": 144,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And why is that, Mr. Talic?"
-    },
-    {
-      "id": 145,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "To tell you the truth, I had my personal problems with my health condition. I had to go to the hospital. And it is my health condition that prevented me from keeping in touch with his family, and that is the only reason. I was admitted to the hospital. I suffered severe haemorrhage. I had a heart attack. My liver is a very feeble one. I have a number of diseases that I suffer from. I would have liked to have come to The Hague directly.",
-      "reply_to": 144
+      "reply_to": 143
+    },
+    {
+      "id": 145,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, you said that you were very good friends, family friends with the family and Mr. Brdjanin; and yet, after Mr. Brdjanin was arrested, you had no contact whatsoever with his family. Is that your position, Mr. Talic?",
+      "examination": "cross"
     },
     {
       "id": 146,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, you said that you were very good friends, family friends with the family and Mr. Brdjanin; and yet, after Mr. Brdjanin was arrested, you had no contact whatsoever with his family. Is that your position, Mr. Talic?"
-    },
-    {
-      "id": 147,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I do not know Mr. Brdjanin's family, nor have I ever spent any time with them. I was only in touch with Mr. Brdjanin. As I have told you, this took place in the municipality building in Celinac. I know Mr. Brdjanin very well, and I know how he behaved in the company and so on.",
-      "reply_to": 146
+      "reply_to": 145
+    },
+    {
+      "id": 147,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where was it that you would meet Mr. Brdjanin that you know him so well?",
+      "examination": "cross"
     },
     {
       "id": 148,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Where was it that you would meet Mr. Brdjanin that you know him so well?"
-    },
-    {
-      "id": 149,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I knew him because I used to see him in the company, and I specifically met with him in the municipal assembly of Celinac. I sat there with him for two hours. We talked about all sorts of things. And I did not notice that he had anything against Muslims.",
-      "reply_to": 148
+      "reply_to": 147
+    },
+    {
+      "id": 149,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "You just told the Court in your examination-in-chief, Mr. Talic, that you're familiar with 90 per cent of Mr. Brdjanin's conduct. Is that correct?",
+      "examination": "cross"
     },
     {
       "id": 150,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You just told the Court in your examination-in-chief, Mr. Talic, that you're familiar with 90 per cent of Mr. Brdjanin's conduct. Is that correct?"
-    },
-    {
-      "id": 151,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "90 per cent of his conduct in the Municipal Assembly of Celinac where he tried to protect us as people. He was guarding us there, making sure nothing bad would happen to us. I guarantee that.",
-      "reply_to": 150
+      "reply_to": 149
+    },
+    {
+      "id": 151,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, yet you also told this Court that you've not heard any of Mr. Brdjanin's public speeches. Is that correct?",
+      "examination": "cross"
     },
     {
       "id": 152,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, yet you also told this Court that you've not heard any of Mr. Brdjanin's public speeches. Is that correct?"
-    },
-    {
-      "id": 153,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Correct.",
-      "reply_to": 152
+      "reply_to": 151
+    },
+    {
+      "id": 153,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "You never listened to the TV?",
+      "examination": "cross"
     },
     {
       "id": 154,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You never listened to the TV?"
-    },
-    {
-      "id": 155,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I've told you a moment ago that there was not much electricity during the war. Secondly, I had my work obligation, and I spent very little time at home.",
-      "reply_to": 154
+      "reply_to": 153
+    },
+    {
+      "id": 155,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, did you listen to the radio at all?",
+      "examination": "cross"
     },
     {
       "id": 156,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, did you listen to the radio at all?"
-    },
-    {
-      "id": 157,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "There was no electricity. And I was constantly carrying out my work obligation. And if I was not carrying out my work obligation at Orasje, I was in Celinac. Maybe only some three hours a day. But there was not much electricity for anyone, not for Serbs or Muslims.",
-      "reply_to": 156
+      "reply_to": 155
+    },
+    {
+      "id": 157,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you aware, Mr. Talic, that Mr. Brdjanin did, in fact, make many anti-Muslim comments utterances in his public speeches including calling Muslims balijas and non-Christian scum?",
+      "examination": "cross"
     },
     {
       "id": 158,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were you aware, Mr. Talic, that Mr. Brdjanin did, in fact, make many anti-Muslim comments utterances in his public speeches including calling Muslims balijas and non-Christian scum?"
-    },
-    {
-      "id": 159,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 158
+      "reply_to": 157
+    },
+    {
+      "id": 159,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you aware now that he made such utterances, or are you still blissfully unaware?",
+      "examination": "cross"
     },
     {
       "id": 160,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Are you aware now that he made such utterances, or are you still blissfully unaware?"
-    },
-    {
-      "id": 161,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I know nothing of that.",
-      "reply_to": 160
+      "reply_to": 159
+    },
+    {
+      "id": 161,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said that you were very familiar with everything which was happening in Celinac Municipality. Is that true?",
+      "examination": "cross"
     },
     {
       "id": 162,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You said that you were very familiar with everything which was happening in Celinac Municipality. Is that true?"
-    },
-    {
-      "id": 163,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do.",
-      "reply_to": 162
+      "reply_to": 161
+    },
+    {
+      "id": 163,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you obviously know that Celinac was a Serb-dominated municipality?",
+      "examination": "cross"
     },
     {
       "id": 164,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you obviously know that Celinac was a Serb-dominated municipality?"
-    },
-    {
-      "id": 165,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "As a municipality, the predominant population was the Serb one. Now, the centre is a small town of Celinac where 80 per cent.",
-      "reply_to": 164
+      "reply_to": 163
     },
     {
-      "id": 166,
+      "id": 165,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Correction, 90 per cent."
     },
     {
-      "id": 167,
+      "id": 166,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Was Muslim populated. However, when you look at the entire territory of the municipality, that's where the Serb population was predominant.",
-      "reply_to": 164
+      "reply_to": 163
+    },
+    {
+      "id": 167,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would it be true to say that there were no more than 1.440 Muslims in the entire municipality?",
+      "examination": "cross"
     },
     {
       "id": 168,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Would it be true to say that there were no more than 1.440 Muslims in the entire municipality?"
-    },
-    {
-      "id": 169,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "1.860 in the entire territory of Celinac Municipality.",
-      "reply_to": 168
+      "reply_to": 167
+    },
+    {
+      "id": 169,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And would it also be true to say that by the end of 1995, 190 Muslims remained in this municipality?",
+      "examination": "cross"
     },
     {
       "id": 170,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And would it also be true to say that by the end of 1995, 190 Muslims remained in this municipality?"
-    },
-    {
-      "id": 171,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "In August 1995, there were three buses having 60 passengers each, meaning 180 of us, who were headed on these buses for Croatia. And maybe some 50 to 80 Muslims remained there throughout this time who never left Celinac. They didn't want to go. These were Muslims. And they were not driven away by Serbs. They remained there and didn't experience any trouble. And that is the truth.",
-      "reply_to": 170
+      "reply_to": 169
+    },
+    {
+      "id": 171,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "So Mr. Talic, the truth -- the fact of the matter is most of the Muslims did leave the municipality, and I'll come to in a minute as to why they left.",
+      "examination": "cross"
     },
     {
       "id": 172,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So Mr. Talic, the truth -- the fact of the matter is most of the Muslims did leave the municipality, and I'll come to in a minute as to why they left."
+      "speaker": "MEHMED TALIC",
+      "role": "witness",
+      "type": "answer",
+      "text": "Correct.",
+      "reply_to": 171
     },
     {
       "id": 173,
-      "speaker": "MEHMED TALIC",
-      "role": "witness",
-      "type": "answer",
-      "text": "Correct.",
-      "reply_to": 172
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said all the people in the municipality were frightened, which included Serbs, Croats, and Muslims. Is that your position?",
+      "examination": "cross"
     },
     {
       "id": 174,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You said all the people in the municipality were frightened, which included Serbs, Croats, and Muslims. Is that your position?"
-    },
-    {
-      "id": 175,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Correct.",
-      "reply_to": 174
+      "reply_to": 173
+    },
+    {
+      "id": 175,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "What were the Serbs frightened of?",
+      "examination": "cross"
     },
     {
       "id": 176,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What were the Serbs frightened of?"
-    },
-    {
-      "id": 177,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "The Serbs were frightened, as far as I know -- that is, I know that they were frightened because I visited some of the families that I was friends with. And we had our bags packed in our home, and so did the Serbs. And when the war broke out and when there was a threat of the Serbs' positions being shelled, well, as far as I understand, this is what they were afraid of. It doesn't have to be necessarily true, but I am convinced that that is where their fears lay.",
-      "reply_to": 176
+      "reply_to": 175
+    },
+    {
+      "id": 177,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "But the Serbs did not leave the municipality, did they, Mr. Talic?",
+      "examination": "cross"
     },
     {
       "id": 178,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But the Serbs did not leave the municipality, did they, Mr. Talic?"
-    },
-    {
-      "id": 179,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "No, nor were the positions around Banja Luka bombed, nor were there any war operations going on.",
-      "reply_to": 178
+      "reply_to": 177
+    },
+    {
+      "id": 179,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, in early April 1992, May 1992, were there not severe economic and social restrictions placed on the Muslim population of Celinac Municipality?",
+      "examination": "cross"
     },
     {
       "id": 180,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, in early April 1992, May 1992, were there not severe economic and social restrictions placed on the Muslim population of Celinac Municipality?"
-    },
-    {
-      "id": 181,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "As far as I know, there were not any restrictions. The Muslims, that is, we, the elderly people, or maybe some people five years my junior, we did not go out into the centre of Celinac, to the shops. Well, we were afraid of drunkards, some of those knew us, and we would actually send women to the shops instead. Many people knew our wives, and our wives would go to the shops to buy whatever was necessary. And my wife, for instance, would always go whenever we needed something. And she was told by Serb sales ladies and salesmen \"why isn't Meho coming to shop? Nothing will happen to him.\" That is what they told everyone. But to be frank, we were afraid of the drunkards, and then there were Serb refugees, and they were afraid of them as well. But I was never afraid of the local Serbs, nor am I afraid today. I told you I was the first one to return. I've had no problems. My son has returned and is visiting cafes and is not encountering any problems. That's it.",
-      "reply_to": 180
+      "reply_to": 179
     },
     {
-      "id": 182,
+      "id": 181,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, Mr. Ackerman."
     },
     {
-      "id": 183,
+      "id": 182,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, page 30, line 8, I'm told the witness said in answer to the last question or part answer to the last question: \"When there was threats from NATO, we were both scared, Serbs and Muslims.\" I think that's what he said. We can check with him if you like."
     },
     {
-      "id": 184,
+      "id": 183,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I suppose, Mr. Talic, you need to confirm that to us. Did you mention NATO at all?"
     },
     {
-      "id": 185,
+      "id": 184,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes."
     },
     {
-      "id": 186,
+      "id": 185,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Okay. Okay. Let's proceed, Ms. Chana, please."
     },
     {
-      "id": 187,
+      "id": 186,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honours. But could I have the usher to bring out P450 so it will be available to me when I come to it. Thank you."
     },
     {
-      "id": 188,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 187,
+      "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Talic, in April or May 1992, did you hear that the Bosnian Serb authorities broadcast instructions on the radio requiring all Muslims in Celinac to surrender any weapons in their possession? And this was supposed to be done to the crisis staff by 10 May 1992."
+      "text": "Mr. Talic, in April or May 1992, did you hear that the Bosnian Serb authorities broadcast instructions on the radio requiring all Muslims in Celinac to surrender any weapons in their possession? And this was supposed to be done to the crisis staff by 10 May 1992.",
+      "examination": "cross"
     },
     {
-      "id": 189,
+      "id": 188,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "This isn't correct. Not the crisis staff, but the SUP in Celinac. I was among those who had weapons, and I had the proper license for it. And when the order was issued for the weapons to be surrendered to the SUP, that is what we did, and we surrendered them. And now that you're mentions weapons, I returned in February 1998, and some two or three months later the chief of the SUP told me \"Meho, did you submit the request for the return of the weapons?\" And I told \"no, I haven't, but I will.\" And he told me: \"Well, you should do it in good time because very soon we will start returning weapons.\" And this is how it went. I was first among the Muslims to be returned my weapons when such time came. And now I have weapons with the proper documentation, and I have no trouble about it from the police, the SUP, or anyone else. I am a legal owner of weapons.",
-      "reply_to": 188
+      "reply_to": 187
+    },
+    {
+      "id": 189,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, why were only the Muslims required to submit their weapons and not the Serbs?",
+      "examination": "cross"
     },
     {
       "id": 190,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, why were only the Muslims required to submit their weapons and not the Serbs?"
-    },
-    {
-      "id": 191,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't know.",
-      "reply_to": 190
+      "reply_to": 189
+    },
+    {
+      "id": 191,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, do you also remember - and I want to show you P450 - that on 23rd July 1992, the war presidency of Celinac issued a resolution on the status of the non-Serb population on the territory of the Municipality of Celinac. Do you know anything about this particular resolution before we show it to you? It's now on the ELMO, Mr. Talic. Can you see it now? Do you see this document on the ELMO, Mr. Talic?",
+      "examination": "cross"
     },
     {
       "id": 192,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, do you also remember - and I want to show you P450 - that on 23rd July 1992, the war presidency of Celinac issued a resolution on the status of the non-Serb population on the territory of the Municipality of Celinac. Do you know anything about this particular resolution before we show it to you? It's now on the ELMO, Mr. Talic. Can you see it now? Do you see this document on the ELMO, Mr. Talic?"
-    },
-    {
-      "id": 193,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I can see it.",
-      "reply_to": 192
+      "reply_to": 191
+    },
+    {
+      "id": 193,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "There are some names at the front there. Do you know any of these people who are named under Article 2?",
+      "examination": "cross"
     },
     {
       "id": 194,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "There are some names at the front there. Do you know any of these people who are named under Article 2?"
-    },
-    {
-      "id": 195,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I know all of them.",
-      "reply_to": 194
+      "reply_to": 193
+    },
+    {
+      "id": 195,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And they are forbidden -- these are the people -- do you want some time to read the second page of this document? Perhaps page 6.",
+      "examination": "cross"
     },
     {
       "id": 196,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And they are forbidden -- these are the people -- do you want some time to read the second page of this document? Perhaps page 6."
-    },
-    {
-      "id": 197,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "The witness hasn't seen the document before, so perhaps he ought to have a bit of time to look at it before I can question him on it."
     },
     {
-      "id": 198,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 197,
+      "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "question",
-      "text": "Have you seen this document before, Mr. Talic? Sorry."
+      "text": "Have you seen this document before, Mr. Talic? Sorry.",
+      "examination": "cross"
     },
     {
-      "id": 199,
+      "id": 198,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I have.",
-      "reply_to": 198
+      "reply_to": 197
+    },
+    {
+      "id": 199,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "You have seen it?",
+      "examination": "cross"
     },
     {
       "id": 200,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You have seen it?"
-    },
-    {
-      "id": 201,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I've seen both of them. And read them.",
-      "reply_to": 200
+      "reply_to": 199
+    },
+    {
+      "id": 201,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "When was it that you first saw this document, Mr. Talic?",
+      "examination": "cross"
     },
     {
       "id": 202,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When was it that you first saw this document, Mr. Talic?"
-    },
-    {
-      "id": 203,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "As soon as they were typed out, maybe some 15 days later, I had them in my hands. I personally. May I continue with my answer?",
-      "reply_to": 202
+      "reply_to": 201
+    },
+    {
+      "id": 203,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "cross"
     },
     {
       "id": 204,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes."
-    },
-    {
-      "id": 205,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "The first and last names of these young men contained in this list here, all these are educated people, graduates of universities, young men of repute. There were engineers among them, people of different profiles, occupations.",
-      "reply_to": 204
+      "reply_to": 203
+    },
+    {
+      "id": 205,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "But --",
+      "examination": "cross"
     },
     {
       "id": 206,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But --"
-    },
-    {
-      "id": 207,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Now, what the reason was for them being unwanted in Celinac, this is something I could not find out. Simply this list said that they were unwanted in Celinac and that nobody wanted them to move around in Celinac. Secondly, this other document that was written, that Muslims and Croats were forbidden to swim in the Vrbas River, this is true. This document was indeed issued. Now, who ordered that these documents be typed out is something I never found out, although I did try. I did not find out, and even today I do not know who ordered and who typed these documents out. I am constantly in touch with the officials in the municipality, in the SUP and elsewhere, but I have never been able to find out who was it who issued the order and who typed the documents. The truth is that they were, indeed, written and made public.",
-      "reply_to": 206
+      "reply_to": 205
+    },
+    {
+      "id": 207,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, you are somebody who knows quite a lot what happened. Can you not give us, suggest any reason as to why these restrictions should have been placed on these individuals? Why do you think this was so?",
+      "examination": "cross"
     },
     {
       "id": 208,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, you are somebody who knows quite a lot what happened. Can you not give us, suggest any reason as to why these restrictions should have been placed on these individuals? Why do you think this was so?"
-    },
-    {
-      "id": 209,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I have no idea. The only thing I can say is that the persons involved were young, educated, graduates of universities, medical workers. All of them were educated, all those contained on this list. Now, why this was so? Who ordered or typed it out?",
-      "reply_to": 208
+      "reply_to": 207
+    },
+    {
+      "id": 209,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, Mr. Talic, the -- you said the Muslims left Celinac Municipality because they were in fear. Is that correct?",
+      "examination": "cross"
     },
     {
       "id": 210,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, Mr. Talic, the -- you said the Muslims left Celinac Municipality because they were in fear. Is that correct?"
-    },
-    {
-      "id": 211,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Correct. Correct.",
-      "reply_to": 210
+      "reply_to": 209
+    },
+    {
+      "id": 211,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was this fear about? What was it based on?",
+      "examination": "cross"
     },
     {
       "id": 212,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What was this fear about? What was it based on?"
-    },
-    {
-      "id": 213,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "First, let me tell you, there were intimidations going on. Fire -- 24 houses were set on fire. Mosques were blown up.",
-      "reply_to": 212
+      "reply_to": 211
+    },
+    {
+      "id": 213,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Previous interpretation continues] ... Who set those houses on fire and who blew up these mosques?",
+      "examination": "cross"
     },
     {
       "id": 214,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "[Previous interpretation continues] ... Who set those houses on fire and who blew up these mosques?"
-    },
-    {
-      "id": 215,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "How should I know? One wasn't allowed to go out in the evening. We would gather in larger groups and would hide in safer places, basements, houses of stronger structure. We did not dare to go out and see what was going on because we were afraid of what might happen. Therefore, I do not know who was it who demolished these structures, who set fire to them. I only know that it was terrible. And as I've said, where there was a house, where a hodza would have his liturgy, this house would be blown up. And that's why Mr. Brdjanin had to make this intervention in Celinac, and that's why he went there. And on that day I talked to him, and that day I told you he helped me get my daughter back.",
-      "reply_to": 214
+      "reply_to": 213
     },
     {
-      "id": 216,
+      "id": 215,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, I recognise you, Mr. Ackerman, at some point in time."
     },
     {
-      "id": 217,
+      "id": 216,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "I was just concerned that there's no date being established for these events."
     },
     {
-      "id": 218,
+      "id": 217,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Mr. Talic, perhaps you could be more specific as regards to the date especially since you now sort of put in one vast category the burning down of houses and blowing up of mosques together with your visit, Mr. Talic, to help you recover your daughter."
     },
     {
-      "id": 219,
+      "id": 218,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I do not recall the date. But this indeed did happen. All these houses were -- are now repaired, reconstructed through donations, international donations. Only perhaps three or four houses still need to be repaired. All the rest have all been repaired. And life goes on without any problems."
     },
     {
-      "id": 220,
+      "id": 219,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "How many Muslims have returned to Celinac?"
     },
     {
-      "id": 221,
+      "id": 220,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Well, approximately some 200 to 300 persons, mostly elderly ones. And among them, some perhaps 20 younger men."
     },
     {
-      "id": 222,
+      "id": 221,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, Ms. Chana. Sorry for interrupting you."
     },
     {
-      "id": 223,
+      "id": 222,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "That's all right, Your Honour."
     },
     {
-      "id": 224,
+      "id": 223,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "-- Break."
     },
     {
-      "id": 225,
+      "id": 224,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "I was wondering if it was the appropriate time for the break."
     },
     {
-      "id": 226,
+      "id": 225,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Talic, we are going to have a short coffee break now, which will also give you a rest. We will reconvene in 25 minutes' time. Thank you."
     },
     {
-      "id": 227,
+      "id": 226,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Yes, Mr. Talic, we are going to proceed. Ms. Chana."
     },
     {
-      "id": 228,
+      "id": 227,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honours."
     },
     {
-      "id": 229,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 228,
+      "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Talic, you said there were some meetings which were conducted by the SDS of the Serb leadership with the Muslims in the Celinac Municipality. Were you present at any of these meetings?"
+      "text": "Mr. Talic, you said there were some meetings which were conducted by the SDS of the Serb leadership with the Muslims in the Celinac Municipality. Were you present at any of these meetings?",
+      "examination": "cross"
     },
     {
-      "id": 230,
+      "id": 229,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 229
+      "reply_to": 228
+    },
+    {
+      "id": 230,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Which one were you present at?",
+      "examination": "cross"
     },
     {
       "id": 231,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Which one were you present at?"
-    },
-    {
-      "id": 232,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I did not attend any meetings.",
-      "reply_to": 231
+      "reply_to": 230
+    },
+    {
+      "id": 232,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know about the meeting which took place in Popovac, the village of Popovac? This was before July sometime, before this document that I showed you was released.",
+      "examination": "cross"
     },
     {
       "id": 233,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know about the meeting which took place in Popovac, the village of Popovac? This was before July sometime, before this document that I showed you was released."
-    },
-    {
-      "id": 234,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Are you sure about the pronunciation, Ms. Chana? If necessary, we'll spell it for him."
     },
     {
-      "id": 235,
+      "id": 234,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "Popovac. Yes, P-o-p-o-v-a-c."
     },
     {
-      "id": 236,
+      "id": 235,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I want to make sure that he gets the --"
     },
     {
-      "id": 237,
+      "id": 236,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes, that's correct, Popovac."
     },
     {
-      "id": 238,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 237,
+      "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "question",
-      "text": "Do you recall about this meeting at all and the incident which happened thereafter?"
+      "text": "Do you recall about this meeting at all and the incident which happened thereafter?",
+      "examination": "cross"
     },
     {
-      "id": 239,
+      "id": 238,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I do not recall.",
-      "reply_to": 238
+      "reply_to": 237
+    },
+    {
+      "id": 239,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know anything about the murders of the Sugic brothers -- by the Sugic brothers?",
+      "examination": "cross"
     },
     {
       "id": 240,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know anything about the murders of the Sugic brothers -- by the Sugic brothers?"
-    },
-    {
-      "id": 241,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I heard of that case, yes. Is when you're linking the Sugic's with that, then our Muslims, our young men, went to Popovac or Mehovci, up there, to cut wheat with combine machinery and also with trucks so that the wheat could be cut, put on the trucks, and brought to the warehouse in Popovac. And my son was also there who drove a tractor and the wheat to Popovac. So when all of that was finished, that was true. When they were going from Popovac towards Celinac, the Sugic's came out with weapons, with automatic rifles and machine-guns. I don't know exactly what weapons they had. And 32 of our men were taking the wheat to the mill to be ground so that the soldiers would have food. I'm not sure exactly what the wheat was intended for. Then the Sugic's came out. They set up a barrier and were holding their weapons at the ready. The driver stopped. A police officer came out, Mladen Vrhovac, and two or three other Serbs came out, and they literally said: \"Sugic, you can leave so that we can kill the balijas.\" They said: \"No way. While we're there, not a hair on the Muslims' heads can be harmed.\" And this is what happened. I don't know how long this whole thing lasted, these arguments and everything. And then when they saw that nothing will come of it, that they cannot do what they were intending to do, they withdrew. Our young men came to Celinac. They came back to Celinac alive and well so that everything in the end was okay.",
-      "reply_to": 240
+      "reply_to": 239
+    },
+    {
+      "id": 241,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, I'm talking about the incident where the Sugic brothers murdered the Muslims, the Muslim representatives at this meeting, and they were shot and murdered after this beating. You're talking about another incident, Mr. Talic. And you do recall this particular incident. You heard about it, as did everybody else. Is that not correct?",
+      "examination": "cross"
     },
     {
       "id": 242,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, I'm talking about the incident where the Sugic brothers murdered the Muslims, the Muslim representatives at this meeting, and they were shot and murdered after this beating. You're talking about another incident, Mr. Talic. And you do recall this particular incident. You heard about it, as did everybody else. Is that not correct?"
-    },
-    {
-      "id": 243,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I did hear that this happened in Popovac, but I don't know which Muslim was actually killed. I did hear about this incident. I know the Sugics. I know them well because Mr. Brdjanin knows this cafe in Popovac belonging to the Sugic's where I also worked. So I know them very well. And the Muslim who was killed, I don't really know his name, but I heard that a Muslim was killed in Mehovci or up there in Popovac. I was talking about the Sugics. When we started to talk about them, I was just saying how they were there when there was talk about the killing of our young men, when they were coming back from Popovac.",
-      "reply_to": 242
+      "reply_to": 241
+    },
+    {
+      "id": 243,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you said that they were calling the Muslims balijas. Is that correct, the Sugic brothers?",
+      "examination": "cross"
     },
     {
       "id": 244,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you said that they were calling the Muslims balijas. Is that correct, the Sugic brothers?"
-    },
-    {
-      "id": 245,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 244
+      "reply_to": 243
+    },
+    {
+      "id": 245,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And yet, you worked for them?",
+      "examination": "cross"
     },
     {
       "id": 246,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And yet, you worked for them?"
-    },
-    {
-      "id": 247,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "We were working for the army. The grain was placed in the military warehouse. That was it. That was this incident, the only one incident that happened with us Muslims in that time. Even those I was on work duty and I was at Orasje on a couple of occasions. That's where the Serb army was as well, people knew me. They invited me for coffee, some plum brandy. There were no excesses there, no incidents. I went to Orasje twice. I was the eldest amongst them. My people said I had to go to the work obligation. They didn't want to go without me. At the municipal office, they said: \"Meho, come, you have to go, at least a couple of times so there were no problems.\" And I did go on a couple of occasions even though people protected me because I was the oldest one. So I also worked with the Serb population. I wasn't imposed any kind of quota, how much I had to do. I did a little bit of work. I worked in the garden and so on. There was no coercion. I wasn't mistreated or abused, not just me but many others. I never went by myself. Other people would go with me also. All in all, it was okay, and it ended well for me and for many of our Muslims. So, well, what can you say?",
-      "reply_to": 246
+      "reply_to": 245
+    },
+    {
+      "id": 247,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, you would agree with me that this murder of the Muslim representative after that meeting created a great deal of fear amongst the Muslim population, fear for their safety?",
+      "examination": "cross"
     },
     {
       "id": 248,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, you would agree with me that this murder of the Muslim representative after that meeting created a great deal of fear amongst the Muslim population, fear for their safety?"
-    },
-    {
-      "id": 249,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. When this happened, the whole of Mehovci and Basici, their population left that entire area. Mr. Brdjanin knows. This is from that area where he came from, those Muslims. Of course they were frightened, they went down to Kamenovac between Jajce and Banja Luka. And they were in a school at school in Kamenovac for a night or two, and then they were transferred to Celinac to a safer place.",
-      "reply_to": 248
+      "reply_to": 247
+    },
+    {
+      "id": 249,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you aware there was another meeting held by the SDS Bosnian Serb leadership where Brdjanin was present after this particular document was published?",
+      "examination": "cross"
     },
     {
       "id": 250,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were you aware there was another meeting held by the SDS Bosnian Serb leadership where Brdjanin was present after this particular document was published?"
-    },
-    {
-      "id": 251,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I personally don't know about that meeting. To tell you the truth, I don't know about the meeting, nor do I know that Mr. Brdjanin was present. I told you I was at Orasje on work obligation and that I had also gone to Banja Luka because I had a brother who was ill. So I worked for a Serb refugee who lived in my brother's house. He exchanged a house with a Croat from Bihac, and he was a judge in Banja Luka. And I went to repair his mother and father's house. I had a brother who was mentally ill. He didn't know about the war. He used to smoke four or five packs of cigarettes a day, and there was a crisis with cigarettes, so thanks to this Rada, she obtained cigarettes for me and gave me money. I didn't work for free. I also did some other private jobs in order to survive. And about those meetings, to tell you the truth, I don't really know about them. I don't know whether Mr. Brdjanin was present or not. I know that meetings were held at the municipality, but who held these meetings I don't know. I personally know. I have a friend -- actually, it's a friend of my son's, a Serb, who was in the military police. When the meetings were being held in the municipal building and the Muslim families were being discussed and when I was discussed and my family was discussed, he literally told me - this is a great man - and he said that no harm can come to Talic's family. At that point, my children still had not left. He would come at midnight or at 1.00 in the night, he would knock in the door. There was no telephone, there was no electricity. I recognised his voice. We let him into the house. And he conveyed to us, he said: \"Meho, do not be afraid. No harm can come to your family.\" And not only this person. I can tell you the names of 20 or 30 names of prominent people, honest people, Serbs who used to come at 1.00 at night, knock on the door. They would open their wallet and say \"Meho, how much money do you need? Buy yourself bread, flour, whatever food you need. We will bring it to you. We are coming at this time of night so that other Serbs will not attack us\" and things like that. I had a brother in Blank page inserted to ensure pagination corresponds between the French and English transcripts. Germany who had been working there for 40 years. Through a Serb who was working there, he would send money to me and I didn't --",
-      "reply_to": 250
+      "reply_to": 249
+    },
+    {
+      "id": 251,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, I'm sorry to interrupt you, but matters would be much clearer for everyone if you just answered the questions in some brevity. When you're talking about all of this, when are you talking that this happened? What time frame are you talking about now?",
+      "examination": "cross"
     },
     {
       "id": 252,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, I'm sorry to interrupt you, but matters would be much clearer for everyone if you just answered the questions in some brevity. When you're talking about all of this, when are you talking that this happened? What time frame are you talking about now?"
-    },
-    {
-      "id": 253,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, let me tell you: Meetings were held on several occasions. I heard about that. But like I said, like I told you before, I didn't spend a lot of time at Celinac. I was either in Banja Luka or at Orasje or on work obligation. So at that time, I wasn't really that much in contact with the Serbs, with the --",
-      "reply_to": 252
+      "reply_to": 251
     },
     {
-      "id": 254,
+      "id": 253,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Just one moment. I'll try to intervene a little bit because we are getting nowhere here."
     },
     {
-      "id": 255,
+      "id": 254,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 256,
+      "id": 255,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Talic, these events that you're talking -- telling us about --"
     },
     {
-      "id": 257,
+      "id": 256,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes."
     },
     {
-      "id": 258,
+      "id": 257,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "-- these meetings, first of all, let's start with the meetings, are you talking about 1991, 1992, 1993? Can you help us a little bit more."
     },
     {
-      "id": 259,
+      "id": 258,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] The meetings were held in 1991 and 1992 and 1993 as well as in 1994. There were always meetings, accords, but I don't know what kind of meetings they were and what happened. I don't know that. But they were held, yes."
     },
     {
-      "id": 260,
+      "id": 259,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "All right."
     },
     {
-      "id": 261,
+      "id": 260,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] But only during one year."
     },
     {
-      "id": 262,
+      "id": 261,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "And these Serbs coming to knock at your door at 1.00 or 2.00 in the morning offering you money, are we talking of 1991, 1992, 1993?"
     },
     {
-      "id": 263,
+      "id": 262,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "The interpreters didn't understand the answer."
     },
     {
-      "id": 264,
+      "id": 263,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I didn't hear any answer at all. Mr. Talic, in case my question did not get to you, you mentioned Serbs coming to knock at your door at night offering you money, offering you their help. Did this happen in 1991 --"
     },
     {
-      "id": 265,
+      "id": 264,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Whatever I needed."
     },
     {
-      "id": 266,
+      "id": 265,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yeah. 1991 --"
     },
     {
-      "id": 267,
+      "id": 266,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] 1992 and 1993, those two years."
     },
     {
-      "id": 268,
+      "id": 267,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "All right, okay. Thank you. Do you need to place any other event, Ms. Chana, in a specific time frame?"
     },
     {
-      "id": 269,
+      "id": 268,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "No, Your Honour. I wanted to talk about this particular meeting in about July 1992."
     },
     {
-      "id": 270,
+      "id": 269,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "All right. Go ahead. Go ahead."
     },
     {
-      "id": 271,
+      "id": 270,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, he's already said he doesn't know anything about this particular meeting."
     },
     {
-      "id": 272,
+      "id": 271,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "No."
     },
     {
-      "id": 273,
+      "id": 272,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "So I don't know why we need to pursue it. He's already said --"
     },
     {
-      "id": 274,
+      "id": 273,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Maybe if he's asked a further question, he will suddenly remember what the meeting was. Let's see. If we don't get there, Mr. Ackerman, I will stop Ms. Chana and we will move to some other area."
     },
     {
-      "id": 275,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 274,
+      "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "question",
-      "text": "At this meeting there were representatives of the Muslim community who would go as representatives and then give the information to all the other Muslims. That was the purpose of this particular meeting. Did you hear the outcome of some of the -- what was discussed at these meetings by the Muslim representatives and the SDS?"
+      "text": "At this meeting there were representatives of the Muslim community who would go as representatives and then give the information to all the other Muslims. That was the purpose of this particular meeting. Did you hear the outcome of some of the -- what was discussed at these meetings by the Muslim representatives and the SDS?",
+      "examination": "cross"
     },
     {
-      "id": 276,
+      "id": 275,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "SDS or SDA?"
     },
     {
-      "id": 277,
+      "id": 276,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "With the SDS representatives with the Bosnian Serb representatives with the Muslims."
     },
     {
-      "id": 278,
+      "id": 277,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "She has said a meeting in 1992, and she has now said meetings. So what are we talking about? What question is being asked? And I think first of all it must be established whether he knows about the particular meeting that she wants to ask him about or not. If he doesn't know about it, then there's no sense asking him about it."
     },
     {
-      "id": 279,
+      "id": 278,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "You are right, Mr. Ackerman. Perhaps we can tackle it from another angle. Please ask him first whether it was customary, whether it was usual for representatives of the Muslims to report back to the Muslim community the outcome of any meetings, of meetings with the Serb representatives. Let's start from there."
     },
     {
-      "id": 280,
+      "id": 279,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, Your Honour. That was my exact point."
     },
     {
-      "id": 281,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 280,
+      "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Talic, was it customary for the Muslim representatives to give the outcome of the meetings to the general Muslim population of Celinac Municipality?"
+      "text": "Mr. Talic, was it customary for the Muslim representatives to give the outcome of the meetings to the general Muslim population of Celinac Municipality?",
+      "examination": "cross"
     },
     {
-      "id": 282,
+      "id": 281,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Listen, I remember one of those meetings now. I've remembered it. There were two Muslims who attended it. And I found that out from the Serb population, which two Muslims attended that meeting and who knew what happened at the meeting. Then, those two Muslims did not convey to the Muslim population the situation as it was. So those two same Muslims were looking after their own affairs. I was following them. I kept my eye on them. They were suspicious. So after that meeting, they didn't stay in Celinac for long. They left Celinac. They left and went away. Therefore, we, the other Muslims, did not know at all what was going on that much.",
-      "reply_to": 281
+      "reply_to": 280
+    },
+    {
+      "id": 282,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes, Mr. Talic, but the question was, was it customary - I will come -- leaving aside this one particular meeting that you now remember about - for the information to be disseminated between the Muslim population. That was the purpose of the meeting, was it not?",
+      "examination": "cross"
     },
     {
       "id": 283,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes, Mr. Talic, but the question was, was it customary - I will come -- leaving aside this one particular meeting that you now remember about - for the information to be disseminated between the Muslim population. That was the purpose of the meeting, was it not?"
-    },
-    {
-      "id": 284,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, but it was not conveyed to us, or we were not told about it. I didn't hear anything about it. I am saying that I didn't hear anything about it and can say nothing about that.",
-      "reply_to": 283
+      "reply_to": 282
+    },
+    {
+      "id": 284,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you ever hear Mr. Brdjanin say at one of these meetings that Celinac was for the Serbs and the Muslims must leave?",
+      "examination": "cross"
     },
     {
       "id": 285,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you ever hear Mr. Brdjanin say at one of these meetings that Celinac was for the Serbs and the Muslims must leave?"
-    },
-    {
-      "id": 286,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, is there any factual basis for that question or did she just make up that? Because I don't think there's any basis for that question."
     },
     {
-      "id": 287,
+      "id": 286,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I'm sorry I don't normally interrupt like this. But obviously Ms. Chana's -- this is taken from someone who testified, and the page number I think Ms. Chana has got there so we can give the page number of the transcript for Mr. Ackerman."
     },
     {
-      "id": 288,
+      "id": 287,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I think what Mr. Ackerman needed to know --"
     },
     {
-      "id": 289,
+      "id": 288,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "I'm satisfied."
     },
     {
-      "id": 290,
+      "id": 289,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I think that's enough."
     },
     {
-      "id": 291,
+      "id": 290,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you. Thank you, Your Honour."
     },
     {
-      "id": 292,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 291,
+      "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Talic."
+      "text": "Mr. Talic.",
+      "examination": "cross"
     },
     {
-      "id": 293,
+      "id": 292,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I think we need to make sure that Mr. Talic remembers the question."
     },
     {
-      "id": 294,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 293,
+      "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Talic, did you ever hear that at one of these meetings Mr. Brdjanin had told the Muslim representatives that Celinac was for the Serbs and all the Muslims must leave?"
+      "text": "Mr. Talic, did you ever hear that at one of these meetings Mr. Brdjanin had told the Muslim representatives that Celinac was for the Serbs and all the Muslims must leave?",
+      "examination": "cross"
     },
     {
-      "id": 295,
+      "id": 294,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I'm claiming 100 per cent that I did not hear that from the Muslims or from the Serbs. And even though I'm 100 per cent convinced, according to my understanding, that Brdjanin would not say that, still I don't know but I doubt that he said that. This could be something that was just fabricated. I just wanted to say three or four words briefly. Just as my Muslims in Celinac don't like me, I can tell you that sincerely. 40 to 50 per cent, even though I'm equal towards everybody and I have everybody in my family, I only judge people if they're good or bad. The same applies to Mr. Brdjanin. He has friends and enemies, Serbs. So I really doubt whether Mr. Brdjanin could have said that. There are opponents of Brdjanin, Serbs, who will also not like the fact or hold it against me that I was a witness and that I came to testify. But I am saying 100 per cent that Brdjanin did not say that because there are people who don't like Brdjanin, and I'm speaking to them openly, and they tell me \"we don't like Brdjanin.\" There are a lot of Serbs there at leadership positions whom Serbs don't like. Let's take Dodik for example. 50 per cent of people of Banja Luka don't like him. So for Mr. Brdjanin also, there are fabrications. I'm a citizen of Celinac. I lived a hundred metres away from the municipal building, so I know how everybody breathes. So I'm surprised that Mr. Brdjanin said that. And if -- I don't know if I am right or not, but I did not hear that. I'm definitely saying that.",
-      "reply_to": 294
+      "reply_to": 293
+    },
+    {
+      "id": 295,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, since you know how everybody breathes, perhaps you can assist the Court with Mr. Brdjanin's relationship with the Sugic brothers. Were they good friends?",
+      "examination": "cross"
     },
     {
       "id": 296,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, since you know how everybody breathes, perhaps you can assist the Court with Mr. Brdjanin's relationship with the Sugic brothers. Were they good friends?"
-    },
-    {
-      "id": 297,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't know anything about the relationship between the two -- the three of them, what they were like, whether they were on good terms or not. I cannot say. I don't know. I really don't know.",
-      "reply_to": 296
+      "reply_to": 295
+    },
+    {
+      "id": 297,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would Mr. Brdjanin go to the cafe owned by the Sugic brothers?",
+      "examination": "cross"
     },
     {
       "id": 298,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Would Mr. Brdjanin go to the cafe owned by the Sugic brothers?"
-    },
-    {
-      "id": 299,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't know that either.",
-      "reply_to": 298
+      "reply_to": 297
     },
     {
-      "id": 300,
+      "id": 299,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "One moment, because I don't like this. Earlier on, and this is one question that I was going to put to you myself, when you mentioned that the Sugic brothers had a cafe, you also indicated that Mr. Brdjanin knew this very well and that he had -- that he frequented this cafe, apart from you."
     },
     {
-      "id": 301,
+      "id": 300,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] No, I apologise. I did not say that Mr. Brdjanin went to that cafe. I said Mr. Brdjanin knows about the cafe of the Sugic's in Popovac, the one owned by the sons of Savo Sugic. He has sons - Savo - who was killed. And I know that Mr. Brdjanin knew about that cafe where I used to work. A long time ago when they were just building it, I worked on it and I finished it. I said that Mr. Brdjanin knew about that cafe, but I did not say that he used to go there and he used to have meetings there. No, that is not correct. And one thing 100 per cent, that cafe is 8 kilometres away from my house, so I don't know what was going on, what were the meetings there, who met who there. Because in the centre of Celinac, I don't know what they did at those meetings, what were the words, how the policy was conducted, what was done. I only know that when I was on the agenda and my family, I didn't have any problems, and I will not have any problems. Mr. Brdjanin told me personally when I sat down with him, as soon as I introduced myself and said who I was, he said \"you Talics were never extremists, and I don't think that you are now.\" Neither me nor my family were never like that. As far as I'm concerned, everybody is just a person to me. And people have to be responsible for who they are and for what they are."
     },
     {
-      "id": 302,
+      "id": 301,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "All right. Yes, Mr. Ackerman."
     },
     {
-      "id": 303,
+      "id": 302,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, page 38, line 10, what the witness actually said --"
     },
     {
-      "id": 304,
+      "id": 303,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I know, I have it front of me."
     },
     {
-      "id": 305,
+      "id": 304,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Is not what you suggested. He didn't ever say that Brdjanin went to the cafe. He said he knows this cafe and Popovac belonging to the Sugics where I also worked. And that's all he said about it."
     },
     {
-      "id": 306,
+      "id": 305,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "And he said, \"I know them well because Mr. Brdjanin knows this cafe in Popovac belonging to the Sugics where I also worked.\" So let's go ahead."
     },
     {
-      "id": 307,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 306,
+      "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "question",
-      "text": "Talic, you told the Court earlier on, and it's a direct quote from you when you were asked about the Sugic brothers. You said \"I know them well because Brdjanin knows this cafe.\" That is what you've told the Court earlier. Correct?"
+      "text": "Talic, you told the Court earlier on, and it's a direct quote from you when you were asked about the Sugic brothers. You said \"I know them well because Brdjanin knows this cafe.\" That is what you've told the Court earlier. Correct?",
+      "examination": "cross"
     },
     {
-      "id": 308,
+      "id": 307,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "What did you mean to say when you said Mr. Brdjanin knows this cafe?"
     },
     {
-      "id": 309,
+      "id": 308,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I wanted to say that Brdjanin was born in that area, from Popovac. He was born up there and that he was educated in Celinac and Banja Luka. I don't know where he finished his university education, but Mr. Brdjanin is from that area. And even if he weren't, he should have known each family in Celinac, in the Celinac Municipality, because he was in a leadership position there. And he was born up there. He knew Mehovci, which is a Muslim village, Basici also is a Muslim village, Stasi, Popovac, Lipovac --"
     },
     {
-      "id": 310,
+      "id": 309,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Talic, please try to be concise in your answer because you are running literally beyond what is being asked of you. My question was a very simple one. You didn't say Mr. Brdjanin knows about the existence of this cafe. You said Mr. Brdjanin knows this cafe, which to me means he's familiar with it."
     },
     {
-      "id": 311,
+      "id": 310,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Everybody from Celinac knows about that cafe, a Muslim -- Muslims and Serbs. There's a bus line running there, a bus stops there. Popovac, Celinac, Sahinovic, and further on. People go up there. People know about that cafe. It's a cafe."
     },
     {
-      "id": 312,
+      "id": 311,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "All right. Let's go, Ms. Chana."
     },
     {
-      "id": 313,
+      "id": 312,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Your Honours."
     },
     {
-      "id": 314,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 313,
+      "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "question",
-      "text": "Did you know Mr. Brdjanin's various official -- what he was an official of in the ARK region? Do you know all the posts that he held?"
+      "text": "Did you know Mr. Brdjanin's various official -- what he was an official of in the ARK region? Do you know all the posts that he held?",
+      "examination": "cross"
     },
     {
-      "id": 315,
+      "id": 314,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't know.",
-      "reply_to": 314
+      "reply_to": 313
+    },
+    {
+      "id": 315,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know that he was the vice-president of the association of municipalities of the Bosnian Krajina?",
+      "examination": "cross"
     },
     {
       "id": 316,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know that he was the vice-president of the association of municipalities of the Bosnian Krajina?"
-    },
-    {
-      "id": 317,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I heard something about it, but I don't really know all the details.",
-      "reply_to": 316
+      "reply_to": 315
+    },
+    {
+      "id": 317,
+      "speaker": "MS. CHANA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know he was the president of the ARK Crisis Staff?",
+      "examination": "cross"
     },
     {
       "id": 318,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know he was the president of the ARK Crisis Staff?"
-    },
-    {
-      "id": 319,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't know.",
-      "reply_to": 318
+      "reply_to": 317
     },
     {
-      "id": 320,
+      "id": 319,
       "speaker": "MS. CHANA",
       "role": "counsel",
       "type": "statement",
       "text": "That will be all from this witness, Ms. Chana."
     },
     {
-      "id": 321,
+      "id": 320,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I thank you, Ms. Chana. Is there re-examination, Mr. Ackerman?"
     },
     {
-      "id": 322,
+      "id": 321,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I have two or three questions."
     },
     {
-      "id": 323,
+      "id": 322,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
-      "text": "Please proceed. Re-examined by Mr. Ackerman:"
+      "text": "Please proceed."
+    },
+    {
+      "id": 323,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Talic, you talked about the young people leaving, young Muslim people leaving Celinac in 1992. Just so we're all clear, when did the bulk of the Muslim people who left Celinac, what year was it that they actually left?",
+      "examination": "re-direct"
     },
     {
       "id": 324,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Talic, you talked about the young people leaving, young Muslim people leaving Celinac in 1992. Just so we're all clear, when did the bulk of the Muslim people who left Celinac, what year was it that they actually left?"
-    },
-    {
-      "id": 325,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, let me tell you briefly. It all depended on the opening of the points in Bosanska Gradiska and the opening up of the crossing over of the crossing over of the Sava River because that was the way out of Republika Srpska. Bosanska Gradiska and Travnik, up there in the direction of Vlasic, those were the two routes. There were organisations in Banja Luka that had their own buses, and you had to pay for the transport. Sometimes the points in Gradiska and Travnik were closed and when they could not receive refugees, and then it took some time so that every year from 1992 up until 1995 people were leaving according to their abilities and the actual possibilities. Sometimes -- well, so they left gradually, not all at once. Sometimes two, three, five buses would leave depending on how many passengers there were, how many passengers -- how many people Croatia could receive and so on.",
-      "reply_to": 324
+      "reply_to": 323
+    },
+    {
+      "id": 325,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. That's good enough. Thank you. You mentioned at one point that before there was any -- there were any departure of Muslims from Celinac that the population of the city centre had a certain percentage of Muslims. And it's unclear whether you said 80 per cent or 90 per cent. Because at one time it was reported as 80 per cent, and then it was corrected at 90 per cent. And I'd just like to know which one it was that you actually said.",
+      "examination": "re-direct"
     },
     {
       "id": 326,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. That's good enough. Thank you. You mentioned at one point that before there was any -- there were any departure of Muslims from Celinac that the population of the city centre had a certain percentage of Muslims. And it's unclear whether you said 80 per cent or 90 per cent. Because at one time it was reported as 80 per cent, and then it was corrected at 90 per cent. And I'd just like to know which one it was that you actually said."
-    },
-    {
-      "id": 327,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "90 per cent were Muslims in the centre of Celinac. And 10 per cent in the very centre of Celinac, which was a small town, were Serbs, 10 or 15 per cent. And as taken as a municipality, Celinac numbered -- actually 90 per cent of the entire population in the municipality were Serbs.",
-      "reply_to": 326
+      "reply_to": 325
+    },
+    {
+      "id": 327,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "I want to ask you now about the Sugic brothers who were accused of committing these killings that you have been asked about. Were they -- the Sugic brothers, were they the sons of Savo Sugic or were they the sons of Mica Sugic?",
+      "examination": "re-direct"
     },
     {
       "id": 328,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I want to ask you now about the Sugic brothers who were accused of committing these killings that you have been asked about. Were they -- the Sugic brothers, were they the sons of Savo Sugic or were they the sons of Mica Sugic?"
-    },
-    {
-      "id": 329,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Listen, to tell you the truth, I know all these Sugics well. Now, which ones took place in -- were involved in the murders, I don't know. Talking specifically of Savo Sugic, he has two sons. One of them is a driver in Kip in Celinac, and he wouldn't harm an ant. The other brother who resides in Popovac and runs this cafe, I think that this young man is also a very peaceful one. Now, who took -- who took part in these murders, I do not know. That's that.",
-      "reply_to": 328
+      "reply_to": 327
     },
     {
-      "id": 330,
+      "id": 329,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "One moment, Mr. Talic, because I don't know what kind of interpretation you are receiving over there, but to my knowledge it should be perfect. It should be good, like it has always been. You certainly haven't answered Mr. Talic's question -- Mr. Ackerman's question. Mr. Ackerman wants to know who these Sugic brothers are that you were talking about. Were they the sons of Savo Sugic or of Mica Sugic?"
     },
     {
-      "id": 331,
+      "id": 330,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Let me tell you, there are three or four families of Sugics, and I do not know who participated there, but I do know that the Savo Sugic's junior son who's up there in Popovac, as far as I know, he took no part in that. But specifically, I do not know who took part in the murders. I only heard that there were some Sugics involved in the murders. I cannot tell you which ones."
     },
     {
-      "id": 332,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 331,
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "All right, that's fine."
+      "text": "All right, that's fine.",
+      "examination": "re-direct"
     },
     {
-      "id": 333,
+      "id": 332,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "That's better. Okay. Yes, Mr. Ackerman."
     },
     {
-      "id": 334,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 333,
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "How many people were living in Popovac in 1992 roughly? Did you hear my question?"
+      "text": "How many people were living in Popovac in 1992 roughly? Did you hear my question?",
+      "examination": "re-direct"
     },
     {
-      "id": 335,
+      "id": 334,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't.",
-      "reply_to": 334
+      "reply_to": 333
+    },
+    {
+      "id": 335,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "How many people were living in Popovac in 1992 roughly, if you know?",
+      "examination": "re-direct"
     },
     {
       "id": 336,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How many people were living in Popovac in 1992 roughly, if you know?"
-    },
-    {
-      "id": 337,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't know.",
-      "reply_to": 336
+      "reply_to": 335
+    },
+    {
+      "id": 337,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "How many cafes are there in Popovac?",
+      "examination": "re-direct"
     },
     {
       "id": 338,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How many cafes are there in Popovac?"
-    },
-    {
-      "id": 339,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I know for this one cafe, Sugic's.",
-      "reply_to": 338
+      "reply_to": 337
+    },
+    {
+      "id": 339,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know if there are any others?",
+      "examination": "re-direct"
     },
     {
       "id": 340,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know if there are any others?"
-    },
-    {
-      "id": 341,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't.",
-      "reply_to": 340
+      "reply_to": 339
     },
     {
-      "id": 342,
+      "id": 341,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Mr. Talic. That's all I have."
     },
     {
-      "id": 343,
+      "id": 342,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "And before I ask Judge Janu and Judge Taya if they have any questions, just to have it clear in my mind, these Sugics that own this cafe in Popovac, they are the sons of Savo, aren't they?"
     },
     {
-      "id": 344,
+      "id": 343,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes."
     },
     {
-      "id": 345,
+      "id": 344,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
-      "text": "Judge Janu from the Czech Republic will be asking you one question. Thank you. Questioned by the Court:"
+      "text": "Judge Janu from the Czech Republic will be asking you one question. Thank you."
     },
     {
-      "id": 346,
+      "id": 345,
       "speaker": "JUDGE JANU",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Talic, do you know why -- the reason why Mr. Brdjanin made enemies among the Serbs? Do you know the reason?"
     },
     {
-      "id": 347,
+      "id": 346,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I have no idea.",
-      "reply_to": 340
+      "reply_to": 339
     },
     {
-      "id": 348,
+      "id": 347,
       "speaker": "JUDGE JANU",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 349,
+      "id": 348,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I thank you, Judge Janu. Judge Taya, do you have any questions?"
     },
     {
-      "id": 350,
+      "id": 349,
       "speaker": "JUDGE TAYA",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 351,
+      "id": 350,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Judge Taya from Japan also has some questions for you, Mr. Talic."
     },
     {
-      "id": 352,
+      "id": 351,
       "speaker": "JUDGE TAYA",
       "role": "judge",
       "type": "statement",
       "text": "You said that your son-in-law is a Serb. Is that correct?"
     },
     {
-      "id": 353,
+      "id": 352,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. I have all ethnicities in my family, all sorts of ethnicities.",
-      "reply_to": 340
+      "reply_to": 339
     },
     {
-      "id": 354,
+      "id": 353,
       "speaker": "JUDGE TAYA",
       "role": "judge",
       "type": "statement",
       "text": "Apart from him, do you have any Serb ethnicity person in your close relatives?"
     },
     {
-      "id": 355,
+      "id": 354,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I have. My brother's son who married a Serb, we have very friendly terms with them. They have a family of their own now. And then from -- on my cousin's side, I have a cousin married to a Serb also on good terms. My daughter is married to a German. I have a son-in-law who's Albanian. I only don't have a gypsy in my family. And I'm on good terms with everyone. Everyone is treating me well, and I treat them well as well.",
-      "reply_to": 340
+      "reply_to": 339
     },
     {
-      "id": 356,
+      "id": 355,
       "speaker": "JUDGE TAYA",
       "role": "judge",
       "type": "statement",
       "text": "You are now living in Celinac. Is that correct?"
     },
     {
-      "id": 357,
+      "id": 356,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Correct.",
-      "reply_to": 340
+      "reply_to": 339
     },
     {
-      "id": 358,
+      "id": 357,
       "speaker": "JUDGE TAYA",
       "role": "judge",
       "type": "statement",
       "text": "I think you are living together with some persons. Together with whom are you living?"
     },
     {
-      "id": 359,
+      "id": 358,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I have a wife and a son who returned from Germany, who is single, and when they were returning the refugees, he was among the first ones to be returned. I work occasionally. I still have to qualify for pension. I do not qualify yet. Now, we have no trouble. We continue living. If there's work to be done, both with Muslims or with Serbs, regardless of who invites us to work, and that's it.",
-      "reply_to": 340
+      "reply_to": 339
     },
     {
-      "id": 360,
+      "id": 359,
       "speaker": "JUDGE TAYA",
       "role": "judge",
       "type": "statement",
       "text": "Where have you been living after 1995 when you left Celinac?"
     },
     {
-      "id": 361,
+      "id": 360,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I stayed in Croatia for three years, and then I returned in February 1998 when my son-in-law informed me that I could return. I found an apartment in Croatia, and I paid the rent for it because I didn't want to go to those collection centres. As soon as I crossed the Sava River into Croatia, I went to Oriovac near Slavonski Brod. Found an apartment, paid for it myself, worked a bit, and I lived there. I didn't go back to Sana canton where Muslims would go, where Serbs had abandoned their houses who had left Sanski Most, Bihac. That's where Muslims would go to live. I didn't want to go there. I lived on my own. And then as I came in touch with my son-in-law and he told me I could return, I did, and I have been living in my house to this very day, that much.",
-      "reply_to": 340
+      "reply_to": 339
     },
     {
-      "id": 362,
+      "id": 361,
       "speaker": "JUDGE TAYA",
       "role": "judge",
       "type": "statement",
       "text": "How do you make a living nowadays?"
     },
     {
-      "id": 363,
+      "id": 362,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, I live from today to tomorrow. I work very little. I am now of -- a bit old, so I have -- my wife works, my son, and then I have some land to work on, and I also work for whoever calls me to work. And that's how I survive.",
-      "reply_to": 340
+      "reply_to": 339
     },
     {
-      "id": 364,
+      "id": 363,
       "speaker": "JUDGE TAYA",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 365,
+      "id": 364,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I thank you, Judge Taya. I have just one question for you, Mr. Talic. And I'm just wondering how you came to know with such detail what was happening in Kotor Varos before you decided to ask for Mr. Brdjanin's help."
     },
     {
-      "id": 366,
+      "id": 365,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "I came to know about it when I made a call because at the time the phone lines were functioning. And when I was trying to reach Kotor Varos, I was unable to reach them there. I had neighbours who also had relatives up there, perhaps whose children married with someone from there and went over there to celebrate Bajram because there it was a bit more peaceful than here. And the town was blocked, the phone lines were cut off. I went to the municipality building, and there they told me that indeed the town was blocked. My daughter happened to be there, and my wife was very angry with me because she told me \"you sent her over there. Now you bring her back.\" She was crying. She was very distressed. So I went wherever I could, and I'm thankful to the Lord, and I wish to thank Mr. Brdjanin who understood my situation, provided me with a car, provided me with a driver and with a special permission, permit, which enabled me to bring my daughter over to Celinac. I crossed a Serbian checkpoint in Kotor Varos, and they allowed me to go through --",
-      "reply_to": 340
+      "reply_to": 339
     },
     {
-      "id": 367,
+      "id": 366,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "One moment, Mr. Talic, because you are repeating yourself. What I wanted to know is this: The town was blockaded. The telephone lines were cut, interrupted. And still, you had so much information. Earlier on, you even told us who was firing, who was shooting, and where the people were hiding or where they had gathered together. I mean, where did you get this information from? You seem to have been very well informed in spite of the fact that the telephone lines were not available, were cut at the time."
     },
     {
-      "id": 368,
+      "id": 367,
       "speaker": "MEHMED TALIC",
       "role": "witness",
       "type": "answer",
       "text": "First, I was told by the Serbs in the municipality building and in the police. I got the information, and then Mr. Brdjanin gave me the car, and I went up there. I came across a checkpoint. There was a lieutenant colonel, or a colonel, a Serb, who told me that Serbs and Muslims were fighting, but then he saw that it was a Serb driving the car and that I was given the permission by a Serb. And he said: \"Well, we are fighting Muslims and here it is we have a Muslim in the car.\" And then they understood that I was on friendly terms with Mr. Brdjanin. I was allowed to go on foot. I had to leave the car on the checkpoint. There was a fire-fighting car there. At the same time, there was an announcement saying that Croats and Muslims had to surrender their weapons and that nobody would harm them, that their security would be guaranteed. I entered Kotor Varos and went to my relatives' house where my daughter was. I found the door locked, and I went into a side street where I met up with a Muslim. He asked me \"what do you need, sir, here?\" And I said my daughter arrived here some two days ago. And he told me \"they're all down there in the woods hiding.\" I went there, found my daughter, brought her back to the car, and that's how I was aware of what was going on in Kotor Varos.",
-      "reply_to": 340
+      "reply_to": 339
     },
     {
-      "id": 369,
+      "id": 368,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "All right. That brings your testimony to an end, Mr. Talic. I thank you for having gone over to the offices from where you have given testimony, and I thank you on behalf of the Tribunal and of everyone present here. Good morning to you."
     },
     {
-      "id": 370,
+      "id": 369,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] May I put a question to you?"
     },
     {
-      "id": 371,
+      "id": 370,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, go ahead."
     },
     {
-      "id": 372,
+      "id": 371,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I wish to greet you all and would like to greet Mr. Brdjanin. He knows me well. I have the very best wishes for him and wish him to return as soon as possible. I wish to say that Mr. Brdjanin is not -- doesn't have the responsibility that has been attributed to him. Thank you very much."
     },
     {
-      "id": 373,
+      "id": 372,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I thank you, Mr. Talic."
     },
     {
-      "id": 374,
+      "id": 373,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Good-bye."
     },
     {
-      "id": 375,
+      "id": 374,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes. Mr. Ackerman will do his best to try and please Mr. Talic, Mr. Brdjanin, make Mr. Talic happy. Is there any other further business that you would like to -- nothing? I see you both standing."
     },
     {
-      "id": 376,
+      "id": 375,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "I got up first, Judge."
     },
     {
-      "id": 377,
+      "id": 376,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "As far as the Prosecution is concerned, no, Your Honour."
     },
     {
-      "id": 378,
+      "id": 377,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Yes, Mr. Ackerman."
     },
     {
-      "id": 379,
+      "id": 378,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, just so I don't forget later, I'd be very remiss if I didn't express the gratitude of our team, the Brdjanin Defence, for the stellar work of the interpreters throughout this entire trial and the things they did above and beyond the call of duty at times for us was -- we're very appreciative of. And it's our observation that even though we occasionally brought attention to mistranslations, the bulk of the work they did was absolutely flawless, and we certainly appreciate that. It has made this trial a better trial in many ways."
     },
     {
-      "id": 380,
+      "id": 379,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I thank you, Mr. Ackerman. And I do join you, and in fact the reason why I said what I said yesterday was precisely because I thought that today's sittings would be in closed session, so I took the opportunity to make that intervention myself. I think everyone -- we ought to be grateful and thankful to everyone involved, the interpreters, the technicians. We have had problems throughout, and were it not for them, we wouldn't have arrived where we are today."
     },
     {
-      "id": 381,
+      "id": 380,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "The technicians today did well with this videolink. And I understood that they don't always go this smoothly but this one was extremely well done."
     },
     {
-      "id": 382,
+      "id": 381,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I agree, Mr. Ackerman."
     },
     {
-      "id": 383,
+      "id": 382,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "I think the only thing left is the timing of the various things. I know yesterday Mr. Ackerman's going to -- first we are going to get part of the -- part of Mr. Shoup's report today, and Mr. Ackerman presumably will let us know if Mr. Shoup is going to testify earlier."
     },
     {
-      "id": 384,
+      "id": 383,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, that's one thing."
     },
     {
-      "id": 385,
+      "id": 384,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Secondly, of course, Your Honours, as there's going to be this -- at present this gap unless the matter we discussed earlier today is brought in next week until February the 9th, Your Honours presumably will let us know first whether you intend in this gap to call any witnesses yourselves."
     },
     {
-      "id": 386,
+      "id": 385,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "The decision will be taken either Monday or Tuesday."
     },
     {
-      "id": 387,
+      "id": 386,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "I'm grateful. And secondly, obviously at what stage, if any, the site visit is to be organised."
     },
     {
-      "id": 388,
+      "id": 387,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, exactly. And that is being verified this morning by Mr. Roberts. We've cleared a lot of ground with the security, both in ex-Yugoslavia and here. Today the financial matters being attended to, and then we need to liaise with you to establish the date, and we will communicate the date to whoever needs to know the details."
     },
     {
-      "id": 389,
+      "id": 388,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you very much, Your Honour."
     },
     {
-      "id": 390,
+      "id": 389,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "The other thing is this, Ms. Korner, and I intended to raise it again with you: You mentioned earlier on that you may have some evidence in rebuttal."
     },
     {
-      "id": 391,
+      "id": 390,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "I can -- I think we can put it this way: That we should be in a position at the latest the week after next, and maybe the end of next week to tell Your Honour whether we wish to -- because it's obviously -- we have to apply, and equally Mr. Ackerman has to be given notice of any evidence that we would wish to call in rebuttal."
     },
     {
-      "id": 392,
+      "id": 391,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, I thank you. But if as I mentioned to you earlier some few days ago, if it is at all possible to cooperate together with Mr. Ackerman and bring forward any evidence in rebuttal, or at least some of the evidence in rebuttal even before Mr. Shoup comes to give evidence, I think that would help us tremendously, if it is possible. I don't want to force it on you because obviously I know that there are limitations and problems that you have to encounter. If it is possible, please."
     },
     {
-      "id": 393,
+      "id": 392,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, we certainly have that well in mind, and if it's at all possible then we will do it. I think the point that both Mr. Ackerman and I would make about this is that it doesn't really make much -- because the time that we would save, we will be doing the same thing, which is dealing with our closing briefs."
     },
     {
-      "id": 394,
+      "id": 393,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 395,
+      "id": 394,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "So from that point of view, I think it's -- but we will certainly let Your Honours know."
     },
     {
-      "id": 396,
+      "id": 395,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "As I said yesterday, when you were not here, it was Mr. Nicholls and Ms. Sutherland who were here, well we willing utilising this interval to go through several aspects of the trial and come back to you on various issues that we would like you to concentrate upon and address in your brief in due course."
     },
     {
-      "id": 397,
+      "id": 396,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I heard that -- I was actually keeping an eye on the proceedings, as it were. But Your Honour, we would certainly welcome that and urge Your Honours to do that. As Your Honours probably know, Judge Schomburg did that in the Stakic trial, and it was of great assistance."
     },
     {
-      "id": 398,
+      "id": 397,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "It's very important."
     },
     {
-      "id": 399,
+      "id": 398,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 400,
+      "id": 399,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "We do it in our jurisdiction, and it works. Also, the understanding is this: That when I say \"Mr. Ackerman, please try to concentrate on this more than the other\" it doesn't mean to say that we are already in our mind decided on anything. I want to make this clear. It's done on a -- in a spirit of cooperation between the Trial Chamber and the parties to streamline the final submissions as much as possible to what is considered at the time by the Chambers as more important or that deserves more attention anyway. And also, there may be areas that were perhaps not sufficiently addressed for one or more reasons during or in the course of the Rule 98 bis stage which will now need to be extended for sure, so we will come to those. We were identifying as we went along in our deliberations at the time, and practically that was one time when we decided that we will come back to you on several issues."
     },
     {
-      "id": 401,
+      "id": 400,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I did on the issue of Rule 98, I made the inquiries with the senior legal officer to the Appeals Chamber as to whether we were likely to get a decision. My understanding is, although it was never actually specifically stated, that we are likely to get a decision from the Appeals Chamber."
     },
     {
-      "id": 402,
+      "id": 401,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "That's the indication that I have, too."
     },
     {
-      "id": 403,
+      "id": 402,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 404,
+      "id": 403,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "And I'm working in that direction as much as I can because it's not within -- but I will not fail to emphasise the importance of having that point decided before we come to our own decision. So yes, Mr. Ackerman."
     },
     {
-      "id": 405,
+      "id": 404,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I think it was clear from the question that you asked of the witness, but my client has asked me to make sure to clarify that it was the Sugic brothers involved in the killing based upon records already in this case were the sons of Mica and not the sons of the cafe owner. I think that was clear, wasn't it?"
     },
     {
-      "id": 406,
+      "id": 405,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, yes. That's why I put it as the last question because earlier on he had mentioned sons of Savo and one or more of them being killed themselves, so I wanted to make that clear. Yes, that brings us to the end for the time being. We will reconvene for sure to hear the testimony of the expert which hopefully would be brought forward, advanced, if possible. Between now and then, there may be an occasion for us to reconvene if necessary. And we will let you know well in advance if that is the case. Okay. I thank you all."
     },
     {
-      "id": 407,
+      "id": 406,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
@@ -3160,27 +3269,43 @@
       "text": "[Witness answered through interpreter]"
     },
     {
-      "after_utterance": 226,
+      "after_utterance": 29,
+      "text": "Examined by Mr. Ackerman:"
+    },
+    {
+      "after_utterance": 121,
+      "text": "Cross-examined by Ms. Chana:"
+    },
+    {
+      "after_utterance": 225,
       "text": "--- Recess taken at 10.30 a.m."
     },
     {
-      "after_utterance": 226,
+      "after_utterance": 225,
       "text": "--- On resuming at 10.57 a.m."
     },
     {
-      "after_utterance": 286,
+      "after_utterance": 285,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 286,
+      "after_utterance": 285,
       "text": "(redacted)"
     },
     {
-      "after_utterance": 374,
+      "after_utterance": 322,
+      "text": "Re-examined by Mr. Ackerman:"
+    },
+    {
+      "after_utterance": 344,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 373,
       "text": "[The witness withdrew]"
     },
     {
-      "after_utterance": 406,
+      "after_utterance": 405,
       "text": "--- Whereupon the hearing adjourned"
     }
   ],

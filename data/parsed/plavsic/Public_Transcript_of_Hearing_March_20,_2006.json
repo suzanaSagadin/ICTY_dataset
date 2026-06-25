@@ -1,6 +1,6 @@
 {
   "case": "plavsic",
-  "case_id": "IT-00-39-T",
+  "case_id": "IT-00-39",
   "date": "2006-03-20",
   "utterances": [
     {
@@ -4305,15 +4305,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Just one. Further cross-examination by Mr. Margetts:"
+      "text": "Just one."
     },
     {
       "id": 579,
-      "speaker": "MR. JOSSE",
+      "speaker": "MR. MARGETTS",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Lakic, I'd like you to again have the 39th session of the government presented to you. That is Exhibit P65, tab 179. And if you could refer again to the portion that Mr. Josse referred you to, that's the first two paragraphs relating to agenda item 1, and in particular, if you could refer to the second sentence in the second paragraph, which reads, \"It should be provided that all solutions are adapted to the war situation regardless of the fact that the state of war was not declared.\" That sentence clearly states that despite the failure to declare formally a state of war, the government was to operate as if one had been declared, correct?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 580,
@@ -4342,7 +4342,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Judge Hanoteau has one or more questions to you. Questioned by the Court:"
+      "text": "Judge Hanoteau has one or more questions to you."
     },
     {
       "id": 584,
@@ -4421,11 +4421,11 @@
     },
     {
       "id": 594,
-      "speaker": "MR. JOSSE",
-      "role": "counsel",
+      "speaker": "THE COURT",
+      "role": "judge",
       "type": "question",
       "text": "Okay. So I wanted to know how many people were working for the government at that time in that building, for the government.",
-      "examination": "re-direct"
+      "examination": "questioned"
     },
     {
       "id": 595,
@@ -4801,8 +4801,16 @@
       "text": "[Defence counsel and Accused confer]"
     },
     {
+      "after_utterance": 578,
+      "text": "Further cross-examination by Mr. Margetts:"
+    },
+    {
       "after_utterance": 582,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 583,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 630,

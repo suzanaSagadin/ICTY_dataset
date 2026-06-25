@@ -1725,7 +1725,7 @@
       "speaker": "THE ACCUSED",
       "role": "accused",
       "type": "statement",
-      "text": "[Interpretation] No, no, thank you. Questioned by the Court:"
+      "text": "[Interpretation] No, no, thank you."
     },
     {
       "id": 230,
@@ -1798,15 +1798,15 @@
       "speaker": "MS. GUSTAFSON",
       "role": "counsel",
       "type": "statement",
-      "text": "Thank you very much. Further Cross-examination by Ms. Gustafson:"
+      "text": "Thank you very much."
     },
     {
       "id": 240,
-      "speaker": "MR. KARADZIC",
+      "speaker": "MS. GUSTAFSON",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Garaplija, just in relation to the attempted liquidation of one of the military police commanders, Ismet Bajramovic. Now, in relation to that incident that Herenda told you about, Herenda was tasked to assassinate Ismet Bajramovic, who was not only a commander, but he was also a notorious organised crime boss, and that was because of a dispute between Mr. Bajramovic and Bakir Alispahic, a senior DB official, over unsettled bills and drug trafficking; is that correct?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 241,
@@ -1835,7 +1835,7 @@
       "speaker": "THE ACCUSED",
       "role": "accused",
       "type": "statement",
-      "text": "[Interpretation] Yes, your Excellencies. Let us clarify concerning the answer to your question. Further Re-examination by Mr. Karadzic:"
+      "text": "[Interpretation] Yes, your Excellencies. Let us clarify concerning the answer to your question."
     },
     {
       "id": 245,
@@ -2510,8 +2510,20 @@
       "text": "Re-examination by Mr. Karadzic:"
     },
     {
+      "after_utterance": 229,
+      "text": "Questioned by the Court:"
+    },
+    {
       "after_utterance": 235,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 239,
+      "text": "Further Cross-examination by Ms. Gustafson:"
+    },
+    {
+      "after_utterance": 244,
+      "text": "Further Re-examination by Mr. Karadzic:"
     },
     {
       "after_utterance": 255,

@@ -313,311 +313,316 @@
     },
     {
       "id": 45,
-      "speaker": "JUDGE SCHOMBURG",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Lukic:"
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "[Interpretation] Good afternoon, Mr. DA. We speak the same language, and in view of the interpretation, will you please wait a little before you answer my question so that the interpreters' service could interpret. For the record, will you tell us when were you born and where?",
+      "examination": "direct"
     },
     {
       "id": 46,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "[Interpretation] Good afternoon, Mr. DA. We speak the same language, and in view of the interpretation, will you please wait a little before you answer my question so that the interpreters' service could interpret. For the record, will you tell us when were you born and where?"
-    },
-    {
-      "id": 47,
       "speaker": "WITNESS DA",
       "role": "witness",
       "type": "answer",
       "text": "I was born on the 15th of April, 1935 in Bosanski Brod, Bosnia and Herzegovina.",
-      "reply_to": 46
+      "reply_to": 45
+    },
+    {
+      "id": 47,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you married?",
+      "examination": "direct"
     },
     {
       "id": 48,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Are you married?"
-    },
-    {
-      "id": 49,
       "speaker": "WITNESS DA",
       "role": "witness",
       "type": "answer",
       "text": "I am married, but I do not know whether I'm still married. I am married, but I don't know if something has happened to that marriage.",
-      "reply_to": 48
+      "reply_to": 47
+    },
+    {
+      "id": 49,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And what is the ethnicity of your wife?",
+      "examination": "direct"
     },
     {
       "id": 50,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And what is the ethnicity of your wife?"
-    },
-    {
-      "id": 51,
       "speaker": "WITNESS DA",
       "role": "witness",
       "type": "answer",
       "text": "She is a Croat.",
-      "reply_to": 50
+      "reply_to": 49
+    },
+    {
+      "id": 51,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Why do you say that you do not know whether you are still married?",
+      "examination": "direct"
     },
     {
       "id": 52,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Why do you say that you do not know whether you are still married?"
-    },
-    {
-      "id": 53,
       "speaker": "WITNESS DA",
       "role": "witness",
       "type": "answer",
       "text": "Well, I haven't for the past ten years -- divorced.",
-      "reply_to": 52
+      "reply_to": 51
+    },
+    {
+      "id": 53,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it because your wife is afraid of the consequences if she came to live with you?",
+      "examination": "direct"
     },
     {
       "id": 54,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is it because your wife is afraid of the consequences if she came to live with you?"
-    },
-    {
-      "id": 55,
       "speaker": "WITNESS DA",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 54
+      "reply_to": 53
+    },
+    {
+      "id": 55,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was the reason something that you did?",
+      "examination": "direct"
     },
     {
       "id": 56,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was the reason something that you did?"
-    },
-    {
-      "id": 57,
       "speaker": "WITNESS DA",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 56
+      "reply_to": 55
+    },
+    {
+      "id": 57,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And if she came to live with you, would there be a risk of her losing her pension?",
+      "examination": "direct"
     },
     {
       "id": 58,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And if she came to live with you, would there be a risk of her losing her pension?"
-    },
-    {
-      "id": 59,
       "speaker": "WITNESS DA",
       "role": "witness",
       "type": "answer",
       "text": "She could lose both her pension and her relatives might also renounce her, disown her.",
-      "reply_to": 58
+      "reply_to": 57
+    },
+    {
+      "id": 59,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And there is also the risk that her son who works in Croatia might lose his job, isn't it?",
+      "examination": "direct"
     },
     {
       "id": 60,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And there is also the risk that her son who works in Croatia might lose his job, isn't it?"
-    },
-    {
-      "id": 61,
       "speaker": "WITNESS DA",
       "role": "witness",
       "type": "answer",
       "text": "Yes. And that is why the two of us are suffering.",
-      "reply_to": 60
+      "reply_to": 59
+    },
+    {
+      "id": 61,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "How many children do you have?",
+      "examination": "direct"
     },
     {
       "id": 62,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How many children do you have?"
-    },
-    {
-      "id": 63,
       "speaker": "WITNESS DA",
       "role": "witness",
       "type": "answer",
       "text": "Three. Because I had two sons when I married her, and she had one daughter when she married me. And our children were quite small when we were married, and we have been married for over 20 years.",
-      "reply_to": 62
+      "reply_to": 61
+    },
+    {
+      "id": 63,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "And one daughter is married, isn't she?",
+      "examination": "direct"
     },
     {
       "id": 64,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And one daughter is married, isn't she?"
-    },
-    {
-      "id": 65,
       "speaker": "WITNESS DA",
       "role": "witness",
       "type": "answer",
       "text": "Yes. One daughter got married before the war, and she married -- she lives in Croatia and she is married to a Croat.",
-      "reply_to": 64
+      "reply_to": 63
+    },
+    {
+      "id": 65,
+      "speaker": "MR. LUKIC",
+      "role": "counsel",
+      "type": "question",
+      "text": "Will you tell us briefly what happened on the 3rd of March, 1992? What happened to you that day?",
+      "examination": "direct"
     },
     {
       "id": 66,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Will you tell us briefly what happened on the 3rd of March, 1992? What happened to you that day?"
-    },
-    {
-      "id": 67,
       "speaker": "WITNESS DA",
       "role": "witness",
       "type": "answer",
       "text": "That day, before that day, let me tell you just one sentence. There was war psychosis which one could feel in Croatia so that that day --",
-      "reply_to": 66
+      "reply_to": 65
     },
     {
-      "id": 68,
+      "id": 67,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "We are sorry. We cannot hear the witness at all. We cannot hear the witness. We are sorry."
     },
     {
-      "id": 69,
+      "id": 68,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "Something is wrong with the microphone."
     },
     {
-      "id": 70,
+      "id": 69,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "We do not hear anything. We are sorry, Your Honours."
     },
     {
-      "id": 71,
+      "id": 70,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "May we ask the booth, can you hear the witness?"
     },
     {
-      "id": 72,
+      "id": 71,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "The witness needs to say something."
     },
     {
-      "id": 73,
+      "id": 72,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "Please."
     },
     {
-      "id": 74,
+      "id": 73,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Yes, I shall repeat."
     },
     {
-      "id": 75,
+      "id": 74,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "We can barely hear him now. Could you repeat the previous question we think the witness said. But we can barely hear him, so this is not working really, Your Honours."
     },
     {
-      "id": 76,
+      "id": 75,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "So let's try in the meantime let the technicians work on this problem, that you not only can barely hear the witness but entirely. But could you please rephrase your last question, Mr. Lukic."
     },
     {
-      "id": 77,
+      "id": 76,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[Interpretation]"
     },
     {
-      "id": 78,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 77,
+      "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell us what happened to you on the 3rd of March, 1992?"
+      "text": "Can you tell us what happened to you on the 3rd of March, 1992?",
+      "examination": "direct"
     },
     {
-      "id": 79,
+      "id": 78,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Now we do not hear the witness at all."
     },
     {
-      "id": 80,
+      "id": 79,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "Our apologies. We have to wait for the technician. May I take the liberty in the meantime, and my apologies to the witness, in order to proceed with the second question raised by the Office of the Prosecution, that we discuss these issues in office in the framework of a 65 ter (i) conference this afternoon, say, at 4.00. Would this be appropriate for you?"
     },
     {
-      "id": 81,
+      "id": 80,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I'm very sorry, I can't be here. I have to leave today at half past 2.00, but Mr. Koumjian will be here and he can deal with it."
     },
     {
-      "id": 82,
+      "id": 81,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "The Defence."
     },
     {
-      "id": 83,
+      "id": 82,
       "speaker": "MR. LUKIC",
       "role": "counsel",
       "type": "statement",
       "text": "[In English] We can be here, Your Honour."
     },
     {
-      "id": 84,
+      "id": 83,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "So 4.00 in my office, please, for a 65 ter (i) conference."
     },
     {
-      "id": 85,
+      "id": 84,
       "speaker": "MS. KORNER",
       "role": "counsel",
       "type": "statement",
       "text": "And Your Honour, I should say with Your Honour's permission, Ms. Karper as usual will be present."
     },
     {
-      "id": 86,
+      "id": 85,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
       "text": "That goes without saying. Apparently, the problems are related to voice distortion. Therefore, in order to continue, if there is no objection, we go into closed session. This is feasible. I can't see any objections. So therefore, we proceed in closed session."
     },
     {
-      "id": 87,
+      "id": 86,
       "speaker": "JUDGE SCHOMBURG",
       "role": "judge",
       "type": "statement",
@@ -718,119 +723,123 @@
       "text": "[Witness answered through interpreter]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 44,
+      "text": "Examined by Mr. Lukic:"
+    },
+    {
+      "after_utterance": 85,
       "text": "[Closed session]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "Pages 9108-9118 – redacted – closed session"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 86,
+      "after_utterance": 85,
       "text": "--- Whereupon the hearing adjourned"
     }
   ],

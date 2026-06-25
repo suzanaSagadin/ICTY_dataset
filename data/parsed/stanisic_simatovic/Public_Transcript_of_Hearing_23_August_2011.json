@@ -1,6 +1,6 @@
 {
   "case": "stanisic_simatovic",
-  "case_id": "IT-03-69-T",
+  "case_id": "IT-03-69",
   "date": "2011-08-23",
   "utterances": [
     {
@@ -382,14 +382,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Please do so. Further cross-examination by Mr. Groome:"
+      "text": "Please do so."
     },
     {
       "id": 54,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "Sir, the last answer that you gave to Mr. Petrovic, you said: \"... in particular in view of the date that I see there.\" Does that mean that your answer, the evidence that you've given, relates to the document that's now on our screen, this exhibit? D68?"
+      "text": "Sir, the last answer that you gave to Mr. Petrovic, you said: \"... in particular in view of the date that I see there.\" Does that mean that your answer, the evidence that you've given, relates to the document that's now on our screen, this exhibit? D68?",
+      "examination": "cross"
     },
     {
       "id": 55,
@@ -401,10 +402,11 @@
     },
     {
       "id": 56,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "So when Mr. Petrovic asked you: \"Do you allow for the possibility that this group was perhaps a part of some special ... unit of the ...\" and then we don't have the rest of the question, when you said \"yes,\" you were referring to the people that are described in D68?"
+      "text": "So when Mr. Petrovic asked you: \"Do you allow for the possibility that this group was perhaps a part of some special ... unit of the ...\" and then we don't have the rest of the question, when you said \"yes,\" you were referring to the people that are described in D68?",
+      "examination": "cross"
     },
     {
       "id": 57,
@@ -416,10 +418,11 @@
     },
     {
       "id": 58,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. GROOME",
       "role": "counsel",
       "type": "question",
-      "text": "I believe I've cleared that up, Your Honour. I have no further questions."
+      "text": "I believe I've cleared that up, Your Honour. I have no further questions.",
+      "examination": "cross"
     },
     {
       "id": 59,
@@ -433,7 +436,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Witness, I have one question or a series of questions to you. Questioned by the Court:"
+      "text": "Witness, I have one question or a series of questions to you."
     },
     {
       "id": 61,
@@ -890,8 +893,16 @@
       "text": "(redacted)"
     },
     {
+      "after_utterance": 53,
+      "text": "Further cross-examination by Mr. Groome:"
+    },
+    {
       "after_utterance": 59,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 60,
+      "text": "Questioned by the Court:"
     },
     {
       "after_utterance": 76,

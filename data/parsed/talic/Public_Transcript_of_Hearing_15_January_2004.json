@@ -1,6 +1,6 @@
 {
   "case": "talic",
-  "case_id": "IT-99-36-T",
+  "case_id": "IT-99-36",
   "date": "2004-01-15",
   "utterances": [
     {
@@ -406,665 +406,704 @@
       "id": 58,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
-      "type": "statement",
-      "text": "Examined by Mr. Ackerman:"
+      "type": "question",
+      "text": "Sir, your name is Boris Dmitrasinovic. Tell the Court when you were born and where, please.",
+      "examination": "direct"
     },
     {
       "id": 59,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sir, your name is Boris Dmitrasinovic. Tell the Court when you were born and where, please."
-    },
-    {
-      "id": 60,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I was born on the 13th of April 1971 in Banja Luka, in the then Republic of Bosnia-Herzegovina in the State of Yugoslavia.",
-      "reply_to": 59
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you married? Do you have any children?",
+      "examination": "direct"
     },
     {
       "id": 61,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Are you married? Do you have any children?"
-    },
-    {
-      "id": 62,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I am married, and I have an 8-year-old son.",
-      "reply_to": 61
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where are you living now? What kind of work are you doing?",
+      "examination": "direct"
     },
     {
       "id": 63,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Where are you living now? What kind of work are you doing?"
-    },
-    {
-      "id": 64,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Currently, I'm living in Banja Luka where I was born. And presently I'm in marketing business. But this is still rather unofficial and not really professional.",
-      "reply_to": 63
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Did you ever serve in the army?",
+      "examination": "direct"
     },
     {
       "id": 65,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. Did you ever serve in the army?"
-    },
-    {
-      "id": 66,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 65
+      "reply_to": 64
+    },
+    {
+      "id": 66,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "When was that?",
+      "examination": "direct"
     },
     {
       "id": 67,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When was that?"
-    },
-    {
-      "id": 68,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "This was in 1990 and 1991.",
-      "reply_to": 67
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you ever serve in any kind of a combat situation with the army?",
+      "examination": "direct"
     },
     {
       "id": 69,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you ever serve in any kind of a combat situation with the army?"
-    },
-    {
-      "id": 70,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "This happened later when I was in service as a reservist in 1992, in the summer of 1992.",
-      "reply_to": 69
+      "reply_to": 68
+    },
+    {
+      "id": 70,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you were mobilised after you had finished your initial army service?",
+      "examination": "direct"
     },
     {
       "id": 71,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you were mobilised after you had finished your initial army service?"
-    },
-    {
-      "id": 72,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I completed my compulsory service in 1991 and was mobilised in the month of May of 1992 when everybody else was mobilised as well.",
-      "reply_to": 71
+      "reply_to": 70
+    },
+    {
+      "id": 72,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "I want to divide 1992 into basically two segments, before September and after September. Before September of 1992, what was your assignment? What was it that you were doing?",
+      "examination": "direct"
     },
     {
       "id": 73,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I want to divide 1992 into basically two segments, before September and after September. Before September of 1992, what was your assignment? What was it that you were doing?"
-    },
-    {
-      "id": 74,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Before September of 1992, I was in a traffic company of the military police which was part of the local corps.",
-      "reply_to": 73
+      "reply_to": 72
+    },
+    {
+      "id": 74,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "And was there a time when that company was assigned to a combat role?",
+      "examination": "direct"
     },
     {
       "id": 75,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And was there a time when that company was assigned to a combat role?"
-    },
-    {
-      "id": 76,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, but it happened only once. There had been problems in that part of the corridor, and we were asked to provide assistance to the units that had been trained for combat.",
-      "reply_to": 75
+      "reply_to": 74
+    },
+    {
+      "id": 76,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "So where did you go? How long were you there? Did you ever actually encounter any opposing forces?",
+      "examination": "direct"
     },
     {
       "id": 77,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So where did you go? How long were you there? Did you ever actually encounter any opposing forces?"
-    },
-    {
-      "id": 78,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "This lasted only ten days, and to be perfectly frank, I never saw any enemy during that period of time.",
-      "reply_to": 77
+      "reply_to": 76
+    },
+    {
+      "id": 78,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. In this period before September 1992, were any non-Serb personnel serving in your unit?",
+      "examination": "direct"
     },
     {
       "id": 79,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. In this period before September 1992, were any non-Serb personnel serving in your unit?"
-    },
-    {
-      "id": 80,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. The commander of my company was a Muslim, and his name was Jasmin Nolkinic.",
-      "reply_to": 79
+      "reply_to": 78
+    },
+    {
+      "id": 80,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were there soldiers in your company that were non-Serb?",
+      "examination": "direct"
     },
     {
       "id": 81,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were there soldiers in your company that were non-Serb?"
-    },
-    {
-      "id": 82,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, it's difficult for me to remember, but this was probably the case at that time because it was quite mixed, the population.",
-      "reply_to": 81
+      "reply_to": 80
+    },
+    {
+      "id": 82,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
     },
     {
       "id": 83,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay."
-    },
-    {
-      "id": 84,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "And if I may add, while I was -- while we were performing our duties, sometimes we were together with the civilian police, and there were also Croats in the civilian police, such as Zoran Klasan, a man who is still working for the civilian police in Banja Luka and whom I see from time to time in town, and a gentleman by the name of Blazevic whom I'm not sure whether he has retired or whether he's still in service.",
-      "reply_to": 83
+      "reply_to": 82
+    },
+    {
+      "id": 84,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, I divided 1992 into that period before September and after September. Was there any change in your assignment in September of 1992?",
+      "examination": "direct"
     },
     {
       "id": 85,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, I divided 1992 into that period before September and after September. Was there any change in your assignment in September of 1992?"
-    },
-    {
-      "id": 86,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "In September 1992, I was transferred to the Security Services Centre whereupon I was assigned to a unit which was referred to as facility protection unit or platoon, correction.",
-      "reply_to": 85
+      "reply_to": 84
+    },
+    {
+      "id": 86,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who was the commander of that unit?",
+      "examination": "direct"
     },
     {
       "id": 87,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Who was the commander of that unit?"
-    },
-    {
-      "id": 88,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "The commander of that unit was Vinko Jankovic. I don't know what rank he had.",
-      "reply_to": 87
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "What specifically were you assigned to do once you joined that unit?",
+      "examination": "direct"
     },
     {
       "id": 89,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What specifically were you assigned to do once you joined that unit?"
-    },
-    {
-      "id": 90,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Our assignments were quite simply. We were in charge of providing security to the facilities and buildings such as the town hall, the police station, and buildings inhabited by individuals who were supposed to be protected.",
-      "reply_to": 89
+      "reply_to": 88
+    },
+    {
+      "id": 90,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "In that connection, did you ever meet a gentleman by the name of Radoslav Brdjanin?",
+      "examination": "direct"
     },
     {
       "id": 91,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In that connection, did you ever meet a gentleman by the name of Radoslav Brdjanin?"
-    },
-    {
-      "id": 92,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I didn't know Radoslav before I was assigned to provide security to the building where he lived with his family.",
-      "reply_to": 91
+      "reply_to": 90
+    },
+    {
+      "id": 92,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Who else was assigned to provide security to that building along with you?",
+      "examination": "direct"
     },
     {
       "id": 93,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Who else was assigned to provide security to that building along with you?"
-    },
-    {
-      "id": 94,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "You want me to give you the names of the people who worked with me?",
-      "reply_to": 93
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "direct"
     },
     {
       "id": 95,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes."
-    },
-    {
-      "id": 96,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "There was Naum Golic, Zeljko Knezevic. There were others as well, but they were not there permanently. Before I arrived, Mr. Cavka was also there. Mr. Cavka was a Muslim.",
-      "reply_to": 95
+      "reply_to": 94
+    },
+    {
+      "id": 96,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "He was a Muslim member of your unit that was assigned to security at Mr. Brdjanin's residence? Is that what you're saying?",
+      "examination": "direct"
     },
     {
       "id": 97,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "He was a Muslim member of your unit that was assigned to security at Mr. Brdjanin's residence? Is that what you're saying?"
-    },
-    {
-      "id": 98,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. He was a police officer. He was a member of the reserve police force, and he was guarding the apartment of Mr. Brdjanin.",
-      "reply_to": 97
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know if Mr. Brdjanin actually had asked for that protection or not?",
+      "examination": "direct"
     },
     {
       "id": 99,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know if Mr. Brdjanin actually had asked for that protection or not?"
-    },
-    {
-      "id": 100,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't think that Mr. Brdjanin had requested protection. He felt free enough not to request any personal escort. These guards were assigned to him by some individuals from the Security Services Centre who believed that he, or rather the building where he lived needed some kind of protection.",
-      "reply_to": 99
+      "reply_to": 98
+    },
+    {
+      "id": 100,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you ever invited or did you ever attend any social gatherings at Mr. Brdjanin's home?",
+      "examination": "direct"
     },
     {
       "id": 101,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were you ever invited or did you ever attend any social gatherings at Mr. Brdjanin's home?"
-    },
-    {
-      "id": 102,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Radoslav invited me to attend his slava, the family -- traditional family holiday, and at some other social gatherings as well.",
-      "reply_to": 101
+      "reply_to": 100
+    },
+    {
+      "id": 102,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall whether at these social gatherings all of those invited and in attendance were Serbs, or were there also non-Serbs invited and attending?",
+      "examination": "direct"
     },
     {
       "id": 103,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you recall whether at these social gatherings all of those invited and in attendance were Serbs, or were there also non-Serbs invited and attending?"
-    },
-    {
-      "id": 104,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, there were also Croats and Muslims. Specifically, very often Suzana Golic came to Radoslav Brdjanin's house, she is a Croat. And a gentleman from his neighbourhood who was a Muslim, but whose name now escapes me. His first name I think was -- rather, his last name was Ibrahimovic, I think.",
-      "reply_to": 103
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "During the time that you were providing security or at any time that you're familiar with, do you know if the Brdjanin family had any persons working for them that were non-Serb?",
+      "examination": "direct"
     },
     {
       "id": 105,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "During the time that you were providing security or at any time that you're familiar with, do you know if the Brdjanin family had any persons working for them that were non-Serb?"
-    },
-    {
-      "id": 106,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "From what they told me, rather from what they discussed amongst themselves, I know that they had a Muslim babysitter for their daughters. This is what they discussed among each other, so I assume that this is correct.",
-      "reply_to": 105
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Was your relationship with the Brdjanin family such that you were able to learn about Mr. Brdjanin's relatives and his wife's relatives and their nationalities? Did you ever learn anything about that?",
+      "examination": "direct"
     },
     {
       "id": 107,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Was your relationship with the Brdjanin family such that you were able to learn about Mr. Brdjanin's relatives and his wife's relatives and their nationalities? Did you ever learn anything about that?"
-    },
-    {
-      "id": 108,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Radoslav's family's very mixed, so is the family of his wife. I will tell you of the examples that I know. For instance, both his brothers are married to Croats. I know personally one of them whose name is Milka. And Mira's family, I know that her brother was married to a Muslim and that her sister was married to a Muslim. One of her cousins is also married to a Croat, whom I know. His name is Zdravko. And the name of this cousin is Vukica.",
-      "reply_to": 107
+      "reply_to": 106
+    },
+    {
+      "id": 108,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you have conversations with Mr. Brdjanin that would permit you to draw any conclusions regarding his feelings and attitude toward non-Serb persons during this time, in 1992? And you can just tell me whether you did or not. If you did, say \"yes\"; if you didn't, say \"no.\"",
+      "examination": "direct"
     },
     {
       "id": 109,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you have conversations with Mr. Brdjanin that would permit you to draw any conclusions regarding his feelings and attitude toward non-Serb persons during this time, in 1992? And you can just tell me whether you did or not. If you did, say \"yes\"; if you didn't, say \"no.\""
-    },
-    {
-      "id": 110,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 109
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Tell the Chamber what you learned about his attitudes in this regard.",
+      "examination": "direct"
     },
     {
       "id": 111,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Tell the Chamber what you learned about his attitudes in this regard."
-    },
-    {
-      "id": 112,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Let's fill this blank. The witness is a Serb or is of Serb ethnicity, Mr. Ackerman, isn't he?"
     },
     {
-      "id": 113,
+      "id": 112,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 114,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 113,
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "Go ahead."
+      "text": "Go ahead.",
+      "examination": "direct"
     },
     {
-      "id": 115,
+      "id": 114,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "We are going back to the question concerning the conversations that I had with Radoslav concerning people of other ethnicities. Isn't that so? Well, I will give you an example that was a personal one, that I was impressed by. We had one of our conversations, and I said that Islam was quite a primitive religion for which it will be very difficult to fit into the contemporary modern-day lifestyle. Radoslav replied to me by saying that I was thinking this way simply because I was a Christian. If I belonged to some other religious confession, I would think differently. He did, however, tell me so in a way that that he showed that he perhaps also thought it a bit primitive, but at the same time he indicated that this was no way of thinking, of undermining other people's religions and praising one's own. And after having talked about it, I started thinking differently as well.",
-      "reply_to": 114
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you ever hear from any source that Mr. Brdjanin had made public pronouncements, public speeches that were very anti-non-Serb people?",
+      "examination": "direct"
     },
     {
       "id": 116,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you ever hear from any source that Mr. Brdjanin had made public pronouncements, public speeches that were very anti-non-Serb people?"
-    },
-    {
-      "id": 117,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I have never heard any such thing.",
-      "reply_to": 116
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you ever heard about it? I mean did you -- has anyone ever suggested to you that he made such statements?",
+      "examination": "direct"
     },
     {
       "id": 118,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Have you ever heard about it? I mean did you -- has anyone ever suggested to you that he made such statements?"
-    },
-    {
-      "id": 119,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I only heard this after he had been taken to The Hague. Prior to that, I never heard any such thing of him having insulted or offended members of other religions in any of his public speeches.",
-      "reply_to": 118
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "The Trial Chamber has seen a clip, for instance, where Mr. Brdjanin said something about wiping non-Christian scum from the soles of our shoes. Does that square with the Mr. Brdjanin that you knew?",
+      "examination": "direct"
     },
     {
       "id": 120,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "The Trial Chamber has seen a clip, for instance, where Mr. Brdjanin said something about wiping non-Christian scum from the soles of our shoes. Does that square with the Mr. Brdjanin that you knew?"
-    },
-    {
-      "id": 121,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, I hear this for the first time.",
-      "reply_to": 120
+      "reply_to": 119
+    },
+    {
+      "id": 121,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you and Mr. Brdjanin ever have any discussions regarding the army that you can recall?",
+      "examination": "direct"
     },
     {
       "id": 122,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you and Mr. Brdjanin ever have any discussions regarding the army that you can recall?"
-    },
-    {
-      "id": 123,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Radoslav leveled a lot of criticism at the army at the time. Once he said that the fact that non-Serbs were assigned to work obligation was a terrible thing, and the fact that they had to spend seven or eight hours working there was very bad. And he particularly minded the fact that the educated people, teachers, lawyers were assigned to such work obligations as involved cleaning of the streets or collecting and sweeping leaves off the streets. He thought this to be improper, and he thought that this practice should be put to a stop.",
-      "reply_to": 122
+      "reply_to": 121
+    },
+    {
+      "id": 123,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "During the time that you -- how long a period of time did you remain in reasonably close contact with Mr. Brdjanin? From September of 1992 until when?",
+      "examination": "direct"
     },
     {
       "id": 124,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "During the time that you -- how long a period of time did you remain in reasonably close contact with Mr. Brdjanin? From September of 1992 until when?"
-    },
-    {
-      "id": 125,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I was on good terms with Brdjanin's family even after my assignment had been over. We continued socialising in an informal way, though rather less frequently.",
-      "reply_to": 124
+      "reply_to": 123
+    },
+    {
+      "id": 125,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "During that period of time, did you ever see any indication that Mr. Brdjanin was profiting in any way from the war situation?",
+      "examination": "direct"
     },
     {
       "id": 126,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "During that period of time, did you ever see any indication that Mr. Brdjanin was profiting in any way from the war situation?"
-    },
-    {
-      "id": 127,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Mr. Brdjanin is a man who surely has not profited from the war, and this is indicated by his personal means. He was driving around his 15-year-old Toyota, I believe. The only property he had was the apartment he had been given by the State. Radoslav was one of the few people who were involved in the politics, but did not profit from it in any way. He was an engineer prior to the war, as far as I know, who had a very good salary, who worked in the Middle East countries, and I believe that he was much more wealthy when the war broke out. He was, however, much less well off when the war was over.",
-      "reply_to": 126
+      "reply_to": 125
+    },
+    {
+      "id": 127,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you know what his attitude was toward those who were profiting from the war? Did you ever hear him express anything in that regard?",
+      "examination": "direct"
     },
     {
       "id": 128,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you know what his attitude was toward those who were profiting from the war? Did you ever hear him express anything in that regard?"
-    },
-    {
-      "id": 129,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Of course. His position in regard to these people was a well-known one. He was one of the few politicians who publicly declared a war on criminal groups. However, his political position was quite a weak one, and he could not resist on his own the growing crime in the State.",
-      "reply_to": 128
+      "reply_to": 127
+    },
+    {
+      "id": 129,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you recall when Mr. Brdjanin was arrested?",
+      "examination": "direct"
     },
     {
       "id": 130,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you recall when Mr. Brdjanin was arrested?"
-    },
-    {
-      "id": 131,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I do.",
-      "reply_to": 130
+      "reply_to": 129
+    },
+    {
+      "id": 131,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was your reaction to that? How did you feel about that?",
+      "examination": "direct"
     },
     {
       "id": 132,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What was your reaction to that? How did you feel about that?"
-    },
-    {
-      "id": 133,
       "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "statement",
       "text": "Relevance."
     },
     {
-      "id": 134,
+      "id": 133,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, there is relevance. I can see it, but perhaps Mr. Ackerman can -- yes, what's the relevance, Mr. Ackerman?"
     },
     {
-      "id": 135,
+      "id": 134,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Well, the relevance, Your Honour, is I think apparent. If one is surprised at the arrest of a person, they tend not to see any basis for it. If they're not surprised, then there probably is a basis for it. I think that's the basic crux of it."
     },
     {
-      "id": 136,
+      "id": 135,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Let's proceed. I allow the question. Please answer the question. Could you repeat it, Mr. Ackerman, because probably he's lost track."
     },
     {
-      "id": 137,
+      "id": 136,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 138,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 137,
+      "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "question",
-      "text": "What was your reaction upon learning that Mr. Brdjanin had been arrested?"
+      "text": "What was your reaction upon learning that Mr. Brdjanin had been arrested?",
+      "examination": "direct"
     },
     {
-      "id": 139,
+      "id": 138,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "May I answer?",
-      "reply_to": 138
+      "reply_to": 137
+    },
+    {
+      "id": 139,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes.",
+      "examination": "direct"
     },
     {
       "id": 140,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes."
-    },
-    {
-      "id": 141,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, please."
     },
     {
-      "id": 142,
+      "id": 141,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I was surprised at the arrest because I could not understand how a person such as Mr. Brdjanin could be arrested for alleged war crimes. Upon hearing the news, initially I thought that it was not SFOR that had arrested him, but some sort of a criminal group because at the time he was fighting crime very actively. Unfortunately, later on I heard what was the truth, that the things had happened differently. I thought it a mistake and that Radoslav would be released very soon. However, things developed eventually the way they did."
     },
     {
-      "id": 143,
+      "id": 142,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you, Mr. Dmitrasinovic. That's all I have."
     },
     {
-      "id": 144,
+      "id": 143,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "I thank you, Mr. Ackerman. You're now going to be cross-examined by Mr. Nicholls, as I explained to you earlier. Mr. Nicholls."
     },
     {
-      "id": 145,
+      "id": 144,
       "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "statement",
       "text": "Actually, Your Honour. I'm sorry. I wonder if we could take about a ten-minute break."
     },
     {
-      "id": 146,
+      "id": 145,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, certainly. I think we can even take the normal break now, only 17 minutes away from it. So we'll have a 25-minute break now."
     },
     {
-      "id": 147,
+      "id": 146,
       "speaker": "MR. NICHOLLS",
       "role": "counsel",
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 147,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
@@ -1073,910 +1112,946 @@
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you."
+      "text": "Yes, Mr. Nicholls."
     },
     {
       "id": 149,
-      "speaker": "JUDGE AGIUS",
-      "role": "judge",
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
       "type": "statement",
-      "text": "Yes, Mr. Nicholls."
+      "text": "Thank you."
     },
     {
       "id": 150,
       "speaker": "MR. NICHOLLS",
       "role": "counsel",
-      "type": "statement",
-      "text": "Thank you. Cross-examined by Mr. Nicholls:"
+      "type": "question",
+      "text": "Sir, could you please spell your name. I want to make sure we have it right.",
+      "examination": "cross"
     },
     {
       "id": 151,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Sir, could you please spell your name. I want to make sure we have it right."
-    },
-    {
-      "id": 152,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Boris, B-o-r-i-s, Dmitrasinovic, D-m-i-t-r-a-s-i-n-o-v-i-c.",
-      "reply_to": 151
+      "reply_to": 150
+    },
+    {
+      "id": 152,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Thank you. Did you go by any nicknames in 1992, 1993?",
+      "examination": "cross"
     },
     {
       "id": 153,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Thank you. Did you go by any nicknames in 1992, 1993?"
-    },
-    {
-      "id": 154,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 153
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. Now, you were a young man in 1992. I take it from your testimony that at that stage in your life you weren't very interested in politics. Is that right?",
+      "examination": "cross"
     },
     {
       "id": 155,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. Now, you were a young man in 1992. I take it from your testimony that at that stage in your life you weren't very interested in politics. Is that right?"
-    },
-    {
-      "id": 156,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, yes, that is true.",
-      "reply_to": 155
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Because you don't recall hearing, seeing, or reading about any of Mr. Brdjanin's speeches during the summer of 1992. Correct?",
+      "examination": "cross"
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Because you don't recall hearing, seeing, or reading about any of Mr. Brdjanin's speeches during the summer of 1992. Correct?"
-    },
-    {
-      "id": 158,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "There was not much electricity at the time, so I did not watch TV very much. I do not even watch it nowadays. Sometimes I just watch if there's a good film showing.",
-      "reply_to": 157
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "So the answer to my question is yes. Is that right?",
+      "examination": "cross"
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So the answer to my question is yes. Is that right?"
-    },
-    {
-      "id": 160,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 159
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Just to be clear, before 1992, September 1992 when you were assigned to protect Mr. Brdjanin's apartment, you'd never met him personally. Right?",
+      "examination": "cross"
     },
     {
       "id": 161,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Just to be clear, before 1992, September 1992 when you were assigned to protect Mr. Brdjanin's apartment, you'd never met him personally. Right?"
-    },
-    {
-      "id": 162,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, this isn't right. I did meet Radoslav at the time when I was guarding his apartment. Prior to that I did not know him.",
-      "reply_to": 161
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. I think probably you misunderstood me, but that's all right. Thank you. Now, you started that duty, which was a night shift first of all. Correct?",
+      "examination": "cross"
     },
     {
       "id": 163,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. I think probably you misunderstood me, but that's all right. Thank you. Now, you started that duty, which was a night shift first of all. Correct?"
-    },
-    {
-      "id": 164,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, mostly during the night.",
-      "reply_to": 163
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And you worked with Naum Golic during that shift?",
+      "examination": "cross"
     },
     {
       "id": 165,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And you worked with Naum Golic during that shift?"
-    },
-    {
-      "id": 166,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I worked with Naum Golic.",
-      "reply_to": 165
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "How long -- well, had you met him before you started that duty? You both grew up in Banja Luka?",
+      "examination": "cross"
     },
     {
       "id": 167,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How long -- well, had you met him before you started that duty? You both grew up in Banja Luka?"
-    },
-    {
-      "id": 168,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I did not know Naum before. I did grow up in Banja Luka, and I believe he did so as well.",
-      "reply_to": 167
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you met him for the first time in September 1992 as well?",
+      "examination": "cross"
     },
     {
       "id": 169,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you met him for the first time in September 1992 as well?"
-    },
-    {
-      "id": 170,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Officially, yes. Perhaps I sometimes met him at school because as far as I know he also attended the school for machinists in Banja Luka. But we officially met for the first time in September 1992.",
-      "reply_to": 169
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. And you would talk with him when you were on duty with him during the night?",
+      "examination": "cross"
     },
     {
       "id": 171,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. And you would talk with him when you were on duty with him during the night?"
-    },
-    {
-      "id": 172,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, about ordinary things.",
-      "reply_to": 171
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes. And when you went to parties, festivals, slavas at Mr. Brdjanin's, you said Mr. Golic would come with his wife?",
+      "examination": "cross"
     },
     {
       "id": 173,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes. And when you went to parties, festivals, slavas at Mr. Brdjanin's, you said Mr. Golic would come with his wife?"
-    },
-    {
-      "id": 174,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes, yes.",
-      "reply_to": 173
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Golic ever tell you about how he came to come to Banja Luka in 1992, how he was transferred there in March or April from Western Slavonia?",
+      "examination": "cross"
     },
     {
       "id": 175,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Golic ever tell you about how he came to come to Banja Luka in 1992, how he was transferred there in March or April from Western Slavonia?"
-    },
-    {
-      "id": 176,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't even know that he ever was in Slavonia.",
-      "reply_to": 175
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. Are you -- what's your relationship with him? Would you consider him a friend, Mr. Golic?",
+      "examination": "cross"
     },
     {
       "id": 177,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. Are you -- what's your relationship with him? Would you consider him a friend, Mr. Golic?"
-    },
-    {
-      "id": 178,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 177
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "When was the last time you, I'll say, communicated with him? And by that, I mean spoke to him in person, on the telephone, by email, by a letter, anything of that nature.",
+      "examination": "cross"
     },
     {
       "id": 179,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When was the last time you, I'll say, communicated with him? And by that, I mean spoke to him in person, on the telephone, by email, by a letter, anything of that nature."
-    },
-    {
-      "id": 180,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I spoke to him in Banja Luka after his return from here. I cannot recall exactly what day it was. We had a cup of coffee, and the whole thing lasted 40 minutes.",
-      "reply_to": 179
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And he told you about what it had been like here for him?",
+      "examination": "cross"
     },
     {
       "id": 181,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And he told you about what it had been like here for him?"
-    },
-    {
-      "id": 182,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "He told me that the weather was very bad, that he wasn't satisfied with the food, and he was angry because no one had told him that there was a pool, so he did not bring a swimming costume with him, and he couldn't find the right size to buy a pair here.",
-      "reply_to": 181
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Well, that's a shame. But did he talk to you at all about the topics that were discussed while he was here in his testimony?",
+      "examination": "cross"
     },
     {
       "id": 183,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Well, that's a shame. But did he talk to you at all about the topics that were discussed while he was here in his testimony?"
-    },
-    {
-      "id": 184,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "We did not discuss that. We talked about the ordinary things and the conditions he found upon his arrival here.",
-      "reply_to": 183
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did he give you any advice about how you should answer questions or what you ought to say when you came, if you were to come?",
+      "examination": "cross"
     },
     {
       "id": 185,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did he give you any advice about how you should answer questions or what you ought to say when you came, if you were to come?"
-    },
-    {
-      "id": 186,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "He did not give me any advice. We did not discuss the matter at all.",
-      "reply_to": 185
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "So you spent 40 minutes talking about the weather, the food, and his lack of a swimsuit?",
+      "examination": "cross"
     },
     {
       "id": 187,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So you spent 40 minutes talking about the weather, the food, and his lack of a swimsuit?"
-    },
-    {
-      "id": 188,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Well, we talked about these things among other things. We discussed other issues, topical issues, concerning our town. We did not touch upon that particular topic of his arrival here.",
-      "reply_to": 187
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "He never told you any of the questions he'd been asked or the answers he gave?",
+      "examination": "cross"
     },
     {
       "id": 189,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "He never told you any of the questions he'd been asked or the answers he gave?"
-    },
-    {
-      "id": 190,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Only once he mentioned that a person feels very nervous when stepping into the courtroom because it's his first time and you feel the stage fright.",
-      "reply_to": 189
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, let me go back to talking about Mr. Brdjanin. You didn't know him until September 1992 and didn't work with him before then. You have no first-hand knowledge of Mr. Brdjanin's activities in April 1992, do you?",
+      "examination": "cross"
     },
     {
       "id": 191,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, let me go back to talking about Mr. Brdjanin. You didn't know him until September 1992 and didn't work with him before then. You have no first-hand knowledge of Mr. Brdjanin's activities in April 1992, do you?"
-    },
-    {
-      "id": 192,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No, no.",
-      "reply_to": 191
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And that goes for May, June, July, and August as well?",
+      "examination": "cross"
     },
     {
       "id": 193,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And that goes for May, June, July, and August as well?"
-    },
-    {
-      "id": 194,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 193
+      "reply_to": 192
+    },
+    {
+      "id": 194,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You said that at these slavas or parties, Naum Golic would come with his wife, who was a Croat, and there was a Muslim neighbour who would also come to his parties. And they were treated correctly by Mr. Brdjanin. Right?",
+      "examination": "cross"
     },
     {
       "id": 195,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You said that at these slavas or parties, Naum Golic would come with his wife, who was a Croat, and there was a Muslim neighbour who would also come to his parties. And they were treated correctly by Mr. Brdjanin. Right?"
-    },
-    {
-      "id": 196,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I keep receiving the interpretation Galic, but his name is Golic, and he was not a Croat. It was his wife who was a Croat. And the rest of the information is correct.",
-      "reply_to": 195
+      "reply_to": 194
+    },
+    {
+      "id": 196,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "All right. I'm always talking about Golic. If I say anything that sounds like Golic, you can take it that I'm not going to ask you anything about anybody named Galic. Those are the only two people of non-Serb origin you remember being there at these parties?",
+      "examination": "cross"
     },
     {
       "id": 197,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "All right. I'm always talking about Golic. If I say anything that sounds like Golic, you can take it that I'm not going to ask you anything about anybody named Galic. Those are the only two people of non-Serb origin you remember being there at these parties?"
-    },
-    {
-      "id": 198,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "No. There was also Radoslav's eldest brother's wife who was a Croat as well, Mirka. And Mira's cousin's - Vukica - husband whose name was Zdravko. Very likeable guy.",
-      "reply_to": 197
+      "reply_to": 196
+    },
+    {
+      "id": 198,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm sorry. I didn't ask that question very well. I meant other than relatives.",
+      "examination": "cross"
     },
     {
       "id": 199,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I'm sorry. I didn't ask that question very well. I meant other than relatives."
-    },
-    {
-      "id": 200,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "You mean if there were any other Croats or Muslims attending slavas besides friends and relatives? Is that what you have in mind?",
-      "reply_to": 199
+      "reply_to": 198
+    },
+    {
+      "id": 200,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "No.",
+      "examination": "cross"
     },
     {
       "id": 201,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "No."
-    },
-    {
-      "id": 202,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "No. What Mr. Nicholls wants from you is an indication of non-Serb family, friends attending the slavas, but he's not interested in non-Serb family members. Do you understand me now? Okay."
     },
     {
-      "id": 203,
+      "id": 202,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] I see now. Suzana Golic was not related to Mr. Brdjanin. Mr. Ibrahimovic or Ibrahimbegovic, I don't recall his name, was also not related to Mr. Brdjanin, but would attend the slava. And then this person by the name of Zdravko, he is not a close relative of him."
     },
     {
-      "id": 204,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 203,
+      "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "question",
-      "text": "Okay. So those --"
+      "text": "Okay. So those --",
+      "examination": "cross"
     },
     {
-      "id": 205,
+      "id": 204,
       "speaker": "THE INTERPRETER",
       "role": "interpreter",
       "type": "statement",
       "text": "Microphone, please."
     },
     {
-      "id": 206,
+      "id": 205,
       "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 207,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 206,
+      "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "question",
-      "text": "So those two people who were not related in any way, Mr. Ibrahimovic and Suzana Golic are the only two you remember attending these parties? I think that's what you're telling us."
+      "text": "So those two people who were not related in any way, Mr. Ibrahimovic and Suzana Golic are the only two you remember attending these parties? I think that's what you're telling us.",
+      "examination": "cross"
     },
     {
-      "id": 208,
+      "id": 207,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "See, it is possible that there were others. I didn't know all of those people. It's difficult for me to say. I know for instance that Suzana Golic --",
-      "reply_to": 207
+      "reply_to": 206
+    },
+    {
+      "id": 208,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'm just asking about your specific people that you specifically remember. I don't want you to speculate.",
+      "examination": "cross"
     },
     {
       "id": 209,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I'm just asking about your specific people that you specifically remember. I don't want you to speculate."
-    },
-    {
-      "id": 210,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes. Yes.",
-      "reply_to": 209
+      "reply_to": 208
+    },
+    {
+      "id": 210,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, when was the last time you had contact with a member of Mr. Brdjanin's family?",
+      "examination": "cross"
     },
     {
       "id": 211,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, when was the last time you had contact with a member of Mr. Brdjanin's family?"
-    },
-    {
-      "id": 212,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Banja Luka is a small town, and I often see them in town. I don't know exactly when was the last time when I ran into a close relative or a close family member of him.",
-      "reply_to": 211
+      "reply_to": 210
+    },
+    {
+      "id": 212,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you're still friendly with Mr. Brdjanin's family?",
+      "examination": "cross"
     },
     {
       "id": 213,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But you're still friendly with Mr. Brdjanin's family?"
-    },
-    {
-      "id": 214,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 213
+      "reply_to": 212
+    },
+    {
+      "id": 214,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "And essentially, you're a friend of Mr. Brdjanin's. Correct? I saw that you gave him a big nod right when you walked into the courtroom. You consider him a friend, don't you?",
+      "examination": "cross"
     },
     {
       "id": 215,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And essentially, you're a friend of Mr. Brdjanin's. Correct? I saw that you gave him a big nod right when you walked into the courtroom. You consider him a friend, don't you?"
-    },
-    {
-      "id": 216,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "At one point we had a professional relationship, but then friendship followed or developed.",
-      "reply_to": 215
+      "reply_to": 214
+    },
+    {
+      "id": 216,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Right. Now, you didn't, you say, until after Mr. Brdjanin's arrest ever hear that in 1992, 1993 he had called Muslims \"balijas,\" Croats \"Ustashas,\" and referred to non-Serbs as Mr. Ackerman stated as \"non-Christian scum,\" who are tarnishing our lands and who the Serb people need to wipe from the bottom of our shoes. Right?",
+      "examination": "cross"
     },
     {
       "id": 217,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Right. Now, you didn't, you say, until after Mr. Brdjanin's arrest ever hear that in 1992, 1993 he had called Muslims \"balijas,\" Croats \"Ustashas,\" and referred to non-Serbs as Mr. Ackerman stated as \"non-Christian scum,\" who are tarnishing our lands and who the Serb people need to wipe from the bottom of our shoes. Right?"
-    },
-    {
-      "id": 218,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I hear this for the first time. He never said any such thing.",
-      "reply_to": 217
+      "reply_to": 216
+    },
+    {
+      "id": 218,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You hear this for the first time in the courtroom, or when?",
+      "examination": "cross"
     },
     {
       "id": 219,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You hear this for the first time in the courtroom, or when?"
-    },
-    {
-      "id": 220,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I heard from the members of his family that all kinds of things are being imputed to him here. I myself never heard him say these words.",
-      "reply_to": 219
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "My question is when did you learn that these -- that he was alleged to have said these things?",
+      "examination": "cross"
     },
     {
       "id": 221,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "My question is when did you learn that these -- that he was alleged to have said these things?"
-    },
-    {
-      "id": 222,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I learned it -- actually, I have never heard him say that, the words that you have just quoted. This is something that I've never heard before.",
-      "reply_to": 221
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "You're not understanding my question. I'm not asking if you've heard it. I'm asking when you first heard that he made statements like those in public, in political rallies, and things of that nature. Not when you first heard them, but when you learned that he made speeches where he called people balijas, Ustashas, non-Christian scum?",
+      "examination": "cross"
     },
     {
       "id": 223,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You're not understanding my question. I'm not asking if you've heard it. I'm asking when you first heard that he made statements like those in public, in political rallies, and things of that nature. Not when you first heard them, but when you learned that he made speeches where he called people balijas, Ustashas, non-Christian scum?"
-    },
-    {
-      "id": 224,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I've never heard any such thing.",
-      "reply_to": 223
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Let me refer you -- we've gotten a sort of summary. Let me ask you this: Did you say to Mr. Ackerman that you learned about these things that Mr. Brdjanin had said after he was arrested?",
+      "examination": "cross"
     },
     {
       "id": 225,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Let me refer you -- we've gotten a sort of summary. Let me ask you this: Did you say to Mr. Ackerman that you learned about these things that Mr. Brdjanin had said after he was arrested?"
-    },
-    {
-      "id": 226,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, Mr. Ackerman."
     },
     {
-      "id": 227,
+      "id": 226,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I think it's a communication thing because he said on direct that he heard these things only after Mr. Brdjanin was arrested."
     },
     {
-      "id": 228,
+      "id": 227,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "First time, yes."
     },
     {
-      "id": 229,
+      "id": 228,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "So he's already answered the question."
     },
     {
-      "id": 230,
+      "id": 229,
       "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "statement",
       "text": "I know, but then he said he never heard him. I think the questions are pretty clear. I'm asking -- I've said it several times, not when you heard it but when you learned. I'm trying to get a straight answer because he --"
     },
     {
-      "id": 231,
+      "id": 230,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "It needs a clarification in a way because he's given two conflicting, not in a negative sense. But his two versions are confusing, so perhaps he could expand on this. You gave us the impression that you never heard at all, no one ever told you before you entered this courtroom today that supposedly Mr. Brdjanin said any of those words or uttered any of those words. Is that right?"
     },
     {
-      "id": 232,
+      "id": 231,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Let me clarify. I did hear after he'd been arrested that all kinds of things were being imputed to him, things that he had never said. But I never clearly saw a text printed to that effect, nor did I hear words to that effect. Now, I'm referring to what he allegedly said. I only know from his family after his arrest that a lot of things were being imputed to him; namely, speeches, things I had never heard of from him."
     },
     {
-      "id": 233,
+      "id": 232,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. I think it's clear enough now."
     },
     {
-      "id": 234,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 233,
+      "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "question",
-      "text": "Just so that I'm clear on this, is your view that, in fact, he never said any of these things?"
+      "text": "Just so that I'm clear on this, is your view that, in fact, he never said any of these things?",
+      "examination": "cross"
     },
     {
-      "id": 235,
+      "id": 234,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I do not know whether he ever said any of these things or not. I just know that I personally have never heard that.",
-      "reply_to": 234
+      "reply_to": 233
+    },
+    {
+      "id": 235,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Right. And everything you're telling us about Mr. Brdjanin is based on your professional and social contacts with him. Right?",
+      "examination": "cross"
     },
     {
       "id": 236,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Right. And everything you're telling us about Mr. Brdjanin is based on your professional and social contacts with him. Right?"
-    },
-    {
-      "id": 237,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "Correct.",
-      "reply_to": 236
+      "reply_to": 235
+    },
+    {
+      "id": 237,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you say -- we've gotten -- I'm not trying to trick you or anything. We've gotten a summary of what your expected testimony would be. Did you say words to the effect when you were questioned by the Defence that if Brdjanin, in fact, made some of the statements attributed to him, it had to be for political purposes only because his behaviour was the opposite?",
+      "examination": "cross"
     },
     {
       "id": 238,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you say -- we've gotten -- I'm not trying to trick you or anything. We've gotten a summary of what your expected testimony would be. Did you say words to the effect when you were questioned by the Defence that if Brdjanin, in fact, made some of the statements attributed to him, it had to be for political purposes only because his behaviour was the opposite?"
-    },
-    {
-      "id": 239,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I believe I mentioned that, that if there had been such statements, that would have been only for the purpose of scoring political points.",
-      "reply_to": 238
+      "reply_to": 237
+    },
+    {
+      "id": 239,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "Right. So your view is this was perhaps a man who, to score political points, to gain political power, would call people these terrible names and then invite one of them he was friendly with or somebody's wife to his party?",
+      "examination": "cross"
     },
     {
       "id": 240,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Right. So your view is this was perhaps a man who, to score political points, to gain political power, would call people these terrible names and then invite one of them he was friendly with or somebody's wife to his party?"
-    },
-    {
-      "id": 241,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "I don't understand this.",
-      "reply_to": 240
+      "reply_to": 239
+    },
+    {
+      "id": 241,
+      "speaker": "MR. NICHOLLS",
+      "role": "counsel",
+      "type": "question",
+      "text": "I'll move on.",
+      "examination": "cross"
     },
     {
       "id": 242,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I'll move on."
-    },
-    {
-      "id": 243,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Move on, Mr. Nicholls."
     },
     {
-      "id": 244,
+      "id": 243,
       "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "statement",
       "text": "Yes."
     },
     {
-      "id": 245,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 244,
+      "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "question",
-      "text": "You said that Mr. Brdjanin objected to the work obligation of Muslims being forced to sweep the streets. Did you know that one of his quotes was that only a few Muslims would be allowed to remain in Banja Luka, and those would be old people, and that they would sweep the streets?"
+      "text": "You said that Mr. Brdjanin objected to the work obligation of Muslims being forced to sweep the streets. Did you know that one of his quotes was that only a few Muslims would be allowed to remain in Banja Luka, and those would be old people, and that they would sweep the streets?",
+      "examination": "cross"
     },
     {
-      "id": 246,
+      "id": 245,
       "speaker": "BORIS DMITRASINOVIC",
       "role": "witness",
       "type": "answer",
       "text": "This is the first time I hear these words.",
-      "reply_to": 245
+      "reply_to": 244
     },
     {
-      "id": 247,
+      "id": 246,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, Mr. Ackerman. Okay. Yes, Mr. Nicholls."
     },
     {
-      "id": 248,
+      "id": 247,
       "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "statement",
       "text": "I don't have anything else, Your Honour."
     },
     {
-      "id": 249,
+      "id": 248,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. We don't have any further questions. Is there re-examination, Mr. Ackerman? I suppose not. I didn't see -- recognise you standing up."
     },
     {
-      "id": 250,
+      "id": 249,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "No, Your Honour."
     },
     {
-      "id": 251,
+      "id": 250,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "So I take it that there isn't. There aren't questions from the Bench which basically means that your testimony ends here. It also means that you are free to go back home. Our usher will assist you, will usher you out, escort you out of the courtroom, and you will receive all the assistance you require to help you return home at the earliest possibility. On behalf of the Tribunal, on behalf of Judge Janu and Judge Taya, and on my own behalf, I should like to thank you for having come over to give evidence, testimony, in this case. And also on behalf of everyone present here, we wish you a safe journey back home."
     },
     {
-      "id": 252,
+      "id": 251,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "[Interpretation] Thank you."
     },
     {
-      "id": 253,
+      "id": 252,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "So, the position. Anything? All right. Will you come back to us at some point in time if you are in a position, perhaps in -- after liaising with the Prosecution, if we could bring forward the testimony of the expert witness."
     },
     {
-      "id": 254,
+      "id": 253,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Yeah, we'll get back to you on that, Your Honour. I'll talk with the Prosecution today about it."
     },
     {
-      "id": 255,
+      "id": 254,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Okay. I thank you. We'll resume then -- we'll let you know exactly when after you have considered this. All right. I thank you. I also should like to thank the interpreters and the technicians. We haven't finished, of course. There's still a lot of work to be done, but I do take this opportunity to thank you for all your very efficient assistance. Yes, Mr. Nicholls."
     },
     {
-      "id": 256,
+      "id": 255,
       "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "statement",
       "text": "I'm just asking, we are still in the morning tomorrow. Is that right?"
     },
     {
-      "id": 257,
+      "id": 256,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Yes, tomorrow we have the videolink in this courtroom."
     },
     {
-      "id": 258,
+      "id": 257,
       "speaker": "MR. NICHOLLS",
       "role": "counsel",
       "type": "statement",
       "text": "Okay, thank you."
     },
     {
-      "id": 259,
+      "id": 258,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "In this courtroom. But then after that, we have to wait until we get the testimony of the expert."
     },
     {
-      "id": 260,
+      "id": 259,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "I'm going to make -- I'll make the effort, but I think it's very unlikely he'll be able to come before then."
     },
     {
-      "id": 261,
+      "id": 260,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Ackerman, I'm fully aware that there may be problems."
     },
     {
-      "id": 262,
+      "id": 261,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "I think there may be. And we've all lot lots to do. I mean there's -- it's not like we're going to be going on vacation. We're going to be working very hard."
     },
     {
-      "id": 263,
+      "id": 262,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "And I also hope it's it clear, and if it isn't I'm making it clear that I think until the expert witness tenders, gives his evidence here, there will be several matters that we will be addressing ourselves which will require your presence here. Unless it is absolutely vital that you go back to your country, we would like you to be here. The reason, Mr. Ackerman, is this: That in preparation for the closing part of these proceedings, preparation for your briefs, et cetera, we intend to, and we will be utilising these next weeks ourselves. We intend to draw your attention to particular matters which could be matters of fact or matters of law that we would like you to address or give more attention than others. So that will facilitate also the entire exercise that we will need to do at the very end. But we will come back to you. We will be starting on this exercise immediately Monday in cooperation with our staff. And as we go along, we will be identifying these areas where we would need you or would suggest that you pay more -- give more attention. All right? Yes, Mr. Ackerman."
     },
     {
-      "id": 264,
+      "id": 263,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, that's fine. My return ticket is actually for 1 May. I have no need to go back to the US before then. So I'm sure the Registry will understand the need for my remaining here at least during the period we're working --"
     },
     {
-      "id": 265,
+      "id": 264,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "If there are any problems, I think we can --"
     },
     {
-      "id": 266,
+      "id": 265,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "I don't think there will be. I was in communication with them about it a little bit yesterday."
     },
     {
-      "id": 267,
+      "id": 266,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "If there are problems, we'll make our position known to the Registrar. The Registrar is a very understanding person and very cooperative. So I have no reason to doubt that. Okay. So we'll meet tomorrow morning at 9.00 here in this courtroom and we'll start with the videolink. And I hope everything will be in place so as not to waste time because we have got two witnesses. Do you anticipate to have the first one finished in the morning session or not?"
     },
     {
-      "id": 268,
+      "id": 267,
       "speaker": "MR. ACKERMAN",
       "role": "counsel",
       "type": "statement",
       "text": "Your Honour, I think both direct examinations will be roughly what you saw this morning, 30 minutes to an hour, so we could even finish both witnesses in half a day. Just depends on the cross-examination."
     },
     {
-      "id": 269,
+      "id": 268,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "All right. Who will be taking these witnesses from the Prosecution's side?"
     },
     {
-      "id": 270,
+      "id": 269,
       "speaker": "MS. SUTHERLAND",
       "role": "counsel",
       "type": "statement",
       "text": "I'm taking one, and Ms. Chana's taking the other."
     },
     {
-      "id": 271,
+      "id": 270,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
       "text": "Okay. So we'll meet tomorrow morning. I thank you."
     },
     {
-      "id": 272,
+      "id": 271,
       "speaker": "JUDGE AGIUS",
       "role": "judge",
       "type": "statement",
@@ -2009,19 +2084,27 @@
       "text": "[Witness answered through interpreter]"
     },
     {
-      "after_utterance": 148,
+      "after_utterance": 57,
+      "text": "Examined by Mr. Ackerman:"
+    },
+    {
+      "after_utterance": 147,
       "text": "--- Recess taken at 10.13 a.m."
     },
     {
-      "after_utterance": 148,
+      "after_utterance": 147,
       "text": "--- On resuming at 10.50 a.m."
     },
     {
-      "after_utterance": 252,
+      "after_utterance": 149,
+      "text": "Cross-examined by Mr. Nicholls:"
+    },
+    {
+      "after_utterance": 251,
       "text": "[The witness withdrew]"
     },
     {
-      "after_utterance": 271,
+      "after_utterance": 270,
       "text": "--- Whereupon the hearing adjourned at 11.21 a.m.,"
     }
   ],

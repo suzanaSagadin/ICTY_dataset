@@ -1,6 +1,6 @@
 {
   "case": "mladic",
-  "case_id": "IT-09-92-T",
+  "case_id": "IT-09-92",
   "date": "2015-11-11",
   "utterances": [
     {
@@ -3433,15 +3433,15 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Yes, please proceed. Further cross-examination by Mr. Zec:"
+      "text": "Yes, please proceed."
     },
     {
       "id": 468,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. ZEC",
       "role": "counsel",
       "type": "question",
       "text": "Mr. Strbac, today you were asked about various places in Krajina, about military operations around these places, and you have provided a lot of details about combat, about shootings. Now the fact is that crimes against Croats were taking place across the area. These crimes were known and you know that these crimes against Croats were committed; right?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 469,
@@ -3453,11 +3453,11 @@
     },
     {
       "id": 470,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. ZEC",
       "role": "counsel",
       "type": "question",
       "text": "[Previous translation continues] ... provide example, Skabrnja, Kijevo, but this was taking place across the area, that was known that these crimes were taking place; right?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 471,
@@ -3524,11 +3524,11 @@
     },
     {
       "id": 480,
-      "speaker": "MR. LUKIC",
+      "speaker": "MR. ZEC",
       "role": "counsel",
       "type": "question",
       "text": "Again, Mr. Strbac, I refer what you said during your testimony in the Hadzic case. You were specifically asked about an article that you provided in your interview and you said -- the question was: \"Crimes against Croats were no secret in the first place. The cases of suffering of Croats across the area of Knin were being followed by international teams ...\" And you said: \"I stated something like this many, many times, so I suppose I said it to them as well.\" So this is your testimony in Hadzic and you stand by this testimony; right?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 481,
@@ -5415,6 +5415,10 @@
     {
       "after_utterance": 413,
       "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 467,
+      "text": "Further cross-examination by Mr. Zec:"
     },
     {
       "after_utterance": 477,

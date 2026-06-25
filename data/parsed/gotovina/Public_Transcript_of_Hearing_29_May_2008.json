@@ -1,6 +1,6 @@
 {
   "case": "gotovina",
-  "case_id": "IT-06-90-T",
+  "case_id": "IT-06-90",
   "date": "2008-05-29",
   "utterances": [
     {
@@ -7603,7 +7603,7 @@
       "speaker": "JUDGE ORIE",
       "role": "judge",
       "type": "statement",
-      "text": "Judge Gwaunza has one question for you. Questioned by the Court:"
+      "text": "Judge Gwaunza has one question for you."
     },
     {
       "id": 1010,
@@ -7699,15 +7699,15 @@
       "speaker": "MR. KEHOE",
       "role": "counsel",
       "type": "statement",
-      "text": "Just one, Judge. Further cross-examination by Mr. Kehoe:"
+      "text": "Just one, Judge."
     },
     {
       "id": 1023,
-      "speaker": "MS. MAHINDARATNE",
+      "speaker": "MR. KEHOE",
       "role": "counsel",
       "type": "question",
       "text": "Colonel, with regard to the possession of the ARSK multi-barrelled rocket-launchers in response to Judge Orie 's questions, the observations that you are talking about are observations in your area of responsibility and not throughout the rest of Sector South; correct?",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 1024,
@@ -7719,11 +7719,11 @@
     },
     {
       "id": 1025,
-      "speaker": "MS. MAHINDARATNE",
+      "speaker": "MR. KEHOE",
       "role": "counsel",
       "type": "question",
       "text": "Thank you.",
-      "examination": "re-direct"
+      "examination": "cross"
     },
     {
       "id": 1026,
@@ -7854,6 +7854,14 @@
     {
       "after_utterance": 1008,
       "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 1009,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 1022,
+      "text": "Further cross-examination by Mr. Kehoe:"
     },
     {
       "after_utterance": 1028,

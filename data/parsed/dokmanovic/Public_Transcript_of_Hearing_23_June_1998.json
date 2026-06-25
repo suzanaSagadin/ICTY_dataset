@@ -306,1861 +306,1953 @@
     },
     {
       "id": 44,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Williamson:"
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Herold, what is your educational background?",
+      "examination": "direct"
     },
     {
       "id": 45,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Herold, what is your educational background?"
-    },
-    {
-      "id": 46,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "I have a bachelor of arts degree in physics.",
-      "reply_to": 45
+      "reply_to": 44
+    },
+    {
+      "id": 46,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Where did you obtain your degree?",
+      "examination": "direct"
     },
     {
       "id": 47,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Where did you obtain your degree?"
-    },
-    {
-      "id": 48,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Defiance College in Defiance, Ohio.",
-      "reply_to": 47
+      "reply_to": 46
+    },
+    {
+      "id": 48,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "After completing your university studies, in what type of work were you engaged?",
+      "examination": "direct"
     },
     {
       "id": 49,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "After completing your university studies, in what type of work were you engaged?"
-    },
-    {
-      "id": 50,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "I worked for approximately five years for the Apollo Space Programme in Kennedy Space Center, Florida.",
-      "reply_to": 49
+      "reply_to": 48
+    },
+    {
+      "id": 50,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "At some point in time, did you go to work with the US Federal Bureau of Investigation, the FBI?",
+      "examination": "direct"
     },
     {
       "id": 51,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "At some point in time, did you go to work with the US Federal Bureau of Investigation, the FBI?"
-    },
-    {
-      "id": 52,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did.",
-      "reply_to": 51
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "When was that?",
+      "examination": "direct"
     },
     {
       "id": 53,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When was that?"
-    },
-    {
-      "id": 54,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "That was in January of 1970.",
-      "reply_to": 53
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "What were you doing initially with the FBI?",
+      "examination": "direct"
     },
     {
       "id": 55,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What were you doing initially with the FBI?"
-    },
-    {
-      "id": 56,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Initially, I was an investigator assigned to cases in the field office of Cincinnati and New York City.",
-      "reply_to": 55
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did there come a time when you began doing analysis of videotape and audiotape materials?",
+      "examination": "direct"
     },
     {
       "id": 57,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did there come a time when you began doing analysis of videotape and audiotape materials?"
-    },
-    {
-      "id": 58,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 57
+      "reply_to": 56
+    },
+    {
+      "id": 58,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "When was that?",
+      "examination": "direct"
     },
     {
       "id": 59,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When was that?"
-    },
-    {
-      "id": 60,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Approximately 1975.",
-      "reply_to": 59
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Are you still employed with the FBI?",
+      "examination": "direct"
     },
     {
       "id": 61,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Are you still employed with the FBI?"
-    },
-    {
-      "id": 62,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I -- well, I retired from the FBI. I'm working as a contractor with the FBI now.",
-      "reply_to": 61
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "What was your rank when you retired from the FBI?",
+      "examination": "direct"
     },
     {
       "id": 63,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What was your rank when you retired from the FBI?"
-    },
-    {
-      "id": 64,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "I was a supervisory special agent.",
-      "reply_to": 63
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "You are currently working as a contractor, as a consultant?",
+      "examination": "direct"
     },
     {
       "id": 65,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You are currently working as a contractor, as a consultant?"
-    },
-    {
-      "id": 66,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "That's right.",
-      "reply_to": 65
+      "reply_to": 64
+    },
+    {
+      "id": 66,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Do you have expertise or specialisation in particular fields?",
+      "examination": "direct"
     },
     {
       "id": 67,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Do you have expertise or specialisation in particular fields?"
-    },
-    {
-      "id": 68,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes. I work, among others, in video and audio enhancement, video and audio synchronisation, video and audio authenticity.",
-      "reply_to": 67
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you ever testified in court before?",
+      "examination": "direct"
     },
     {
       "id": 69,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Have you ever testified in court before?"
+      "speaker": "NOEL HEROLD",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I have.",
+      "reply_to": 68
     },
     {
       "id": 70,
-      "speaker": "NOEL HEROLD",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes, I have.",
-      "reply_to": 69
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you ever been qualified as an expert witness in the field of video examination?",
+      "examination": "direct"
     },
     {
       "id": 71,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Have you ever been qualified as an expert witness in the field of video examination?"
-    },
-    {
-      "id": 72,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I have.",
-      "reply_to": 71
+      "reply_to": 70
+    },
+    {
+      "id": 72,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Have you provided a list to the Prosecutor of cases in which you have been qualified as an expert witness and have testified?",
+      "examination": "direct"
     },
     {
       "id": 73,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Have you provided a list to the Prosecutor of cases in which you have been qualified as an expert witness and have testified?"
-    },
-    {
-      "id": 74,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did.",
-      "reply_to": 73
+      "reply_to": 72
+    },
+    {
+      "id": 74,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "At this time, I would like to show you a document which I will mark as Prosecutor's Exhibit 256 and ask you to look at this, please. Is this your CV and the list of court cases in which you have testified?",
+      "examination": "direct"
     },
     {
       "id": 75,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "At this time, I would like to show you a document which I will mark as Prosecutor's Exhibit 256 and ask you to look at this, please. Is this your CV and the list of court cases in which you have testified?"
-    },
-    {
-      "id": 76,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it is.",
-      "reply_to": 75
+      "reply_to": 74
     },
     {
-      "id": 77,
+      "id": 76,
       "speaker": "MR. WILLIAMSON",
       "role": "counsel",
       "type": "statement",
       "text": "I would tender this as Prosecutor's Exhibit 256."
     },
     {
-      "id": 78,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 77,
+      "speaker": "MR. WILLIAMSON",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Herold, were you contacted by the Office of the Prosecutor in late May of this year and asked about conducting analysis on a videotape?"
+      "text": "Mr. Herold, were you contacted by the Office of the Prosecutor in late May of this year and asked about conducting analysis on a videotape?",
+      "examination": "direct"
     },
     {
-      "id": 79,
+      "id": 78,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I was.",
-      "reply_to": 78
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you, in fact, do that analysis?",
+      "examination": "direct"
     },
     {
       "id": 80,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you, in fact, do that analysis?"
-    },
-    {
-      "id": 81,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did.",
-      "reply_to": 80
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you document your findings in a written report?",
+      "examination": "direct"
     },
     {
       "id": 82,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you document your findings in a written report?"
-    },
-    {
-      "id": 83,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 82
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "At this time, I would like for you to view a document which I'll mark as Prosecutor's Exhibit 257 and ask you if you can identify this, please? Is this the report that you prepared?",
+      "examination": "direct"
     },
     {
       "id": 84,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "At this time, I would like for you to view a document which I'll mark as Prosecutor's Exhibit 257 and ask you if you can identify this, please? Is this the report that you prepared?"
-    },
-    {
-      "id": 85,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it is.",
-      "reply_to": 84
+      "reply_to": 83
     },
     {
-      "id": 86,
+      "id": 85,
       "speaker": "MR. WILLIAMSON",
       "role": "counsel",
       "type": "statement",
       "text": "I would tender this as Prosecutor's Exhibit 257."
     },
     {
-      "id": 87,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 86,
+      "speaker": "MR. WILLIAMSON",
       "role": "counsel",
       "type": "question",
-      "text": "In the beginning of June of this year, did you meet with an investigator from the Office of the Prosecutor, Mr. Vladimir Dzuro, at the FBI laboratory in Quantico?"
+      "text": "In the beginning of June of this year, did you meet with an investigator from the Office of the Prosecutor, Mr. Vladimir Dzuro, at the FBI laboratory in Quantico?",
+      "examination": "direct"
     },
     {
-      "id": 88,
+      "id": 87,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "At the beginning of the month, yes.",
-      "reply_to": 87
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did Mr. Dzuro bring with him materials which you were asked to examine?",
+      "examination": "direct"
     },
     {
       "id": 89,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did Mr. Dzuro bring with him materials which you were asked to examine?"
-    },
-    {
-      "id": 90,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, he did.",
-      "reply_to": 89
+      "reply_to": 88
+    },
+    {
+      "id": 90,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would like at this time for you to view Defence Exhibit 2. Does this appear to be the videotape that Mr. Dzuro delivered to you?",
+      "examination": "direct"
     },
     {
       "id": 91,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I would like at this time for you to view Defence Exhibit 2. Does this appear to be the videotape that Mr. Dzuro delivered to you?"
-    },
-    {
-      "id": 92,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it is.",
-      "reply_to": 91
+      "reply_to": 90
+    },
+    {
+      "id": 92,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you have an opportunity thereafter to conduct an examination of this videotape?",
+      "examination": "direct"
     },
     {
       "id": 93,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you have an opportunity thereafter to conduct an examination of this videotape?"
-    },
-    {
-      "id": 94,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did.",
-      "reply_to": 93
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "What, if anything, were you able to determine as to whether this was an original tape or a copy?",
+      "examination": "direct"
     },
     {
       "id": 95,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What, if anything, were you able to determine as to whether this was an original tape or a copy?"
-    },
-    {
-      "id": 96,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "I determined that it was a copy.",
-      "reply_to": 95
+      "reply_to": 94
+    },
+    {
+      "id": 96,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Were you able to determine which copy it was; in other words, was this a first copy or a second copy made from an original?",
+      "examination": "direct"
     },
     {
       "id": 97,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Were you able to determine which copy it was; in other words, was this a first copy or a second copy made from an original?"
-    },
-    {
-      "id": 98,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "The first part of the tape was a copy of the original, and the second part of the tape was a copy from a copy.",
-      "reply_to": 97
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, do you at times have terminology that you use for this, such as first generation or second generation copy?",
+      "examination": "direct"
     },
     {
       "id": 99,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, do you at times have terminology that you use for this, such as first generation or second generation copy?"
-    },
-    {
-      "id": 100,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Normally we refer to an original, a copy from the original, as a first generation, and a copy of a copy as a second generation.",
-      "reply_to": 99
+      "reply_to": 98
+    },
+    {
+      "id": 100,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "So as I understand it, the portion which had a date display of the 20th of November was a first generation copy; in other words, a copy that was made from an original?",
+      "examination": "direct"
     },
     {
       "id": 101,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So as I understand it, the portion which had a date display of the 20th of November was a first generation copy; in other words, a copy that was made from an original?"
+      "speaker": "NOEL HEROLD",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right.",
+      "reply_to": 100
     },
     {
       "id": 102,
-      "speaker": "NOEL HEROLD",
-      "role": "witness",
-      "type": "answer",
-      "text": "That's right.",
-      "reply_to": 101
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "And then the portion with the date of the 28th of November was a second generation or later copy; is that correct?",
+      "examination": "direct"
     },
     {
       "id": 103,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And then the portion with the date of the 28th of November was a second generation or later copy; is that correct?"
+      "speaker": "NOEL HEROLD",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right.",
+      "reply_to": 102
     },
     {
       "id": 104,
-      "speaker": "NOEL HEROLD",
-      "role": "witness",
-      "type": "answer",
-      "text": "That's right.",
-      "reply_to": 103
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "So it was made from a copy?",
+      "examination": "direct"
     },
     {
       "id": 105,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So it was made from a copy?"
-    },
-    {
-      "id": 106,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "That's right.",
-      "reply_to": 105
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is there any way for you to determine if this copy, this first generation copy, the portion from the 20th of November, has the same content as the original videotape?",
+      "examination": "direct"
     },
     {
       "id": 107,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is there any way for you to determine if this copy, this first generation copy, the portion from the 20th of November, has the same content as the original videotape?"
-    },
-    {
-      "id": 108,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "There's no way.",
-      "reply_to": 107
+      "reply_to": 106
+    },
+    {
+      "id": 108,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it possible, when making a copy, to alter the sequence in which segments appear from how they appeared on the original?",
+      "examination": "direct"
     },
     {
       "id": 109,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is it possible, when making a copy, to alter the sequence in which segments appear from how they appeared on the original?"
-    },
-    {
-      "id": 110,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "It would be possible.",
-      "reply_to": 109
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is it possible to add the time-date display onto a copy if it wasn't present in the original?",
+      "examination": "direct"
     },
     {
       "id": 111,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is it possible to add the time-date display onto a copy if it wasn't present in the original?"
-    },
-    {
-      "id": 112,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "That would be possible, yes.",
-      "reply_to": 111
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is there any way for you to determine, by examining this tape, if the time-date display was recorded on the original or was added on the copy?",
+      "examination": "direct"
     },
     {
       "id": 113,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is there any way for you to determine, by examining this tape, if the time-date display was recorded on the original or was added on the copy?"
-    },
-    {
-      "id": 114,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "There's no way to determine.",
-      "reply_to": 113
+      "reply_to": 112
+    },
+    {
+      "id": 114,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Even had the time-date display been present in the original, would it have been possible to omit portions of the videotape from the original when making the copy?",
+      "examination": "direct"
     },
     {
       "id": 115,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Even had the time-date display been present in the original, would it have been possible to omit portions of the videotape from the original when making the copy?"
-    },
-    {
-      "id": 116,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that would be possible.",
-      "reply_to": 115
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would it also have been possible to omit additional footage which might have been at the end of a certain sequence of the videotape?",
+      "examination": "direct"
     },
     {
       "id": 117,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Would it also have been possible to omit additional footage which might have been at the end of a certain sequence of the videotape?"
-    },
-    {
-      "id": 118,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 117
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "In relation to all of these questions that I've asked you, there's no way for you to determine if this has happened or not, though, because we're dealing with a copy; correct?",
+      "examination": "direct"
     },
     {
       "id": 119,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "In relation to all of these questions that I've asked you, there's no way for you to determine if this has happened or not, though, because we're dealing with a copy; correct?"
+      "speaker": "NOEL HEROLD",
+      "role": "witness",
+      "type": "answer",
+      "text": "That's right.",
+      "reply_to": 118
     },
     {
       "id": 120,
-      "speaker": "NOEL HEROLD",
-      "role": "witness",
-      "type": "answer",
-      "text": "That's right.",
-      "reply_to": 119
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "On this tape, there are also two other recordings, one of which you have already mentioned which has a date display of the 28th of November, and then another portion which appears to be a recording of an American movie; correct?",
+      "examination": "direct"
     },
     {
       "id": 121,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "On this tape, there are also two other recordings, one of which you have already mentioned which has a date display of the 28th of November, and then another portion which appears to be a recording of an American movie; correct?"
-    },
-    {
-      "id": 122,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "That's right.",
-      "reply_to": 121
+      "reply_to": 120
+    },
+    {
+      "id": 122,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Did you notice anything about the break between the portion with the date display of 20th November and the portion with the date display of 28th of November which caught your attention?",
+      "examination": "direct"
     },
     {
       "id": 123,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you notice anything about the break between the portion with the date display of 20th November and the portion with the date display of 28th of November which caught your attention?"
-    },
-    {
-      "id": 124,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes. The transition between the 20th and the 28th indicated that there was an over recording at that point.",
-      "reply_to": 123
+      "reply_to": 122
+    },
+    {
+      "id": 124,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "When you say an over recording, what do you mean by that?",
+      "examination": "direct"
     },
     {
       "id": 125,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "When you say an over recording, what do you mean by that?"
-    },
-    {
-      "id": 126,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "A recording was initiated over a recording that was already recorded on a tape.",
-      "reply_to": 125
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "But you would not be able to say if that was a continuation of the recording from the 20th of November or was a recording of something else?",
+      "examination": "direct"
     },
     {
       "id": 127,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But you would not be able to say if that was a continuation of the recording from the 20th of November or was a recording of something else?"
-    },
-    {
-      "id": 128,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "No, I have no way of determining the origin of that recording.",
-      "reply_to": 127
+      "reply_to": 126
+    },
+    {
+      "id": 128,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is there any way for you to determine when this copy was made, the copy that you have examined as Defence Exhibit 2?",
+      "examination": "direct"
     },
     {
       "id": 129,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is there any way for you to determine when this copy was made, the copy that you have examined as Defence Exhibit 2?"
-    },
-    {
-      "id": 130,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "In this case, no.",
-      "reply_to": 129
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Would it be fair to say, then, sort of in summing this up, in your expert opinion, that copies of videotapes are inherently less reliable than originals and are subject to manipulation?",
+      "examination": "direct"
     },
     {
       "id": 131,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Would it be fair to say, then, sort of in summing this up, in your expert opinion, that copies of videotapes are inherently less reliable than originals and are subject to manipulation?"
-    },
-    {
-      "id": 132,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 131
+      "reply_to": 130
+    },
+    {
+      "id": 132,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Now, during the course of doing work with this videotape, did you also have occasion to make a slow-motion copy of the videotape segment with the time display of 15.42?",
+      "examination": "direct"
     },
     {
       "id": 133,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Now, during the course of doing work with this videotape, did you also have occasion to make a slow-motion copy of the videotape segment with the time display of 15.42?"
-    },
-    {
-      "id": 134,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, I did.",
-      "reply_to": 133
+      "reply_to": 132
+    },
+    {
+      "id": 134,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "I would like for you at this time to view Prosecutor's Exhibit 234, please. At this point, I would just like for the witness to view the videotape itself. Is this the copy that you made, or can you tell by looking at the box?",
+      "examination": "direct"
     },
     {
       "id": 135,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I would like for you at this time to view Prosecutor's Exhibit 234, please. At this point, I would just like for the witness to view the videotape itself. Is this the copy that you made, or can you tell by looking at the box?"
-    },
-    {
-      "id": 136,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "This is not the copy.",
-      "reply_to": 135
+      "reply_to": 134
+    },
+    {
+      "id": 136,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Okay. At this time, then, perhaps if we can show a brief segment of this?",
+      "examination": "direct"
     },
     {
       "id": 137,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Okay. At this time, then, perhaps if we can show a brief segment of this?"
-    },
-    {
-      "id": 138,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "This tape appears to be a copy of the one I made.",
-      "reply_to": 137
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "We won't look at the whole thing, but if you can just look at a very brief segment of it and tell us if this is, in fact, the copy that you made? (Videotape played)",
+      "examination": "direct"
     },
     {
       "id": 139,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WILLIAMSON",
       "role": "counsel",
       "type": "question",
-      "text": "We won't look at the whole thing, but if you can just look at a very brief segment of it and tell us if this is, in fact, the copy that you made? (Videotape played)"
+      "text": "Does this appear to be a copy of the copy that you made?",
+      "examination": "direct"
     },
     {
       "id": 140,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Does this appear to be a copy of the copy that you made?"
-    },
-    {
-      "id": 141,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes, it does.",
-      "reply_to": 140
+      "reply_to": 139
     },
     {
-      "id": 142,
+      "id": 141,
       "speaker": "MR. WILLIAMSON",
       "role": "counsel",
       "type": "statement",
       "text": "I think that's fine. Thank you."
     },
     {
-      "id": 143,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 142,
+      "speaker": "MR. WILLIAMSON",
       "role": "counsel",
       "type": "question",
-      "text": "Can you explain the process by which you made this slow-motion copy?"
+      "text": "Can you explain the process by which you made this slow-motion copy?",
+      "examination": "direct"
     },
     {
-      "id": 144,
+      "id": 143,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "The original tape was played back and recorded on a digital video, digital beta cam video cassette tape, and then the digital beta cam video cassette tape was played back in slow-motion to produce the copy.",
-      "reply_to": 143
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "How much has this segment been slowed down?",
+      "examination": "direct"
     },
     {
       "id": 145,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "How much has this segment been slowed down?"
-    },
-    {
-      "id": 146,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Approximately about one frame every half a second.",
-      "reply_to": 145
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Other than seeing the segment at a slower speed, has this process in any way affected the content of the sequence?",
+      "examination": "direct"
     },
     {
       "id": 147,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Other than seeing the segment at a slower speed, has this process in any way affected the content of the sequence?"
-    },
-    {
-      "id": 148,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "No, it has not.",
-      "reply_to": 147
+      "reply_to": 146
     },
     {
-      "id": 149,
+      "id": 148,
       "speaker": "MR. WILLIAMSON",
       "role": "counsel",
       "type": "statement",
       "text": "I have no further questions."
     },
     {
-      "id": 150,
+      "id": 149,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you. Mr. Fila? Cross-examined by Mr. Fila:"
+      "text": "Thank you. Mr. Fila?"
+    },
+    {
+      "id": 150,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Herold, I should like to apologise in advance if I ask something too silly, I mean, if that's the right word for it, because I am a total layman in this field. My first question would be the following: You said in principle that it can be this and it can be that. Can you confirm or can you deny that this copy in front of you dates back to 1991? Can you say that for sure one way or the other?",
+      "examination": "cross"
     },
     {
       "id": 151,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Herold, I should like to apologise in advance if I ask something too silly, I mean, if that's the right word for it, because I am a total layman in this field. My first question would be the following: You said in principle that it can be this and it can be that. Can you confirm or can you deny that this copy in front of you dates back to 1991? Can you say that for sure one way or the other?"
-    },
-    {
-      "id": 152,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "No, I cannot.",
-      "reply_to": 151
+      "reply_to": 150
+    },
+    {
+      "id": 152,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Is there a possibility to ascertain how old a tape is? I mean, not the recording on it but of the tape itself? Have I made myself clear? For example, was this manufactured in 1991, this tape which you have before you? Is it seven or eight years old? I mean, not when it was recorded, if you know what I'm saying, but the tape itself.",
+      "examination": "cross"
     },
     {
       "id": 153,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Is there a possibility to ascertain how old a tape is? I mean, not the recording on it but of the tape itself? Have I made myself clear? For example, was this manufactured in 1991, this tape which you have before you? Is it seven or eight years old? I mean, not when it was recorded, if you know what I'm saying, but the tape itself."
-    },
-    {
-      "id": 154,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Oftentimes a tape shell contains nomenclature on it that would indicate who the manufacturer is. You can go to the manufacturer and provide him with the numbers, and he can normally tell you when the tape itself was manufactured. In this case, there are no numbers to do that with.",
-      "reply_to": 153
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "But these are pirate cassettes from Yugoslavia. I happen to know that because we all had them at that time, you know? But can you ascertain how old the material is, so to speak? For example, we can say how old corpses are, how old trees are. Can you ascertain this too? I apologised in advance. I said that I might be asking senseless questions but ...",
+      "examination": "cross"
     },
     {
       "id": 155,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "But these are pirate cassettes from Yugoslavia. I happen to know that because we all had them at that time, you know? But can you ascertain how old the material is, so to speak? For example, we can say how old corpses are, how old trees are. Can you ascertain this too? I apologised in advance. I said that I might be asking senseless questions but ..."
-    },
-    {
-      "id": 156,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "No, I have no way of knowing when this tape was made.",
-      "reply_to": 155
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "If anything was forged on this tape, I mean, on the original, do you need some kind of superior technical equipment or knowledge?",
+      "examination": "cross"
     },
     {
       "id": 157,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If anything was forged on this tape, I mean, on the original, do you need some kind of superior technical equipment or knowledge?"
-    },
-    {
-      "id": 158,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Well, being a copy, there is no way of knowing what the original tape contains.",
-      "reply_to": 157
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "If we had a copy of these copies, second generation copies, on these second generation tapes, would the numbers and the date have to be on them if they were on the original, or would they simply not be there if they were not on the original copy, if you know what I mean?",
+      "examination": "cross"
     },
     {
       "id": 159,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If we had a copy of these copies, second generation copies, on these second generation tapes, would the numbers and the date have to be on them if they were on the original, or would they simply not be there if they were not on the original copy, if you know what I mean?"
-    },
-    {
-      "id": 160,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Well, if the original tape contains the date-time display on it, they would be there. If it did not, they would not be.",
-      "reply_to": 159
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "If I were to give you two other tapes which are copies of this tape and for which I claim that they're also from 1991 and that they contain that date, the 21st of November, and the same minutes, could I conclude that everything that was done with this tape was done in 1991?",
+      "examination": "cross"
     },
     {
       "id": 161,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If I were to give you two other tapes which are copies of this tape and for which I claim that they're also from 1991 and that they contain that date, the 21st of November, and the same minutes, could I conclude that everything that was done with this tape was done in 1991?"
-    },
-    {
-      "id": 162,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "I don't know how you can determine a date. You can make multiple copies of the same tape at the same time.",
-      "reply_to": 161
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "I understood that. But perhaps I should say this more precisely. The man who was the owner of this tape that you looked at, he said that he made copies from that tape and that he gave these copies to certain persons who corroborated that before this court. That is to say that this would be the next generation of copies, if we were to call this the first generation copy, as you did. And these witnesses claim that they received this in 1991. Could one conclude then that if it is so, that everything that was done with this copy was done in 1991?",
+      "examination": "cross"
     },
     {
       "id": 163,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I understood that. But perhaps I should say this more precisely. The man who was the owner of this tape that you looked at, he said that he made copies from that tape and that he gave these copies to certain persons who corroborated that before this court. That is to say that this would be the next generation of copies, if we were to call this the first generation copy, as you did. And these witnesses claim that they received this in 1991. Could one conclude then that if it is so, that everything that was done with this copy was done in 1991?"
-    },
-    {
-      "id": 164,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "I have no way of knowing what the date was.",
-      "reply_to": 163
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "We haven't understood each other. If this copy was made in 1991, the one you had in your hands, what you got was made in 1991, that which is in front of you. The copies that were made on that basis would have to be identical to this original tape; right?",
+      "examination": "cross"
     },
     {
       "id": 165,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "We haven't understood each other. If this copy was made in 1991, the one you had in your hands, what you got was made in 1991, that which is in front of you. The copies that were made on that basis would have to be identical to this original tape; right?"
-    },
-    {
-      "id": 166,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "If a copy was made from this copy, they would be identical.",
-      "reply_to": 165
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Yes, yes, that's it. And everything would have to be the same, all the designations, the date, and the hour and the minutes, everything like on the tape that is front of you; right?",
+      "examination": "cross"
     },
     {
       "id": 167,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Yes, yes, that's it. And everything would have to be the same, all the designations, the date, and the hour and the minutes, everything like on the tape that is front of you; right?"
-    },
-    {
-      "id": 168,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "It should be the same content.",
-      "reply_to": 167
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "And perhaps you could assume that this was recorded without these numbers on it. I call them numbers because I don't know what they are exactly called. Would it be easy to get these numbers in subsequently? Would it be easy or does it really require an extra effort to do this subsequently?",
+      "examination": "cross"
     },
     {
       "id": 169,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "And perhaps you could assume that this was recorded without these numbers on it. I call them numbers because I don't know what they are exactly called. Would it be easy to get these numbers in subsequently? Would it be easy or does it really require an extra effort to do this subsequently?"
-    },
-    {
-      "id": 170,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "The date-time display numbers can be added subsequently when the copy is made.",
-      "reply_to": 169
+      "reply_to": 168
     },
     {
-      "id": 171,
+      "id": 170,
       "speaker": "MR. FILA",
       "role": "counsel",
       "type": "statement",
       "text": "All right, fine, thank you. No further questions."
     },
     {
-      "id": 172,
+      "id": 171,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 173,
+      "id": 172,
       "speaker": "MR. FILA",
       "role": "counsel",
       "type": "statement",
       "text": "I'm sorry, I'm sorry, I forgot one question. Sorry, just one question, I forgot it."
     },
     {
-      "id": 174,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 173,
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "Can you confirm that on this copy that you saw, no display numbers were deleted and then new ones inserted subsequently?"
+      "text": "Can you confirm that on this copy that you saw, no display numbers were deleted and then new ones inserted subsequently?",
+      "examination": "cross"
     },
     {
-      "id": 175,
+      "id": 174,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "No, I can't say that.",
-      "reply_to": 174
+      "reply_to": 173
+    },
+    {
+      "id": 175,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "You cannot see that on the copy itself, that something was wiped out and then new numbers were written on it? Not on other copies, but on the one in front of you, were the original numbers taken off and new ones inserted? Can you see that?",
+      "examination": "cross"
     },
     {
       "id": 176,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "You cannot see that on the copy itself, that something was wiped out and then new numbers were written on it? Not on other copies, but on the one in front of you, were the original numbers taken off and new ones inserted? Can you see that?"
-    },
-    {
-      "id": 177,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "I have no way of knowing whether they were inserted later or they were on the original tape.",
-      "reply_to": 176
+      "reply_to": 175
+    },
+    {
+      "id": 177,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Again, we haven't understood each other. The dates that you saw here, you don't know whether they were inserted subsequently or whether they were on the original. You agreed with that, yes. But the question is something different. Was a date deleted from this copy and then a new one added on the copy that you have, not on the original, the copy that you have?",
+      "examination": "cross"
     },
     {
       "id": 178,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Again, we haven't understood each other. The dates that you saw here, you don't know whether they were inserted subsequently or whether they were on the original. You agreed with that, yes. But the question is something different. Was a date deleted from this copy and then a new one added on the copy that you have, not on the original, the copy that you have?"
-    },
-    {
-      "id": 179,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Again, when you're dealing with a copy, you can do a lot of things with a copy that aren't on the original. And I'm not sure I understand what you mean, but if the date-time is on the original tape, it's either there or it's not there. If it's there later on on the copy, it could be added subsequently.",
-      "reply_to": 178
+      "reply_to": 177
     },
     {
-      "id": 180,
+      "id": 179,
       "speaker": "JUDGE MUMBA",
       "role": "judge",
       "type": "statement",
       "text": "Can I just explain? I think what you mean is whether the original dates, a later date was superimposed; is that what you mean?"
     },
     {
-      "id": 181,
+      "id": 180,
       "speaker": "MR. FILA",
       "role": "counsel",
       "type": "statement",
       "text": "Yes, yes, was something added, yes."
     },
     {
-      "id": 182,
+      "id": 181,
       "speaker": "JUDGE MUMBA",
       "role": "judge",
       "type": "statement",
       "text": "Superimposed, not added. On the same place, you place another date."
     },
     {
-      "id": 183,
+      "id": 182,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Okay. You cannot place a new time-date display over the original without there being noticeable artefacts.",
-      "reply_to": 178
+      "reply_to": 177
     },
     {
-      "id": 184,
+      "id": 183,
       "speaker": "MR. FILA",
       "role": "counsel",
       "type": "statement",
       "text": "That's it."
     },
     {
-      "id": 185,
+      "id": 184,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. Mr. Williamson, any re-examination?"
     },
     {
-      "id": 186,
+      "id": 185,
       "speaker": "MR. WILLIAMSON",
       "role": "counsel",
       "type": "statement",
-      "text": "Just a couple of questions Re-examined by Mr. Williamson:"
+      "text": "Just a couple of questions"
+    },
+    {
+      "id": 186,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Fila put some questions to you in relation to additional videotapes that were made. If you looked at these videotapes, would there be anything about the tape itself which would indicate when it was made?",
+      "examination": "re-direct"
     },
     {
       "id": 187,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Mr. Fila put some questions to you in relation to additional videotapes that were made. If you looked at these videotapes, would there be anything about the tape itself which would indicate when it was made?"
-    },
-    {
-      "id": 188,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "No.",
-      "reply_to": 187
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "So this would be totally reliant on what these persons had indicated as to when the tape was made. That would be the only basis for forming this opinion that Mr. Fila has put to you?",
+      "examination": "re-direct"
     },
     {
       "id": 189,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "So this would be totally reliant on what these persons had indicated as to when the tape was made. That would be the only basis for forming this opinion that Mr. Fila has put to you?"
-    },
-    {
-      "id": 190,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 189
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "If a video cassette was made in 1990 or 1989, would it still be possible to record something on that in 1998, for example?",
+      "examination": "re-direct"
     },
     {
       "id": 191,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If a video cassette was made in 1990 or 1989, would it still be possible to record something on that in 1998, for example?"
-    },
-    {
-      "id": 192,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Certainly.",
-      "reply_to": 191
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "MR. WILLIAMSON",
+      "role": "counsel",
+      "type": "question",
+      "text": "If a copy was made of a tape in 1998 or was made in 1993 and it was made from the same tape, would the content be the same?",
+      "examination": "re-direct"
     },
     {
       "id": 193,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "If a copy was made of a tape in 1998 or was made in 1993 and it was made from the same tape, would the content be the same?"
-    },
-    {
-      "id": 194,
       "speaker": "NOEL HEROLD",
       "role": "witness",
       "type": "answer",
       "text": "Yes.",
-      "reply_to": 193
+      "reply_to": 192
     },
     {
-      "id": 195,
+      "id": 194,
       "speaker": "MR. WILLIAMSON",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you. I have nothing further."
     },
     {
-      "id": 196,
+      "id": 195,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you. So I assume there's no objection to the witness being released? Mr. Herold, thank you so much for coming here to give evidence in court. You may now be released. Thank you. (The witness withdrew)"
     },
     {
-      "id": 197,
+      "id": 196,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Mr. Waespi, are you going to bring in Mr. Corwin?"
     },
     {
-      "id": 198,
+      "id": 197,
       "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "statement",
       "text": "Exactly, Your Honours. (The witness entered court)"
     },
     {
-      "id": 199,
+      "id": 198,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Good morning. Could you please read the solemn declaration?"
     },
     {
-      "id": 200,
+      "id": 199,
       "speaker": "THE WITNESS",
       "role": "witness",
       "type": "statement",
       "text": "I solemnly declare that I shall speak the truth, the whole truth and nothing but the truth."
     },
     {
-      "id": 201,
+      "id": 200,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
+      "id": 201,
+      "speaker": "MR. WAESPI",
+      "role": "counsel",
+      "type": "question",
+      "text": "Good morning, Mr. Corwin.",
+      "examination": "direct"
+    },
+    {
       "id": 202,
-      "speaker": "JUDGE CASSESE",
-      "role": "judge",
-      "type": "statement",
-      "text": "Examined by Mr. Waespi:"
+      "speaker": "PHILIP CORWIN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Good morning.",
+      "reply_to": 201
     },
     {
       "id": 203,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "Good morning, Mr. Corwin."
+      "text": "Are you a US citizen?",
+      "examination": "direct"
     },
     {
       "id": 204,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Good morning.",
+      "text": "Yes, I am.",
       "reply_to": 203
     },
     {
       "id": 205,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "Are you a US citizen?"
+      "text": "What is your profession?",
+      "examination": "direct"
     },
     {
       "id": 206,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I am.",
+      "text": "Well, right now I'm retired and I've been writing, and I'm also a political consultant.",
       "reply_to": 205
     },
     {
       "id": 207,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "What is your profession?"
+      "text": "Who has been your employer?",
+      "examination": "direct"
     },
     {
       "id": 208,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, right now I'm retired and I've been writing, and I'm also a political consultant.",
+      "text": "I worked for the United Nations for 27 years.",
       "reply_to": 207
     },
     {
       "id": 209,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "Who has been your employer?"
+      "text": "Can you tell us briefly some of the overseas missions you were entrusted with in the course of your career with the UN?",
+      "examination": "direct"
     },
     {
       "id": 210,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "I worked for the United Nations for 27 years.",
+      "text": "Well, I was on several peacekeeping missions including the Western Sahara, Afghanistan, Haiti, and a few assignments within the former Yugoslavia.",
       "reply_to": 209
     },
     {
       "id": 211,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "Can you tell us briefly some of the overseas missions you were entrusted with in the course of your career with the UN?"
+      "text": "So you would consider yourself as being an experienced peacekeeper?",
+      "examination": "direct"
     },
     {
       "id": 212,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, I was on several peacekeeping missions including the Western Sahara, Afghanistan, Haiti, and a few assignments within the former Yugoslavia.",
+      "text": "Yes, sir.",
       "reply_to": 211
     },
     {
       "id": 213,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "So you would consider yourself as being an experienced peacekeeper?"
+      "text": "Did you serve as a United Nations civil affairs officer in the Vukovar region between 1992 and 1995?",
+      "examination": "direct"
     },
     {
       "id": 214,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, sir.",
+      "text": "Yes, I did.",
       "reply_to": 213
     },
     {
       "id": 215,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "Did you serve as a United Nations civil affairs officer in the Vukovar region between 1992 and 1995?"
+      "text": "And were you for the last 20 months of that period the civil affairs coordinator or chief political officer in what was then known as Sector East?",
+      "examination": "direct"
     },
     {
       "id": 216,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I did.",
+      "text": "Yes, I was.",
       "reply_to": 215
     },
     {
       "id": 217,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "And were you for the last 20 months of that period the civil affairs coordinator or chief political officer in what was then known as Sector East?"
+      "text": "An area that included Vukovar?",
+      "examination": "direct"
     },
     {
       "id": 218,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I was.",
+      "text": "Yes, sir.",
       "reply_to": 217
     },
     {
       "id": 219,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "An area that included Vukovar?"
+      "text": "What was the nature of the activities you made as a civil affairs coordinator?",
+      "examination": "direct"
     },
     {
       "id": 220,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, sir.",
+      "text": "Well, for the most part, I maintained contact with the local officials, and I reported on developments within the area in keeping with a mandate that we had as United Nations officials.",
       "reply_to": 219
     },
     {
       "id": 221,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "What was the nature of the activities you made as a civil affairs coordinator?"
+      "text": "Do you know who was addressee of these reports that you drafted?",
+      "examination": "direct"
     },
     {
       "id": 222,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, for the most part, I maintained contact with the local officials, and I reported on developments within the area in keeping with a mandate that we had as United Nations officials.",
+      "text": "Well, directly to Yasushi Akashi or Cedric Thornberry. They were the special representatives of the Secretary-General in New York.",
       "reply_to": 221
     },
     {
       "id": 223,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "Do you know who was addressee of these reports that you drafted?"
+      "text": "Mr. Corwin, were you contacted earlier this month by the Prosecution of this Tribunal, and did you give, over the phone, a brief statement as to your contact with Mr. Slavko Dokmanovic?",
+      "examination": "direct"
     },
     {
       "id": 224,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, directly to Yasushi Akashi or Cedric Thornberry. They were the special representatives of the Secretary-General in New York.",
+      "text": "Yes, I was contacted, and I did give a statement.",
       "reply_to": 223
     },
     {
       "id": 225,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Corwin, were you contacted earlier this month by the Prosecution of this Tribunal, and did you give, over the phone, a brief statement as to your contact with Mr. Slavko Dokmanovic?"
+      "text": "Did you sign the statement this morning as being a correct account of what you have told the Prosecution over the phone?",
+      "examination": "direct"
     },
     {
       "id": 226,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I was contacted, and I did give a statement.",
+      "text": "Yes, I did sign it.",
       "reply_to": 225
     },
     {
       "id": 227,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "Did you sign the statement this morning as being a correct account of what you have told the Prosecution over the phone?"
+      "text": "And does this statement describe the personal impression you got during your mission in the Vukovar area?",
+      "examination": "direct"
     },
     {
       "id": 228,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I did sign it.",
+      "text": "Yes, generally, it does.",
       "reply_to": 227
     },
     {
       "id": 229,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "And does this statement describe the personal impression you got during your mission in the Vukovar area?"
+      "text": "I would like to show you this statement and ask you whether you recognise it.",
+      "examination": "direct"
     },
     {
       "id": 230,
-      "speaker": "PHILIP CORWIN",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes, generally, it does.",
-      "reply_to": 229
-    },
-    {
-      "id": 231,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "I would like to show you this statement and ask you whether you recognise it."
-    },
-    {
-      "id": 232,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "The document is marked D58."
     },
     {
-      "id": 233,
+      "id": 231,
       "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "statement",
       "text": "Excuse me, D58?"
     },
     {
-      "id": 234,
+      "id": 232,
       "speaker": "THE REGISTRAR",
       "role": "registrar",
       "type": "statement",
       "text": "Sorry, 258."
     },
     {
-      "id": 235,
+      "id": 233,
       "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "statement",
       "text": "258, yes."
     },
     {
-      "id": 236,
+      "id": 234,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
       "text": "Yes, that's my statement.",
-      "reply_to": 231
+      "reply_to": 229
     },
     {
-      "id": 237,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 235,
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "Thank you, Mr. Corwin."
+      "text": "Thank you, Mr. Corwin.",
+      "examination": "direct"
     },
     {
-      "id": 238,
+      "id": 236,
       "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "statement",
       "text": "I would tender that as Prosecution Exhibit 258."
     },
     {
-      "id": 239,
+      "id": 237,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "No objection, Mr. Fila? No objection. Thank you."
     },
     {
-      "id": 240,
-      "speaker": "UNKNOWN EXAMINER",
+      "id": 238,
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Corwin, in your capacity as a civil affairs coordinator, did you meet with Slavko Dokmanovic on a number of occasions?"
+      "text": "Mr. Corwin, in your capacity as a civil affairs coordinator, did you meet with Slavko Dokmanovic on a number of occasions?",
+      "examination": "direct"
+    },
+    {
+      "id": 239,
+      "speaker": "PHILIP CORWIN",
+      "role": "witness",
+      "type": "answer",
+      "text": "Yes, I did.",
+      "reply_to": 238
+    },
+    {
+      "id": 240,
+      "speaker": "MR. WAESPI",
+      "role": "counsel",
+      "type": "question",
+      "text": "In general, and without going into details, how would you describe the behaviour of Mr. Dokmanovic?",
+      "examination": "direct"
     },
     {
       "id": 241,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I did.",
+      "text": "Well, he, I think as most Serb officials, was quite nationalistic. He was cooperative insofar as it would serve the aims of the Serbian leadership. And I think that his behaviour was generally the behaviour of all the local officials. They were all hard-liners, and I doubt very much if he would have been elected to his position if he had not been a hard-liner, because it was during a war or right after a war, and moderates were not in power.",
       "reply_to": 240
     },
     {
       "id": 242,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "In general, and without going into details, how would you describe the behaviour of Mr. Dokmanovic?"
+      "text": "How was your personal relations with Mr. Dokmanovic? Was he friendly with you or did he threaten you in any way?",
+      "examination": "direct"
     },
     {
       "id": 243,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, he, I think as most Serb officials, was quite nationalistic. He was cooperative insofar as it would serve the aims of the Serbian leadership. And I think that his behaviour was generally the behaviour of all the local officials. They were all hard-liners, and I doubt very much if he would have been elected to his position if he had not been a hard-liner, because it was during a war or right after a war, and moderates were not in power.",
+      "text": "He never threatened me. I only met him at official functions, and there were times, I think, when he might have been difficult, but he was never threatening.",
       "reply_to": 242
     },
     {
       "id": 244,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "How was your personal relations with Mr. Dokmanovic? Was he friendly with you or did he threaten you in any way?"
+      "text": "In your report, you mentioned that during the course of contact with Mr. Dokmanovic, you did find him to be intoxicated on several occasions?",
+      "examination": "direct"
     },
     {
       "id": 245,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "He never threatened me. I only met him at official functions, and there were times, I think, when he might have been difficult, but he was never threatening.",
+      "text": "Well, it was my impression. You know, I never -- I mean, I didn't take a blood test or anything but, I mean, it seemed to me that he was, yes.",
       "reply_to": 244
     },
     {
       "id": 246,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "In your report, you mentioned that during the course of contact with Mr. Dokmanovic, you did find him to be intoxicated on several occasions?"
+      "text": "Judging from your experience in that region, do you think alcohol was a general problem? Let's talk about politicians.",
+      "examination": "direct"
     },
     {
       "id": 247,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, it was my impression. You know, I never -- I mean, I didn't take a blood test or anything but, I mean, it seemed to me that he was, yes.",
+      "text": "Yes, I think it was. It was a problem. If it wasn't a tradition, it was certainly a problem.",
       "reply_to": 246
     },
     {
       "id": 248,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "Judging from your experience in that region, do you think alcohol was a general problem? Let's talk about politicians."
+      "text": "What was the result of such intoxication on the part of Mr. Dokmanovic? How would he behave then?",
+      "examination": "direct"
     },
     {
       "id": 249,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I think it was. It was a problem. If it wasn't a tradition, it was certainly a problem.",
+      "text": "Well, sometimes he became very loud and rather irrational or illogical, especially when he started to speak about his view of the history of the region. I have no way of knowing if he would have been that way without alcohol. I think it probably just aggravated his opinions which he held anyway. I don't think that it changed his mind. I think it made him a little less rational.",
       "reply_to": 248
     },
     {
       "id": 250,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "What was the result of such intoxication on the part of Mr. Dokmanovic? How would he behave then?"
+      "text": "What do you think was the main priority of Dokmanovic and the other Serb officials?",
+      "examination": "direct"
     },
     {
       "id": 251,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, sometimes he became very loud and rather irrational or illogical, especially when he started to speak about his view of the history of the region. I have no way of knowing if he would have been that way without alcohol. I think it probably just aggravated his opinions which he held anyway. I don't think that it changed his mind. I think it made him a little less rational.",
+      "text": "Well, my impression was that they were mainly concerned with achieving legitimacy for what was then called the RSK, Republic of Srpska Krajina, and that they pursued that objective any way they could. And if they felt that anything would help to achieve that objective, they would be cooperative; otherwise they would, I would say, be non-cooperative.",
       "reply_to": 250
     },
     {
       "id": 252,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "question",
-      "text": "What do you think was the main priority of Dokmanovic and the other Serb officials?"
+      "text": "Did you ever hear Mr. Dokmanovic making anti-Croatian statements or slogans?",
+      "examination": "direct"
     },
     {
       "id": 253,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, my impression was that they were mainly concerned with achieving legitimacy for what was then called the RSK, Republic of Srpska Krajina, and that they pursued that objective any way they could. And if they felt that anything would help to achieve that objective, they would be cooperative; otherwise they would, I would say, be non-cooperative.",
+      "text": "Yes, I did, but I have to add that I never heard any sort of admission of any acts against Croatians. To the contrary, he probably would maintain that he was equal in his treatment of every citizen of Vukovar, regardless of ethnicity. At the same time, there were not very many Croatians left in Vukovar. At that point, it was probably 90 per cent Serbian. As I say, what he said was not necessarily followed up with action, I mean, but he was rather critical or intolerant of Croatians, yes.",
       "reply_to": 252
     },
     {
       "id": 254,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "Did you ever hear Mr. Dokmanovic making anti-Croatian statements or slogans?"
-    },
-    {
-      "id": 255,
-      "speaker": "PHILIP CORWIN",
-      "role": "witness",
-      "type": "answer",
-      "text": "Yes, I did, but I have to add that I never heard any sort of admission of any acts against Croatians. To the contrary, he probably would maintain that he was equal in his treatment of every citizen of Vukovar, regardless of ethnicity. At the same time, there were not very many Croatians left in Vukovar. At that point, it was probably 90 per cent Serbian. As I say, what he said was not necessarily followed up with action, I mean, but he was rather critical or intolerant of Croatians, yes.",
-      "reply_to": 254
-    },
-    {
-      "id": 256,
       "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "statement",
       "text": "Thank you very much. No further questions, Your Honours."
     },
     {
-      "id": 257,
+      "id": 255,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
-      "text": "Thank you. Mr. Fila? Cross-examined by Mr. Fila:"
+      "text": "Thank you. Mr. Fila?"
+    },
+    {
+      "id": 256,
+      "speaker": "MR. FILA",
+      "role": "counsel",
+      "type": "question",
+      "text": "Mr. Corwin, what was Dokmanovic at the time when you met him? Mr. Corwin, what was Dokmanovic at the time when you met him?",
+      "examination": "cross"
+    },
+    {
+      "id": 257,
+      "speaker": "PHILIP CORWIN",
+      "role": "witness",
+      "type": "answer",
+      "text": "He was the mayor of Vukovar.",
+      "reply_to": 256
     },
     {
       "id": 258,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "Mr. Corwin, what was Dokmanovic at the time when you met him? Mr. Corwin, what was Dokmanovic at the time when you met him?"
+      "text": "Was he a member of the government of the Republic of Serbian Krajina, by any chance?",
+      "examination": "cross"
     },
     {
       "id": 259,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "He was the mayor of Vukovar.",
+      "text": "Well, insofar as he was the mayor of Vukovar, and he was a -- yes, I would say so. I don't know if he was a member of the RSK government which was in Kanine (phoen). I think most of the officials of the RSK government were in Kanine.",
       "reply_to": 258
     },
     {
       "id": 260,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "Was he a member of the government of the Republic of Serbian Krajina, by any chance?"
+      "text": "I asked you whether Mr. Dokmanovic was a member of the government of the Republic of Serbian Krajina at the time that you're talking about. I don't really care whether it was in Kanine or outside Kanine.",
+      "examination": "cross"
     },
     {
       "id": 261,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, insofar as he was the mayor of Vukovar, and he was a -- yes, I would say so. I don't know if he was a member of the RSK government which was in Kanine (phoen). I think most of the officials of the RSK government were in Kanine.",
+      "text": "Yes, I believe so. Yes, he was.",
       "reply_to": 260
     },
     {
       "id": 262,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "I asked you whether Mr. Dokmanovic was a member of the government of the Republic of Serbian Krajina at the time that you're talking about. I don't really care whether it was in Kanine or outside Kanine."
+      "text": "At the same time, he was the president of the municipality?",
+      "examination": "cross"
     },
     {
       "id": 263,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I believe so. Yes, he was.",
+      "text": "Yes, I believe so.",
       "reply_to": 262
     },
     {
       "id": 264,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "At the same time, he was the president of the municipality?"
+      "text": "What sessions of the government did you see him at? On what do you base your conclusion that he was a member of the government?",
+      "examination": "cross"
     },
     {
       "id": 265,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, I believe so.",
+      "text": "Well, I'm not quite clear about your question. He was the mayor of Vukovar. He was introduced to me as the mayor of Vukovar, and I assume that's a member of the government. I don't see how he could have been mayor of Vukovar and not be a member of the government.",
       "reply_to": 264
     },
     {
       "id": 266,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "What sessions of the government did you see him at? On what do you base your conclusion that he was a member of the government?"
+      "text": "Mm-hmm, I see. So you met him -- in your statement, you stated you met him over five or six times. On what occasions?",
+      "examination": "cross"
     },
     {
       "id": 267,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, I'm not quite clear about your question. He was the mayor of Vukovar. He was introduced to me as the mayor of Vukovar, and I assume that's a member of the government. I don't see how he could have been mayor of Vukovar and not be a member of the government.",
+      "text": "Well, in my capacity as the chief political officer, I had to deal with him on several occasions.",
       "reply_to": 266
     },
     {
       "id": 268,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "Mm-hmm, I see. So you met him -- in your statement, you stated you met him over five or six times. On what occasions?"
+      "text": "Where? In his office?",
+      "examination": "cross"
     },
     {
       "id": 269,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, in my capacity as the chief political officer, I had to deal with him on several occasions.",
+      "text": "Yes, in his office in Vukovar.",
       "reply_to": 268
     },
     {
       "id": 270,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "Where? In his office?"
+      "text": "Did he then hold those historic speeches that you were talking about? Were these the occasions when he drank in front of you or whether maybe you met him at some official functions, dinners, lunches and so forth?",
+      "examination": "cross"
     },
     {
       "id": 271,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, in his office in Vukovar.",
+      "text": "Yes.",
       "reply_to": 270
     },
     {
       "id": 272,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "Did he then hold those historic speeches that you were talking about? Were these the occasions when he drank in front of you or whether maybe you met him at some official functions, dinners, lunches and so forth?"
+      "text": "Was it there at those official functions, lunches, dinners, and so forth, that he gave the impression that he was under the influence of alcohol?",
+      "examination": "cross"
     },
     {
       "id": 273,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes.",
+      "text": "Yes, yes, he did.",
       "reply_to": 272
     },
     {
       "id": 274,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "Was it there at those official functions, lunches, dinners, and so forth, that he gave the impression that he was under the influence of alcohol?"
+      "text": "Did he leave that impression when you met him at work, at his work?",
+      "examination": "cross"
     },
     {
       "id": 275,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes, yes, he did.",
+      "text": "That's a very difficult thing to answer. I would say yes, but I have to add also that this was no evidence of any sort of criminal behaviour. I mean, a lot of people are drunk, but I think there were times when he seemed to be under the influence of alcohol, yes.",
       "reply_to": 274
     },
     {
       "id": 276,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "Did he leave that impression when you met him at work, at his work?"
+      "text": "Yes, but where was it that you saw him under the influence of alcohol?",
+      "examination": "cross"
     },
     {
       "id": 277,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "That's a very difficult thing to answer. I would say yes, but I have to add also that this was no evidence of any sort of criminal behaviour. I mean, a lot of people are drunk, but I think there were times when he seemed to be under the influence of alcohol, yes.",
+      "text": "At various -- there were a couple of times when I met with him in his office, and there were times when I was at other official functions when he seemed to be under the influence of alcohol.",
       "reply_to": 276
     },
     {
       "id": 278,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "Yes, but where was it that you saw him under the influence of alcohol?"
+      "text": "If I understand you correctly, in both places?",
+      "examination": "cross"
     },
     {
       "id": 279,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "At various -- there were a couple of times when I met with him in his office, and there were times when I was at other official functions when he seemed to be under the influence of alcohol.",
+      "text": "Yes.",
       "reply_to": 278
     },
     {
       "id": 280,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "If I understand you correctly, in both places?"
+      "text": "On what did you base your conclusion that he was under the influence of alcohol at work when he was in his office?",
+      "examination": "cross"
     },
     {
       "id": 281,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Yes.",
+      "text": "Well, there were times when I met him in his office when he seemed a lot calmer and a lot more reasonable. It's very hard to say how you can tell whether someone is drunk or not, but it would seem that there were times when he was drunk. Usually there was always liquor available, but some of that was simply courtesy. He would offer people drinks. So I'm not quite sure what you're after. I would say that there were times when he seemed to be much louder, much less restrained, much more irrational than at other times. So in that comparison, I would say there were times when he was drunk.",
       "reply_to": 280
     },
     {
       "id": 282,
-      "speaker": "UNKNOWN EXAMINER",
+      "speaker": "MR. FILA",
       "role": "counsel",
       "type": "question",
-      "text": "On what did you base your conclusion that he was under the influence of alcohol at work when he was in his office?"
+      "text": "What I'm interested in is his work. I don't care about lunches, dinners, and so forth. I'm interested in while he was working. What was the basis for your conclusion? Since you said that you did not give him a breathalyser, what did you base your conclusion on then?",
+      "examination": "cross"
     },
     {
       "id": 283,
       "speaker": "PHILIP CORWIN",
       "role": "witness",
       "type": "answer",
-      "text": "Well, there were times when I met him in his office when he seemed a lot calmer and a lot more reasonable. It's very hard to say how you can tell whether someone is drunk or not, but it would seem that there were times when he was drunk. Usually there was always liquor available, but some of that was simply courtesy. He would offer people drinks. So I'm not quite sure what you're after. I would say that there were times when he seemed to be much louder, much less restrained, much more irrational than at other times. So in that comparison, I would say there were times when he was drunk.",
+      "text": "On my impressions.",
       "reply_to": 282
     },
     {
       "id": 284,
-      "speaker": "UNKNOWN EXAMINER",
-      "role": "counsel",
-      "type": "question",
-      "text": "What I'm interested in is his work. I don't care about lunches, dinners, and so forth. I'm interested in while he was working. What was the basis for your conclusion? Since you said that you did not give him a breathalyser, what did you base your conclusion on then?"
-    },
-    {
-      "id": 285,
-      "speaker": "PHILIP CORWIN",
-      "role": "witness",
-      "type": "answer",
-      "text": "On my impressions.",
-      "reply_to": 284
-    },
-    {
-      "id": 286,
       "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "statement",
       "text": "I think he has answered \"When I met him in his office, that was work related.\""
     },
     {
-      "id": 287,
+      "id": 285,
       "speaker": "MR. FILA",
       "role": "counsel",
       "type": "statement",
       "text": "I have no further questions."
     },
     {
-      "id": 288,
+      "id": 286,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you."
     },
     {
-      "id": 289,
+      "id": 287,
       "speaker": "MR. FILA",
       "role": "counsel",
       "type": "statement",
       "text": "Your reaction was too late. I have no further questions. I'm finished."
     },
     {
-      "id": 290,
+      "id": 288,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you, Mr. Fila. Mr. Waespi, any re-examination?"
     },
     {
-      "id": 291,
+      "id": 289,
       "speaker": "MR. WAESPI",
       "role": "counsel",
       "type": "statement",
       "text": "No."
     },
     {
-      "id": 292,
+      "id": 290,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Thank you so much, Mr. Corwin, for coming here to give evidence. Since I assume the parties have no objection to your being released, you may now be released. Thank you. (The witness withdrew)"
     },
     {
-      "id": 293,
+      "id": 291,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
       "text": "Now, I gather we have finished for today. Mr. Williamson, we will hear tomorrow morning two witnesses, Witness S and the Defence investigator; Thursday morning, Professor Gudjonsson and then the Defence psychologist; and Thursday afternoon, closing statements. Therefore, there will be no hearings this afternoon and tomorrow afternoon. The hearing is adjourned."
     },
     {
-      "id": 294,
+      "id": 292,
       "speaker": "JUDGE CASSESE",
       "role": "judge",
       "type": "statement",
@@ -2177,11 +2269,31 @@
       "text": "WITNESS:  NOEL HEROLD"
     },
     {
-      "after_utterance": 201,
+      "after_utterance": 43,
+      "text": "Examined by Mr. Williamson:"
+    },
+    {
+      "after_utterance": 149,
+      "text": "Cross-examined by Mr. Fila:"
+    },
+    {
+      "after_utterance": 185,
+      "text": "Re-examined by Mr. Williamson:"
+    },
+    {
+      "after_utterance": 200,
       "text": "WITNESS:  PHILIP CORWIN"
     },
     {
-      "after_utterance": 293,
+      "after_utterance": 200,
+      "text": "Examined by Mr. Waespi:"
+    },
+    {
+      "after_utterance": 255,
+      "text": "Cross-examined by Mr. Fila:"
+    },
+    {
+      "after_utterance": 291,
       "text": "--- Whereupon hearing adjourned at"
     }
   ],
