@@ -1,0 +1,3183 @@
+{
+  "case": "krajisnik",
+  "case_id_base": "IT-00-39",
+  "case_id_transcript": "IT-00-39",
+  "date": "2005-05-17",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Madam Registrar, would you please call the case."
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good afternoon, Your Honours. This is case number IT-00-39-T, the Prosecutor versus Momcilo Krajisnik."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Madam Registrar. Good afternoon to everyone as well. Is the Prosecution ready to call its next witness?"
+    },
+    {
+      "id": 4,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good afternoon, Your Honours. Yes, we are."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No protective measures?"
+    },
+    {
+      "id": 6,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No protective measures."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your next witness will be ..."
+    },
+    {
+      "id": 8,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "General John Wilson."
+    },
+    {
+      "id": 9,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. Madam Usher."
+    },
+    {
+      "id": 10,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good afternoon, Mr. Wilson. Before you give evidence in this court, the Rules of Procedure and Evidence require you to make a solemn declaration that you'll speak the truth, the whole truth, and nothing but the truth. May I invite you to make that declaration of which the text is now handed out to you by Madam Usher."
+    },
+    {
+      "id": 11,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Your Honour. I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 12,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much. Please be seated."
+    },
+    {
+      "id": 13,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Harmon."
+    },
+    {
+      "id": 14,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 15,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Good afternoon, General Wilson.",
+      "examination": "direct"
+    },
+    {
+      "id": 16,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Good afternoon, Counsel.",
+      "reply_to": 15
+    },
+    {
+      "id": 17,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I am going to ask you a number of questions, General Wilson, throughout this afternoon and because we speak the same language, I'm going to ask you to pause after I ask the question, because my question has to be interpreted. And if you answer too quickly, the interpretation will get overrun and it will be quite confusing. So if you could bear that in mind. I know it's difficult, but I will ask you to do so.",
+      "examination": "direct"
+    },
+    {
+      "id": 18,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Thank you. I will.",
+      "reply_to": 17
+    },
+    {
+      "id": 19,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, I'd like to start by summarising your background, and I'm going to read from a document that I have prepared, and I'm not going to ask you to answer until -- when I do, I'm going to ask you to merely affirm what I have said is correct.",
+      "examination": "direct"
+    },
+    {
+      "id": 20,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I understand.",
+      "reply_to": 19
+    },
+    {
+      "id": 21,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, you were born on the 25th of March, 1947. You were a career military officer in the Australian Armed Forces. You attended the Royal Military College from 1964 to 1967, and upon graduation you were commissioned as a lieutenant in the infantry corps. In 1968, you deployed to Malaysia. You were an infantry platoon commander in that country. In 1970, you deployed to Vietnam, and during the first six months you were second-in-command of a company, and during the latter part of your tour, six months, you were the ADC, the aide-de-camp, to the commander of Australian forces in Vietnam. In 1976, you were a company commander, and prior to your secondment to the United Nations in 1984, you were engaged for a period of approximately six years in the selection, training, and assessment of individuals who were officer candidates for the Australia Army. In 1984, you were seconded to the United Nations to serve in UNTSO, and that is U-N-T-S-O, the United Nations truth supervision organisation, in Lebanon, where you served as the chief of the observer group in Lebanon. You held the rank of lieutenant colonel and you commanded a battalion in that capacity. In mid-1990, you were again seconded to the United Nations and you returned to Jerusalem, where you were Deputy Chief of Staff of UNTSO. You held the rank of Colonel at that time. While you were there, the Gulf War occurred and the Syrian invasion of Lebanon occurred, during which time you were involved in mounting a number of UN missions. Now, do you affirm that to be accurate?",
+      "examination": "direct"
+    },
+    {
+      "id": 22,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There are two minor corrections, if I can.",
+      "reply_to": 21
+    },
+    {
+      "id": 23,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes, please.",
+      "examination": "direct"
+    },
+    {
+      "id": 24,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Firstly, I was a company commander in 1975.",
+      "reply_to": 23
+    },
+    {
+      "id": 25,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I see.",
+      "examination": "direct"
+    },
+    {
+      "id": 26,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Secondly, my time in Lebanon was the equivalent a battalion command, not an actual battalion command.",
+      "reply_to": 25
+    },
+    {
+      "id": 27,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "All right.",
+      "examination": "direct"
+    },
+    {
+      "id": 28,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There were about 120 United Nations military observers under my command.",
+      "reply_to": 27
+    },
+    {
+      "id": 29,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "All right. Thank you very much, General Wilson. Let me -- let me continue. In January of 1992, you were seconded to the -- by the United Nations to the former Yugoslavia on a temporary mission. On the 14th of January, 1992, you were deployed as a senior military liaison officer for UNMLO-Y, and let me tell the Court what that acronym means, it's the United Nations Military Liaison Officers Yugoslavia mission, where your tasks were to establish UN liaison with both sides of the Croatian/JNA conflict. During February of 1992, you were involved in negotiations along with Marek Goulding, the Undersecretary General for peacekeeping operations regarding the deployment of the UNPROFOR force to the former Yugoslavia. In those negotiations, you attended meetings with Mr. Goulding with Slobodan Milosevic, Franjo Tudjman, Gojko Susak, Mr. Cozic, and Mr. Babic among others. In mid-March 1992, UNPROFOR deployed to Belgrade. This deployment ended the UNMLO-Y mission and a new organization, the United Nations Military Observers, or UNMOs, were introduced into the former Yugoslavia as a subordinate part of UNPROFOR. You were appointed chief of the United Nations Military Observers for UNPROFOR. Do you affirm what I have just read?",
+      "examination": "direct"
+    },
+    {
+      "id": 30,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's accurate and correct. Thank you.",
+      "reply_to": 29
+    },
+    {
+      "id": 31,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On March 22nd, 1992, you were deployed to Sarajevo to establish a headquarters for UNPROFOR and you did so. The UNPROFOR mission was relocated from Sarajevo to Belgrade on the 16th and 17th of May, 1992 due to heavy shelling of the city; however, you remained in Sarajevo until the 24th of June, 1992 along with seven UNMOs and a 70-man French protection party. During this period of time, your mandate was to, one, maintain UN presence in Sarajevo; two, secure UN property; and, three, lend your good offices to the parties. In the latter capacity, you participated in May and June 1992 respectfully in negotiations for the withdrawal of the JNA from barracks located in Sarajevo and in negotiations to open the Sarajevo airport. On the 24th of June, 1994 you relocated to Belgrade along with your UNMO headquarters, and you departed your post in December of 1992. You were also involved, during the period of time you were in the former Yugoslavia, in other negotiations. You participated, for example, in negotiations over the withdrawal of the JNA from Dubrovnik, and in October you were given the task of negotiating the implementation of the no-fly zone over Bosnia and Herzegovina. Is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 32,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct, sir.",
+      "reply_to": 31
+    },
+    {
+      "id": 33,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In September of 1992, you were promoted to the rank of brigadier general. In December of 1992, you were deployed to the international conference on the former Yugoslavia, also known as ICFY or ICFY, to act as the military advisor to Mr. Cyrus Vance and also as the UNPROFOR liaison officer to the conference, and you remained there until December of 1993. During this period of time, you were closely involved in the negotiations conducted by the co-chairmen, Cyrus Vance and Lord Owen, and later with Ambassador Stoltenberg. Is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 34,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 33
+    },
+    {
+      "id": 35,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, for your service in the former Yugoslavia and in the Middle East, the Australian government awarded you the conspicuous service cross. Between 1994 and 1996, you served as the commander of the Australian joint services college, which is a senior leadership college for Australian military personnel. In 1997, you served as a brigade commander, a brigade comprised of approximately 5.000 men, and you were the area commander for the area of Sydney, Australia. And in January of 1998 you retired from the Australian military; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 36,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 35
+    },
+    {
+      "id": 37,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, we'll get to your testimony. General Wilson, let me go back to January 14th of 1992 when you were deployed as the senior military liaison officer for the UNMLO-Y mission. Could you inform the Judges what your duties and responsibilities were in that capacity.",
+      "examination": "direct"
+    },
+    {
+      "id": 38,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The -- the 50 officers whom I led were not actually designated as a formal mission, but we were given a task by the secretary-general to establish liaison on both sides of the line of confrontation in -- in Croatia and to facilitate communications between the two parties. Essentially, we were collocated with the ECMM mission, so there were -- there was some redundancy between the mission of the two organisations. We reported back to UN New York on violations of the cease-fire, which Mr. Cyrus Vance had negotiated on the 2nd of January. There were between two and three hundred violations on any given day, some of them minor, individual sniper fire, in some cases hundreds of rounds of artillery being fired into urban areas.",
+      "reply_to": 37
+    },
+    {
+      "id": 39,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, if we could distribute to the Judges the exhibit that has been previously exhibited as Prosecution Exhibit 121, and if the witness could also be given a copy of that exhibit. It could be placed on the ELMO for the witness.",
+      "examination": "direct"
+    },
+    {
+      "id": 40,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This is an exhibit for the record, Your Honour, that was previously exhibited through the testimony of Mr. Kirudja. And I bring this to Your Honours' attention only to refresh everybody's recollection."
+    },
+    {
+      "id": 41,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, your mission as -- in respect of what you were monitoring dealt with Croatia; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 42,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct. We had no responsibility whatsoever for any activity in Bosnia-Herzegovina at that time.",
+      "reply_to": 41
+    },
+    {
+      "id": 43,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Using the pointer that's in front of you, could you just point out on the exhibit that is on the ELMO the areas where your military liaison officers were located.",
+      "examination": "direct"
+    },
+    {
+      "id": 44,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We had approximately 50 military observers, and about 40 of them were actually deployed out in the lines of confrontation. Firstly along -- or in the area of Sector East, I think they're actually located physically somewhere near the Danube River. We also had some military -- some people located in what became known as Sector West, also throughout the Krajina. Essentially, there were six liaison teams located on each side, a total of 12 teams. They -- they reported back to two headquarters, one located in Zagreb, one located in Belgrade, and I spent my time equally between the two headquarters, as was mandated by UN New York.",
+      "reply_to": 43
+    },
+    {
+      "id": 45,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, at the time this mission was implemented, am I correct that the conflict in Croatia had essentially become static; it had by a large measure resolved into areas where there were protection -- UN protection areas. Is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 46,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, you're talking about when we arrived there. There was actually a line of confrontation which was roughly reflected by this -- this line on the map which became the boundaries of the UNPAs, but the -- the Croat forces and the JNA and -- and the Serb forces of the Krajina were in static defensive positions lined up against each other. They were conducting harassing operations against each other and there were, as I said, between two and three hundred violations a day. Back from the confrontation area, there was some normalcy in life in that people did go about farming, for example, in the Krajina, although the effects of ethnic cleansing were potently obvious. And, in fact, those activities continued during the time that we were, and indeed well into the time that UNPROFOR was there.",
+      "reply_to": 45
+    },
+    {
+      "id": 47,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What sort of damage did you and your military observers see in the areas where you were located?",
+      "examination": "direct"
+    },
+    {
+      "id": 48,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Our teams, as accurately said, were deployed behind the confrontation line. They were not actually on the confrontation line, they were deployed at what the -- to a place called corps headquarters. But it was incidental travel in getting to visit them that you were able to see what had happened in those areas. Certainly where is there had been conflict there was significant damage. But even within villages where there was no apparent reason for damage you could see that buildings had been damaged by fire and by explosive activity.",
+      "reply_to": 47
+    },
+    {
+      "id": 49,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What had happened to the civilian population?",
+      "examination": "direct"
+    },
+    {
+      "id": 50,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, very few people actually seemed to be on the ground at the time, given the number of houses in the village, there were very few residents there. I was told that most of these people remaining there were Serbs, although there were people of other nationalities who continued to reside in those areas for some months.",
+      "reply_to": 49
+    },
+    {
+      "id": 51,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, may I just make a small observation that when the witness -- we have this from time to time. When the witness refers to a line on the map which he points to, it subsequently is incomprehensible to anybody reading. So I wonder whether for the transcript some specificity as to the line on the map could be introduced into the evidence so that at a later date all concerned can -- can follow it."
+    },
+    {
+      "id": 52,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. This is a good suggestion. I think the witness referred to the blue line on the map."
+    },
+    {
+      "id": 53,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. He's also referred to Sector East, which is located and identified on the map specifically, and to Sector West, which is identified specifically on the map. So I can more precise, but I think in this case it speaks for itself."
+    },
+    {
+      "id": 54,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, I was thinking of line 11 where there's just Blank page inserted to ensure pagination corresponds between the French and English transcripts. a reference to this line on the map. It's just --"
+    },
+    {
+      "id": 55,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The blue line, yes."
+    },
+    {
+      "id": 56,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, I'm sorry, it didn't say blue line on my transcript."
+    },
+    {
+      "id": 57,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, I said it was the blue line. Yes."
+    },
+    {
+      "id": 58,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Oh, I beg your pardon. Yes, thank you, Your Honour. I see."
+    },
+    {
+      "id": 59,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, let's proceed."
+    },
+    {
+      "id": 60,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, in discussions with Croatian liaison officers, did they offer any prognostications about what a future conflict in Bosnia would be like?",
+      "examination": "direct"
+    },
+    {
+      "id": 61,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, for -- for -- in an unprompted conversation, they pointed out that should the conflict spread from Croatia to Bosnia-Herzegovina, it will be far more serious and have much more impact than had been the case in -- in Croatia. This surprised me at the time because I was unaware that there was any likelihood of the conflict spreading; and secondly, the -- the effects in Croatia seemed to be dramatic enough anyway. So I found it hard, at the time, to believe it could be worse.",
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you had this conversation, with whom did you have this conversation?",
+      "examination": "direct"
+    },
+    {
+      "id": 63,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There were two Croat one-star officers who were members of the liaison office in Zagreb who were appointed to liaise with the UN forces at that time. Their names, I can't recall.",
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you have a similar conversation with the JNA corps commander from Banja Luka?",
+      "examination": "direct"
+    },
+    {
+      "id": 65,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I did. Sometime during February - the exact date, I don't know - I visited the -- the corps commander actually in his forward headquarters on the Sava River just at the southern end of Sector West. We had a conversation about the role of UNMLO-Y and what we were doing. But as an aside, I indicated to him that I had heard rumours that the JNA was disarming non-Serb people in Bosnia-Herzegovina. He acknowledged the fact this had been taking place, that it was, in fact, renegade elements that he was disarming. And he also expressed concern that if conflict were to break out in Bosnia-Herzegovina, it would be a very serious matter.",
+      "reply_to": 64
+    },
+    {
+      "id": 66,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If we could take Prosecution Exhibit 527, which is the book of maps. And if it could be opened to page 2, and if page 2 could be placed on the ELMO.",
+      "examination": "direct"
+    },
+    {
+      "id": 67,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Can you move that down just a bit so we can see the northern part of -- thank you. That's fine."
+    },
+    {
+      "id": 68,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, you said you had a conversation with a JNA commander from the Banja Luka -- from Banja Luka, and the issue of disarming the non-Serbs came up. Using the map in front of you and the pointer, can you point to the area that he was discussing when he was referring to disarming of the non-Serb population?",
+      "examination": "direct"
+    },
+    {
+      "id": 69,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I -- I didn't, at that time or today, in fact, know the exact area of responsibility for that JNA corps, but in -- in our dealings with him and in regard to this conversation, I assumed he was talking about this area of Northern Bosnia-Herzegovina from really the -- what was the Bihac pocket in the west right across to Bijeljina in the east, and in an area down about as far as Banja Luka. I assumed that that was his area of responsibility and that's what we were discussing.",
+      "reply_to": 68
+    },
+    {
+      "id": 70,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, did he say why he was conducting -- why the JNA was engaged in disarming activities? Could you expand on that a little bit?",
+      "examination": "direct"
+    },
+    {
+      "id": 71,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, he -- firstly, I'd heard about these reports that the JNA were disarming Serb -- non-Serb people from the Croat liaison officers, from general media reports which we would receive and we would have translated, from general contact with the population in Croatia, with people who had relatives living in -- in Northern Bosnia-Herzegovina. So I -- I raised it as a -- a topic of conversation that I was not necessarily directly responsible for, given that we didn't have a mission in Bosnia- Herzegovina, but I was just happening to express to the corps commander that we were aware on an official basis that there were some unusual activities taking place and I hoped that he would take note of that. He indicated that yes, he was disarming people and he described them as \"renegade elements.\"",
+      "reply_to": 70
+    },
+    {
+      "id": 72,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, I may have asked you or you may have answered, but can you tell the Court approximately when conversations took place, roughly.",
+      "examination": "direct"
+    },
+    {
+      "id": 73,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Roughly, I believe February of 1992.",
+      "reply_to": 72
+    },
+    {
+      "id": 74,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you raise the issue with him of the JNA arming the Serb population in Bosnia?",
+      "examination": "direct"
+    },
+    {
+      "id": 75,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think this was part of the same conversation, that I at least implied to him that one element was being disarmed and the others were -- were being armed. I can't recall his reply in that regard.",
+      "reply_to": 74
+    },
+    {
+      "id": 76,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In respect of the information that was available to you about the JNA arming the Serb population, had you received such reports?",
+      "examination": "direct"
+    },
+    {
+      "id": 77,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "As I indicated before, we were prompted in this belief by comments by the Croat liaison officers, by general media reports, by casual comments from civilian population, by dealings of UN officials with members of the population.",
+      "reply_to": 76
+    },
+    {
+      "id": 78,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, General Wilson, based on the information that you were receiving about the situation in Bosnia, did you recommend deployment of UNMOs, United Nations Military Observers, to Northern Bosnia and to other areas, tense areas in Bosnia-Herzegovina?",
+      "examination": "direct"
+    },
+    {
+      "id": 79,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There's a preamble to that, in that once UNPROFOR was established, the military observers were the only element of UNPROFOR which actually had a mission in Bosnia-Herzegovina. The headquarters of UNPROFOR was to be located in Sarajevo and there were to be some military observers deployed in the Bihac and Mostar areas to monitor what was foreseen in December of 1991 as areas of ethnic tension and conflict. By mid-March, when UNPROFOR was deployed, it was apparent that there was considerable ethnic tension in that northern area of Bosnia-Herzegovina. I made a recommendation to the force commander in writing that we should change the deployment of the military observers by taking some out of the -- the Bihac deployment and deploying them in a series of teams across the north of Bosnia-Herzegovina where they could monitor activity. That -- that request or that proposal was not agreed. So we went forward later during April with a deployment of observers to Bihac and also to Mostar.",
+      "reply_to": 78
+    },
+    {
+      "id": 80,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Let me change the topic and turn your attention to communications and the types of information that were available to you. Let me ask you, then, focussing on that, General Wilson, in order to fulfill the UN mission in the former Yugoslavia, was it essential for you and others who were leading these operations to be fully informed about developments on the ground?",
+      "examination": "direct"
+    },
+    {
+      "id": 81,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. In any peacekeeping or indeed military operation, military information is essential so that commands can make informed decisions, anticipate events, and use the limited resources that are usually available to the maximum efficiency. And the way of doing that is by collecting as much information as you can in the military environment, it's called \"intelligence.\" In the UN it's called \"military information.\" And it is a very important function. I would say something that UNPROFOR in its early days was not very good at, but UNMLO-Y, the first mission I tried very hard to -- to acquire this type of information.",
+      "reply_to": 80
+    },
+    {
+      "id": 82,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Okay. Can you describe to the Trial Chamber the sources of information that you received and accepted.",
+      "examination": "direct"
+    },
+    {
+      "id": 83,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There are routine reports submitted by all -- all military units up through the chain of command. They're usually done on a daily basis, or if there's an important incident, it would be reported directly. There are visit reports from people travelling. There are specific missions that are set for people to go out and find out information about -- that could be about geography, routes, infrastructure, or to go and meet and deal with some difficult local warlord. We also monitor the press, both international and local, very closely to glean what information could come out of that. There's a lot of interagency exchange of communication, UNHCR, ECMM, the various humanitarian organisations. In some cases there was a formal exchange of information with people attending daily weekly or monthly meets. In other cases there was an information exchange of information. The parties are also very keen to tell you what the other side was up to. You had to take that, perhaps, with a grain of salt, but there was -- there was a lot of valuable information that used to come out of that.",
+      "reply_to": 82
+    },
+    {
+      "id": 84,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How was it --",
+      "examination": "direct"
+    },
+    {
+      "id": 85,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's it for the most part.",
+      "reply_to": 84
+    },
+    {
+      "id": 86,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How was it, General Wilson, that that massive information was then analysed and determined to be reliable?",
+      "examination": "direct"
+    },
+    {
+      "id": 87,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, UNPROFOR headquarters, and indeed UNMLO-Y, had a section within the headquarters, military intelligence, which used to process that information. Your Honour?",
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I notice, Mr. Harmon, that the French translation is a couple of lines behind."
+    },
+    {
+      "id": 89,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay."
+    },
+    {
+      "id": 90,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "So we should slow down."
+    },
+    {
+      "id": 91,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 92,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And let me first -- let them first finish the translation and then perhaps proceed in a bit slower speed."
+    },
+    {
+      "id": 93,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, I will turn to the -- if I can be informed as to what the French channel is, I will listen to the French channel. Is -- is it 3? Number 3? Number 5."
+    },
+    {
+      "id": 94,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It's number 5."
+    },
+    {
+      "id": 95,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "All right."
+    },
+    {
+      "id": 96,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, I'm going to be listening to the French channel, and there will be longer pauses between my questions and your answers, so I'm going to ask you to pause a little bit.",
+      "examination": "direct"
+    },
+    {
+      "id": 97,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'll try and speak a little more slowly.",
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, in the course of the information that you were receiving, did you receive reports about ethnic cleansing in Bosnia and Herzegovina by -- committed by the Serb forces?",
+      "examination": "direct"
+    },
+    {
+      "id": 99,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. Yes, we did.",
+      "reply_to": 98
+    },
+    {
+      "id": 100,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And are you familiar with the term \"ethnic cleansing\"?",
+      "examination": "direct"
+    },
+    {
+      "id": 101,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I am.",
+      "reply_to": 100
+    },
+    {
+      "id": 102,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What do you understand -- what do you understand the term to mean and did you understand in 1992 that term to mean?",
+      "examination": "direct"
+    },
+    {
+      "id": 103,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I understand it to mean the forcible movement of a population out of an area, either with the threat of violence or actual violence.",
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you tell the Court when you first received such reports and the areas where that ethnic cleansing was reported to have taken place. If you will wait -- I will give you a signal.",
+      "examination": "direct"
+    },
+    {
+      "id": 105,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It's difficult to be precise about the date, but I would estimate it was late March, certainly through April of 1992. And the particular areas that were referred to mainly in the media, but also from the ECMM, referred to the area around Bijeljina and the Drina Valley.",
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "According to the information that -- reports that you received, who were the victim groups affected by the ethnic cleansing? And if you'd just wait one moment, General.",
+      "examination": "direct"
+    },
+    {
+      "id": 107,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "My understanding of the reports was that it was non-Serb elements of the population that were being evicted from these areas.",
+      "reply_to": 106
+    },
+    {
+      "id": 108,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "According to the reports you were receiving, which ethnic group was responsible for conducting the ethnic cleansing?",
+      "examination": "direct"
+    },
+    {
+      "id": 109,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Serbs.",
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you personally travel to Bijeljina and did you observe -- make observations in that area?",
+      "examination": "direct"
+    },
+    {
+      "id": 111,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I certainly travelled through Bijeljina in March, where I didn't particularly note any -- any disturbance there, but I travelled through there on the 13th of May and was quite -- it was quite clear there had been significant damage from fighting to -- to the village.",
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In these early reports, did you receive information about the involvement of particular groups in the ethnic cleansing?",
+      "examination": "direct"
+    },
+    {
+      "id": 113,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It had been reported to me, I think most likely by personal contact with media, that these activities had been conducted by militia groups with the assistance of the JNA who would provide security, perimeter security while the militias would enter the village, carry out some sort of activity which would intimidate the population and induce them to leave.",
+      "reply_to": 112
+    },
+    {
+      "id": 114,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were any of these militia groups identified by a name?",
+      "examination": "direct"
+    },
+    {
+      "id": 115,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Two were mentioned. The first one being Arkan and the second being the White Eagles. Both of these groups were also active in what later became known as the UNPAs.",
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you ever personally observe any members of such militia groups?",
+      "examination": "direct"
+    },
+    {
+      "id": 117,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "During, I think, February I observed some members of the Arkan organisation in Knin. These were well-dressed, very cleanly presented, almost military-like, looked to be well-disciplined, and were accepted by the local population. They were not -- they didn't stand out as being out of place.",
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If we could move to the next exhibit, General Wilson. And this is an exhibit which is a new exhibit. It is a final report on -- entitled, \"Final report on tour with UNPROFOR, Brigadier J.B. Wilson.\" It is dated the 15th of November, 1992. General Wilson, do you recognise this report and can you tell the Trial Chamber what it is precisely.",
+      "examination": "direct"
+    },
+    {
+      "id": 119,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. At the completion of my tour with UNPROFOR, I was required to submit two reports: One to the United Nations with a summary of my experience and recommendations on, perhaps, corrective action or future -- better ways of doing things. The second was a report to my national authorities, reporting on my activity for the previous 12 months. This report is directed to my immediate superior in Australia. He was a man who was familiar with the activities in Bosnia -- in the former Yugoslavia, and he was somebody who knew me personally.",
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I'd like to, first of all, get an exhibit number for this, because I was a little precipitous in proceeding without a number."
+    },
+    {
+      "id": 121,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This will be Prosecution Exhibit number P720."
+    },
+    {
+      "id": 122,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, I would like to direct your attention to two paragraphs, paragraphs 6 and 7. Paragraph 6, there is a -- a long Blank page inserted to ensure pagination corresponds between the French and English transcripts. paragraph and a description of particular aspects of the operation in -- operation. Can you tell me, does this paragraph 6 apply to Croatia, does it apply to Bosnia-Herzegovina, or does it apply to both?",
+      "examination": "direct"
+    },
+    {
+      "id": 123,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, may I observe here that there is no translation apparently yet of this particular item. So I believe Mr. Harmon is obviously aware of that, but it would be necessary, therefore, to go at a suitable pace and to incorporate such material in the questions as to properly enable Mr. Krajisnik to follow the matter."
+    },
+    {
+      "id": 124,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I'm happy to read paragraph 6 slowly into the record, Your Honour."
+    },
+    {
+      "id": 125,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 126,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And then ask the question."
+    },
+    {
+      "id": 127,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Will you provide us with a B/C/S translation or --"
+    },
+    {
+      "id": 128,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We've requested a B/C/S translation. I will try to get it on an expedited basis, but it wasn't available."
+    },
+    {
+      "id": 129,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 130,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "So I'm happy to read --"
+    },
+    {
+      "id": 131,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Then would you please read it slowly."
+    },
+    {
+      "id": 132,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 133,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, I'm going to read paragraph 6. For purposes of the record, I will read it very slowly and then I will ask you a question, but I will wait for -- before I ask you the question, I'll wait for the translation to be completed. Paragraph 6, under the caption: \"Operational situation.\" \"Full analysis of the UNPROFOR operational situation exceeds the scope of this report. It is a complicated and dynamic situation. The Vance plan for the demilitarisation of areas of Croatia formerly occupied by the Yugoslav People's Army (JNA) was stalled from June 1992. Various militias emerged on the JNA withdrawal under the guise of 'police' forces. \"Some 16.000 'police' exist in the four UNPROFOR sectors in an area which, before the war, had a maximum of perhaps 2.000. Their heavy weapons (tanks, artillery, et cetera) have been placed in store under 'double lock,' but they remain well equipped with small arms. Despite the presence of the Serb 'police,' and 11 UNPROFOR battalions, there has been a total collapse of law and order. Ethnic cleansing, and all associated with it, continues and is, for the most part, conducted by 'police' forces. \"The court system is unable or unwilling to prosecute cases of murder, et cetera, which are fully documented by UN police monitors (UNCIVPOL). The political leadership is clearly responsive to directives from Belgrade and actively opposes UNPROFOR's attempts to fulfil its mandate. Further, UNPROFOR attempts to fully disarm the militias have been unsuccessful.\" Now, General Wilson, does that paragraph apply to Croatia or to Bosnia or to both?",
+      "examination": "direct"
+    },
+    {
+      "id": 134,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It applies solely to the UNPA areas.",
+      "reply_to": 133
+    },
+    {
+      "id": 135,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The areas located in Croatia, then.",
+      "examination": "direct"
+    },
+    {
+      "id": 136,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Indeed. It refers to Croatia.",
+      "reply_to": 135
+    },
+    {
+      "id": 137,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, I'd like to turn your attention to paragraph 7 of your final report, and let me read it slowly into the record and then I will ask you some questions. \"The situation in Bosnia and Herzegovina (BH) continues to deteriorate. There are appalling violations of human rights by all parties but, in particular, by Serb forces. Large-scale conventional military operations continue with a view to securing an ethnic division of the Republic. UN forces deployed in Sarajevo are subjected to regular fire by all parties, and casualties are a daily event. The 6.000 UN troops deployed in BH in early November, with a task of escorting UNHCR convoys, will soon be directed to assume additional tasks and it is suspected this will not be the last deployment of troops into BH. Despite the best efforts of UNHCR, it will be a hard winter in BH with up to 100.000 deaths amongst the civilian population being predicted.\" General Wilson, let me focus your attention on the second sentence in paragraph 7, dealing with \"appalling violations of human rights by all parties but, in particular, by Serb forces.\" When you wrote that, what were you referring to in terms of \"appalling violations of human rights\"?",
+      "examination": "direct"
+    },
+    {
+      "id": 138,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Can I say first of all or emphasise that this report is a -- a concise synopsis of 12 months of operational activity written to a man who has a -- a fairly good understanding of what's been happening in Bosnia- Herzegovina and, indeed, the former Yugoslavia for the past 12 months. But in -- in the second sentence, I'm really referring to the fact that there had been extensive ethnic cleansing, that there was ample evidence by November of 1992 that large segments of the population of Bosnia- Herzegovina had been moved out of their -- their resident areas. In many cases, this had been done with quite brutal force. There had been indiscriminate use of force against urban areas and against civilian population in gross violation of the Geneva Conventions. There was substantial damage to the infrastructure, many refugees, and it appeared that in many cases military operations were conducted without any regard whatsoever for the civilian population. In this sentence, I'm trying to summarise the fact that all three parties in the conflict were guilty of excesses, but there's particularly strong evidence in that time -- at that time that the Serb forces had carried out systematic and sustained operations, which had resulted in significant violations against the civilian population. There was also, by that time, some suggestion of mistreatment of prisoners of war. I think that summarises, Counsel, what I was implying.",
+      "reply_to": 137
+    },
+    {
+      "id": 139,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you very much, General Wilson. Let me turn to the next sentence: \"Large-scale conventional military operations continue with a view to securing an ethnic division of the Republic.\" When you drafted that sentence, whose military operations were you referring to?",
+      "examination": "direct"
+    },
+    {
+      "id": 140,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The military operations I am referring to are -- indeed cover the three parties. By \"large scale\" I mean that the confrontation line was some 5.000 kilometres long, and there must have been the best part of a half a million soldiers involved in all three sides. The actual process of directing, controlling, and sustaining operations of that level can only be described as \"large.\" I'm referring to trying to secure an ethnic division. I'm really referring to actions by Croatian and Serb forces to carve out ethnically pure areas within that territory of the former Yugoslavia -- of Bosnia-Herzegovina.",
+      "reply_to": 139
+    },
+    {
+      "id": 141,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And let me then -- when you said earlier you're referring to \"large-scale conventional military operations continue with a view to securing an ethnic division of Bosnia,\" I'm sorry, \"a division of the Republic,\" your answer, in part, was \"I'm referring to all parties.\" Did this -- your evidence also apply to the Muslim -- the Bosnian government authorities? Were they, in your view, seeking a -- an ethnic division on the ground?",
+      "examination": "direct"
+    },
+    {
+      "id": 142,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I'm not referring, in fact, to the Muslims in that case because their stated political position was quite clear, to retain a fully integrated ethnically intertwined Bosnia-Herzegovina. That was clear at that time in 1992 and subsequently all through 1993 during the peace negotiations in Geneva.",
+      "reply_to": 141
+    },
+    {
+      "id": 143,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, when you drafted this succinct conclusion, was this based, in part, on your personal observations, your contacts with leaders from the respective parties? Was it based on reports that you had received from responsible third parties? What was it based on?",
+      "examination": "direct"
+    },
+    {
+      "id": 144,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was based on all of those elements. My observations from almost 12 months in UNPROFOR, my personal contacts with the political leadership at the highest level. There had been many statements from responsible Serb authorities, both military and political, that it was their aim to carve out a republic for the Serb people within Bosnia- Herzegovina; that they couldn't live with the other nationalities any longer; that the Serb people had to be protected from the aggressiveness of the Muslims, or the Turks, as they were called; and that there was no future for a united Bosnia-Herzegovina but there was a need to establish a Serb independent republic.",
+      "reply_to": 143
+    },
+    {
+      "id": 145,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Okay. Let me -- General Wilson, let me turn to a different topic. You remained in Sarajevo from the 22nd of March until the 30th of April, when you left the theatre for two weeks for personal business. And you returned on, I believe, the 13th of May, 1992; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 146,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 145
+    },
+    {
+      "id": 147,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you describe to the Chamber the situation in Sarajevo when you returned, and incorporate in your answer, if you would, the manner in which you returned.",
+      "examination": "direct"
+    },
+    {
+      "id": 148,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On the 13th of May, I travelled from Belgrade to Sarajevo by the -- by road down through Bijeljina, Tuzla, in the most direct route to Sarajevo. When we arrived in Sarajevo, it was clear that there was an exchange of small arms fire going on within the city and it was necessary for us to negotiate our entry into the city through a Serb checkpoint. The security situation in Sarajevo in the two weeks that I'd been gone had significantly deteriorated. When I returned to the UNPROFOR headquarters, I was briefed on the activities for the time I was away. The major event which had taken place had been the evacuation of the JNA headquarters, the ambushing of the evacuating convoy, and the kidnapping of President Izetbegovic. These events seemed to have markedly affected the security situation in Sarajevo.",
+      "reply_to": 147
+    },
+    {
+      "id": 149,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you describe the events on the following day, the 14th of May, 1992, in Sarajevo.",
+      "examination": "direct"
+    },
+    {
+      "id": 150,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On the 14th of May, very early in the morning, significant hostilities broke out certainly in the immediate area of Dobrinja where I was living in a civilian apartment. But from what I could observe generally in the area of -- in all areas of Sarajevo. I was able to observe in my immediate vicinity infantry assaults, heavy artillery attacks, and employment of armoured forces. In my assessment, something in the order of 5 to 10 thousand rounds of artillery would have been fired into the city on that day. It was impossible to leave the building which I was in, and we were forced to remain very quiet and keep a low profile during the day.",
+      "reply_to": 149
+    },
+    {
+      "id": 151,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, you describe a very large volume of artillery shells being fired. Can you inform the Trial Chamber what heavy arms were available to the Serbs in and around Sarajevo on the 14th of May, 1992, what types of weapons.",
+      "examination": "direct"
+    },
+    {
+      "id": 152,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "From the effect of fire on the ground, they certainly had artillery of 122-millimetre calibre, mortars of 160-millimetre, mortars of 82-millimetre, tank and anti-aircraft weaponry used in a ground role.",
+      "reply_to": 151
+    },
+    {
+      "id": 153,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you describe the type of heavy arms that were available to the government Bosnian forces in Sarajevo on that day, to your knowledge.",
+      "examination": "direct"
+    },
+    {
+      "id": 154,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "From what I observed, the Bosnian Presidency forces were armed only with small arms. I subsequently learned that they did have a small number of primarily mortars, virtually no artillery, and just a few tanks. They were, essentially, a lightly armed force facing a very well-armed sieging force.",
+      "reply_to": 153
+    },
+    {
+      "id": 155,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, the -- were you able to determine the -- who was firing the artillery -- the majority of the artillery shells that were coming into Sarajevo?",
+      "examination": "direct"
+    },
+    {
+      "id": 156,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I was not actually able to observe the firing positions, but it was known at that time that the city was surrounded by Serb forces and by at least some remaining elements of the JNA. It's very hard to say when all elements of the JNA completed their withdrawal from the area, but from the sophistication of the operations that were conducted at that time, I suspect the JNA retained some presence in the area until at least the evacuation of the last of the JNA barracks from Sarajevo.",
+      "reply_to": 155
+    },
+    {
+      "id": 157,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you form an opinion, General Wilson, as to the shelling of Sarajevo on the 14th and in the days that immediately followed as to its -- as to the volume of shells, as to the targets that were used? What conclusions did you reach?",
+      "examination": "direct"
+    },
+    {
+      "id": 158,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I would describe the use of artillery as extensive, indiscriminate, and disproportionate. I've been involved in conventional military operations as a soldier, and I had never seen such weight of fire used, in particular, not against civilian targets. In many cases there seemed to be no military value in the targets that were selected during that time of May through June of 1992.",
+      "reply_to": 157
+    },
+    {
+      "id": 159,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The result of the shelling, what -- the result of the shellings of, artillery shelling, that occurred on the 14th of May, 1992 in Sarajevo, what actions did UNPROFOR take?",
+      "examination": "direct"
+    },
+    {
+      "id": 160,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think there had been a decision prior to that date to relocate the headquarters away from Sarajevo because it was operationally impractical to continue their presence there. So on the 16th and 17th of May, when UNPROFOR staff were able to leave their accommodation safely around the fighting, the headquarters was evacuated to Belgrade. And as indicated in your introduction to -- of me, I remained behind with a force of about 80 UNPROFOR people to maintain a presence in Sarajevo.",
+      "reply_to": 159
+    },
+    {
+      "id": 161,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And I had earlier indicated that part of your mission in Sarajevo was to lend the UN's good offices to assist the parties; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 162,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 161
+    },
+    {
+      "id": 163,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, I'd like to turn to two incidents when you lent the good offices of the United Nations to assist the parties, and the first was the evacuation of JNA barracks in Sarajevo. Can you describe to the Chamber how many JNA barracks there were, what their state was in May and June of 1992, and what the negotiations generally were about.",
+      "examination": "direct"
+    },
+    {
+      "id": 164,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There were three JNA barracks within the confines of the city at that time. One was Marsal Tito Barracks, the other became known as Bear Camp, and the third one, which was indeed the first one to be evacuated, I've forgotten the name but it was located near Hrazna [phoen]. The three barracks contained not a lot of fighting troops, is my understanding. There were a lot of cadets, there were families, and there was a large amount of equipment within those barracks. The barracks were surrounded by the Bosnian Presidency forces, and there was regular sniping and exchange of fire in the immediate area of those barracks. I believe that essential services had been cut by the Presidency forces so that no electricity or water was going into those barracks, and the JNA described their circumstances there as \"very uncomfortable.\"",
+      "reply_to": 163
+    },
+    {
+      "id": 165,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, when did these negotiations take place, Blank page inserted to ensure pagination corresponds between the French and English transcripts. approximately?",
+      "examination": "direct"
+    },
+    {
+      "id": 166,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The negotiations took place approximately from mid-May until about the 2nd or 3rd of June. They were led by a Finnish UN officer, a Colonel Hougland, H-o-u-g-l-a-n-d. He facilitated the discussion between the parties, and I occasionally attended those meetings to see what was going on. My primary interface with the meetings was when a plan for evacuation was agreed, that I made sure that it was a workable plan and gave it my final approval.",
+      "reply_to": 165
+    },
+    {
+      "id": 167,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you identify for the Trial Chamber the parties to these negotiations, starting with the Bosnian Serbs and then going to the JNA and then going to the Bosnian government forces.",
+      "examination": "direct"
+    },
+    {
+      "id": 168,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, the JNA were represented by a -- a JNA general. I think his name was Boskovic. He was an Air Force officer, I think, with an intelligence background. He was assisted by the JNA United Nations liaison officer, a Colonel Kadja [phoen], I think it's pronounced. For the evacuation of the Marsal Tito Barracks, which was quite a large operation, General Panic, the commander of the JNA, came from Belgrade and personally participated in the negotiations. On the Bosnian side, the Bosnian Presidency side was led by the Minister of Defence, Mr. Doka [phoen]. He was assisted by the second-in- command of the army, I can't remember his name. Mrs. Plavsic attended the -- the negotiations. At that time, the Bosnian Presidency wouldn't negotiate with the Serb party, so it didn't want to give them any political credence, but Mrs. Plavsic was acceptable, I believe, because she was also a member of the Bosnian Presidency, so they were happy for her to attend those negotiations. General Mladic was also actively and intimately involved in those negotiations, though he didn't usually attend the meetings in the PTT building. We went to discuss matters with him in Lukavica.",
+      "reply_to": 167
+    },
+    {
+      "id": 169,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "During these negotiations, General Wilson, did you have frequent contact with the parties to these negotiations?",
+      "examination": "direct"
+    },
+    {
+      "id": 170,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I did on a daily basis. I certainly saw Mrs. Plavsic, General Boskovic, et cetera, on a daily basis and --",
+      "reply_to": 169
+    },
+    {
+      "id": 171,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you just quickly summarise, if you will, completely summarise the respective positions of the parties at these negotiations.",
+      "examination": "direct"
+    },
+    {
+      "id": 172,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The JNA position was to effect the immediate evacuation of their forces at any cost as quickly as possible. The Presidency position was to bargain for the release of these forces to obtain arms and ammunition and concessions for humanitarian activity within the city. The Bosnian Serb position was to effect the release of the -- of the JNA from those barracks, but not at the expense of having to hand over weaponry to the Presidency forces. General Mladic was particularly strong on this issue of not handing over weapons.",
+      "reply_to": 171
+    },
+    {
+      "id": 173,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "During the course of these negotiations, did you have an opportunity to gain insight into the thinking of Mrs. Plavsic and General Mladic as to the positions that they represented, they advocated for their -- their people?",
+      "examination": "direct"
+    },
+    {
+      "id": 174,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. Both -- both Mrs. Plavsic and General Mladic restated issues that had been said many times before about the threat to the Serb people, the need to defend them, the need to establish a separate Serb state, the fact that military operations were solely intended to protect the Serb people or to defend the military forces that were deployed.",
+      "reply_to": 173
+    },
+    {
+      "id": 175,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did they express their views about the Muslim and the -- actually, about the non-Serb populations during these negotiations to you personally?",
+      "examination": "direct"
+    },
+    {
+      "id": 176,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Not actually during the negotiations, but as an aside or perhaps related to other issues, yes. I'd be repeating myself, but certainly their concern was the advancement of the interests of the Serb people, the defence of the Serb people, and the fact that they were threatened by the non-Serb population.",
+      "reply_to": 175
+    },
+    {
+      "id": 177,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And very briefly, just to close this part of your evidence, how did these -- these negotiations end? What was the result of these negotiations? Don't dwell on it, but just briefly tell the Court how these ended.",
+      "examination": "direct"
+    },
+    {
+      "id": 178,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Two of the barracks, Marsal Tito and the first one, were successfully evacuated. The other barracks, which became known as Bear Camp, was a poorly executed operation and resulted in some 30 people missing. Whether they were actually killed or not, we're not sure, but there was significant difficutly with that operation due to poor planning and execution.",
+      "reply_to": 177
+    },
+    {
+      "id": 179,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, you also participated in a second set of negotiations where the UN lent its good offices, and that dealt with the negotiations to open the Sarajevo airport. Can you tell the Judges when those negotiations took place, General Wilson.",
+      "examination": "direct"
+    },
+    {
+      "id": 180,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Those negotiations took place between approximately the 2nd and the 5th of June, 1992.",
+      "reply_to": 179
+    },
+    {
+      "id": 181,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you tell the Judges, in general terms, the purpose of those negotiations.",
+      "examination": "direct"
+    },
+    {
+      "id": 182,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The purpose was to open the Sarajevo -- Sarajevo airport so that humanitarian supplies and relief could be brought to the city of Sarajevo and the surrounding area.",
+      "reply_to": 181
+    },
+    {
+      "id": 183,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Who controlled the airport at the time those negotiations took place?",
+      "examination": "direct"
+    },
+    {
+      "id": 184,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's difficult to say accurately. It was a combination of the -- the Bosnian Serb forces and the JNA. I suspect the JNA still had a heavy presence there.",
+      "reply_to": 183
+    },
+    {
+      "id": 185,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you identify, General Wilson, the persons from the international community who participated in these negotiations?",
+      "examination": "direct"
+    },
+    {
+      "id": 186,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Mr. Cedric Thornbury, who was the senior political officer from UNPROFOR, came down from Belgrade, I think on the 2nd of June, the 1st or the 2nd of June. I acted as his -- the military participant in that team, negotiating team. Occasionally, the local civil affairs officer, Mr. Razek, I think his name was, and my staff officer, an Irish commandant, Murphy, attended those meetings.",
+      "reply_to": 185
+    },
+    {
+      "id": 187,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Who represented the Bosnian Serbs in those negotiations?",
+      "examination": "direct"
+    },
+    {
+      "id": 188,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The Bosnian Serbs were initially represented by Mr. Karadzic, Mrs. Plavsic, and General Mladic.",
+      "reply_to": 187
+    },
+    {
+      "id": 189,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did other political figures later appear in those -- at those negotiations from the Bosnian Serb side?",
+      "examination": "direct"
+    },
+    {
+      "id": 190,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On the last day of the negotiations, the 5th of June, Mr. Koljevic -- I've got a mental blank here.",
+      "reply_to": 189
+    },
+    {
+      "id": 191,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did Mr. Koljevic and Mr. Krajisnik appear?",
+      "examination": "direct"
+    },
+    {
+      "id": 192,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Mr. Krajisnik, I'm sorry. He attended on the last day.",
+      "reply_to": 191
+    },
+    {
+      "id": 193,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, Your Honour, Mr. Harmon's function is not to fill in mental blanks that the witness expressly acknowledges."
+    },
+    {
+      "id": 194,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Harmon."
+    },
+    {
+      "id": 195,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, Your Honour, I think there is no dispute about who attended these meetings, because I'm going to examine General Wilson at length about his contacts with Mr. Krajisnik at these meetings. The fact that he had a temporary blank, it seems perfectly proper that I can assist him with that."
+    },
+    {
+      "id": 196,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. He mentioned a name of Mr. Koljevic, more prudence and caution should have been taken before you suggested the name of Mr. Krajisnik. Because it -- although it does not appear on the transcript, it's my recollection that you then introduced after the witness told us about Mr. Kojevic that you asked him about Mr. Krajisnik's presence."
+    },
+    {
+      "id": 197,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That's correct, I did ask him about Mr. Krajisnik's presence."
+    },
+    {
+      "id": 198,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, it does not appear on the transcript before Mr. Stewart interfered."
+    },
+    {
+      "id": 199,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The word is not interfered, Your Honour."
+    },
+    {
+      "id": 200,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, intervened."
+    },
+    {
+      "id": 201,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 202,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Interference is --"
+    },
+    {
+      "id": 203,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I accept it entirely, Your Honour."
+    },
+    {
+      "id": 204,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Well, Mr. Harmon, I think it's clear that you should have taken more caution there to -- to elicit from the witness the possible presence of other persons, rather than to introduce one that you might have thought that could have been present. Please proceed."
+    },
+    {
+      "id": 205,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, can you briefly summarise for the Chamber the issues in dispute in respect of opening the Sarajevo airport.",
+      "examination": "direct"
+    },
+    {
+      "id": 206,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Firstly, the -- the Presidency refused to meet with the Bosnian Serb party to -- in any of the negotiations. So it was a question of shuttle diplomacy between the Lukavica military base and the Presidency building. The Presidency position was that not only the -- that the airport should be open, but that all Serb heavy weapons should be withdrawn out of range of Sarajevo. The Serb position was that if they were to hand over the airport, they would, in a practical way, like to continue to -- to actually control it. And during the negotiations, in fact right up until the eleventh hour, the Serbs were making proposals and counterproposals which would, while supposedly discreet, would in effect leave them in actual control of the airport. It was only when Mr. Cedric Thornbury said that such proposals were totally unacceptable and that the negotiations couldn't proceed that the Serb side finally gave ground and agreed that the airport could be handed over to the UN in accordance with an agreement which was signed by both parties but on separate bits of paper on the 5th of June.",
+      "reply_to": 205
+    },
+    {
+      "id": 207,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was the airport negotiations the first opportunity you had to meet Mr. Krajisnik?",
+      "examination": "direct"
+    },
+    {
+      "id": 208,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I might have met Mr. Krajisnik in my first few days in Sarajevo when we were -- when principal staff of UNPROFOR were received by and introduced to the members of the Bosnian Presidency, but I don't remember him then. I do remember him appearing on the last day of the airport negotiations.",
+      "reply_to": 207
+    },
+    {
+      "id": 209,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you describe his role in these negotiations?",
+      "examination": "direct"
+    },
+    {
+      "id": 210,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "He was central to the negotiations. He was quite clearly, by the group dynamics involved, he was closely consulted. He was involved in discussions to the side when there were breaks. In my view, he was quite central to the final agreement that the airport could be handed over to the UN.",
+      "reply_to": 209
+    },
+    {
+      "id": 211,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, I'm going to switch into a different topic and it's four minutes remaining."
+    },
+    {
+      "id": 212,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Perhaps we could have an early break then. We'll adjourn until ten minutes past 4.00."
+    },
+    {
+      "id": 213,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Harmon, you may proceed."
+    },
+    {
+      "id": 214,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, let's continue with our discussion about the airport negotiations. When you were involved in these negotiations, did you have the opportunity again to hear the positions of the Bosnian Serbs reiterated to you? I'm talking about the positions in respect of the non- Serb population, the territorial ambitions of the Bosnian Serbs, and discussions that you've described earlier in your testimony.",
+      "examination": "direct"
+    },
+    {
+      "id": 215,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I can't specifically remember whether it was raised, but in all of those types of meetings, that sort of issue was reiterated many times over.",
+      "reply_to": 214
+    },
+    {
+      "id": 216,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, during the discussions in the airport negotiations, did you have a discussion with Mrs. Plavsic in respect of the detention of civilians?",
+      "examination": "direct"
+    },
+    {
+      "id": 217,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I did. I had received reports and a representation from the Bosnian Presidency that there were -- civilian prisoners had been taken to an area to the south of Sarajevo and were detained in a railway tunnel or a road tunnel and they were concerned that some harm would come to these people and asked me to raise it with Mrs. Plavsic. I did raise this matter with her, and she acknowledged the fact that the Bosnian Serbs did hold prisoners, but she said that they were people of military age and they were arrested so that they would not participate in the fighting and that they were well treated for. She made counter-allegations that the Bosnian Presidency were holding prisoners, in effect, in the cellar of the Presidency building. In both of these incidents I offered to follow up and investigate, but whenever it came to the practical -- the practicalities of visiting these locations, there were always obstacles put into place -- in our place. Since it was not directly within my mandate anyway to pursue these matters with vigour and there were other priorities, I never got around to visiting these locations.",
+      "reply_to": 216
+    },
+    {
+      "id": 218,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Your evidence, General Wilson, was that she did acknowledge that the Bosnian Serbs held prisoners. Were you discussing prisoners of war or were you discussing civilians?",
+      "examination": "direct"
+    },
+    {
+      "id": 219,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I would raise the issue of her with civilians, and she countered that by narrowing it down to saying that they were holding people of military age to take them out of the fighting. It was a pre-emptive action.",
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Okay. Now, during these discussions, did you have an opportunity to observe, generally, the relationship of the political leaders in the airport negotiations with General Mladic?",
+      "examination": "direct"
+    },
+    {
+      "id": 221,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I did.",
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And can you describe to the Judges what the relationship was overall between General Mladic and the Bosnian Serb civilian leadership.",
+      "examination": "direct"
+    },
+    {
+      "id": 223,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It seemed to be a very comfortable relationship. They were relaxed in each other's company. There was a free exchange of information. General Mladic was not afraid to disagree with members of the political leadership, but in the end, he -- he claimed that he was subordinate to political leadership and followed their direction.",
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "AT one point in these negotiations did there become an animated disagreement between General Mladic and Karadzic?",
+      "examination": "direct"
+    },
+    {
+      "id": 225,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. The negotiation over the airport went on for about three days with proposals, counterproposals, and an evident reluctance by General Mladic to hand over the airport. He claimed that the Serb forces had fought and died for that territory and that he couldn't give it up; these Blank page inserted to ensure pagination corresponds between the French and English transcripts. soldiers would find that unacceptable. So he was somewhat inflexible on that. Come the last day of the negotiations, it was clear that unless the Serb side made significant concessions in their bargaining position no agreement would be reached. On that last day, Dr. Karadzic took Mr. -- General Mladic out of the room, evidently to the room next door, and one could hear a violent argument between the two of them. When they cam came back into the room, Dr. Karadzic announced that the Serb side was prepared to accept the agreement and Mladic no longer raised any objections to it.",
+      "reply_to": 224
+    },
+    {
+      "id": 226,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "At some point in time, General Wilson, during these discussions on the airport did you ask General Mladic directly about his relationship to the political leadership?",
+      "examination": "direct"
+    },
+    {
+      "id": 227,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I did, on a number of occasions from late May and through the airport negotiations. I asked General Mladic whether he was subordinate to and responsible -- and responsive to the political leadership. He stated on at least three occasions that he was. The reason I raised those issues was there were some concern from the JNA representatives at the barracks negotiations that Mladic was out of control and acting independently and irrationally. He made it quite clear to me on a number of occasions that he was -- that he was responsible or responsive to his political leadership.",
+      "reply_to": 226
+    },
+    {
+      "id": 228,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, if I could turn to the next exhibit, which is a new exhibit. It is the outgoing -- it's entitled \"Outgoing crypto fax,\" dated the 25th of May, 1992, \"Record of discussion with Mrs. Plavsic and Lieutenant- General Mladic,\" dated 25 May 1992.",
+      "examination": "direct"
+    },
+    {
+      "id": 229,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This will be Prosecution Exhibit P721."
+    },
+    {
+      "id": 230,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, this is an exhibit that I showed you prior to coming into court; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 231,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is, Counsel.",
+      "reply_to": 230
+    },
+    {
+      "id": 232,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And is this a record that you prepared?",
+      "examination": "direct"
+    },
+    {
+      "id": 233,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I personally drafted this document.",
+      "reply_to": 232
+    },
+    {
+      "id": 234,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This document reflects a meeting that took place between yourself, Abdel Razek, Commander -- \"CMDT,\" is that commander or commandant?",
+      "examination": "direct"
+    },
+    {
+      "id": 235,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Commandant.",
+      "reply_to": 234
+    },
+    {
+      "id": 236,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Commandant Murphy, between yourself -- between those parties and General Mladic and Mrs. Plavsic at the Lukavica barracks. In the -- this document, just before we enter into it and explore it in greater detail, in paragraph 1 the initials \"CMO\" appear. What do those stand for?",
+      "examination": "direct"
+    },
+    {
+      "id": 237,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They mean \"chief military observer,\" and that refers to my appointment as the chief military observer UNPROFOR.",
+      "reply_to": 236
+    },
+    {
+      "id": 238,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, from this first paragraph in this document, it appears that the meeting was initially to take place between -- with Mrs. Plavsic only; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 239,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 238
+    },
+    {
+      "id": 240,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And the purpose of the meeting was to discuss the opening of the Sarajevo airport for humanitarian aid; correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 241,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "As I recall, yes.",
+      "reply_to": 240
+    },
+    {
+      "id": 242,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, if we turn to paragraph 2 in this document. If you'd cast your eye on paragraph 2, I'm going to direct your attention to a part of it. A little below midway through that paragraph it says: \"The evacuation had to be completed in three days or strong action would be taken against Sarajevo.\" Can you explain what that sentence means.",
+      "examination": "direct"
+    },
+    {
+      "id": 243,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This was a threat made by General Mladic that if the barracks were not evacuated within three days, that he would generally engage the city of Sarajevo with heavy artillery fire. He asked that this be passed to the members of the Presidency. He was very impatient about the evacuation of the barracks and not really prepared to waste time on negotiation. He wanted action.",
+      "reply_to": 242
+    },
+    {
+      "id": 244,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And having experienced the intensive artillery barrage on the 14th of May, 1992, did you take that threat seriously?",
+      "examination": "direct"
+    },
+    {
+      "id": 245,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I did. General Mladic was well known for carrying out what he said he would do, good and bad.",
+      "reply_to": 244
+    },
+    {
+      "id": 246,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If you direct your attention to paragraph 3, the first sentence, please. It says, and I quote: \"International military intervention could only bring catastrophe on Sarajevo as, in a military operation, Sarajevo would be levelled.\" Explain that sentence, if you would, please.",
+      "examination": "direct"
+    },
+    {
+      "id": 247,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There was discussion in the international media at that time that unless the Serbs moderated their behaviour, and in particular opened up the Sarajevo airport, that NATO might initiate airstrikes against the -- the Bosnian Serbs. I think at this stage General Mladic is displaying some bravado saying that such action would only have negative impact upon the general situation.",
+      "reply_to": 246
+    },
+    {
+      "id": 248,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, if we turn -- can I turn your attention to paragraph 7 of the document. And earlier in your testimony, General Wilson, you said that you had asked General Mladic on a number of occasions to whom he was responsive. Let me read paragraph 7 of this into the record. \"In reply to a CMO question, the general denied that he had imposed martial law in BH and said that he was subordinate to the political leadership of the so-called Serbia Republic of Bosnia.\" Is this one of the occasions that you referred to earlier in your testimony where he made such a statement?",
+      "examination": "direct"
+    },
+    {
+      "id": 249,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it is indeed.",
+      "reply_to": 248
+    },
+    {
+      "id": 250,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "He made this statement in the presence of Mrs. Plavsic, did he?",
+      "examination": "direct"
+    },
+    {
+      "id": 251,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, he did.",
+      "reply_to": 250
+    },
+    {
+      "id": 252,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, let me turn to another exhibit, which will be the next new exhibit in order. And I -- if I can have a number for that, please. It is a -- it is an outgoing crypto fax dated the 30th of May, 1992.",
+      "examination": "direct"
+    },
+    {
+      "id": 253,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This will be Prosecution Exhibit P722."
+    },
+    {
+      "id": 254,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, do you have a copy of that document in front of you?",
+      "examination": "direct"
+    },
+    {
+      "id": 255,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do indeed, Counsellor.",
+      "reply_to": 254
+    },
+    {
+      "id": 256,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And did you have an opportunity to see this document prior to coming into court today?",
+      "examination": "direct"
+    },
+    {
+      "id": 257,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I did.",
+      "reply_to": 256
+    },
+    {
+      "id": 258,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you prepare this document?",
+      "examination": "direct"
+    },
+    {
+      "id": 259,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I personally drafted this document.",
+      "reply_to": 258
+    },
+    {
+      "id": 260,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This document, for the record, is dated the 30th of May, 1992, and the subject is a record of a meeting between Colonel Wilson and General Mladic. And this --",
+      "examination": "direct"
+    },
+    {
+      "id": 261,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If Mr. Harmon could bear in mind this hasn't been translated either. So again, the same request that we go at a suitable pace."
+    },
+    {
+      "id": 262,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 263,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "To enable Mr. Krajisnik to --"
+    },
+    {
+      "id": 264,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. I intend to read parts of this. The previous document was translated. This document, when I get to the text, I will read it just like I was reading the caption before Mr. Stewart intervened."
+    },
+    {
+      "id": 265,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. I even see Dutch on the document to be translated, Mr. Harmon, on the cover page. But -- the word \"Werkexemplaar.\" I expect you to read slowly if you come to any specific portion of the document."
+    },
+    {
+      "id": 266,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, turning our attention to paragraph 1, I will read the first paragraph. \"This meeting was requested by CMO to convey the secretary- general appeal to General Mladic. Code table MSC-369 refers.\" Now, what was -- what's referenced in that particular paragraph?",
+      "examination": "direct"
+    },
+    {
+      "id": 267,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't know the exact contents of that particular code table, but I presume it was an appeal from the secretary-general to the Serb forces to moderate their behaviour in Sarajevo and, in particular, to facilitate the opening of the -- the Sarajevo airport.",
+      "reply_to": 266
+    },
+    {
+      "id": 268,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Okay. If we -- if we turn to paragraph 5 of the document, which I'll read into the record. \"When asked for confirmation of his president's offer to withdraw all heavy weapons outside of range to Sarajevo, he said that he had no knowledge of such an offer but would give his advice to his government and abide by any agreement made.\" Can you comment on this particular paragraph in respect of General Mladic's position in respect of the civilian authorities?",
+      "examination": "direct"
+    },
+    {
+      "id": 269,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is, once again, a reaffirmation of his position that he was responsive to and subordinate to political leadership. In this case here he's using it as a -- a delaying tactic because he's probably unaware of the detail of the offer made by Dr. Karadzic in regard to withdrawal of heavy weapons and the opening of the Sarajevo airport, or if he is aware of it, he's not prepared to discuss it in this forum.",
+      "reply_to": 268
+    },
+    {
+      "id": 270,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, based on your personal contacts with General Mladic, your observations of General Mladic's interactions with --",
+      "examination": "direct"
+    },
+    {
+      "id": 271,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Pardon me. There seems to be some ... let me start again."
+    },
+    {
+      "id": 272,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Mladic -- General Wilson, I'm sorry -- General Wilson, based on your observations of the VRS, General Mladic's interactions with the Bosnian Serb political leadership, comments made to you by General Mladic, can you -- did you reach conclusions about the responsiveness of the Bosnian Serb army to the political leadership in 1992?",
+      "examination": "direct"
+    },
+    {
+      "id": 273,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. General Mladic is a very strong personality, but nevertheless -- and I guess capable of independent action, but the bottom line is that he did what his political masters told him to do.",
+      "reply_to": 272
+    },
+    {
+      "id": 274,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And let me -- if I could turn to an exhibit that has been previously introduced.",
+      "examination": "direct"
+    },
+    {
+      "id": 275,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, this is from Prosecution Exhibit 64. And I would have taken -- it's a lengthy document, it's 150-plus pages. I've excerpted two pages which I -- from this exhibit which I will ask to be exhibited."
+    },
+    {
+      "id": 276,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I take it it's a certain tab from 64. Tab 29, Madam Registrar tells me -- 529."
+    },
+    {
+      "id": 277,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "General Wilson, do you have a copy of the document in front of you?",
+      "examination": "direct"
+    },
+    {
+      "id": 278,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do.",
+      "reply_to": 277
+    },
+    {
+      "id": 279,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did I give you an opportunity to review the analysis of combat readiness and activities of the Army of the RS document, a lengthy document, that was dated the 5th of April, 1993?",
+      "examination": "direct"
+    },
+    {
+      "id": 280,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, you did.",
+      "reply_to": 279
+    },
+    {
+      "id": 281,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And have you had an opportunity to review the portion of the document that I'm presenting to you at this point?",
+      "examination": "direct"
+    },
+    {
+      "id": 282,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I did read this -- this part of the document.",
+      "reply_to": 281
+    },
+    {
+      "id": 283,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, this document that is before you is pages 152 and pages 153 from the document I've described earlier, and it is captioned \"The concluding remarks, the findings of the analysis of the combat readiness and activities of the Army of the Republika Srpska in 1992.\" It is dated at the end of page 153 \"Han Pijesak, 5 April 1993, Supreme Commander of the Armed Forces of Republika Srpska, Dr. Radovan Karadzic.\" And I would like to read into the record and then ask you to comment on the second paragraph of paragraph 4. So if I can direct your attention there, General Wilson. I will slowly read into the record that paragraph. \"The Main Staff of the Army of Republika Srpska has performed the functions of the Staff of the Supreme Command and at the same time that of the superior command for operational and some joint tactical formations, which presupposed the agreement of the Supreme Command in respect of all tasks and objectives of the armed struggle. This relationship between the command structures and the organs of government and the Supreme Command made it impossible for the Main Staff to make decisions absolutely on its own, rather every operational battle was politically endorsed on the basis of the interests of the Serb people and approved by the highest authorities of Republika Srpska.\" Now, can you comment on the contents of this particular paragraph which I have read, in particular in relation to the relationship between the Army of the Republika Srpska and the political structures of the Bosnian Serb Republic.",
+      "examination": "direct"
+    },
+    {
+      "id": 284,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This makes it quite clear to me that all military operations were conducted in accordance with political direction and objectives, and that there was no authority for independent action by the military staff to take any decisions or -- or direct operations other than those approved by the political authority. This is made in retrospect, so it's a summary of what had happened during 1992.",
+      "reply_to": 283
+    },
+    {
+      "id": 285,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And is this consistent with your personal observations, General Wilson?",
+      "examination": "direct"
+    },
+    {
+      "id": 286,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It's certainly consistent with my discussions with General Mladic, who said that he, as the military commander, was subject to political control.",
+      "reply_to": 285
+    },
+    {
+      "id": 287,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. I've concluded with that exhibit, General Wilson. Now, General Wilson, I'd like to turn your attention to the next occasions when you saw and met with Mr. Krajisnik. When was that?",
+      "examination": "direct"
+    },
+    {
+      "id": 288,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I believe the next time I met Mr. Krajisnik was in Geneva during the period December/January of 1992/1993, when I was military advisor to Mr. Cyrus Vance at the peace conference in Geneva, and Mr. Krajisnik attended as part of the Serb delegation.",
+      "reply_to": 287
+    },
+    {
+      "id": 289,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So these were the -- this was the international conference on the former Yugoslavia in Geneva.",
+      "examination": "direct"
+    },
+    {
+      "id": 290,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it was.",
+      "reply_to": 289
+    },
+    {
+      "id": 291,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, what was your specific role in that? You mentioned you were a political advisor to former Secretary of State Cyrus Vance. Did you have another role as well?",
+      "examination": "direct"
+    },
+    {
+      "id": 292,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "He was actually the military advisor.",
+      "reply_to": 291
+    },
+    {
+      "id": 293,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I'm sorry.",
+      "examination": "direct"
+    },
+    {
+      "id": 294,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "And my secondary role was to act as liason officer with UNPROFOR. So I was the conduit from Mr. Vance and later Mr. Stoltenberg.",
+      "reply_to": 293
+    },
+    {
+      "id": 295,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How long did you participate in those roles in the international conference for the former Yugoslavia?",
+      "examination": "direct"
+    },
+    {
+      "id": 296,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I was assigned to the conference for almost exactly one year, Blank page inserted to ensure pagination corresponds between the French and English transcripts. from mid-December, 1992 until the 1st of December, 1993.",
+      "reply_to": 295
+    },
+    {
+      "id": 297,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you identify who the Bosnian Serb negotiators were at that conference?",
+      "examination": "direct"
+    },
+    {
+      "id": 298,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The Serb delegation varied over time. For most of the negotiations, only a small party were present, but they were led by Dr. Karadzic, but also in attendance on occasions was General Mladic, but not frequently. Mr. Krajisnik was frequently there. I have -- I don't recall the frequency with which Mrs. Plavsic or Mr. Koljevic may or may not have attended. They -- they were the principal officers representing the Serb side.",
+      "reply_to": 297
+    },
+    {
+      "id": 299,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you have an opportunity to meet with Mr. Krajisnik or to observe Mr. Krajisnik during the course of those negotiations?",
+      "examination": "direct"
+    },
+    {
+      "id": 300,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I would say that I never really met with Mr. Krajisnik, but I was present in the room with him on many occasions. I was able to observe the negotiations. Usually I did not sit at the table but sat at a chair behind, and I was able to observe and take notes on what was happening during those negotiations.",
+      "reply_to": 299
+    },
+    {
+      "id": 301,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And did you, as part of your advice capacity and part of your observations, did you take the measure of the various negotiators?",
+      "examination": "direct"
+    },
+    {
+      "id": 302,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I did. That was one of the responsibilities of those observers, that you were to take notes to make sure that at the end of the day when reports had to be written up that all matters were covered, and part of that debriefing process was the participation of the various negotiators and an assessment of what their role was.",
+      "reply_to": 301
+    },
+    {
+      "id": 303,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you describe the role of Mr. Krajisnik as you observed it and as you assessed it.",
+      "examination": "direct"
+    },
+    {
+      "id": 304,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Mr. Krajisnik did not have a lot to say, I assume this is because he didn't speak English. But certainly he was very carefully consulted by Mr. Karadzic or Dr. Karadzic. He sat at a central part of the table, and he seemed to be a very important member of the delegation.",
+      "reply_to": 303
+    },
+    {
+      "id": 305,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Throughout these negotiations, either formally or in informal conversations, did the Bosnian Serbs set forth their positions in respect of their territorial ambitions, their territorial objectives and their views toward non-Serbs?",
+      "examination": "direct"
+    },
+    {
+      "id": 306,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, they did. They clearly stated their position and in great detail. When it came to negotiating over the map of Bosnia-Herzegovina and how the territory might be divided up into different ethnic identities there was a great deal of argument, supporting argument, for the division, and there was a continual restatement of the Serb concerns for their safety of their people, the need for a republic, et cetera.",
+      "reply_to": 305
+    },
+    {
+      "id": 307,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What did they say in respect of living -- the ability to live with non-Serbs?",
+      "examination": "direct"
+    },
+    {
+      "id": 308,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, at various times, they indicated that it was no longer possible for the three nations to continue to live together in harmony in Bosnia-Herzegovina and it was necessary to physically and politically separate the nations, otherwise the Serb people would continue to live under threat, and that this was no longer a viable solution for them.",
+      "reply_to": 307
+    },
+    {
+      "id": 309,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was that a uniform Serb position that was taken by the negotiators on behalf of the Bosnian Serbs?",
+      "examination": "direct"
+    },
+    {
+      "id": 310,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it was. It was repeatedly stated at many, many meetings.",
+      "reply_to": 309
+    },
+    {
+      "id": 311,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, at the -- these negotiations, who were the main negotiators for the international community?",
+      "examination": "direct"
+    },
+    {
+      "id": 312,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This depended upon the topic, but certainly Mr. Cyrus Vance initially in the period December to -- of 1992 until approximately May of 1993, he really led the negotiations on behalf of the international community. And then in the period after May 1993, Lord Owen really was the intellectual leader of the -- the conference. Mr. Stoltenberg, when he arrived, played more of a support role to Lord Owen, but there were also a number of ambassadors attached to the conference who led individual negotiations on smaller topics. But on the issue of Bosnia-Herzegovina, it was generally the co-chairman who led the discussions.",
+      "reply_to": 311
+    },
+    {
+      "id": 313,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "At these negotiations, were the Bosnian Serb leaders confronted with accusations of ethnic cleansing?",
+      "examination": "direct"
+    },
+    {
+      "id": 314,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Could you repeat the question, please.",
+      "reply_to": 313
+    },
+    {
+      "id": 315,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "At these negotiations, were the Bosnian Serbs confronted by claims -- confronted by the co-chairman or by others who were conducting the negotiations about claims of ethnic cleansing committed by the Serbs in Bosnia?",
+      "examination": "direct"
+    },
+    {
+      "id": 316,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, they were. This was a -- my understanding is this was a frequent topic. Lord Owen, on occasions when negotiations were not progressing smoothly, would sometimes lecture the participants on their conduct and on their -- on their conduct and their failure to respect human -- human rights. He was very forthright in this regard. It was like an irritated headmaster talking to an errant schoolboy and there was not much diplomacy involved.",
+      "reply_to": 315
+    },
+    {
+      "id": 317,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In other words, he was blunt and direct; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 318,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Exactly.",
+      "reply_to": 317
+    },
+    {
+      "id": 319,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did the Bosnian Serbs have at their disposal interpreters when these -- when Lord Owen and others made such accusations?",
+      "examination": "direct"
+    },
+    {
+      "id": 320,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, they did. During central forums interpreters were usually provided by the United Nations; however, in the more common smaller working groups, the parties usually brought their own interpreters.",
+      "reply_to": 319
+    },
+    {
+      "id": 321,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did it appear to you that -- oh, sorry. Did it appear to you that the Bosnian Serbs understood Lord Owen when he was making those accusations and understood the accusations made by others about ethnic cleansing?",
+      "examination": "direct"
+    },
+    {
+      "id": 322,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Dr. Karadzic understood English very well and Lord Owen's address was made in English, or certainly made in the presence of all of the Serb delegation. Whether it was translated for them into Serbian Croat, I can't say.",
+      "reply_to": 321
+    },
+    {
+      "id": 323,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What was the reaction of Dr. Karadzic to such claims?",
+      "examination": "direct"
+    },
+    {
+      "id": 324,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Usually a -- a restatement of the need to defend the Serb people, the need for a Serb republic. The circumstances were actually quite embarrassing for Dr. Karadzic, and I guess his delegation, because Lord Owen was very direct in what he said and used very blunt language, so there was an air of embarrassment. But essentially, the Serb party responded by restating their position.",
+      "reply_to": 323
+    },
+    {
+      "id": 325,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Let me -- maybe you can help the Trial Chamber understand this. How was it or when did -- actually let me withdraw that. The discussions that took place at the conference involved discussions about territory; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 326,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That was one of the issues. The other significant one was a constitution that the new political entity could use.",
+      "reply_to": 325
+    },
+    {
+      "id": 327,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Let us focus on the questions of the territory. Can you just inform the Court, when certain parts of the territory were under discussion did the issue arise about ethnic cleansing in the context of those discussions?",
+      "examination": "direct"
+    },
+    {
+      "id": 328,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm not exactly sure what you mean by that question.",
+      "reply_to": 327
+    },
+    {
+      "id": 329,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 330,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Could you restate it or rephrase it, please.",
+      "reply_to": 329
+    },
+    {
+      "id": 331,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were there certain boundary lines that were established that were under discussion in those negotiations?",
+      "examination": "direct"
+    },
+    {
+      "id": 332,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "About 80, 85 per cent of the division was broadly agreed by the three parties as being an acceptable solution, if there needed to be a division. The argument was really about 10 or 15 per cent. And the discussions were done in considerable detail with the benefit of the various census that had been done by the former Yugoslavia -- the government of the former Yugoslavia in that area. There were quite detailed arguments about historical claims to quite small geographic areas. When the co-chairman would indicate that an area which was claimed by -- by one party might contain a significant minority from another nation or group, all three parties seemed quite comfortable with the idea of relocating large numbers of people from those contested areas. There was never any really denial of facts on the ground that areas had -- no longer had their original population, that there had been already in the process of the war ethnic cleansing or relocation of population.",
+      "reply_to": 331
+    },
+    {
+      "id": 333,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, you stayed in those negotiations through December of 1993; is that correct, General Wilson?",
+      "examination": "direct"
+    },
+    {
+      "id": 334,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I did.",
+      "reply_to": 333
+    },
+    {
+      "id": 335,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, based on your contacts with Mr. Krajisnik, Mr. Karadzic, Mrs. Plavsic, Mr. Koljevic, based on information at your disposal, did you form an opinion as to the hierarchical relationship amongst the Bosnian Serb leadership?",
+      "examination": "direct"
+    },
+    {
+      "id": 336,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I did.",
+      "reply_to": 335
+    },
+    {
+      "id": 337,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And what were your conclusions in respect of that leadership?",
+      "examination": "direct"
+    },
+    {
+      "id": 338,
+      "speaker": "JOHN WILSON",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I believe that Dr. Karadzic and Mr. Krajisnik were the principal political power or authority within that grouping. Though while Mrs. Plavsic and Mr. Koljevic may well have had some political authority, on the real issues, the important issues, was Mr. Krajisnik and Dr. Karadzic who had the significant say. I think General Mladic probably had significant input too on a -- not only on the military side, but perhaps in influencing political outcomes. The short answer, I think, the political leadership was dominated by Dr. Karadzic and Mr. Krajisnik.",
+      "reply_to": 337
+    },
+    {
+      "id": 339,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much, General Wilson. I have no additional questions."
+    },
+    {
+      "id": 340,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Mr. Harmon. Mr. Stewart, is it -- I am informed that if you now start your cross-examination, that we might finish tomorrow for a considerable time, not having any further witnesses. Mr. Harmon, is that a correct understanding?"
+    },
+    {
+      "id": 341,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Sorry, I -- Your Honour, I had trouble hearing you. I'm sorry."
+    },
+    {
+      "id": 342,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Do I understand that your next witness would not be available until Thursday?"
+    },
+    {
+      "id": 343,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That's correct."
+    },
+    {
+      "id": 344,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "So therefore --"
+    },
+    {
+      "id": 345,
+      "speaker": "MR. HARMON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That's correct."
+    },
+    {
+      "id": 346,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "-- there's no specific need at this moment to start your cross-examination, Mr. Stewart, where usually the Chamber insists on continuing, there might be less reason to do so at this very moment. Therefore, my question to you is whether you'd like to start your cross- examination now or whether you'd prefer to start it tomorrow morning."
+    },
+    {
+      "id": 347,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. I -- Your Honour, I think it's the afternoon."
+    },
+    {
+      "id": 348,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 349,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "But the -- the answer with that adjustment, the answer to Your Honour's question is I would prefer to start it tomorrow. Thank you."
+    },
+    {
+      "id": 350,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Then, Mr. Wilson, you may have noticed that I address you as Mr. Wilson and not as General Wilson as many do. That's merely an expression of whatever witness here, in whatever capacity he works outside, is here to testify -- to assist the Chamber to find the truth and that it's -- it's not any disrespect of your position. You've heard that the Defence would prefer to start to cross- examining you tomorrow."
+    },
+    {
+      "id": 351,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The Chamber grants the request of the Defence. That means that we'd like to see you back tomorrow at quarter past 2.00 in the afternoon. I'd like to instruct you not to speak with anyone about the testimony you have given or you still are about to give. Madam Usher, could you please escort Mr. Wilson out of the courtroom."
+    },
+    {
+      "id": 352,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Since we have some time left but we also have some time left tomorrow, I'd like to address two matters at this moment and a few other procedural matters tomorrow. Since I take it, Mr. Stewart, that you would not need the whole morning for -- the whole afternoon for cross-examination."
+    },
+    {
+      "id": 353,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I don't think so, Your Honour. No."
+    },
+    {
+      "id": 354,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 355,
+      "speaker": "MR. STEWART",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 356,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The first thing I'd like to bring to the attention of the parties has to do with the procedure for examining expert witnesses. This Chamber is not inclined to set a new Guinness Book of Records standard for who goes quickest through the most documents in one hour. The experience this Chamber has gained with 18 binders in three days or 12 binders in one day and a half does not encourage the Chamber to proceed in the same way in this respect. Therefore, I'd like to give some guidance on the procedure for examining expert witnesses. I'll do it by giving you six points. If the parties, who have not been consulted on these points, would like to briefly respond tomorrow when we have some time available for procedural matters, they will be allowed to do so. Point 1: Following affirmation of the witness as an expert witness, the central item of evidence is the expert's report. 2: The Prosecution is instructed to limit its examination to matters of central importance to the case which are likely to be controversial and which require further explanation, clarification, or illustration in terms of how the opinion was arrived at by the expert. 3: Limit on exhibits by the Prosecution. The Prosecution is invited to tender documents referred to in the expert report which are necessary to achieve the purpose of point 2 and, in re-examination, to deal with matters raised in cross-examination. 4: Use of exhibits by the Defence. The Defence may introduce into evidence, in addition to any of its own documents, any supporting documents referred to in the expert report which have not yet been admitted and on which the Defence relies in cross-examination. 5. All remaining documentation underlying the expert report will not be admitted into evidence unless one of the parties, showing good cause in light of the above, or the Chamber itself, specifically requests so. 6. In relation to point 5, the parties are referred to the Chamber's guidance to the parties delivered orally on the 1st of March of this year and on the 27th April 2005, the transcript references being transcript page 9606 and for the 27th of April, 12754. Then the next issue is, Mr. Stewart, the Chamber owes you a response to a request made in relation to the scheduling of 98 bis matters. The Chamber recalls that at a recent housekeeping session on the 27th of April of this year you, Mr. Stewart, expressed your concern that the date set by the April scheduling order for the Defence's Rule 98 bis submissions comes too close to the tail end of the summer recess. Mr. Stewart, you suggested that much, if not all, of the summer recess would therefore have to be given over to preparations for 98 bis submissions and that members of the Defence team would all -- would as a result have little or no time to take vacation. Mr. Stewart, you requested the Chamber to comment on this concern, and I promised you that we would do so. The scheduling order of the 26th of April, 2005 has the Prosecution's case closing on or before the 22nd of July, 2005. At this stage, we don't know when the Prosecution's case will actually close, so to that extent, Mr. Stewart, your application is somewhat premature, but I'm going to assume for argument's sake that the Prosecution's case does close on the 22nd of July, as scheduled. There are 16 working days in the period after the 22nd of July and before the 16th of August. The 16th of August is the day reserved for oral submissions on the acquittal motion, assuming that there is one. The Chamber was never under the impression that the Defence team would spend all 16 work days of the summer recess working on their 98 bis submissions. This is because the 98 bis procedure, as it was amended last year, is not the work-intensive milestone it once used to be. The Rule was amended precisely with the aim of keeping the milestone in place while reducing the workload that had come to be associated with it. The Chamber is not expecting, and indeed will not accept, any written submissions on the 98 bis motion. The Defence is simply to notify the Chamber and the Prosecution at the close of the Prosecution's case whether it intends to move for acquittal. This may be done orally, or by e-mail, and no reasons need to be given at that stage. If the Defence notifies the Chamber of its intention to move for acquittal, it will be invited to do so orally on the 16th of August. There will be an opportunity for an oral response from the Prosecution. The Chamber will then decide the matter, again orally, within three days. The new oral format of the 98 bis procedure changes the nature of the preparation required, while not in any way diminishing the Chamber's responsibility to make a considered decision. If the Defence intends to move for acquittal, it should begin already now to develop the points it wishes to make come the 16th of August. There is no reason to wait for the Prosecution's last witness to be heard before such an exercise may start. Indeed, by the time of the last Prosecution witness, the Defence should be aiming to be finalising any 98 bis submissions it intends to make. The same is true also of the Prosecution, which under the new procedure is effectively obliged to anticipate the Defence arguments and respond to them within a very short time frame. In the present case, the Prosecution must be prepared to respond to the Defence on the very same day it hears the Defence's submissions. I think it is clear, therefore, that the amended 98 bis procedure obliges both parties and, for that matter, the Chamber, to think about the midpoint review well in advance of the date of the review. On the understanding that the 98 bis procedure cannot be a last- minute exercise, it follows in the Chamber's mind that the 98 bis dates which have been set by the scheduling order are reasonable. This, Mr. Stewart, concludes my remarks on your observation or application for an answer. We will adjourn until tomorrow in the afternoon, quarter past 2.00 in this same courtroom and expect you then to start cross-examination, Mr. Stewart. We'll adjourn."
+    },
+    {
+      "id": 357,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "to be reconvened on Wednesday, the 18th day of May, 2005, at 2.15 p.m."
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 2.23 p.m."
+    },
+    {
+      "after_utterance": 9,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 12,
+      "text": "WITNESS:  JOHN WILSON"
+    },
+    {
+      "after_utterance": 14,
+      "text": "Examined by Mr. Harmon:"
+    },
+    {
+      "after_utterance": 212,
+      "text": "--- Recess taken at 3.43 p.m."
+    },
+    {
+      "after_utterance": 212,
+      "text": "--- On resuming at 4.19 p.m."
+    },
+    {
+      "after_utterance": 350,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 351,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 351,
+      "text": "[Trial Chamber and legal officer confer]"
+    },
+    {
+      "after_utterance": 356,
+      "text": "--- Whereupon the hearing adjourned at 5.15 p.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_May_17th,_2005.doc"
+}

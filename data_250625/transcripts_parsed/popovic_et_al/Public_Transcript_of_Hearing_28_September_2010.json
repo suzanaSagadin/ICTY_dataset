@@ -1,0 +1,3512 @@
+{
+  "case": "popovic_et_al",
+  "case_id_base": "IT-05-88",
+  "case_id_transcript": null,
+  "date": "2010-09-28",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning to everybody. We are starting a little bit late, but I am glad that everybody has arrived now. Is the next witness ready? Good morning, Ms. Chittenden."
+    },
+    {
+      "id": 2,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning, Mr. President, Your Honours, everyone in the courtroom. Yes, our next witness is ready. It's Dr. John Clark, who's Witness 10. Just before he's brought in, may I just inform you of a few translations that have been up-loaded into e-court."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, please. And in the meantime, the witness could be brought in, please."
+    },
+    {
+      "id": 4,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We have P145, 208, 269C, 776A --"
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Please, very slow for the record."
+    },
+    {
+      "id": 6,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "148, 15C, 190, 952, and we also have P16C which should be admitted under seal."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Would you please repeat the numbers from the beginning, because they are not recorded correctly."
+    },
+    {
+      "id": 8,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay. My apologies. It's 145, 208, 269C, 766A, 148, 15C, 190, and 952."
+    },
+    {
+      "id": 9,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much. The record is clear now. Good morning, sir."
+    },
+    {
+      "id": 10,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning."
+    },
+    {
+      "id": 11,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Our apologies for a late start. Would you please read aloud the solemn declaration on the card which is shown to you now."
+    },
+    {
+      "id": 12,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 13,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much. Please sit down."
+    },
+    {
+      "id": 14,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 15,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And Ms. Chittenden, for the Prosecution, has some questions for you. Ms. Chittenden."
+    },
+    {
+      "id": 16,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Good morning, Witness.",
+      "examination": "direct"
+    },
+    {
+      "id": 17,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Good morning.",
+      "reply_to": 16
+    },
+    {
+      "id": 18,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Please, could you state your name?",
+      "examination": "direct"
+    },
+    {
+      "id": 19,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "John Clark.",
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And, Dr. Clark, what is your profession?",
+      "examination": "direct"
+    },
+    {
+      "id": 21,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm a forensic pathologist.",
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And what qualifications do you have in this field?",
+      "examination": "direct"
+    },
+    {
+      "id": 23,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I have a basic medical qualification of Bachelor of Medicine, Bachelor of Surgery. I'm a -- a pathology qualification, which is the Fellow of the Oncology Pathologists in the UK, and I have a forensic qualification, a Diploma of Forensic Medicine.",
+      "reply_to": 22
+    },
+    {
+      "id": 24,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And for how long have you been a forensic pathologist?",
+      "examination": "direct"
+    },
+    {
+      "id": 25,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "About 25 years.",
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Dr. Clark, do you recall testifying in the trials of Prosecutor and Krstic in May 2000 and Prosecutor and Popovic in February 2007?",
+      "examination": "direct"
+    },
+    {
+      "id": 27,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was your testimony at that time truthful and accurate?",
+      "examination": "direct"
+    },
+    {
+      "id": 29,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And have you had the opportunity to review that testimony before coming here today?",
+      "examination": "direct"
+    },
+    {
+      "id": 31,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I have, yes.",
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And if you were asked the same questions in court today, would you answer in the same way?",
+      "examination": "direct"
+    },
+    {
+      "id": 33,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, at this time I would like to offer into evidence the witness's testimony in the Krstic and Popovic trials as Exhibits P897 and P892, respectively. I would also like to offer into evidence --"
+    },
+    {
+      "id": 35,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "One moment, please. The two exhibits, P892 and P --"
+    },
+    {
+      "id": 36,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "897."
+    },
+    {
+      "id": 37,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "-- 897 will be received with these exhibit numbers."
+    },
+    {
+      "id": 38,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. I would also like to offer into evidence the exhibits admitted through this witness in the Popovic trial. They are Exhibits P893, P895, and P --"
+    },
+    {
+      "id": 39,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think it's enough if you --"
+    },
+    {
+      "id": 40,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It's enough? Okay."
+    },
+    {
+      "id": 41,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "-- mention the last number of the whole set of exhibits."
+    },
+    {
+      "id": 42,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And P897 through P918."
+    },
+    {
+      "id": 43,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "They all will be received, but one doesn't have a translation. This is 898, yes, and this will only be marked for identification, pending translation."
+    },
+    {
+      "id": 44,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. I would also like to offer into evidence this witness's three expert reports as chief pathologist for the 1999, 2000, and 2001 exhumation seasons in Bosnia which were admitted via him in Popovic, and they are Exhibits P894, P896, and P919."
+    },
+    {
+      "id": 45,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I just received the whole list, starting with P893 through P919, and, therefore, they are included in that set."
+    },
+    {
+      "id": 46,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. Your Honours, I now have a short summary to read, if I may."
+    },
+    {
+      "id": 47,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, please."
+    },
+    {
+      "id": 48,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Dr. Clark, I'm going to read out a short summary of your testimony in the Popovic trial, and after that I'll have a few questions for you before you're cross-examined. Dr. Clark testified before this Tribunal regarding the Srebrenica-related grave-sites during the trial of Radislav Krstic on 30 and 31 May 2000 and during the trial of Vujadin Popovic et al on 19 and 20 February 2007. Dr. Clark is a forensic pathologist based in Glasgow in the United Kingdom. In 1999, 2000 and 2001, he worked for the Office of the Prosecutor as the chief pathologist for mortuary operations for the Bosnia exhumations. Prior to this, Dr. Clark volunteered for several days in 1998 as a forensic pathologist for the OTP exhumations that season. Dr. Clark performed autopsies of victims recovered from mass graves associated with the fall of the Srebrenica enclave. Dr. Clark's role was to look at the bodies which had been taken from the grave-sites by the field team, to identify injuries on the bodies, and to try to establish cause of death. The pathologists also assisted with identification and retrieval of any other evidence on the bodies. In addition, as chief pathologist, Dr. Clark was responsible for overseeing the staff and workings of the mortuary, including the anthropologists and support staff, of scene-of-crime officers, photographer, radiographer, and secretaries. In 1999, Dr. Clark produced a report summarising the results of the 1999 post-mortem examinations of the bodies recovered from the primary grave-sites of Kozluk, Nova Kasaba, Konjevic Polje, and Glogova. In 2000, he produced a report summarising the reports of that season's post-mortem examinations recovered from Lazete, Glogova and Ravnice. In 2001, he produced a report summarising the results of that season's exhumations and examinations from Ravnice, Glogova and Zeleni Jadar. In the post-mortem examinations that Dr. Clark performed in 1999, 2000 and 2001, he found that nearly all of the bodies in the grave-sites were men, ranging in age, with many of them being young. None of the men found in the grave-sites were wearing military uniforms or had weapons in their possession. Dr. Clark found that the majority of victims were killed by high-velocity gun-shot wounds. And as much as could be determined, most of them had been shot from behind. Dr. Clark also made specific findings in relation to each of the graves. In relation to the primary grave-site of Glogova, he testified that some of the bodies exhibited gun-shot and blast injuries, in keeping with the allegations relating to the Kravica warehouse execution -- sorry, incident. Similar gun-shot and blast injuries were also found on the bodies recovered from the secondary grave-site of Zeleni Jadar. Also in this general Glogova grave-site was a separate grave containing the remains of 12 men who had been tied together in pairs and shot in the back or the side of the head, probably at close range. Dr. Clark also reported that some of the victims at Kozluk, Lazete, Nova Kasaba, and Glogova were found with hand ligatures and/or blindfolds. Finally, at the Ravnice primary grave-site he found the bodies were not buried, but lying largely on the surface, and thus greatly broken up and scattered. None were blindfolded. The injuries were all gun-shot, mostly multiple, but there were no blast injuries. Your Honours, that concludes my summary. I now have a few questions to ask Dr. Clark."
+    },
+    {
+      "id": 49,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Before you do that, I would like to mention that in your first tendering move, you were not mentioning P919, the report of the witness, but that was included in the decision of the Chamber, to receive that as well."
+    },
+    {
+      "id": 50,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Sorry, that was my omission. Yes, I would like to include that. Thank you."
+    },
+    {
+      "id": 51,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It's clear for the record now. Please carry on."
+    },
+    {
+      "id": 52,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Dr. Clark, what was your role as a pathologist in the Bosnia exhumations in 1999 through 2001?",
+      "examination": "direct"
+    },
+    {
+      "id": 53,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, as a pathologist, I was one of a number of pathologists doing what pathologists do. That's to examine bodies, record our findings in them, and secure any evidence from them. The main findings were interpretation of the injuries on the body. So that was our primary role, to look at the bodies, see what findings there were, particularly describe the injuries, and then try and establish or provide a cause of death. And then, myself, I had a further role as chief pathologist, as you described the various duties I had for that.",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And what were those specific tasks as chief pathologist?",
+      "examination": "direct"
+    },
+    {
+      "id": 55,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, that was, as you've said, to make sure that the -- or oversee the general running of the mortuary, the staffing, that we had enough people, the -- I organised the sort of flow of work so that -- the pace of work and the cases that we did. I acted as -- I offered advice to colleagues and any others, and to just generally make sure that the place worked well and efficiently. And as you said, probably my major task was -- after all the practical work had been finished, was to look through all the post-mortem reports and try and extract the relevant information from them, and bring them to some coherent whole, which is what these reports that are the overall reports I've produced are.",
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Dr. Clark, in your reports and in your prior testimony, you explained the procedure at the mortuary when the bodies were brought to be examined after being transferred from the grave-sites. With the assistance of some photographs, I'd like you to briefly explain that procedure to us now.",
+      "examination": "direct"
+    },
+    {
+      "id": 57,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If we could have 65 ter 6593 in e-court, please. If we can go to page 2 firstly. Thank you."
+    },
+    {
+      "id": 58,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Dr. Clark, can you tell us about what's happening in this photo here?",
+      "examination": "direct"
+    },
+    {
+      "id": 59,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm not sure how clear it is. This is a very general view of the mortuary, a sort of random -- random picture of the mortuary. I think that's maybe slightly better there. You'll see various people in it. Essentially, we've got a number of processes. Right at the back, you'll see people in blue and white, et cetera. They are the people who are actually examining the bodies. The bodies have been taken out of fridges, they've been put onto tables. The bodies are cleaned up, kind of reorganised, because a lot of them were skeletons, and the clothing removed and any other possessions, so that's what's going on there. And we will -- the pathologists, in turn, will be noting -- noting the various findings. The person in the middle of the photograph, sitting with the dark blue and with the gloves on, is a photographer, and it's his job to be recording all the relevant evidence as things were going on. So he does that, and then he comes and files his pictures. And the person at the bottom right is, who -- you just see the light blue. He's a scene-of-crime officer, and it's his job to -- if we find any possessions or anything else on the body, to take hold of these and record them and make sure that they are -- the chain of evidence. So that's the general working. Just to go back to the people at the back there --",
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If I can interrupt you, there's a close-up photo.",
+      "examination": "direct"
+    },
+    {
+      "id": 61,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If we can just go to page 1 of this document, please."
+    },
+    {
+      "id": 62,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This is now a close-up of the sort of working area. There are three tables, if you like, three teams, going on. At the back there, we have a body. You can see the dark-brown material there. That's a body with clothing and with sort of mud from the grave. That's actually myself working at the right-hand side there. I'm assisted with -- by an anthropologist, a technician, and various other people, so we're all working together. We all have little specific jobs to do. So that's actually what's going on there. And there are three similar teams working in the mortuary doing that."
+    },
+    {
+      "id": 63,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If we can just turn to the final page, number 3, please."
+    },
+    {
+      "id": 64,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. This is kind of slightly further on. This is a body -- a skeletonised body laid out on a table. We've cleaned it, we've removed the clothing. We've reorganised the bones with the help of the anthropologists, and now we're doing -- recording our findings. This person in the front here happens to be an anthropologist who is noting the bones which are present and trying to assess the age of the person and the sex of the person. The role of the pathologist is also to look at the body, but really from the point of view of looking for injuries and identifying where they are, what caused them, and things like that. And you can see the various processes going on in the background. Generally, perhaps in a day, we would do, on a case like this, perhaps 12, 15 bodies per day going through the mortuary."
+    },
+    {
+      "id": 65,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. Thank you. We're finished with that photo now."
+    },
+    {
+      "id": 66,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Dr. Clark, you just mentioned before pathologists and anthropologists working together at the mortuary. Can you explain the difference, just once again, between their work?",
+      "examination": "direct"
+    },
+    {
+      "id": 67,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. A pathologist is medically trained, so we deal with people, we deal with the whole body. Anthropologists are not medically trained, but they have a specific expertise in looking at the skeleton, the bones. Their role in the mortuary here was really twofold. Firstly, to look at the bones, because it's really mainly from the bones that you can tell the age of the person and the sex of the person in cases like this. So they would be looking for that, the shape of the skull, the shape of the pelvis, things like that. They would also make an inventory of all the bones which were present, because some would be missing. They would list that. But because of their knowledge -- detailed knowledge of the shape of bones, where we had a broken bone, maybe in several pieces, they had that skill to be able to identify that little fragment came from that bone or whatever and perhaps glue them all together, and that made any injuries, bullet injuries particularly, all the more easy to see. So they had that dual role of assisting with identification, but also assisting the pathologists to clarify the injuries. Now, it's one thing finding an injury. It's another thing interpreting what that means, and that really is where the pathologist comes in, because with our knowledge of the rest of the body, all the soft tissues and the organs, we can get a very good idea that an injury to a bone is likely to cause these other -- the damage elsewhere in the body. So that was why the pathologist has the ultimate responsibility of the consequences of an injury and of establishing why we thought how this person would have died. So there's kind of two roles there.",
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. I'd like to just show you now P895 in e-court.",
+      "examination": "direct"
+    },
+    {
+      "id": 69,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Ms. Chittenden, are you tendering the three photographs we have seen?"
+    },
+    {
+      "id": 70,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, I would like to tender this. Thank you."
+    },
+    {
+      "id": 71,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "They will be received."
+    },
+    {
+      "id": 72,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The three coloured photographs, Your Honours, under 65 ter 06593 will be assigned P01127."
+    },
+    {
+      "id": 73,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 74,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Mr. President. If we could have Exhibit P895, and if we could first go to page 4. Now, this report doesn't have a B/C/S translation -- oh, maybe it does. Okay, great. Okay, if we can go to page 4."
+    },
+    {
+      "id": 75,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Dr. Clark, can you tell us what this document is?",
+      "examination": "direct"
+    },
+    {
+      "id": 76,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. The -- on the right-hand side -- I suppose it's on both sides. This is our working document in the mortuary. We had -- it's about 12 pages or so. And so this is what we would have on a clip board, as we're looking at the body, taking notes. And you can see lots of scoring out there, et cetera, because, you know, we're thinking about things, changing our minds, perhaps. So this is our rough notes taken at the time. And we go through various stages. This is -- right on the first page here -- well, in addition to the official details of each case and who's involved, on the first page is just a very general overview of the body, its state and things like that. And then as you go through the document --",
+      "reply_to": 75
+    },
+    {
+      "id": 77,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If we could go to the next page, please, in e-court. Thank you."
+    },
+    {
+      "id": 78,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Then we go through and we then begin to detail the clothing in a little more detail. It has to be said, just specifically, on that part of clothing, that was usually filled up after the clothing had been cleaned. We came back and filled that in afterwards. But what we're looking for in the clothing is perhaps signs of bullet injuries, any burning, anything else or any other damage that we might find on it. Then we look at the sort of -- I'll put my specs on for this, I think. These other items at the bottom of the page here."
+    },
+    {
+      "id": 79,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Just the bottom half, please. Thank you."
+    },
+    {
+      "id": 80,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "These are perhaps material which has been taken out of the body. In the pockets, cigarette lighters or what have you."
+    },
+    {
+      "id": 81,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If we can go to the next page, please."
+    },
+    {
+      "id": 82,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This page is really about general identification features. A lot of it, we cannot tell, but if we could tell just looking from the body whether this was male or female, because sometimes the body was complete, we could indicate that. More often than not, as a pathologist, we weren't able to say. We're looking at the general build, any hair that's present, teeth, things like that, just the general identification features."
+    },
+    {
+      "id": 83,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And the next page, please, in e-court."
+    },
+    {
+      "id": 84,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This is a page actually specifically compiled by the anthropologists, so I can't really speak too much about that. But this is -- they are looking at the pelvis and the skull to try and get an idea of the sex of this person, the height, and a rough idea of the age. They compile that."
+    },
+    {
+      "id": 85,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And the next page, please."
+    },
+    {
+      "id": 86,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And, again, that's -- anthropologists complete this. It's a sort of inventory for the body. You know, take for the head, it's present, the left arm, right arm, whether it's present or not. Really, in this body, it's more or less intact. I think you can see all the ticks are in the \"Present.\""
+    },
+    {
+      "id": 87,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And the next page, please."
+    },
+    {
+      "id": 88,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Now, this is our main role. This is looking at the injuries. Before we do anything on the bodies, we took the body into a special room and did a fluoroscope on it. This is a form of X-ray which really just scans the whole body and will pick up any metal fragments, particularly bullets. And we would do that for every body and see if we could identify these. After that -- yes. Then we go down to systematically look at injuries on the different parts of the body. You can see that the sort of lower half of the thing is about head and neck. I'm looking for injuries in the head and neck. You'll see nothing written there, so there's no injuries on the head and neck. If you go on to the next page --"
+    },
+    {
+      "id": 89,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Next page, please."
+    },
+    {
+      "id": 90,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "-- then you will see that we are now moving on to the trunk and that I have now started to describe. I have findings on the trunk, and I've numbered them and described it in some detail. I've then got to decide -- I'm given three options: whether I think this is an injury which is caused in life; whether I think it's probably an injury caused after death; or whether I really don't know. Now, we can come on to later on decide why we think injuries are caused in life or not, but it's probably easier to do that later. But you'll see that that first injury, this is an injury in the upper part of the chest here in which there's a big hole in the skin because this body [indiscernible], and there were fragments of -- there was disruption of the ribcage -- there was a big hole in the ribcage underneath that, and I found fragments of bullet. So I was happy that this represented a gun-shot injury on the chest. I also find, under number 2 here, sorry, multiple broken ribs. This was a pattern that we saw in a lot of bodies, and we give the benefit of the doubt that these were probably injuries caused after death, just as the body is pressing in the grave and compacted by other ones. So you'll see the tick, I think, if you go to the right-hand side --"
+    },
+    {
+      "id": 91,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "On the screen, if we can just -- thank you."
+    },
+    {
+      "id": 92,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "-- I've put \"Probably post-mortem.\""
+    },
+    {
+      "id": 93,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay. So the next page."
+    },
+    {
+      "id": 94,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If you just go down to the bottom of that page, I think it's probably empty, but -- yes, it is. So the next page. So really that was the only injury on the body. We looked at -- if there was any internal -- internal tissues. This was unusual, that it was a relatively complete body. We can actually see internal organs, and I didn't find -- I was looking for any natural disease in these and I found none."
+    },
+    {
+      "id": 95,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Next page, please."
+    },
+    {
+      "id": 96,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Next, I have recorded what photographs were taken of the body, in general terms, and the name of the photographer doing it. I've recorded what samples were taken from the body. This would be any samples of bullet, samples taken for the anthropologist to try and assess further the age of the person, samples for DNA, for attempts at future identification. So these are all recorded in that report there and given numbers; C1, C2, D1, D2."
+    },
+    {
+      "id": 97,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And the next page, please."
+    },
+    {
+      "id": 98,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This doesn't look very well. Scored out as well. This is my -- from the -- from my workings from my findings, I've now formulated conclusions. This is done usually after, you know, maybe in the days afterwards. We don't do that at the time because we need to sit down and think about things. So it's not just rushed off at the end of each case. It is considered. And I give a summary of my findings. It was an intact body. We established the person was male, about the clothing, et cetera. And I've said there was evidence of an apparent gun-shot injury to the right side of the chest, with damage to the ribcage and the rest of it. And I've concluded that was a potentially fatal injury. I've noted the other injuries which were present, the fractured ribs which I thought were post-mortem in nature, and I finally at the end there come to give a cause of death. I thought the cause of death was a gun-shot wound of the chest. And I've signed it and all the rest of it."
+    },
+    {
+      "id": 99,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And just the final page, I think."
+    },
+    {
+      "id": 100,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. This is a body diagram, and I'm just -- the dark area on the chest is just the area of disruption of this --"
+    },
+    {
+      "id": 101,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "So if we could just now go back to -- we started from page 4 on, for the record. If we could go back to page 1 of this document now, please."
+    },
+    {
+      "id": 102,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And if you could just briefly tell us, what's this here?",
+      "examination": "direct"
+    },
+    {
+      "id": 103,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "From all these rough notes and scribbles and scores-out, that folder is given to the secretaries, and they bring that all together into a nice, tight, three-page report, with my conclusions at the front there, the cause of death, and then the details which we've heard about summarised on the next two pages.",
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 105,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is just simply a typed version of the rough notes.",
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay, thank you. I've finished with that exhibit now. Thank you."
+    },
+    {
+      "id": 107,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Dr. Clark, you've mentioned bodies and body parts. Can you explain how something is classified as a body versus a body part?",
+      "examination": "direct"
+    },
+    {
+      "id": 108,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. I mean, it was quite common, and particularly in some graves, that we found intact bodies, but we also found large numbers of just a little bit of a body, perhaps an arm, perhaps a hand, a couple of ribs, sometimes slightly bigger, and we just called them body parts. They were part of a body. I mean, it's easy if you've just got a hand or a bit of skull. It's a part of a body in everybody's language. When it became a bit bigger, perhaps with the head and the trunk, most of the trunk, but no arms, no legs, is that a body part or a body? We took the view that anything which was substantially a body, in fact, there was more of a body or not, we called a body. So generally that would be some -- if there was a head there and the trunk, I would call that a body because it was -- it's a person, really, and it's identifiable. If it was just a leg or two legs, I would call that a body part. Now, there was a decision taken at the field team - I think you've heard Professor Wright testify here - and they would give a initial assessment. They would call it a body or a body part. By the time it came to the mortuary -- or after the mortuary, rather, when we'd had the chance to clean up the bodies and perhaps find extra bits there, we sometimes changed their allocation from -- of a body down to a body part or the other way 'round, a body part up to a body, and that was quite acceptable and not a problem.",
+      "reply_to": 107
+    },
+    {
+      "id": 109,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mm-hmm. And were autopsy reports prepared for both body parts as well as bodies?",
+      "examination": "direct"
+    },
+    {
+      "id": 110,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, yes.",
+      "reply_to": 109
+    },
+    {
+      "id": 111,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And in your final pathology reports for 1999, 2000 and 2001, did you include those results for the body parts in your final calculations about cause of death and gun-shot injuries?",
+      "examination": "direct"
+    },
+    {
+      "id": 112,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No. I mean, I've discussed body parts, but I've kind of left them to the side, and my main -- or the calculations about how -- the types of injuries, how common they are, the directions, et cetera, are entirely based on the bodies.",
+      "reply_to": 111
+    },
+    {
+      "id": 113,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mm-hmm, okay.",
+      "examination": "direct"
+    },
+    {
+      "id": 114,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "So we're not confusing ourselves with body parts. The problem is, of all these body parts, I don't know if some of them came from the main bodies where a bit's missing, or did they come from other bodies who we haven't yet found, and we did not have the ability or the facilities to -- or the time to match all these up. So it was easy just to record what was there, but dismiss them from the overall calculations.",
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Dr. Clark, I've just got a few more -- a couple more questions to ask you and then a few photos, and then we'll be finished. In your Popovic testimony and also in all of your three reports, you explain the limitations of pathology evidence in these cases. Can you briefly outline those for us now?",
+      "examination": "direct"
+    },
+    {
+      "id": 116,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. I think this is a very important concept to get over. These were not cases which -- the type of cases a forensic pathologist normally deals with. We normally deal with people who are freshly dead, who have all the tissues on them, you can recognise colours and injuries and any other findings. So we're not really dealing with the normal situation. We're dealing with decomposed bodies, often very discoloured just because of soil and other staining. Lots of the tissues will be missing and very often -- very often with no tissues left, just skeletons. And we've got to try and assess our findings in that. There's really four stages. When we look at the body -- these decomposed bodies, and we see something, we've got to decide is that genuine or is it not? Is this just staining which has occurred in the grave-site from a body nearby, discolouration, or some odd mark on the bone? We've got to decide that. Having decided that I think this is an injury, a genuine injury, the second stage is to decide did that injury occur before death or after death, because we've got to be very well aware of the possibility of injuries occurring to the bodies after death, and that could occur for a number of reasons. Bodies have been put into a mass grave, they're perhaps crushed together or lying heavily on top of each other. You can imagine pressure on the chest or the pelvis, and these bones can break. Bodies have also been removed from one grave to another, potentially, disrupted. So there's quite a potential for injuries to occur to the bodies after death. So we've got to decide whether this has occurred before death or after death. So the third stage, having decided I think this is an injury which has occurred in life, I've got to decide what kind of injury is it. Is this an injury caused by being hit by some weapon, by a gun-shot, by a knife, by falling? And really we're talking about injuries on the bones here, because most of the bodies were skeletonised. So that was a further assessment, had to do that. And the fourth stage was, having decided this is a genuine injury, having decided this is probably gun-shot injury, I've then got to decide did that kill them, because you may have a gun-shot injury through your hand and that's not necessarily going to kill you, or an injury through your forearm won't necessarily kill you. So I've got to decide whether -- whether that's likely to be a fatal injury. And as my training as a pathologist, I know what tissues are 'round about the bones and how people normally die because we deal with death all the time, and I could assume that -- I think if I find a bullet hole in the front of the skull and an exit hole at the back, I can be fairly certain that's going to kill that person, even though I can't see the brain in between, but I know it will be there. And, similarly, an injury to the front of the chest, there's a lot of big organs inside the chest which will get damaged. So that was why we could come -- we could come to decide about a cause of death. I have to say we did not come to that lightly, and I think you'll see from the reports that in a substantial number of cases we felt that there wasn't the evidence there to come to a positive cause of death, and these are cases which we left as unascertained. But I think it's very important to get an idea of the difficulties of looking at these bodies and the thoughts we had to have in our mind all the time.",
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Dr. Clark. Considering those limitations, just in general, what was the finding that you found in the majority for cause of death?",
+      "examination": "direct"
+    },
+    {
+      "id": 118,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, it was gun-shot injuries. I think it's -- I've worked out to about -- of these bodies, about 86 per cent of the bodies in these -- all these grave-sites had been -- had gun-shot injuries which we thought were the cause of death. Now, that leaves 14 per cent in which we couldn't find -- well, actually, there's another percentage will have died from blast injuries from explosions, and you would have to add that to them. I think that's about 5 per cent. And then there's a small proportion, and that must be about 9 per cent, 8 or 9 per cent, in which we could not come to a cause of death, and that was possibly because we couldn't find any injuries or we didn't find any injuries on the parts that were present, or we didn't think these injuries, even though they were present, were sufficient to kill. So we sort of -- I think it's important that we were prepared to accept that there were cases that we could not establish cause of death.",
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Dr. Clark. Now, finally, just before we finish, I'd like to show you three photos.",
+      "examination": "direct"
+    },
+    {
+      "id": 120,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If we could have P912 in e-court."
+    },
+    {
+      "id": 121,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Okay. Can you tell us about this photo?",
+      "examination": "direct"
+    },
+    {
+      "id": 122,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it's a bit dark. I don't know what colour it comes in. This is a skull from the side on. The right-hand side of the screen is the front as you face. You can see the teeth at the bottom right, and the left-hand side is obviously the back of the skull. This sort of horseshoe-shaped bone to the right-hand side is your cheekbone, so that's -- you're looking at the skull side on. What this injury particularly shows is a bullet hole in the skull, and that is towards the bottom left of the skull. There's not an actual arrow, but I think you can see a black hole towards the bottom left, a circular black hole. That's a gun-shot entry wound. Now, from that, you'll see various lines going up over the rest of the skull. There's certainly one going up and to the right, and there's another one going to the back, and there's some going down below. These are what happens when particularly a high-velocity bullet hits a skull. It loses a lot of energy, and the skull fragments. You get a hole, but you get these fractures running off in all directions, with a lot of disruption of the skull. So that's what it's showing, a gun-shot injury of the skull.",
+      "reply_to": 121
+    },
+    {
+      "id": 123,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And just before we go to the next photo, what are those letters and numbers down there on the ruler? What does that mean, generally?",
+      "examination": "direct"
+    },
+    {
+      "id": 124,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The numbers -- oh, yes, sorry. This is the case number. \"KP\" is \"Konjevic Polje,\" and it was grave 1 of Konjevic Polje, \"KP1,\" and each body is given a number. This was the number given by the field team, so this is the 15th body. And it's \"B,\" that means it's a body, not a body part. So Konjevic Polje, grave 1, the fifth body, and it's a body rather than a body part.",
+      "reply_to": 123
+    },
+    {
+      "id": 125,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay. Thank you. If we can go to P901 in e-court now."
+    },
+    {
+      "id": 126,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "May I interrupt you for a moment. You said first it is the 15th body, and then we saw that you said \"the fifth body.\""
+    },
+    {
+      "id": 127,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I'm sorry, it might be my eyesight."
+    },
+    {
+      "id": 128,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We saw the number 15."
+    },
+    {
+      "id": 129,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It was 15th, then. Sorry, my eyesight might have --"
+    },
+    {
+      "id": 130,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Thank you very much."
+    },
+    {
+      "id": 131,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So, Dr. Clark, what do we see here in this --",
+      "examination": "direct"
+    },
+    {
+      "id": 132,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is another skull, and this is to show a ligature around the face. The skull is rather discoloured, but I think you can see in the middle part a sort of band of pink material going 'round. It's covering the eye sockets and it's tied at the back. And this was a typical blindfold. And this body is from Kozluk, \"KK,\" the third grave at Kozluk, and it's body number 621, and it's a body. So this is just a good example of a ligature -- a blindfold around the neck -- around the face, rather.",
+      "reply_to": 131
+    },
+    {
+      "id": 133,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. And, finally, if we could have P902 in e-court."
+    },
+    {
+      "id": 134,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This is showing a pair of hands. So the hands are pointing down the way. And this is showing ligature around the wrists. You can see a binding. I think it's tied in the middle. It's looped around each wrist and there was a knot in the middle. So that's what's now showing. This also sure indicates that the varying degree of preservation of the body. This one has tissue on it, sort of leathery -- dark, leathery tissue, skin, where other ones were -- were just a skeleton. So this is Kozluk 3, body 329."
+    },
+    {
+      "id": 135,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And for these photos, where were they taken?",
+      "examination": "direct"
+    },
+    {
+      "id": 136,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They were all taken in the mortuary.",
+      "reply_to": 135
+    },
+    {
+      "id": 137,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Dr. Clark. Thank you, Your Honours. I have no further questions."
+    },
+    {
+      "id": 138,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much, Ms. Chittenden. Mr. Tolimir, now you may commence your cross-examination and put questions to the witness."
+    },
+    {
+      "id": 139,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. Greetings to the witness and everyone present. May God's will be done in these proceedings, and may the outcome be as God wishes and not as I wish."
+    },
+    {
+      "id": 140,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "[Interpretation] Mr. Clark, in the Popovic et al case, in answer to the question on the terms of reference within your work, you answered the following --",
+      "examination": "cross"
+    },
+    {
+      "id": 141,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The interpreter didn't catch the transcript page."
+    },
+    {
+      "id": 142,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 143,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "\"... this had to do with Srebrenica. There were other grave-sites, but I suppose that you want to know about the sites related to Srebrenica.\" This is my question: Being a pathologist --",
+      "examination": "cross"
+    },
+    {
+      "id": 144,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tolimir, can you please repeat the page and line number. The interpreter didn't catch that."
+    },
+    {
+      "id": 145,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. Page 7335, lines 5 and 6. Thank you."
+    },
+    {
+      "id": 146,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 147,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This is my question: Being a pathologist, in what way did you establish that the grave-sites where you worked, Kozluk, Konjevic Polje, Nova Kasaba, Glogova, Ravnice, and Zeleni Jadar, were linked with Srebrenica? Did you make any inquiries of your own or was this something that you were told? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 148,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We made no inquiries -- I made no inquiries of my own. These were -- this was information provided to me.",
+      "reply_to": 147
+    },
+    {
+      "id": 149,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And just for the record, we are looking at document P892. This is the Popovic transcript. Please carry on, Mr. Tolimir."
+    },
+    {
+      "id": 150,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President."
+    },
+    {
+      "id": 151,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 152,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You have the transcript before you to see if I'm misquoting you, perhaps. Being a pathologist, in what way -- I'm sorry, I put this question to you: Page 7335, this is the page we're looking at, line 25, you stated that the anthropologists tried to identify individuals by reference to the skeleton. This may have been misinterpreted, but can you tell me, how can one identify an individual by his or her skeleton? Do you mean age, sex, or is there any other way of identifying an individual in this way? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 153,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "What the anthropologists were doing was to get a sort of general -- basic identification features of male or female, the sex of an individual, and an idea of the age. They could not go any further than that, in terms that they could not say this is such and such a person or not. That was not our role. But what we did do was to take material from each body with a view to perhaps specific identification in the future by DNA analysis. So there were occasional bodies in which we did -- we found documentation in the pockets, but we certainly did not necessarily give that person a specific name. It was just to build up a picture of what type of bodies we had -- we were dealing with, and the specific identification was to be done by other people in the future.",
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. You've mentioned pockets now. At page 7342, line 25, and at page 7343, line 1, you stated, and I'm quoting: \"None of them had any weapons, and only rarely -- and only occasionally did we find some bullets in their pockets.\" Since your reports do not include all the findings, can you tell us whether the items found in the pockets of the individuals were forwarded for further forensic examination? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 155,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I assume they were. We -- anything found in the pockets was handed to the scenes-of-crime officer, who would deal with it thereafter. Whether it was examined or not, I do not know. We certainly made no specific examination of the contents.",
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Did any of their findings by the scene-of-crime officers, if any, end up in your report? And I mean the findings relating to the contents of the pockets. Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 157,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Only in very general terms. And I think you will see that in my report I do refer, in general, to things like cigarette lighters, occasional documents, that sort of stuff, but I haven't -- I haven't been specific about it because I didn't think that was the important part, and this -- for my report, anyway. That information is available somewhere, but I have not gone into that in any detail.",
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. At page 7342, lines 2 through 8, you said that in a great many cases, you were not able to ascertain the cause of death and you had to classify them accordingly. In lines 2 through 8, you also said that you could not rule out the possibility that the individuals were members of the army, since they -- most of them were of military age and they could carry weapons and could have been killed in combat. Today, in answer to the Prosecutor's question at page 10 - 21100 [as interpreted], you said that 5 per cent were killed -- could have been killed by a blast, and for a number of them you were unable to ascertain the cause of death. Can you tell me, is the task of a pathologist to ascertain the age of individuals found in the grave or is it the task of an anthropologist? And is it the task of an anthropologist to conclude if the person met his or her death in combat? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 159,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Before we receive the answer of the witness, could you please check, Mr. Tolimir, if you have given the right page number. It's unclear to me if that is really the part of the transcript in Popovic you were referring to. And Ms. Chittenden."
+    },
+    {
+      "id": 160,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Mr. President. That was my first comment was on line 11 we had -- you said that \"in a great many cases.\" I believe it actually says \"in a number of cases\" on T-7342, line 6, not \"great number of cases.\" And, secondly, as you mentioned, Mr. Tolimir's reference to lines 2 through 8, I don't believe that's 7342 at all. I'm asking for a transcript reference. And just finally, if we could please break up -- break up the questions there, because I noticed quite a few in that large paragraph. Thank you."
+    },
+    {
+      "id": 161,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Clark, do you recall anything of the different questions?"
+    },
+    {
+      "id": 162,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I do. I was going to make the very first point about being misquoted about the \"great number.\" I've said \"a number,\" so it's important to stress that. The last part of the question, perhaps we could deal with that, about the anthropologists. I think I have explained the difference in the roles of anthropologists and pathologists, but we did not work in isolation. We worked together, and the anthropologists gave us information about age range, sex of the body, et cetera, which I incorporated -- we incorporated into our reports, and I think that's only sensible. It brings it all together. We could -- I mean, I'm still a doctor and I can look at a body and I can make my own assessment, but I had expert guidance by the anthropologists. So I think you should picture that the anthropologists and the pathologists work closely together. They fed us information. As I've stressed, it is our job, as a pathologist, to establish cause of death. The anthropologists did not do that. They could offer their advice and expertise, saying that that is a gun-shot injury, or, I suppose, it's not that, but in the end it's the pathologist that decided. And I'm afraid I cannot remember what other parts of the question you had."
+    },
+    {
+      "id": 163,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 164,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I will repeat. Today, at page 21, 10095150 [as interpreted], you said that 5 per cent of individuals were killed in a blast, and in 8 to 9 per cent of the cases, you weren't able to ascertain the cause of death?",
+      "examination": "cross"
+    },
+    {
+      "id": 165,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In other words, approximately 14 per cent -- between 13 and 14 per cent, if we add these two cases. Did you list all these cases in your report as \"Unascertained\"? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 167,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There is a 5 per cent of the blast injuries which were -- that was the cause of death, and I think there's a small percentage -- I mean, I could get these figures -- a small percentage who died from a combination of gun-shot and blast. But in the end, I think there's probably maybe, I don't know, 3 to 4 per cent of cases in which we felt unable to give a specific cause of death, and it may well be -- a lot of these cases did still have injuries. It may well be that they still did die of gun-shot injuries, but we felt we had insufficient proof on what we were dealing with. So the vast majority of people did die of gun-shot injuries, or blast injuries, or a combination of both.",
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Judge Nyambe has a question."
+    },
+    {
+      "id": 169,
+      "speaker": "JUDGE NYAMBE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. What sort of weapon would have caused a blast injury?"
+    },
+    {
+      "id": 170,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That would be any explosive device, like a grenade or a rocket. Explosion means that it's something which would -- well, it explodes, it bursts open, and it releases small portions of metal, shell casing, et cetera, and that will damage the body. It tends to cause much greater damage to a greater area of the body because it's a larger -- larger impact. And what we found in these cases was a large area of damage to a limb or part of body, and often with little bits of shrapnel -- of metal from the grenade or the contents of the grenade actually in the body, and that indicated to us that this was a blast injury."
+    },
+    {
+      "id": 171,
+      "speaker": "JUDGE NYAMBE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "So in your profession, you'd never describe a gun-shot wound as a blast injury?"
+    },
+    {
+      "id": 172,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, we would distinguish the two."
+    },
+    {
+      "id": 173,
+      "speaker": "JUDGE NYAMBE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 174,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tolimir, please carry on. Sorry, Mr. Tolimir. Judge Mindua has a question, a follow-up question to the last one."
+    },
+    {
+      "id": 175,
+      "speaker": "JUDGE MINDUA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] I'm very sorry, Mr. Tolimir. I would like to just put a follow-up question, following Judge Nyambe's question. When it comes to the injuries that you've described, I would like to know the following. Mr. Clark, on page 22 of the transcript, lines 9 to 11, we saw a skeleton, we saw a skull, and you said that there was a hole that was probably caused by the entrance of a bullet. So there's an entry wound. And I am wondering, would you be able to say which weapon caused this entry wound? You mentioned a bullet, but could it be, for instance, a lance, or can it be something else? Because you are making a difference between injuries caused by a bullet or by an explosion, but in this particular case I would like to know: What is your level of certainty? How could you ascertain that it was, let's say, a bullet in this case?"
+    },
+    {
+      "id": 176,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Could we have P912 back on the screen, please."
+    },
+    {
+      "id": 177,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, that's a very good question, and it gives an opportunity to perhaps explain a bit about gun-shot injuries. This is a skull with a round hole in it, and that tells me that is a gun-shot injury. Now, gun-shot injuries can be caused by different types of weapon. It could be what are traditionally called low-velocity weapons, like handguns, pistols, revolvers. They tend to leave a hole in the skull, but not much in the way of fracturing 'round about. It's just the bullet going through the skull creates a hole and damages the brain and perhaps goes out. When we see a pattern of injury like this in which there's a hole, but a great deal of fragmentation 'round about, that indicates that that bullet has hit that skull with a lot of energy. And when it hits the skull, it loses all that energy, and as a result the skull fragments. And it's a highly typical pattern of what we would call a high-velocity weapon. Now, it has to be said that in a number of cases, we did find bullet holes which were only a hole in the skull and did not have this fracturing 'round about, and we thought, well, that may well be indicative of the use of a handgun, or of a revolver, or a pistol. That may be one possibility. There may be other possibilities, but it is this pattern of fragmentation of the skull which leads us to believe that. Now, the fact that it's a round hole points to this to being a bullet, as opposed to shrapnel. If this was an explosive injury, the -- it would be much more irregular. It wouldn't get this round hole. And the further thing is and you cannot see it on that picture, that when a bullet passes through the skull, it leaves a very characteristic mark. Essentially, the diametre of the hole on the outside of the skull is smaller than the diametre on the inside. So it's like a sort of funnel going in the way. It's called bevelling, it's a very characteristic feature. As I say, you cannot see it there, but we could tell that. That has the benefit of indicating to us the direction of the bullet. That's why we can tell this is an entry wound, as opposed to an exit, because often the bullet will come out the other side. So all of these point to us strongly gun-shot entry wound from a high-velocity weapon. I think you mentioned could this be some rounded, blunt object, some pole, narrow pole. Theoretically, yes, but it would not produce either the bevelling on the inside and it would not produce the surrounding fracturing and the amount of damage."
+    },
+    {
+      "id": 178,
+      "speaker": "JUDGE MINDUA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you very much. Your answer was very clear."
+    },
+    {
+      "id": 179,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tolimir, please carry on now."
+    },
+    {
+      "id": 180,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. I wish to thank Their Honours Judge Nyambe and Judge Mindua for their questions."
+    },
+    {
+      "id": 181,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 182,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This is my question for the witness: It is very important for us to see who was killed in combat and out of combat, and hence my question: Whether a person was killed in combat or in a non-combat situation, is this something that you established solely on the basis of the evidence you found there or was it also based on some independent reasoning of yours? What were the factors based on which you decided whether a person was killed out of combat? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 183,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't think I ever took that decision that these people were killed in combat or not killed in combat. I provided information which would perhaps support one argument or the other, and I think there are various groupings of findings to support -- to support one of these. Firstly, if you are thinking of a traditional army in -- men in uniform, with weapons and with bullets, well, none of the bodies we saw had any signs of that. Now, you could argue that after they'd been killed, the bullets and the weapons could have been taken away, and I cannot exclude that in the slightest. You could argue that you don't have to be wearing a military uniform to be a soldier or to fire a weapon. I quite accept that. I can't counter that. So that's one argument. But it has to be said that none of the bodies had any military uniform, and as far as we could see, virtually all of them -- or virtually none of them had any weapons or bullets in their pockets. Secondly, soldiers, by definition, are a generally fairly fit and active population, of fighting age. We were able to establish that in this group of people, particularly from some graves, there was a very wide age range from perhaps teenagers up to people potentially in their 80s or 90s, so not really what you would call a fighting-age population. Additionally, a certain portion -- proportion of these people - I think it's about, in one grave, 4 per cent in the Kozluk grave - had significant disabilities, in the sense of somebody had a glass eye, somebody had had open-heart surgery, somebody had a very rigid elbow, and so they had significant disabilities. Again, hardly a military population. Thirdly, the -- a substantial portion of people in certainly some of the graves, Kozluk, Lazete, particularly, had blindfolds and had ligatures on the wrists, again, which would go against them being traditional soldiers. And I think fourthly, and it's a point that -- it's a more general observation from general reading and knowledge, that typically in a conflict situation between two armies, the majority of people, any deaths are caused by explosion injuries rather than gun-shot injuries, and you could look at any military conflict in history and this would be borne out. And the -- sort of allied to that is that in any traditional conflict, you will find many more people are injured, rather than killed, and to my knowledge -- or at least nobody has ever put that information to me, there were not large numbers of wounded people found in the Srebrenica area. That's for other people to either provide that information or put it to me. So for all these reasons, going from the clothing, the nature of the people, the fact that a number of them had -- were restrained, clearly, and these wider issues, there was very little from the mortuary examinations to indicate that these were conflict/combat casualties.",
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Since you've made a number of points now - four that I could count - based on your experience, general knowledge and findings from the graves, and you've just said that this was what you based your findings as to whether a person was killed by a bullet or in some other way, and this is what's important for us: Tell us, please, did you know that individuals -- the individuals in Srebrenica whose mortal remains you examined mostly wore civilian clothes because the area had been demilitarised, and they were not allowed to wear uniforms in public because UNPROFOR would observe that and prevent them from going about their activities? Did anybody tell you this? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 185,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Not specifically. I'm happy to accept that, yes. And as I said earlier, they don't have to be wearing a military uniform to carry a weapon. I'm happy to accept that.",
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Did you know that in the course of the sanitisation of the general area, that ammunition and materiel and technical equipment was taken away and was not buried together with the mortal remains, and it was taken away by those who buried them? Would this have any bearing on your finding that most of the individuals recovered there were civilians? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 187,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I have no knowledge of that information. But I've also -- I think if you go back to my answer, my longish answer, you'll see that I've allowed for that, I've accepted that's a possibility. But I had no specific information about that, myself.",
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. There is one other matter which would be very important for us to hear your explanation of in order for Their Honours to make their findings. There were witnesses here testifying to the effect that a number of individuals, and in some cases they said more than a hundred, committed suicide. They were part of the column that was trying to break out of the area. Now, what would the chosen criterion be for establishing whether a suicide was committed? They were not in combat with the enemy at the time. They were on their own. We know the specific locations based on witness statements. Would it mean to you, if we told you what the location was, would it have any impact on your subsequent findings as to how the individual was killed? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 189,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's a good point. We made no judgement on any of these deaths, whether this was a suicide, homicide, accident, or whatever. We just provided the information that the majority of people were killed by gun-shot injuries. I have not mentioned anywhere the word \"homicide,\" and certainly not \"suicide.\" I fully accept the possibility of suicide. If you're telling me that -- there are various ways, of course, that you can commit suicide. If you're telling me that they committed suicide by shooting, shooting themselves, then typically people kill themselves by -- when they shoot themselves, by a gun-shot in the mouth or in the head or in the chest. I can't remember of specifically any particular case with that pattern of injury, just a single gun-shot injury perhaps in the mouth. I'd have to look back on all the files. But perhaps you're talking about suicide in other ways, and, in fact, the commonest method of suicide certainly in our country is hanging. And if somebody hanged themselves, that could well be one -- it would leave little, if any, trace at post-mortem. I would not see evidence of that, and that could be amongst the unascertained causes that we saw. So that's a possibility. If they took -- committed suicide by taking an overdose, I'm not going to see that, or certain other ways. Stabbing themselves, I might not see that either. So I think it's a fair point. It would really have to be amongst that small percentage of unascertained cases that they committed suicide. I don't think there's any evidence, in the larger 86 per cent of people or more of the gun-shot injuries, of any typical suicide pattern of that. But other methods, yes.",
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tolimir, I think this is the right time for having the first break. We must have our first break now on technical reasons, and we will resume at 11.00. And the Court Officer will assist you during the break."
+    },
+    {
+      "id": 191,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 192,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Just for the record, I would like to mention that the document P16C will be admitted under seal. Mr. Tolimir, please carry on with your cross-examination."
+    },
+    {
+      "id": 193,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. I would like the professor to help us with all his experience, because he sees both one side and another here, whereas we have to rely on his opinion."
+    },
+    {
+      "id": 194,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 195,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell us, would it be fairer, in cases where there are Prosecution witnesses, not Defence witnesses, saying that people killed one another and were not killed in combat, would it be fairer to qualify them as combat casualties, rather than qualifying them as having been killed by shrapnel or gun-shot wounds? Because we did not see the bodies ourselves, so tell us, if there are witnesses saying that over a hundred people were killed in this and that way, and we found a hundred bodies in a meadow killed by grenades or shells, wouldn't it be fairer to treat them as casualties rather than victims of a murder?",
+      "examination": "cross"
+    },
+    {
+      "id": 196,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm not sure if I follow -- follow that argument at all. Again, I have not mentioned the word \"murder\" anywhere in my report. That is for others to judge. I have only said that people were killed in such and such a way, and that could be -- that's not prejudging any situation, whether that's combat, execution, whatever. I'm not actually saying that. I've just given the cause of death and any other information, and it's up to others to take a decision on how and when that happened.",
+      "reply_to": 195
+    },
+    {
+      "id": 197,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. But if there is a witness, a Prosecution witness, not a Defence witness, who claims that in such and such a place, a certain number of people met their death in such and such a way, and another number of people who met their death in another way, is it fairer to place them all in one category as being killed by a blast or gun-shot wound or to say, specifically, that they died in such and such a way?",
+      "examination": "cross"
+    },
+    {
+      "id": 198,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm happy to -- if somebody's put it to me that, These people were killed -- this group of people were killed in this way, are your findings consistent with that, I'm happy to -- yes, yes, I would agree that is a possibility. Somebody else could put to me another scenario, and I could say, well, yes, that's possible, or I think that's unlikely for a number of reasons. But I don't think it's my place to group everybody together and say that they came from -- I have no idea. They didn't come from a particular place. I don't have that knowledge. But I've got my findings, and it's open to either Prosecution or Defence to say, Do your findings fit in with such and such a scenario, and I will say, Yes, or, Perhaps, or, I don't think so.",
+      "reply_to": 197
+    },
+    {
+      "id": 199,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I'm asking you a fair question, Professor. We had a Prosecution witness, Jean-Rene Ruez - maybe you heard of him, he was an investigator for a while - and he says that in one location, the so-called location Bare, he found more than 600 victims who were killed by artillery weapons, by shells only. Whether they were killed by direct or indirect shelling, I don't know, but they were killed in combat. And then during the clearing-up of the terrain, they were placed in mass graves, together with other people who were killed by gun-shot wounds, whether from a 10- or 15- or 500-metre distance. How are we supposed to treat them all together as victims?",
+      "examination": "cross"
+    },
+    {
+      "id": 200,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Ms. Chittenden."
+    },
+    {
+      "id": 201,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Pardon me. Objection, Your Honours. This misstates the evidence on the record, and if Mr. Tolimir is going to put a fair question to the witness, he should refer him to that piece of evidence so he can comment. My second objection is the witness has said twice that this type of question is outside his role. So, thank you."
+    },
+    {
+      "id": 202,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Indeed, that was the answer of the witness, but I'm sure the witness is able to answer the question in that way he wants to answer them. Mr. Tolimir, can you give us a reference to the testimony of Mr. Ruez?"
+    },
+    {
+      "id": 203,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you. I'll go on with my questioning while my legal assistant finds the exact reference in Jean-Rene Ruez's testimony, and then I'll put it to the professor. I'm just asking the professor for advice how we should treat these people in this case, because we have different categories of victims, and he has looked at many categories. I'm just putting to him that a Prosecution witness found a certain number of victims killed in this way, and they were later placed in a mass grave. I'm asking how we should treat these victims, as combat casualties or people killed with a specific intent?"
+    },
+    {
+      "id": 204,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 205,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How are we supposed to treat this kind of shrapnel or blast wound? I'm asking you in good faith. I'm not asking you for any answers that would be in violation of your professional ethics. Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 206,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tolimir, if you want to have an answer, you should be very precise, what you are putting to the witness. Otherwise, an expert witness will not be able to give you a precise answer if you're not able to put the testimony of the other witness in a correct way. I think first you should rephrase the evidence of the other witness, and then you perhaps could expect a precise answer by the witness."
+    },
+    {
+      "id": 207,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President, but please have understanding for me too. I don't know English, I don't have the transcript, I'm just quoting from memory, and I stand behind what I quoted. My legal assistant will find the reference. I'm just asking the professor, in the context of our discussion, to give us his advice or opinion. If the Prosecution objects to my eliciting such advice, I'll move on, but I believe this is a very experienced expert who can provide us with an adequate answer."
+    },
+    {
+      "id": 208,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Ms. Chittenden."
+    },
+    {
+      "id": 209,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Mr. President. Again, I repeat my objection that this misstates the evidence. If we turn to Ruez's testimony on day 16, so the 3rd of May, 2010, 1538, and we have from page -- line, sorry, 16 onwards, and we also have 1537, lines 5 onwards. If you see on page 1538, we're actually talking --"
+    },
+    {
+      "id": 210,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Would the counsel please speak into the microphone."
+    },
+    {
+      "id": 211,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Pardon me. If you see on page 1538, we're actually talking about surface remains, not mass graves, so that misstates the evidence. And as again, as Mr. President has asked, I would ask you to please quote the transcript when you put the question to the witness."
+    },
+    {
+      "id": 212,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If we could have that part of the transcript on the screen, that would be helpful. Then the witness will be able to comment on it."
+    },
+    {
+      "id": 213,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If you can just scroll up on 1537 to start off with, you can see the \"600,\" and then again further down on 1538, from line 16."
+    },
+    {
+      "id": 214,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "1537, lines 5 onwards, and 1538, line 16 onwards, these are the portions Ms. Chittenden indicated that Mr. Tolimir was referring to. Can you see that on the screen?"
+    },
+    {
+      "id": 215,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I have nothing on the screen yet. But perhaps I can give a general --"
+    },
+    {
+      "id": 216,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Perhaps the Court Usher can help you to have it on the screen."
+    },
+    {
+      "id": 217,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "All right. I think the essential point, he seems to be referring to cases that I had no dealings with whatsoever. Also, the only people that can determine precisely how a person died are the pathologists. The investigators can only give their -- their opinion from what findings they have. And if that coincides with the opinions of the -- in the mortuary, that's fine, but the two may well differ. I'm not sure there's a great deal more I can say. Again, I would reiterate that if it's put to me, from the cases that I have dealt with and my findings, are these consistent with combat casualties, people who have been shot in a combat and then buried, I would say perhaps they are or perhaps they're not."
+    },
+    {
+      "id": 218,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Could we scroll up a little bit so that we can see -- no, the other way around. 1538, lines 16 onwards, that was the other portion. Are you able to comment on that part?"
+    },
+    {
+      "id": 219,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, again, this is nothing -- nothing to do with me. This is a Finnish team of pathologists, it would appear to be. I have no idea what they found, so I don't think I can comment any further on that."
+    },
+    {
+      "id": 220,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tolimir."
+    },
+    {
+      "id": 221,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. I thank everyone, including Mr. Clark. I think you have managed to assist me in getting an answer that I needed and didn't have, because numbers of such victims do crop up. And I am glad that Ms. Chittenden helped us find the right reference in the transcript."
+    },
+    {
+      "id": 222,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 223,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, since this was done by a Finnish team of pathologists and they dealt with surface remains, I'm just asking: If such surface remains, about which we have witness testimony that they died in such and such a way, if they are lumped together with all the other victims of the conflict, is that really fair? Should we lump them all together or should we make a distinction based on witness testimony?",
+      "examination": "cross"
+    },
+    {
+      "id": 224,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That would be fine if we were able to identify which bodies these were, but certainly, in our level of work, we were not able to distinguish that. That might be possible nowadays, with DNA testing, to identify individuals, and then, yes, it might be possible to extract these individuals from the overall grave-site and look at them as a separate group. But we did not have that facility. It might be something that could be done, but that's a fair point. It might be fair to extract that group of people and look at them individually and not lump them in with the others. But I have no way of knowing, at the moment, who was who in a mass grave.",
+      "reply_to": 223
+    },
+    {
+      "id": 225,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. I'll move to another area. I thank you very much, because you shed light on certain facts that I needed elucidated. On page 7343 [Realtime transcript read in error \"5343\"], lines 10 to 12, you also said, and I quote: \"There were a number of those who had physical disabilities that would have prevented them from being involved in combat.\" Now, my question is: If we proceed from the fact that these are bodies --",
+      "examination": "cross"
+    },
+    {
+      "id": 226,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Gajic."
+    },
+    {
+      "id": 227,
+      "speaker": "MR. GAJIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Good morning to everyone. Just one correction to the transcript. It's page 7343, lines 10 to 12. It's the testimony of this witness in the Popovic case."
+    },
+    {
+      "id": 228,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And that, Your Honour, is under P00892."
+    },
+    {
+      "id": 229,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. Mr. Tolimir."
+    },
+    {
+      "id": 230,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] I thank Mr. Gajic for this reference. I believe the professor has now seen it and I can ask the question, if the professor can see the lines indicated."
+    },
+    {
+      "id": 231,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 232,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Have you found them?",
+      "examination": "cross"
+    },
+    {
+      "id": 233,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I can't actually see them. But I think it's unlikely that I would have used the word \"prevent them from being involved in combat.\" I would have said it makes it less likely, but I don't think I would have ever have said \"prevented them from being combat casualties.\" Certainly, my evidence this morning was that the fact that a number of people had disabilities would make them less likely to be combat -- a group of combat soldiers. It's not impossible, but it's unlikely.",
+      "reply_to": 232
+    },
+    {
+      "id": 234,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Gajic, I'm not sure if you have the right part of that testimony on the screen. I don't see anything in the lines 10 to 12 on this page. Now we have another one. We need 7343. Now we have it on the screen. Yes, thank you."
+    },
+    {
+      "id": 235,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, I accept I have used the word \"prevent\" there. Well, I mean it in the context that if you have somebody with a very rigid elbow or a rigid knee, it -- well, it certainly would prevent them from being -- using a weapon in the normal sense. So that's -- that's what I mean by that."
+    },
+    {
+      "id": 236,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 237,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. I understand what you meant. Let me ask you this: Having clarified the previous point, were there many persons with physical disabilities that would have made them unfit to do their compulsory military service, as determined by military medical panels, and were these deformities negligible? I mean, was the number of people with such deformities negligible, because I can't find that in your report?",
+      "examination": "cross"
+    },
+    {
+      "id": 238,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think it -- Kozluk was an example of -- that was probably the greatest proportion of people who did have significant disabilities. That's -- I think I estimated about 4 per cent had a significant disability. That, of course, is only the disabilities that we could see on a skeletonised body. There may have been others which we could not see. It is fair to say that in other sites, Nova Kasaba, Lazete, Glogova, there appeared to be far fewer people with any significant physical disability and that it was uncommon. Kozluk, it was more common.",
+      "reply_to": 237
+    },
+    {
+      "id": 239,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Professor, could you tell the Trial Chamber, how do you determine this, because the bodies lay in the grave for a long time, and as they moved from the primary to secondary graves, they sustained further damage? How do you determine such things?",
+      "examination": "cross"
+    },
+    {
+      "id": 240,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The main disabilities that we could see were disabilities in the skeleton. Now, the skeleton will survive. The tissues of the body will disappear. The skeleton will survive. So if somebody has an abnormal -- abnormality in the joint, for instance, in the elbow, that's still going to be there. It's sort of fused together. Similarly, if somebody has a glass eye, that is still there. Some people did have -- well, had arthritis of the spine, nodules developing in the spine. That is still visible. And one or two -- and those that did have tissues, there was evidence of previous surgery, heart surgery, or metal plates in various places. So evidence did survive in decomposed bodies, particularly when it involved the skeleton.",
+      "reply_to": 239
+    },
+    {
+      "id": 241,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. I would then like to know how we are going to determine heart surgery, previous heart surgery, if the heart is missing, if the tissue is missing.",
+      "examination": "cross"
+    },
+    {
+      "id": 242,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Two things. Sometimes the heart was still present. But in heart surgery, you have to get in to the heart, and we had to do it -- a split down the sternum, so that was still visible, with metal clips -- metal stitches in the breastbone. That was still visible, and that is a very strong indication of somebody who's had open-heart surgery. They split the breastbone, pulls it apart, surgery's done and the breastbone is stitched up with metal stitches, and that's -- they were still visible. So that was the indication. I think there was only one, possibly two, cases who showed signs of that, but they were there. That, of course, is not necessary -- not necessarily a disability, because people have open-heart surgery for a reason and they can recover very well from it, but it was a finding nonetheless.",
+      "reply_to": 241
+    },
+    {
+      "id": 243,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. For instance, we had a typical situation, I mean, the cases you worked on, wherein a number of persons you dealt with were killed in the so-called break-out operation in an attempt to cross from one territory to another in a fighting situation, that were trying to break out of encirclement. Could you tell us if there are any typical wounds that would characterise such an attempt to break out from encirclement, and is that a typical military situation that you know?",
+      "examination": "cross"
+    },
+    {
+      "id": 244,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Again, Mr. Tolimir, it would be helpful if you could give a reference to the relevant part of the reports of the witness. Ms. Chittenden."
+    },
+    {
+      "id": 245,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Mr. President. That was my objection, or I was going to suggest that he could put it as a hypothetical question to the witness, but not -- if he doesn't have any evidence to refer to there. Thank you."
+    },
+    {
+      "id": 246,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "But as Mr. Tolimir was referring to your reports, you are perhaps able to give us an answer."
+    },
+    {
+      "id": 247,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Well, I don't think it's my place to determine what's a military situation and what is not. But to perhaps try and help your answer, a break-out situation would be, I would imagine, people, men, running around and being shot. They could be shot from various directions, perhaps once, perhaps several times. Our findings could certainly fit in with that. But, equally, you could put to me another half-dozen scenarios and I would probably be saying the same thing. But there's certainly nothing that I can say this was highly characteristic of a specific military operation. That's -- there's no way I could say that."
+    },
+    {
+      "id": 248,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. Clark. Thank you, Ms. Chittenden, and I apologise for not referencing the transcript, but I just wanted to speak about it in general terms."
+    },
+    {
+      "id": 249,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 250,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You spoke of this at page 7360, lines 11 through 15, where you mentioned typical wartime situations, and you spoke of the characteristics of modern warfare. And I was referring to one; namely, a break-out situation. Perhaps you should have a chance to look at this portion of your transcript, rather than me reading it in translation, and perhaps then you can answer my question. Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 251,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think I know what you -- what you're referring to. What I was referring to is a paper in the medical literature about in typical combat situations, and I'm thinking large conflicts, that the characteristic injuries of victims are from explosions, rather than bullets, and that more people are wounded, rather than killed. That is looking at a conflict as a whole, perhaps the whole of the Gulf War, Afghanistan, Vietnam, looking at it as a whole. Whether that pertains to a very specific incident, which I think you're implying here, a very specific incident, well, it might not apply to the very specific part. All I can say, as a whole, the findings from the mortuary, in terms of the type of injuries found, would point more to a non-typical military conflict. But to get back to your original question about whether the injuries found could be consistent with a break-out, yes, it's a possibility.",
+      "reply_to": 250
+    },
+    {
+      "id": 252,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Now we have that part of the previous testimony, P892, on the screen. Mr. Tolimir."
+    },
+    {
+      "id": 253,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. I apologise to everyone, especially to the professor, for not referencing the relevant transcript page in time."
+    },
+    {
+      "id": 254,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 255,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This is my question: Can it be established, to a reasonable degree of certainty, the number of victims as a result of a combat in a break-out situation, as opposed to a situation where we have individuals shot before a firing squad or executed in some other way? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 256,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't think I can separate the two very easily.",
+      "reply_to": 255
+    },
+    {
+      "id": 257,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Can you tell us, why is it difficult to separate the two? It is very important for us to know in this trial because every added victim incurs a greater degree of responsibility. Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 258,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Of course, it depends on how you say -- you're putting the scenario of people being -- well, let me start -- in a break-out situation, as you say, I'm imagining that these are men running off somewhere and being fired at perhaps from varying directions, in which case you would expect gun-shot injuries to different parts of the body, different numbers per person. And certainly in a substantial portion of the bodies we saw, that could fit. A firing squad, I think the general picture one would get would be that men standing up, either facing or from behind, and shot once or twice or more times all in the same part of the body or the same surface of the body, then there are cases in these graves which would equally fit with that.",
+      "reply_to": 257
+    },
+    {
+      "id": 259,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Professor, for the answer."
+    },
+    {
+      "id": 260,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tolimir, the witness just stopped because you were in discussion with your legal assistant."
+    },
+    {
+      "id": 261,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 262,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "He didn't finish his answer. Please let him continue with his answer."
+    },
+    {
+      "id": 263,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I was going on to say that there were a certain number of bodies in which we found only one injury, a single gun-shot injury to the back of the skull or the side of the skull, which could certainly point to an execution or a firing squad-type injury, as opposed to a break-out. That would fit much more with that. One group of -- I can think of one group particularly in the Glogova graves of 12 men tied together, each with a bullet hole in the back or the side of the head, ligatures 'round the wrists. I hardly think that they would be classified under break-out. They're much more likely to be a specific firing squad or whatever. So I think within -- within all our cases, you could find examples of -- which would fit with your scenario of a break-out, some that could fit with the scenario of a firing squad, and some, perhaps, an even closer style -- execution-style killing."
+    },
+    {
+      "id": 264,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 265,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor, and I apologise for interrupting you. I thought you had completed your answer. I wanted you to answer this based on your experience. This is something that you did not explore, yourself, but it's something that we have to deal with. This was an area where there was combat, and both sides are aware of this. And so there was a large number of victims; 2.500 to 3.000, they were all buried in mass graves, and it is common knowledge that they were taken there from an area where there was combat, where there was an attempt to break out to cross over to free territory. Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 266,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Ms. Chittenden."
+    },
+    {
+      "id": 267,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Again, Mr. President, I object. That completely misstates the evidence in this case. Thank you."
+    },
+    {
+      "id": 268,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tolimir, if you are putting a fact to the witness, you should be precise and give a reference, please. Otherwise, the witness is not in a position to comment on it."
+    },
+    {
+      "id": 269,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. I understand your position and the position of Ms. Chittenden. I did say that the witness, himself, did not work out in the field, and we have the problem of victims being lumped together into mass graves, regardless of what the cause of their death was. That's why I put this question to him, based on his experience. But I will withdraw the question, if I have to, since I'm unable to reference the transcript page at this point. Thank you."
+    },
+    {
+      "id": 270,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If I could just --"
+    },
+    {
+      "id": 271,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This was not what I -- that was not my guidance. You shouldn't withdraw your question, but rephrase your question. If you are putting to the witness this was an area where there was combat, both sides were aware of this, and so there was a large number of victims, 2.500 to 3.000, if you are putting questions, it is not necessary to have such a statement if you have no reference. So that perhaps you should rephrase your question without such a statement of a fact which we don't know where you did obtain it from. Perhaps you could just rephrase your question and then continue."
+    },
+    {
+      "id": 272,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. I will rephrase my question. I don't know the exact references, and I believe that everyone, including the Prosecution, know that this was fighting that was going on in an attempt to break out of the area. This is something that is known to all the parties. But let me rephrase the question."
+    },
+    {
+      "id": 273,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think, Mr. McCloskey, at the moment Ms. Chittenden is taking this witness, and now after this last -- Mr. Tolimir agreed to rephrase the question. He should do it, and then we receive the answer. Please let him continue."
+    },
+    {
+      "id": 274,
+      "speaker": "MR. MCCLOSKEY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "May I speak, Mr. President?"
+    },
+    {
+      "id": 275,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No. I think only -- now it is Ms. Chittenden who is taking this witness. It is quite difficult also for the accused to have two counsel responding. Mr. Tolimir, your question, please."
+    },
+    {
+      "id": 276,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President."
+    },
+    {
+      "id": 277,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Professor, in the course of your work in Bosnia-Herzegovina, for instance, in relation to the autopsies of victims related to the fall of Srebrenica, did you draw upon the services of legal advisors who would, for instance, present you with their theory of what had transpired? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 278,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, only in the context of the courts, when various scenarios were put to me, as you are doing now.",
+      "reply_to": 277
+    },
+    {
+      "id": 279,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. In the Popovic case, in answer to the question as to whether your role, as a forensic pathologist, was to dispute any cases or was your role to work toward the verdict of conviction, now, at page 7386, lines 14 to 15, you said: \"My role was to collect evidence, and it was up to others to interpret the evidence.\" Now, at page 7387, lines 15 to 16, you stated: \"I wanted to collect information about the individuals as openly and as impartially as possible, and it was up to others to interpret my findings.\" Does this mean that it was not up to you, as a pathologist, to establish whether a person was killed in combat or was, for instance, shot, executed, and that you should draft your report without presenting any such findings? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 280,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, the latter. It was not my role to decide issues -- military -- or specific situations. I've given my findings and again emphasise that nowhere in that will you find that I've said this is definitely combat casualties or this is definitely execution, et cetera. From time to time, I have phrased it in such a way that this would -- the evidence would suggest that, perhaps suggest that or point to that. But, no, it is my role to establish what findings there are, and if that agrees with the proposition put to me by the Prosecution or the Defence, that's fine, but equally it may -- my evidence may go against either of these or not go with it. I'm, if you like, a servant of the Court. I'm not a servant of the Prosecution or the Defence.",
+      "reply_to": 279
+    },
+    {
+      "id": 281,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. That's why I was curious about certain points and asked you about it, because I didn't know how to interpret them. I'll move to a different area now, and I thank you for all the answers you've given me in this particular area.",
+      "examination": "cross"
+    },
+    {
+      "id": 282,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Can we call up P894, please. This is the report by the chief pathologist, entitled -- titled \"Srebrenica Grave-Sites.\" Can we call up -- or, rather, turn to page 2 in both the Serbian and English versions. That's a portion titled \"Autopsy Report.\" We have it on our screens. It reads: \"An autopsy report was completed for each body and body part ...\""
+    },
+    {
+      "id": 283,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 284,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This is my question: Was an autopsy of body parts carried out only once these body parts were associated, and I suppose it was done by the anthropologist, or if not, can you tell us in what way was an autopsy of body parts conducted? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 285,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We made no attempt to re-associate body parts with bodies. We dealt with the bodies, and then we had a large number of body parts, and we described -- we produced a report for each of the body parts. It was inevitably a much smaller report because we might have been dealing with just a forearm or a hand, so it was a much smaller report, but there was a report for each one. But we made no attempt -- other than, if it was very obvious, we made no attempt to link a body part with a body. That has been done subsequently, nothing to do with me, and all the evidence I'm speaking about in the reports is really to do with the bodies and not the body parts. It's perhaps stretching it to say autopsy report on a body -- on a hand or a forearm. It's a report -- an examination report. \"Autopsy\" would imply a lot more, but it certainly is an official report on each of the body parts, and that was done without any attempt at association of them.",
+      "reply_to": 284
+    },
+    {
+      "id": 286,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you for your answer, Professor. Please tell us, based on what you've just described for us, is it possible to present a higher or a lower number of victims in connection with the body parts that were not linked to a body? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 287,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I think I know what you're getting at there. The numbers I have given and are working with are just the whole bodies. The anthropologists, perhaps by looking at the body parts, could indicate that these body -- some of these body parts will be coming from other bodies which we have not seen. For instance, if -- if all 56 bodies in a grave all have a left arm, and we find a body part of a left arm, clearly it's another individual, and by -- that's a simple example. But by such an exercise, it may be possible to say, well, from these body parts, there must be at least another four or five or more individuals represented in that grave-site; the rest of the body, we have not seen. So that is why you may see varying figures. That's -- I have not worked -- my calculations are not worked -- are not based on that. They're based on physical bodies which anybody could count, one, two, three, four. We can see them, and that's what my calculations are done on.",
+      "reply_to": 286
+    },
+    {
+      "id": 288,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Bearing in mind the answer you've just given us, please answer this: In drafting these autopsy reports - I suppose that's what they're called - did both the pathologist and anthropologist write a single report for every body or were these two separate reports that were produced? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 289,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It's a fair point. There certainly is a report produced by the pathologists. The anthropologists would have -- they did their own report for each case as well, and from that, from their report, they gave us certain information which we would find useful in our report; for instance, of the age, the sex, and things like that in a body. But as far as I understand it, they have their own separate documentation. I don't know in what format that was produced, whether it was produced into an official report or not, but they certainly had all their own documentation.",
+      "reply_to": 288
+    },
+    {
+      "id": 290,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. To have a complete answer from you, tell me, does this mean that there would ultimately be the final versions of reports by anthropologists and by pathologists? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 291,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, there could well be, but we are looking at different things. I think the pathologist's report is what everybody understands as an autopsy report. Description of the body, cause of death, that's a standard autopsy report. The anthropologist will be producing their own report, but entirely for identification, and listing of bones, and aging, et cetera, information. They make no attempt -- as I understand it, they make no attempt to talk about causes of death or interpret all the findings that I've interpreted. I don't know if that helps to answer.",
+      "reply_to": 290
+    },
+    {
+      "id": 292,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. It is helpful. To have a complete understanding of what you're saying, as a layman, please tell me, did anyone analyse these two reports and draw findings as to the contents of a grave holding 100 to 200 bodies? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 293,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They may well have. I have no idea of that.",
+      "reply_to": 292
+    },
+    {
+      "id": 294,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. If this was not the case, would these reports then be considered as two separate reports? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 295,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There may well be a report from archaeologists, anthropologists, giving an idea of the overall number of bodies in a grave-site. My report deals with, simply, the whole bodies or virtually the whole bodies that we dealt with, and I'm quite happy to believe that if I'm dealing with 200 bodies from a grave, by other calculations, looking at body parts and other things, there may well have been 230 bodies. I don't know. But I'm -- I'm sticking strictly to the bodies that I can analyse. I would imagine that somebody has looked at these body parts and tried to estimate numbers of individuals, but it's not something that I've been involved in.",
+      "reply_to": 294
+    },
+    {
+      "id": 296,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. In order to fully understand what you've just told us, can you tell us, what were the facts that a pathologist dealt with and what were those that an anthropologist would deal with, as well as an archaeologist, whom you've just introduced, in order for me to be able to understand, whilst looking at reports, which concern what sort of facts and issues? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 297,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. Probably starting at the archaeologist, the archaeologist is looking at the physical grave, the structure of it and the findings within it, the general findings within it. The anthropologist, as I've explained earlier, is helping -- is assisting both the archaeologist and the pathologist in identifying the individual people and trying to assess how many there are. And the pathologist, at the other end, is -- his main task is -- having been presented with these bodies, is to look at them in detail, list injuries, other findings, and come to a cause of death. Now, the pathologist is the only person who will be looking at the -- or listing the injuries in detail, looking at the clothing, looking at the other findings, and coming to a conclusion about how that person has died. Nobody else has done that. Equally, the pathologist has nothing to do with how a grave is constructed or the other contents in a grave. That's the archaeologist's field. So the anthropologist sort of comes in in the middle there as assisting both parties.",
+      "reply_to": 296
+    },
+    {
+      "id": 298,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Now, based on what you just said about the work of the pathologist, the work of the anthropologist, and the work of the archaeologist, I realised that the most meritorious is the report of the anthropologist because they take into account all the aspects of what is found in the graves, in clothes, and the contents of pockets, et cetera. Would it be fair to say that the report of the pathologist is, in fact, the most authoritative, compared to the reports of other experts?",
+      "examination": "cross"
+    },
+    {
+      "id": 299,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, just to correct you, you have said that the work of the anthropologist, they take into account of clothes, the contents of the pockets. They don't. They had nothing to do with that. That, if anything, is the role of the pathologist. Well, I mean, overall, in terms of why people have died, yes, the pathologist's report is the most important, but I'm bound to say that in terms of the circumstances of the deaths and the burial of the bodies, then the archaeologist has the important role there. So we all do have a different role. But if you're looking at you've got somebody who was living and then somebody who's dead, why have they died, the pathologist has the main importance in establishing that.",
+      "reply_to": 298
+    },
+    {
+      "id": 300,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. That's what I meant. Perhaps I've phrased my question inaccurately. Anyway, I have to work through interpretation. What I meant to say was exactly what you just said. The pathologists are helped by anthropologists and archaeologists in forming their conclusions about the circumstances. Now, as to determining trauma injuries on bodies found in grave-sites, most of the bodies you dealt with were skeletonised. In such cases, would the role of the pathologists be even more prominent, compared to the roles of other experts in these cases, anthropologists and archaeologists?",
+      "examination": "cross"
+    },
+    {
+      "id": 301,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, first, archaeologists had no -- no role in the mortuary at all, so the archaeologists are not in the mortuary. The only two experts in the mortuary are the pathologist and the anthropologist. You said that most of the bodies were skeletonised. That's not entirely true. Quite a lot did still have some tissue on them, and certainly in some graves. But apart from that, the main evidence of trauma that we had to look at was trauma to the skeleton, to the bones, because the bones remain, tissues disappears. So, really, all our evidence is coming, by and large, from what's on the skeleton. Now, we, as doctors, pathologists, know what a skeleton looks like, in the same way we know what other parts of the body look like. The anthropologist has a specific expertise, just in solely looking at the bones, so naturally they have a lot to contribute to helping us to decide which bone is which, what part of it, if it's in several fragments, trying to link them together. So we really worked together -- closely together, but it's the pathologist that decides, yes, there's an injury to that bone, what does that mean. You don't die from damage to the bone. You die from damage to the tissues 'round about, blood vessels and what have you. So it's really only the pathologists, from their routine practice in their own countries, looking at fresh bodies, can say, well, as you get damage to the bone, it's highly likely you're going to get damage to an organ 'round about, and that's likely to prove fatal. So that was where -- that's where the pathologists differ from the anthropologists. Anthropologists assist us, but we take the final decision.",
+      "reply_to": 300
+    },
+    {
+      "id": 302,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor, for clarifying this for my purposes.",
+      "examination": "cross"
+    },
+    {
+      "id": 303,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] May I now call up in e-court pages 6 in English and Serbian of P894. Thank you. It will be easier for me to put my question and for you to answer once we see the document. Now we have it in both versions."
+    },
+    {
+      "id": 304,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 305,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "\"As it was said before, 292 whole or largely complete bodies and 233 body parts were recovered from the grave, the majority from KK3. From anthropological calculations, this constituted a minimum of 340 individuals.\" I believe you noticed that this concerns the number of bodies. You are here recording an estimate by anthropologists. Does that mean that the minimum number of individuals found in the grave is not your estimate, your calculation; it's something, rather, that you accepted from anthropologists?",
+      "examination": "cross"
+    },
+    {
+      "id": 306,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 305
+    },
+    {
+      "id": 307,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "From anthropologists or from archaeologists?"
+    },
+    {
+      "id": 308,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "From anthropologists."
+    },
+    {
+      "id": 309,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 310,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President."
+    },
+    {
+      "id": 311,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 312,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What importance is it to the pathologists the number of bodies found in a grave, considering that there are also body parts, as indicated here?",
+      "examination": "cross"
+    },
+    {
+      "id": 313,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, in this grave there were a large number of body parts. We were aware that this was a grave, as I recall, which had been disturbed, and we imagined that most of the body parts were represented, parts of bodies, damaged in removing other bodies from that grave. I mean, you can get a body part for a number of reasons: One, it could be -- could have been separated off in an injury, perhaps in a blast injury, so a foot comes off. That becomes a body part created in life. Secondly, if -- over the years, as bodies decompose and the normal tissues holding parts together, the joints, they will disappear, and so a hand can fall off or an arm can fall off the rest of the skeleton because there's not tissues to join it. Or, thirdly, it could be that the bodies have been disrupted at a later stage after death, perhaps in excavating a grave-site, in robbing, as it's called, removing bodies from it. You can imagine that during an attempt to do that, bodies will be disrupted and we'll be left with parts of bodies, and that is what appeared to be us -- appeared to us to be the explanation here.",
+      "reply_to": 312
+    },
+    {
+      "id": 314,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. I don't intend to ask anything for pure curiosity. I am asking this because I need it. Since we are dealing with approximately 41 bodies here, a few more or less, do all these body parts that are said to have constituted a minimum of 340 individuals, have they all been subjected to DNA analysis?",
+      "examination": "cross"
+    },
+    {
+      "id": 315,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Ms. Chittenden."
+    },
+    {
+      "id": 316,
+      "speaker": "MS. CHITTENDEN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Mr. President. I'm just wondering where the reference to 41 bodies came from there. If we could have a reference to that, please."
+    },
+    {
+      "id": 317,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tolimir, can you help us?"
+    },
+    {
+      "id": 318,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. I'm quoting from this text on page 6. It deals with the Kozluk grave, and it says, I quote: \"As stated previously, a total of 292 whole bodies,\" 292, I repeat, \"and 233 body parts were recovered from the grave, the majority from KK3. From anthropological calculations, this constituted a minimum of 340 individuals.\" I was looking at a difference between 292 and 340 to see what accounts for the total number shown here in court, and if there are any significant discrepancies we should take into account."
+    },
+    {
+      "id": 319,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, I think what you're posing, do all the body parts -- do they constitute the missing 42 people -- 48 people, I think. I don't know how much association has gone on since. I would imagine that some of these body parts did come from the 292 bodies, but that was -- that could not be the explanation for all of them, and that a substantial number of the 233 were parts of bodies, the rest of which had been -- was missing. Now, it may be that since then, there has been an attempt to associate these body parts with bodies in other graves, perhaps, but I don't know the results of that. But certainly there are -- there are major parts of bodies missing from this site, that we only -- all we had was some body parts for them."
+    },
+    {
+      "id": 320,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Professor."
+    },
+    {
+      "id": 321,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Could you explain, when the number of body parts -- does that imply mutual association of body parts that have not been related to any bodies? Can you explain whether these body parts have been associated with these bodies, or were they lying independently in the grave, quite independently of the bodies?",
+      "examination": "cross"
+    },
+    {
+      "id": 322,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I can't answer that with any authority because I didn't see them in the grave. I would imagine that when the bodies were being removed, if this was even -- it was separated from a body but it was obviously linked with it, that would be -- at the time when the body was removed, would be linked in with the body. So, for instance, if you had a man lying face down on the ground, and there was just him, and there was a left arm beside him, he had no left arm, and it was lying right beside the body, I think the decision would have been taken at the grave to include that into him, and that would be a body. So the fact that there are identified body parts would be parts of bodies which those people in the field team really could not associate with any body 'round about, that appeared to be quite separate. Now, where they were, whether they were all in one part of the grave or distributed throughout the whole of the grave, I don't really know that.",
+      "reply_to": 321
+    },
+    {
+      "id": 323,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. I ask this because it says \"body part,\" and that's not the same as \"bodies.\" I was thinking perhaps they are linked to the bodies or they are entirely separate and have nothing to do -- no features in common with the bodies found in the same grave.",
+      "examination": "cross"
+    },
+    {
+      "id": 324,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think you can be sure that if, for various reasons, we thought a body part belonged to a particular body, for instance, if it had the same clothing on or it was very -- lying right beside it, or there was some other feature, we would have included that into the body. But the vast majority of body parts, we were not able to associate in the mortuary. We had neither the time nor the facility to try and link them up.",
+      "reply_to": 323
+    },
+    {
+      "id": 325,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. When you say \"body part,\" do you mean one bone, separate from the other bones in the grave, or do you mean mutually associated bones, a group of bones?",
+      "examination": "cross"
+    },
+    {
+      "id": 326,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think, well --",
+      "reply_to": 325
+    },
+    {
+      "id": 327,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "[No interpretation]",
+      "examination": "cross"
+    },
+    {
+      "id": 328,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Both -- it could have been one single bone, like a femur, but most often it was a small part of a body, like a forearm, a whole arm, or a leg, or a foot. I think if one individual bone was found, a bone from a foot or a hand, they were generally collected all together and dealt with -- dealt with in that way, and there was no attempt -- we didn't really do very much on that. So \"body part\" means what you and I would imagine it means. It's a part of a body which we can identify as a small part of it.",
+      "reply_to": 327
+    },
+    {
+      "id": 329,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. You see here the subheading \"Preservation,\" the penultimate paragraph in both versions. It says: \"The degree of decomposition of the bodies varied greatly, no doubt reflecting their respective position in the grave, the protective effect of adjacent bodies, and how wet or dry that particular area was.\" And you go on to say: \"A substantial number were surprisingly well preserved, with intact leathery skin and recognisable internal organs.\" Could you explain in more detail this phenomenon wherein different bodies in the same grave are found to be in different degrees of decomposition, and have you come across such cases in other grave-sites, apart from this one?",
+      "examination": "cross"
+    },
+    {
+      "id": 330,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. I think if -- in all my work in Bosnia and Croatia and elsewhere, the thing that has surprised me more than anything is the unpredictability of the preservation of bodies in graves. And you're quite right to show surprise that one body in a grave is relatively well preserved and another one is not, it's a lot decomposed. I don't know the complete answer to it, but I can only imagine that it's what we call micro-climate, it's really just what's happening in that particular little area of the grave. It may be that because there's other bodies pressing on it, protecting it. It may be that particular grave is more moist than others, I don't know, or how deep in the grave they are. These are all things which I think we need to look at more. But it was a striking feature that sometimes some bodies were extremely well preserved and others weren't, and this did -- because I've not just worked on Srebrenica sites, but I've seen this in other sites as well.",
+      "reply_to": 329
+    },
+    {
+      "id": 331,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Could you please tell us, in view of this phenomenon: Before your pathological examination of the grave-sites, were there other experts examining the same graves, such as archaeologists and anthropologists, who provided you with information about bodies, about the degree of moisture, and other conditions in the grave? Did you receive such information before you proceeded with your own examination?",
+      "examination": "cross"
+    },
+    {
+      "id": 332,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Nothing -- nothing official. Perhaps we might have chatted at various stages and both expressed some surprise or observations about these things, but I certainly -- we received no official indication.",
+      "reply_to": 331
+    },
+    {
+      "id": 333,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Speaking about this particular case, were there bodies dating back to different periods in the same grave or were they all from approximately the same period?",
+      "examination": "cross"
+    },
+    {
+      "id": 334,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't know the answer to that. I think it's entirely possible that some bodies could have been in the grave longer than others, it's been added to, but if somebody was to tell me that, no, all the bodies were put in the grave on the same day, I -- I couldn't argue against that either. I mean, one of -- perhaps the other factors about decomposition of a body is how soon after death it goes in the ground, because bodies decompose because of bacteria in the body, and if it's sort of a warm environment or outside, then the body will begin to decompose quite relatively quickly. If the body is buried quickly and then goes into, therefore, a cold environment without any air, then decomposition will be slowed down. So the good preservation of a body may or may not be a factor of having been buried very early -- very shortly after death. That may be a factor.",
+      "reply_to": 333
+    },
+    {
+      "id": 335,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Can you tell us, was there any examination done into when the bodies may have been buried, and were there any differences in the time of burial in the same grave?",
+      "examination": "cross"
+    },
+    {
+      "id": 336,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm sure there were investigations in that line. I know the archaeologists would be able to tell different times of burial from the construction of the grave and the soil that's been put on it. I just know that from general knowledge and chatting to people. But from a pathologist's point of view, we can't offer any guidance on that at all.",
+      "reply_to": 335
+    },
+    {
+      "id": 337,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Is there any standard in the pathological -- in the pathologists' profession as to how fast bodies decompose, perhaps based on the calcium content in the bones and other factors that may help determine the age?",
+      "examination": "cross"
+    },
+    {
+      "id": 338,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm not aware of the issue about calcium content, but it may well be that that is a factor. I don't think it's the main factor in decomposition. I mean, all bodies will decompose, and we see this regularly in our own practice, decomposed bodies. I know that a body in a warm environment would decompose much more quickly than one in a cold environment. A body in water will decompose in a different way from a body on -- exposed to the air or underground. I mean, there's quite a lot of documentation about that. But I think, equally, there's actually, I think, a lot that we still need to learn, and these cases from these grave-sites have certainly opened my eyes to the variety of changes and the unpredictability of it all. I think we read in the pathology textbooks that you get one particular type of decomposition with a hot environment, one with a dry environment, one in water, and we tend to think they're all separate, but, in fact, you can see all three changes in the one body. That's quite a long answer, and I'm not sure if that -- what the original question was. But decomposition is an area which we're still learning about.",
+      "reply_to": 337
+    },
+    {
+      "id": 339,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That was precisely my question. What is the main criterion for determining the degree of decomposition of a body, as applied in this case? Was it the changes that you discussed in previous answers? What was the reason why these changes occurred faster in some bodies than in others in the same grave?",
+      "examination": "cross"
+    },
+    {
+      "id": 340,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We made no real attempt to interpret the decomposition. All I can say is that these bodies were not fresh. The appearances would suggest that they have been dead for at least several months, and very possibly years. Now, I cannot say that they've been dead for three years, four years, or five years. After a while, the changes all merge into each other. But -- so we made really no attempt to specify particularly when these people died.",
+      "reply_to": 339
+    },
+    {
+      "id": 341,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Professor. Can the professor be shown page 7 in e-court."
+    },
+    {
+      "id": 342,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Before we move to the next part of this document, perhaps this is the right time for the second break, and you should continue after the break. We will adjourn and resume at 1.00."
+    },
+    {
+      "id": 343,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, Mr. Tolimir, please continue your cross-examination."
+    },
+    {
+      "id": 344,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President."
+    },
+    {
+      "id": 345,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 346,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "My next question would be: If the witness can recall his previous answer, when we discussed clothing, or perhaps it would be good to look at page 7 of this report. I don't know if you have it in front of you, where it says: \"Clothing was still present on nearly all the bodies, some with just a few light items, others with several layers.\" Layers of clothing, I suppose. Now, my question is: Can you recall if there was some kind of regularity about this, in which part of the grave were the bodies with more clothing and in which part of the grave there were bodies with just a few items of clothing, and is this difference perhaps due to the personal habits of the individuals found in the graves or is it because clothing was removed before the bodies were buried?",
+      "examination": "cross"
+    },
+    {
+      "id": 347,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I follow your question. I don't -- we made no analysis of that at all. I don't know where a particular body was in the grave. That information will be available somewhere, but it's not something that I've seen or certainly not analysed, so I can't really help you there, I'm afraid.",
+      "reply_to": 346
+    },
+    {
+      "id": 348,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. I'm interested in this issue for practical reasons. For instance, if we have items of clothing which have gunpowder on them, and if the gunpowder found on the clothing is sent for analysis, one can establish the distance from which the individual was fired upon. So I'm asking you, were pieces of clothing sent for further forensic analysis in order to establish the distance from which the individuals found in the graves that you examined were fired upon? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 349,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, they weren't. And I think analysis of clothing for gunpowder residue in the situation of a mass grave would be meaningless because of potential transfer from one body to another. It would be one thing to look for that at an individual -- at an individual grave, but in a mass grave would be meaningless. You would perhaps prove gunpowder on a -- on clothing, but it could be argued that came off another body at whatever stage. But certainly we sent no clothing for fire-arms residue. I think, perhaps just to help the Court, what you're probably getting at is that one of the features of trying to identify distance of fire is some of the other things that come out the end of the -- end of the gun, and with -- that means smoke and flame and various other things. And if a person is shot at very close range, then on the body or the clothing, in addition to the hole from the bullet, you will see the smoke and perhaps even flame -- burning which is coming out of the barrel as well. If you go further away, and I mean even just a few feet, then the only thing that strikes the body is the bullet, because the flame and the powder don't travel any distance. They only travel a few inches or, at most, a few feet. So I know what you're trying to get at. If we looked at -- for gunpowder residue, could that -- that might indicate that was at close range, the short answer is, no, we did not look at that.",
+      "reply_to": 348
+    },
+    {
+      "id": 350,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Was clothing examined in order to establish if these individuals used weapons? For instance, if I was to operate a gun, I would have gunpowder residue on my hands, and there would also be gunpowder residue on my -- on the clothing of the person shot at? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 351,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, I go back to what I said earlier, that anybody -- just because you fire a gun or you are shot doesn't mean to say there will be gunpowder residue there anyway. There are various conditions that apply. But, certainly, we made no attempt to look for any gunpowder residue on people's hands. I mean, the same argument applies, that it's meaningless in a mass grave, and on somebody -- a body that's decomposed, would be extremely difficult anyway. So we didn't look for it, nor do I think any results we got would be in any way meaningful.",
+      "reply_to": 350
+    },
+    {
+      "id": 352,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Professor, I wasn't referring to body parts, but to pieces of clothing, such as sleeves, for instance, or the pieces of clothing where the entrance or exit hole are located. Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 353,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. Well, I've -- that's what I was imagining you were meaning, and I think I've answered that, that in an ideal case, in an individual body, it's certainly something we would look at. But it wasn't done, and it's inappropriate, really, in the situation of a mass grave, unless with very specialised techniques, which we didn't have.",
+      "reply_to": 352
+    },
+    {
+      "id": 354,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Can you please tell us, what specialised techniques are these that could possibly be applied in this case? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 355,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, not really in this case. I'm straying outside my expertise here, but I'm aware that in cases in a normal practice, one can look at tissues, even bone, under a special electro-microscope, and this can detect particles that we wouldn't see maybe in other ways. But I don't know much about that, and it certainly would have been impossible in a situation like this. So, I repeat, it wasn't done.",
+      "reply_to": 354
+    },
+    {
+      "id": 356,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Professor. Can the professor be shown page 8 in Serbian and English. This is the basis for my question."
+    },
+    {
+      "id": 357,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 358,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I'm interested in the distribution of shots. We can see from here that most of the shots were to the trunk, so this is my question: In your experience, would normally, in combat situations, most of the wounds be inflicted in the area of the trunk?",
+      "examination": "cross"
+    },
+    {
+      "id": 359,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't actually know the figures. I'm not aware of figures from general combat situations. But I would imagine -- the trunk is the largest part of the body, so it's the one that's likely to get the most number of shots. I don't know how that compares in detail with other conflicts, but I wouldn't have thought it differed a huge amount.",
+      "reply_to": 358
+    },
+    {
+      "id": 360,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Professor, you obviously stand by what is stated here, so hence my next question. Please look at the last paragraph on page 8 in Serbian, which my assistant tells me is page 9 in English. It's the first paragraph on that page. So I'm interested in the frequency of shots to legs, that particular paragraph. That's the second paragraph on page 9 in English. Thank you. We can see it on our screens, my assistant tells me. I'm interested in the frequency of shots to the legs, which is touched upon here, and those shots being more common than shots to the head: \"... it could be argued that a proportion of 27 per cent was no more than might be expected from random distribution, given that the legs account for approximately 36 per cent of the body surface, there must be a possibility that at least some of these injuries represented deliberate disabling shots to the legs, mostly followed by fatal injuries elsewhere, though the latter need not necessarily always have applied.\" I rushed through it, but I suppose you could read it in English for yourself. This is my question: In the course of examination, were you able to establish the order in which these wounds were inflicted, whether legs were shot first and then next followed something else? Was this something that was based on facts or on the general experience of pathologists? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 361,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I can answer that very quickly. I cannot tell that shots to the legs occurred before or after shots elsewhere.",
+      "reply_to": 360
+    },
+    {
+      "id": 362,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Microphone, please."
+    },
+    {
+      "id": 363,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 364,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In relation to what you said here about random distribution, does this mean that it was a random distribution of shots, or was it the result of an intent? I want to have your answer complete on the record. Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 365,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think, as I've said in the report, that this could just be random shots, and it just happens to be going into the legs rather than the trunk or the arms. But I think why I raised this possibility, there were a number of cases, and I've illustrated one, in which really the only injuries we found were injuries to the legs, and I've illustrated one particular one. It just raised in my mind the possibility of targeting of the legs, but no more than that, really. It's just raising the possibility.",
+      "reply_to": 364
+    },
+    {
+      "id": 366,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "May I interrupt you for one question, Mr. Tolimir. Is there a possibility to establish if the person who was shot was still standing or lying on the ground when shot?"
+    },
+    {
+      "id": 367,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I can't remember the specific details of that, but we could tell if it was -- the shot was going from above, down the top of the foot. I think, from memory, the -- we thought the person was standing or was -- the foot was flat on the ground, shall we say."
+    },
+    {
+      "id": 368,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "My question was not related to this specific case, but in principle."
+    },
+    {
+      "id": 369,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "In principle, we can tell -- it's not all that easy with injuries to the feet. With injuries to the skull and some other bones, it is possible to tell the direction of the shot and perhaps the position the person is likely to be in. I think with the feet, it's a lot more difficult, and I couldn't really say with any great degree of certainty whether they were upright or in any other position, in general terms."
+    },
+    {
+      "id": 370,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And if you say \"feet,\" you mean also legs, or is it different with the legs?"
+    },
+    {
+      "id": 371,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Legs, it's a bit -- it's a little bit more easy to determine direction of shots in the legs. And sometimes we would be in a situation in which we thought a single bullet had caused more than one injury in the leg. Perhaps if the knee was bent, a single bullet could cause an injury to the thigh and to the lower leg, and that might -- that would perhaps indicate the person was sitting on the ground or whatever. I think, generally, it was not all that easy to see what position the person was in when they were shot."
+    },
+    {
+      "id": 372,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I'm asking that because you were asked by Mr. Tolimir if some of the wounds on the legs were caused by shots before the shots on the chest or after."
+    },
+    {
+      "id": 373,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, I understand the question entirely, and I think the answer is it's very difficult to say one way or the other."
+    },
+    {
+      "id": 374,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much. Mr. Tolimir, please carry on."
+    },
+    {
+      "id": 375,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President."
+    },
+    {
+      "id": 376,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In order for us to be able to examine a specific situation, can you tell us, is it a typical occurrence that certain -- that incoming shots would hit the chest more often, whereas the outgoing -- or shots to the back would actually hit the legs? So if you had a person running away from you, you would most often shoot him in the leg, whereas if you have a person approaching you, you would rather be targeting the upper part of the body or the head? Is there anything you can tell us about this?",
+      "examination": "cross"
+    },
+    {
+      "id": 377,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, there's no way I can read into the mind of people who are shooting. That may be a possibility, but it's not something I can comment on.",
+      "reply_to": 376
+    },
+    {
+      "id": 378,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. My intention was to draw a conclusion from your answer when we have a typical combat situation and a typical non-combat situation. That's why I needed to have your opinion on this. Thank you. Did you draw a conclusion that some of the victims died in what was typically a combat situation, whereas others died in what was typically a non-combat situation? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 379,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Not really, but I'm happy to accept that some of the bodies we found were -- could have been in a combat situation. Equally, as I've already said, there are a number of bodies in these graves which looked far more like specific targeted injuries, the ones with the bullets in the head, maybe a single shot particularly in the head. So I think we've probably got a mixture -- well, potentially a mixture of types of situations in these graves.",
+      "reply_to": 378
+    },
+    {
+      "id": 380,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Based on what you've just told us, was distance of fire calculated at all in order to arrive at the conclusions you referred to just now? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 381,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 380
+    },
+    {
+      "id": 382,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Professor. Can we now call up page B [as interpreted] in Serbian, which is page 10 in English, and there we will find a portion of the document titled \"Distance of Fire.\""
+    },
+    {
+      "id": 383,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 384,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "We can see that the title is \"Distance of Firing.\" I quote: \"In the absence of soft tissue on most of the bodies, particularly the skin, it was impossible to say from what distance the shot had been fired; i.e., whether contact, close range or whatever. The only pointer to perhaps some of them being close range was the number of shots neatly placed at the back of the head, either in the midline or behind one or other of the ears.\" Thank you. I -- yes, I did read \"ears.\" So my question is this: You said a moment ago that it was not possible to establish what the distance of firing was. Can you tell us, what are the elements required for one to establish the distance of fire? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 385,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is, I think I explained earlier, the other features on the body which will come out of the barrel of a gun. And a bullet wound from about a couple of metres, two metres, on a body can look exactly the same as one from 100 metres or 200 metres, and it's really only at the close end that we can get an idea of whether a gun is up against the skin, or very close to it, or just a short distance away. After that, it becomes impossible. In these bodies, these decomposed bodies, there was no way that we could see any burning, staining, soot staining, or any other features around the wounds, so really we read very little into trying to estimate distances. My only -- you are right to point out that little paragraph that I mentioned. Quite clearly, if there is a shot in a series -- a group of cases in which the shot is remarkably similar and remarkably similarly placed, then it's much easier to do that, clearly, from a short distance than from a long way away.",
+      "reply_to": 384
+    },
+    {
+      "id": 386,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Can you tell us, in this specific case where you worked, how was it established -- how was the distance of firing established, if it was established? Was it based on the entry and exit wound, or was it based on the type of weapon used, or something else?",
+      "examination": "cross"
+    },
+    {
+      "id": 387,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, I think I've already answered and said that we made no -- there was very little we could read into distance of wound, and we really made no interpretation of that.",
+      "reply_to": 386
+    },
+    {
+      "id": 388,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Now, in the following paragraph, \"Nature of Weapons Used,\" you say the weapons used were high-velocity rifles: \"... this being confirmed by the recovery from many bodies of typical sharp, pointed, copper-jacketed bullets of 7.62 millimetres in diametre.\" If this kind of weapon was used, high-velocity rifles, does that mean that a close-range shot would pierce the body, including the skull, and is it true that evidence was found that this was possible even at a not-so-close range, from a greater distance, with this type of weapon?",
+      "examination": "cross"
+    },
+    {
+      "id": 389,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, with a weapon of this sort, it is quite possible to inflict devastating injuries from quite a distance away. So I'm making no conclusions about how close the weapons were. With high-velocity rifles, that's what they say, the bullet travels at a high velocity, with a lot of energy, and it can be damaging from quite a distance away. It doesn't have to be close up. But the pattern of damage that we saw in the bones clearly indicated that this was a bullet with a lot of energy in it, and it was of the type that would have come from what's called a high-velocity weapon.",
+      "reply_to": 388
+    },
+    {
+      "id": 390,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Let me ask you, as a layman, if a bullet was found in the body, it stayed in the body, does that mean that that person was killed from a higher distance -- from a greater distance, not at close range?",
+      "examination": "cross"
+    },
+    {
+      "id": 391,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's one possibility, not the only one. I mean, when a bullet -- high-velocity bullet strikes a body, it will often -- if it strikes bone, it will be -- it will break up. As well as the bone breaking up, the bullet will break up, and parts of that bullet can leave the body and some parts will stay in the body. If the bullet passes through a body without hitting bone, then it will probably pass right through it and come out the other side undamaged. That's if it doesn't hit bone. So if we have an intact bullet still in the body, then that's slightly unusual because it would indicate, perhaps, that it hasn't -- that it reached the body with a lesser power and didn't lose a lot of energy, and that could be -- for one possibility would be that it was fired from a long distance away, and we're speaking about hundreds of metres away, probably. The second possibility -- well, and so that by the time it reaches the body, it's lost its energy, a lot of its energy. The second possibility is that bullet has been fired from a closer distance, but it has gone through something else beforehand, possibly another body, possibly another part of that person's body, like an arm. So that would be another possibility. And conceivably, in a mass grave, it could have reached there after death, having gone through another body. So the fact that we have intact bullets in a body could mean fire from a distance, but certainly not by any means the only explanation for them.",
+      "reply_to": 390
+    },
+    {
+      "id": 392,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. I asked you precisely about the cases when the bullet was found in the body, as you stated in your report. You say that in many bodies, bullets were found with sharp, pointed, copper-jacketed bullets of 7.62-millimetre diametre. It's under the heading \"Nature of Weapons Used.\"",
+      "examination": "cross"
+    },
+    {
+      "id": 393,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "But not all of them intact bullets. These could have been -- that includes bullet fragments, so bullets which have broken up, and we perhaps find the lead core or the copper jacket of a bullet. Sometimes the bullets were remarkably intact. More often than not, there were just fragments of bullets, but it was still possible to -- from the dimension of them, to give an indication of the type of weapon.",
+      "reply_to": 392
+    },
+    {
+      "id": 394,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Professor. Could we now show page 10 of your report in Serbian and page 11 in English, and I would like to discuss the cause of death."
+    },
+    {
+      "id": 395,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 396,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "My first question -- it's now on the screen. It's paragraph 2 for me and paragraph 1 for you. Did pathologists use a protocol or instructions in order to come up with a uniform, standardised pathologist's report?",
+      "examination": "cross"
+    },
+    {
+      "id": 397,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We used a protocol to record the evidence. When it came to formulating cause of death, different pathologists would have, perhaps, different views. If I can just give an example. If somebody -- if there was a gun-shot injury of the head and perhaps an injury to the pelvis or to the arm, we can be fairly sure that the cause of death was the bullet to the head. That's inevitably fatal. And, personally, I would have given that as a cause of death, gun-shot wound to the head, even though there were other bullet injuries elsewhere. Other pathologists might have included them all, you know, and said gun-shot wounds to the head and the trunk. That's a fair point, but I think overall there's not an issue. The issue was the cause of death was due to gun-shot injury, and that's the important point. I think the specific final cause of death -- this may sound odd, you know, from a pathologist, and the whole point was looking at cause of death, that the actual wording is not all that important. The important thing is that the overall cause of death was gun-shot injury. So that -- and I've tried to explain that a little bit there. I think you would find any pathologist in any country would perhaps take slightly differing views about what they do include in the cause of death and they don't. This was the range of findings here.",
+      "reply_to": 396
+    },
+    {
+      "id": 398,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "We see in this table, under \"Unascertained,\" there were 55 cases of unascertained in this sample?",
+      "examination": "cross"
+    },
+    {
+      "id": 399,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 398
+    },
+    {
+      "id": 400,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And then if you look below the table, it says: \"These figures are a guide, but are open to interpretation. The decision as to what to include in the cause of death was very much a subjective one for each pathologist ...\" My question to you is: What do you mean by \"subjective\" decision by a pathologist? Does that mean that a number of pathologists can come to a number of different conclusions regarding the cause of death?",
+      "examination": "cross"
+    },
+    {
+      "id": 401,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, I've tried to explain the reasoning there. Some would give the cause which was the inevitably fatal injury. Others would be more inclusive and add, really, all of the injuries there, and that's why they would put: \"Multiple gun-shot injuries.\" That's normal professional practice. I don't think it makes a huge -- a huge issue, because my analysis of -- if you go back to the earlier sections, my analysis of where the injuries hit the body -- struck the body, whether the head or the trunk, is nothing to do with the cause of death. It's an analysis of the injuries themselves. As I stressed, the most important part here is that all but 55 of these people died from a gun-shot injury somewhere.",
+      "reply_to": 400
+    },
+    {
+      "id": 402,
+      "speaker": "MR. TOLIMIR",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, Professor. Now, looking at this page, page 10 in Serbian, page 11 in English, you've just said that out of these 55 cases -- in these 55 cases, it was not possible to determine the cause of death. Now, my question is: When it is impossible to determine the cause of death, like in these 55 cases, is it impossible for a pathologist to decide what the cause of death was and, therefore, impossible to make a reliable conclusion as to the circumstances as to the circumstances in which the person met their death?",
+      "examination": "cross"
+    },
+    {
+      "id": 403,
+      "speaker": "JOHN CLARK",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. I think, clearly, if we do not know the cause of death, it becomes very difficult to have any certainty of the circumstances of the death.",
+      "reply_to": 402
+    },
+    {
+      "id": 404,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tolimir, we are at the end of today's hearing. Could you indicate how much time you need tomorrow to conclude your cross-examination?"
+    },
+    {
+      "id": 405,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Mr. President. I will try to conclude within the first session. If the witness is helpful and gives useful answers and suggestions, then maybe we will go into the second session as well."
+    },
+    {
+      "id": 406,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much. You indicated earlier that you would need three to four hours. You should take that into account. Thank you very much again. Sir, we have to adjourn for today, and we will resume tomorrow at 9.00 in the same courtroom. Thank you. We adjourn."
+    },
+    {
+      "id": 407,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "to be reconvened on Wednesday, the 29th day of September, 2010, at 9.00 a.m."
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 9.10 a.m."
+    },
+    {
+      "after_utterance": 8,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 12,
+      "text": "WITNESS:  JOHN CLARK"
+    },
+    {
+      "after_utterance": 15,
+      "text": "Examination by Ms. Chittenden:"
+    },
+    {
+      "after_utterance": 139,
+      "text": "Cross-examination by Mr. Tolimir:"
+    },
+    {
+      "after_utterance": 191,
+      "text": "--- Recess taken at 10.31 a.m."
+    },
+    {
+      "after_utterance": 191,
+      "text": "--- On resuming at 11.04 a.m."
+    },
+    {
+      "after_utterance": 342,
+      "text": "--- Recess taken at 12.32 p.m."
+    },
+    {
+      "after_utterance": 342,
+      "text": "--- On resuming at 1.04 p.m."
+    },
+    {
+      "after_utterance": 406,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 406,
+      "text": "--- Whereupon the hearing adjourned at 1.47 p.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_28_September_2010.doc"
+}

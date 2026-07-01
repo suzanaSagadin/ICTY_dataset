@@ -1,0 +1,3385 @@
+{
+  "case": "ratko_mladic",
+  "case_id_base": "IT-09-92",
+  "case_id_transcript": "IT-09-92",
+  "date": "2015-09-15",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning to everyone in and around this courtroom. Madam Registrar, would you please call the case."
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning, Your Honours. This is case IT-09-92-T, The Prosecutor versus Ratko Mladic."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Madam Registrar. No preliminaries were announced. However, the Chamber would like to briefly deal with the videolink for next week. As was discussed already last week, due to the videolink testimony from another time zone, next Monday's hearing will commence at 12.00, not as usual, 9.30, and will last a little bit longer than the usual, in the afternoon until the videolink testimony is completed. Secondly, the -- on the 10th of September, the Chamber asked Defence via an email, to clarify if any protective measures or any Rule 70 conditions are being sought for this videolink witness. On that same day, the Defence confirmed that it does not seek protective measures for this witness but that the Canadian authorities' condition for making the witness available is that its officials are present in the courtroom and, in this specific instance, such courtroom presence would be at the videolink testimony location. Is there any objection from the Prosecution side to that presence?"
+    },
+    {
+      "id": 4,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, Mr. President."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. Then the request is granted, that the officials could be present during the testimony. There is one other matter, whether it will be -- whether the other side of the videolink will be a room in which a judge is present or whether it would just be an ordinary other room, and that may have some consequences, practical consequences, who sits where, et cetera, but that is to be sorted out now that we know that both parties agree with the presence of representatives of the Canadian government. Then if the Defence is ready to call its next witness."
+    },
+    {
+      "id": 6,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes, Your Honour."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And that would be Mr. Conway, if I'm well informed."
+    },
+    {
+      "id": 8,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] That's right."
+    },
+    {
+      "id": 9,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I do understand that the time estimates -- the newest ones are 30 minutes for the Defence and one hour and a half for the Prosecution."
+    },
+    {
+      "id": 10,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "As I advised the Defence and Mr. Ivetic specifically this morning, with the reduction of the estimated time for examination-in-chief there's a corresponding expectation of a reduction for the cross-examination, as generally happens."
+    },
+    {
+      "id": 11,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning, Mr. Conway. Before you give evidence, the Rules require that you make a solemn declaration of which the text is now handed out to you."
+    },
+    {
+      "id": 12,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 13,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Please be seated, Mr. Conway. Mr. Conway, you'll first be examined by Mr. Stojanovic. You'll find Ms. Stewart your left. Mr. Stojanovic is counsel for Mr. Mladic. Mr. Stojanovic, please proceed."
+    },
+    {
+      "id": 14,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 15,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "[Interpretation] Good morning, sir.",
+      "examination": "direct"
+    },
+    {
+      "id": 16,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Morning.",
+      "reply_to": 15
+    },
+    {
+      "id": 17,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "May I ask you to tell us your full name for the record.",
+      "examination": "direct"
+    },
+    {
+      "id": 18,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "My name is Paul Conway.",
+      "reply_to": 17
+    },
+    {
+      "id": 19,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Conway, was there a time when you gave a statement to the Defence team of Mr. Radovan Karadzic, in writing, and answered the questions they put to you?",
+      "examination": "direct"
+    },
+    {
+      "id": 20,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is correct, I did.",
+      "reply_to": 19
+    },
+    {
+      "id": 21,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Could we call up in e-court 65 ter 1D03931. Could we please look at the last page of the statement."
+    },
+    {
+      "id": 22,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Conway, do you recognise this statement; and do you recognise the signature at the end of it?",
+      "examination": "direct"
+    },
+    {
+      "id": 23,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yeah, I recognise the statement and the signature and date at the end of it.",
+      "reply_to": 22
+    },
+    {
+      "id": 24,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is this your signature in your hand and the date next to it?",
+      "examination": "direct"
+    },
+    {
+      "id": 25,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is the signature and date.",
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Could we please focus on paragraph 18 of this statement."
+    },
+    {
+      "id": 27,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Page 3 of your statement. It's in e-court. Mr. Conway, yesterday when we proofed you for your appearance before the Court, did you tell us that there is a mistake here and that the word \"north\" should be replaced by the word \"south side of the road\"?",
+      "examination": "direct"
+    },
+    {
+      "id": 28,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is correct that the word \"southern\" should appear instead of \"northern\" and this was also corrected in the previous appearance at the court.",
+      "reply_to": 27
+    },
+    {
+      "id": 29,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. And now when you've corrected this error and after you have given the solemn declaration, would you still today give identical answers to these questions and would these answers reflect the best of your knowledge and the truth of the matter concerned in the statement?",
+      "examination": "direct"
+    },
+    {
+      "id": 30,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The statement would remain the same and the facts would remain unchanged.",
+      "reply_to": 29
+    },
+    {
+      "id": 31,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 32,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, I should like to tender the statement, 65 ter 1D03931, as a Defence exhibit."
+    },
+    {
+      "id": 33,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Statement, no objections. Madam Registrar."
+    },
+    {
+      "id": 34,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Document 1D03931 receives exhibit number D1236, Your Honours."
+    },
+    {
+      "id": 35,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Admitted into evidence."
+    },
+    {
+      "id": 36,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] With your leave, Your Honour, I would like to read the short summary of Mr. Conway's statement."
+    },
+    {
+      "id": 37,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Any associated exhibits with the statement, Mr. Stojanovic?"
+    },
+    {
+      "id": 38,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] No, Your Honour."
+    },
+    {
+      "id": 39,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Now you invited the witness to correct something he said in relation to marking on a map so we now do not know what map there was he marked but we now know that instead of his intention to mark the south of the road, the north of the road or the other way around. What it is for us to consider that the description of the marking was wrong if we don't have the marked map? And isn't it true that the list of associated exhibits was not consistently the same. Initially, I think it was none, and I think later that map was announced, map of Sarajevo marked by Paul Conway. I'm a bit confused by what now your position is."
+    },
+    {
+      "id": 40,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, bearing in mind the description of the places and the location, we thought that it would not be necessary to burden the Court with this marked map, although we placed it in the system, if it should ever be needed, but we did not tender it as an associated exhibit."
+    },
+    {
+      "id": 41,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Stojanovic, if I mark something north or south of a river, then that could stretch for kilometres. Do you really think that it assists us in knowing that the marking is now the other side of the river, having no idea where approximately that is to be found? You say you would not bother us with that?"
+    },
+    {
+      "id": 42,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, in the questions I intend to put to the witness, I think it will be necessary to show it to the witness and have him explain it."
+    },
+    {
+      "id": 43,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. So you are going to tender this but then as a -- okay. I'll --"
+    },
+    {
+      "id": 44,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Not as an associated exhibit but through a question I will put to the witness."
+    },
+    {
+      "id": 45,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. So earlier you said you wouldn't need to bother us with it but now I do understand that we'll hear further from it. Let's proceed. We'll hear how your examination-in-chief develops. But you asked to read the summary. Please read the short summary."
+    },
+    {
+      "id": 46,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Witness Paul Conway is a national of Ireland, a professional military man, who spent part of his military career in UN military missions. Among other things, he worked as a Military Observer for the United Nations in Bosnia-Herzegovina. Before leaving on this mission, he underwent additional training in crater analysis for craters created by mortar shells and artillery projectiles. Upon arriving in Sarajevo, he was assigned to observation post 1 in the sector of Sedrenik and later the UNMO headquarters in Sarajevo. He remembers that on 28 August 1995 around 1100 hours, he was on duty on Observation Post 1 when he heard several explosions, the sound of which was muffled. He observed smoke coming from the direction of the market. He was unable to establish if the explosion originated from outgoing or incoming fire and the sound was less loud than he would have expected. Because of the special acoustics of the city, determining whether it was incoming or outgoing fire is frequently unreliable. That is why he cannot agree with the proposition that if somebody on OP-1 did not hear the sound of outgoing fire, he would be able to conclude that the fire was coming from the Serbian side. In his opinion, that conclusion cannot be made with any certainty. His colleague on OP-1 was not present at the observation post in those moments on 28th August 1995. Towards the end of his UNMO mission, sometime in December 1995 or beginning of January 1996, working as an officer for information in the UNMO headquarters he noticed four BH army mortars on the southern slopes of Sarajevo. That was in the sector in which the BH army had never before allowed UNMO patrols access. These mortars were well fortified, protected by sandbags, and it looked as if they had been there for a long time. Their barrels were trained to the north, to the city of Sarajevo. This is the short summary of this witness's statement, Your Honour. With your leave, I should like to put a few questions to him."
+    },
+    {
+      "id": 47,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Conway --",
+      "examination": "direct"
+    },
+    {
+      "id": 48,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Stojanovic, you may put a few questions to the witness, but I want to stand corrected because I saw that the map marked was announced as a non-associated exhibit. I missed that. I thought it was an associated exhibit, so my query was not what I should have done. Please proceed."
+    },
+    {
+      "id": 49,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you for your understanding, Your Honour."
+    },
+    {
+      "id": 50,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Conway, let us look at your statement, which is now D1236.3.",
+      "examination": "direct"
+    },
+    {
+      "id": 51,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Paragraph 3, please."
+    },
+    {
+      "id": 52,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You have your statement before you, Mr. Conway. There you stated that working in your own service you underwent training in mortars and artillery. Also in paragraph 4, you say that before going to Bosnia, you also underwent training in artillery and crater analysis. Could you please tell us whether during these courses and training you had an opportunity to familiarize yourself with the range of mortar weapons and their calibres used in Bosnia; 120 millimetres, 82 millimetres, 60 millimetres?",
+      "examination": "direct"
+    },
+    {
+      "id": 53,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "As part of general military training I would have been trained in the deployment of similar type weapons which would all have had the same range characteristics. So I would be familiar with the ranges of 120 millimetre to 60 millimetre and their tactical deployment.",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. You said that only on the basis of sound, it's not possible to make a reliable conclusion about whether the mortar fire is incoming or outgoing. Did you have any training specifically in such assessments?",
+      "examination": "direct"
+    },
+    {
+      "id": 55,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I would have attended artillery shoots, training shoots, in our national training centre so I would have been familiar with -- I would have had some familiarity - I'm not an artillery officer - with artillery sounds, and also I would have witnessed them in south Lebanon. That's Lebanon.",
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Conway, your answer has I would have -- I would have done, I would have done. My question to you is did you do that?"
+    },
+    {
+      "id": 57,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I mean, I would -- yes, I had experience of artillery shoots in the Glen of Imaal, which is our national artillery range. I attended, over the years of my military experience, several shoots from the time I joined to the army to the time I left the defence forces."
+    },
+    {
+      "id": 58,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 59,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If you say \"several,\" could you give us an indication as to whether that would be ten or a thousand."
+    },
+    {
+      "id": 60,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Not a thousand. The training would have taken place at cadets when I would have joined in 1974. We would have then, I suppose, on about every five years doing different types of courses, I would have attended in the Glen of Imaal. Over a 30-year experience I would have attended at a minimum of six serious artillery firing practices in the Glen of Imaal."
+    },
+    {
+      "id": 61,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And one such series would be approximately how many shots fired?"
+    },
+    {
+      "id": 62,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It would be ranging from the smaller mortars to large artillery, 105-millimetre, so we would spend maybe the whole day there listening to different -- the exercise wasn't to listen. That wasn't -- it was the deployment and seeing the impact of -- of -- of weapons, their range. So I can't say how many rounds would have been fired but quite a lot."
+    },
+    {
+      "id": 63,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 64,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Could we now see in e-court 65 ter 1D05845."
+    },
+    {
+      "id": 65,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Conway, you see a map before you. Do you remember this map; and can you see the signature and the date underneath?",
+      "examination": "direct"
+    },
+    {
+      "id": 66,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I remember the map and that is my signature.",
+      "reply_to": 65
+    },
+    {
+      "id": 67,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you make these markings; and did you write this handwritten text in the left bottom corner?",
+      "examination": "direct"
+    },
+    {
+      "id": 68,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is correct, I did.",
+      "reply_to": 67
+    },
+    {
+      "id": 69,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Let me also ask you: This ellipsoid shape in the centre of the map, would you tell the Court what does it is designate?",
+      "examination": "direct"
+    },
+    {
+      "id": 70,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It follows the marking of a road which is running east to west. It's the road which was referred to in paragraph 18 of my statement and it was somewhere along that road which I observed the mortar position, and it was to the south of the road.",
+      "reply_to": 69
+    },
+    {
+      "id": 71,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "[No interpretation]",
+      "examination": "direct"
+    },
+    {
+      "id": 72,
+      "speaker": "JUDGE FLUEGGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "There's no interpretation at the moment. Perhaps you repeat your question."
+    },
+    {
+      "id": 73,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes, Your Honour, I will repeat."
+    },
+    {
+      "id": 74,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Conway, I'm going to repeat my question because we had some technical problems. The markings in the lower right-hand corner of the map, the markings ABiH, VRS and OP-1, are these markings familiar to you?",
+      "examination": "direct"
+    },
+    {
+      "id": 75,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Those markings are familiar. OP-1 represents the position of the observation post, and the other two lines are the confrontation lines. The lines occupied by the Bosnian army and the Serb positions.",
+      "reply_to": 74
+    },
+    {
+      "id": 76,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And would you stand by the markings today as they stand the way you marked them in the map?",
+      "examination": "direct"
+    },
+    {
+      "id": 77,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Notwithstanding the map is not particularly clear but they certainly represent the general positions where I would expect the OP and the confrontation lines to have been.",
+      "reply_to": 76
+    },
+    {
+      "id": 78,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 79,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, I would like to propose the map for admission, which is 65 ter 1D05845."
+    },
+    {
+      "id": 80,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Madam Registrar."
+    },
+    {
+      "id": 81,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Document 1D05845 receives exhibit number D1237, Your Honours."
+    },
+    {
+      "id": 82,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And is admitted into evidence. Have you done with the map, Mr. Stojanovic?"
+    },
+    {
+      "id": 83,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes, Your Honour."
+    },
+    {
+      "id": 84,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I would have one additional question. If you say you observed mortar positions there, were these fixed positions which stayed there for a longer period of time or were you not able to determine that? Or were these mobile mortar positions?"
+    },
+    {
+      "id": 85,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, the positions were not mobile. It was a very well established position. The -- it was a classic mortar-type position. There were the -- the guns were surrounded by sandbag protection and to the best of my recollection, there were shelters for the -- for the unit who would have been operating it close by. But I was impressed that the position was not recently established, that it appeared to have been there for some time."
+    },
+    {
+      "id": 86,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. Please proceed."
+    },
+    {
+      "id": 87,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you. I would just like to go back for a moment to D1236, paragraph 20 of the statement."
+    },
+    {
+      "id": 88,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Conway --",
+      "examination": "direct"
+    },
+    {
+      "id": 89,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes, it's page 3."
+    },
+    {
+      "id": 90,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I would just like to ask you for a clarification of a part of your statement in paragraph 20, where you say that the position was in an area where UNMOs had not previously been permitted to patrol by the Bosnian army. My question is this: Did you personally have any situations where you would understand or know that they did not permit that? Where did you come by this knowledge that this was so?",
+      "examination": "direct"
+    },
+    {
+      "id": 91,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In patrolling the city, I would have gone to the roads which led up onto this higher road on several occasions and gone as far as the Bosnian check-point which was there and asked for permission to enter and always refused. It was the -- it was an exercise in attempting to get full freedom of movement in -- in -- in the -- in our patrol area, and we were refused. I always expected to be refused on this check-point, so I was quite surprised, at the final days of my time in Sarajevo, when I found the check-point had been -- almost abandoned. There were no soldiers on it. And that's why I proceeded down the road and then came across the mortar position.",
+      "reply_to": 90
+    },
+    {
+      "id": 92,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Did you, yourself, at any point in time go to the Markale location, location that we referred to here as Markale II in Sarajevo?",
+      "examination": "direct"
+    },
+    {
+      "id": 93,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Sometime after the incident, I visited the location of the impact with Colonel Konings, who was our Dutch officer in charge of the team.",
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And did Colonel Konings go before you did or carry out any investigations relating to the incident at Markale?",
+      "examination": "direct"
+    },
+    {
+      "id": 95,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Colonel Konings, and a British officer whose name I don't immediately recall, carried out the investigation of the impact immediately after -- on the day of the incident and to the best of my knowledge completed a complete report.",
+      "reply_to": 94
+    },
+    {
+      "id": 96,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did Colonel Konings tell you anything regarding his impressions or findings following the investigation?",
+      "examination": "direct"
+    },
+    {
+      "id": 97,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "My recollection is that Colonel Konings had -- could not determine who had fired the rounds and that the round had a steep trajectory. He showed me that afterwards by the evidence of the impact, of the -- of the round on -- on the roads in -- in the market-place.",
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "In order to avoid any confusion, we're talking about the August 1995 Markale market incident."
+    },
+    {
+      "id": 99,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 100,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes?"
+    },
+    {
+      "id": 101,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 102,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Please proceed."
+    },
+    {
+      "id": 103,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] II."
+    },
+    {
+      "id": 104,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Conway, we would like to thank you. This is all the questions that we had for you regarding your statement. Thank you very much.",
+      "examination": "direct"
+    },
+    {
+      "id": 105,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "One question to ask. Before you're cross-examined by the Prosecution, I have a few questions, Mr. Conway. Can I take you back to paragraph 20 of your statement, please. The last sentence there says that: \"The location may have been known to the French military unit which had posts nearby.\" Did you find out from the French units whether they did know about the location?"
+    },
+    {
+      "id": 106,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, I didn't discuss it with the French unit. The French unit originally would have been an UNPROFOR unit and I think they transferred over to being an IFOR unit at the end of December/beginning of January. End of December 1995, beginning of 1996, but I didn't have the opportunity to discuss it with their intelligence or information people."
+    },
+    {
+      "id": 107,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "So you don't know whether they may or may not have visited this place and seen for themselves the location."
+    },
+    {
+      "id": 108,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I don't imagine they would have access past the Bosnian check-point either."
+    },
+    {
+      "id": 109,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I understand what you may imagine or not imagine, but you don't know whether they did do this."
+    },
+    {
+      "id": 110,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I don't know."
+    },
+    {
+      "id": 111,
+      "speaker": "JUDGE MOLOTO",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 112,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "One follow-up question: At what distance was this French unit in relation to the location where the mortars were."
+    },
+    {
+      "id": 113,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "To be precise I would like to have a map. I can show it on a map. I have the French position on a map but it's around -- between 500 metres and maybe a kilometre. It's in this bracket of distance. It is not 3 kilometres, it's not 100 metres, it's around 500 metres to a kilometre, maybe."
+    },
+    {
+      "id": 114,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That answers my question. Is the Prosecution ready to cross-examine the witness?"
+    },
+    {
+      "id": 115,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, thank you."
+    },
+    {
+      "id": 116,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You'll now be cross-examined by Ms. Edgerton. You find Ms. Edgerton to your right. Ms. Edgerton is counsel for the Prosecution. Please proceed, Ms. Edgerton."
+    },
+    {
+      "id": 117,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 118,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Good morning, Mr. Conway.",
+      "examination": "cross"
+    },
+    {
+      "id": 119,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Good morning.",
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You weren't involved in any way in the investigation of the shelling of the market-place on 28 August 1995; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 121,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It depends on what you mean by investigation. Certainly I would have given a full report on what I witnessed around the time of 11.00. And I would have discussed it in detail with Colonel Konings who wrote the formal team report to UNMO headquarters.",
+      "reply_to": 120
+    },
+    {
+      "id": 122,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "All right.",
+      "examination": "cross"
+    },
+    {
+      "id": 123,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "So, in that sense I would have that level of investigation but I wasn't a person making conclusions, if that's what you mean.",
+      "reply_to": 122
+    },
+    {
+      "id": 124,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Now, it's correct, isn't it, that you arrived in Sarajevo about a week before your -- before the 28th of August, 1995?",
+      "examination": "cross"
+    },
+    {
+      "id": 125,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And you moved out of Team Zulu in late September, early October 1995 to go work as the deputy information officer at UNMO headquarters in the PTT building. Do I have that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 127,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "At first I went as a duty officer and then a vacancy became available and I was asked to do deputy information officer.",
+      "reply_to": 126
+    },
+    {
+      "id": 128,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So you were with Team Zulu for about five or six weeks?",
+      "examination": "cross"
+    },
+    {
+      "id": 129,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's about correct, yes.",
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And by the date of the shelling the market-place happened you had been in Sarajevo for about nine days?",
+      "examination": "cross"
+    },
+    {
+      "id": 131,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "To the best of my knowledge, those dates are correct, those calculations are correct.",
+      "reply_to": 130
+    },
+    {
+      "id": 132,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And at this time there were no longer any military observers in RS territory were there? They had all been withdrawn after the hostage crisis in May and June.",
+      "examination": "cross"
+    },
+    {
+      "id": 133,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 132
+    },
+    {
+      "id": 134,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And just to correct one small aspect of the summary. It was your team base that was in Sedrenik and not OP-1; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 135,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct. And it clarifies a comment which was made earlier by saying I was posted to OP-1. It gave the impression that I was on OP-1 permanently. OP-1 was a duty that we did --",
+      "reply_to": 134
+    },
+    {
+      "id": 136,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So we'll just come to OP-1 in a second. I just want to ask you a couple of short questions about Sedrenik and your base there. That was overlooked by a position called Sharpstone; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 137,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Sharpstone doesn't appear on a map. I think it was a colloquial term we had put on, or the team had put on it over time, but that's correct, Sharpstone was a Serb position which overlooked the team base.",
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And from time to time the -- there were sniper rounds that were fired from that location onto the walls of the team base, weren't there?",
+      "examination": "cross"
+    },
+    {
+      "id": 139,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct. I can't recall if that occurred before the shelling or after the shelling but I do remember occasions when rounds were fired. I can't tell if they were snipers or from other weapons but rounds were fired onto the team base on the outside of the wall.",
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, just in terms of your duties at OP-1 that was -- you did those shifts in 48-hour rotations. Do I have that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 141,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So in the five- or six-week period of duty that you had with Team Zulu, is it fair to say that would you have been up at OP-1 just five or six times during that period?",
+      "examination": "cross"
+    },
+    {
+      "id": 143,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I would have spent five or six periods of duty which would have been a 48-hours so that is probably a total of maybe ten days. And intermittently we would have visited the observation post.",
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And on the morning of 28 August 1995, you had just arrived at OP-1 to relieve the previous team, hadn't you?",
+      "examination": "cross"
+    },
+    {
+      "id": 145,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Speakers are kindly asked to pause between answer and question for the interpretation. Thank you."
+    },
+    {
+      "id": 146,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The routine was we would arrived on the OP at 9.00 in the morning and relieved the outgoing team."
+    },
+    {
+      "id": 147,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, in terms of the location of OP-1, is it fair to say that the Bosnian confrontation line was about 200 or so metres south of you and then there was some no man's land and the Bosnian Serb confrontation line was about another 1 kilometre directly south?",
+      "examination": "cross"
+    },
+    {
+      "id": 148,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "You're certainly correct in the first estimation that the Bosnian line was in about -- it appeared to be about 200 metres south and to give a description of that it was a very steep hill and to the best of my recollection it became wooded. So when we describe a confrontation line I never actually saw it being manned or anybody on the line and similarly on the Serb side I would never witnessed or observed any movement on that part of the line.",
+      "reply_to": 147
+    },
+    {
+      "id": 149,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "It's fair to say, isn't it, that your OP, OP-1 was -- it had a great view of the city, didn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 150,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It had a great view of that sector of the city particularly to the west, to the north towards Sedrenik. And then to the east, the view to the east was a little bit more limited. It didn't in full -- it didn't give a full view to the east but that's clearer when you're looking at a map.",
+      "reply_to": 149
+    },
+    {
+      "id": 151,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Well, I'd like to actually give you some photographs to have a look at and one of them you saw previously in your Karadzic testimony. It's P1746. Now, do you remember seeing that when you came here to testify previously?",
+      "examination": "cross"
+    },
+    {
+      "id": 152,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do.",
+      "reply_to": 151
+    },
+    {
+      "id": 153,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And you recognised your team leader Harry Konings in the foreground to the left; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 154,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The photograph is not particularly clear on this occasion.",
+      "reply_to": 153
+    },
+    {
+      "id": 155,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Well, then let me ask you -- let me remind you that in your Karadzic testimony, you confirmed, actually, that you recognised Harry Konings with the beret on in the foreground on the left and you said this showed a bit of your view from OP-1 to the west of the city.",
+      "examination": "cross"
+    },
+    {
+      "id": 156,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yeah.",
+      "reply_to": 155
+    },
+    {
+      "id": 157,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that fair?",
+      "examination": "cross"
+    },
+    {
+      "id": 158,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Sorry. This particular image is not terribly clear. I can see a person on the left who would look like Colonel Konings. I recognise a moustache but at this point, it's not ... that's even less clear.",
+      "reply_to": 157
+    },
+    {
+      "id": 159,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that OP-1 -- the view from OP-1?",
+      "examination": "cross"
+    },
+    {
+      "id": 160,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is the view from OP-1 and this was -- I can imagine this was when they were building the OP. By the time I arrived in the team it had a roof and the walls were complete. And what's in front underneath the figure A is the high-powered binoculars which was available to us, and that is the view towards the north-east of the -- of the -- from the OP.",
+      "reply_to": 159
+    },
+    {
+      "id": 161,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "All right. Let's have a look at another photograph then, please.",
+      "examination": "cross"
+    },
+    {
+      "id": 162,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Let's go to 65 ter number 33147. And I want go to page 7."
+    },
+    {
+      "id": 163,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that Colonel Konings and OP-1 and does that represent the view towards the western area of the city, as you recall it?",
+      "examination": "cross"
+    },
+    {
+      "id": 164,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's Colonel Konings, much clearer photograph. That is the view towards the west of the city. Sorry, I think I said north-east just a moment ago; I should have said north-west.",
+      "reply_to": 163
+    },
+    {
+      "id": 165,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 166,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Could that be a Prosecution Exhibit, please."
+    },
+    {
+      "id": 167,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Seem to be no objections. Could you give us any date for this photograph or where it comes from? Is there any clue as to when this photograph was taken?"
+    },
+    {
+      "id": 168,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I should be able to give you all information in due course but it was a photograph taken by Lieutenant-Colonel Konings sometime in 1995. I should be able to give you information about the month once we have a chance to check."
+    },
+    {
+      "id": 169,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour I might be able to help if it's -- if you wish."
+    },
+    {
+      "id": 170,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, Mr. Conway."
+    },
+    {
+      "id": 171,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Colonel Konings left the mission area I think around September, October, so I think he would have spent maybe three months, four months in Sarajevo. So it's within that bracket."
+    },
+    {
+      "id": 172,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Because you said there was a roof there et cetera and I don't see a roof here. That's the reason why I was inquiring into --"
+    },
+    {
+      "id": 173,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It's certainly before I arrived. When I arrived the OP had a roof and it -- it had some mature characteristics, if you you understand what I mean by that. The sandbags had aged little. But I would say this was probably in July sometime or --"
+    },
+    {
+      "id": 174,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, well, probabilities are not."
+    },
+    {
+      "id": 175,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay."
+    },
+    {
+      "id": 176,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I do understand that that's your impression, that may have been July."
+    },
+    {
+      "id": 177,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We can just check it. Lieutenant-Colonel Konings' written evidence, that would be the way. I'm sure he gives a date range."
+    },
+    {
+      "id": 178,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You tendered this photograph but it's one out of a series of seven, I think."
+    },
+    {
+      "id": 179,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 180,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Do you want just this one? Then you should upload it separately."
+    },
+    {
+      "id": 181,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Exactly, Your Honour. Please."
+    },
+    {
+      "id": 182,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Then could we mark for identification this photograph and it would be under what number."
+    },
+    {
+      "id": 183,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Page 7 of the document receives exhibit number P7543, Your Honours."
+    },
+    {
+      "id": 184,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "P7543 is marked for identification pending the upload of only this seventh page of what is now in e-court. Please proceed."
+    },
+    {
+      "id": 185,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 186,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And we're going to look at a few more photographs, Mr. Conway, and deal with them similarly. If we can. Can we go, please, to page 2 of this 65 ter number? Mr. Conway, that's a view from OP-1 looking down into the Sarajevo city centre, isn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 187,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't recognize any particular feature that it looks like. But I can say -- I could see from the OP --",
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If the quality of the photograph makes it difficult for you, we can move on. That's not a problem.",
+      "examination": "cross"
+    },
+    {
+      "id": 189,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, that's not -- the quality is fine. I'm looking for a feature that I can say I definitely recognise in this picture. I think I can see -- in the just off to the right of the centre is that -- that would appear to be the library building.",
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Immediately to the left of the branches on the tree that's on the right side of the page, is that what you're referring to?",
+      "examination": "cross"
+    },
+    {
+      "id": 191,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There's a building there that would appear be to the library building.",
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Madam Registrar, I wonder if you would be able to enlarge that for Mr. Conway. Go to the tree on the right-hand side of the page, yes, and enlarge the square that you're at there. Thank you."
+    },
+    {
+      "id": 193,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, I think that would appear to be the library building."
+    },
+    {
+      "id": 194,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You are now talking about the building which is seen just a little bit up and left with what seems to be a tower to the left-hand side of it and then a larger building, two storeys, with clearly black ... what seems to be black windows or black openings in that building. Is that what you're referring --"
+    },
+    {
+      "id": 195,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That's the building I'm referring to."
+    },
+    {
+      "id": 196,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Where the pointer is now. It will disappear. If -- if -- perhaps the witness could be given a pen to mark the building he refers to."
+    },
+    {
+      "id": 197,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think that would be very helpful."
+    },
+    {
+      "id": 198,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. At the same time, we cannot enlarge it later. We cannot change the scale. Could you please mark -- yes, that is the building you're talking about. That should be tendered now separately. Madam Registrar."
+    },
+    {
+      "id": 199,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Page 2 of document 33147 with the remarks of the witness receives exhibit number P7544, Your Honours."
+    },
+    {
+      "id": 200,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. And that would then be admitted into evidence. Please proceed."
+    },
+    {
+      "id": 201,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 202,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now let's just have a look at two more photos. Could we go --",
+      "examination": "cross"
+    },
+    {
+      "id": 203,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Could we go back and have confirmed this is the view from OP-1 over the city. Having identified the building, is this approximately what you saw from OP-1, Mr. Conway? And let's go back to the entire picture. No, not that one. The one we saw earlier."
+    },
+    {
+      "id": 204,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That would be 65 ter number 33147, page 2."
+    },
+    {
+      "id": 205,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "There we have. Is this the view, having now identified the library building, the view you had from OP-1 over the city?"
+    },
+    {
+      "id": 206,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The view was more panoramic than this particular photograph. We could see a lot more to the east and I think to the -- to the west also. I'm still not certain on this photograph. I think if I saw it in the context of other photographs --"
+    },
+    {
+      "id": 207,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Fine. You say I'm not able to confirm it. Let's move on."
+    },
+    {
+      "id": 208,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, I see the break is in about two minutes. I could deal with one more photograph or we could take the break now."
+    },
+    {
+      "id": 209,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "On my clock it's time for the break now. So, therefore, let's take the break. We'll take a break of 20 minutes, Mr. Conway, and we'd like to see you back after that."
+    },
+    {
+      "id": 210,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay."
+    },
+    {
+      "id": 211,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We resume at ten minutes to 11.00."
+    },
+    {
+      "id": 212,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Traldi, I do understand that you requested one minute to explain a matter. Please proceed."
+    },
+    {
+      "id": 213,
+      "speaker": "MR. TRALDI",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, Mr. President. Good morning. Just a brief matter that Chamber's staff had asked that we put on record today. On 24 August 2015 the Defence sent an e-mail regarding outstanding issues noting, inter alia, they had communicated to us a request for revised translation of P7209. The parties have spoken about that document. We agree that in the third paragraph in the sentence referring to the \"joint action of the army, the special unit and our police,\" the special unit in question is the same special unit discussed elsewhere in the document. And we've spoken with the Defence and been advised that this removes the need for any further review of the translation."
+    },
+    {
+      "id": 214,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That's hereby on the record. The Chamber always appreciate if the parties are able to agree on a certain matter. That was it, Mr. Traldi."
+    },
+    {
+      "id": 215,
+      "speaker": "MR. TRALDI",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It is, Mr. President. Except to ask to be excused with that having been dealt with."
+    },
+    {
+      "id": 216,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, you are excused. The witness may enter the courtroom."
+    },
+    {
+      "id": 217,
+      "speaker": "MR. TRALDI",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 218,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Ms. Edgerton, please proceed, and could I invite you and the witness not to forget to make short pauses after the question and after the answer. Please proceed."
+    },
+    {
+      "id": 219,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. And we'll continue with the photographs which I can now advise Your Honours were taken between 4 May and 31 October 1995, and the source for that is the written evidence of Lieutenant-Colonel Konings, P1741, paragraph 9, where he sets out his tour of duty. Could we go to page 3 in 65 ter number 33147. Thank you."
+    },
+    {
+      "id": 220,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, Mr. Conway, you indicated earlier to me in testimony that from OP-1 you had an excellent view looking north towards Sedrenik. That picture that you see in front of you is a view, represents a view from OP-1 looking north towards Sedrenik, doesn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 221,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It certainly resembles the landscape which we have been familiar with from OP-1. I'm looking for a feature that I would recognise and certainly the distant landscape was the type of landscape which we were looking at.",
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you see Sedrenik? Do you see Grdonj on this picture?",
+      "examination": "cross"
+    },
+    {
+      "id": 223,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It's difficult to pick them out exactly. This is a recollection difficulty. And I'm uncertain. But I would think Sedrenik is probably in the centre left of the picture.",
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now you've just pointed to the screen with your finger. Could I invite you to make a marking indicating the location you've just identified.",
+      "examination": "cross"
+    },
+    {
+      "id": 225,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Is that not... okay.",
+      "reply_to": 224
+    },
+    {
+      "id": 226,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The witness has made an oval red circle indicating to what he believes to his recollection is the area of Sedrenik.",
+      "examination": "cross"
+    },
+    {
+      "id": 227,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Could I have this as another Prosecution Exhibit, please, Your Honour."
+    },
+    {
+      "id": 228,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Madam Registrar."
+    },
+    {
+      "id": 229,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "But perhaps we could add it to P7543."
+    },
+    {
+      "id": 230,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This is a marked one which is --"
+    },
+    {
+      "id": 231,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Ah --"
+    },
+    {
+      "id": 232,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Therefore the marked ones are separate, I think."
+    },
+    {
+      "id": 233,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 234,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Madam Registrar."
+    },
+    {
+      "id": 235,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Page 3 of 33147 with witness remarks receives exhibit number P7545, Your Honours."
+    },
+    {
+      "id": 236,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And is admitted into evidence."
+    },
+    {
+      "id": 237,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Could we now move to page 4 of this same 65 ter number. Thank you."
+    },
+    {
+      "id": 238,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, Mr. Conway, you also mentioned immediately in behind OP-1 the steep hills on their way up to the confrontation lines south of you. This is a view of -- a photo the feature immediately behind and just to the east of OP-1, isn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 239,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There's nothing specific in the photograph that I recognise.",
+      "reply_to": 238
+    },
+    {
+      "id": 240,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What we'll do is that we'll move on and see if your recollection serves you on the next picture which would be at page 6.",
+      "examination": "cross"
+    },
+    {
+      "id": 241,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Waiting for that to appear on the screen, you say there's nothing that you specifically recognise but there's also not anything for which you'd say it certainly is not."
+    },
+    {
+      "id": 242,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Absolutely. It looks like the general topography which I would have been familiar with in the area but there's no feature there. I think I see a mast which might have been the remains of an old cable car system which I think was in that location. But it would -- it looks like it was taken from the area where we had a house a kind of accommodation house where a family lived which was within about 100 metres from the observation post. It looks like it's been taken from that location. But, as I say, I cannot say I specifically see something which I 100 per cent identify, but it does look like the general area."
+    },
+    {
+      "id": 243,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Please proceed."
+    },
+    {
+      "id": 244,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, given those comments could I have this as a Prosecution exhibit, please, Your Honours?"
+    },
+    {
+      "id": 245,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Would that not be part, then, of your series?"
+    },
+    {
+      "id": 246,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 247,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 248,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Part of 7543, if it could just be added to that."
+    },
+    {
+      "id": 249,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, you have to finally make the selection and upload it. Please proceed."
+    },
+    {
+      "id": 250,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I just want to talk for -- we'll leave the photographs actually for now. And I just want to talk for one second about the mortars that you discussed in your testimony in-chief that you noticed sometime in either December 1995 or January 1996. When you met before your testimony in the Karadzic case, my colleagues, you indicated that actually you were unable to tell what calibre those mortars were. That's correct, isn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 251,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I can't recall if that's correct but I think it may have been referring to the exact make of the Serb mortars. The calibres which I would be familiar with were 60, I think it was 80 and 120. They were the mortars used in our army. These mortars were slightly different calibres so it was always difficult to tell the difference between a 90- and a 120-millimetre mortar so that maybe the issue that was at large on that occasion.",
+      "reply_to": 250
+    },
+    {
+      "id": 252,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Well, let's me ask you more directly. Were you able to tell what calibre those mortars that you spotted in December 1995 or January 1996 were?",
+      "examination": "cross"
+    },
+    {
+      "id": 253,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I would say they were in the region of 100-millimetre calibres.",
+      "reply_to": 252
+    },
+    {
+      "id": 254,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, let's talk for a second about those muffled explosions that you indicated you heard on the 28th of August, 1995. And I'd like you to confirm some parts of your Karadzic testimony when you were talking about those sounds. And if at any point in time you'd like to see the transcript of your evidence, I can certainly show that to you. But to begin with, it's correct, isn't it, that when you testified previously, you said that you thought that the muffled sounds weren't coming from within your team area; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 255,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "When I heard the sounds, I was working on the OP and I didn't believe that they'd happened so close to the -- to my location, therefore, in the team area. I thought they were elsewhere.",
+      "reply_to": 254
+    },
+    {
+      "id": 256,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Now, Ms. Edgerton and I'm also addressing you, Witness, we get a bit of a problematic situation here. Ms. Edgerton asks you whether - and she then reads it - whether that is what you said in your Karadzic testimony. Now, your answer is what you recollect was the situation. I want to clearly distinguish between whether you said something in your Karadzic testimony and whether you still stand by it. Because I do understand your answer now that what was put to you as what you would have said in the Karadzic testimony is still what you would say today when you said: Therefore... no. \"... believe that they had happened so close to my location, therefore, in the team area. I thought they were elsewhere.\" So not in your team area. So I do understand that you confirm, if you did, that this is what you said in the Karadzic testimony; and, second, you confirm the accuracy of what you said then by now explaining us more the same. But I would like to make a clear distinction between the two, when asked what you said in your Karadzic testimony, and what your answer today would be, the same or different. Please proceed, Ms. Edgerton."
+    },
+    {
+      "id": 257,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Sure."
+    },
+    {
+      "id": 258,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What I'd like to do is call up the transcript of your Karadzic testimony which is 65 ter number 33142.",
+      "examination": "cross"
+    },
+    {
+      "id": 259,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And we could go to e-court page 18 once we have that."
+    },
+    {
+      "id": 260,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I'd like to read something to you and you can have it on the screen in front of you then so you can follow along. I'd like to take you down to line 9. What you're talking about these muffled sounds. You said: \"I can only say that I heard sounds which sounded like impact. I can say -- and I was always confused as had I heard outgoing or incoming. So I can't say that I only heard impact. I don't know -- to be honest, I don't know what the explosions I heard were coming from.\" And then if you go down further to line 18 on the same page, pardon me. Line 20 but have a look at the beginning of the passage. In line 20 you underscored: \"... I've never been able to say exactly I'd heard. Since then they've generally been referred to as impacts.\" So my question to you is: In the Karadzic case you were unable to say what you'd heard by way of muffled explosions, whether the sounds you heard were outgoing or incoming fire, you had no idea. Do you stand by that evidence?",
+      "examination": "cross"
+    },
+    {
+      "id": 261,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. I did not -- I was not able to determine the -- whether sounds were outgoing or incoming.",
+      "reply_to": 260
+    },
+    {
+      "id": 262,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, the sound 120-millimetre mortar makes when it's being fired is really loud; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 263,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, yes.",
+      "reply_to": 262
+    },
+    {
+      "id": 264,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In fact, it's so loud that the fire crew, you often see the fire crew having earphones or headphones on to block the sound; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 265,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's correct.",
+      "reply_to": 264
+    },
+    {
+      "id": 266,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And depending on the type of terrain and the size of the weapon, the sound is so noisy it could be heard across a very large distance, kilometres actually; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 267,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That would depend on a number of factors but it would be correct.",
+      "reply_to": 266
+    },
+    {
+      "id": 268,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So if the launch point for this mortar had been anywhere within your team area, so from your OP south, you'd have known that because would you have it, because you would have heard it, because it's so loud?",
+      "examination": "cross"
+    },
+    {
+      "id": 269,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I should have heard noise and I did hear noise, but I couldn't -- that's the answer.",
+      "reply_to": 268
+    },
+    {
+      "id": 270,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your indulgence for a moment."
+    },
+    {
+      "id": 271,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think that's going to be everything, Your Honours. Nothing further."
+    },
+    {
+      "id": 272,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Ms. Edgerton. Mr. Stojanovic, any questions in re-examination?"
+    },
+    {
+      "id": 273,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Very briefly, Your Honour."
+    },
+    {
+      "id": 274,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "[Interpretation] Mr. Conway, in your best estimate, the position of these four mortars that you saw for the first time towards the end of December 1995 and beginning of January 1996, how far were they from OP-1?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 275,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "To be precise, I would need a map to measure that distance. It's quite easy to measure it on map. But I'm guessing it was around 3 kilometres.",
+      "reply_to": 274
+    },
+    {
+      "id": 276,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Again, in your best estimate, how far were these four mortars from the place we colloquially refer to Markale II, that is to say, the market?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 277,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "To give a precise answer, I would need a map but I'm estimating that it's around 1 to 2 kilometres. Max 2 kilometres but only -- 1 is probably closer.",
+      "reply_to": 276
+    },
+    {
+      "id": 278,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You spoke at length in response to the Prosecution's question about the acoustics that is typical for that part of the city. Could you tell us in a bit more detail what did you understand by that?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 279,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm not sure I clearly understand your question. But my experience of working in Sarajevo was that because of the topography, it was difficult to be certain about the provenance of sound.",
+      "reply_to": 278
+    },
+    {
+      "id": 280,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were there any buildings in the space between your observation post on 28th August 1995 and the spot where, in December 1995 or January 1996, you observed these four mortars?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 281,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There would have -- there are several buildings and also the topography, if I remember correctly, there would have been several saddles which came forward from the main hill feature towards the city. So there were a number of small valleys in between.",
+      "reply_to": 280
+    },
+    {
+      "id": 282,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "As far as I know, could they have had an impact on the reliability and the audibility of any fire from mortar?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 283,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think so. And as I previously said, the general topography of the city had a deep impact -- or influence on the travel of sound.",
+      "reply_to": 282
+    },
+    {
+      "id": 284,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Mr. Stojanovic, your question was as far as -- I think the question was as far as you know, could they have had, I understand \"they\" to be what, houses, hill, et cetera, have an impact on the reliability and now forget about the audibility of any fire from mortar. What is reliability of mortar fire? Witness, perhaps you could tell the us how you understood that part of the question."
+    },
+    {
+      "id": 285,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I understand it would mean to be able to distinguish from -- from an impact a outgoing blast from an impact blast and also the provenance of the blast, whether it was impact or outgoing."
+    },
+    {
+      "id": 286,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Is that then you understood reliability to mean the reliability of any observation including what you would hear in relation to mortar fire. Is that how you understood it?"
+    },
+    {
+      "id": 287,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mortar fire -- yes, the -- the mortar fire -- the sound was -- was unreliable in regard to mortar fire or, indeed, any kind of fire."
+    },
+    {
+      "id": 288,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "May I then take it that you wanted to say that the observation of any sound must have suffered in terms of reliability because sound in itself cannot be unreliable. At least that's my understanding of the English language."
+    },
+    {
+      "id": 289,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It's the provenance of the sound was unreliable."
+    },
+    {
+      "id": 290,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Even the provenance of the sound cannot be unreliable but your observation or where you think it came from can be unreliable. Reliability is not on facts. Reliability is about observations, or impressions or ... Could you..."
+    },
+    {
+      "id": 291,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Making a judgement on the provenance of the sound was unreliable because of distortions caused by topography and any other features which are in the area."
+    },
+    {
+      "id": 292,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Now we are at a point where you say reliability of any judgement on that matter would be influenced by these features."
+    },
+    {
+      "id": 293,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That's probably a clearer way of putting it."
+    },
+    {
+      "id": 294,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Well, I don't know whether that's what you intended to ask, Mr. Stojanovic. The witness has now given both his interpretation of the question and his answer to that. If you think that what's you asked and that the witness understood you well you may proceed. Otherwise put the question in such a way that everyone understands what it is about."
+    },
+    {
+      "id": 295,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes, Your Honour. In view of this answer, and the precision of that answer, that's precisely why I asked about the buildings and what he implied by mentioning the buildings."
+    },
+    {
+      "id": 296,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Let me finish with this question. Would the position of these four mortars and the position of the Markale II market, would -- would the market be within the range of the mortars in the position where you saw them in December 1995 and January 1996?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 297,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The range of these mortars would have been about from the closest probably 2, 300 metres from their position to maybe 10 kilometres from their position, and the Markale market is within that range.",
+      "reply_to": 296
+    },
+    {
+      "id": 298,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Conway, I would like to thank you on behalf of Mr. Mladic's Defence. I have no further questions for you.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 299,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, I have no further questions for the witness. Thank you."
+    },
+    {
+      "id": 300,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I have a very short question for you. You mentioned 10 kilometres as the maximum range for a mortar. Did you refer to any mortars you may have seen there or ..."
+    },
+    {
+      "id": 301,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The -- and this goes back to an earlier question I was asked by the Prosecution about the type of mortar and it is difficult to say whether a mortar is 90 or 100 millimetre -- I think the distinction factor between them is how mobile are these mortars. A 100-millimetre mortar or 120-millimetre mortar would need a transport, a vehicle, to move it. Whereas a smaller mortars are transportable by manpower, they're carried by soldiers. That's the main distinction between these weapons."
+    },
+    {
+      "id": 302,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. I see that point. For 120-millimetre mortar what's the maximum range?"
+    },
+    {
+      "id": 303,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It's a long time since I have tactically deployed one, but I think it's about 10 kilometres."
+    },
+    {
+      "id": 304,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "About 10 kilometres. What would be for an 82-millimetre mortar?"
+    },
+    {
+      "id": 305,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] It would be less. You're getting into the 5, 6 kilometre ranges."
+    },
+    {
+      "id": 306,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And for a 60-millimetre mortar?"
+    },
+    {
+      "id": 307,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That's an in-close, defensive weapon. It's probably, I think 5 kilometres would be their limit of a 60-millimetre mortar. You're testing my memory of training to remember all those ranges for the weapons but I think they're --"
+    },
+    {
+      "id": 308,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I'm asking you whether you can tell us and you didn't say that."
+    },
+    {
+      "id": 309,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No. I think they're correct. I'm just --"
+    },
+    {
+      "id": 310,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay. Ms. Edgerton, any further questions."
+    },
+    {
+      "id": 311,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Just a couple, Your Honour, if I may."
+    },
+    {
+      "id": 312,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 313,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So what you're saying as I understand from your re-direct examination, sometime there is are factors that might affect one's ability to hear the sound of a mortar being fired and -- but sometimes you can hear it perfectly clearly; right?",
+      "examination": "cross"
+    },
+    {
+      "id": 314,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Sound travels very slowly and is impacted by the surrounds and they are the factors which were at large in Sarajevo. It was a hilly area where sound was difficult -- that -- where as I say the provenance of a sound was difficult to determine.",
+      "reply_to": 313
+    },
+    {
+      "id": 315,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sometimes it's not difficult at all, is it? Sometimes you can hear perfectly clearly where a weapon is fired from, can't you?",
+      "examination": "cross"
+    },
+    {
+      "id": 316,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "If there was clear sight, no interruptions, no wind, you would be able to have almost perfect conditions. And in those cases, yes.",
+      "reply_to": 315
+    },
+    {
+      "id": 317,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And if a 120-millimetre mortar had been fired anywhere within the urban area that we were talking about, your team area, people close by would have heard it, wouldn't they?",
+      "examination": "cross"
+    },
+    {
+      "id": 318,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They would have heard a noise.",
+      "reply_to": 317
+    },
+    {
+      "id": 319,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So the answer is yes?",
+      "examination": "cross"
+    },
+    {
+      "id": 320,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, they would have heard a noise.",
+      "reply_to": 319
+    },
+    {
+      "id": 321,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Let's clearly distinguish between hearing something and knowing what you hear. I sometimes hear things I have got no idea what I hear. That's apparently the issue here, and then to ask -- that seems to be the last exchange of questions and answers."
+    },
+    {
+      "id": 322,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 323,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Please proceed."
+    },
+    {
+      "id": 324,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I'd like to play for you a really short video-clip, Mr. Conway. And it's in Sanction. And it's an excerpt from Associated Press video and it's dated 30 September 1995. It's 65 ter number 33143a. And the title of -- the clip is entitled, \"Bosnia Frontline Fighting Continues,\" and it's filmed somewhere between Kljuc and Mrkonjic Grad. And the excerpted time code from the clip is -- begins at 56 seconds and it goes to 1:21. I'm going to play a little bit and I'm going to stop it and ask you a question. And then we'll go to the end and then I'll have another question for you.",
+      "examination": "cross"
+    },
+    {
+      "id": 325,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Just let's stop right here, right now."
+    },
+    {
+      "id": 326,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "At time code 06.7, do you see the man loading the mortar --",
+      "examination": "cross"
+    },
+    {
+      "id": 327,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes --",
+      "reply_to": 326
+    },
+    {
+      "id": 328,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "-- bomb into the mortar. He's wearing headphones, isn't he?",
+      "examination": "cross"
+    },
+    {
+      "id": 329,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 328
+    },
+    {
+      "id": 330,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Let's keep going."
+    },
+    {
+      "id": 331,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That's a 120-millimetre mortar being fired, Mr. Conway, and if that had been fired anywhere within the urban area we were describing, people close by would have heard that sound, wouldn't they.",
+      "examination": "cross"
+    },
+    {
+      "id": 332,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There are other factors which would influence it and if it were in an area of confinement, it may not travel as far as this weapon which is in the open.",
+      "reply_to": 331
+    },
+    {
+      "id": 333,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Are you actually saying you can hide the firing of 120-millimetre mortar in an urban area from people who are close by?",
+      "examination": "cross"
+    },
+    {
+      "id": 334,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Ms. Edgerton, part of your question is people close by, that's a very relative concept. Could you tell us are you thinking in terms of a kilometre, 2 kilometre, 500 metres, 5 kilometres."
+    },
+    {
+      "id": 335,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, anywhere from a range of 150 metres to 500 metres."
+    },
+    {
+      "id": 336,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay. The question now is whether you could hide from the ears of any observer within a range of 150 to 500 metres the sound of a 120-millimetre metre being fired."
+    },
+    {
+      "id": 337,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I don't think you could hide the sound. It would be -- it would be heard, but the impact of it, the impression of it would probably change if the area was confined."
+    },
+    {
+      "id": 338,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "What do you mean exactly by area being confined."
+    },
+    {
+      "id": 339,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, to go back to the mortars which I have seen, and I'm not making any inferences, but they were in an area which was surrounded, which was like an old quarry, and which sound would not travel from very easily. But you wouldn't hide sound from it."
+    },
+    {
+      "id": 340,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Next question, please, Ms. Edgerton."
+    },
+    {
+      "id": 341,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And finally, Mr. Conway, you told -- you told my friend in your examination-in-chief that you estimated the position of these mortars that you saw in the last month of 1995 or the first month of 1996 at being 1 kilometres, approximately, from the market-place. Mr. Conway, do you remember when you saw my colleagues before testifying in the Karadzic case you actually, using the distance scale at the bottom of the map you dealt with, measured the distance between the market and the position of those mortars you'd seen, and you said it was 500 metres. Do you remember that?",
+      "examination": "cross"
+    },
+    {
+      "id": 342,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The precise figures, I don't exactly remember, but as always I would qualify any measurement as saying you must look at the map to get the exact figures.",
+      "reply_to": 341
+    },
+    {
+      "id": 343,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That's fine.",
+      "examination": "cross"
+    },
+    {
+      "id": 344,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Nothing further, Your Honour, with the exception of just requesting exhibit numbers for a couple of exhibits I've tendered now, the video-clip being one of them."
+    },
+    {
+      "id": 345,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Before we do that, I would have one question. One of your answers was sounds travels very slowly and is impacted by the surroundings, and they were the factors which were at large in Sarajevo. Could you tell us whether if sound would travel more quickly whether it would be any different."
+    },
+    {
+      "id": 346,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "For instance, Your Honour, if you run an artillery range and you were observing fire from any form of artillery weapon, you would often see the impact well before you would hear the blast from the impact.",
+      "reply_to": 343
+    },
+    {
+      "id": 347,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 348,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "And then if there were other outgoing rounds being fired, the sound becomes confused whether there is impacts from -- the blast from the impact is occurring and the blast from the outgoing is occurring. And if you're in the centre, it becomes difficult to determine which sounds you're beginning to hear because it depends on how far you are from either end of the outgoing blast or the impact blast. Does that make sense to you?",
+      "reply_to": 343
+    },
+    {
+      "id": 349,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, I first heard you say sound travels very slowly and my question was a totally different one. If sound would travel more quickly, would that change anything in your answer?"
+    },
+    {
+      "id": 350,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I don't think so, no. No. What I recall from the day on the OP is that I'd heard blasts, couldn't determine what -- those blasts didn't cause me to look into the my area of observation because I didn't think they were so close. When I got the call from the headquarters to ask me had I observed blasts, I looked again closely and I saw the palls of smoke over the general area where the impacts occurred. And I reported those and gave the location. I was never able to say whether I'd heard -- the blasts that I'd heard were from impacts or from outgoing. I have never been able to distinguish what was causing the blasts but I did see the consequence of the impacts which was the palls of smoke, which would lead one to the conclusion that did I hear incoming blasts.",
+      "reply_to": 343
+    },
+    {
+      "id": 351,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. You were unable to do that. But if sound travels at the same speed always, you could even measure what you would hear knowing the distance? If you know that an impact sound has to travel, let's say, 2 kilometres before it reaches your ear, you know exactly how much time it would take for that sound to reach your ear, if you knew nor or less the distance, would you agree?"
+    },
+    {
+      "id": 352,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's the theory of thunder and lightning, that we try to measure how far a storm is away by counting. But it's very inaccurate, and very susceptible to human calculation, as against having a radar system or some other form of technology to make such a calculation. But, yeah, in theory you are correct, but in practice for a human to do it, I think would be very difficult.",
+      "reply_to": 343
+    },
+    {
+      "id": 353,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You're making a comparison for a rather unprecise sound, lightning is over a large distance, could travel kilometres, you would never know which part of the lightning would produce the sound. Whereas an impact of a mortar would be clearly located at the spot of the impact, would you agree with that."
+    },
+    {
+      "id": 354,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I would agree. But the --",
+      "reply_to": 343
+    },
+    {
+      "id": 355,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Would you then also agree that if you would know the distance that it's not that complex at all to know how much time the sound needs to travel and reach your ear if you know what distance you are."
+    },
+    {
+      "id": 356,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "If the sound is travelling directly and unimpeded by topography or even wind can also impact or affect the speed at which the sound and the direction which the sound will travel.",
+      "reply_to": 343
+    },
+    {
+      "id": 357,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Do you have any idea what the impact of wind would be?"
+    },
+    {
+      "id": 358,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do. I sail frequently and we use sound for -- as signals and we frequently observe that it could, even for a 200-metre distance, there can be a delay of two seconds for --",
+      "reply_to": 343
+    },
+    {
+      "id": 359,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Two seconds."
+    },
+    {
+      "id": 360,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That's just a seat-of-the-pants estimation. I just want to illustrate that sound travels quite slowly, as you can see, for instance, a flag might be given as a signal, and simultaneously a sound given as a signal, but you'll observe the change the flag signal well before you will hear the sound signal. That's my personal experience.",
+      "reply_to": 343
+    },
+    {
+      "id": 361,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I do understand that you're telling me that the speed of light travelling so as what you can see is quicker than the speed of sounds, is that --"
+    },
+    {
+      "id": 362,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Much quicker.",
+      "reply_to": 343
+    },
+    {
+      "id": 363,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "How much?"
+    },
+    {
+      "id": 364,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm not a physicist, so I can't give you those figures, but it's a significantly figure to have an impact on estimations.",
+      "reply_to": 343
+    },
+    {
+      "id": 365,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Do you know how swiftly, how quickly sound travels? How many metres a second."
+    },
+    {
+      "id": 366,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't know the figures.",
+      "reply_to": 343
+    },
+    {
+      "id": 367,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You have no idea."
+    },
+    {
+      "id": 368,
+      "speaker": "PAUL CONWAY",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I have seen the effect of it but I don't know the exact figures.",
+      "reply_to": 343
+    },
+    {
+      "id": 369,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you for those answers."
+    },
+    {
+      "id": 370,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No further questions triggered by the questions by the Bench."
+    },
+    {
+      "id": 371,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, none at all."
+    },
+    {
+      "id": 372,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Then we deal with the exhibits."
+    },
+    {
+      "id": 373,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "First the video, please, Your Honours, 65 ter 33143a."
+    },
+    {
+      "id": 374,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Madam Registrar."
+    },
+    {
+      "id": 375,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Document 33143a receives exhibit number P7546, Your Honours."
+    },
+    {
+      "id": 376,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And is admitted into evidence. There's no need to translate the sound, isn't it?"
+    },
+    {
+      "id": 377,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No."
+    },
+    {
+      "id": 378,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 379,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And there was one more, Your Honours, that was 33147a. Which we've now uploaded the two photos that we dealt with in court, so if P7543 MFI which was reserved for -- can be used, it could be admitted now."
+    },
+    {
+      "id": 380,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, Madam Registrar."
+    },
+    {
+      "id": 381,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "For 33143a, the exhibit number P7543 was assigned, Your Honour."
+    },
+    {
+      "id": 382,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And is hereby admitted into evidence."
+    },
+    {
+      "id": 383,
+      "speaker": "MS. EDGERTON",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 384,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That's it? Witness, I'd like to thank you very much for coming to The Hague and for having answering all the questions that were put to you, put to you by the Bench, put to you by the parties. I wish you a safe return home again."
+    },
+    {
+      "id": 385,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 386,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You may follow the usher."
+    },
+    {
+      "id": 387,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Do I understand well that the next witness is not yet available at this moment, Mr. Stojanovic?"
+    },
+    {
+      "id": 388,
+      "speaker": "MR. STOJANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes, that's right, Your Honour. The next witness will be available tomorrow morning."
+    },
+    {
+      "id": 389,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Then we have no choice but to adjourn. We adjourn for the day, and we'll resume tomorrow, Wednesday, the 16th of September, 9.30 in the morning, in this same courtroom, I."
+    },
+    {
+      "id": 390,
+      "speaker": "JUDGE ORIE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "to be reconvened on Wednesday, the 16th day of September, 2015, at 9.30 a.m."
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 9.33 a.m."
+    },
+    {
+      "after_utterance": 8,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 10,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 12,
+      "text": "WITNESS:  PAUL CONWAY"
+    },
+    {
+      "after_utterance": 14,
+      "text": "Examination by Mr. Stojanovic:"
+    },
+    {
+      "after_utterance": 117,
+      "text": "Cross-examination by Ms. Edgerton:"
+    },
+    {
+      "after_utterance": 169,
+      "text": "[Trial Chamber and Legal Officer confer]"
+    },
+    {
+      "after_utterance": 210,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 211,
+      "text": "--- Recess taken at 10.29 a.m."
+    },
+    {
+      "after_utterance": 211,
+      "text": "--- On resuming at 10.57 a.m."
+    },
+    {
+      "after_utterance": 217,
+      "text": "[The witness takes the stand]"
+    },
+    {
+      "after_utterance": 270,
+      "text": "[Prosecution counsel confer]"
+    },
+    {
+      "after_utterance": 273,
+      "text": "Re-examination by Mr. Stojanovic:"
+    },
+    {
+      "after_utterance": 312,
+      "text": "Further Cross-examination by Ms. Edgerton:"
+    },
+    {
+      "after_utterance": 324,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 330,
+      "text": "[Video-clip played]"
+    },
+    {
+      "after_utterance": 344,
+      "text": "Questioned by the Court:"
+    },
+    {
+      "after_utterance": 369,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 386,
+      "text": "[The witness withdrew]"
+    },
+    {
+      "after_utterance": 389,
+      "text": "--- Whereupon the hearing adjourned at 11.41 a.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_dated_15_September_2015.doc"
+}

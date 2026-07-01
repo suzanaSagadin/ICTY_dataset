@@ -1,0 +1,867 @@
+{
+  "case": "brdjanin",
+  "case_id_base": "IT-99-36",
+  "case_id_transcript": "IT-99-36",
+  "date": "2002-03-15",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good afternoon, Mr. Brdjanin. Can you hear me in a language that you can understand?"
+    },
+    {
+      "id": 2,
+      "speaker": "THE ACCUSED BRDJANIN",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Good afternoon, Your Honours. I can hear you and understand you."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. You may sit down. General Talic, good afternoon to you. Are you hearing me in a language that you can understand?"
+    },
+    {
+      "id": 4,
+      "speaker": "THE ACCUSED TALIC",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "[Interpretation] Good afternoon, Your Honours. Yes, I can hear you and I understand you."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We can have the case called now, please, and then we proceed with the witness."
+    },
+    {
+      "id": 6,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, Your Honour. This is case number IT-99-36-T, the Prosecutor versus Radoslav Brdjanin and Momir Talic."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Did you say the \"Prosecutor\" or \"persecutor\"?"
+    },
+    {
+      "id": 8,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "\"Prosecutor.\" Sorry about my accent."
+    },
+    {
+      "id": 9,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Appearances for the Prosecution."
+    },
+    {
+      "id": 10,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think that's what's known as Friday afternoon, Your Honour. Joanna Korner, Andrew Cayley and Denise Gustin."
+    },
+    {
+      "id": 11,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "He's still hiding."
+    },
+    {
+      "id": 12,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "He's hiding less."
+    },
+    {
+      "id": 13,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Still hiding. And the crowd is getting smaller and smaller, as I see, but not on the Prosecution side. Yes, appearances for Mr. Brdjanin?"
+    },
+    {
+      "id": 14,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, I'm John Ackerman for Mr. Brdjanin, along with Tania Radosavljevic."
+    },
+    {
+      "id": 15,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good afternoon to you as well."
+    },
+    {
+      "id": 16,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good afternoon, Your Honour."
+    },
+    {
+      "id": 17,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And appearances for General Talic?"
+    },
+    {
+      "id": 18,
+      "speaker": "MS. FAUVEAU-IVANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Good afternoon, Mr. President and Your Honours. My name is Mrs. Natasha Fauveau-Ivanovic and I'm representing General Talic."
+    },
+    {
+      "id": 19,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And you are all alone."
+    },
+    {
+      "id": 20,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think the Defence are going to have a fairly easy afternoon, Your Honour."
+    },
+    {
+      "id": 21,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 22,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Can I just mention before we go into closed session, one matter? We are trying to get the Sanski Most binders ready with the P numbers attached. The Defence have already had the list with Mr. Inayat's explanation and I think Your Honours have as well. In order to do it with luck before the break, I think what we hope we can do -- unless, and this is really for the Registry as much as for Your Honours, there will be more exhibits coming in in the remaining Banja Luka witnesses. In order to try and accommodate them, and to start the numbering for Sanski Most, what we propose to do is jump something like 100 numbers and start with 600. It may well be therefore there will be missing numbers but it seems to me that it's preferable that we keep the flow going rather than worry about the fact that may be some --"
+    },
+    {
+      "id": 23,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That will not be a problem. It will not be the first time it has happened, and I'm sure the Defence teams are quite familiar with that kind of thing happening every now and then. Am I right, Mr. Ackerman? Am I right, Madam Fauveau?"
+    },
+    {
+      "id": 24,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You're right, Your Honour. Your Honour, I have filed today -- Ms. Korner called me last night asking me if I could file my Rule 70 motion today instead of Monday and so I worked and got it done and filed it and then realised that I'd left out a fairly significant portion of it, which I will file as an amended motion, then, on Monday, but I've explained to Ms. Korner what I left out so that she is not at any disadvantage and she will be able to work at it."
+    },
+    {
+      "id": 25,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That should put you on your guard for the future in taking for granted or acting impulsively on what Ms. Korner tells you."
+    },
+    {
+      "id": 26,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, it should, and I'll take that for what it's worth, Your Honour, thank you."
+    },
+    {
+      "id": 27,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 28,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I really want to know -- I've been insulted. We discovered yesterday that Mr. Koumjian had insulted Mr. Cayley. And we'd forgotten about that. And then I noticed that Your Honour had insulted me. So a slightly siege mentality."
+    },
+    {
+      "id": 29,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 30,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, the other thing, then, while we're on the subject of motions. Before 4.00 this afternoon, the deposition motion will be filed in this Chamber."
+    },
+    {
+      "id": 31,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That is good. If I have everything before the end of the day, make sure that I get these documents even half cooked or half baked documents, because I would prefer to have them at home with me in the weekend, over the weekend, because at least I will give them whatever towards I can --"
+    },
+    {
+      "id": 32,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, Your Honour, we can also organise if necessary to give Your Honour, as it were, an unofficial copy in case the filing --"
+    },
+    {
+      "id": 33,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I would appreciate it. And I would appreciate -- joking apart, Ms. Korner, I appreciate you exchanging this kind of -- because it's important. I mean, I realise you have both the same interests and that is to get the case moving. And these are fundamental. I mean, I just was with my staff, legal staff, having lunch together now, and we were discussing how important these two issues are. And we are committed to delivering our decision, handing down our decision as quickly as we go, both of them, because we do consider them as fundamentally important for the continuation of this case. So please, if you can give them your utmost most attention, we will do the same. Yes, Mr. Ackerman."
+    },
+    {
+      "id": 34,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I spent also some time trying to sort out the Rule 92 bis issue that I raised with Your Honour earlier. And then I was in a discussion with Ms. Korner about it as the knock came on the door. I found that what I did was get myself more confused than I was before I started. And so I think probably what's going to happen next is Ms. Korner and I are just going to have to talk about it a while and see if between us we can work out something that makes sense and then put it on paper, because if I gave you what I wrote this morning, you would wonder why I'm a lawyer."
+    },
+    {
+      "id": 35,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That is okay. I appreciate that, Mr. Ackerman, because it will spare us having to waste time on things that are pretty obvious sometimes. But anyway, I think I am sure that you understand. Can we have the witness brought in now, usher. We'll go into closed session, please."
+    },
+    {
+      "id": 36,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "During the break or just before we arose, we received a message from our liaison with the Victim and Witnesses Service who are, to say the least, getting a touch upset because of the length of time that witnesses have been waiting to testify. The next witness has now been here for well over a week. I hear Mr. Cayley who has been dealing with him saying two weeks. We've discussed the situation with Defence counsel. This witness will finish in chief on Monday, and then it seems that cross-examination by Mr. Ackerman will probably take about two days, he thinks at the moment. Madam Fauveau may be less, probably less. I understand the real problem is that we're effectively destroying their budget at the moment for witnesses because we've had them here for so long. I think it's right to say that certainly we on the side of the Prosecution have underestimated how long these witnesses were going to take in chief, particularly with the number of documents. And as Your Honour knows - because we did discuss this earlier - Defence counsel have not felt it able to give estimates of cross-examination. I think we will have to try and become more efficient about this if possible, a realistic estimate being made by both sides as to how long witnesses are going to take so we can try and get them here at reasonable intervals. Our position has been that we know that it is not helpful to a court to run out of witnesses because of the waste of expense and court time. But equally, I think we have to now look at the VWS budget on these matters. As far as the next witness is concerned, Your Honour, it seemed to us unlikely he'd finish. We would like to be able to return him from whence he came until now after Easter. It may well be that means that we will be left with the Thursday with no witness. Potentially there are some matters still to be decided. The Variant A and B aspect has been reopened, as Your Honour knows. And Mr. Ackerman points out that it's been litigated at present or isn't, because the Court is not sitting, in the Simic case. Whether that helps or doesn't help is another matter because they are running on a tack which is, I may say so, slightly odd, but -- from what I've seen of it. But Your Honour, to cut a rather rambling address short, the first thing -- issue is may this witness leave and come back again after Easter? And the second issue is, I think, one we will all have to look at together which is to try to be more realistic as to how long witnesses are going it take. These were always going to be the longest. That was clear."
+    },
+    {
+      "id": 37,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I would say so and I would agree with you 100 per cent and I don't -- I wouldn't, if I were you, assume any responsibility for miscalculating because these things happen, and the Chamber itself is faced with a big dilemma, to tell you the truth, on whether to intervene and cut some witnesses short in the course of their testimony. Experience has taught me over the years that sometimes it is very much counterproductive, and you have to make an assessment there and then, on the spot, as to what kind of a witness you are dealing with. And this one in particular, for example, reacted even when we tried to say, \"You should answer yes or no.\" I mean at a certain point in time, it was on the border of becoming arrogant, saying, \"No, but I still want to say,\" et cetera. So one still has to be careful. I think, Ms. Korner, the only way I can help you - when I say \"you,\" I mean also Mr. Ackerman and Madam Fauveau and everyone here - is to make an ongoing assessment all the time almost as to whether you need all the witnesses that you intend producing, because you do have certain facts that are being repeated. Of course, each witness comes up with some fresh evidence, et cetera, and these I understand are key witnesses, but there may come a time when you perhaps would realise that there is a surplus that you could cut. Also, there may be some points on which the -- you could agree with the Defence. For example, as to, I don't know, let's say accused Brdjanin, whether he was a member of -- was the vice-president of the -- this or that ARK crisis, whether he was a member of this or that ARK crisis. There are some facts on which possibly there could be some kind of an agreement and questions could be avoided. However, my tendency is to interfere as little as possible because I come from a jurisdiction where we interfere as little as possible."
+    },
+    {
+      "id": 38,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The difficulty, Your Honour, is this - and it's partly one that we have been dealing with regularly - is that I'm aware obviously that Mr. Brdjanin's case involves - because that was one of the few things that was said - that he had no authority. That's why I keep on repeating the same questions. Some of the things, however, as I said when we raised this question of putting your case, I would certainly not bother to call witnesses if I knew that that it was not disputed."
+    },
+    {
+      "id": 39,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, yes, certainly."
+    },
+    {
+      "id": 40,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That's one of the --"
+    },
+    {
+      "id": 41,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, and I realise you have a big problem. I don't mean to underestimate your problem. It's enormous, humungous."
+    },
+    {
+      "id": 42,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "But Your Honour, I think we are pretty certain that this set of witnesses from Banja Luka are likely to be the longest because all of them in some form or another are giving direct testimony against the accused, in the main Mr. Brdjanin. As I say, we are examining continuously the need to call or not call witnesses. One of the things of course that should be able to deal with this problem, if we can find a formula that is satisfactory, is perhaps making more witnesses under Rule 92. I think -- I should add, I'm sorry, that the head of VWS, we invited her to come to court to be present. She felt that it would be preferable if Your Honours were perhaps able to see her privately so she could explain the situation."
+    },
+    {
+      "id": 43,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We certainly will. It's a problem that is not only hers but it's also a problem that we ought to give attention to. There is no doubt about that. And perhaps Madam Registrar would take -- make a note of that and we will liaise on Monday morning sometime. Then with regard to the point that you raised as such, the next witness, I frankly, if we are talking of a mere possibility or a real possibility that he could start on -- giving evidence on Friday."
+    },
+    {
+      "id": 44,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It wouldn't be Friday. We are not sitting."
+    },
+    {
+      "id": 45,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We are not even sitting on Friday?"
+    },
+    {
+      "id": 46,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No. We rather assumed that he would start on Wednesday, go into Thursday and probably wouldn't finish. In other words, would finish probably in chief but not cross. He is a witness who on the face of it --"
+    },
+    {
+      "id": 47,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, I think, Ms. Korner, I would -- we can accept --"
+    },
+    {
+      "id": 48,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, I think, Ms. Korner, I think the only practical way of approaching the matter is to agree to send -- make provision for the return of the witness to his country and then -- however, we would like to ensure also that there is some sort of control over the witness, that he will not engage into some kind of communication with -- I mean, we have to find a -- some -- make some sort of arrangement either with AID or, I don't know -- I mean who you --"
+    },
+    {
+      "id": 49,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, no, that's not required for this witness. In fact, I don't think this witness has been in contact, although he's been here, he's been in a separate place from the previous witnesses, and I don't think he's been in contact with them. But we will --"
+    },
+    {
+      "id": 50,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "He's a protected witness, isn't he?"
+    },
+    {
+      "id": 51,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "He's a protected witness, Your Honour. Our worry is - and this is something that has occurred to us - that he's not been very happy about the length of time he's been here, and we don't want to end up in a situation where he refuses to come back. But I think we will deal with it and if there is a problem, we may approach Your Honours about it. But as to not talking to anybody, that will be very simple to arrange."
+    },
+    {
+      "id": 52,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay. Mr. Ackerman, would you agree that this witness be returned to his country and then come back? It makes little sense keeping him here over the entire Easter --"
+    },
+    {
+      "id": 53,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I totally agree. I think it's bad to break between direct and cross-examination for seven or eight days."
+    },
+    {
+      "id": 54,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I agree as well."
+    },
+    {
+      "id": 55,
+      "speaker": "MR. ACKERMAN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It's not a good thing to do. Clearly we would have to do that."
+    },
+    {
+      "id": 56,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Madam Fauveau?"
+    },
+    {
+      "id": 57,
+      "speaker": "MS. FAUVEAU-IVANOVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] I agree completely, Mr. President."
+    },
+    {
+      "id": 58,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "So I think we can do that, Ms. Korner."
+    },
+    {
+      "id": 59,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, yes. Mr. Cayley is going to leave court and try and see the witness, and if there is a problem, we will ask Your Honours to deal with it at the end of today."
+    },
+    {
+      "id": 60,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, if necessary, you are invited to bring the witness here and we will talk to him ourselves if it is necessary."
+    },
+    {
+      "id": 61,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much, Your Honour."
+    },
+    {
+      "id": 62,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If you have a suspicion that he will not be cooperative later on because of what has just happened this last week or so, then we will take it upon ourselves to try and --"
+    },
+    {
+      "id": 63,
+      "speaker": "MS. KORNER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 64,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay. Thank you. So we can have the witness brought in now, please, and go into closed session."
+    },
+    {
+      "id": 65,
+      "speaker": "JUDGE AGIUS",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "at 6.00 p.m., to be reconvened on Monday, the 18th day of March, 2002, at 9.00 a.m."
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 2.20 p.m."
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[Closed session]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "Pages 3376-3409 – redacted – closed session"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "--- Recess taken at 3.47 p.m."
+    },
+    {
+      "after_utterance": 35,
+      "text": "--- On resuming at 4.17 p.m."
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 35,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 47,
+      "text": "[Trial Chamber confers]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[Closed session]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "Pages 3416-3451 – redacted – closed session"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "[redacted]"
+    },
+    {
+      "after_utterance": 64,
+      "text": "--- Whereupon the hearing adjourned"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_March_15th,_2002.doc"
+}

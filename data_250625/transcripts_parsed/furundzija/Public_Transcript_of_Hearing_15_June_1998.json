@@ -1,0 +1,2341 @@
+{
+  "case": "furundzija",
+  "case_id_base": "IT-95-17/1",
+  "case_id_transcript": "IT-95-17",
+  "date": "1998-06-15",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning. Would the registrar please call the case?"
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Case number IT-95-17/1-T, the Prosecutor of the Tribunal versus Anto Furundzija."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Furundzija, can you hear me in a language you understand?"
+    },
+    {
+      "id": 4,
+      "speaker": "THE ACCUSED",
+      "role": "accused",
+      "is_accused": true,
+      "type": "statement",
+      "text": "Yes, Your Honour."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Appearances?"
+    },
+    {
+      "id": 6,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "For the Prosecution, the appearances remain as the same, Your Honour."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Defence?"
+    },
+    {
+      "id": 8,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning, Your Honours. For the Defence, the appearances are the same."
+    },
+    {
+      "id": 9,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. The witness can make a solemn declaration."
+    },
+    {
+      "id": 10,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "May I interpose for one second, Ma'am? Consequent upon the order of this Chamber of late Friday, the Office of the Prosecutor has filed a formal request, a confidential motion, in the registry this morning. There has been no time, clearly, for that to be processed and therefore be placed in your hands to make you aware of it, but as a courtesy, we have prepared copies of that which we would formally submit to the registry, to your good selves, Your Honours, and to the Defence, so that you be aware of the motion at its earliest opportunity. As I say, this has already formally been delivered to the registry for filing."
+    },
+    {
+      "id": 11,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. Can we go ahead with the solemn declaration for the witness, please."
+    },
+    {
+      "id": 12,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I solemnly declare that I shall speak the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 13,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. The witness may be seated. Yes, the Prosecution?"
+    },
+    {
+      "id": 14,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Madam President, Your Honours, good morning. Learned counsel, good morning."
+    },
+    {
+      "id": 15,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Kavazovic, good morning to you. Would you please give this court your full name?",
+      "examination": "direct"
+    },
+    {
+      "id": 16,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "My name is Kavazovic, Sulejman. I was born on the 15th July, '69.",
+      "reply_to": 15
+    },
+    {
+      "id": 17,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And whereabouts were you born?",
+      "examination": "direct"
+    },
+    {
+      "id": 18,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I was born in the village of Vrhovine, the municipality of Vitez.",
+      "reply_to": 17
+    },
+    {
+      "id": 19,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Would you briefly describe what education you have?",
+      "examination": "direct"
+    },
+    {
+      "id": 20,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I graduated from the high school for traffic police.",
+      "reply_to": 19
+    },
+    {
+      "id": 21,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What did you do after your graduation?",
+      "examination": "direct"
+    },
+    {
+      "id": 22,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I went to the army next where I served in Croatia for a year, and after that, when I came back, I took up active service in the former JNA, Yugoslav People's Army.",
+      "reply_to": 21
+    },
+    {
+      "id": 23,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Whereabouts did you take up that service?",
+      "examination": "direct"
+    },
+    {
+      "id": 24,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In Vozdovac, in the municipality of Vozdovac in Belgrade.",
+      "reply_to": 23
+    },
+    {
+      "id": 25,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How long did you remain in Belgrade?",
+      "examination": "direct"
+    },
+    {
+      "id": 26,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I remained there up to the 16th of January, 1992.",
+      "reply_to": 25
+    },
+    {
+      "id": 27,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Where did you go in January 1992?",
+      "examination": "direct"
+    },
+    {
+      "id": 28,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In January '92, I left Belgrade and went back home to Vitez, the village of Vrhovine.",
+      "reply_to": 27
+    },
+    {
+      "id": 29,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What did you do when you arrived back in Vitez?",
+      "examination": "direct"
+    },
+    {
+      "id": 30,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "When I came back to Vitez, for about a month or so, I stayed at home resting, and then I reported to the headquarters of the Territorial Defence.",
+      "reply_to": 29
+    },
+    {
+      "id": 31,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "At that time, were both Muslims and Croat persons serving in the Territorial Defence?",
+      "examination": "direct"
+    },
+    {
+      "id": 32,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. It was a joint headquarters for Muslims, Serbs, and Croats altogether.",
+      "reply_to": 31
+    },
+    {
+      "id": 33,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you name some of the persons with whom you served at that time?",
+      "examination": "direct"
+    },
+    {
+      "id": 34,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I can try. First of all, Anto Furundzija, Males Vlatko, Novok (phoen) Kantun, Dragan Calic. There were more people whom I can't name right now.",
+      "reply_to": 33
+    },
+    {
+      "id": 35,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Referring to the man you have referred to as Anto Furundzija, did you work closely together in the TO?",
+      "examination": "direct"
+    },
+    {
+      "id": 36,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, we served together in the headquarters of the Territorial Defence, Vitez.",
+      "reply_to": 35
+    },
+    {
+      "id": 37,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "For how long did you serve together?",
+      "examination": "direct"
+    },
+    {
+      "id": 38,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "For about six or seven months.",
+      "reply_to": 37
+    },
+    {
+      "id": 39,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What happened at the end of those six or seven months?",
+      "examination": "direct"
+    },
+    {
+      "id": 40,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "From Territorial Defence, Anto Furundzija went on to the HVO.",
+      "reply_to": 39
+    },
+    {
+      "id": 41,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "About when was this?",
+      "examination": "direct"
+    },
+    {
+      "id": 42,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think it was September of '92.",
+      "reply_to": 41
+    },
+    {
+      "id": 43,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Kavazovic, I'm going to ask you to take a calm, quiet look around this room, and if you should see anyone who is the Anto Furundzija to whom you're referring, would you point to that person and describe what he's wearing today?",
+      "examination": "direct"
+    },
+    {
+      "id": 44,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I can do that. That is Mr. Anto Furundzija. He is dressed in a black suit, white shirt, and a tie.",
+      "reply_to": 43
+    },
+    {
+      "id": 45,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "May the record please show identification of the accused, Your Honours?"
+    },
+    {
+      "id": 46,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, the accused is identified."
+    },
+    {
+      "id": 47,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Much obliged."
+    },
+    {
+      "id": 48,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Kavazovic, I would like to move forward, if you please, to September of 1992. Did anything particular happen to you at that time?",
+      "examination": "direct"
+    },
+    {
+      "id": 49,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In September '92, I was brought -- detained by the HVO in the Vitez Hotel for interrogation.",
+      "reply_to": 48
+    },
+    {
+      "id": 50,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How long did that last?",
+      "examination": "direct"
+    },
+    {
+      "id": 51,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "For about four hours or so. I was dressed in mufti, I was not in uniform. I was detained by the military of the HVO, and I was interrogated by Vlado Santic.",
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did something else occur to you in October of 1992?",
+      "examination": "direct"
+    },
+    {
+      "id": 53,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. In October '92, I was captured by the HVO and I spent four days in gaol, and I was then again interrogated by Vlado Santic.",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you in civilian or military clothing at the time of that arrest?",
+      "examination": "direct"
+    },
+    {
+      "id": 55,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I was then in military uniform.",
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can I now take you forward to April of 1993. Where were you on or about the 15th of April, 1993?",
+      "examination": "direct"
+    },
+    {
+      "id": 57,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I was in the old parts of the city of Vitez. That's where I was working at the time, the command of the headquarters of the HVO -- sorry, of the Territorial Defence.",
+      "reply_to": 56
+    },
+    {
+      "id": 58,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What happened on that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 59,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On that day, about 1.00 p.m., I was summoned to the celebration of the 15th of April, which was the day of the establishment of Territorial Defence. That was the anniversary of the Territorial Defence. I had to decline because I had other duties. In the old parts of the city of Vitez, the celebration took place, and it was attended by Commanders Pero Skopljak and Anto Bertovic, commanders of the HVO. I took off my uniform because I couldn't wear it going through the city, I dressed in civilian clothes, and I went close to the headquarters of the HVO where I lived. While going through the old parts of the city, I came to my apartment. My wife wasn't there, I supposed she was with my in-laws, and I went there to find her. The situation in the city wasn't exactly normal. Movement was forbidden to both civilians and uniformed persons. The city was empty and there was a lot of soldiers.",
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You say you were at the apartment, and what then happened on the following day?",
+      "examination": "direct"
+    },
+    {
+      "id": 61,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On the next day, about 5.10, 5.15, there was big explosion, and before the explosion, on the 15th in the evening, the city was blocked. There was no movement. Movement was forbidden and exit from the city was forbidden. So I was forced to stay with my in-laws. That night I stayed with them, but the next morning, about 5.00 a.m., 5.15, there was a big explosion with great explosive power and then shooting began.",
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So what did you do at that time?",
+      "examination": "direct"
+    },
+    {
+      "id": 63,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I got up, we all got up, my in-laws, my wife, we all got up, and then we looked through the window. We saw that there was a lot of soldiers of the HVO wearing uniforms in full combat equipment, that they were running towards the part of the city controlled by the Territorial Defence. I tried to get out then, but a colleague of mine who lived there, a Croat by nationality, told me that I had nowhere to go because war had already started. So I was forced to go back to my in-laws' apartment. I went back from the corridor and I stayed there for three days, until the time when I was taken away to the SDK camp.",
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes. Would you state, please, what precisely was the SDK camp?",
+      "examination": "direct"
+    },
+    {
+      "id": 65,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The SDK camp was the collection point, the collection camp for the young men, for Muslim males aged between 9 and 63. There were two rooms, and the conditions were very bad. There were about 64 of us there in those two rooms. We were detained there. There were some military policemen who guarded us. We were not allowed to move around. After that, men, that is to say the HVO police, came and took people in military vans to dig where necessary.",
+      "reply_to": 64
+    },
+    {
+      "id": 66,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So what, in fact, happened to you?",
+      "examination": "direct"
+    },
+    {
+      "id": 67,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I spent two days in the SDK, and then the third day, the HVO police came. The driver was a man by the name of Madjar, I don't know who issued orders for that, but myself and six other men were taken to the river to dig trenches and ditches for the Croatian Defence Council.",
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you name the location where you did that digging?",
+      "examination": "direct"
+    },
+    {
+      "id": 69,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We dug at the river, at the Spilja locality. That's the demarcation line between the Territorial Defence and the Croatian Defence Council. The conditions there were very bad because there was shooting; and they forced us to dig.",
+      "reply_to": 68
+    },
+    {
+      "id": 70,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How long did you carry out this digging at that place?",
+      "examination": "direct"
+    },
+    {
+      "id": 71,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I was there for about an hour and a half, and then the same van that had brought us there took us to the Bungalow in Nadioci.",
+      "reply_to": 70
+    },
+    {
+      "id": 72,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you know what the Bungalow was at that time?",
+      "examination": "direct"
+    },
+    {
+      "id": 73,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I knew that before the war it was a restaurant next to the place where people used to swim, but I did not know what was in the Bungalow during the war.",
+      "reply_to": 72
+    },
+    {
+      "id": 74,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So who or what did you observe when you arrived at the Bungalow?",
+      "examination": "direct"
+    },
+    {
+      "id": 75,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That same van and the same police officers brought us to the Bungalow, they ordered us to get out of the van, we did so, and they told us to get on the terrace of the bungalow, which we did. Then they ordered us to line up. We lined up. And then Vlado Santic came out. He was the commander of a part, I don't know which part, but I know that he was a commander. He told us to line up, and we did so, and I saw five members of the Joker military unit, they had Joker patches, they wore black uniforms with fingerless leather gloves, and they had bands on their heads and some of them had peculiar haircuts. We stood there and Mr. Vlado Santic got out. He looked at us, he counted us, and he ordered five men to take us to Kratine.",
+      "reply_to": 74
+    },
+    {
+      "id": 76,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Whereabouts is Kratine in relation to Vitez -- or Nadioci, I'm sorry?",
+      "examination": "direct"
+    },
+    {
+      "id": 77,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, Kratine is maybe 3.5 or 4 kilometres up from the Bungalow. That's the demarcation line between the HVO and the TO.",
+      "reply_to": 76
+    },
+    {
+      "id": 78,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So was there any fighting at that location between those forces?",
+      "examination": "direct"
+    },
+    {
+      "id": 79,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, there was combat from time to time. We were up there and that's where we did some digging, and while I was there, there was shooting from both sides, and we were exposed to very strong fire because we were forced to dig those trenches.",
+      "reply_to": 78
+    },
+    {
+      "id": 80,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, when you actually arrived there, did you see anybody that you recognised?",
+      "examination": "direct"
+    },
+    {
+      "id": 81,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "When we arrived there, in front of an old house, there were some soldiers who got out of that house, Mladen Bralo, nicknamed Cicko, and Anto Furundzija got out of the house. Mladen Bralo ordered us to line up once again, which we did, and he ordered us to go into that house one by one to be questioned. I was questioned by a person with two bands on his head, his name was Ivica Vujica. He was a commander in the Jokers. The other men were questioned by other people; I don't know who it was. At any rate, we were questioned why we were there, why we arrived, why we didn't flee, why we were in the Territorial Defence. So they asked for some information that they deemed important. I don't know.",
+      "reply_to": 80
+    },
+    {
+      "id": 82,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "After that, what did you do?",
+      "examination": "direct"
+    },
+    {
+      "id": 83,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "After that, we left the house. When a person was finished, then we left the house, and Mladen Bralo lined us up and forced us to cross ourselves one by one. However, not all of us knew how to do that, how to cross ourselves, and Mirsad Ahmic knew how to do it properly. So Cicko asked, \"Who knows how to cross himself?\" And he said, \"I know.\" And he said, \"Get out of the line and show everybody how to cross themselves.\" He showed us, and we all had to do it. And we had to shout as we crossed ourselves. Jasmin Cengalovic, one of us, he couldn't do it properly, probably because he was afraid, and Mladen Bralo took an ax and placed it next to his forehead and told him, \"If you don't cross yourself properly, I'm going to break up your head.\" Fortunately, Jasmin Cengalovic, a Romany, he managed to cross himself properly so that he didn't split his head open.",
+      "reply_to": 82
+    },
+    {
+      "id": 84,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know where Mr. Furundzija was at this time?",
+      "examination": "direct"
+    },
+    {
+      "id": 85,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't know. He was probably somewhere around.",
+      "reply_to": 84
+    },
+    {
+      "id": 86,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "But you didn't see him at that time?",
+      "examination": "direct"
+    },
+    {
+      "id": 87,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How long did you remain in the hands of those Jokers at the lines at Kratine?",
+      "examination": "direct"
+    },
+    {
+      "id": 89,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I remained there for about eight days, up until the time when I was brought to Busovaca for medical treatment; and then after the first station, the emergency room in Busovaca, I was taken to Konjic, to Selista, where I was detained in some kind of military warehouses, also by the HVO.",
+      "reply_to": 88
+    },
+    {
+      "id": 90,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was there a time at which you were then released by the HVO authorities?",
+      "examination": "direct"
+    },
+    {
+      "id": 91,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. When I came from Selista, I was transferred to the SDK in Vitez, and then on the third day, or around the 5th of May, I was sent to be exchanged.",
+      "reply_to": 90
+    },
+    {
+      "id": 92,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "After your exchange, what did you do?",
+      "examination": "direct"
+    },
+    {
+      "id": 93,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "When I was exchanged, the condition for my exchange was that I was forced to sign a document in Vitez in which I renounced my right to live in Vitez and in which I stated that I wanted to go and live in Zenica, the area controlled by the TO. I had to sign this paper although I wanted to live in Vitez, but for security reasons, I could not live in Vitez anymore. They gave us a piece of paper, and we had to sign that we didn't want to live in Vitez anymore. They provided buses through the Red Cross and we then took those buses to Zenica. I went to Zenica and I underwent medical treatment for about 20 days, because I had some mental problems, and then I went back to the units of the BiH army. I reported to duty.",
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you continue serving in the BiH army?",
+      "examination": "direct"
+    },
+    {
+      "id": 95,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I continued to serve and, in fact, until this day, I'm in the units of the BiH army.",
+      "reply_to": 94
+    },
+    {
+      "id": 96,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was there further fighting between the HVO and the BiH army after that date, after May '93?",
+      "examination": "direct"
+    },
+    {
+      "id": 97,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes --",
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Sorry, objection. I would like to get a specific date since it is important what date we're talking about. He just said May."
+    },
+    {
+      "id": 99,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 100,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 101,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If the witness can remember the dates, please."
+    },
+    {
+      "id": 102,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes, if you can remember, Mr. Kavazovic, let us say -- what was the date that you rejoined the unit of the BiH army?",
+      "examination": "direct"
+    },
+    {
+      "id": 103,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I rejoined the BiH army on the 22nd of May, 1993.",
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was there any fighting between the two armies after that date?",
+      "examination": "direct"
+    },
+    {
+      "id": 105,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, there was fighting. I was wounded on the 25th of May by a shell that was fired by the HVO. I was wounded on the sidewalk in front of an old house.",
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "As a serving officer in the BiH army, when did you receive, if you received any, when did you receive notification of a cessation of hostilities?",
+      "examination": "direct"
+    },
+    {
+      "id": 107,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The notification of the cessation of hostilities between the two sides, the BiH army and the HVO, I received in January 1995. I don't recall the exact date, but I do remember that an order came from SFOR or UNPROFOR, that no force should be used from that time on. There was to be no shooting. There was a demarcation line set up between the units.",
+      "reply_to": 106
+    },
+    {
+      "id": 108,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Kavazovic, I'm going to ask you to look at a map. Could the usher please assist? Your Honours, these are actually original documents from the evidential archive. I hesitate to tender them because I don't believe we should place them in the court records. They tend to be needed in more than one case, I believe. What I can assure is that there will be black and white copies available. In fact, they were served with the statement of Mr. Kavazovic so should be in the possession of everybody at this point in time, Madam President. However, since colour was used on the original, I have presented the original to him. If it would assist the court, I would ask that these could be returned to the Prosecution, but I do have coloured versions from the original archive which I can produce to Your Honours and to the Defence.",
+      "examination": "direct"
+    },
+    {
+      "id": 109,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Anything from the Defence?"
+    },
+    {
+      "id": 110,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, our objection, for the record, is relevance. I believe he's going to be talking about after May 22nd, and we would object as to the relevance of what happened after May 22nd."
+    },
+    {
+      "id": 111,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The relevance of the map is simply in reference to the existence and the demarcation lines essentially between the forces which the Prosecution suggests is relevant as proving the ongoing armed conflict subsequent to the date of the alleged crimes in this case."
+    },
+    {
+      "id": 112,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Misetic?"
+    },
+    {
+      "id": 113,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "But these are lines that were established after May 22nd and, therefore, we would object as to relevance."
+    },
+    {
+      "id": 114,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Again, it's existence of the conflict, not its location specifically."
+    },
+    {
+      "id": 115,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You have accepted the explanation? You have accepted the explanation, the relevance is just --"
+    },
+    {
+      "id": 116,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, that's fine."
+    },
+    {
+      "id": 117,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay. Yes."
+    },
+    {
+      "id": 118,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Kavazovic, would you please look at the map in front of you? Is that, in fact, a map produced by yourself? I don't mean the map but the markings upon it.",
+      "examination": "direct"
+    },
+    {
+      "id": 119,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, this is a map that I marked and I also signed it.",
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And as to that map, what are the markings in red to show?",
+      "examination": "direct"
+    },
+    {
+      "id": 121,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The red markings are the lines of the Croatian Defence Council in the municipality of Vitez.",
+      "reply_to": 120
+    },
+    {
+      "id": 122,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The markings in green, what are they?",
+      "examination": "direct"
+    },
+    {
+      "id": 123,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The markings in green show the areas controlled by the BiH army.",
+      "reply_to": 122
+    },
+    {
+      "id": 124,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And there were some small areas marked in black with circles; what do they represent?",
+      "examination": "direct"
+    },
+    {
+      "id": 125,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The smaller circles represent the areas where I dug the trenches, where we, as captives, had to make fortifications when I was detained by the Croatian Defence Council.",
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So the lines you have drawn, to what period in time do they refer? When were those lines --",
+      "examination": "direct"
+    },
+    {
+      "id": 127,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is the period when I was detained in camps and when I dug trenches at the HVO lines, so we're talking about the period April and May.",
+      "reply_to": 126
+    },
+    {
+      "id": 128,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Of which year?",
+      "examination": "direct"
+    },
+    {
+      "id": 129,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "1993.",
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much. I would offer to move that into evidence as Prosecution Exhibit, the number escapes my memory."
+    },
+    {
+      "id": 131,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Prosecution Exhibit number 4."
+    },
+    {
+      "id": 132,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Any objection?"
+    },
+    {
+      "id": 133,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No objection, Your Honour."
+    },
+    {
+      "id": 134,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I have no further questions for this witness. Thank you, Madam President."
+    },
+    {
+      "id": 135,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Cross-examination, Mr. Misetic?"
+    },
+    {
+      "id": 136,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning, Your Honours."
+    },
+    {
+      "id": 137,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Good morning, sir. You said you were taken to dig trenches; isn't that right? Could you give us a date on that?",
+      "examination": "cross"
+    },
+    {
+      "id": 138,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 137
+    },
+    {
+      "id": 139,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What date were you taken to dig trenches?",
+      "examination": "cross"
+    },
+    {
+      "id": 140,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On the 22nd of April, that's when I was taken to dig trenches.",
+      "reply_to": 139
+    },
+    {
+      "id": 141,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How long were you forced to dig trenches?",
+      "examination": "cross"
+    },
+    {
+      "id": 142,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I dug trenches for about six days, approximately. I don't know exactly because I did not count the days, but I dug them up until the 28th or 29th when I was taken to the first aid station in Busovaca.",
+      "reply_to": 141
+    },
+    {
+      "id": 143,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, on your direct testimony, you identified Ivica Vujica as a commander of the Jokers; isn't that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 144,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that's right.",
+      "reply_to": 143
+    },
+    {
+      "id": 145,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You identified Vlado Santic as a commander?",
+      "examination": "cross"
+    },
+    {
+      "id": 146,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 145
+    },
+    {
+      "id": 147,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And you identified him as commander in the Bungalow; correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 148,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 147
+    },
+    {
+      "id": 149,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, I would like to have this chart put on the monitor for the witness, please. Your Honours, I don't know whether I should put it in his language on the screen or -- why don't we go ahead and put it in the Bosnian and then the Judges will have a chance to look at the English."
+    },
+    {
+      "id": 150,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Do we have copies?"
+    },
+    {
+      "id": 151,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, it is attached as an exhibit to his January 26th, 1997 statement."
+    },
+    {
+      "id": 152,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, let me ask you first, on the bottom right-hand corner, that's your signature, isn't it?",
+      "examination": "cross"
+    },
+    {
+      "id": 153,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it is.",
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You were asked at some point last year by someone from the Office of the Prosecutor to draw out a diagram of the command structure; isn't that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 155,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I call your attention to the left-hand side of that diagram. You have written in there in the first box towards the middle of the page, it says \"Jokeri\"; isn't that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 157,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that's what is written there.",
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On the next line beneath that, it then says: \"Commanders of the specific units\"; is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 159,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, underneath the Jokers, you've drawn a line and you've identified three commanders; isn't that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 161,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So in addition to Ivica Vujica, who you have just said was a commander of the Jokers, you identify Anto Furundzija, Bralo Mladen Cicko and Vlado Santic as commanders; isn't that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 163,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "May I ask the relevance of this particular line of questioning, Your Honours, in terms that this is not a case that he represents command responsibility in any way. So I'm finding it just a little curious."
+    },
+    {
+      "id": 165,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 166,
+      "speaker": "JUDGE MAY",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, Mr. Blaxill, it's part of the general picture and whatever else. However technically relevant it is, I think we would want to hear it."
+    },
+    {
+      "id": 167,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 168,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Misetic, you may continue."
+    },
+    {
+      "id": 169,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 170,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, you gave a statement on January 26th, 1997, and I'm going to read a part of that and ask you to confirm the truth of that statement. On page 9 of that statement, it says: \"I've been shown a list of alleged perpetrators\" --",
+      "examination": "cross"
+    },
+    {
+      "id": 171,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Please slow down."
+    },
+    {
+      "id": 172,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I will slow down. Sorry."
+    },
+    {
+      "id": 173,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "\"I have been shown a list of alleged perpetrators from which I recognised the following names: Bralo Miroslav Cicko, who was the commander of the Jokeri unit.\" That's the statement you made January 26th, 1997; isn't that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 174,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I made a statement.",
+      "reply_to": 173
+    },
+    {
+      "id": 175,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That was based on your experience with Mr. Bralo?",
+      "examination": "cross"
+    },
+    {
+      "id": 176,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 175
+    },
+    {
+      "id": 177,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We have nothing further for this witness, Your Honours."
+    },
+    {
+      "id": 178,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Any re-examination?"
+    },
+    {
+      "id": 179,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I'm sorry. Yes, I would like to move the chart into evidence."
+    },
+    {
+      "id": 180,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Any objection?"
+    },
+    {
+      "id": 181,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "None, Your Honour, no."
+    },
+    {
+      "id": 182,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 183,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Can I have the number?"
+    },
+    {
+      "id": 184,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Defence Exhibit number 14 and the English version is Exhibit number 14A."
+    },
+    {
+      "id": 185,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Kavazovic, referring to that chart, you stated that both Bralo and Furundzija were commanders in respect of the Jokers. What level of commander did you think they were?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 186,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "To tell you the truth, I don't know for certain that they were commanders. There are big units in the army and I don't know whether they were commanders and at what level. I was at a camp in Kratine where I dug, but all the commands came from Bralo and Mladen. No one who had not the competence could not have issued such commands. And they were wearing patches naming them as Jokers, so he must have been some sort of commander to issue commands.",
+      "reply_to": 185
+    },
+    {
+      "id": 187,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So clearly you say at Kratine he appeared to exercise some authority, Bralo, yes?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 188,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that was so. He was commander of the part of Kratine where he issued orders as to who should do what, where to dig. And so he must have been some sort of commander, because a simple soldier cannot order an officer.",
+      "reply_to": 187
+    },
+    {
+      "id": 189,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "But would you -- do you have any knowledge as to whether Mr. Furundzija had authority in other areas of the Jokers, not at Kratine?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 190,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Actually, he did. He was commander of the civilian police called Lightning. I know for certain that he was a commander. He knows for certain which part he commanded over. It was a unit for special purposes. I don't know which special purposes, but he was wearing their uniform, the uniform of Lightning, and that was a special purpose unit. I know that.",
+      "reply_to": 189
+    },
+    {
+      "id": 191,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When was this?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 192,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't know exactly where. It was somewhere in Mahala. He stopped there in a vehicle. He had the --",
+      "reply_to": 191
+    },
+    {
+      "id": 193,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Pardon my interruption. I said, when was this?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 194,
+      "speaker": "SULEJMAN KAVAZOVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was in 1996, I think.",
+      "reply_to": 193
+    },
+    {
+      "id": 195,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I have no further questions. Thank you, Your Honours."
+    },
+    {
+      "id": 196,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Any questions? Any objection to the witness being released?"
+    },
+    {
+      "id": 197,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "None from the Prosecution, Your Honours."
+    },
+    {
+      "id": 198,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "None from the Defence, Your Honours."
+    },
+    {
+      "id": 199,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much, Witness, for giving evidence here in The Hague. You are now released. You may go."
+    },
+    {
+      "id": 200,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Your Honour. Goodbye."
+    },
+    {
+      "id": 201,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, any more witnesses?"
+    },
+    {
+      "id": 202,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Might I just have one moment, please, Your Honour? Your Honours, the Prosecution does not have any more witnesses to call in its case in chief. Clearly, that matter of rebuttal is yet to come and be considered. However, we would not formally wish to close the case at this stage in terms that we do have the motion pending before the court, and how we address the results of that particular motion may either require us to ask that formally the case, as it were, remain open or, alternatively, that we would have the right reserved on record to reopen the case in chief if addressing back to those issues would require, perhaps, some further evidence. That is our position, Your Honours, but, as I say, there are no further witnesses for the Prosecution today or, indeed, as we are aware, to follow."
+    },
+    {
+      "id": 203,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours?"
+    },
+    {
+      "id": 204,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes?"
+    },
+    {
+      "id": 205,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We would object to that. Regardless of the pending motion, we've known now since Monday who the witnesses were going to be. We made accommodations. Mr. Kavazovic was scheduled to testify today. He testified as to anything and everything the Prosecution wanted him to testify to. There's no point now to allow them to keep their case open. Prior to Friday, they had no intention of calling anyone else. And I don't see the reason for why a pending motion would require the continued opening of the case. Furthermore, we have, I believe, a witness ready to go, and it would be improper for the Defence to begin its case in chief if the Prosecution hasn't rested yet."
+    },
+    {
+      "id": 206,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, I think you are at a disadvantage until you have the opportunity to read the motion. I do have copies of it. Maybe a short recess would be advisable and you can, at least, consider that."
+    },
+    {
+      "id": 207,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Before the Chamber can make a decision on the matters in issue, the Chamber will rise for 25 minutes."
+    },
+    {
+      "id": 208,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The Trial Chamber has considered the motion, the confidential motion by the Prosecution, in that they are seeking clarification of our decision rendered on 12th June regarding the evidence of Witness A. In clarifying our motion, the Trial Chamber says that we have ruled as inadmissible all evidence relating to rape and sexual assault upon Witness A by Bralo Miroslav, also known as Cicko, in the presence of the accused in the large room apart from the evidence of sexual assault alleged in paragraph 25. Regarding paragraph 26, all the evidence relating to paragraph 26 is admissible. So it is only that evidence of Witness A relating to the rape and sexual assault in the first room in the presence of the accused. The other evidence of sexual assault is admissible."
+    },
+    {
+      "id": 209,
+      "speaker": "MS. SELLERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Excuse me, Your Honour, might I be heard for a minute?"
+    },
+    {
+      "id": 210,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 211,
+      "speaker": "MS. SELLERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Just for a bit of clarification on your clarification. I understand what you are saying in terms of what I imagine are the forceful sexual penetrations, but you're saying \"and sexual assault.\" Therefore, I am unclear at this point as to what you are referring to as the other -- I would just like to say, I know that we're in open session now and this is a confidential motion discussing evidence that was given in confidence. I don't know whether we should go in closed session during this period of clarification, more specifically, and I would ask that we clarify to what are you referring in terms of the sexual assaults that are not related to the forceful sexual penetration?"
+    },
+    {
+      "id": 212,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I understand from the registrar that we can go on in private session so that it is not going to be relayed publicly. What specifications are you asking for?"
+    },
+    {
+      "id": 213,
+      "speaker": "MS. SELLERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, Your Honour. I believe you stated that rapes that took place in -- I'm sorry."
+    },
+    {
+      "id": 215,
+      "speaker": "MS. SELLERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 22 23 24 25"
+    },
+    {
+      "id": 216,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We are now in open session. Yes?"
+    },
+    {
+      "id": 217,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "One small dilemma in that respect, Your Honours, but perhaps there is a way we can resolve it. It is quite simply this, that within that motion, we made reference to perhaps the remedy of interlocutory appeal, if that were deemed to be an appropriate course. Accordingly, rather than -- as I say, if we close our case, I would like to preserve for the record that we may remain to have our right to present such a course of action if that is appropriate. Otherwise, in terms of the evidence, indeed we would be closing our case. But I do wish to preserve the position as regards anything that may flow from this specific motion and only in respect of that motion."
+    },
+    {
+      "id": 218,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. You are entitled to do that."
+    },
+    {
+      "id": 219,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I am obliged for your noting that on the record, Madam President."
+    },
+    {
+      "id": 220,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And you are aware of the days within which you can appeal?"
+    },
+    {
+      "id": 221,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Indeed so. So on that basis, the Prosecution will rest at this time."
+    },
+    {
+      "id": 222,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "So you are closing your case formally?"
+    },
+    {
+      "id": 223,
+      "speaker": "MR. BLAXILL",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I just have. Yes, indeed, Ma'am."
+    },
+    {
+      "id": 224,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, the Defence?"
+    },
+    {
+      "id": 225,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Can we go into closed session again?"
+    },
+    {
+      "id": 226,
+      "speaker": "JUDGE MUMBA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Closed session, please."
+    },
+    {
+      "id": 227,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 229,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 22 23 24 25"
+    },
+    {
+      "id": 231,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 22 23 24 25"
+    },
+    {
+      "id": 232,
+      "speaker": "MR. MISETIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "3.34 p.m., to the reconvened on Monday, the 22nd day of June, 1998, at 8.30 a.m."
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "(The accused entered court)"
+    },
+    {
+      "after_utterance": 0,
+      "text": "(Open session)"
+    },
+    {
+      "after_utterance": 0,
+      "text": "(The witness entered court)"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 9.37 a.m."
+    },
+    {
+      "after_utterance": 14,
+      "text": "WITNESS:  SULEJMAN KAVAZOVIC"
+    },
+    {
+      "after_utterance": 14,
+      "text": "Examined by Mr. Blaxill:"
+    },
+    {
+      "after_utterance": 136,
+      "text": "Cross-examined by Mr. Misetic:"
+    },
+    {
+      "after_utterance": 184,
+      "text": "Re-examined by Mr. Blaxill:"
+    },
+    {
+      "after_utterance": 200,
+      "text": "(The witness withdrew)"
+    },
+    {
+      "after_utterance": 207,
+      "text": "--- Recess taken at 10.20 a.m."
+    },
+    {
+      "after_utterance": 207,
+      "text": "--- On resuming at 11.10 a.m."
+    },
+    {
+      "after_utterance": 213,
+      "text": "(Private session)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 213,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 214,
+      "text": "Page 537 redacted.  Private session."
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 215,
+      "text": "(Open session)"
+    },
+    {
+      "after_utterance": 227,
+      "text": "(Private session)"
+    },
+    {
+      "after_utterance": 228,
+      "text": "Pages 540-543 redacted.  Private session."
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(Closed session)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 229,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 230,
+      "text": "Pages 545-587 redacted.  Closed session."
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 231,
+      "text": "--- Whereupon proceedings adjourned at"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_15_June_1998.doc"
+}

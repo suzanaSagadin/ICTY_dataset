@@ -1,0 +1,4502 @@
+{
+  "case": "blaskic",
+  "case_id_base": "IT-95-14",
+  "case_id_transcript": "IT-95-14",
+  "date": "1998-03-23",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning, ladies and gentlemen. Good morning to the interpreters, good morning to the Prosecution and the Defence. We are here to resume our case. It is which case, Mr. Registrar?"
+    },
+    {
+      "id": 2,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It is case IT-95-14/1-T, the Prosecutor versus Zlatko Aleksovski."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. I turn now towards the Office of the Prosecutor. Could we have the appearances, though we know each other very well already."
+    },
+    {
+      "id": 4,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If your Honours please, my name is Niemann. I appear with my colleagues, Mr. Meddegoda, Ms. Sutherland and Ms. Erasmus for the Prosecution."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And for the Defence, please?"
+    },
+    {
+      "id": 6,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning, your Honours. Good morning to our colleagues from the Prosecution. My name is Goran Mikulicic and, together with my colleague, Mr. Joka, I represent the Defence."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much. As I have said, we are going to resume our hearings, and we shall try to make the best of the time we have this week. Nevertheless, we have slightly changed the timetable for reasons which have to do with the health of Mr. Aleksovski. Therefore, we are going to work from 9 until 1.30, with breaks, so 9 to 10.20, a 20-minute break, and then we shall have another 15-minute break, depending on the circumstances, whether we need to finish with a statement and so on. Therefore, I would like us to make the best of the time and I do not know whether I should take advantage of this opportunity to ask Mr. Mikulicic whether he has any ideas regarding the time required for the presentation of the Defence witnesses. Are you ready to say anything regarding the organisation of work for the Defence, Mr. Mikulicic, please?"
+    },
+    {
+      "id": 8,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, at this moment in time, the Defence is not yet quite clear how many witnesses it will call. We roughly estimate that there will be about 20 witnesses, but we cannot be more precise yet."
+    },
+    {
+      "id": 9,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much. We will wait for you to be able to give us a more precise indication. I turn now to the Prosecutor, Mr. Niemann. It is up to you, Sir, now."
+    },
+    {
+      "id": 10,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, Sir. Your Honours, I just might say at this stage that, as notified in our notice of submission with respect to witnesses, we had originally indicated on the previous sitting that we thought that we would probably complete the Prosecution case this week, but, because of the reduced time, we do not expect that to happen. At the moment we thought the most appropriate witness to take out of the process, because of the time -- that witness we will take will be Professor Biancini and we have done that. It is our expectation at the next sitting we will complete our case, with the conclusion of Professor Biancini's evidence. I thought I should indicate that. I call Daniel Damon, who is our first witness today."
+    },
+    {
+      "id": 11,
+      "speaker": "JUDGE VOHRAH",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That would be witness 25?"
+    },
+    {
+      "id": 12,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, that is correct. Daniel Damon:"
+    },
+    {
+      "id": 13,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning, Mr. Daniel Damon, can you hear me well?"
+    },
+    {
+      "id": 14,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I hear you well."
+    },
+    {
+      "id": 15,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You are going to read the solemn declaration that the usher is giving to you, please."
+    },
+    {
+      "id": 16,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I solemnly declare that I will speak the truth, the whole truth and nothing but the truth."
+    },
+    {
+      "id": 17,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You may be seated, please. You are now going to answer questions, which the Prosecutor, Mr. Niemann, is going to put to you, please. DANIEL DAMON"
+    },
+    {
+      "id": 18,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Good morning, Mr. Damon. Would you please state your full name?",
+      "examination": "direct"
+    },
+    {
+      "id": 19,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I am Daniel Damon.",
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And I would ask you, if you would, to cast your mind back to 1992, and at the beginning of the war in the former Yugoslavia. Can you tell us what your occupation was at that stage?",
+      "examination": "direct"
+    },
+    {
+      "id": 21,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In fact, before 1992 -- in 1991, I was reporting the war in firstly Slovenia and then Croatia, as a freelance journalist, mostly for Sky News.",
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Perhaps you might tell their Honours, is that --",
+      "examination": "direct"
+    },
+    {
+      "id": 23,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Sky News is a satellite television service, part of the Murdoch empire.",
+      "reply_to": 22
+    },
+    {
+      "id": 24,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "It operates where, primarily?",
+      "examination": "direct"
+    },
+    {
+      "id": 25,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is an European service aimed primarily at Britain, but it is visible all over Europe.",
+      "reply_to": 24
+    },
+    {
+      "id": 26,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What were you covering in particular -- what area of the country?",
+      "examination": "direct"
+    },
+    {
+      "id": 27,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The whole of eastern Europe was my beat, but having begun with the uplifting spectacle of revolution, I ended up my time doing quite a lot of war coverage.",
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And in the early part of 1992, did you have occasion to go into Bosnia and where did you go?",
+      "examination": "direct"
+    },
+    {
+      "id": 29,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I covered the Bosnian conflict from almost the beginning -- the first time I was there was -- apart from travelling through before the war began -- the first time I was there during the conflict was on 25 April 1992. I travelled to Pale by helicopter from Belgrade.",
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you were in Pale, how long did you stay there for approximately?",
+      "examination": "direct"
+    },
+    {
+      "id": 31,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Just for one day at that time.",
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Then where were you based after that?",
+      "examination": "direct"
+    },
+    {
+      "id": 33,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Mostly in Sarajevo until June 1992 -- either in Ilidza in the Hotel Bosna or the Europa Hotel in the centre of town. Because of the situation, I kept -- or we kept, because I was working with my wife at the time, who was a camera operator, we kept a room in both places.",
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And, during the course of those early days of the conflict, did you have an opportunity to interview some of the leaders of the warring factions?",
+      "examination": "direct"
+    },
+    {
+      "id": 35,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I certainly met many of the leaders -- Dr Karadzic indeed was my first host, if you like, when we flew in by helicopter in 1992, in April. I had some difficulty, because of Sky's logistical problems getting into Sarajevo. In fact, it was with the help of the former Yugoslavian royal family that the helicopter was arranged directly to meet Dr Karadzic. It was intended that we would only stay the one night. I am afraid we cheated and although we did not take any overnight things, we just said, \"Sorry we are not getting back on the helicopter\", because obviously the whole purpose of our being there was to cover the conflict.",
+      "reply_to": 34
+    },
+    {
+      "id": 36,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, moving on, if I may, to through the course of the year of the war in 1992, I think by Christmas of 1992 you found yourself in Central Bosnia; is that right?",
+      "examination": "direct"
+    },
+    {
+      "id": 37,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. By that time, by the late autumn and winter of 1992, we had begun to travel up and down the road from Split quite a lot. We were covering less in Sarajevo by then and more the troubles around Central Bosnia, and we either based ourselves in Kiseljak, or in the town of Vitez -- some of the time we spent staying either close to the British army base, or in a house not far from there, owned by a cafe owner.",
+      "reply_to": 36
+    },
+    {
+      "id": 38,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I think one of the places that you visited during this period was Tomislavgrad; is that right?",
+      "examination": "direct"
+    },
+    {
+      "id": 39,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, we spent quite a bit of time on Tomislavgrad. It was on the road. It also had its own particular stories. There was a sizeable Serb minority in that area, and obviously that provided some interest, but also it was the logistical base for much of what went on.",
+      "reply_to": 38
+    },
+    {
+      "id": 40,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you were in Tomislavgrad -- perhaps for the benefit of their Honours, where is Tomislavgrad?",
+      "examination": "direct"
+    },
+    {
+      "id": 41,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is just over the border inside Bosnia from Croatia.",
+      "reply_to": 40
+    },
+    {
+      "id": 42,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "But it is in Bosnia?",
+      "examination": "direct"
+    },
+    {
+      "id": 43,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is part of Bosnia, yes.",
+      "reply_to": 42
+    },
+    {
+      "id": 44,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you were in Tomislavgrad, did you see troops there?",
+      "examination": "direct"
+    },
+    {
+      "id": 45,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We saw plenty of troops -- not only UN troops but troops of the Croat forces, and it was a base for the Croat forces going in and out of Bosnia, and it was also an important, I think, police point for the Croat authorities, with responsibilities on the border and inside Bosnia.",
+      "reply_to": 44
+    },
+    {
+      "id": 46,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you say \"forces\", \"Croat forces going in and out of Bosnia\", where did those forces emanate from, where did they begin?",
+      "examination": "direct"
+    },
+    {
+      "id": 47,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Of course this is very difficult for me to say, because we made the assumption -- I say \"we\" -- all if not -- most if not all journalists made the assumption that the forces inside Bosnia wearing the Croat insignia were from both sides of the Bosnian Croat border. I understand that at this stage it becomes important to be precise and I am not able to be precise, because we were not taking much notice. It seemed to us obvious from both the political background and the logistical background that these troops were -- some of them local Bosnian Croats and some of them Croats from inside Croatia. The only example that I have clearly in my mind of the border crossing is that I did once see a vehicle with the HV plate, as opposed to HVO plate just inside the border on its way to Tomislavgrad. I understand the importance technically of the distinction between troops wearing HV and HVO insignia. We did not take any notice, because for us they were the same.",
+      "reply_to": 46
+    },
+    {
+      "id": 48,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I think you also spent some time with the British battalion there, that was under the command of Colonel Stewart?",
+      "examination": "direct"
+    },
+    {
+      "id": 49,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 48
+    },
+    {
+      "id": 50,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Around about 26 October 1992, did you have an opportunity to see troops in training in Central Bosnia?",
+      "examination": "direct"
+    },
+    {
+      "id": 51,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We as a team did. Because this was, say, a set-up shooting opportunity -- a set-up filming opportunity -- to see the training, then I sent the crew -- I did not go myself -- to see the training that you are referring to. There were two instances I think which now become more significant than they appeared at the time. One was a parade which took place in Kiseljak of Croat forces, which we filmed -- in fact my wife filmed that, but I was not there, and the second is a quite extensive training with dogs with a kind of paratroop training but out of the back of troops which lots of armies do, and training with guns, which was done in the hills of, I think, Bosnia, above Tomislavgrad. Again, I did not go myself, I sent the crew -- because there was no news dimensions to it in terms of a current story, it was background.",
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you observe any film that was taken of this?",
+      "examination": "direct"
+    },
+    {
+      "id": 53,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I saw, used and edited those films.",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The films that you saw, used and edited, did you make any observations in terms of the preparedness and level of training of these troops?",
+      "examination": "direct"
+    },
+    {
+      "id": 55,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The troops in the training video were very fit, very well organised, and very well trained, and at that time, because this was before the outbreak of open hostilities between the two Bosnian allies from the Bosnian Government forces and from the several Herceg-Bosna forces, then I must say I was very pleased to see that these Croat forces were very well trained.",
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "These Croat forces that you saw the films of, they were HVO, were they?",
+      "examination": "direct"
+    },
+    {
+      "id": 57,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They were wearing HVO insignia.",
+      "reply_to": 56
+    },
+    {
+      "id": 58,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You mentioned meeting Radovan Karadzic; did you meet any commanders or leaders of particular groups on the Croat side that were working and operating in Bosnia?",
+      "examination": "direct"
+    },
+    {
+      "id": 59,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "At various times, yes. I met Mate Boban, who was the political leader in the southern part of Bosnia in Herceg-Bosna -- I met him in Grude, I met him in Zagreb and I also met him in other parts. I met Tihomir Blaskic in Vitez on several occasions. I met Dario Kordic on several occasions.",
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you also meet any paramilitary-type leaders on either side of the conflict at that time?",
+      "examination": "direct"
+    },
+    {
+      "id": 61,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I did not meet any of the paramilitary leaders who are the most notorious, no. I met plenty of paramilitaries but not the leadership.",
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "During the time you were covering the conflict did you see any documentation in relation to the conflict that you were able to observe and read?",
+      "examination": "direct"
+    },
+    {
+      "id": 63,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "One particular piece of paper which I was interested in getting hold of and which I did manage to get a photocopy of was dated October 1991 and had various signatures. It was -- as it was described and translated to me -- and you were to remember that my knowledge of the language is only acquired by my being there, I have never learned the language formally so I always needed translation, but I was given a translation of this document, which indicated the setting up of an entity called Herceg-Bosna, and this was a plan from October 1991.",
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you met Colonel Blaskic that you mentioned a moment ago, what was the nature of the meeting -- what did you discuss with him; what was the object of meeting with him?",
+      "examination": "direct"
+    },
+    {
+      "id": 65,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Colonel Blaskic was the man through whom one was able to get permissions to do various things -- to travel to various places or to meet various people. He was a very efficient officer and was very helpful in many ways, when he could be, in arranging passage or in arranging meetings with significant personalities in the Central Bosnia region.",
+      "reply_to": 64
+    },
+    {
+      "id": 66,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know approximately what area of operation he was involved in at the time -- very approximate?",
+      "examination": "direct"
+    },
+    {
+      "id": 67,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was certainly run from Kiseljak, because in fact the first I heard of him was from another contact in Kiseljak who was one of the senior police officers in Kiseljak who was our first formal contact for making the kind of arrangements I am talking about, and so it ran from Kiseljak, and I think through to Travnik at the time.",
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In April 1993, did you have an opportunity to see it firsthand -- the conflict that was occurring in and around the Ahmici/Vitez area?",
+      "examination": "direct"
+    },
+    {
+      "id": 69,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I did. In fact, we had seen the build-up to that in the previous autumn. I remember travelling back to -- my wife was in Zenica and I was in Split. I was travelling back with another cameraman, an Australian, to meet my wife and to bring her back down to the coast, and we were stopped by various barricades and what was called \"complications\" between the forces wearing Croat insignia, HVO, and those wearing, at the time, TO, which meant the Bosnian Muslim forces, largely Muslim forces, and that was then calmed down. But by April 1993, it had reached a point where there was a clear outbreak of hostilities. When that took place, I was in Tuzla, and, as soon as I heard that the outbreak of hostilities had occurred, particularly in relation to the village of Ahmici, then I immediately set up and it took us about one day to arrive in Ahmici, which we did I think at around 5 o'clock in the evening.",
+      "reply_to": 68
+    },
+    {
+      "id": 70,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you got to Ahmici, what did you see there?",
+      "examination": "direct"
+    },
+    {
+      "id": 71,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We saw the village destroyed. The first obvious example was the minaret of the mosque which was brought down, that was the first thing you could see when you arrived at the village. Then the next thing you saw was the dead animals, because they were lying in the road, and then, as we went up in to the village we saw the bodies of several people -- some of them obviously very young, and some -- well, you could not identify what age or indeed sex they were, but some of them were burned apparently in the doorways of their houses in such a way that they were frozen in attitudes, which, bearing in mind the circumstances, were easy to interpret as horror.",
+      "reply_to": 70
+    },
+    {
+      "id": 72,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you were there, did you see some spent ammunition cartridges or boxes?",
+      "examination": "direct"
+    },
+    {
+      "id": 73,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I remember one in particular that I think we filmed which had, I would say -- I do not speak any Chinese but I would say had Chinese markings on it. We saw various types of ammunition all over that theatre of course, with lots of different sources -- some apparently from middle eastern countries, some from cyrillic speaking countries, or with cyrillic alphabet and on this occasion from China.",
+      "reply_to": 72
+    },
+    {
+      "id": 74,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You mentioned a meeting with Dario Kordic. Do you know where he was headquartered or centered?",
+      "examination": "direct"
+    },
+    {
+      "id": 75,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not know precisely, because there was a long winding road and quite a difficult process to reach it. Everybody called it \"the eagle's nest\". We arranged this visit the first time through Colonel Blaskic, with his help, and it was -- we travelled from Vitez up into the hills, that is the best I can say.",
+      "reply_to": 74
+    },
+    {
+      "id": 76,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And, at a particular meeting with Kordic, when you were, I believe, having dinner, did you discuss with him the question of camps in the area?",
+      "examination": "direct"
+    },
+    {
+      "id": 77,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was mostly because there were a lot of claims by the Croat side that there were foreign troops, Arab troops, helping the Muslims, as they were described, and so I asked Mr. Kordic to prove this. He was able to do this, after some persuasion, and arranged, a little time later, for us to go to a camp where, indeed, some Islamic prisoners were being held.",
+      "reply_to": 76
+    },
+    {
+      "id": 78,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And did he mention the name of the camp?",
+      "examination": "direct"
+    },
+    {
+      "id": 79,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "If he did, then it is confused in my mind with my later understanding of where it was. You have to again remember that most of this was done through translation, and one of the positive aspects of my time there was that we were able, because we had translators who were not from either of the warring factions, but who spoke the language and were trusted as a result, to build up a reasonable relationship between the translators and those major players that we are referring to, so quite a lot of what I achieved was left up to the translators. They knew what we wanted, they carried out the conversations and made the arrangements and, indeed, made quite good relationships at a personal level with some of those involved in the conflict.",
+      "reply_to": 78
+    },
+    {
+      "id": 80,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, you say that Dario Kordic had agreed that you could see a camp where these so-called troops or soldiers were. What did you do about that? Can you explain the circumstances?",
+      "examination": "direct"
+    },
+    {
+      "id": 81,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We went very soon after, maybe not the next day but certainly very soon after, we went to Kaonik and drove up the track towards the camp, which I did not know at the time was a full military camp -- to me, it was just a place with military-looking buildings up in the hills, or up in the hill above Kaonik, above the junction by the bridge, and we, after some negotiation, were taken through to see a building, which looked at first glance to be a store house, and when I went inside I realised it probably was a purpose-built prison, because it had individual cells. There was some difficulty getting that far, but we had the arrangement made, we had proper permission. My recollection is that a phone call was made to confirm that we were who we said we were. I think you can imagine that those soldiers operating the camp did not want western journalists kicking around the place, but, on the other hand, the political leaders could see the advantage in showing some openness to us, so there was a bit of to-ing and fro-ing, persuading those in the camp that we should be allowed to do what we had come to do. We were allowed to see the inside of just one building, and it was, as you say, a prison camp.",
+      "reply_to": 80
+    },
+    {
+      "id": 82,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Who did you speak to when you arrived there?",
+      "examination": "direct"
+    },
+    {
+      "id": 83,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not know the names -- we spoke to, I think -- I have in my mind's eye three officers, three soldiers wearing combats, by which I mean camouflage, one of whom was clearly the senior, but I do not remember any of the faces or the names.",
+      "reply_to": 82
+    },
+    {
+      "id": 84,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You say they were wearing camouflage uniforms. Did they have any insignia that you noticed at the time?",
+      "examination": "direct"
+    },
+    {
+      "id": 85,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They were all HVO. At least one of them had the white belt, which indicated the military police, but, again, I do not want to pretend that we went around checking insignias. The distinction, because of the nature of the conflict, for us, between military police and military was very fine indeed. In any of these situations you would often see military police insignia being worn by people who clearly had never had a day's training in their life, so from that point of view any uniform would do.",
+      "reply_to": 84
+    },
+    {
+      "id": 86,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you make a film of the inside of the camp?",
+      "examination": "direct"
+    },
+    {
+      "id": 87,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, we filmed the inside of the cells. There were five or six people in each cell. The film that I have since reviewed had five people in one cell. We did not film in another cell -- I went into one other, but, because from a news point of view it was a repetition, we did not bother to film. I just spoke to some of the people in the second cell. I remember one of those more clearly because he was Turkish because he asked me to contact his family and he gave me his name which I wrote down in a notebook which I still have. In the first cell we saw five people. They had no access to water, which seemed to me, because I have travelled in a number of Islamic countries, to be the first obvious pressure on them. Islamic people, if they are religious, which they said they were, need to wash, if at all possible, for their daily prayers and they were very dirty.",
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you able to make any observations about conditions in the prison itself?",
+      "examination": "direct"
+    },
+    {
+      "id": 89,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was -- I mean, it was inhuman. I have seen quite a lot of camps and prisons, as you might imagine. This was not the worst, but it was very bad, because there were no facilities, either for access to fresh air or to water, or indeed any sanitary facilities without the involvement of the guards, and, from what I was told by the prisoners, they were not being well treated.",
+      "reply_to": 88
+    },
+    {
+      "id": 90,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And I do not think we have mentioned the date. Do you remember what date it was --",
+      "examination": "direct"
+    },
+    {
+      "id": 91,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I know the date because it is written on the tape. Indeed that is always the most accurate record of these things, because bear in mind that is what I am working towards is the finished television product, then the record keeping is best on the television material. It was 14 May 1993.",
+      "reply_to": 90
+    },
+    {
+      "id": 92,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The tape -- perhaps you might explain to their Honours the tape that we are about to see. The process that you go through that, I think you have a longer running video and then it is made into something suitable for television; is that right?",
+      "examination": "direct"
+    },
+    {
+      "id": 93,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is correct. We film -- I was not operating the camera at the time, there was another camera operator, and he would know that I wanted quite a lot of material, but he would not film continuously, he would film in sections of maybe a minute or more, and then I would take that back to an editing suite and compile it into a report of about a minute and a half, so obviously I would choose from the shots which are there.",
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When your voice appears or is heard on the tape, that is something that you do at the editing suite is it?",
+      "examination": "direct"
+    },
+    {
+      "id": 95,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I write a commentary and edit later.",
+      "reply_to": 94
+    },
+    {
+      "id": 96,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On the tape we are about to see it is your voice that one can hear; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 97,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If your Honours please, I now ask that the videotape be played. Mr. Damon, could you explain to us the tape as it is going through."
+    },
+    {
+      "id": 99,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Mikulicic, you have something to say?"
+    },
+    {
+      "id": 100,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, your Honour. I should like to ask or be told by my learned friend, what is the purpose of seeing this tape? Does the Prosecutor intend to offer the tape into evidence, or is it for information purposes only?"
+    },
+    {
+      "id": 101,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Niemann, can you respond, please?"
+    },
+    {
+      "id": 102,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour. This is a tape that we will be tendering into evidence. It is a tape which was contemporaneous with events -- that is 14 May 1993. It is in the period of the indictment. It relates to the camp itself, and, in our submission, on that basis, it is very properly admissible as evidence. This witness was there at the time. There is no feature of hearsay or anything in it that would be objectionable."
+    },
+    {
+      "id": 103,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Mikulicic?"
+    },
+    {
+      "id": 104,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, the Defence had occasion to see this tape, as it was disclosed to us in advance by the Prosecution, so that the Defence is aware of what it contains. The tape includes statements by certain people, who were found there in these premises. We heard from the witness that the tape was edited, that a commentary was added to it later on, that the voice was added on. Since the Defence was not able to address questions or to participate in the compilation of this evidence, the Defence feels that it cannot be admitted, referring to Rule 89(D) and (E), because the Defence was unable to participate on an equal footing in the presentation of this evidence, and that is why we object to its being admitted into evidence."
+    },
+    {
+      "id": 105,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If I may respond to that --"
+    },
+    {
+      "id": 106,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You may."
+    },
+    {
+      "id": 107,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This is clearly not a situation where there is any basis whatsoever for objecting to its admission, because the Defence has not had an opportunity to participate in the events at the time. This is a contemporaneous tape, taken at the very time covered by the indictment. On that factor alone it becomes highly probative and it is admissible, because it deals with the subject matter to which this case is entirely concentrating on. If it was made some years later, and the Defence objected to it, there may be some shadow of an objection based on that, but it cannot possibly be objectionable if it is contemporaneous, and that is what it is. The witness has attested to that, your Honour."
+    },
+    {
+      "id": 108,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Mikulicic, you have something more to add -- have you finished?"
+    },
+    {
+      "id": 109,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I have finished. I just wish to draw attention once again to the fact that the tape is not an integral recording, but it is an edited material. The Defence is not aware of what was left out through the editing process. The Defence might possibly agree with this recording being admitted if at the same time the sound were not to be allowed in, but only the picture."
+    },
+    {
+      "id": 110,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Perhaps I might respond to that, your Honour. There are two versions of the tape given."
+    },
+    {
+      "id": 111,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I am sorry, I was waiting for the interpretation. Mr. Niemann?"
+    },
+    {
+      "id": 112,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, the Defence have been given two versions of the tape. One version, as I understand it, is called \"the rushes\", which is a technical term used in the industry, which relates to the whole of the taping that takes place -- that has been given to the Defence, as I understand it, unless there has been some breakdown in communication. If that is the case, we would certainly want to correct that. They have been given that, plus the very shorter version. In our submission, your Honour, it does not matter, because of its contemporaneous nature, because it is made at the relevant time, it does not matter whether it is the short version or the long version -- the long version, we have made an assessment that it is not as relevant and in some respects is not relevant at all, and so we have decided not to play that to your Honours. We could do so if the Defence want that to happen, but we do not believe that it would assist you. It is available to the Defence if they see merit in all of that being played -- they are welcome to do so, they have the tape, they can play it in either their own case or in cross-examination if they wish to do so, but, as I say, your Honour, even if those rushes were not available, that is, the longer version was not available, there would still not be, in my respectful submission, any justifiable basis to this objection, because it is contemporaneous with the events in the indictment."
+    },
+    {
+      "id": 113,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Just a moment, please. I am going to consult with my colleagues. (Pause). The Chamber is going to admit this exhibit, this document, in accordance with Article 89(C), because the document was prepared by the witness and the Prosecution did not interfere at all in the process of preparation. We are therefore going to admit the evidence, and the Defence will be able to contest it during the cross-examination, because this document is part of the testimony of this witness. So, you may continue, Mr. Niemann."
+    },
+    {
+      "id": 114,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If your Honours, please. If your Honours just bear with me one moment, I think there has been a confusion on the tapes. (Pause). I understand the matter is now in hand. It will be ready in a couple of seconds, your Honour. (Pause)."
+    },
+    {
+      "id": 115,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "While we are waiting, I might direct a couple of questions at the witness until the tape is sorted out."
+    },
+    {
+      "id": 116,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, you may."
+    },
+    {
+      "id": 117,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Damon, did you interview any of the camp personnel at the time?"
+    },
+    {
+      "id": 118,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Not on tape, no. We spoke to them briefly, and one of them, as I think you will see, was willing to close the door with his -- not with his face showing to the camera, but he was there at all times, except that we were able to persuade him to leave us with the prisoners, with the Islamic prisoners for a time. I think he was outside the door but at least it enabled us to talk to them without direct interference.",
+      "reply_to": 96
+    },
+    {
+      "id": 119,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I believe we might be ready now, so, if we are, would you just look at the tape and perhaps you might -- where this is no commentary, if there are locations relevant, you might mention them as we see them go through the tape. Could the tape now be played?"
+    },
+    {
+      "id": 120,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We do not have a text."
+    },
+    {
+      "id": 121,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think there is another segment which follows on slightly after that?"
+    },
+    {
+      "id": 122,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This was the edited version.",
+      "reply_to": 96
+    },
+    {
+      "id": 123,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That is the totality of it. We saw there a very short view of the inside of the prison; is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 124,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that is right. As I say, we were able to go into two cells, but we only filmed in one. We were not allowed to film outside. That is not unusual, obviously, it was a military position, and we were not allowed, although we did ask to do an on-camera interview with somebody from the Croat guards, but they were not willing to give that.",
+      "reply_to": 123
+    },
+    {
+      "id": 125,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And were the prisoners open with you, do you feel, when you spoke to them?",
+      "examination": "direct"
+    },
+    {
+      "id": 126,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, as I say we managed to persuade the guard to stand outside. I think that relaxed the prisoners a bit. Also these were quite educated people, and they were determined to have their say. I think they understood that we were who we said we were. I explained to them that I had been to various Islamic countries, so I understood something of their culture. I tried -- it is always the case -- I try to establish some sort of rapport with whoever I am talking to, whatever their background.",
+      "reply_to": 125
+    },
+    {
+      "id": 127,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And the interview that you had with those people that we saw, that interview was on the rushes, as you said -- on another tape?",
+      "examination": "direct"
+    },
+    {
+      "id": 128,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 127
+    },
+    {
+      "id": 129,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 130,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, there is a much longer version of that. You can hear in that longer version that we had quite a lot of detail about how they were kept and, also, the one who was the main speaker in this edited version told me that he had been beaten.",
+      "reply_to": 129
+    },
+    {
+      "id": 131,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I tender that tape. Might it be given the next number in order."
+    },
+    {
+      "id": 132,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It is exhibit number 75."
+    },
+    {
+      "id": 133,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I have no further questions, your Honour."
+    },
+    {
+      "id": 134,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Mikulicic, you may now cross-examine the witness."
+    },
+    {
+      "id": 135,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Damon, I am Defence counsel representing in this trial the accused, and I shall now address a few questions to you, and please be kind enough to answer them to the best of your recollection. Mr. Damon, could you tell us, please, who did you ask for permission on this occasion to visit Kaonik and to make your recordings there?",
+      "examination": "cross"
+    },
+    {
+      "id": 136,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The visit was arranged with Mr. Dario Kordic at an earlier dinner -- either the previous evening or one evening before that, so the 12th or the 13th.",
+      "reply_to": 135
+    },
+    {
+      "id": 137,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I see. Mr. Damon, during your period in Central Bosnia, did you have occasion earlier on to meet or to see at any one of the meetings you went to the person named Zlatko Aleksovski?",
+      "examination": "cross"
+    },
+    {
+      "id": 138,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not remember meeting the defendant. I know his face, but I cannot distinguish that knowledge from seeing him on the television.",
+      "reply_to": 137
+    },
+    {
+      "id": 139,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Damon, who was with you in the team when you went to make your photographs in Kaonik?",
+      "examination": "cross"
+    },
+    {
+      "id": 140,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There was a translator, a Hungarian from Vojvodina, whose name I would rather not give, he asked me to protect his identity, and there was a cameraman from Zagreb, who holds a Croat passport.",
+      "reply_to": 139
+    },
+    {
+      "id": 141,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When filming this material, did you record simultaneously the questions and the answers, or did you add on your questions later?",
+      "examination": "cross"
+    },
+    {
+      "id": 142,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The full version contains my questions as recorded at the time, and the answers. What you have seen is a version in fact with none of my questions -- only with my commentary and the answers, but I know that there is in existence the full version.",
+      "reply_to": 141
+    },
+    {
+      "id": 143,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Damon, at the time you moved around quite a bit across Bosnia and we, here, are interested in Central Bosnia. You had contact, I assume, both with military people and with civilians; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 144,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 143
+    },
+    {
+      "id": 145,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is it also correct that you had contact with local civilians, with the civilian population?",
+      "examination": "cross"
+    },
+    {
+      "id": 146,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, we did.",
+      "reply_to": 145
+    },
+    {
+      "id": 147,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you remember, can you describe the conditions that prevailed at the time -- I am talking about the first half of 1993 -- in Central Bosnia in the Lasva Valley. When I am thinking of the conditions, I imply supplies of food, electricity, fuel, clothing, footwear and that sort of thing?",
+      "examination": "cross"
+    },
+    {
+      "id": 148,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The conditions were better than in other parts of Bosnia. There was some cooperation across checkpoints -- although there were by that time distinct, let us say Bosnian and Croat, or Bosnian Croat and Bosnian Muslim areas, which meant that the road from the coast, from where the supplies came, was certainly full of obstacles, but those obstacles did not appear to hold up the flow of food into the area.",
+      "reply_to": 147
+    },
+    {
+      "id": 149,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell us, please, is it true to say that it was customary to see civilians in that area wearing parts of military uniform, like trousers or blouses -- did you see examples of that during your travels in Bosnia?",
+      "examination": "cross"
+    },
+    {
+      "id": 150,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There was no doubt, when somebody was part of a troop or a military formation, yes, you are quite right -- you can see it in London, too -- people wear so-called camouflage either for fashion or because they have nothing better and, indeed, at a time of conflict, people tend to wear that kind of uniform, but there was never any doubt when somebody was acting as part of a military formation, or as a guard on a checkpoint.",
+      "reply_to": 149
+    },
+    {
+      "id": 151,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Damon, you said that you went to Tomislavgrad and that you saw many troops there. Could you tell us, what is the road like from Tomislavgrad to Central Bosnia, how long the trip takes and what kind of a road it is?",
+      "examination": "cross"
+    },
+    {
+      "id": 152,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "At that time, it was largely a dirt road through forest. After the arrival of the British troops, it began to improve, but in that period from, let us say, May 1992 until the following spring, it was a very difficult road to pass.",
+      "reply_to": 151
+    },
+    {
+      "id": 153,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You said that Tomislavgrad, which is very close to the Croat Bosnia border and that you saw there some soldiers with some HV insignias, that is, the Croat army?",
+      "examination": "cross"
+    },
+    {
+      "id": 154,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I did not say that. I said I saw a truck.",
+      "reply_to": 153
+    },
+    {
+      "id": 155,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I am sorry, that is how I understood you when you said that you saw soldiers from Croatia, so please correct me if I am wrong?",
+      "examination": "cross"
+    },
+    {
+      "id": 156,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I wanted to make it clear -- what I saw was a truck with HV plates and it had troops in it. I did not see the insignia on the troops. I want to emphasise at the time it seemed to us unimportant, the distinction, because, for example, one of the later commanders of the HVO, Ante Roso, was a former senior officer from the HV, and so that confirmed our acceptance of the situation, which was that HVO troops, brother and sister Croats inside Bosnia, were getting assistance, quite naturally, from Croatia. Whether there were troops crossing or not, I do not offer any evidence, except this one indication, which, to us -- I remember that we noticed it, because it was particularly a Croat army vehicle as opposed to an HVO vehicle.",
+      "reply_to": 155
+    },
+    {
+      "id": 157,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I see. Could you tell us, Mr. Damon, whether, in the area of Busovaca of Central Bosnia, you ever saw any such examples?",
+      "examination": "cross"
+    },
+    {
+      "id": 158,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I never saw anything like that, that I remember.",
+      "reply_to": 157
+    },
+    {
+      "id": 159,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Let us go back to your visit to Kaonik. How much time did you spend there?",
+      "examination": "cross"
+    },
+    {
+      "id": 160,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In total, I should say 40 minutes.",
+      "reply_to": 159
+    },
+    {
+      "id": 161,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You told us that you spoke to these foreign nationals, Arabs, and that you interviewed them -- you asked them certain questions?",
+      "examination": "cross"
+    },
+    {
+      "id": 162,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "(Witness nods head).",
+      "reply_to": 161
+    },
+    {
+      "id": 163,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes?",
+      "examination": "cross"
+    },
+    {
+      "id": 164,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "(Witness nods head).",
+      "reply_to": 163
+    },
+    {
+      "id": 165,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "We heard from you that one of them, who spoke on behalf of the group, said that they had been beaten; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 166,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is correct. I should make clear that they were not all Arabs. One was from Pakistan, another one was from Turkey.",
+      "reply_to": 165
+    },
+    {
+      "id": 167,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you notice on those individuals any marks, any injuries?",
+      "examination": "cross"
+    },
+    {
+      "id": 168,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I saw none, except dirt -- they were very dirty.",
+      "reply_to": 167
+    },
+    {
+      "id": 169,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you ask them who had beaten them?",
+      "examination": "cross"
+    },
+    {
+      "id": 170,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I did not ask, because it was a collective \"they\", and it was accepted that we were talking about the guards.",
+      "reply_to": 169
+    },
+    {
+      "id": 171,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that your assumption, or is that your positive knowledge?",
+      "examination": "cross"
+    },
+    {
+      "id": 172,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, you are right, it is an assumption.",
+      "reply_to": 171
+    },
+    {
+      "id": 173,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You said that those persons were dirty and that you gained the impression that they had no possibility to use water?",
+      "examination": "cross"
+    },
+    {
+      "id": 174,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "(Witness nods head).",
+      "reply_to": 173
+    },
+    {
+      "id": 175,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you ask them anything about that?",
+      "examination": "cross"
+    },
+    {
+      "id": 176,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I did. I asked them how they could pray, because I know that Islamic people need to wash, and they demonstrated that their religion allows them to wipe their hands on the wall in order to go through a ritual form of washing, if they are in that situation.",
+      "reply_to": 175
+    },
+    {
+      "id": 177,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I see you have some knowledge about Islamic culture. Are you aware that, during the religious rites, the faithful may also use water from a bottle, if they have no other source of water?",
+      "examination": "cross"
+    },
+    {
+      "id": 178,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, indeed, I am aware, and that is why I asked them how they did it and they demonstrated that they did not have access to any water, but they had to use the wall.",
+      "reply_to": 177
+    },
+    {
+      "id": 179,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Damon, in the room that you went to, did you see a small cupboard with some things on it, to the right of the door?",
+      "examination": "cross"
+    },
+    {
+      "id": 180,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, the room was completely bare.",
+      "reply_to": 179
+    },
+    {
+      "id": 181,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I should like to ask the assistance of the usher so that we may show the witness some photographs that have been admitted into evidence as exhibit number 68. (Handed)."
+    },
+    {
+      "id": 182,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Mikulicic, could the witness put the photographs under the ELMO? Mr. Usher, could you help the witness, please? Thank you."
+    },
+    {
+      "id": 183,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much, your Honours, for your suggestion. That was my idea, anyway. Mr. Damon, do you recognise this object that we see on the photograph, on the screen -- do you remember seeing this?"
+    },
+    {
+      "id": 184,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I have seen this photograph. I understand it was taken during the visit of an European Community Monitor, but I saw this photograph only recently. This object I did not see in the cell, and I was looking for signs of habitation, if you like. It may have been in one of the cells; it was not in the cells which I went into, and I went into two.",
+      "reply_to": 179
+    },
+    {
+      "id": 185,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I should like to ask the usher to show the witness the second photograph, on which we see five persons. (Handed). Mr. Damon, do you recognise these persons on the photograph? Are they the same people that you visited in the cell?",
+      "examination": "cross"
+    },
+    {
+      "id": 186,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, they appear to me to be the same people.",
+      "reply_to": 185
+    },
+    {
+      "id": 187,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Would you be so kind as to allow us to show the tape once again briefly, if I could ask the technical booth to show us the tape once again, and I thank the usher -- the photographs can be returned to the Registrar."
+    },
+    {
+      "id": 188,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Can I ask the audio visual team to show us the tape once again, thank you."
+    },
+    {
+      "id": 189,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Can we, for a moment, go back for a moment and play the tape at a slower pace so that we can see the object in the right-hand corner?"
+    },
+    {
+      "id": 190,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Have you understood what Mr. Mikulicic is asking from you? Could you show us the tape, slow motion, so that we can identify the object, which is at the bottom of the picture, the corridor."
+    },
+    {
+      "id": 191,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, in the right-hand corner."
+    },
+    {
+      "id": 192,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Lower right-hand corner."
+    },
+    {
+      "id": 193,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Can you stop for a moment, please -- stop the tape. Is that what you wanted, Mr. Mikulicic?"
+    },
+    {
+      "id": 194,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Can we have the picture on the screen, please?"
+    },
+    {
+      "id": 195,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This is the picture you wanted? Can you stop the tape here, please?"
+    },
+    {
+      "id": 196,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Damon, I draw your attention to the right part of the picture -- it is not clear, because it is dark. When you look at it, could you now identify the object there?"
+    },
+    {
+      "id": 197,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I see there is a cupboard, but it is not the one in the photograph that you showed me.",
+      "reply_to": 185
+    },
+    {
+      "id": 198,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How can you tell?",
+      "examination": "cross"
+    },
+    {
+      "id": 199,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Because what you showed me was a kind of stove and this is much taller, and empty.",
+      "reply_to": 198
+    },
+    {
+      "id": 200,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Damon, what I showed you was not a stove; it is an old military cupboard, which used to be used by the former JNA, which was housed in those premises, so, to avoid any misunderstanding, I am not showing you a photograph of a stove?",
+      "examination": "cross"
+    },
+    {
+      "id": 201,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Okay, I accept what you are telling me.",
+      "reply_to": 200
+    },
+    {
+      "id": 202,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I thank the video department. We can now remove the tape from the screen. Mr. Damon, when commenting on this videotape, you said, and I think I can quote you, \"it appears that those people had no occasion to exercise\"; is that what you said?"
+    },
+    {
+      "id": 203,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is what I said.",
+      "reply_to": 200
+    },
+    {
+      "id": 204,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Could you explain to us, on the basis of what did you make such a commentary and is this a fact established without any doubt, or is it, again, an assumption?",
+      "examination": "cross"
+    },
+    {
+      "id": 205,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, this is not an assumption; this is an interpretation -- how can I put it -- this is my way of saying what the prisoners told me, but not reporting it as fact. As journalists we use words like \"apparently\" and \"allegedly\" in order to demonstrate that we do not accept what is being told us, but that was something that was told me by the prisoners. I specifically asked them, \"Can you exercise?\", and they said no. I did not report that as being a statement of fact; I reported it as being \"apparent\".",
+      "reply_to": 204
+    },
+    {
+      "id": 206,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes, but you used the word \"apparently\", which logically points to an assumption; is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 207,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, it points to a qualification of a reported fact.",
+      "reply_to": 206
+    },
+    {
+      "id": 208,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So that is your explanation for the use of those words?",
+      "examination": "cross"
+    },
+    {
+      "id": 209,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "What other explanation could there be? I understand that you are trying to ameliorate the conditions which I saw. I am merely reporting the conditions that I saw. They cannot be ameliorated by playing with language.",
+      "reply_to": 208
+    },
+    {
+      "id": 210,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Damon, perhaps we did not understand one another well. My intention is not to ameliorate any conditions; my intention is to present to the Trial Chamber the facts rather than any conclusions or assumptions. That is my intention. Mr. Damon, were you in a position to bring any things to those people, or to leave them some things that you had with you?",
+      "examination": "cross"
+    },
+    {
+      "id": 211,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, that was not part of the arrangement.",
+      "reply_to": 210
+    },
+    {
+      "id": 212,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Damon, do you recall whether any one of these persons that you filmed was smoking cigarettes?",
+      "examination": "cross"
+    },
+    {
+      "id": 213,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, the cigarette was given by one of the guards.",
+      "reply_to": 212
+    },
+    {
+      "id": 214,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Damon, could you tell the Trial Chamber what was the significance of a cigarette at that time in that place, in view of the conditions under which they were obtained at the time?",
+      "examination": "cross"
+    },
+    {
+      "id": 215,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The significance is that the guards understood that the prisoners were being filmed by a western film crew. It happened on other occasions.",
+      "reply_to": 214
+    },
+    {
+      "id": 216,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I am not quite sure that you understood my question well. Were you aware of how expensive cigarettes were at the time in Central Bosnia and could one purchase them on the market as one does in London, in The Hague or anywhere else, or in Zagreb?",
+      "examination": "cross"
+    },
+    {
+      "id": 217,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I am sure the guards were able to purchase cigarettes. I did not know a soldier who went short of cigarettes throughout the conflict.",
+      "reply_to": 216
+    },
+    {
+      "id": 218,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know what the situation was with regard to civilians living in that area?",
+      "examination": "cross"
+    },
+    {
+      "id": 219,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Cigarettes were expensive, but available.",
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you recall how expensive they were -- I mean, what was the price of the cigarettes, if you can recall?",
+      "examination": "cross"
+    },
+    {
+      "id": 221,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I do not smoke, sorry. But cigarettes were the currency and they were expensive, that is true. But the cigarette was given by the guard.",
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Damon, after you left Kaonik, did you learn anything about the future fate of the people whom you filmed on your tape, what happened to them in other words?",
+      "examination": "cross"
+    },
+    {
+      "id": 223,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, a couple of days later they were exchanged, or at least I assume they were exchanged. We were taken to what was meant to be an exchange or a handover of those prisoners in the centre of Zenica. They were being handed over to the Bosnian Government authorities, with the intervention of an Islamic group or charity.",
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. The Defence has no further questions for this witness."
+    },
+    {
+      "id": 225,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Niemann, do you have further questions?"
+    },
+    {
+      "id": 226,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, I do wish to re-examine. I notice the time. Perhaps if your Honours wish to take the break now, we can do that after the break."
+    },
+    {
+      "id": 227,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, thank you, Mr. Niemann. We are going to have a 20-minute break. After that, we will continue with the testimony of Mr. Damon."
+    },
+    {
+      "id": 228,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Mikulicic, you have something to say?"
+    },
+    {
+      "id": 229,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honours. I would like to offer the photograph which was made from the videotape admitted into evidence. I think it may be the number 3 Defence exhibit."
+    },
+    {
+      "id": 230,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, we accept it. You have no objection, Mr. Niemann?"
+    },
+    {
+      "id": 231,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, your Honour."
+    },
+    {
+      "id": 232,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "In that case, Mr. Niemann, you may continue"
+    },
+    {
+      "id": 233,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This is one of the matters I wish to go to. In the course of the cross-examination just a moment ago by Mr. Mikulicic, Mr. Damon, you were asked a number of questions about observations you made concerning whether or not the men appeared to be beaten. You were asked questions about their sanitary appearance and so forth. I think you were asked questions about the contents of the interview itself. You just heard there was admitted by the Defence an extract of the video that was P75. I would ask you to look at this photograph now, and -- it is in fact clearer -- tell us what it is that you see in the right-hand side of the photograph. (Handed). You should use the exhibit -- that is my copy, I do apologise. Perhaps my copy can be given back to me. (Handed).",
+      "examination": "re-direct"
+    },
+    {
+      "id": 234,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I can see what appears to be a cupboard with a cup.",
+      "reply_to": 233
+    },
+    {
+      "id": 235,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Damon, could you please -- Mr. Usher also -- put the photograph under the ELMO. I think that is better for all of us, so that we can all see it?"
+    },
+    {
+      "id": 236,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I can see a cupboard with what appears to be a cup on top of it.",
+      "reply_to": 233
+    },
+    {
+      "id": 237,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. I would ask your Honours now to play the rushes that we did not wish to tender, but seeing as they have now been cross-examined on, I believe that that is now opened the matters up, and in order to resolve any matters of confusion, I seek to play those rushes. It is only a couple of minutes. Mr. Damon, would you look, please, at the television screen, and at the tape that is now to be played?"
+    },
+    {
+      "id": 238,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, the Defence has an objection to this method of presentation of evidence by the Prosecution, because, according to the Rules of Procedure, the Prosecution, during the re-examination, after the cross-examination, can only refer to those topics that were raised during the cross-examination by the Defence, rather than expanding the issue. That is why the Defence objects to the continued questioning by the Prosecution in the sense of seeing additional video tapes."
+    },
+    {
+      "id": 239,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "One of the golden rules of cross-examination is that if the Prosecution, in their evidence-in-chief, do not present evidence, then if the Defence in cross-examination go into the very issue that is not tendered by the Prosecution, they do so at their peril. They do so at the peril of the Prosecution then leading that evidence. It is a very dangerous course for the Defence to do, but once they do it, this is the consequences of them so doing. Mr. Mikulicic has clearly gone into this second tape. He has done so for whatever reason he thought was appropriate at the time, but now my opportunity arises to not only play that tape so that your Honours can see the tape itself as first evidence, but I will be seeking to tender it."
+    },
+    {
+      "id": 240,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Niemann, is that the same tape that we saw during your examination-in-chief and during the cross-examination -- is that it?"
+    },
+    {
+      "id": 241,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, your Honour, it is not. It is the other tape that I had mentioned and I said that Mr. Mikulicic had a copy of, but I said that we had refrained from tendering it, because we thought it went broader than was necessary, and for our own reasons did not seek to tender it. When confronted with a situation like that, the Defence have a number of options. If they want to run the risk of the tape being admitted into evidence, they can then start questioning on it. Alternatively, if they want to avoid that, they must very carefully frame their questions so that they do not open up this area. Once it is opened up in cross-examination, then the whole purpose of re-examination is to clarify any of the matters that have arisen in cross-examination. That is clearly what they have done -- they have stepped into this area where they should have otherwise avoided going if they did not want it produced into evidence. Because they have gone into it now, in my respectful submission, the Prosecution should be entitled, subject to your Honours' ruling, to play that tape, to deal with these issues and clarify these issues, and then, indeed, to go the next step and tender it, your Honours."
+    },
+    {
+      "id": 242,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "(Pause). The Trial Chamber will not admit the showing of the tape if it was referred to in connection with the conditions shown on the tape that we saw. The Defence touched upon it but only regarding the method of viewing the tape. Therefore, the Trial Chamber will not admit the other tape."
+    },
+    {
+      "id": 243,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour. I have no further questions."
+    },
+    {
+      "id": 244,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Mr. Niemann."
+    },
+    {
+      "id": 245,
+      "speaker": "JUDGE VOHRAH",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Damon, you mentioned that when you were in part of this Kaonik area, you came across individuals who wore camouflage uniforms, either fully, or partly. I was not clear in my mind whether, in your statement, you referred only to people who were members of the paramilitary forces. What I want to ask you is whether you also found civilian individuals dressing in the way you mentioned, as you referred to fashionable people doing so even in London?"
+    },
+    {
+      "id": 246,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I meant to say that there was no doubt, when you met somebody who was part of a military formation, or who was involved at an official level in the conflict -- yes, of course, because many of the soldiers would be living at home, you might see them at another time wearing the trousers, for example, from a camouflage uniform, but the military formations in the area were properly organised, and it was not a rag-tag army in that sense.",
+      "reply_to": 233
+    },
+    {
+      "id": 247,
+      "speaker": "JUDGE VOHRAH",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. My second question relates to --"
+    },
+    {
+      "id": 248,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Microphone."
+    },
+    {
+      "id": 249,
+      "speaker": "JUDGE VOHRAH",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "My second question is meant to be addressed either to Defence counsel or to the accused. I see he has sustained an injury in his right eye. How did it come about?"
+    },
+    {
+      "id": 250,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, thank you for asking this question, because the Defence was going to explain at the end of the sitting today that this injury is a consequence of an accident during exercise which he sustained in the detention unit. This is not a consequence of any physical attack or any physical conflict in which my client engaged -- this is accidental injury. I can also state that it has been taken care of, and there is no further need for any medical assistance at this stage."
+    },
+    {
+      "id": 251,
+      "speaker": "JUDGE VOHRAH",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you for your explanation."
+    },
+    {
+      "id": 252,
+      "speaker": "JUDGE NIETO NAVIA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Damon, I would like to know if you saw an object hanging on the wall of the cell?"
+    },
+    {
+      "id": 253,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it appears to be a towel.",
+      "reply_to": 233
+    },
+    {
+      "id": 254,
+      "speaker": "JUDGE NIETO NAVIA",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 255,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Damon, I also have a few points that I would like to put to you. If I understood well, you said that previously the facilities that you were going to visit appeared to you like a military camp. Afterwards, you realised that it was a prison; is that correct?"
+    },
+    {
+      "id": 256,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The facility as a whole appeared to be a military camp; the building that we were taken to -- and we were only taken to one -- appeared at first to be a storehouse as part of a military installation. It was not until I got inside that I realised that there were individual cells and therefore it probably was purpose-built as a prison.",
+      "reply_to": 233
+    },
+    {
+      "id": 257,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. You also said, I think, if I understood well, that you visited different camps?"
+    },
+    {
+      "id": 258,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "(Witness nods head).",
+      "reply_to": 233
+    },
+    {
+      "id": 259,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Is that correct?"
+    },
+    {
+      "id": 260,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 233
+    },
+    {
+      "id": 261,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And to which party engaged in the conflict did those camps belong?"
+    },
+    {
+      "id": 262,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I saw a camp controlled by the Bosnian army, the Bosnian Government army, in a place called Tarcin and I saw a camp also -- well, not a camp but a prison facility, temporary prison facility controlled by the Bosnian army on the east bank in Mostar, and I saw a camp controlled by the Croat forces in Bosnia in a place called Dretelj near Mostar.",
+      "reply_to": 233
+    },
+    {
+      "id": 263,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If I understood you well, you also said that the Kaonik camp was not the worst, so if we put it in the affirmative, then one could say that the Kaonik camp was one of the better ones. Why did you say that the Kaonik camp was not the worst?"
+    },
+    {
+      "id": 264,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The worst I saw, because it had so many more people in it and their condition was much worse, was in Dretelj, which was the -- the people were obviously starving and I was taken by some of the prisoners to a -- I think it was an ammunition bunker that they had been kept in, and they showed me some very bad conditions there. These prisoners were not -- did not have the hollow cheeks of the starving. It was their closed confinement, and their insanitary situation which struck me. What you cannot see on the tape is the smell, of course, and it was very unhygienic. So you are quite right, that, in terms of them not being obviously starving, it was one of the better. The prisoners kept in the camp in Tarcin, which was controlled by the Bosnian army, were also hungrier by their appearance than these Islamic prisoners, that is correct.",
+      "reply_to": 233
+    },
+    {
+      "id": 265,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "During your testimony, you used, often, words such as \"guard\", \"soldier\" and you also said that, at the Kaonik camp, a guard had given the cigarette, but you said at the beginning of your testimony that there were soldiers, but, nevertheless, you did state, I think, that it was possible to make a clear distinction between guards and civilians, so I am asking you two things: there were guards and soldiers; was it possible to make a clear distinction between \"guard\" and \"soldier\", as you did between \"guard\" and \"civilian\"? I should like to hear your view on that."
+    },
+    {
+      "id": 266,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I used the word interchangeably, because they were wearing military uniform. I called them \"guard\" because they were operating the prison, but they were dressed as soldiers.",
+      "reply_to": 233
+    },
+    {
+      "id": 267,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Then I have no further questions. I think that the Trial Chamber can thank you now for coming to the International Criminal Tribunal, and we wish you a happy journey home."
+    },
+    {
+      "id": 268,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Thank you.",
+      "reply_to": 233
+    },
+    {
+      "id": 269,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The next witness, Mr. Niemann, is?"
+    },
+    {
+      "id": 270,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The next witness is witness number 1 in paragraph 2 of our submission in relation to witnesses filed on 20 March 1998. This witness has asked me to make an application for certain measures in relation to the testimony that he will give. He seeks to have the image of his face distorted and to be referred to by use of a pseudonym. We are up to the letter K, pseudonym K at the moment, your Honours. We have advised Mr. Mikulicic of this matter. We have no indication that he is opposed to this application at all, but before I could go into any further detail, it would be necessary to go into private session, unless your Honours are disposed to make the order on the basis of the consent of the Defence. If your Honours are so disposed the blinds could be brought down and the witness brought in."
+    },
+    {
+      "id": 271,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Mikulicic, do you have anything to add?"
+    },
+    {
+      "id": 272,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The Defence has no objections to the protective measures as requested by the Prosecution for this witness."
+    },
+    {
+      "id": 273,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Mr. Mikulicic. In that case, the measures requested are granted, and we will now go into private session, and I ask the technicians to take the necessary steps for the distortion of the face of the witness, please."
+    },
+    {
+      "id": 274,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Can we continue now? Mr. Niemann, I apologise."
+    },
+    {
+      "id": 275,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Witness, the map that is now displayed there, it has certain markings on it. Firstly, before you tell us that, what is the map a map of?"
+    },
+    {
+      "id": 276,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The map that you see before you represents the units of the Corps III in the period between December 1992 and January 1993 and portions of the units of the II and the Corps I. The units of the Corps III at that time numbered about 34,000; 10,800 small arms, pieces of small arms, and 80 per cent of the materiel were involved on the front-lines against the Serb and Montenegrin forces; that is Zavidovici, Zepce, Zenica, Travnik, Novi Travnik, Bugojno and Gornji Vakuf. This sector here (indicates) is the sector of Tesanj and Maglaj. At this time the units of army of Bosnia-Herzegovina were part of the Corps II -- part of the Corps III was also involved with those units, and the units that you see over here belonged at this time to the Corps I, and temporarily they were also part of the Corps III, because of the communication lines that existed between the I and the Corps III and we knew that Sarajevo was at that time under a blockade, and, occasionally, some larger forces were engaged in this area. There were three brigades involved in the attempt to deblock Sarajevo. (Indicating on map).",
+      "reply_to": 233
+    },
+    {
+      "id": 277,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Just stopping there for a moment, the I, II and Corps III that you have referred to, is the I and II and Corps III of the army of Bosnia-Herzegovina; is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 278,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I am talking about the Corps of the army of Bosnia-Herzegovina.",
+      "reply_to": 277
+    },
+    {
+      "id": 279,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And the locations that are marked on that map and the various Corps -- I, II and III -- that you referred to is relevant for the period December 1992?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 280,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. I omitted that the blue colour indicates the army of Bosnia-Herzegovina; the red lines are the units of the army of the Serb and Montenegrin aggressor and the orange, the HVO units, which, for the most part, were in the settled areas and along the main communication lines. Some minor HVO units were also present in the front-lines against the Serb and Montenegrin aggressor, and they were, together with the units of the army of Bosnia-Herzegovina, where I point -- this is in the Travnik/Bugojno municipalities, and to the west of Zepce, about 2 kilometres west, but those positions were not marked on this map.",
+      "reply_to": 279
+    },
+    {
+      "id": 281,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In order that we might get a better orientation on this map, can you point either to Sarajevo, or the general direction of Sarajevo?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 282,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Sarajevo. (Indicates).",
+      "reply_to": 281
+    },
+    {
+      "id": 283,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So Sarajevo is down in the bottom right-hand corner of the map. Can you point to or the direction of Banja Luka?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 284,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Banja Luka is to the north-west here. (Indicates). Actually, it is right there. (Indicates). It can be seen on the map.",
+      "reply_to": 283
+    },
+    {
+      "id": 285,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "It is on the top left-hand corner. Can you point to the city of Vitez?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 286,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Here it is. (Indicates).",
+      "reply_to": 285
+    },
+    {
+      "id": 287,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That is approximately the centre of the map?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 288,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, no, this was a mistake -- here it is. (Indicates). I could not see it properly the first time around.",
+      "reply_to": 287
+    },
+    {
+      "id": 289,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you point to the city of Busovaca?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 290,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Busovaca is here. (Indicates).",
+      "reply_to": 289
+    },
+    {
+      "id": 291,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Slightly below Vitez. And the city of Zenica, can you point to that?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 292,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Zenica is here. (Indicates).",
+      "reply_to": 291
+    },
+    {
+      "id": 293,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, this map does not show in 1992 the existence of any front -- military front -- between the army of Bosnia-Herzegovina and the HVO; is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 294,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is correct. It only shows the front-line at the time of 10 January 1993 until 25 January 1993 in the area of Gornji Vakuf. After that time this front-line was eliminated. In fact, a truce was reached and the trenches were filled in, and the forces were transferred.",
+      "reply_to": 293
+    },
+    {
+      "id": 295,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "During the course of 1992, and even up to the time that that map is depicted, what role did the HVO play in the conflict, particularly with respect to the conflict between the army of Bosnia-Herzegovina and the Serb/Montenegrin forces?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 296,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In the beginning the units of the Croat Defence Council and the Croat population, which was also threatened by the Serb and Montenegrin aggressor, we decided to jointly resist the Serb/Montenegrin aggressor.",
+      "reply_to": 295
+    },
+    {
+      "id": 297,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, was this done by the HVO dividing up the specific parts of the front with the army of Bosnia-Herzegovina, or did they work in cooperation with each other, or was it a little bit of both?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 298,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "For the most part, we held portions of the front-lines in a combined way, depending on what was rational. Where the population was Croat, it was held by the HVO units, and where the Bosnian population prevailed, it was manned by the BiH army and later it was by agreement -- even though the HVO units were better equipped, they had a third of the personnel in their units, but they had much better equipment and better weapons.",
+      "reply_to": 297
+    },
+    {
+      "id": 299,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, in the early part of 1993, did this arrangement of holding the front with the HVO -- did this arrangement come apart?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 300,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it came apart. In fact, in certain parts of the front, the units of the Serb and Montenegrin aggressor and the HVO units starting openly cooperating and there were some attacks against the populated areas and at that time mostly the members of the Bosnian army units were either killed, arrested, or driven out and this was especially the case in the area of Zepce in early 1993.",
+      "reply_to": 299
+    },
+    {
+      "id": 301,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How did the HVO conduct the war against the army of Bosnia-Herzegovina in 1993 -- how did they go about this?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 302,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The BiH army units at the end of 1992 and early 1993 were organised by three offensives in order to effect a deblockade of Sarajevo and this was from the direction of Zenica in the direction of Sarajevo. During this period of time, while the BiH army units were engaged there, the HVO authorities tried to take over control in certain towns of Central Bosnia, so the Bosniak population and units were attacked in Vitez, Novi Travnik, Travnik, Busovaca and Gornji Vakuf, with the goal of taking over the local authorities, the municipality, the police, and establishing the authority of the Croat Defence Council there.",
+      "reply_to": 301
+    },
+    {
+      "id": 303,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did this happen at any particular time or according to any pattern, these attacks that took place, that you were able to observe when you were there?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 304,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This was happening to us and I gave you an example on 28 December 1992 -- this was at a moment when it was an attempt to deblockade Sarajevo, that was the most organised, and at that time the HVO attacked right at that same time in this area of Central Bosnia which I just mentioned.",
+      "reply_to": 303
+    },
+    {
+      "id": 305,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So, in other words, did you gain the impression that, when the army of Bosnia-Herzegovina was at its most committed in relation to a particular plan of attack, that it was at that time that HVO attacks took place -- would that be a fair assessment of what you said?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 306,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 305
+    },
+    {
+      "id": 307,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I think you have prepared another map, have you, of the central area of Central Bosnia, in particular the area of Vitez, Busovaca and Zenica; is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 308,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 307
+    },
+    {
+      "id": 309,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And again it was prepared on a similar basis to the map that you have now displayed; is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 310,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 309
+    },
+    {
+      "id": 311,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I think you would seek to take back the original of those maps with you, but you have no difficulty with them being fully copied and copies being kept here and copies made available for the Defence; is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 312,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I agree to that.",
+      "reply_to": 311
+    },
+    {
+      "id": 313,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, I now tender this map. If it may be tendered on that arrangement so that it can be uplifted and the original sent back to Sarajevo. We have put that in train. I seek to tender that map as the next exhibit in order."
+    },
+    {
+      "id": 314,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It is Exhibit 77."
+    },
+    {
+      "id": 315,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Witness, would you just tell us what that is a map of, please?"
+    },
+    {
+      "id": 316,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is a map -- this is for the deployment of forces for the operative area of Lasva in April 1993.",
+      "reply_to": 311
+    },
+    {
+      "id": 317,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And it is a more detailed map of the Lasva Valley area than the one we have just previously seen, Exhibit 77?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 318,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. This is the deployment of forces of the HVO units and the BiH army units.",
+      "reply_to": 317
+    },
+    {
+      "id": 319,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "All the markings that appear on that map were placed on there by you?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 320,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 319
+    },
+    {
+      "id": 321,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Could the witness be advised to speak into the microphone?"
+    },
+    {
+      "id": 322,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The interpreters are having difficulty hearing you. I know it is a bit awkward, but could you lean forward and speak more into the microphone, because they cannot hear your voice. Thank you. Now what I would like to do, witness, is to have that part of the map that relates to the Busovaca Vitez area displayed on the ELMO machine and I would ask you some more detailed questions about that specific area, if I may. Again, witness, when you point to the map, please point to it on the ELMO machine and not on the television screen in front of you. In addition to that, would you please sit yourself in such a way that you can speak into the microphone and point to the map at the same time. If the ELMO machine could be activated by the technicians, please. Just take your time. Looking at that map, I wonder if you would firstly point to the River Lasva, where it flows, please, down from Vitez. Just show us the line of the map where that is?"
+    },
+    {
+      "id": 323,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The Lasva River flows in this direction, and here it flows into Bosnia, which then flows towards the north. This is the Lasva River, and it flows into the Bosna River. (Indicates).",
+      "reply_to": 319
+    },
+    {
+      "id": 324,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you point to the city of Zenica, please?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 325,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Zenica is here. (Indicates).",
+      "reply_to": 324
+    },
+    {
+      "id": 326,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The witness is pointing on the screen to the top right-hand side. Can you point to the city of Vitez?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 327,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "(Indicates).",
+      "reply_to": 326
+    },
+    {
+      "id": 328,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And the town or city of Busovaca, if you could point to that, please?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 329,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "(Indicates).",
+      "reply_to": 328
+    },
+    {
+      "id": 330,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Immediately north of Busovaca, can you see if you can locate on the Lasva River the place known as Kaonik?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 331,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "(Indicates).",
+      "reply_to": 330
+    },
+    {
+      "id": 332,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, we have certain markings that you have placed on that map. Firstly, the red or orange coloured markings broken line, which appears to go around Kaonik, can you tell me what the red or orange line represents that you have marked there?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 333,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The red circles indicate the deployment of the HVO forces.",
+      "reply_to": 332
+    },
+    {
+      "id": 334,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What about the broken line that you see there, what does that indicate -- the broken line that runs right across the map?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 335,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This broken line means that they were halted in their attack, in their offensive.",
+      "reply_to": 334
+    },
+    {
+      "id": 336,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Who is \"they\"?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 337,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The HVO.",
+      "reply_to": 336
+    },
+    {
+      "id": 338,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that the HVO lines?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 339,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think I said units of the HVO.",
+      "reply_to": 338
+    },
+    {
+      "id": 340,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, what does the blue broken line represent?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 341,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The blue broken line represents the Defence forces of the army of the Republic of Bosnia-Herzegovina.",
+      "reply_to": 340
+    },
+    {
+      "id": 342,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Written in large numbers is the numbers 325 and 330 BBR; what does that represent?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 343,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "These numbers are the indication of the brigades -- the 325th Mountain Brigade. The 325th Mountain Brigade was formed by the Vitez municipality, consisting of units of the municipal staff of Vitez.",
+      "reply_to": 342
+    },
+    {
+      "id": 344,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And that was part of the army of Bosnia-Herzegovina?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 345,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, part of the army of Bosnia-Herzegovina.",
+      "reply_to": 344
+    },
+    {
+      "id": 346,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And they were composed of, what, a combination of local people as well as soldiers from other parts of Bosnia; is that correct?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 347,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The 325th Brigade was composed exclusively of the local population from the municipality of Vitez.",
+      "reply_to": 346
+    },
+    {
+      "id": 348,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Prior to the conflict with the HVO, were the 325th Brigade engaged in the war against the Serb and Montenegrin forces?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 349,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, parts of this brigade, with a part of the high quality armament that this unit had at its disposal, fought in Defence against the Serbo-Montenegrin aggressor on the front-line south-east of Visoko, on the outskirts of the town of Visoko, which belonged to the Corps I of the army of the Republic of Bosnia-Herzegovina.",
+      "reply_to": 348
+    },
+    {
+      "id": 350,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When the soldiers in that brigade were not at the front fighting, in other words, when they were having their rest and recreation leave, did they come back then to this particular area that we now see on our screen, the 325th Brigade?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 351,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, they would return to that area, and, when they were on leave, the soldiers rested at home, but there were permanent commands of the brigade and of the battalion located in this area as indicated, and the staff officers who planned the use of troops or substitution of troops in Visoko or for some other operation were there.",
+      "reply_to": 350
+    },
+    {
+      "id": 352,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "At the time this map represents, which is in April 1993, either all or part of the 325th Brigade was engaged in holding the forces of the HVO in the locations that you now have marked on the map there respectively as red and blue; is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 353,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. At that time, or to be more precise, 19 April 1993, we needed two or three days to bring the units from the front, the front against the Serb and Montenegrin aggressor, to halt the attacks by the HVO forces.",
+      "reply_to": 352
+    },
+    {
+      "id": 354,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Just one other feature of the map that you have shown there, there is what appears to be a much straighter line with occasional semi-circles on it running across the centre of the map. What does that line represent?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 355,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "You mean this line -- dotted line (indicates)?",
+      "reply_to": 354
+    },
+    {
+      "id": 356,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 357,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is the border of the area of responsibility between the 303rd Mountain Brigade and the 325th Mountain Brigade and this full line here (indicates) indicates the western limits of the area of responsibility of the Lasva operational group.",
+      "reply_to": 356
+    },
+    {
+      "id": 358,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Towards the right-hand side of the screen, around what appears to be a little flag that you have drawn in, there is another much larger semi-circle. Do you see there is a number of them there, particularly there is one concentrating on the Lasva River area and then there is one further south, about level with Busovaca. What do they represent?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 359,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "As I said, the broken blue line is the Defence positions of the units of the army of Bosnia-Herzegovina and this fine semi-circular line that you mentioned represents the area or region of responsibility of this unit. In this particular case, the Third Battalion of the 333rd Mountain Brigade defending these positions, but it is responsible for the situation in this whole area regarding security, order, discipline, supply, et cetera.",
+      "reply_to": 358
+    },
+    {
+      "id": 360,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "During this period, in April or the early part of 1993, were forces on either side, that is the forces of Bosnia-Herzegovina and the forces of the HVO, did they employ trench warfare or dig trenches as part of their military operations that you knew of?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 361,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is the main principle of units in defence, to build defences and trenches. It is common knowledge that the losses are much smaller if a soldier builds some kind of protection for himself -- some shelter from attack.",
+      "reply_to": 360
+    },
+    {
+      "id": 362,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did the HVO employ this method of warfare in this specific area, that you knew of?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 363,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Certainly. The HVO units also built trenches and shelters.",
+      "reply_to": 362
+    },
+    {
+      "id": 364,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And were you aware, at this particular time, of the existence of HVO trenches along the front-line that you have shown there on this map?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 365,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We have drawn in the positions that we knew were held by the HVO (indicates). There were other trenches and shelters in other parts.",
+      "reply_to": 364
+    },
+    {
+      "id": 366,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And, when you say \"held by the HVO\", do you mean in general terms, not specifically, but in general terms held by way of the existence of trenches?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 367,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 366
+    },
+    {
+      "id": 368,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And so, from your knowledge of the area at the relevant time, are you able to say that trenches were dug along the front-line as indicated by the red broken line that appears there?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 369,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. Trenches were dug along these lines as shown in the red and blue broken lines. (Indicates). But let me add that, from April onwards until the end of 1993, at the end of the conflict with units of the HVO, these positions and these trenches may have moved 100 metres forward, or backwards, depending upon the combat operations, when either of the opposing sides gained control of an area through combat. But mainly this was how the front looked at the time (indicates) and the trenches that were dug there.",
+      "reply_to": 368
+    },
+    {
+      "id": 370,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And I think you said earlier that both sides used trenches -- the army of Bosnia-Herzegovina used trenches, too, did it not, in this area, at that time?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 371,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The army of the Republic of Bosnia-Herzegovina did also dig trenches with the aim of defence and protecting manpower from the fire of the opposing side.",
+      "reply_to": 370
+    },
+    {
+      "id": 372,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Who dug the trenches --"
+    },
+    {
+      "id": 373,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Excuse me, Mr. Niemann. Perhaps it is time for a break. We are going to stop for a while to have a 15-minute break."
+    },
+    {
+      "id": 374,
+      "speaker": "MR. MEDDEGODA",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, Mr. Niemann will be with you shortly."
+    },
+    {
+      "id": 375,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I am sorry, your Honour, I was outside."
+    },
+    {
+      "id": 376,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You may proceed, Mr. Niemann."
+    },
+    {
+      "id": 377,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Witness, just prior to the break, you were telling us about the fact that, on both sides of the front-line that is marked on the map there, that the forces were using trenches as part of their warfare method. In relation to the trenches that were dug by the forces of the army of Bosnia-Herzegovina, who dug those trenches?"
+    },
+    {
+      "id": 378,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The trenches of the army of Bosnia-Herzegovina were dug by units of the army of Bosnia-Herzegovina.",
+      "reply_to": 370
+    },
+    {
+      "id": 379,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And by \"units\", do you mean by the soldiers themselves?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 380,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 379
+    },
+    {
+      "id": 381,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And were you aware of the army of Bosnia-Herzegovina employing any people other than soldiers to dig trenches during that time in this place?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 382,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I am not aware of it.",
+      "reply_to": 381
+    },
+    {
+      "id": 383,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you hear of or become aware of the fact of who was digging the trenches, at least in part, for the HVO at that time and at that place?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 384,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Through reports I learned, that is official reports of the unit commanders from the ground, that, in addition to soldiers belonging to the HVO, their trenches were also dug by prisoners who were under their control, the soldiers that were captured before or during the conflict against the units of the army of Bosnia-Herzegovina.",
+      "reply_to": 383
+    },
+    {
+      "id": 385,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Again, during this time and at this place, did you hear of any incidences of citizens or people being used as human shields?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 386,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I also heard of that from the reports. That is, I have no personal knowledge, but reading the reports in the function I held, I learned from them that this did occur.",
+      "reply_to": 385
+    },
+    {
+      "id": 387,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you say that you had reports that prisoners were involved in digging trenches for the HVO, did you have, or did the reports contain any details of whether these people were prisoners of war, or were they civilians, or both -- or perhaps you do not know?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 388,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We learned from the reports that they were mostly civilians, but also some soldiers belonging to the army of Bosnia-Herzegovina, because, in our trenches, we had men -- soldiers -- whose relatives had such tasks on the part of the HVO. They were related. They would communicate amongst themselves; they would cry out to each other -- they knew each other.",
+      "reply_to": 387
+    },
+    {
+      "id": 389,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And, at the time -- and again in this place -- when you were in 1993 involved in military operations in this Lasva Valley area, did you hear of whether or not the HVO had and were maintaining prison camps?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 390,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I also learned about them from the reports.",
+      "reply_to": 389
+    },
+    {
+      "id": 391,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And did you learn of the location and places of these camps at all?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 392,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, we knew of the camp in Kaonik. This was one of such camps here. (Indicates).",
+      "reply_to": 391
+    },
+    {
+      "id": 393,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Are there any other details on that map that you have drawn there that you would draw our attention to before I seek to tender it?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 394,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, except, if the Trial Chamber wishes me to show anything else.",
+      "reply_to": 393
+    },
+    {
+      "id": 395,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We will come to that later. I tender that map, if your Honours please, and if I may, could it be tendered on a similar basis, whereby it is uplifted and the copies are maintained by the court?"
+    },
+    {
+      "id": 396,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Registrar, can we have the number, please?"
+    },
+    {
+      "id": 397,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It is Exhibit 78."
+    },
+    {
+      "id": 398,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much."
+    },
+    {
+      "id": 399,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I have no further questions, your Honour."
+    },
+    {
+      "id": 400,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Mikulicic, you now have a chance to cross-examine this witness, if you please."
+    },
+    {
+      "id": 401,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you, your Honours. Witness K, I am attorney Goran Mikulicic, and in this case I appear as the Defence. I have a few questions for you, so be so kind as to answer them to the best of your recollection. Mr. K, is it correct that you are a professional soldier?",
+      "examination": "cross"
+    },
+    {
+      "id": 402,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 401
+    },
+    {
+      "id": 403,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honours, there may be a couple of questions that might perhaps identify the witness -- not in the sense of mentioning his name, but certain facts relevant to his education. I certainly would not like to violate the protection measures, so perhaps I would suggest we go into private session for a few minutes, if my learned friend agrees, on the Prosecution side."
+    },
+    {
+      "id": 404,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Certainly, your Honour, it is an excellent suggestion."
+    },
+    {
+      "id": 405,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "In that case, we are going to go into a private session in order to protect the identity of the witness."
+    },
+    {
+      "id": 406,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "May I please ask the technicians to help us view the map that is on the ELMO."
+    },
+    {
+      "id": 407,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 408,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. K, in your previous testimony, you pointed to the Lasva River valley. You also showed us the demarcation line and in blue you indicated the BiH army positions, the HVO positions in orange?"
+    },
+    {
+      "id": 409,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, in fact here in this map it was in red. (Indicates).",
+      "reply_to": 401
+    },
+    {
+      "id": 410,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Very well. It is red -- it was not fully clear to me on this monitor. Mr. K, you are a professional soldier, you have certain experiences that we lay persons do not possess. I am going to ask you several questions that may appear as a lay question to you, but please bear with us. Looking at this map of the Lasva River valley, could you tell the Trial Chamber and all of us something about the topography of this terrain? Which units as they are indicated on the map held the higher ground, and we are looking in relation to the Lasva River, and which units held the lower ground; again, looking in relation to the Lasva River?",
+      "examination": "cross"
+    },
+    {
+      "id": 411,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "If you allow me, I need to give you a wider explanation. I already pointed out that these were the positions of units whose advance was stopped (indicates) and then this was all after the ethnic cleansing took place in this area (indicates) and these were all positions taken moving towards the River Bosna and this is now the factual position on the ground (indicates) and the position is such that, after having stopped these advancing units, the units of the BiH army controlled the dominant positions that are dominant in relation to the Lasva River.",
+      "reply_to": 410
+    },
+    {
+      "id": 412,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I understand. Based on your military experience, is it usual that one army attacks the other by going uphill -- do you understand my question?",
+      "examination": "cross"
+    },
+    {
+      "id": 413,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it is usual.",
+      "reply_to": 412
+    },
+    {
+      "id": 414,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In a situation where the manpower is smaller?",
+      "examination": "cross"
+    },
+    {
+      "id": 415,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "According to the military principles, if you have lesser manpower, you usually defend yourself, and predominantly the attacking force usually is attacking the dominant positions in order to take control of it as a foothold, either for fortification or for further attacks.",
+      "reply_to": 414
+    },
+    {
+      "id": 416,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. K, beyond the blue line which has been drawn on both the upper and lower part of the map, what is the population structure in those areas, if you know?",
+      "examination": "cross"
+    },
+    {
+      "id": 417,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "At this moment, I cannot give you the exact date -- I would have to refresh my memory, but let us say for orientation purposes, before the war, before the conflict here (indicates), the ratio of Bosniak and Croat population in Busovaca, Vitez, Novi Travnik, was about 50/50, 1:1.",
+      "reply_to": 416
+    },
+    {
+      "id": 418,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Mr. K, could you please show us one more time where Kaonik is on this map?",
+      "examination": "cross"
+    },
+    {
+      "id": 419,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Kaonik is right here on the map (indicates). I think it is visible.",
+      "reply_to": 418
+    },
+    {
+      "id": 420,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes, it is visible, thank you. In your estimate and given the situation that you showed here on the map, how far was the confrontation line from Kaonik?",
+      "examination": "cross"
+    },
+    {
+      "id": 421,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The positions of the HVO was about 1.5 to 2 kilometres and the positions of the BiH army units were about 2 kilometres -- this is the distance here (indicates).",
+      "reply_to": 420
+    },
+    {
+      "id": 422,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know whether the situation which you indicated here was a fixed situation during the first six months of 1993, or whether it changed?",
+      "examination": "cross"
+    },
+    {
+      "id": 423,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This situation kept -- changed a little bit either to the advantage of the BiH army units or the HVO units, and this only concerned like several hundred metres either way, but, for the most part, the situation remained as it is indicated on the map.",
+      "reply_to": 422
+    },
+    {
+      "id": 424,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Does that mean that there were times when, how shall we put it, the front-line was closer to Kaonik and times when it was further away from Kaonik?",
+      "examination": "cross"
+    },
+    {
+      "id": 425,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, there were such times.",
+      "reply_to": 424
+    },
+    {
+      "id": 426,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. K, the place where you are showing, I saw a little flag drawn in and indication \"3/333\"?",
+      "examination": "cross"
+    },
+    {
+      "id": 427,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, the 3/333 means that it is the third battalion of the 333rd Brigade, so it was the third battalion of this particular brigade.",
+      "reply_to": 426
+    },
+    {
+      "id": 428,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is it true that this is a dominant point in relation to Kaonik, that it is high ground?",
+      "examination": "cross"
+    },
+    {
+      "id": 429,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, to the left and right, all these positions are high ground in relation to Kaonik (indicates).",
+      "reply_to": 428
+    },
+    {
+      "id": 430,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is there a visual contact between this position and Kaonik, and when I say \"Kaonik\" I am mostly referring to the military facility that is relevant to this case?",
+      "examination": "cross"
+    },
+    {
+      "id": 431,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There is no visual contact, because of the configuration of terrain. I do not know how to explain it in civilian terms. There are many broken lines in the terrain and the vegetation, and this is why it was not visible from the BiH army positions.",
+      "reply_to": 430
+    },
+    {
+      "id": 432,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "But there is no vegetation in winter time?",
+      "examination": "cross"
+    },
+    {
+      "id": 433,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, but there are trees.",
+      "reply_to": 432
+    },
+    {
+      "id": 434,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. K, do you know a toponym that is a local word called Crna in that area?",
+      "examination": "cross"
+    },
+    {
+      "id": 435,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, it does not mean -- I cannot connect it to anything.",
+      "reply_to": 434
+    },
+    {
+      "id": 436,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. K, is it true that you said that the basic rule of defensive position is to dig trenches?",
+      "examination": "cross"
+    },
+    {
+      "id": 437,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 436
+    },
+    {
+      "id": 438,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is it true that you said that at a position held by the HVO, trenches were dug?",
+      "examination": "cross"
+    },
+    {
+      "id": 439,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 438
+    },
+    {
+      "id": 440,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Does this mean that the HVO units were, at that time, on defensive?",
+      "examination": "cross"
+    },
+    {
+      "id": 441,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it means that at the time when they dug trenches that they were in a defensive position. But, in military terms, the trenches can also be a basis for a future attack.",
+      "reply_to": 440
+    },
+    {
+      "id": 442,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes, Mr. K, you explained that to us already. Now, can you please tell me whether you know that the men who were not mobilised, who were not in the army, were mobilised in other ways, let us say, in the civilian protection units?",
+      "examination": "cross"
+    },
+    {
+      "id": 443,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I am aware of it -- this is men who are either older in age, or some are disabled -- they are put in the different roles. They can be teachers, they can produce food stocks, or they can be work units within the system for the use of the army.",
+      "reply_to": 442
+    },
+    {
+      "id": 444,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know how these units were mobilised in order to carry out certain tasks in the function of defence?",
+      "examination": "cross"
+    },
+    {
+      "id": 445,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I am familiar with those.",
+      "reply_to": 444
+    },
+    {
+      "id": 446,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you describe it to us briefly?",
+      "examination": "cross"
+    },
+    {
+      "id": 447,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Let us say a unit commander, who needs some work done for his unit, approaches the department in the Ministry of Defence asking for a certain number of people and describes the tasks that need to be carried out, on the basis of which this body sends out a summons, or sends a courier to call the unit to report at a particular position to carry out this particular work.",
+      "reply_to": 446
+    },
+    {
+      "id": 448,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I see. So, this is a standard technology, so to speak, and this is something that is done when the circumstances allow for this kind of organisation; but what happens when the circumstances do not allow for this kind of communication, for instance, when the operative bodies of the Ministry are not functional, either because it is not able to contact them because the communication lines have been broken, or, because of the threat of war, this communication does not exist at all -- do you know how this situation works in those circumstances?",
+      "examination": "cross"
+    },
+    {
+      "id": 449,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In the circumstances like that, everything is lost -- nothing can be done. If there is no communication system, if there are no authorities, if there is no courier, it is over.",
+      "reply_to": 448
+    },
+    {
+      "id": 450,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So, the couriers are used when there are no other communication lines available?",
+      "examination": "cross"
+    },
+    {
+      "id": 451,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 450
+    },
+    {
+      "id": 452,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. K, do you know that at the time of these events, and we will limit ourselves here to the first half of 1993, that the BiH army used for the function we just described the units of civilian protection?",
+      "examination": "cross"
+    },
+    {
+      "id": 453,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, yes, it did use them.",
+      "reply_to": 452
+    },
+    {
+      "id": 454,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you tell us for what tasks?",
+      "examination": "cross"
+    },
+    {
+      "id": 455,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Production, supply of units, that is logistics, as drivers for transportation -- so, different tasks -- utilities, feeding the population and other problems that needed to be resolved in the territory under control of certain forces.",
+      "reply_to": 454
+    },
+    {
+      "id": 456,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know that these forces were used for grading the terrain?",
+      "examination": "cross"
+    },
+    {
+      "id": 457,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that is also one of the tasks.",
+      "reply_to": 456
+    },
+    {
+      "id": 458,
+      "speaker": "MR. MIKULICIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, your Honours, the Defence has no further questions of this witness."
+    },
+    {
+      "id": 459,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Niemann, do you have any re-examination?"
+    },
+    {
+      "id": 460,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Witness K, do you know of any circumstances when it is permissible for an army to use either prisoners of war or civilian detainees for the purposes of digging trenches in the front-line?"
+    },
+    {
+      "id": 461,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I am aware of it through the reports, I never saw them personally. But, given the position that I was in, I received reports which let me know that there were such cases where people were taken both to dig trenches and were used as human shields.",
+      "reply_to": 456
+    },
+    {
+      "id": 462,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I think you misunderstood my question, so I may rephrase it again. Do you know of any circumstances in legitimate warfare where it is ever regarded as permissible for an army, in any circumstances, to use prisoners of war or civilian detainees for the purposes of digging trenches on the front-line?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 463,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "As far as I know, it is impermissible.",
+      "reply_to": 462
+    },
+    {
+      "id": 464,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I have no further questions."
+    },
+    {
+      "id": 465,
+      "speaker": "JUDGE VOHRAH",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This question, Mr. Niemann, is directed to you. You have asked for protective measures against the witness. In the silent session we had, questions were put by Defence counsel to the witness which have elicited several facts which go to his identity."
+    },
+    {
+      "id": 466,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour."
+    },
+    {
+      "id": 467,
+      "speaker": "JUDGE VOHRAH",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You are fully aware of the difference between confidentiality and anonymity -- these are terms of art."
+    },
+    {
+      "id": 468,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour."
+    },
+    {
+      "id": 469,
+      "speaker": "JUDGE VOHRAH",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Are you happy with the facts which have now gone on record with regard to this particular witness?"
+    },
+    {
+      "id": 470,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, as I understand the position, and I may be wrong on this, when it is private session it is not broadcast publicly. If there are any matters that go on the transcript -- we review the transcript later, and if there are any matters that concern us in terms of identification, we can then apply to your Honours that they not go on to public transcript. We certainly have no objections to your Honours hearing that. We certainly have no objection to the Defence questioning on that. We review the transcript, and, if we are concerned about any matters, then we can come back and apply to your Honours for it to be deleted from the public transcript."
+    },
+    {
+      "id": 471,
+      "speaker": "JUDGE VOHRAH",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "As long as you understand that."
+    },
+    {
+      "id": 472,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, your Honour, yes."
+    },
+    {
+      "id": 473,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Witness K, we have no further questions for you. We thank you for having come here, and we wish you a safe journey home. Thank you."
+    },
+    {
+      "id": 474,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Perhaps the witness might stay. In view of the lateness of the hour, do you wish to start another witness now -- I think by the time we move the witness out, it will be just about 1.30, I would have thought."
+    },
+    {
+      "id": 475,
+      "speaker": "JUDGE RODRIGUES",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think that we should take advantage of the time, but I do not think five minutes is enough to begin with a new witness, so I think we shall stop here, Mr. Niemann. Mr. Usher, can you bring down the blinds. So, we will meet again tomorrow at 9am to continue the hearing. (At 1.25pm the hearing adjourned until Tuesday, 24th March 1998, at 9am)"
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "(9.15am)"
+    },
+    {
+      "after_utterance": 17,
+      "text": "Examined by MR. NIEMANN."
+    },
+    {
+      "after_utterance": 119,
+      "text": "(Videotape played)"
+    },
+    {
+      "after_utterance": 120,
+      "text": "(Videotape stopped)"
+    },
+    {
+      "after_utterance": 134,
+      "text": "Cross-examined by MR. MIKULICIC"
+    },
+    {
+      "after_utterance": 188,
+      "text": "(Videotape played)"
+    },
+    {
+      "after_utterance": 188,
+      "text": "(Videotape stopped)"
+    },
+    {
+      "after_utterance": 192,
+      "text": "(Videotape played)"
+    },
+    {
+      "after_utterance": 193,
+      "text": "(Videotape stopped)"
+    },
+    {
+      "after_utterance": 227,
+      "text": "(10.32am)"
+    },
+    {
+      "after_utterance": 227,
+      "text": "(A short break)"
+    },
+    {
+      "after_utterance": 227,
+      "text": "(10.59am)"
+    },
+    {
+      "after_utterance": 232,
+      "text": "Re-examined by MR. NIEMANN"
+    },
+    {
+      "after_utterance": 268,
+      "text": "(The witness withdrew)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(In private session)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "Page 1324 redacted - in closed session"
+    },
+    {
+      "after_utterance": 273,
+      "text": "Page 1325 redacted - in private session"
+    },
+    {
+      "after_utterance": 273,
+      "text": "Page 1326 redacted - in private session"
+    },
+    {
+      "after_utterance": 273,
+      "text": "Page 1327 redacted - in private session"
+    },
+    {
+      "after_utterance": 273,
+      "text": "Page 1328 redacted - in private session"
+    },
+    {
+      "after_utterance": 273,
+      "text": "Page 1329 redacted - in private session"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 273,
+      "text": "(In open session)"
+    },
+    {
+      "after_utterance": 373,
+      "text": "(12.17pm)"
+    },
+    {
+      "after_utterance": 373,
+      "text": "(A short break)"
+    },
+    {
+      "after_utterance": 373,
+      "text": "(12.40pm)"
+    },
+    {
+      "after_utterance": 400,
+      "text": "Cross-examined by MR. MIKULICIC."
+    },
+    {
+      "after_utterance": 405,
+      "text": "(In private session)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "Page 1350 redacted - in private session"
+    },
+    {
+      "after_utterance": 405,
+      "text": "Page 1351 redacted - in private session"
+    },
+    {
+      "after_utterance": 405,
+      "text": "Page 1352 redacted - in private session"
+    },
+    {
+      "after_utterance": 405,
+      "text": "Page 1353 redacted - in  private session"
+    },
+    {
+      "after_utterance": 405,
+      "text": "Page 1354 redacted - in private session"
+    },
+    {
+      "after_utterance": 405,
+      "text": "Page 1355 redacted - in private session"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(redacted)"
+    },
+    {
+      "after_utterance": 405,
+      "text": "(In open session)"
+    },
+    {
+      "after_utterance": 459,
+      "text": "Re-examined by MR. NIEMANN"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_March_23,_1998.doc"
+}

@@ -1,0 +1,5456 @@
+{
+  "case": "strugar_et_al",
+  "case_id_base": "IT-01-42",
+  "case_id_transcript": null,
+  "date": "2004-07-01",
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The news has been received this morning of the death from natural causes of Sir Richard May who until very recently served as a Judge of this Tribunal. He was greatly respected as a person and a Judge. He will be missed. Is there a matter that was bringing you to your feet, Ms. Somers?"
+    },
+    {
+      "id": 2,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, Your Honour. The Prosecution wished to inform the Trial Chamber pursuant to its indications at the 65 ter Conference that should there be a witness for whom cross-examination may need to be deferred based on timeliness or perhaps serial disclosure of information, we should inform the Chamber. It appears today's witness may well be such a case. We have been getting from last night various documents that require some study. And should that be the case, I will inform the Trial Chamber after the direct examination. I just wanted to -- and additionally, just at the time of coming to court, another few documents. I'm sorry to take away from anything that was just said. I just wanted to make sure the Chamber was aware of it."
+    },
+    {
+      "id": 3,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. Well, we must proceed today despite the news we have had. We will consider the practical implications of what you say once the evidence in chief is concluded. Mr. Rodic, your next witness."
+    },
+    {
+      "id": 4,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Your Honour. The Defence calls Dr. Radovan Svicevic."
+    },
+    {
+      "id": 5,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning."
+    },
+    {
+      "id": 6,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Good morning."
+    },
+    {
+      "id": 7,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Would you be kind enough to read the affirmation from the card that is given to you now."
+    },
+    {
+      "id": 8,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] I solemnly declare that I will speak the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "id": 9,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Please sit down. Thank you. Yes, Mr. Rodic."
+    },
+    {
+      "id": 10,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Your Honour."
+    },
+    {
+      "id": 11,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "[Interpretation] Good morning, sir. May I ask you to give us your full name.",
+      "examination": "direct"
+    },
+    {
+      "id": 12,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I am Dr. Radoslav Svicevic, officer of the Army of Yugoslavia with the rank of colonel, retired. I have been retired since November 2001.",
+      "reply_to": 11
+    },
+    {
+      "id": 13,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I would appreciate it if you would focus on my questions and make a brief pause before you start answering because all this has to be interpreted because we are speaking the same language. Can you tell me about your schooling attainment.",
+      "examination": "direct"
+    },
+    {
+      "id": 14,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I have completed high school. Then a four-year school for medical activities, medical offices. The philosophy school of the university majoring in clinical psychology. I am also bachelor of sciences and a Ph.D.",
+      "reply_to": 13
+    },
+    {
+      "id": 15,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you tell me, please, if you have published any academic papers, professional papers.",
+      "examination": "direct"
+    },
+    {
+      "id": 16,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I have. Several. Primarily in the area of depression and posttraumatic disorder, stress disorder.",
+      "reply_to": 15
+    },
+    {
+      "id": 17,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Have you published any books?",
+      "examination": "direct"
+    },
+    {
+      "id": 18,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. I authored a book called \"Stress and Disease\" and coauthored three books, rather chapters in them.",
+      "reply_to": 17
+    },
+    {
+      "id": 19,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you tell me the exact period when you served in the JNA.",
+      "examination": "direct"
+    },
+    {
+      "id": 20,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "From 1967 to 2001.",
+      "reply_to": 19
+    },
+    {
+      "id": 21,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell me, please, in 1991, where were you serving?",
+      "examination": "direct"
+    },
+    {
+      "id": 22,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I was in the main inspection service of the armed forces of the Army of Yugoslavia.",
+      "reply_to": 21
+    },
+    {
+      "id": 23,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In 1991, did you receive orders for a transfer from that service?",
+      "examination": "direct"
+    },
+    {
+      "id": 24,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't know if you can consider that a transfer, but I was sent on the 27th of September 1991 to the area of Herzegovina, more specifically to a place called Nevesinje.",
+      "reply_to": 23
+    },
+    {
+      "id": 25,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was it a temporary transfer to that new command?",
+      "examination": "direct"
+    },
+    {
+      "id": 26,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. Because the entire staff of the main inspection service of the JNA was sent at the time to that post.",
+      "reply_to": 25
+    },
+    {
+      "id": 27,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "To whom did you report when you arrived at Nevesinje?",
+      "examination": "direct"
+    },
+    {
+      "id": 28,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I reported to General Jevrem Cokic who had established the command of the operational group including officers from the personnel of the main inspection service of the JNA.",
+      "reply_to": 27
+    },
+    {
+      "id": 29,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Then at the outset when you reported to the command of the 2nd Operational Group, were there any changes in the commanding personnel after General Cokic?",
+      "examination": "direct"
+    },
+    {
+      "id": 30,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No. At the moment when I reported, there weren't any changes. Changes occurred later, ten days later approximately.",
+      "reply_to": 29
+    },
+    {
+      "id": 31,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What happened?",
+      "examination": "direct"
+    },
+    {
+      "id": 32,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "General Cokic sustained a serious injury while travelling in a helicopter, together with a commander of warship and then commander of the naval sector, Djurovic.",
+      "reply_to": 31
+    },
+    {
+      "id": 33,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "He was replaced by whom?",
+      "examination": "direct"
+    },
+    {
+      "id": 34,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On that occasion, Djurovic was killed.",
+      "reply_to": 33
+    },
+    {
+      "id": 35,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And who replaced General Cokic?",
+      "examination": "direct"
+    },
+    {
+      "id": 36,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "He was replaced by General Ruzinovski, who had been chief of the main inspection service of the JNA for several years before.",
+      "reply_to": 35
+    },
+    {
+      "id": 37,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How long did General Ruzinovski occupy that post, if you remember? You don't have to be precise.",
+      "examination": "direct"
+    },
+    {
+      "id": 38,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Nine to ten days, I think. Until the arrival of General Strugar.",
+      "reply_to": 37
+    },
+    {
+      "id": 39,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. When you arrived at the 2nd Operational Group, did you receive a particular task?",
+      "examination": "direct"
+    },
+    {
+      "id": 40,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "My arrival at the 2nd Operational Group was motivated by certain psychological and social problems.",
+      "reply_to": 39
+    },
+    {
+      "id": 41,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "But when you arrived at the 2nd Operational Group, were you engaged in some particular tasks that had to do with communicating with the other side?",
+      "examination": "direct"
+    },
+    {
+      "id": 42,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that was at the time of General Ruzinovski. During our first meeting which I believe took place in Milenija.",
+      "reply_to": 41
+    },
+    {
+      "id": 43,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you remember who attended that meeting?",
+      "examination": "direct"
+    },
+    {
+      "id": 44,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think there was also a representative of the European Community.",
+      "reply_to": 43
+    },
+    {
+      "id": 45,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] With the assistance of the usher, I would like to hand out one document."
+    },
+    {
+      "id": 46,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, can you tell us if you recognised this document and who authored it.",
+      "examination": "direct"
+    },
+    {
+      "id": 47,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We can see it was signed by General Ruzinovski, but obviously I did not participate in its drafting because my last name is misspelled here. It says \"Cvicevic,\" beginning with a C instead of an S. It is not important. It looks like an authentic document.",
+      "reply_to": 46
+    },
+    {
+      "id": 48,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "There is reference in this document to the fact that on the 11th of October a meeting was held in Vila Lovcenka [phoen] in Milenija with a representative of the European Community attending. Is that the meeting you're referring to?",
+      "examination": "direct"
+    },
+    {
+      "id": 49,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that is the meeting. And I remember I travelled to this meeting together with the General Ruzinovski by helicopter from Trebinje.",
+      "reply_to": 48
+    },
+    {
+      "id": 50,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell me, who was designated as liaison officer on the part of the 2nd Operational Group and the 9th Naval Sector?",
+      "examination": "direct"
+    },
+    {
+      "id": 51,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I was, and it is recorded in the document.",
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was anyone but you designated to handle communications with the monitors and representatives of the European Community?",
+      "examination": "direct"
+    },
+    {
+      "id": 53,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There was also Bozidar Celibic, captain of warship, who discharged these duties during my absence from the 2nd Operational Group.",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was anyone from the 9th Naval Sector designated to liaise with the European Community Monitoring Mission and with the other side?",
+      "examination": "direct"
+    },
+    {
+      "id": 55,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it was Sofronije Jeremic, frigate captain.",
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. I will no longer need this document.",
+      "examination": "direct"
+    },
+    {
+      "id": 57,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honours, we should like to have this document numbered as a Defence exhibit."
+    },
+    {
+      "id": 58,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It will be received."
+    },
+    {
+      "id": 59,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The document is D89."
+    },
+    {
+      "id": 60,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Can the witness be shown Document P61, tab 40. And at the same time, I would also like P4 to be presented."
+    },
+    {
+      "id": 61,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, you have in front of you a document tendered by the Prosecution during the testimony of Mr. Per Hvalkof from the ECMM. Could you please tell me first as liaison officer of the 2nd Operational Group, were you familiar with the names of these persons designated as members of the JNA and names of the people designated as members of the Crisis Staff of Dubrovnik?",
+      "examination": "direct"
+    },
+    {
+      "id": 62,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. All these names are familiar with the exception of Sulejman Hasanovic, lieutenant colonel.",
+      "reply_to": 61
+    },
+    {
+      "id": 63,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You did not know anyone by that name?",
+      "examination": "direct"
+    },
+    {
+      "id": 64,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is the first I hear of the person, and I certainly had no occasion to meet him.",
+      "reply_to": 63
+    },
+    {
+      "id": 65,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And how about the names of the persons from the crisis staff?",
+      "examination": "direct"
+    },
+    {
+      "id": 66,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Even now, after so much time, I remember these names and certain contacts I've had with these people in the course of our meetings.",
+      "reply_to": 65
+    },
+    {
+      "id": 67,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In addition to almost all the names of the members of the crisis staff, there are telephone numbers indicated.",
+      "examination": "direct"
+    },
+    {
+      "id": 68,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I can see that. Apart from Mr. Niksa Obuljen.",
+      "reply_to": 67
+    },
+    {
+      "id": 69,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And what about members of the JNA?",
+      "examination": "direct"
+    },
+    {
+      "id": 70,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The only telephone number indicated is for Mr. Jeremic.",
+      "reply_to": 69
+    },
+    {
+      "id": 71,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Which number is that? Will you please read it out?",
+      "examination": "direct"
+    },
+    {
+      "id": 72,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "43 948.",
+      "reply_to": 71
+    },
+    {
+      "id": 73,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 74,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] With the assistance of the usher, I would like Prosecution Exhibit P4 to be shown to the witness."
+    },
+    {
+      "id": 75,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "[Interpretation] Mr. Svicevic, this is a large document tendered during the testimony of Mr. Adrien Stringer. The Prosecution tendered this document. We will not dwell on it long. I will only ask you about something on the first page. If you will look under the heading \"11th October.\"",
+      "examination": "direct"
+    },
+    {
+      "id": 76,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 75
+    },
+    {
+      "id": 77,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is this the same meeting referred to in the previous document signed by General Ruzinovski, a report on the meeting in the Lovcenka Vila?",
+      "examination": "direct"
+    },
+    {
+      "id": 78,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It's not the same document.",
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I'm asking about the contents. Does it refer to the same meeting?",
+      "examination": "direct"
+    },
+    {
+      "id": 80,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. Timewise.",
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Please look at item 7 where it says \"the general agreed with the following.\" And subitem (a), will you please read out what it says.",
+      "examination": "direct"
+    },
+    {
+      "id": 82,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "\"A liaison officer should be appointed holding the rank of frigate captain. Sofronije Jeremic, telephone number, 43 948. He also confirmed that Commander Sofronije shall have full authority to act on his behalf and to make decisions at my meetings with liaison officers.\"",
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 84,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Mr. Usher, I shall not be needing these documents any more."
+    },
+    {
+      "id": 85,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The substance of this subitem (a), does it correspond to what actually happened at the meeting and the decisions made by General Ruzinovski?",
+      "examination": "direct"
+    },
+    {
+      "id": 86,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I believe it does. Moreover, I could add that after this meeting, a press conference was held. I believe it was in a place called Cilipi. The press conference was also attended by representatives of the foreign media.",
+      "reply_to": 85
+    },
+    {
+      "id": 87,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell me, please, during the period between October and December as a liaison officer, did you participate in the negotiations with the Crisis Staff of Dubrovnik and the Monitoring Mission of the European Community?",
+      "examination": "direct"
+    },
+    {
+      "id": 88,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. I participated at several meetings.",
+      "reply_to": 87
+    },
+    {
+      "id": 89,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were these meetings regular?",
+      "examination": "direct"
+    },
+    {
+      "id": 90,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They were supposed to take place twice a week. But sometimes for some technical problems, those meetings would be rescheduled or deferred. However, on average they did take place twice a week.",
+      "reply_to": 89
+    },
+    {
+      "id": 91,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "During those meetings, were there any talks about the way -- how to deal with the issue of Dubrovnik, how to normalise life in Dubrovnik?",
+      "examination": "direct"
+    },
+    {
+      "id": 92,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "All of these meetings were about that issue.",
+      "reply_to": 91
+    },
+    {
+      "id": 93,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you receive instructions from anybody as to how to participate in such negotiations and talks?",
+      "examination": "direct"
+    },
+    {
+      "id": 94,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I would send information to the General Staff and I would receive instructions from them. But that was only when some strategic concepts about the future talks would be discussed.",
+      "reply_to": 93
+    },
+    {
+      "id": 95,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Can the witness be shown D52, please."
+    },
+    {
+      "id": 96,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you remember some of the proposals that the JNA sent to the other side as to how to normalise life in Dubrovnik?",
+      "examination": "direct"
+    },
+    {
+      "id": 97,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I have in front of me a document which is well known to me. To a large extent, I was the author of this document. However, the final draft of this document was made once we agreed with General Strugar on what our position would be. And not only General Strugar, but also all the other competent officers in the General Staff. In this case, I'm referring particularly to General Simonovic.",
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Since you participated in these negotiations, what were the reactions of the other side to the proposals put forward in this document? Or was any of the proposals objected to during the negotiations?",
+      "examination": "direct"
+    },
+    {
+      "id": 99,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This document and a number of subsequent documents resulted from the meetings with the representatives of the city of Dubrovnik who -- which as a rule would take place in the presence of the representatives of the European Community.",
+      "reply_to": 98
+    },
+    {
+      "id": 100,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you have good cooperation or what was the cooperation like during all these talks and negotiations with the crisis staff, with the European monitors?",
+      "examination": "direct"
+    },
+    {
+      "id": 101,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was very constructive, very good. Our meetings would take place very often. There was even a degree of friendship.",
+      "reply_to": 100
+    },
+    {
+      "id": 102,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell me, please, during the negotiations, were there any unpleasant situations?",
+      "examination": "direct"
+    },
+    {
+      "id": 103,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In my view, there were two unpleasant situations. The first one I remember was my emotional reaction after the death of one of our soldiers. And that was despite the fact that, before that, a cease-fire had been agreed on. This emotional reaction was the result of the fact that I saw the body of this young man who was barely 20.",
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know how he died?",
+      "examination": "direct"
+    },
+    {
+      "id": 105,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "He was hit by a sniper.",
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And this was during the cease-fire, if I'm not mistaken?",
+      "examination": "direct"
+    },
+    {
+      "id": 107,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 106
+    },
+    {
+      "id": 108,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were there regular incidents of that kind?",
+      "examination": "direct"
+    },
+    {
+      "id": 109,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. Incidents of that kind happened very often.",
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were there any consequences?",
+      "examination": "direct"
+    },
+    {
+      "id": 111,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Most often, the consequence would be the death of our men, and those were mostly shot by snipers. This may be an opportunity for me to say that I was shot at twice -- actually, my vehicle was shot at twice as I was travelling for negotiations from Trebinje to Cavtat.",
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Can the witness please be shown P61, tab 25."
+    },
+    {
+      "id": 113,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell me, please, during the negotiations in October, November, and December, did you also participate in the negotiations relative to some of the places in the Dubrovnik region? And if you did, what places were those?",
+      "examination": "direct"
+    },
+    {
+      "id": 114,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm afraid I didn't understand your question. What do you mean when you say \"places\"?",
+      "reply_to": 113
+    },
+    {
+      "id": 115,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you participate in the negotiations with regard to Cavtat or any other place in the region?",
+      "examination": "direct"
+    },
+    {
+      "id": 116,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. Cavtat was discussed in an indirect way. However, my active participation was relative to Mokosica. I led those negotiations in the presence of Mr. Bernard Kouchner.",
+      "reply_to": 115
+    },
+    {
+      "id": 117,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you please look at the document that is before you. This is also a Prosecution exhibit that was introduced through Mr. Hvalkof. This is a letter sent to Mr. Kouchner. Can you please read the first paragraph in which your name is mentioned by the head of mission, Houten, and can you explain what this is about and whether this is correct.",
+      "examination": "direct"
+    },
+    {
+      "id": 118,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm surprised and appalled by this. Luckily enough, I believe I have arguments that I could use against this.",
+      "reply_to": 117
+    },
+    {
+      "id": 119,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "It says here that you personally threatened that you would kill some of the monitors and that you were so convincing that after that, some of the monitors decided to leave Cavtat. Is that correct, Mr. Svicevic?",
+      "examination": "direct"
+    },
+    {
+      "id": 120,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I have never threatened anybody in my whole life. I have never inflicted an injury on anybody. When I went to the negotiations, I didn't carry a pistol.",
+      "reply_to": 119
+    },
+    {
+      "id": 121,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Are you maybe aware of the reason or can you assume at least why this was indicated here?",
+      "examination": "direct"
+    },
+    {
+      "id": 122,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I apologise. This is a dishonest claim which I need to dispel in another way. This is a slander, the biggest slander I've ever seen in my whole life. This was written on the 20th of November 1991.",
+      "reply_to": 121
+    },
+    {
+      "id": 123,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You're right there.",
+      "examination": "direct"
+    },
+    {
+      "id": 124,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "However, I have proof that on the 17th, 18th, and 19th, I had very intense contacts with the European Community in the presence of Mr. Kouchner.",
+      "reply_to": 123
+    },
+    {
+      "id": 125,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If you look at the first sentence, it says here that \"on the 19th November 1991, you informed me that you had negotiated an agreement involving monitors in Dubrovnik.\" Did you participate in these negotiations and in drafting the agreement?",
+      "examination": "direct"
+    },
+    {
+      "id": 126,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The dates that I have mentioned, the 17th and the 18th and the 19th are the dates when we talked in the presence of Mr. Kouchner, and the subject of our conversation and talks was how to regulate peace in the area of Dubrovnik and how to enter Mokosica in order to show an example of cooperation that would serve for our future negotiations involving the general area and the town of Dubrovnik itself.",
+      "reply_to": 125
+    },
+    {
+      "id": 127,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Very well, then. We won't need this document any more.",
+      "examination": "direct"
+    },
+    {
+      "id": 128,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Can I please ask the usher to show the witness a new document. Your Honour, this is a new document, one of those that were discussed by our learned friend, Somers. This document was originally in French. It took some time for the translation to be made, and we tried to deliver it to the OTP as quickly as possible."
+    },
+    {
+      "id": 129,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Microphone for the Defence counsel, please. Microphone for the Defence counsel."
+    },
+    {
+      "id": 130,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Rodic, microphone."
+    },
+    {
+      "id": 131,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] I apologise. Thank you."
+    },
+    {
+      "id": 132,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, can you please look at the first page of the document which is in French.",
+      "examination": "direct"
+    },
+    {
+      "id": 133,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 132
+    },
+    {
+      "id": 134,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you see your signature anywhere here?",
+      "examination": "direct"
+    },
+    {
+      "id": 135,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. Yes.",
+      "reply_to": 134
+    },
+    {
+      "id": 136,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is there a signature of Mr. Kouchner here as well?",
+      "examination": "direct"
+    },
+    {
+      "id": 137,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. In the left corner on the bottom of the page.",
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you also see the signature of Mr. Niksa Obuljen from the Crisis Staff of Dubrovnik?",
+      "examination": "direct"
+    },
+    {
+      "id": 139,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Of course. This was signed as a joint document.",
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Very well, then. Are there two other signatures belonging to the European monitors who participated in the negotiations?",
+      "examination": "direct"
+    },
+    {
+      "id": 141,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. This was a group consisting of several people.",
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you please look at the third page of the document bearing the names and signatures and the date. Can you please tell us what the date is and whose signatures you can see on this page.",
+      "examination": "direct"
+    },
+    {
+      "id": 143,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The date is 19 November 1991, and the signatures refer to the map that was agreed. And I'm sure that this map with the points on it was drafted by the representatives of Dubrovnik.",
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So the signatures that you saw on the first page, amongst them your signature, Mr. Kouchner's signature, and Mr. Obuljen's signature, is actually the signing of the contents of the agreement. Is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 145,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it's the contents of the agreement and the map that was to accompany the agreement.",
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And the signatures on the third page?",
+      "examination": "direct"
+    },
+    {
+      "id": 147,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They are accompanying the map.",
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes, and this document --",
+      "examination": "direct"
+    },
+    {
+      "id": 149,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I know that it would be called Kouchner's document.",
+      "reply_to": 148
+    },
+    {
+      "id": 150,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This map, does it represent the separation line between the JNA forces and the Croatian forces?",
+      "examination": "direct"
+    },
+    {
+      "id": 151,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. This is what it was supposed to represent. The date on the map is the 15th of November. And this should have been correlated with the 19th of November. This points to the fact that we had very frequent contacts, and also this points to the fact that our talks took a long time and resulted in the passing of this document.",
+      "reply_to": 150
+    },
+    {
+      "id": 152,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And then on the 19th of November, you reached this agreement on the general protocol between the representatives of the JNA and the representative of the Municipality of Dubrovnik, and this is the title of this document, isn't it?",
+      "examination": "direct"
+    },
+    {
+      "id": 153,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you please look at item 2 of this general protocol, subitem B, \"the retreat of the military forces of both sides further away from the previously determined lines.\" Does that mean that, according to this map, the positions should be adjusted on the separation line between the JNA forces and the Croatian forces? Just briefly, if you can, please.",
+      "examination": "direct"
+    },
+    {
+      "id": 155,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is what it should imply. However, this was just one of the stages, and the subitem B would be important if you give me an opportunity later on to tell us something about our subsequent talks.",
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What was agreed under item C? What was agreed and what was signed?",
+      "examination": "direct"
+    },
+    {
+      "id": 157,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "\"The surrender of weapons to the representatives of the European Community as well as retreat under the neutral control of the military elements from Dubrovnik.\" This is to a considerable extent in accordance with the 11-point document.",
+      "reply_to": 156
+    },
+    {
+      "id": 158,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes. Tell me, since this agreement was signed by all participants, that is to say, this protocol was signed with this kind of content, as a result of the negotiations, what about the other side, the Dubrovnik side that was represented there by Mr. Niksa Obuljen? Did they comply with subitem C from the protocol?",
+      "examination": "direct"
+    },
+    {
+      "id": 159,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think that over the following two or three days, things evolved in accordance with our agreement. As far as I can remember, we entered Mokosica on the 20th. I entered Mokosica as well as Mr. Kouchner and General Damjanovic, accompanied by TV crews, BBC and French TV crews.",
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell me, please, in case you didn't understand, it says under subitem C that \"the surrender of weapons to the representatives of the European Community as well as the retreat under the neutral control of the military elements from Dubrovnik\" was agreed upon. So, please wait for me to finish my question. Please listen to my question and focus on my question when you're giving your answer. Was this ever materialised, this particular item?",
+      "examination": "direct"
+    },
+    {
+      "id": 161,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, it was not, not at a single point in time.",
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What is the reason for not carrying this through, although it was agreed upon and signed?",
+      "examination": "direct"
+    },
+    {
+      "id": 163,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Since this pertained to the representatives of Dubrovnik, this item did, the reason was that their side did not comply with the agreement in this particular item.",
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know why that happened?",
+      "examination": "direct"
+    },
+    {
+      "id": 165,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, after such agreements, there is no doubt that the Dubrovnik side informed the Croatian leadership in Zagreb.",
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Objection, Your Honour. Objection, Your Honour. There's no basis for this. It's speculative. We ask this avenue not be pursued and stricken."
+    },
+    {
+      "id": 167,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "There seems no actual factual basis indicated by the witness, Mr. Rodic."
+    },
+    {
+      "id": 168,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, in that case, I'm going to move on, and I would like to ask that this document be assigned a number as a Defence exhibit."
+    },
+    {
+      "id": 169,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It will be received."
+    },
+    {
+      "id": 170,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This document is D90."
+    },
+    {
+      "id": 171,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you. I would now like to ask that the witness be shown P61, tab 27."
+    },
+    {
+      "id": 172,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, while you took part in these negotiations with the representatives of the European mission and the representatives of Dubrovnik, were there any higher authorities of the Republic of Croatia present?",
+      "examination": "direct"
+    },
+    {
+      "id": 173,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No. I did not attend any negotiations when someone from the higher authorities of Croatia took part in such a meeting.",
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In these negotiations, when you negotiated with the Crisis Staff of Dubrovnik, was there any mention of anything like them having to consult a higher instance?",
+      "examination": "direct"
+    },
+    {
+      "id": 175,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not recall. That was probably part of their internal way of working.",
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Could you please look at this document that is in front of you. This is also an exhibit introduced by the Prosecution during the evidence of Mr. Per Hvalkof. And this document is being sent by the head of the European Monitoring Mission in Yugoslavia, and its subject is Dubrovnik. Could you please read the second paragraph. Could you please read it.",
+      "examination": "direct"
+    },
+    {
+      "id": 177,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "\"The representative of the JNA\" --",
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "No, just read it to yourself so you know what it is about.",
+      "examination": "direct"
+    },
+    {
+      "id": 179,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I cannot say anything about this document because at this time I was absent. I think that my absence was from the 22nd until the 28th of November. That was the time when, according to plan, we left to visit with our families.",
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Microphone for counsel, please."
+    },
+    {
+      "id": 181,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] I'm sorry."
+    },
+    {
+      "id": 182,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In terms of the content, this end of November, as can be seen here, does that correspond to the finalisation of some negotiations that, as we can see, did become the most intensive during the month of November?",
+      "examination": "direct"
+    },
+    {
+      "id": 183,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "After coming back from Belgrade, that was on the 27th, I assume it was the 27th, I intensively took part in a new series of talks. This series of talks was attended by Mr. Demistura, and on one or two occasions Mr. Kouchner as well. Our talks were geared towards the following: That demilitarisation which was carried out in Cavtat and Mokosica be carried out throughout the territory of Dubrovnik. I'm sorry.",
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell me, please, so this agreement was supposed to be carried out in the entire territory of Dubrovnik. You said that all the negotiations that you took part in were geared towards that, and we saw this document a few minutes ago, dated the 19th of November. That was the surrender of arms that was agreed upon and signed. What happened preventing that?",
+      "examination": "direct"
+    },
+    {
+      "id": 185,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think it was on the 1st of December when we reached an agreement and when we specifically said at which points the surrender of weapons would took place of the armed forces that were in Dubrovnik.",
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And what happened? Did this surrender of weapons take place?",
+      "examination": "direct"
+    },
+    {
+      "id": 187,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "After that, a meeting that was supposed to be held did not actually take place. Mr. Kouchner expressed his dissatisfaction because the agreement was being deviated from. I remember this because my memory was jogged by an article dated the 3rd of December.",
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you tell us briefly what this was about.",
+      "examination": "direct"
+    },
+    {
+      "id": 189,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I read newspapers that were published in Serbia and Montenegro. And in these articles, it said that there were problems in negotiations between the Dubrovnik side and the JNA side. And I certainly remember that Mr. Kouchner is mentioned. He also expressed his dissatisfaction over the fact that things were not proceeding as expected. I think that the text from those newspapers corroborating this opinion of mine can be obtained.",
+      "reply_to": 188
+    },
+    {
+      "id": 190,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What is it that was not proceeding as expected and why did Mr. Kouchner express his dissatisfaction?",
+      "examination": "direct"
+    },
+    {
+      "id": 191,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The next round of talks did not take place, although that had been agreed upon. And the next round of talks was supposed to include the concretisation of what had been agreed upon before that.",
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did Mr. Kouchner then express his dissatisfaction in relation to the agreement that was signed and that was not being carried out? Is that the reason for his dissatisfaction?",
+      "examination": "direct"
+    },
+    {
+      "id": 193,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I cannot interpret it that way. Only that he is dissatisfied with the development of the overall situation which until then followed a constructive course and which advanced and which followed a basic logic that was there previously, that the problems related to Dubrovnik be resolved at local level until a final solution is reached in terms of the relationship between the JNA, that is to say, the federal units of the Yugoslavia that existed until then.",
+      "reply_to": 192
+    },
+    {
+      "id": 194,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Microphone for counsel, please."
+    },
+    {
+      "id": 195,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 196,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Please look at the last sentence in the second paragraph of this document. In the second paragraph, the last sentence from the top, the second paragraph from the top.",
+      "examination": "direct"
+    },
+    {
+      "id": 197,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "You mean the one that starts with \"during the meeting\"?",
+      "reply_to": 196
+    },
+    {
+      "id": 198,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "No. \"The JNA representative.\" Please look at the last sentence of that paragraph.",
+      "examination": "direct"
+    },
+    {
+      "id": 199,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "What I see is something that I can just say that is written there. I cannot really make any comments on this. It just fits into what I have been saying so far.",
+      "reply_to": 198
+    },
+    {
+      "id": 200,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Well, precisely; that's what I'm asking you.",
+      "examination": "direct"
+    },
+    {
+      "id": 201,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Excuse me, Your Honour. It's unclear what is being referred to. If it could at least be read out, it would help us follow about what the dialogue is -- he is going on."
+    },
+    {
+      "id": 202,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We haven't focussed yet on an agreed part of the document that is the subject of the comment."
+    },
+    {
+      "id": 203,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Very well, Your Honour."
+    },
+    {
+      "id": 204,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In the second paragraph of this document, it says that \"the JNA representative General Raseta wanted to regard Dubrovnik as a separate issue to have negotiations conducted.\" And in the last sentence of the paragraph, it says: \"The Croat government had issued strict instructions to the local authorities of Dubrovnik not to surrender their weapons.\" The document bears the date of the 24th of November. Its author is the head of the monitoring mission of the European Community in the former Yugoslavia, and on the 19th of November, together with Mr. Kouchner and the Dubrovnik side, you signed inter alia an item of the agreement that pertains to demilitarisation, the surrender of weapons. Is that right?",
+      "examination": "direct"
+    },
+    {
+      "id": 205,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 204
+    },
+    {
+      "id": 206,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If the people of Dubrovnik signed that agreement and if they did not hand over their weapons, is that the result of the fact that they were not allowed to do so by a higher instance?",
+      "examination": "direct"
+    },
+    {
+      "id": 207,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "At that time, there's no evidence that this witness would have known why anything would have been done or not done by the people of Dubrovnik."
+    },
+    {
+      "id": 208,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I agree, Ms. Somers. You'll have to get the witness's knowledge more apparent before you get him to make any observation on the reason for certain things not happening, Mr. Rodic."
+    },
+    {
+      "id": 209,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Very well, Your Honour. Since time is precious, I'm going to move on to other questions. So we no longer need this document. I would just like to ask whether we will be working in accordance with our old schedule. Should we take the break now as we usually do, or shall we take it later."
+    },
+    {
+      "id": 210,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I was thinking approximately a quarter to would be a convenient time for the first break."
+    },
+    {
+      "id": 211,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 212,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, in relation to behaviour of the other side and action taken by the other side, that is to say, the Croatian armed forces and paramilitary units, as a member of the command of the 2nd Operational Group, did you receive any intelligence concerning enemy action, movements, and the like?",
+      "examination": "direct"
+    },
+    {
+      "id": 213,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 212
+    },
+    {
+      "id": 214,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you attend briefings in the headquarters of the command of the 2nd Operational Group?",
+      "examination": "direct"
+    },
+    {
+      "id": 215,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 214
+    },
+    {
+      "id": 216,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Could you hear on that occasion from the person in charge of intelligence what the results were of the work carried out in that field, that is to say, intelligence?",
+      "examination": "direct"
+    },
+    {
+      "id": 217,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 216
+    },
+    {
+      "id": 218,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] I would like to ask the usher to distribute the next document, please."
+    },
+    {
+      "id": 219,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, can you tell us what this document is. Do you recognise it?",
+      "examination": "direct"
+    },
+    {
+      "id": 220,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It's one of the usual documents that would come from the command of the naval sector to the command of the operations group.",
+      "reply_to": 219
+    },
+    {
+      "id": 221,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "It's an intelligence report, as we can see, sent to the command of the 2nd Operational Group dated 5th December.",
+      "examination": "direct"
+    },
+    {
+      "id": 222,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 221
+    },
+    {
+      "id": 223,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Signed by whom?",
+      "examination": "direct"
+    },
+    {
+      "id": 224,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Frigate Captain Sofronije Jeremic.",
+      "reply_to": 223
+    },
+    {
+      "id": 225,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was that the same man who at the same time was liaison officer?",
+      "examination": "direct"
+    },
+    {
+      "id": 226,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 225
+    },
+    {
+      "id": 227,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Please look at item B, the last paragraph of the document, and read it.",
+      "examination": "direct"
+    },
+    {
+      "id": 228,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "What catches my attention is the phrase that says \"they're not for the demilitarisation of Dubrovnik.\" It's a departure from our strategy.",
+      "reply_to": 227
+    },
+    {
+      "id": 229,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is it also a departure from the agreement on demilitarisation that we've just discussed?",
+      "examination": "direct"
+    },
+    {
+      "id": 230,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it is.",
+      "reply_to": 229
+    },
+    {
+      "id": 231,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Please look again in this paragraph B. \"In the conflict, in the clashes in Dubrovnik, a member of the guards was killed in the area north of Ston.\" Do you know what this is about?",
+      "examination": "direct"
+    },
+    {
+      "id": 232,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is consistent with the reports made at briefings of the 2nd Operational Group by persons in charge of this kind of activity.",
+      "reply_to": 231
+    },
+    {
+      "id": 233,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On the 5th of December, did you have any knowledge gained from the briefings about these clashes in Dubrovnik? Did you hear about it, noted it down somewhere?",
+      "examination": "direct"
+    },
+    {
+      "id": 234,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I attended the regular meeting in the command of the operational group, the daily meeting that usually took place around 6.00 p.m., before dinner. And I remember that I also noted down in my notebook something to this effect.",
+      "reply_to": 233
+    },
+    {
+      "id": 235,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Your Honour. I would be grateful if we could get an identification number for this document as well as a Defence exhibit."
+    },
+    {
+      "id": 236,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It will be received."
+    },
+    {
+      "id": 237,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This is D91."
+    },
+    {
+      "id": 238,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you."
+    },
+    {
+      "id": 239,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In December, in the first days of December, did any negotiations go on with the Croatian side? Did you take part in them, or were you informed about them?",
+      "examination": "direct"
+    },
+    {
+      "id": 240,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The last round of negotiations with the Croatian side I had on the 1st of December. And after that, the Croats started to avoid meetings that had to discuss arrangements for the surrender of weapons, and that was apparently the reason why they avoided the meetings. I did not meet with the negotiators from Dubrovnik or the European Community any more.",
+      "reply_to": 239
+    },
+    {
+      "id": 241,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did someone else replace you as negotiator with the Dubrovnik side?",
+      "examination": "direct"
+    },
+    {
+      "id": 242,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I have information that Admiral Jokic negotiated on the 5th of December in Cavtat.",
+      "reply_to": 241
+    },
+    {
+      "id": 243,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know on whose instructions he was doing that?",
+      "examination": "direct"
+    },
+    {
+      "id": 244,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I don't know that, but I know the Croatian delegation was of a very high level.",
+      "reply_to": 243
+    },
+    {
+      "id": 245,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know who these representatives were?",
+      "examination": "direct"
+    },
+    {
+      "id": 246,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "If you would give me some names, I would remember them. I believe one of them was called Rudolf.",
+      "reply_to": 245
+    },
+    {
+      "id": 247,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "To your knowledge, was the 2nd Operations Group involved in their negotiations conducted by Admiral Jokic with the Croatian ministers? Was any representative of the group there?",
+      "examination": "direct"
+    },
+    {
+      "id": 248,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Not that I know. If anybody had gone there, it would have been probably me. An important detail is that this meeting was attended by General Damjanovic.",
+      "reply_to": 247
+    },
+    {
+      "id": 249,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So the members of the 2nd Operations Group were excluded from these negotiations? In fact, they did not take --",
+      "examination": "direct"
+    },
+    {
+      "id": 250,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That is not the testimony. And also, if it's explored as to who General Damjanovic is, that would be incorrect should that have been the suggestion."
+    },
+    {
+      "id": 251,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think we will break at this point, Mr. Rodic. And you can collect your thoughts as to how to approach the issue if you want to take it further after the break."
+    },
+    {
+      "id": 252,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Your Honour. Thank you."
+    },
+    {
+      "id": 253,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, before we proceed, may I just raise one point to the Chamber. I apologise for perhaps being not quite as quick on the uptake, but on D91, the Prosecution respectfully requests the Chamber to reconsider its position on admission in that I believe there is a 90 (H) violation. This was not put to any of the 9th -- any -- it was not put to Admiral Jokic, which we think would have been the appropriate person to have put it to. And so far, no other officers who may have been in the -- specifically at that particular location which this witness was not."
+    },
+    {
+      "id": 254,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I really don't know how far most of the contents of 91 would gain anything from being put to the Prosecution witnesses. And if you're concentrating on the last sentence of D91, it remains without any particular substance at the present time. I think the document will remain as an exhibit. It will be weighed for its substance and weight in due course. Yes, Mr. Rodic."
+    },
+    {
+      "id": 255,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Your Honour. I should now only like to clarify an error from the end of the previous session. On page 24, line 19, there was a misinterpretation. So the record shows that an important detail was that the meeting was attended by General Damjanovic. I don't think this is a correct interpretation, because from what I heard, the witness did not say it this way, and I can ask the question again regarding that meeting in Cavtat on the 5th of December."
+    },
+    {
+      "id": 256,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Please clarify with the witness."
+    },
+    {
+      "id": 257,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Your Honour."
+    },
+    {
+      "id": 258,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, to correct the record if necessary, I should like to ask you if anyone from the 2nd Operational Group participated on the 5th of December in the negotiations with the Croatian side with the ministers that you mentioned.",
+      "examination": "direct"
+    },
+    {
+      "id": 259,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, nobody did.",
+      "reply_to": 258
+    },
+    {
+      "id": 260,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, pardon me, but is the question 2nd Operational Group or 2nd Operational Group command?"
+    },
+    {
+      "id": 261,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The question was 2nd Operational Group, and the answer was no."
+    },
+    {
+      "id": 262,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] I will follow the instructions of my learned friend."
+    },
+    {
+      "id": 263,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And ask you if anyone from the command of the 2nd Operational Group was involved in those negotiations on the 5th of December.",
+      "examination": "direct"
+    },
+    {
+      "id": 264,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, nobody was involved, and to emphasise that fact I mentioned General Damjanovic.",
+      "reply_to": 263
+    },
+    {
+      "id": 265,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you clarify why you mentioned him.",
+      "examination": "direct"
+    },
+    {
+      "id": 266,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I believe I said that because the meeting was at a very high level, if I did not attend the meeting, at least General Damjanovic should have gone. But to the best of my knowledge, he did not go, nor did anyone else from the 2nd Operational Group go to the meeting of the 5th of December with the Croatian side, with the representatives of the Croatian authorities in Cavtat.",
+      "reply_to": 265
+    },
+    {
+      "id": 267,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you at the command post of the 2nd Operational Group?",
+      "examination": "direct"
+    },
+    {
+      "id": 268,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 267
+    },
+    {
+      "id": 269,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you see Admiral Jokic on that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 270,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't remember. But I can say with a high degree of certainty that I did not.",
+      "reply_to": 269
+    },
+    {
+      "id": 271,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Very well.",
+      "examination": "direct"
+    },
+    {
+      "id": 272,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] I should like the witness shown the Prosecution Exhibit P104."
+    },
+    {
+      "id": 273,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And before that, may I ask you, Mr. Svicevic, during your stay there in autumn 1991, during your tenure in the 2nd Operational Group, did you have occasion to read or familiarise yourself with the protests addressed by the Croatian side, or maybe the monitors of the European Commission to the 2nd Operational Group or the 9th Naval Sector regarding certain incidents or events on the terrain -- on the ground?",
+      "examination": "direct"
+    },
+    {
+      "id": 274,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I did.",
+      "reply_to": 273
+    },
+    {
+      "id": 275,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did it happen that you on behalf of the 2nd Operational Group addressed certain protests to the other side?",
+      "examination": "direct"
+    },
+    {
+      "id": 276,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 275
+    },
+    {
+      "id": 277,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you tell me what kind of protests, regarding what?",
+      "examination": "direct"
+    },
+    {
+      "id": 278,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Most often, it concerned violations of the cease-fire.",
+      "reply_to": 277
+    },
+    {
+      "id": 279,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On whose part?",
+      "examination": "direct"
+    },
+    {
+      "id": 280,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On the part of Croatia involving casualties on our side.",
+      "reply_to": 279
+    },
+    {
+      "id": 281,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In your negotiations with the Dubrovnik side and the ECMM, primarily the monitors, did you demand as the JNA negotiator that the monitoring mission also have representatives on the JNA side?",
+      "examination": "direct"
+    },
+    {
+      "id": 282,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. I did so from our very first meetings. But it never happened.",
+      "reply_to": 281
+    },
+    {
+      "id": 283,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know why it didn't happen despite the fact that you constantly demanded it?",
+      "examination": "direct"
+    },
+    {
+      "id": 284,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I could only offer an interpretation that I believe would not serve any purpose.",
+      "reply_to": 283
+    },
+    {
+      "id": 285,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Very well. Would you please look at this document. Are you familiar with it?",
+      "examination": "direct"
+    },
+    {
+      "id": 286,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 285
+    },
+    {
+      "id": 287,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Are you familiar with the substance?",
+      "examination": "direct"
+    },
+    {
+      "id": 288,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I remember I wrote it myself, and I now notice the corrections written in hand. This is my handwriting.",
+      "reply_to": 287
+    },
+    {
+      "id": 289,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If I understood you correctly, you drafted this document for your commander, General Strugar?",
+      "examination": "direct"
+    },
+    {
+      "id": 290,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 289
+    },
+    {
+      "id": 291,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is this a reply to the protests addressed by the monitoring mission to the JNA?",
+      "examination": "direct"
+    },
+    {
+      "id": 292,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It could be, but this reflects our analysis of the preceding talks as indicated in the subject. And it is also an overview of the period from the 28th of October until the 3rd of November.",
+      "reply_to": 291
+    },
+    {
+      "id": 293,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Will you please look at this document dated 4th November 1991 addressed to Admiral Stane Brovet personally.",
+      "examination": "direct"
+    },
+    {
+      "id": 294,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. That is so.",
+      "reply_to": 293
+    },
+    {
+      "id": 295,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you remember if Admiral Stane Brovet asked a reply from the 2nd Operational Group?",
+      "examination": "direct"
+    },
+    {
+      "id": 296,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I suppose that he did so in his direct contact with General Strugar after which General Strugar instructed me to draft this document. But more generally speaking, this is an illustration of our cooperation with the General Staff.",
+      "reply_to": 295
+    },
+    {
+      "id": 297,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Could the witness be shown also the Defence Exhibit D50."
+    },
+    {
+      "id": 298,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Are you going to identify that document for the record? The witness has just spoken about the document. There's no reference in the record to what it is."
+    },
+    {
+      "id": 299,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, the document which is now before the witness is Prosecution Exhibit P104."
+    },
+    {
+      "id": 300,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 301,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 302,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, will you please look at this document. Will you look at the document in front of you. The document now before you is Defence Exhibit D50. And it is a wire sent by Admiral Stane Brovet to Admiral Jokic and General Strugar. Will you please look at the new document shown to you.",
+      "examination": "direct"
+    },
+    {
+      "id": 303,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 302
+    },
+    {
+      "id": 304,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is it the case that Admiral Stane Brovet is asking for a report concerning the protest made by the European mission?",
+      "examination": "direct"
+    },
+    {
+      "id": 305,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. And I believe it is consistent with the previous document.",
+      "reply_to": 304
+    },
+    {
+      "id": 306,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Are you saying that you acted then upon your commander's instructions and prepared this document signed by General Strugar? Will you please look at item 7 on page 2 where it says that in the course of talks on the 4th of November with the representatives of the European Community and the city of Dubrovnik, a message was received at 1210 hours that fire was -- had been opened from the Old Town of Dubrovnik, which was represented to the representatives of the European mission, and it was also pointed out that the Croatian side was trying to provoke the JNA at all costs in order to discredit it. Is that so?",
+      "examination": "direct"
+    },
+    {
+      "id": 307,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 306
+    },
+    {
+      "id": 308,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Who attended these talks on the 4th of November when this piece of information arrived?",
+      "examination": "direct"
+    },
+    {
+      "id": 309,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I know that there was somebody from the European Community. I know that for sure. These talks held -- were held in the Supetar Hotel in Cavtat, and Warship Captain Zec also arrived for the talks.",
+      "reply_to": 308
+    },
+    {
+      "id": 310,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you lodge such protests to the crisis staff of Dubrovnik and the ECMM?",
+      "examination": "direct"
+    },
+    {
+      "id": 311,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 310
+    },
+    {
+      "id": 312,
+      "speaker": "MR. PETROVIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, just about the interpretation, it's page 30, line 10. It says that Warship Captain Zec also arrived for the talks, whereas the witness actually said that it was Warship Captain Zec who sent the message, not came to attend the meeting. This is what the witness said."
+    },
+    {
+      "id": 313,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 314,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 315,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, did you ever receive an answer or report from the other side, from the Dubrovnik side or from the monitoring mission to any of the protests that you lodged?",
+      "examination": "direct"
+    },
+    {
+      "id": 316,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "As a rule, at the subsequent meetings, this was dealt with. The problems that were raised at the previous meetings were dealt with at the subsequent meetings.",
+      "reply_to": 315
+    },
+    {
+      "id": 317,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "However, if you lodge a protest and if you say that a fire is being opened from the old city of Dubrovnik at the JNA positions, did you ever receive a response from the other side with regard to any such protests of yours?",
+      "examination": "direct"
+    },
+    {
+      "id": 318,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This was an example showing that the protest was lodged in a realistic time or in realtime, in the time when our talks were being held. We received this message and immediately lodged a protest. And according to the rules, the other side promised to investigate and inform us at the following meeting as to what was going on.",
+      "reply_to": 317
+    },
+    {
+      "id": 319,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you only on that occasion or on several occasions find yourself in a position to lodge a protest with regard to the activities against you from the old city of Dubrovnik during the months of October, November, and December 1991?",
+      "examination": "direct"
+    },
+    {
+      "id": 320,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "There's no evidence of multiple activities from the old city. There is a reference to one."
+    },
+    {
+      "id": 321,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Quite right, Ms. Somers."
+    },
+    {
+      "id": 322,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 323,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, the old city of Dubrovnik, was it in this case only that the old city of Dubrovnik and the activities from the old city of Dubrovnik are against the positions of the JNA, that it was the subject of your protest?",
+      "examination": "direct"
+    },
+    {
+      "id": 324,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Objection, Your Honour. There's no period of time referred to in the question. It is simply -- it's one that any answer would be really speculative. Let's get a time frame."
+    },
+    {
+      "id": 325,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think we'll leave it to Mr. Petrovic to pursue the matter -- Mr. Rodic, perhaps."
+    },
+    {
+      "id": 326,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 327,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I'll repeat my question, and I'll give it the time frame. I'm talking about the period of October, November, and December 1991. According to your knowledge, during that period of time, was this the only protest lodged by the JNA on the occasion of fire being opened from the old city of Dubrovnik on the JNA positions?",
+      "examination": "direct"
+    },
+    {
+      "id": 328,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There were several such protests.",
+      "reply_to": 327
+    },
+    {
+      "id": 329,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Can you please look at the last paragraph, there's a reference here to the representative of the mission, Mr. Lucas. Is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 330,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 329
+    },
+    {
+      "id": 331,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did anything come into your conversation with Mr. Lucas with regard to the detained member of the JNA member in Dubrovnik? Was that issue discussed with Mr. Lucas?",
+      "examination": "direct"
+    },
+    {
+      "id": 332,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Is there any need for me to interpret?",
+      "reply_to": 331
+    },
+    {
+      "id": 333,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I'll kindly ask you to speed up a little.",
+      "examination": "direct"
+    },
+    {
+      "id": 334,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. In our conversation with the representative of the city of Dubrovnik, we received information that three of our officers had been captured. We wanted to find out their names. We insisted on their being revealed to us. However, at a subsequent meeting, they gave us only two names. At the next meeting, they didn't give us the name of the third officer, and we were afraid that this person might no longer be alive. And we requested information about that from the representatives of the European monitoring mission. Mr. Lucas denied that this third officer had died. According to him, only one dog had been killed in Dubrovnik by that time. And we objected to that. We lodged our protest about the work of the European monitors. As a result of that, this group of monitors was replaced by a new group.",
+      "reply_to": 333
+    },
+    {
+      "id": 335,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "We will no longer need this document. I would now like to ask you to explain, as you were the liaison officer of the 2nd Operations Group with the seat in Trebinje, did you travel from Trebinje to all those meetings and negotiations, and where did you go?",
+      "examination": "direct"
+    },
+    {
+      "id": 336,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I went from Trebinje to Cavtat.",
+      "reply_to": 335
+    },
+    {
+      "id": 337,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you go anywhere else?",
+      "examination": "direct"
+    },
+    {
+      "id": 338,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, to Mokosica and Kupari.",
+      "reply_to": 337
+    },
+    {
+      "id": 339,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And tell us, please, when we were talking about the protests that you lodged on behalf of the 2nd Operations Group or protests lodged by the European monitoring mission against the JNA, how did you convey this information? How was this information transmitted?",
+      "examination": "direct"
+    },
+    {
+      "id": 340,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It went to the naval military sector, which means that the crisis staff from Dubrovnik, if they had a message for the 2nd Operations Group, they would deliver it to the naval military sector. And vice versa, if we had information to convey to them, we would use the same means of communication. The message would go from Trebinje to the naval military sector, and then on to Dubrovnik.",
+      "reply_to": 339
+    },
+    {
+      "id": 341,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And this applied also in vice versa situation?",
+      "examination": "direct"
+    },
+    {
+      "id": 342,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 341
+    },
+    {
+      "id": 343,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you have direct communication with members of the monitoring mission or the Crisis Staff of Dubrovnik at any point in time?",
+      "examination": "direct"
+    },
+    {
+      "id": 344,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, although this issue was considered. We did want to establish a direct communication line. Why this wasn't done, I wouldn't know.",
+      "reply_to": 343
+    },
+    {
+      "id": 345,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, where were you on the 6th December 1991?",
+      "examination": "direct"
+    },
+    {
+      "id": 346,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In Trebinje, in the operations group.",
+      "reply_to": 345
+    },
+    {
+      "id": 347,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you remember any of the activities that you might have had on that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 348,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In addition to my usual activities, I also remember a visit by a group of the European Community.",
+      "reply_to": 347
+    },
+    {
+      "id": 349,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you remember who visited? Who were the representatives of the European Community that paid you a visit?",
+      "examination": "direct"
+    },
+    {
+      "id": 350,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Mr. Colm Doyle and another representative of the European Community, and a lieutenant colonel, a liaison officer from the command of the Sarajevo army district.",
+      "reply_to": 349
+    },
+    {
+      "id": 351,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Can the witness please be shown the Prosecution Exhibit P47."
+    },
+    {
+      "id": 352,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If I understand you well, together with the team of the European monitoring mission, there was an officer, a liaison officer, of the JNA?",
+      "examination": "direct"
+    },
+    {
+      "id": 353,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, he was a lieutenant colonel.",
+      "reply_to": 352
+    },
+    {
+      "id": 354,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know which command he belonged to, this lieutenant colonel?",
+      "examination": "direct"
+    },
+    {
+      "id": 355,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I said that he belonged to the Sarajevo army district. He was a liaison officer there.",
+      "reply_to": 354
+    },
+    {
+      "id": 356,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you please look at this document. This is a copy of the photograph which has been admitted as a Prosecution exhibit, and this was done through Witness Colm Doyle who testified before this Trial Chamber. Do you recognise anybody in this photo?",
+      "examination": "direct"
+    },
+    {
+      "id": 357,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "General Strugar in the middle. I am not in the position to tell you which of the two monitors in the photo is Colm Doyle.",
+      "reply_to": 356
+    },
+    {
+      "id": 358,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And when you see the background, would this be a place where you found yourself at any point in time? Are you familiar with the background?",
+      "examination": "direct"
+    },
+    {
+      "id": 359,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't understand the inscription in the photo.",
+      "reply_to": 358
+    },
+    {
+      "id": 360,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I'm not talking about the inscription. I'm talking about the photo, the background. What is behind the persons in the photo? Are you familiar with the background? Can you recognise this?",
+      "examination": "direct"
+    },
+    {
+      "id": 361,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. This is the command of the 2nd Operations Group.",
+      "reply_to": 360
+    },
+    {
+      "id": 362,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you very much.",
+      "examination": "direct"
+    },
+    {
+      "id": 363,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] We will no longer need this document."
+    },
+    {
+      "id": 364,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell me, did you --",
+      "examination": "direct"
+    },
+    {
+      "id": 365,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Rodic, could you identify for the record what exhibit that was, please. Is that P47?"
+    },
+    {
+      "id": 366,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, this is P47. And I've already said that this was a photo."
+    },
+    {
+      "id": 367,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 368,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 369,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, did you attend this meeting on the 6th of December, the meeting with the representatives of the monitoring mission?",
+      "examination": "direct"
+    },
+    {
+      "id": 370,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 369
+    },
+    {
+      "id": 371,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you please tell me who the other people present at the meeting were.",
+      "examination": "direct"
+    },
+    {
+      "id": 372,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "General Strugar, two representatives of the European Community, the aforementioned officer from the Sarajevo army district who was a lieutenant colonel, and myself. There might have been somebody else, but I don't remember. I am absolutely sure about the persons that I've just mentioned.",
+      "reply_to": 371
+    },
+    {
+      "id": 373,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you remember who the interpreter was, who interpreted the talks?",
+      "examination": "direct"
+    },
+    {
+      "id": 374,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The liaison officer from the Sarajevo army district.",
+      "reply_to": 373
+    },
+    {
+      "id": 375,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you speak English?",
+      "examination": "direct"
+    },
+    {
+      "id": 376,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 375
+    },
+    {
+      "id": 377,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that one of the reasons for which you were appointed a liaison officer in the 2nd Operations Group?",
+      "examination": "direct"
+    },
+    {
+      "id": 378,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Maybe. But that was not the major reason because all the talks were official, and there was always an official interpreter.",
+      "reply_to": 377
+    },
+    {
+      "id": 379,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you make any notes during that meeting and the conversation with the monitors of the European Community?",
+      "examination": "direct"
+    },
+    {
+      "id": 380,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 379
+    },
+    {
+      "id": 381,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Where did you make those notes?",
+      "examination": "direct"
+    },
+    {
+      "id": 382,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In one of my notebooks.",
+      "reply_to": 381
+    },
+    {
+      "id": 383,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Can the usher please distribute the following documents."
+    },
+    {
+      "id": 384,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, we have a photocopy of a notebook, and the pages are 126 to 138. Would this correspond to your notebook and the pages with the notes of that period?",
+      "examination": "direct"
+    },
+    {
+      "id": 385,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 384
+    },
+    {
+      "id": 386,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you in your own handwriting make a copy in the Cyrillic script, and is that a copy of the contents of your notebook from the pages 126 to 138?",
+      "examination": "direct"
+    },
+    {
+      "id": 387,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 386
+    },
+    {
+      "id": 388,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Why did you make a copy?",
+      "examination": "direct"
+    },
+    {
+      "id": 389,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Because the original was not very neat. It was rather illegible in the notebook.",
+      "reply_to": 388
+    },
+    {
+      "id": 390,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Since this is your handwriting in the notebook, when you copied this notebook, did you copy word for word what you found in your notebook on pages 126 to 138?",
+      "examination": "direct"
+    },
+    {
+      "id": 391,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I copied everything word to word.",
+      "reply_to": 390
+    },
+    {
+      "id": 392,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is it true that page 126 starts with the date, 5th December? It is not very legible on this copy.",
+      "examination": "direct"
+    },
+    {
+      "id": 393,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 392
+    },
+    {
+      "id": 394,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "However, in your handwritten copy, we can see it better. Can you please tell us what the entry under this date, 5th of December, refers to.",
+      "examination": "direct"
+    },
+    {
+      "id": 395,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This -- these are notes from the meeting of the 2nd Operations Group in Trebinje.",
+      "reply_to": 394
+    },
+    {
+      "id": 396,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Previous interpretation continues] ... I don't see any date anywhere on any of these copies. Perhaps I'm missing something. Maybe I can be directed to it."
+    },
+    {
+      "id": 397,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] If my learned friend would take a better look, the first page is the notebook, and the second page bears the number 126 in the left upper corner. And in the right upper corner, there is a handwritten date, 5th December 1991. I'm referring you to the right upper hand corner."
+    },
+    {
+      "id": 398,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It is not reflected in the notes that were allegedly copied verbatim."
+    },
+    {
+      "id": 399,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, I think that the second page of the copy has the number 126 printed on it from the notebook. And then to the right of that printed number, in handwriting, the date of the 5th of December can be seen, 1991."
+    },
+    {
+      "id": 400,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Carry on, Mr. Rodic."
+    },
+    {
+      "id": 401,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Your Honour."
+    },
+    {
+      "id": 402,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, as for the entry on page 126 that pertains to the 5th of December, can you tell us what this is about. You said that you had gone for a briefing. Isn't that right?",
+      "examination": "direct"
+    },
+    {
+      "id": 403,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "What it says here in Vojnovic -- is in Vojnovic, in part of Dubrovnik. Dual, HOS, the Croatian armed forces; and ZNG, the National Guards Corps. There were dead. There were casualties. The next word is rather illegible. And then further on, it says \"about 150 members of the HOS,\" and then there is a sign of my own, about 2500, saying that this meant that there were about 2500 members of armed forces in Dubrovnik at the time. And further on down, \"concrete cut in cubes.\" And I cannot recognise the rest.",
+      "reply_to": 402
+    },
+    {
+      "id": 404,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I'm sorry, Your Honour --"
+    },
+    {
+      "id": 405,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Although I have the original."
+    },
+    {
+      "id": 406,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "-- there is no translation of what I see of what the witness is testifying to, unless perhaps the Chamber has a different version of it."
+    },
+    {
+      "id": 407,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "As far as I can see, the translation starts at page 129."
+    },
+    {
+      "id": 408,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Okay."
+    },
+    {
+      "id": 409,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] That's right, Your Honour. That's what I noticed just now, that probably when the document was photocopied and put together, the translation of the page pertaining to the 5th of December was omitted. But we're going to provide a copy of that after the next break. We are going to give you the entire document. May I move on to the second part now."
+    },
+    {
+      "id": 410,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Previous interpretation continues] ... Mr. Rodic, but the witness doesn't seem to take in that page 126. It's the rewrite and the translation that seem to be from page 129."
+    },
+    {
+      "id": 411,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes. Yes, that's right, Your Honour, that's exactly the page that is missing. That is to say, of the rewrite and of the translation. This document is not complete, therefore, and we are going to take care of it already during the following break, and I do apologise for that mistake."
+    },
+    {
+      "id": 412,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, we'll receive that after the break. Thank you."
+    },
+    {
+      "id": 413,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Your Honour."
+    },
+    {
+      "id": 414,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, when you look at this document of yours now, when you look at page 129, can you read your own handwriting here? It's more legible here. That is to say, from page 129 until 138.",
+      "examination": "direct"
+    },
+    {
+      "id": 415,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 414
+    },
+    {
+      "id": 416,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you tell us what these notes pertain to on pages 129 to 137.",
+      "examination": "direct"
+    },
+    {
+      "id": 417,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "These are notes pertaining to some characteristic moments of this meeting between the representatives of the European mission and General Strugar. So that in the report sent to the General Staff, the basic content of this meeting can be referred to.",
+      "reply_to": 416
+    },
+    {
+      "id": 418,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell me, before this meeting started, as regards the activities of the units of the 2nd Operational Group, did anything unusual happen on that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 419,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 418
+    },
+    {
+      "id": 420,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Before the meeting, the one that we're talking about now and that you attended and where you took notes, did you have any information to the effect that perhaps on that day there was some fighting?",
+      "examination": "direct"
+    },
+    {
+      "id": 421,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 420
+    },
+    {
+      "id": 422,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell me, specifically did you have any information that there was any fighting taking place around Dubrovnik or at positions that were in the proximity of the town of Dubrovnik?",
+      "examination": "direct"
+    },
+    {
+      "id": 423,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Except for a telegram that arrived --",
+      "reply_to": 422
+    },
+    {
+      "id": 424,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I do apologise. I'm asking you about before the meeting.",
+      "examination": "direct"
+    },
+    {
+      "id": 425,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Before this meeting, no.",
+      "reply_to": 424
+    },
+    {
+      "id": 426,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "During this meeting between General Strugar and yourself --",
+      "examination": "direct"
+    },
+    {
+      "id": 427,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Excuse me, Your Honours, I have to object. The witness was cut off with times about subsequent telexes. There's never been an identification of the time of this meeting. That might be helpful."
+    },
+    {
+      "id": 428,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I have to confess that it's not very clear to me yet, Mr. Rodic, at what time the meeting occurred. I assume it was at the headquarters of the command, but that hasn't been made clear. So there's a lot yet that's unknown. And if you could be careful to get it from the witness rather than you give the answer, it would be helpful."
+    },
+    {
+      "id": 429,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Very well, Your Honour. I may be wrong, but I thought that I had just put a question in relation to this second part of the notes."
+    },
+    {
+      "id": 430,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On the 6th of December, were you at the headquarters of the 2nd Operational Group in Trebinje?",
+      "examination": "direct"
+    },
+    {
+      "id": 431,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 430
+    },
+    {
+      "id": 432,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On the 6th of December, did you attend a meeting at the 2nd Operational Group?",
+      "examination": "direct"
+    },
+    {
+      "id": 433,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. A meeting between General Strugar and the representatives of the European Community.",
+      "reply_to": 432
+    },
+    {
+      "id": 434,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you tell us who these representatives of the European Community are to the best of your knowledge?",
+      "examination": "direct"
+    },
+    {
+      "id": 435,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In my notebook on page 129, it says Colm Doyle, and in parentheses it says \"head of team for BiH and Mr. Sodan, operations officer.\"",
+      "reply_to": 434
+    },
+    {
+      "id": 436,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "As for -- did anybody else come to that meeting in addition to the members of the monitoring mission?",
+      "examination": "direct"
+    },
+    {
+      "id": 437,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Lieutenant Colonel Jovanovic, I already said so, the liaison officer.",
+      "reply_to": 436
+    },
+    {
+      "id": 438,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was this meeting held at the headquarters of the 2nd Operational Group in Trebinje?",
+      "examination": "direct"
+    },
+    {
+      "id": 439,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think I've already answered that when I identified the photograph.",
+      "reply_to": 438
+    },
+    {
+      "id": 440,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Could you please answer my question.",
+      "examination": "direct"
+    },
+    {
+      "id": 441,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 440
+    },
+    {
+      "id": 442,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. These notes on page 129 through page 138 from your diary, or rather, your notebook, do they pertain to what was said during that meeting?",
+      "examination": "direct"
+    },
+    {
+      "id": 443,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 442
+    },
+    {
+      "id": 444,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you recall the content of that meeting?",
+      "examination": "direct"
+    },
+    {
+      "id": 445,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I have my own notes in the notebook, and that reminds me of that.",
+      "reply_to": 444
+    },
+    {
+      "id": 446,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was that the first time that Mr. Doyle came to the headquarters of the 2nd Operational Group?",
+      "examination": "direct"
+    },
+    {
+      "id": 447,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 446
+    },
+    {
+      "id": 448,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you make any entries in your notebook in respect of what the participants in the meeting said?",
+      "examination": "direct"
+    },
+    {
+      "id": 449,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. Although those are not shorthand notes of the meeting.",
+      "reply_to": 448
+    },
+    {
+      "id": 450,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I asked you previously, before the meeting with the gentlemen from the monitoring mission, did you have any personal knowledge of any fighting taking place on that day between the members of the JNA and the Croatian forces near the town of Dubrovnik?",
+      "examination": "direct"
+    },
+    {
+      "id": 451,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 450
+    },
+    {
+      "id": 452,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On that day, that is to say, before the meeting, did you hear anything like that from anybody at the headquarters of the 2nd Operational Group?",
+      "examination": "direct"
+    },
+    {
+      "id": 453,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 452
+    },
+    {
+      "id": 454,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Until the meeting, until the meeting was held on the 6th of December with the gentlemen from the monitoring mission, did you have any information in terms of whether there were any casualties from the 2nd Operational Group, whether any member of the group was killed?",
+      "examination": "direct"
+    },
+    {
+      "id": 455,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Objection, Your Honour. There is nothing in evidence to lead to this line of questioning, and it is really testimony by the Defence."
+    },
+    {
+      "id": 456,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I don't see the point of your objection."
+    },
+    {
+      "id": 457,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "He's leading, and discussion of casualties --"
+    },
+    {
+      "id": 458,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It's not leading. He's asking, did you have certain information?"
+    },
+    {
+      "id": 459,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I'll withdraw my objection, Your Honour."
+    },
+    {
+      "id": 460,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The answer will be yes or no, I expect."
+    },
+    {
+      "id": 461,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 462,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, during that meeting, that is to say, bearing in mind your notes and your memory, did anybody say that on that day there was any fighting between the Croatian forces and the JNA forces?",
+      "examination": "direct"
+    },
+    {
+      "id": 463,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 462
+    },
+    {
+      "id": 464,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I'm asking you again. At that meeting, did anybody say that on that day, some soldiers from the 2nd Operational Group were killed or wounded from the units belonging to the 2nd Operational Group?",
+      "examination": "direct"
+    },
+    {
+      "id": 465,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 464
+    },
+    {
+      "id": 466,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Objection. We are really into a testimonial, leading scenario."
+    },
+    {
+      "id": 467,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. It has gone over an edge. It was close to it on one side before, and now it's really getting into detailed conversations, Mr. Rodic, so that you had better find some other way if you want to learn from the witness what he recalls or what was said at the meeting. And you can put to him specifically a direct quotation from other evidence about the meeting after you've got this witness's own recollection, if you want to get his comment on that evidence. I would also remind you that we still don't know the time of this meeting."
+    },
+    {
+      "id": 468,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] A few minutes ago I did not quite understand you, Your Honour. I thought it was a question of the date, so I kept repeating these questions pertaining to the date. But now I'm going to ask about the actual hour."
+    },
+    {
+      "id": 469,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You said twice already that the meeting was held on the 6th of December, Mr. Svicevic. And my question is whether you know during which part of the day, what time of the day this was approximately?",
+      "examination": "direct"
+    },
+    {
+      "id": 470,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "During the morning, around 11.00, say between 11.00 and 12.00.",
+      "reply_to": 469
+    },
+    {
+      "id": 471,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Can you tell us to the best of your recollection, and you also have these notes, what was the content of the talks between Mr. Doyle and Mr. Strugar? What was discussed there?",
+      "examination": "direct"
+    },
+    {
+      "id": 472,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Since Colm Doyle was team leader for Bosnia-Herzegovina and there were corps within the operational group that were in the territory of Bosnia-Herzegovina, there were discussions on preserving the peace, taking preventive measures lest there be any incidents that would infringe upon this peace. I think that a mutual level of agreement was reached. And as can be seen here, General Strugar presented some information supporting this kind of correct behaviour that in Neum there were some incidents that had been resolved. Then further on, I remember well that this meeting took place in a correct and pleasant atmosphere because on that occasion, General Strugar was given a small book by Mr. Colm Doyle as a present, a small book about the European Community, and also some silver coins in a little box with the sign of the European Community; that is to say, the stars in a circle.",
+      "reply_to": 471
+    },
+    {
+      "id": 473,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Could you please tell us, you have an entry here in your notebook, what did General Strugar say? Can you tell us about that in greater detail and your interpretation?",
+      "examination": "direct"
+    },
+    {
+      "id": 474,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is an illustration of a good cooperation between the command of the 2nd Operational Group and the president of the Municipality of Neum. Neum is a town in Bosnia-Herzegovina that is on the seacoast. At the intervention of the president of the municipality, General Strugar stopped a response in gunfire by JNA units in those areas where fire was opened at us. That's what it says here. That means JNA units. The second paragraph says that General Strugar also expressed tolerance regarding the entire situation, and he illustrated that by saying that the units were so tolerant, although paramilitary units went through the territory of that municipality and took part in attacks on our units around Dubrovnik. And General Strugar obviously presents his position pertaining to tolerance by saying that there are some people there who are no longer on the side of the authorities and who try -- and who are trying to create a conflict between the JNA and the local population.",
+      "reply_to": 473
+    },
+    {
+      "id": 475,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Tell me, please, you've already said that Neum is in the territory of the Republic of Bosnia-Herzegovina. The territory of this republic, was it used for organisation, supplies, and actions launched by the Croatian forces?",
+      "examination": "direct"
+    },
+    {
+      "id": 476,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think this paragraph where General Strugar says \"paramilitary units crossed the territory of that municipality\" is illustrative enough. It goes on to say \"paramilitary units crossed the territory of that municipality and took part in the attack against our units around Dubrovnik.\"",
+      "reply_to": 475
+    },
+    {
+      "id": 477,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Very well. Tell me, did General Strugar say anything else relating to Dubrovnik at that meeting?",
+      "examination": "direct"
+    },
+    {
+      "id": 478,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No. If he had said anything else, I would have noted it.",
+      "reply_to": 477
+    },
+    {
+      "id": 479,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did General Strugar say anything about opening artillery fire on Dubrovnik?",
+      "examination": "direct"
+    },
+    {
+      "id": 480,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I didn't note that, and I don't recall it.",
+      "reply_to": 479
+    },
+    {
+      "id": 481,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you hear anything of the sort?",
+      "examination": "direct"
+    },
+    {
+      "id": 482,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 481
+    },
+    {
+      "id": 483,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Excuse me, I move to strike the last answer. If the witness indicated that he didn't know anything about it, didn't recall it, then it's unclear how he would have heard anything of the sort."
+    },
+    {
+      "id": 484,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The last answer I interpret to mean \"I have no recollection of any such conversation\" in the context in which the answers were given."
+    },
+    {
+      "id": 485,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 486,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, in the course of that meeting, did you hear General Strugar saying at any point that he had ordered Dubrovnik to be shelled on that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 487,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Objection, Your Honour. It is a leading question. If the question is, Did General Strugar say something else, but this is -- it's -- the damage is already done."
+    },
+    {
+      "id": 488,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It is indeed, and I thought I had made the position clear earlier, Mr. Rodic. You should ask this witness what he recalls. Having got that, if you want him to comment on some specific other passage in the evidence that is before us, you should put that passage specifically to him and ask whether he has any comment on it. What you're doing now is something quite different from that."
+    },
+    {
+      "id": 489,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] I will try, Your Honour, to follow your instructions. Could the witness be shown, please -- just a minute. Excuse me."
+    },
+    {
+      "id": 490,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 491,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, a witness who testified before this Trial Chamber, Mr. Colm Doyle, testified that at that meeting on the 6th of December in Trebinje, General Strugar had told him, or rather stated that on that day, some of his soldiers had got killed and that he had ordered Dubrovnik to be shelled. Is that correct? Can you tell us anything about it?",
+      "examination": "direct"
+    },
+    {
+      "id": 492,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I am certain that this was not said in my presence, which means that I didn't hear it.",
+      "reply_to": 491
+    },
+    {
+      "id": 493,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 494,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, I should ask that this working notebook be admitted as a Defence exhibit and assigned a number for identification, and of course during the next break we will add the two missing pages."
+    },
+    {
+      "id": 495,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Objection by the Prosecution, Your Honour, on a number of grounds."
+    },
+    {
+      "id": 496,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 497,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "First of all, I'm not even clear that it represents what it purports to represent. We are not -- we would like to be able certainly to cross-examine on it before there's any consideration of admission, and it will require considerable cross-referencing. If just for identification, there would be no objection, but admission, I think at this time, is not appropriate."
+    },
+    {
+      "id": 498,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This is a document you just received, I take it."
+    },
+    {
+      "id": 499,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "One part of it - a summary - last night, in part, and then we were told it would be rewritten. The explanation behind it was such that it was unclear what it should be. So we would like to have time to review it. And there also is no indication of where the original is."
+    },
+    {
+      "id": 500,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I certainly think the question of admission should be deferred, Mr. Rodic. It can be marked for identification. But before that is done, can you explore with the witness, please, when it was that he rewrote the pages that are here and in what circumstances he came to rewrite them."
+    },
+    {
+      "id": 501,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 502,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, you have heard the question of the Honourable Judge, and I will ask you again. Can you tell us when you rewrote the pages from this journal in a more legible handwriting, on what occasion, and why.",
+      "examination": "direct"
+    },
+    {
+      "id": 503,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Before departing from Belgrade on Sunday.",
+      "reply_to": 502
+    },
+    {
+      "id": 504,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you do that in order to make the content of your entries more legible because the original handwriting wasn't?",
+      "examination": "direct"
+    },
+    {
+      "id": 505,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 504
+    },
+    {
+      "id": 506,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you do that because you were invited to testify and because discussions --",
+      "examination": "direct"
+    },
+    {
+      "id": 507,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Objection, Your Honour. This is a leading session right now."
+    },
+    {
+      "id": 508,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Can you tell us, please, Mr. -- Doctor, I beg your pardon, why you rewrote these pages?"
+    },
+    {
+      "id": 509,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] A subject was pointed out to me, and I was asked whether I had any information about that meeting. And in the course of my contacts with Defence counsel, I prepared this information in this form so as to make it legible. But if the Trial Chamber wishes me to provide them with my original notes that I have in Belgrade, I can easily do so."
+    },
+    {
+      "id": 510,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 511,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that the original journal?",
+      "examination": "direct"
+    },
+    {
+      "id": 512,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Previous interpretation continues] ..."
+    },
+    {
+      "id": 513,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes, those are my original working notebooks."
+    },
+    {
+      "id": 514,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Are you saying that you turned to your original notebook and rewrote the entries that you found in the original notebook?"
+    },
+    {
+      "id": 515,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "There was no microphone for the Defence counsel and we did not hear the question."
+    },
+    {
+      "id": 516,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Could you please ask the question in Serbian?"
+    },
+    {
+      "id": 517,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The question was from the Judge, not from Defence counsel. Have you got that microphone?"
+    },
+    {
+      "id": 518,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, the witness said that he had not heard any interpretation in his headphones. I tried to help."
+    },
+    {
+      "id": 519,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The question was whether you had rewritten in your handwriting, reading from your original notebook."
+    },
+    {
+      "id": 520,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes, yes, I have my original notebooks."
+    },
+    {
+      "id": 521,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That's still in your possession, is it?"
+    },
+    {
+      "id": 522,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes, they are in Belgrade."
+    },
+    {
+      "id": 523,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Did you photocopy the pages of that notebook?"
+    },
+    {
+      "id": 524,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes. I photocopied, and I can provide them to you. I can provide you with the original of my working notebook as soon as I come back to Belgrade. And I copied the notebook to show the authenticity of my text which was translated here in The Hague."
+    },
+    {
+      "id": 525,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Can you tell me why a number of pages are blank?"
+    },
+    {
+      "id": 526,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Pages from my notebook numbered from 129 to 137 are indicated here. And these are pages from my notebook."
+    },
+    {
+      "id": 527,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Page 128 appears from our copies to have nothing on it, and page 127. Is that correct?"
+    },
+    {
+      "id": 528,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes, yes. On page 128, there were no entries. And I started my notes from this meeting from page 129."
+    },
+    {
+      "id": 529,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Were these notes you made after the meeting or during the meeting?"
+    },
+    {
+      "id": 530,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] During the meeting. That is evident from my original handwriting."
+    },
+    {
+      "id": 531,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And the rewritten notes you made, did you say, last Sunday?"
+    },
+    {
+      "id": 532,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Yes, this past Sunday. Because I received the invitation to testify in this trial on Tuesday, four days before I arrived in The Hague, on the 23rd of June. And I was in the countryside when I received this invitation, and I came back to Belgrade on Saturday."
+    },
+    {
+      "id": 533,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Why did you photocopy page 126?"
+    },
+    {
+      "id": 534,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "126. 126. [Interpretation] I photocopied 126 as well to show that at that time I was at the command of the 2nd Operations Group in Kupari and also to show the logical sequence; namely, that I made my entries on the 6th of December."
+    },
+    {
+      "id": 535,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think for the moment, Mr. Rodic, all we would do with this bundle of documents is have them marked for identification. And there having been no adequate notice of them, it would be wrong to deal with the question of admission until the Prosecution first have had an opportunity to consider the documents and then to cross-examine on them. So they will for the moment be marked for identification, I suspect, as Defence Number 92."
+    },
+    {
+      "id": 536,
+      "speaker": "THE REGISTRAR",
+      "role": "registrar",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, Your Honour, D92 MFI."
+    },
+    {
+      "id": 537,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And that probably is a good time to have a break, Mr. Rodic."
+    },
+    {
+      "id": 538,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Your Honour."
+    },
+    {
+      "id": 539,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, Mr. Rodic."
+    },
+    {
+      "id": 540,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, first of all, I have to apologise for some technical problems during the break. We are not in the position to submit the missing pages from the diary because those pages are not in the building of the Tribunal. And the Defence has already informed the Prosecution that they will withdraw from the two documents that they were going to introduce through this witness. This was done in order to make up for the lost time. And I'll do my best to finish my examination-in-chief as quickly as possible. We have already promised our learned friends from the Prosecution that we would deliver the missing pages in the course of the afternoon. We shall also deliver those pages to the Honourable Chamber either this afternoon or tomorrow morning at the latest."
+    },
+    {
+      "id": 541,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 542,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 543,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On the 6th of December, Mr. Svicevic, while you were at the command post of the 2nd Operations Group in Trebinje, did you receive any information relative to the combat activities on that day?",
+      "examination": "direct"
+    },
+    {
+      "id": 544,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The only piece of information we received by dispatch around 1500 hours, or maybe between 1500 and 1600 hours.",
+      "reply_to": 543
+    },
+    {
+      "id": 545,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What did the information contain? What was the information about?",
+      "examination": "direct"
+    },
+    {
+      "id": 546,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The information, I will paraphrase, was that five houses were on fire in Dubrovnik, and this was due to shelling. Among those five houses were the Orthodox church and the mosque.",
+      "reply_to": 545
+    },
+    {
+      "id": 547,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Who was it who sent you the information?",
+      "examination": "direct"
+    },
+    {
+      "id": 548,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We received this information from the crisis staff via the military naval sector of Kotor through regular channels.",
+      "reply_to": 547
+    },
+    {
+      "id": 549,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So it was the military naval sector. You said Kotor, didn't you? You said the military sector Kotor.",
+      "examination": "direct"
+    },
+    {
+      "id": 550,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was Boka. So it was a mistake.",
+      "reply_to": 549
+    },
+    {
+      "id": 551,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes.",
+      "examination": "direct"
+    },
+    {
+      "id": 552,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was the 9th Naval Military Sector.",
+      "reply_to": 551
+    },
+    {
+      "id": 553,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So if I understand you well, 9th Military Sector forwarded to you the information they had received from the Crisis Staff of Dubrovnik. Is that correct?",
+      "examination": "direct"
+    },
+    {
+      "id": 554,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 553
+    },
+    {
+      "id": 555,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The command of the 2nd Operations Group, did you send a reply to that protest?",
+      "examination": "direct"
+    },
+    {
+      "id": 556,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "First we wanted the situation to be clarified to see what it was all about. However, in the course of that day, if my memory serves me well, we did not receive any additional information, and I could corroborate this by some of my notes. In one of my workbooks which contains the meeting -- the minutes of the meeting that took place on the 6th of December in the command of the 2nd Operations Group.",
+      "reply_to": 555
+    },
+    {
+      "id": 557,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What was discussed at that meeting and when was it held?",
+      "examination": "direct"
+    },
+    {
+      "id": 558,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This meeting was held around the regular time, around 1800 hours, before dinner. And on that day, something happened that I remember very well, and that was a sudden departure of General Strugar to Belgrade.",
+      "reply_to": 557
+    },
+    {
+      "id": 559,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you know at the time why General Strugar went to Belgrade?",
+      "examination": "direct"
+    },
+    {
+      "id": 560,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was only after his departure in an informal conversation with General Damjanovic did I hear that there was a serious problem with regard to Dubrovnik.",
+      "reply_to": 559
+    },
+    {
+      "id": 561,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What did Damjanovic tell you? Did he mention what kind of problem it was?",
+      "examination": "direct"
+    },
+    {
+      "id": 562,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I'm speaking from memory, and this is all I can remember.",
+      "reply_to": 561
+    },
+    {
+      "id": 563,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "With regard to this problem, Dubrovnik and combat activities, was anything discussed at the meeting on the 6th of December in the evening hours?",
+      "examination": "direct"
+    },
+    {
+      "id": 564,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No. There was nothing. We sent our regular report to the General Staff, regular report about our daily activities. And there was just one piece of information that was made known, and that was that five soldiers had been killed in the fighting around Mount Srdj.",
+      "reply_to": 563
+    },
+    {
+      "id": 565,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In this report that you sent to the General Staff, did you also include some information about the town of Dubrovnik?",
+      "examination": "direct"
+    },
+    {
+      "id": 566,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, nothing save for the telegram that I have already mentioned. I didn't have any information; that is, the General Strugar, General Stankovic and General Damjanovic might have other information that they received through other direct channels. I myself did not have any information, nor did the rest of the staff of the 2nd Operations Group.",
+      "reply_to": 565
+    },
+    {
+      "id": 567,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The protest that you received via the military naval sector Boka, was that the only protest you received on that day, or were there any others?",
+      "examination": "direct"
+    },
+    {
+      "id": 568,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The only telegram I saw was this one. I was aware of only that telegram.",
+      "reply_to": 567
+    },
+    {
+      "id": 569,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you send a reply to that telegram?",
+      "examination": "direct"
+    },
+    {
+      "id": 570,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I don't think so. We were waiting for more complete information with regard to what had happened. And the rule is that if you have full information, then you can reply to that information.",
+      "reply_to": 569
+    },
+    {
+      "id": 571,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You've told us that the meeting with Mr. Colm Doyle took place before noon, between 11.00 and 12.00 in the morning, if I understood you well.",
+      "examination": "direct"
+    },
+    {
+      "id": 572,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 571
+    },
+    {
+      "id": 573,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You said that General Strugar had to leave suddenly and that he went to Belgrade. Do you know when that happened?",
+      "examination": "direct"
+    },
+    {
+      "id": 574,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was sometime in the afternoon, between 2.00 and 4.00 in the afternoon. I can't be more precise than that. I believe that it was between 2.00 and 4.00 in the afternoon, immediately after lunch.",
+      "reply_to": 573
+    },
+    {
+      "id": 575,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Can the witness be shown the Prosecution Exhibit P61, tab 36."
+    },
+    {
+      "id": 576,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you please read the content of this document, and then I will put some questions to you.",
+      "examination": "direct"
+    },
+    {
+      "id": 577,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I've done it.",
+      "reply_to": 576
+    },
+    {
+      "id": 578,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is it true that this is a radiogram sent by the military naval sector to the Crisis Staff of Dubrovnik, to Minister Rudolf?",
+      "examination": "direct"
+    },
+    {
+      "id": 579,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is what it says here.",
+      "reply_to": 578
+    },
+    {
+      "id": 580,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And the signature block on this radiogram, does it say that this telegram was sent by General Strugar?",
+      "examination": "direct"
+    },
+    {
+      "id": 581,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that's what it says here.",
+      "reply_to": 580
+    },
+    {
+      "id": 582,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Are you familiar with the content of this radiogram?",
+      "examination": "direct"
+    },
+    {
+      "id": 583,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I've read it now, so yes, I am now.",
+      "reply_to": 582
+    },
+    {
+      "id": 584,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you personally ever send such a radiogram?",
+      "examination": "direct"
+    },
+    {
+      "id": 585,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No. I'm sure I didn't. This is not my style. As a rule, after having been informed about the document that we received from the crisis staff via the military naval sector, before we sent a reply, I would send it to General Strugar for his signature because these were rules. However, judging by the style of this telegram, I am certain that I was not the one who participated in the drafting of this telegram.",
+      "reply_to": 584
+    },
+    {
+      "id": 586,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In view of your position in the command of the 2nd Operations Group and your tasks as a liaison officer, were you informed about the protests and responses that the command of the 2nd Operations Group sent in respect of such protests?",
+      "examination": "direct"
+    },
+    {
+      "id": 587,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that was one of my main tasks in the 2nd Operations Group.",
+      "reply_to": 586
+    },
+    {
+      "id": 588,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On the 6th of December, did the 2nd Operations Group draft such a telegram?",
+      "examination": "direct"
+    },
+    {
+      "id": 589,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Objection, Your Honour. What are we talking about in -- with telegrams. What protest on the 6th of December? There's no evidence that there were any lodged."
+    },
+    {
+      "id": 590,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We had evidence just now of a protest being received from Dubrovnik between 3.00 and 4.00 in the afternoon through the Boka radio unit."
+    },
+    {
+      "id": 591,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I'm sorry, it's plural. It's protests."
+    },
+    {
+      "id": 592,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I see. Thank you. Well, subject to that comment, Mr. Rodic, you've heard the concerns of Ms. Somers. They're valid. If you could adjust your questioning accordingly. Thank you."
+    },
+    {
+      "id": 593,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you, Your Honour."
+    },
+    {
+      "id": 594,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The protest that you spoke about as the one having received between 3.00 and 4.00 in the afternoon from the military naval sector in Boka, is that the only one you received that day on the 6th of December?",
+      "examination": "direct"
+    },
+    {
+      "id": 595,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is the only protest that I was informed about, that I was aware of.",
+      "reply_to": 594
+    },
+    {
+      "id": 596,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Now, I'm asking you, judging by the content of this document, and you see what the content of this document is, should this be a reply of the JNA to some sort of a protest sent from the crisis staff?",
+      "examination": "direct"
+    },
+    {
+      "id": 597,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The witness -- there's no evidence the witness speaks for the JNA. He speaks for his own style when he drafts things."
+    },
+    {
+      "id": 598,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You continue, Mr. Rodic, not to learn what the witness knows about it or can say about it. You keep wanting to put to him your version of the things. And if that continues, we're going to have objection after objection. So I know you're trying to speed things up, but if you could just learn what the witness knows about it and accept that."
+    },
+    {
+      "id": 599,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation]"
+    },
+    {
+      "id": 600,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Svicevic, are you familiar with such a content of radiograms that might have been sent by General Strugar as it says here and judging by the signature?",
+      "examination": "direct"
+    },
+    {
+      "id": 601,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No. I see this radiogram for the first time, or any radiogram of that sort.",
+      "reply_to": 600
+    },
+    {
+      "id": 602,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Are you aware of the fact that such a radiogram was sent from the command of the 2nd Operations Group?",
+      "examination": "direct"
+    },
+    {
+      "id": 603,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 602
+    },
+    {
+      "id": 604,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Thank you. I will not need this document any more."
+    },
+    {
+      "id": 605,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In the course of the 6th of December, were you at the command post in Trebinje?",
+      "examination": "direct"
+    },
+    {
+      "id": 606,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 605
+    },
+    {
+      "id": 607,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Until when were you in Trebinje?",
+      "examination": "direct"
+    },
+    {
+      "id": 608,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I was in Trebinje until the 7th or the 8th of December. And then, according to my regular plan, I went to visit my family in Belgrade because a group of officers would come to Trebinje, and the other group would leave.",
+      "reply_to": 607
+    },
+    {
+      "id": 609,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you left the 2nd Operations Group -- when was it when you left?",
+      "examination": "direct"
+    },
+    {
+      "id": 610,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was either the 7th or the 8th. It must have been the 7th or the 8th because the 7th was a Friday. On the 11th, which was a Monday, I was already scheduled for a checkup at the military medical academy, and I scheduled my operation.",
+      "reply_to": 609
+    },
+    {
+      "id": 611,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When did you return?",
+      "examination": "direct"
+    },
+    {
+      "id": 612,
+      "speaker": "RADOSLAV SVICEVIC",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I returned after a week by helicopter. And upon my return, until the 21st of December, I was there, and then I went back to Belgrade and I underwent a knee surgery. And after that, I did not go back to Trebinje.",
+      "reply_to": 611
+    },
+    {
+      "id": 613,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "direct"
+    },
+    {
+      "id": 614,
+      "speaker": "MR. RODIC",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "[Interpretation] Your Honour, my examination-in-chief is complete."
+    },
+    {
+      "id": 615,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Mr. Rodic. Ms. Somers."
+    },
+    {
+      "id": 616,
+      "speaker": "MS. SOMERS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, if the Chamber would entertain the request which is, I think, rare, but for an opportunity to commence cross-examination tomorrow. I think it would make it crisper and with a chance to review without going back and forth. We're flooded with documents that need to be reviewed from three binders. And I think, if the Chamber would allow it, it would probably move faster than starting and stopping today."
+    },
+    {
+      "id": 617,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Very well. We will adjourn now and resume at 9.00 in the morning. We must ask you, Dr. Svicevic, to return then for the evidence to continue tomorrow morning at 9.00. Thank you."
+    },
+    {
+      "id": 618,
+      "speaker": "JUDGE PARKER",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "to be reconvened on Friday, the 2nd day of July, 2004, at 9.00 a.m."
+    }
+  ],
+  "procedural_notes": [
+    {
+      "after_utterance": 0,
+      "text": "[Open session]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "[The accused entered court]"
+    },
+    {
+      "after_utterance": 0,
+      "text": "--- Upon commencing at 9.35 a.m."
+    },
+    {
+      "after_utterance": 4,
+      "text": "[The witness entered court]"
+    },
+    {
+      "after_utterance": 10,
+      "text": "WITNESS:  RADOSLAV SVICEVIC"
+    },
+    {
+      "after_utterance": 10,
+      "text": "[Witness answered through interpreter]"
+    },
+    {
+      "after_utterance": 10,
+      "text": "Examined by Mr. Rodic:"
+    },
+    {
+      "after_utterance": 252,
+      "text": "--- Recess taken at 10.47 a.m."
+    },
+    {
+      "after_utterance": 252,
+      "text": "--- On resuming at 11.14 a.m."
+    },
+    {
+      "after_utterance": 489,
+      "text": "[Defence counsel confer]"
+    },
+    {
+      "after_utterance": 538,
+      "text": "--- Recess taken at 12.28 p.m."
+    },
+    {
+      "after_utterance": 538,
+      "text": "--- On resuming at 12.53 p.m."
+    },
+    {
+      "after_utterance": 617,
+      "text": "[The witness stands down]"
+    },
+    {
+      "after_utterance": 617,
+      "text": "--- Whereupon the hearing adjourned at 1.13 p.m.,"
+    }
+  ],
+  "source_file": "Public_Transcript_of_Hearing_July_1st,_2004.doc"
+}
