@@ -82,7 +82,7 @@ def collect_speakers(parsed_dir: Path) -> dict:
                 "suffix_counts": collections.Counter(),
                 "speakers": set(),
             }
-        case_id = data.get("case_id")
+        case_id = data.get("case_id_transcript") or data.get("case_id")
         if case_id:
             base, suffix = _split_case_id(case_id)
             cases[case]["bases"].add(base)

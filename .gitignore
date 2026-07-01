@@ -3,8 +3,22 @@ __pycache__/
 *.pyc
 .venv/
 
-# Data (too large for git, regenerable)
-data/archive/
+# Credentials
+.env
+scraper/.env
+
+# Old data (moved to archive/, superseded by data_250625/)
+archive/
+
+# Raw archives (too large for git)
+archive_250625/
+
+# Parsed data (too large for git, regenerable)
+data_250625/transcripts_parsed/
+data_250625/transcripts_txt/
+
+# Large generated files
+*.pkl
 
 # Logs (regenerable)
 logs/

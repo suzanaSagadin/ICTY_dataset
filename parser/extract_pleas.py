@@ -167,5 +167,11 @@ def main() -> None:
 
 
 if __name__ == "__main__":
+    import argparse
     logging.basicConfig(level=logging.INFO, format="%(message)s")
+    ap = argparse.ArgumentParser(description="Extract pleas from parsed CIS data")
+    ap.add_argument("--cis-dir", type=Path, default=CIS_DIR,
+                    help="Directory with all_cases_full.json (default: data/cis_parsed)")
+    args = ap.parse_args()
+    CIS_DIR = args.cis_dir
     main()

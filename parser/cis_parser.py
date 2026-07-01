@@ -523,7 +523,7 @@ def find_defendants(text: str) -> list[dict]:
     # or NAME on its own line followed by role/outcome on next line
     blocks = re.split(
         r"(?=(?:^|\n)[A-Z\u0100-\u017F]{2,}\s+[A-Z\u0100-\u017F]{2,}(?:\s+[A-Z\u0100-\u017F]+)*"
-        r"(?:\s+Found\s|\s*\n"
+        r"(?:\s+(?:Found|Convicted)\s|\s*\n"
         r"(?:Found |Sentenced |Commander |President |Member |Minister |Colonel |General |"
         r"Assistant |Chief |Head |Director |From |Deputy |Convicted |Charged )))",
         text[:8000],
@@ -536,8 +536,7 @@ def find_defendants(text: str) -> list[dict]:
         lines = block.strip().split("\n")
         # First line should be the name in ALL CAPS (possibly with "Found ..." appended)
         name_line = lines[0].strip()
-        # Strip "Found not guilty" / "Found guilty" from name line
-        name_clean = re.sub(r'\s+Found\s+.*$', '', name_line).strip()
+        name_clean = re.sub(r'\s+(?:Found|Convicted)\s+.*$', '', name_line).strip()
         if not re.match(r'^[A-Z\u0100-\u017F\s\-]+$', name_clean) or len(name_clean) < 4:
             continue
 
@@ -673,7 +672,7 @@ def find_all_cis(archive_dir: Path) -> list[tuple[str, Path]]:
         cis_dir = case_dir / "case_info_sheets"
         if not cis_dir.exists():
             continue
-        for pdf in sorted(cis_dir.glob("cis_*.pdf")):
+        for pdf in sorted(cis_dir.glob("cis[_-]*.pdf")):
             results.append((case_dir.name, pdf))
     return results
 

@@ -5,11 +5,13 @@ Parses ICTY court transcripts from .doc files into structured JSONL format.
 Handles speaker segmentation, Q/A linking, role classification, and procedural notes.
 """
 
+import csv
 import re
 import json
 import logging
 import subprocess
 import tempfile
+import unicodedata
 from pathlib import Path
 from dataclasses import dataclass, field
 from datetime import datetime
@@ -27,6 +29,142 @@ MONTHS = {
     "may": 5, "june": 6, "july": 7, "august": 8,
     "september": 9, "october": 10, "november": 11, "december": 12,
 }
+
+# ---------------------------------------------------------------------------
+# Accused Name Loading
+# ---------------------------------------------------------------------------
+
+def _normalize_accused_name(name: str) -> str:
+    """Normalize a name: uppercase, strip accents."""
+    name = name.upper()
+    name = unicodedata.normalize("NFKD", name)
+    return "".join(c for c in name if not unicodedata.combining(c))
+
+
+def load_accused_names(pleas_path: Path, case_mapping_path: Path | None = None) -> dict[str, dict]:
+    """Load accused names from pleas.csv, with fallback from case_mapping.csv.
+
+    Returns {case_folder: {"last_names": {LASTNAME, ...},
+                           "full_names": {FIRSTNAME LASTNAME, ...}}}
+
+    For folders without CIS data (no pleas.csv entry), extracts accused names
+    from the case_mapping.csv ``name`` column as fallback.
+    """
+    result = {}
+    with open(pleas_path, encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            case = row["case"]
+            accused = row.get("accused", "")
+            if not accused:
+                continue
+            normalized = _normalize_accused_name(accused)
+            parts = normalized.split()
+            if not parts:
+                continue
+            if case not in result:
+                result[case] = {"last_names": set(), "full_names": set()}
+            result[case]["last_names"].add(parts[-1])
+            result[case]["full_names"].add(normalized)
+
+    # Fallback: for folders not in pleas.csv, extract names from case_mapping.csv
+    if case_mapping_path and case_mapping_path.exists():
+        with open(case_mapping_path, encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                folder = row.get("folder", "")
+                if not folder or folder in result:
+                    continue
+                name = row.get("name", "")
+                if not name:
+                    continue
+                # Strip "et al.", "et al", "and Others" suffixes
+                clean = re.sub(r"\s+et\s+al\.?$", "", name, flags=re.IGNORECASE)
+                clean = re.sub(r"\s+and\s+Others$", "", clean, flags=re.IGNORECASE)
+                # Split on " and ", " & ", ", " to get individual names
+                parts_list = re.split(r"\s+(?:and|&)\s+|,\s*", clean)
+                entry = {"last_names": set(), "full_names": set()}
+                for part in parts_list:
+                    part = part.strip()
+                    if not part:
+                        continue
+                    normalized = _normalize_accused_name(part)
+                    words = normalized.split()
+                    if not words:
+                        continue
+                    # Find last name: skip trailing initials like "D." or "M."
+                    last = words[-1]
+                    if len(last) <= 2 and len(words) > 1:
+                        last = words[-2]
+                    if len(last) <= 2:
+                        continue  # skip entries that are not real names
+                    entry["last_names"].add(last)
+                    entry["full_names"].add(normalized)
+                if entry["last_names"]:
+                    result[folder] = entry
+
+    return result
+
+
+def load_case_id_mapping(case_mapping_path: Path) -> dict[str, str]:
+    """Load folder → case_number mapping from case_mapping.csv.
+
+    Returns {folder: case_number} for all rows that have both fields.
+    """
+    mapping = {}
+    if not case_mapping_path.exists():
+        return mapping
+    with open(case_mapping_path, encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            folder = row.get("folder", "").strip()
+            case_number = row.get("case_number", "").strip()
+            if folder and case_number:
+                mapping[folder] = case_number
+    return mapping
+
+
+def check_is_accused(speaker: str, accused_info: dict | None) -> bool:
+    """Check if a speaker is one of the accused.
+
+    Handles patterns:
+    - THE ACCUSED / THE ACCUSED PRALJAK  -> always True
+    - MR. LASTNAME (matching accused)    -> True
+    - FIRSTNAME LASTNAME [Resumed] etc.  -> True if full name matches
+    """
+    if accused_info is None:
+        return False
+
+    s = _normalize_accused_name(speaker)
+
+    # THE ACCUSED / THE APPELLANT is always the accused
+    if s == "THE ACCUSED" or s.startswith("THE ACCUSED "):
+        return True
+    if s == "THE APPELLANT" or s.startswith("THE APPELLANT "):
+        return True
+
+    last_names = accused_info["last_names"]
+    full_names = accused_info["full_names"]
+
+    # MR. LASTNAME — check last name (only MR., not MS./MRS./MISS,
+    # since all ICTY accused are male and MS. can be counsel)
+    # Handles: MR. SIMIC, MR. J. SIMIC, MR. DI FAZIO
+    m = re.match(r"^MR\.?\s+(?:[A-Z]\.\s+)?(.+)$", s)
+    if m:
+        name_part = m.group(1).strip()
+        # Check the full remaining part and also just the last word
+        if name_part in last_names:
+            return True
+        last_word = name_part.split()[-1] if name_part.split() else ""
+        return last_word in last_names
+
+    # Named speaker (e.g. TIHOMIR BLASKIC, DUSKO TADIC (RESUMED))
+    # Strip suffixes like [Resumed], (Resumed), [Recalled]
+    core = re.sub(r"\s*[\(\[].*$", "", s).strip()
+    # Strip title prefixes like GENERAL, DR.
+    core = re.sub(r"^(?:GENERAL|DR\.?|COLONEL|CAPTAIN|MAJOR|LIEUTENANT)\s+", "", core)
+    if core in full_names:
+        return True
+
+    return False
+
 
 # ---------------------------------------------------------------------------
 # File Discovery
@@ -47,7 +185,7 @@ def discover_files(archive_dir: Path = ARCHIVE_DIR,
         for doc_path in sorted(transcripts_dir.iterdir()):
             if not doc_path.is_file():
                 continue
-            if doc_path.suffix.lower() != ".doc":
+            if doc_path.suffix.lower() not in (".doc", ".docx"):
                 continue
             name = doc_path.name
             # Skip French transcripts
@@ -60,24 +198,143 @@ def discover_files(archive_dir: Path = ARCHIVE_DIR,
     return results
 
 
+_MONTH_NAMES = "|".join(MONTHS.keys())
+# Also accept 3-letter abbreviations (with optional period): Jan, Feb, Sept, Oct.
+_MONTH_ABBREVS = {k[:3]: v for k, v in MONTHS.items()}
+_MONTH_ABBREVS["sept"] = 9  # handle "Sept" as well as "Sep"
+# French month names
+_FRENCH_MONTHS = {
+    "janvier": 1, "fevrier": 2, "février": 2, "mars": 3, "avril": 4,
+    "mai": 5, "juin": 6, "juillet": 7, "aout": 8, "août": 8,
+    "septembre": 9, "octobre": 10, "novembre": 11, "decembre": 12, "décembre": 12,
+}
+_ALL_MONTH_NAMES = _MONTH_NAMES + "|" + "|".join(_FRENCH_MONTHS.keys())
+
+
+def _resolve_month(s: str) -> int | None:
+    """Resolve a month string (full name or abbreviation) to a month number."""
+    s = s.lower().rstrip(".")
+    m = MONTHS.get(s)
+    if m:
+        return m
+    m = _FRENCH_MONTHS.get(s)
+    if m:
+        return m
+    return _MONTH_ABBREVS.get(s)
+
+
 def parse_date_from_filename(filename: str) -> str | None:
     """Try to extract a date (YYYY-MM-DD) from a transcript filename."""
-    # Later format: Hearing_DD_Month_YYYY
-    m = re.search(r'(\d{1,2})_(\w+)_(\d{4})\.doc', filename, re.IGNORECASE)
+    # Later format: Hearing_DD_Month_YYYY (tolerates hash suffix before .doc)
+    m = re.search(
+        r'(\d{1,2})_(' + _MONTH_NAMES + r')_(\d{4})(?:_[0-9a-f]{4,8})?\.doc',
+        filename, re.IGNORECASE,
+    )
     if m:
-        day, month_str, year = m.group(1), m.group(2).lower(), m.group(3)
-        month = MONTHS.get(month_str)
+        day, month_str, year = m.group(1), m.group(2), m.group(3)
+        month = _resolve_month(month_str)
         if month:
             try:
                 return datetime(int(year), month, int(day)).strftime("%Y-%m-%d")
             except ValueError:
                 pass
 
-    # Early format: Hearing_Month_DDth,_YYYY
-    m = re.search(r'(\w+)_(\d{1,2})(?:st|nd|rd|th),?_(\d{4})\.doc', filename, re.IGNORECASE)
+    # Early format: Hearing_Month_DDth,_YYYY (month name before day)
+    # Use explicit month alternation to avoid greedy \w+ swallowing prefix
+    # Tolerates trailing alpha on year (e.g. 1999h) and hash suffixes
+    m = re.search(
+        r'(' + _MONTH_NAMES + r')_(\d{1,2})(?:st|nd|rd|th)?,?_(\d{4})[a-z]?(?:_[0-9a-f]{4,8})?\.doc',
+        filename, re.IGNORECASE,
+    )
     if m:
-        month_str, day, year = m.group(1).lower(), m.group(2), m.group(3)
-        month = MONTHS.get(month_str)
+        month_str, day, year = m.group(1), m.group(2), m.group(3)
+        month = _resolve_month(month_str)
+        if month:
+            try:
+                return datetime(int(year), month, int(day)).strftime("%Y-%m-%d")
+            except ValueError:
+                pass
+
+    # Abbreviated month format: DD_Mon.YYYY or DD_Sept.YYYY
+    m = re.search(
+        r'(\d{1,2})_([A-Za-z]{3,4})\.(\d{4})(?:_[0-9a-f]{4,8})?\.doc',
+        filename, re.IGNORECASE,
+    )
+    if m:
+        day, month_str, year = m.group(1), m.group(2), m.group(3)
+        month = _resolve_month(month_str)
+        if month:
+            try:
+                return datetime(int(year), month, int(day)).strftime("%Y-%m-%d")
+            except ValueError:
+                pass
+
+    # Parenthesized case_id in filename — date still present before it
+    # e.g. Hearing_3_February_1999_(IT-95-14_1-AR73).doc
+    m = re.search(
+        r'(\d{1,2})_(' + _MONTH_NAMES + r')_(\d{4})_?\(',
+        filename, re.IGNORECASE,
+    )
+    if m:
+        day, month_str, year = m.group(1), m.group(2), m.group(3)
+        month = _resolve_month(month_str)
+        if month:
+            try:
+                return datetime(int(year), month, int(day)).strftime("%Y-%m-%d")
+            except ValueError:
+                pass
+
+    # Ordinal day before month: DDth_Month_YYYY or DDth_Month,_YYYY
+    m = re.search(
+        r'(\d{1,2})(?:st|nd|rd|th)_(?:of_)?(' + _ALL_MONTH_NAMES + r'),?_(\d{4})',
+        filename, re.IGNORECASE,
+    )
+    if m:
+        day, month_str, year = m.group(1), m.group(2), m.group(3)
+        month = _resolve_month(month_str)
+        if month:
+            try:
+                return datetime(int(year), month, int(day)).strftime("%Y-%m-%d")
+            except ValueError:
+                pass
+
+    # Month_DDth,YYYY — flexible separator before year (e.g. August_12th,1999, January_28th.,_2000)
+    # Require day to not be followed by more digits (avoid matching year digits as day)
+    m = re.search(
+        r'(' + _ALL_MONTH_NAMES + r')_(\d{1,2})(?:st|nd|rd|th)?\.?,?[_ ]?(\d{4})(?!\d)',
+        filename, re.IGNORECASE,
+    )
+    if m:
+        month_str, day, year = m.group(1), m.group(2), m.group(3)
+        month = _resolve_month(month_str)
+        if month:
+            try:
+                return datetime(int(year), month, int(day)).strftime("%Y-%m-%d")
+            except ValueError:
+                pass
+
+    # No-separator format: DDmonth_YYYY (e.g. 01april_1997)
+    m = re.search(
+        r'(\d{1,2})(' + _ALL_MONTH_NAMES + r')[_.](\d{4})',
+        filename, re.IGNORECASE,
+    )
+    if m:
+        day, month_str, year = m.group(1), m.group(2), m.group(3)
+        month = _resolve_month(month_str)
+        if month:
+            try:
+                return datetime(int(year), month, int(day)).strftime("%Y-%m-%d")
+            except ValueError:
+                pass
+
+    # DD_Month_YYYY with French month names (e.g. 25_Avril_2006)
+    m = re.search(
+        r'(\d{1,2})_(' + _ALL_MONTH_NAMES + r')_(\d{4})',
+        filename, re.IGNORECASE,
+    )
+    if m:
+        day, month_str, year = m.group(1), m.group(2), m.group(3)
+        month = _resolve_month(month_str)
         if month:
             try:
                 return datetime(int(year), month, int(day)).strftime("%Y-%m-%d")
@@ -218,11 +475,17 @@ SPEAKER_RE = re.compile(
     r"^("
     r"(?:JUDGE\s+[\w'-]+(?:\s+[\w'-]+){0,3})"     # JUDGE ORIE, JUDGE WEINBERG DE ROCA
     r"|(?:THE\s+PRESIDING\s+JUDGE)"                # THE PRESIDING JUDGE
-    r"|(?:MR\.?\s+[\w'-]+)"                         # MR. IVETIC
-    r"|(?:MS\.?\s+[\w'-]+)"                         # MS. UERTZ-RETZLAFF
-    r"|(?:MRS\.?\s+[\w'-]+)"                        # MRS. X
-    r"|(?:MISS\s+[\w'-]+)"                          # MISS HOLLIS
-    r"|(?:THE\s+(?:WITNESS|REGISTRAR|INTERPRETER|ACCUSED))"
+    r"|(?:(?:MR|MS|MRS)\.?\s+(?:[A-Z]\.\s+)?[\w'-]+(?:\s+[\w'-]+){0,2})"  # MR. DI FAZIO, MS. DEL PONTE, MR. J. SIMIC
+    r"|(?:MISS\s+(?:[A-Z]\.\s+)?[\w'-]+(?:\s+[\w'-]+){0,2})"  # MISS HOLLIS
+    r"|(?:DR\.?\s+[\w'-]+(?:\s+[\w'-]+){0,2})"     # DR. FOLNEGOVIC-SMALC
+    r"|(?:THE\s+(?:WITNESS|REGISTRAR|INTERPRETER))"
+    r"|(?:THE\s+ACCUSED(?:\s+(?:GENERAL\s+)?[\w'-]+)?)"  # THE ACCUSED / THE ACCUSED PRALJAK / THE ACCUSED GENERAL BLASKIC
+    r"|(?:THE\s+APPELLANT(?:\s+[\w'-]+)?)"          # THE APPELLANT / THE APPELLANT KORDIC
+    r"|(?:THE\s+USHER)"                             # THE USHER
+    r"|(?:THE\s+REGISTRY)"                          # THE REGISTRY
+    r"|(?:THE\s+COURT\s+REPORTER)"                  # THE COURT REPORTER
+    r"|(?:THE\s+(?:FRENCH\s+)?INTERPRETER)"         # THE FRENCH INTERPRETER (also matches THE INTERPRETER)
+    r"|(?:THE\s+PROSECUTION(?:\s*[-\u2013\u2014]\s*[\w'.]+(?:\s+[\w'.]+){0,3})?)"  # THE PROSECUTION - MARK HARMON
     r")"
     r"\s*(\[.*?\])?\s*:\s*",                        # Optional [Interpretation] + colon
     re.IGNORECASE,
@@ -240,13 +503,17 @@ EXAM_HEADER_RE = re.compile(
     r"((?:Further\s+)?(?:Cross-|Re-(?:cross-)?)?[Ee]xamin\w+|Questioned)"
     r"\s+by\s+"
     r"("
-        r"(?:Mr|Ms|Mrs|Miss)\.?\s+[\w'-]+"       # Mr. Nice
+        r"(?:Mr|Ms|Mrs|Miss)\.{0,2}\s+(?:[A-Z]\.\s+)?[\w'-]+(?:\s+[\w'-]+){0,2}"  # Mr. Nice / Ms. Del Ponte / MR.. MEDDEGODA
+        r"|Dr\.{0,2}\s+[\w'-]+(?:\s+[\w'-]+){0,2}"  # Dr. Folnegovic-Smalc
         r"|the\s+Court"                            # the Court
         r"|Judge\s+[\w'-]+(?:\s+[\w'-]+){0,3}"     # Judge Orie / Judge Karibi Whyte
+        r"|the\s+[Aa]ccused(?:\s+[\w'-]+)?"        # the Accused / the Accused Praljak
         r"|the\s+\w+(?:\s+\w+){0,2}"              # the Appeals Chamber, the defence
         r"|Assigned\s+\w+"                          # Assigned Counsel
     r")"
-    r"\s*:?\s*",                                    # colon is sometimes missing
+    r"\s*[:.]?\s*"                                       # optional colon or period
+    r"(?:[\[(](?:Continued|Cont'd|Contd\.?|Resumed|Interpretation)[)\]]?\s*[:.]?\s*)?"  # [Continued], [Cont'd], [Contd.], trailing : or .
+    r"$",
     re.IGNORECASE,
 )
 
@@ -304,8 +571,8 @@ def _valid_witness_name(name: str) -> bool:
             return False
     return True
 
-# Procedural annotations (standalone bracketed text)
-PROCEDURAL_RE = re.compile(r"^\s*\[(.+?)\]\s*$")
+# Procedural annotations (standalone bracketed or parenthesized text)
+PROCEDURAL_RE = re.compile(r"^\s*(?:\[(.+?)\]|\((.+?)\))\s*$")
 
 # Session breaks
 SESSION_BREAK_RE = re.compile(
@@ -327,7 +594,8 @@ DATE_ALT_RE = re.compile(
 
 # Case ID — match regular hyphens and en-dash variants (U+2010–U+2014)
 _DASH = r"[\-\u2010\u2011\u2012\u2013\u2014]"
-CASE_ID_RE = re.compile(rf"IT{_DASH}\d+{_DASH}\d+(?:[/{_DASH}]\w+)*")
+# Also match missing-dash form like IT-9512 (conversion artifact for IT-95-12)
+CASE_ID_RE = re.compile(rf"IT{_DASH}\d+{_DASH}?\d+(?:[/{_DASH}]\w+)*")
 
 # Redacted pages
 REDACTED_RE = re.compile(
@@ -335,10 +603,11 @@ REDACTED_RE = re.compile(
     re.IGNORECASE,
 )
 
-# Session type from bracketed text
+# Session type from bracketed or parenthesized text
 SESSION_TYPE_RE = re.compile(
-    r"\[(Open session|Private session|Closed session|Status Conference"
-    r"|Initial Appearance|Sentencing Hearing)\]",
+    r"[\[\(](Open session|Private session|Closed session|Status Conference"
+    r"|Initial Appearance|Sentencing Hearing|In open session|In private session"
+    r"|In closed session)[\]\)]",
     re.IGNORECASE,
 )
 
@@ -360,14 +629,24 @@ def classify_role(speaker: str) -> str:
         return "judge"
     if s == "THE WITNESS":
         return "witness"
-    if s == "THE REGISTRAR":
+    if s == "THE REGISTRAR" or s == "THE REGISTRY":
         return "registrar"
-    if s == "THE INTERPRETER":
+    if s == "THE INTERPRETER" or s == "THE FRENCH INTERPRETER":
         return "interpreter"
-    if s == "THE ACCUSED":
+    if s == "THE ACCUSED" or s.startswith("THE ACCUSED "):
+        return "accused"
+    if s == "THE APPELLANT" or s.startswith("THE APPELLANT "):
         return "accused"
     if s == "THE COURT":
         return "judge"
+    if s == "THE USHER":
+        return "procedural"
+    if s == "THE COURT REPORTER":
+        return "procedural"
+    if s.startswith("THE PROSECUTION"):
+        return "prosecution"
+    if s.startswith("DR.") or s.startswith("DR "):
+        return "counsel"
     # MR./MS./MRS./MISS — counsel, side unknown at this point
     return "counsel"
 
@@ -387,6 +666,36 @@ def classify_examination_type(exam_str: str) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Line-Number Run Stripping
+# ---------------------------------------------------------------------------
+
+# Matches a run of 4+ ascending integers (1-25 range, separated by spaces)
+_LINE_NUM_RUN_RE = re.compile(
+    r"(?:^|\s)(\d{1,2}(?:\s+\d{1,2}){3,})\s*$"
+)
+
+
+def _strip_line_number_runs(text: str) -> str:
+    """Remove trailing sequences of ascending line numbers from text.
+
+    These appear when redacted/blank pages leave bare line numbers (1-25)
+    that get appended to the previous utterance.
+    """
+    m = _LINE_NUM_RUN_RE.search(text)
+    if not m:
+        return text
+    nums = m.group(1).split()
+    # Verify they're ascending consecutive integers in the 1-25 range
+    try:
+        ints = [int(n) for n in nums]
+    except ValueError:
+        return text
+    if all(ints[i] == ints[i - 1] + 1 for i in range(1, len(ints))) and 1 <= ints[0] <= 25:
+        text = text[:m.start()].rstrip()
+    return text
+
+
+# ---------------------------------------------------------------------------
 # Parser State Machine
 # ---------------------------------------------------------------------------
 
@@ -397,6 +706,7 @@ class Utterance:
     role: str
     type: str  # "statement", "question", "answer"
     text: str
+    is_accused: bool = False
     examination: str | None = None
     reply_to: int | None = None
 
@@ -415,6 +725,7 @@ class ParserState:
     # Current utterance being accumulated
     current_speaker: str | None = None
     current_role: str | None = None
+    current_is_accused: bool = False
     current_type: str = "statement"
     current_text_lines: list[str] = field(default_factory=list)
     current_examination: str | None = None
@@ -430,6 +741,7 @@ class ParserState:
     case_id: str | None = None
     date: str | None = None
     witness_name: str | None = None
+    last_counsel_speaker: str | None = None  # fallback examiner when no exam header
 
     # Counters
     utterance_counter: int = 0
@@ -446,6 +758,9 @@ class ParserState:
         text = " ".join(self.current_text_lines).strip()
         # Normalize internal whitespace
         text = re.sub(r"\s+", " ", text)
+        # Strip trailing ascending line-number runs (redacted page artifacts)
+        # Matches sequences like "11 12 13 14 ... 25" at the end or inline
+        text = _strip_line_number_runs(text)
 
         if not text:
             return
@@ -456,6 +771,7 @@ class ParserState:
             role=self.current_role or "unknown",
             type=self.current_type,
             text=text,
+            is_accused=self.current_is_accused,
             examination=self.current_examination,
             reply_to=self.current_reply_to,
         )
@@ -478,7 +794,8 @@ class ParserState:
 
 
 def parse_transcript(lines: list[str], case_slug: str,
-                     filename_date: str | None = None) -> dict:
+                     filename_date: str | None = None,
+                     accused_info: dict | None = None) -> dict:
     """Parse cleaned transcript lines into a structured dict."""
     state = ParserState()
 
@@ -589,10 +906,30 @@ def parse_transcript(lines: list[str], case_slug: str,
             interpretation = m.group(2)  # e.g., "[Interpretation]"
             rest = line[m.end():].strip()
 
+            # Check for THE WITNESS: NAME declaration form
+            # If speaker is THE WITNESS and rest looks like a standalone name
+            # (1-4 uppercase words, possibly with period/parenthesized suffix),
+            # treat as a witness declaration rather than an utterance
+            if speaker == "THE WITNESS" and rest:
+                name_candidate = re.sub(r"\s*[\(\[].*$", "", rest).strip().rstrip(".")
+                if (name_candidate
+                    and _valid_witness_name(name_candidate)
+                    and len(name_candidate.split()) <= 4
+                    and name_candidate == name_candidate.upper()
+                    and not any(w in name_candidate for w in ("YES", "NO", "THANK", "I "))):
+                    state.witness_name = name_candidate
+                    state.add_procedural_note(f"THE WITNESS: {rest}")
+                    continue
+
             state.current_speaker = speaker
             state.current_role = classify_role(speaker)
+            state.current_is_accused = check_is_accused(speaker, accused_info)
             state.current_type = "statement"
             state.current_text_lines = [rest] if rest else []
+
+            # Track last counsel speaker as fallback examiner
+            if state.current_role == "counsel":
+                state.last_counsel_speaker = speaker
 
             # Check if this speaker line is followed by Q. on the same line
             # (sometimes "MR. IVETIC:  Q.  question text")
@@ -607,8 +944,10 @@ def parse_transcript(lines: list[str], case_slug: str,
                     state.current_examination = state.current_exam_type
                     state.current_text_lines = [qa_text] if qa_text else []
                 elif qa_type == "A":
-                    state.current_speaker = state.witness_name or "THE WITNESS"
+                    witness = state.witness_name or "THE WITNESS"
+                    state.current_speaker = witness
                     state.current_role = "witness"
+                    state.current_is_accused = check_is_accused(witness, accused_info)
                     state.current_type = "answer"
                     state.current_reply_to = state.last_question_id
                     state.current_text_lines = [qa_text] if qa_text else []
@@ -622,15 +961,18 @@ def parse_transcript(lines: list[str], case_slug: str,
             qa_text = m.group(2).strip()
 
             if qa_type == "Q":
-                speaker = state.current_examiner or "UNKNOWN EXAMINER"
+                speaker = state.current_examiner or state.last_counsel_speaker or "UNKNOWN EXAMINER"
                 state.current_speaker = speaker
                 state.current_role = classify_role(speaker) if speaker != "UNKNOWN EXAMINER" else "counsel"
+                state.current_is_accused = check_is_accused(speaker, accused_info)
                 state.current_type = "question"
                 state.current_examination = state.current_exam_type
                 state.current_text_lines = [qa_text] if qa_text else []
             elif qa_type == "A":
-                state.current_speaker = state.witness_name or "THE WITNESS"
+                witness = state.witness_name or "THE WITNESS"
+                state.current_speaker = witness
                 state.current_role = "witness"
+                state.current_is_accused = check_is_accused(witness, accused_info)
                 state.current_type = "answer"
                 state.current_reply_to = state.last_question_id
                 state.current_text_lines = [qa_text] if qa_text else []
@@ -647,7 +989,8 @@ def parse_transcript(lines: list[str], case_slug: str,
     # Build output
     result = {
         "case": case_slug,
-        "case_id": state.case_id,
+        "case_id_base": None,  # populated by caller from case_mapping
+        "case_id_transcript": state.case_id,
         "date": state.date,
         "utterances": [],
         "procedural_notes": [],
@@ -658,6 +1001,7 @@ def parse_transcript(lines: list[str], case_slug: str,
             "id": utt.id,
             "speaker": utt.speaker,
             "role": utt.role,
+            "is_accused": utt.is_accused,
             "type": utt.type,
             "text": utt.text,
         }
@@ -680,7 +1024,9 @@ def parse_transcript(lines: list[str], case_slug: str,
 # Full Pipeline
 # ---------------------------------------------------------------------------
 
-def process_file(case_slug: str, doc_path: Path, text: str) -> dict | None:
+def process_file(case_slug: str, doc_path: Path, text: str,
+                 accused_info: dict | None = None,
+                 case_id_base: str | None = None) -> dict | None:
     """Process a single transcript: strip lines, parse, return structured dict."""
     filename_date = parse_date_from_filename(doc_path.name)
     cleaned_lines = strip_line_numbers(text)
@@ -689,7 +1035,8 @@ def process_file(case_slug: str, doc_path: Path, text: str) -> dict | None:
         logger.warning(f"Empty after line stripping: {doc_path.name}")
         return None
 
-    result = parse_transcript(cleaned_lines, case_slug, filename_date)
+    result = parse_transcript(cleaned_lines, case_slug, filename_date, accused_info)
+    result["case_id_base"] = case_id_base
     result["source_file"] = doc_path.name
 
     return result

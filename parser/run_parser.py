@@ -14,6 +14,7 @@ import json
 import logging
 import sys
 import time
+from collections import Counter
 from pathlib import Path
 
 from tqdm import tqdm
@@ -22,12 +23,14 @@ from icty_parser import (
     ARCHIVE_DIR,
     convert_batch_to_text,
     discover_files,
+    load_accused_names,
+    load_case_id_mapping,
     process_file,
 )
 
 PROJECT_ROOT = Path(__file__).parent.parent
-OUTPUT_DIR = PROJECT_ROOT / "data" / "parsed"
-TXT_DIR = PROJECT_ROOT / "data" / "converted_txt"
+OUTPUT_DIR = PROJECT_ROOT / "data" / "transcripts_parsed"
+TXT_DIR = PROJECT_ROOT / "data" / "transcripts_txt"
 LOG_DIR = PROJECT_ROOT / "logs"
 
 
@@ -53,14 +56,37 @@ def main():
                         help="Files per LibreOffice batch (default: 50)")
     parser.add_argument("--output-dir", type=Path, default=OUTPUT_DIR,
                         help="Output directory for JSONL files")
+    parser.add_argument("--txt-dir", type=Path, default=TXT_DIR,
+                        help="Directory for intermediate converted text files")
     parser.add_argument("--archive-dir", type=Path, default=ARCHIVE_DIR,
                         help="Path to icty_archive directory")
+    parser.add_argument("--pleas", type=Path,
+                        default=PROJECT_ROOT / "data_250625" / "cis_parsed" / "pleas.csv",
+                        help="Path to pleas.csv for accused name lookup")
+    parser.add_argument("--case-mapping", type=Path,
+                        default=PROJECT_ROOT / "scraper" / "case_mapping.csv",
+                        help="Path to case_mapping.csv for fallback accused names")
     args = parser.parse_args()
 
     setup_logging()
     logger = logging.getLogger(__name__)
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Load accused names for is_accused tagging
+    accused_by_case = {}
+    if args.pleas.exists():
+        mapping_path = args.case_mapping if args.case_mapping.exists() else None
+        accused_by_case = load_accused_names(args.pleas, mapping_path)
+        logger.info(f"Loaded accused names for {len(accused_by_case)} cases from {args.pleas}")
+    else:
+        logger.warning(f"Pleas file not found: {args.pleas} — is_accused will always be false")
+
+    # Load case_id mapping (folder -> case_number)
+    case_id_mapping = {}
+    if args.case_mapping.exists():
+        case_id_mapping = load_case_id_mapping(args.case_mapping)
+        logger.info(f"Loaded case_id mapping for {len(case_id_mapping)} folders")
 
     # Step 1: Discover files
     logger.info("Discovering transcript files...")
@@ -89,6 +115,7 @@ def main():
         "total_answers": 0,
         "total_answers_linked": 0,
         "total_procedural_notes": 0,
+        "total_accused_utterances": 0,
         "cases_processed": 0,
     }
 
@@ -96,9 +123,10 @@ def main():
     batches = [file_list[i:i + args.batch_size]
                for i in range(0, len(file_list), args.batch_size)]
     cases_seen = set()
+    role_counts = Counter()
     pbar = tqdm(total=len(file_list), desc="Converting & parsing")
 
-    txt_dir = TXT_DIR
+    txt_dir = args.txt_dir
     txt_dir.mkdir(parents=True, exist_ok=True)
 
     for batch in batches:
@@ -114,7 +142,9 @@ def main():
 
             text = texts[doc_path]
             try:
-                result = process_file(case_slug, doc_path, text)
+                result = process_file(case_slug, doc_path, text,
+                                     accused_info=accused_by_case.get(case_slug),
+                                     case_id_base=case_id_mapping.get(case_slug))
             except Exception as e:
                 logger.error(f"Parse error in {doc_path.name}: {e}")
                 stats["parse_failed"] += 1
@@ -143,6 +173,9 @@ def main():
             stats["total_utterances"] += len(result["utterances"])
             stats["total_procedural_notes"] += len(result["procedural_notes"])
             for utt in result["utterances"]:
+                role_counts[utt.get("role", "unknown")] += 1
+                if utt.get("is_accused"):
+                    stats["total_accused_utterances"] += 1
                 if utt["type"] == "question":
                     stats["total_questions"] += 1
                 elif utt["type"] == "answer":
@@ -165,6 +198,8 @@ def main():
     else:
         stats["qa_link_rate"] = 0.0
 
+    stats["role_distribution"] = dict(role_counts.most_common())
+
     report_path = LOG_DIR / "parse_report.json"
     with open(report_path, "w") as f:
         json.dump(stats, f, indent=2)
@@ -183,6 +218,16 @@ def main():
     print(f"  Answers:            {stats['total_answers']}")
     print(f"  Q/A link rate:      {stats['qa_link_rate']}%")
     print(f"  Procedural notes:   {stats['total_procedural_notes']}")
+    total_utt = stats["total_utterances"] or 1
+    non_accused = stats["total_utterances"] - stats["total_accused_utterances"]
+    print(f"  Accused utterances: {stats['total_accused_utterances']:>10,}  "
+          f"({stats['total_accused_utterances'] / total_utt * 100:.1f}%)")
+    print(f"  Other utterances:   {non_accused:>10,}  "
+          f"({non_accused / total_utt * 100:.1f}%)")
+    print(f"  Role distribution:")
+    for role, count in role_counts.most_common():
+        pct = count / total_utt * 100
+        print(f"    {role:<20} {count:>10,}  ({pct:.1f}%)")
     print(f"  Total time:         {stats['total_time_s']}s")
     print(f"  Report:             {report_path}")
     print(f"  Output:             {args.output_dir}/")
