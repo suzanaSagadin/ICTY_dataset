@@ -13,8 +13,7 @@ archive/
 # Raw archives (too large for git)
 archive_250625/
 
-# Parsed data (too large for git, regenerable)
-data_250625/transcripts_parsed/
+# Intermediate txt conversions (regenerable from archive_250625/)
 data_250625/transcripts_txt/
 
 # Large generated files

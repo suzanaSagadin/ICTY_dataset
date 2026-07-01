@@ -93,10 +93,10 @@ The old archive had 16,514 DOC files across 82 cases. The new archive has 12,659
 `parser/compare_pleas.py` — maps old pleas.csv (icty.org slugs) to new pleas.csv (folder names) via `case_mapping.csv` and diffs them.
 
 ```bash
-.venv/bin/python3 parser/compare_pleas.py --old archive/cis_parsed/pleas.csv --new data_250625/cis_parsed/pleas.csv --mapping scraper/case_mapping.csv
+.venv/bin/python3 parser/compare_pleas.py --old archive/cis_parsed/pleas.csv --new data_250625/reports/pleas.csv --mapping scraper/case_mapping.csv
 ```
 
-Result (2025-06-25): 115 rows match, 22 need review (7 differences in existing cases, 15 from new CIS files). Output: `data_250625/cis_parsed/pleas_comparison.csv`.
+Result (2025-06-25): 115 rows match, 22 need review (7 differences in existing cases, 15 from new CIS files). Output: `data_250625/reports/pleas_comparison.csv`.
 
 ### Transcript parsing
 

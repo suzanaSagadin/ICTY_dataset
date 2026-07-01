@@ -115,7 +115,7 @@ def main():
     )
     parser.add_argument(
         "--pleas", type=Path,
-        default=PROJECT_ROOT / "data_250625" / "cis_parsed" / "pleas.csv",
+        default=PROJECT_ROOT / "data_250625" / "reports" / "pleas.csv",
         help="Path to pleas.csv (used with --recheck-accused)"
     )
     parser.add_argument(

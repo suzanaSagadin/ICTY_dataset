@@ -2,7 +2,7 @@
 
 ## In progress
 
-- [ ] **Parse transcripts** (DOC/DOCX → JSON) — currently running
+- [x] **Parse transcripts** (DOC/DOCX → JSON) — currently running
   ```
   .venv/bin/python3 parser/run_parser.py --archive-dir archive_250625/ --output-dir data_250625/transcripts_parsed --txt-dir data_250625/transcripts_txt
   ```
@@ -11,8 +11,8 @@
 
 - [ ] **Check transcript parser quality** on new archive results
 - [x] **Update `dataset_creation/chunk_extracton.py`** — paths updated to `data_250625/`, accused detection now uses parser's `is_accused` flag instead of re-implementing matching
-- [ ] **Update `dataset_overview.md`** with parser results once available
-- [ ] **Have colleague review 22 new/changed pleas rows** — see `data_250625/cis_parsed/pleas_comparison.csv`
+- [x] **Update `dataset_overview.md`** with parser results once available
+- [ ] **Review 22 new/changed pleas rows** — see `data_250625/cis_parsed/pleas_comparison.csv`
 - [ ] **Manually check 16 cases with icty_slug but no CIS file on icty.org:**
   - IT-01-43  Obrenovic (obrenovic_old)
   - IT-01-44  Jokic (jokic_old)
@@ -36,6 +36,27 @@
 - [ ] Decide how to record the 3 `unknown` pleas (`bobetko`, `marinic`, `raznatovic` — no plea was ever entered)
 - [ ] **Infer `case_id` for transcripts that have none** — in old archive 37% had `null` case_id. Check if this persists in new data.
 - [ ] Duplicate rows in `pleas.csv` — cases with both `cis_X.pdf` and `cis_X_en.pdf` produce duplicate entries
+
+## Plea filtering feasibility
+
+Filtering accused utterances by plea (e.g. excluding guilty pleas) is **not straightforward** due to gaps between `pleas.csv` and the `is_accused` speaker data. Analysis (2026-07-01):
+
+**Guilty pleas are rare** — only 5 entries (3 people) across 134 total:
+- `babic`: Milan Babic (guilty, 22 utterances)
+- `erdemovic`: Drazen Erdemovic (guilty, 44 utterances)
+- `jankovic_g_et_al`: Radovan Stankovic (guilty, 296 utterances — other 2 accused pled not guilty)
+
+That's 362 utterances out of 384,299 `is_accused=True` total (<0.1%).
+
+**But matching accused speakers to their plea entry has three problems:**
+
+1. **94,474 utterances (24.6%) have no plea at all** — 23 transcript folders (sub-cases, old case numbers like `beara`, `blagojevic`, `ademi`, `norac`) are not in `pleas.csv`. Their accused are tracked under parent/joint case folders.
+
+2. **8,149 utterances (2.1%) are ambiguous in multi-accused cases** — speaker is just `THE ACCUSED` or `THE APPELLANT` with no name, so we can't tell which accused is speaking. Worst: `popovic_et_al` (7,100 ambiguous, 7 accused).
+
+3. **Name format mismatch** — `pleas.csv` uses full names with diacritics (`ZLATKO ALEKSOVSKI`, `RADOVAN KARADŽIĆ`), speakers use labels (`MR. ALEKSOVSKI`, `THE ACCUSED`, `THE APPELLANT KORDIC`). Matching requires last-name extraction and fuzzy diacritic handling.
+
+**Decision pending:** Given guilty pleas affect <0.1% of data, plea filtering may not be worth the complexity. If needed, the simplest approach would be to hard-code exclusion of the 3 guilty-plea cases/accused rather than building general plea-matching infrastructure.
 
 ---
 

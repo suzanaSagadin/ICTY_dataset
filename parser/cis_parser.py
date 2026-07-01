@@ -753,7 +753,9 @@ def main():
         "charge_categories", "crime_types",
         "related_cases_count",
     ]
-    csv_path = output_dir / "all_cases.csv"
+    reports_dir = output_dir.parent / "reports"
+    reports_dir.mkdir(parents=True, exist_ok=True)
+    csv_path = reports_dir / "all_cases.csv"
     with open(csv_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=csv_fields, extrasaction="ignore")
         writer.writeheader()

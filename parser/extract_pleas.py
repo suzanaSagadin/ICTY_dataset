@@ -1,4 +1,4 @@
-"""Build data/cis_parsed/pleas.csv: one row per accused (not per case).
+"""Build data_250625/reports/pleas.csv: one row per accused (not per case).
 
 Reads data/cis_parsed/all_cases_full.json. For single-defendant cases the
 case-level plea is used as-is. For multi-defendant cases the accused are taken
@@ -158,7 +158,9 @@ def main() -> None:
         if not single:
             logger.info(f"{slug}: {len(names)} accused")
 
-    out = CIS_DIR / "pleas.csv"
+    reports_dir = CIS_DIR.parent / "reports"
+    reports_dir.mkdir(parents=True, exist_ok=True)
+    out = reports_dir / "pleas.csv"
     with out.open("w", newline="") as fh:
         w = csv.writer(fh)
         w.writerow(["case", "accused", "plea", "note"])

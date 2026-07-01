@@ -61,7 +61,7 @@ def main():
     parser.add_argument("--archive-dir", type=Path, default=ARCHIVE_DIR,
                         help="Path to icty_archive directory")
     parser.add_argument("--pleas", type=Path,
-                        default=PROJECT_ROOT / "data_250625" / "cis_parsed" / "pleas.csv",
+                        default=PROJECT_ROOT / "data_250625" / "reports" / "pleas.csv",
                         help="Path to pleas.csv for accused name lookup")
     parser.add_argument("--case-mapping", type=Path,
                         default=PROJECT_ROOT / "scraper" / "case_mapping.csv",

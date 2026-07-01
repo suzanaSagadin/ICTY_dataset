@@ -5,10 +5,10 @@ the plea data row by row.
 
 Usage:
     python parser/compare_pleas.py \
-        --old data/cis_parsed/pleas.csv \
-        --new data_250625/cis_parsed/pleas.csv \
+        --old archive/cis_parsed/pleas.csv \
+        --new data_250625/reports/pleas.csv \
         --mapping scraper/case_mapping.csv \
-        --output data_250625/cis_parsed/pleas_comparison.csv
+        --output data_250625/reports/pleas_comparison.csv
 """
 
 import argparse
