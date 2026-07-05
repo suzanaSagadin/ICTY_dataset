@@ -3,9 +3,14 @@ LB:
 - this script extracts utterances spoken by the accused from JSON files in case folders and saves them to a CSV file
 - it uses the is_accused flag computed by the parser (from pleas.csv + case_mapping.csv + speaker patterns)
 - the output contains one row per accused utterance together with metadata such as case, case ID, date and source file
+- duplicate hearings (same content filed under multiple case numbers) are dropped
+  using the canonical owner from data_250625/reports/hearing_dedup.csv
+- known counsel sharing an accused's surname (parser/counsel_exclusions.csv) are
+  dropped even where the stored is_accused flag is stale
 
 """
 from pathlib import Path
+import csv
 import json
 import pandas as pd
 
@@ -15,6 +20,30 @@ script_dir = Path(__file__).resolve().parent
 project_dir = script_dir.parent
 
 base_dir = project_dir / "data_250625" / "transcripts_parsed"
+
+# non-canonical duplicate copies to skip: (case, source_file)
+non_canonical = set()
+dedup_path = project_dir / "data_250625" / "reports" / "hearing_dedup.csv"
+if dedup_path.exists():
+    with open(dedup_path, encoding="utf-8") as f:
+        non_canonical = {
+            (r["case"], r["source_file"])
+            for r in csv.DictReader(f)
+            if r["is_canonical"] == "no"
+        }
+    print(f"Loaded dedup table: {len(non_canonical)} duplicate copies will be skipped")
+else:
+    print(f"WARNING: no dedup table at {dedup_path} — duplicate hearings will be double-counted")
+
+# counsel wrongly matching an accused surname: (case, speaker)
+counsel_exclusions = set()
+exclusions_path = project_dir / "parser" / "counsel_exclusions.csv"
+if exclusions_path.exists():
+    with open(exclusions_path, encoding="utf-8") as f:
+        counsel_exclusions = {
+            (r["case"], r["speaker"]) for r in csv.DictReader(f)
+        }
+    print(f"Loaded counsel exclusions: {sorted(counsel_exclusions)}")
 
 print("=" * 60)
 print("Starting accused utterance extraction")
@@ -27,6 +56,8 @@ rows = []
 total_folders = 0
 total_files = 0
 total_utterances = 0
+skipped_duplicates = 0
+excluded_counsel = 0
 
 # LB: preparing counters for the number of folders, files and utterances
 
@@ -49,6 +80,11 @@ for case_folder in base_dir.iterdir():
 
     # LB: looping through the JSON files in the current case folder
     for json_file in case_folder.glob("*.json"):
+
+        # skipping non-canonical duplicate copies of hearings
+        if (case_from_folder, json_file.name) in non_canonical:
+            skipped_duplicates += 1
+            continue
 
         total_files += 1
         case_file_count += 1
@@ -75,6 +111,11 @@ for case_folder in base_dir.iterdir():
 
             # LB: using the is_accused flag computed by the parser
             if utt.get("is_accused", False):
+
+                # dropping known counsel who share an accused's surname
+                if (case_from_folder, utt.get("speaker", "")) in counsel_exclusions:
+                    excluded_counsel += 1
+                    continue
 
                 rows.append({
                     "case": case,
@@ -137,6 +178,8 @@ print("FINISHED")
 print("=" * 60)
 print(f"Case folders processed: {total_folders}")
 print(f"JSON files processed:   {total_files}")
+print(f"Duplicate copies skipped: {skipped_duplicates}")
+print(f"Counsel utterances excluded: {excluded_counsel}")
 print(f"Rows in dataframe:      {len(df)}")
 print(f"Accused utterances:     {total_utterances}")
 print(f"CSV output file:        {csv_path}")

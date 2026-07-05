@@ -41,14 +41,21 @@ def _normalize_accused_name(name: str) -> str:
     return "".join(c for c in name if not unicodedata.combining(c))
 
 
-def load_accused_names(pleas_path: Path, case_mapping_path: Path | None = None) -> dict[str, dict]:
+def load_accused_names(pleas_path: Path, case_mapping_path: Path | None = None,
+                       exclusions_path: Path | None = None) -> dict[str, dict]:
     """Load accused names from pleas.csv, with fallback from case_mapping.csv.
 
     Returns {case_folder: {"last_names": {LASTNAME, ...},
-                           "full_names": {FIRSTNAME LASTNAME, ...}}}
+                           "full_names": {FIRSTNAME LASTNAME, ...},
+                           "excluded_speakers": {SPEAKER LABEL, ...}}}
 
     For folders without CIS data (no pleas.csv entry), extracts accused names
     from the case_mapping.csv ``name`` column as fallback.
+
+    ``exclusions_path`` (default: counsel_exclusions.csv next to this module)
+    lists speaker labels that match an accused surname but are actually
+    defence counsel (e.g. Branko Lukić representing Sreten Lukić); these are
+    never flagged is_accused.
     """
     result = {}
     with open(pleas_path, encoding="utf-8") as f:
@@ -101,6 +108,16 @@ def load_accused_names(pleas_path: Path, case_mapping_path: Path | None = None) 
                 if entry["last_names"]:
                     result[folder] = entry
 
+    if exclusions_path is None:
+        exclusions_path = Path(__file__).parent / "counsel_exclusions.csv"
+    if exclusions_path.exists():
+        with open(exclusions_path, encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                case = row["case"].strip()
+                if case in result:
+                    result[case].setdefault("excluded_speakers", set()).add(
+                        _normalize_accused_name(row["speaker"].strip()))
+
     return result
 
 
@@ -139,6 +156,10 @@ def check_is_accused(speaker: str, accused_info: dict | None) -> bool:
         return True
     if s == "THE APPELLANT" or s.startswith("THE APPELLANT "):
         return True
+
+    # Known counsel sharing an accused's surname (counsel_exclusions.csv)
+    if s in accused_info.get("excluded_speakers", set()):
+        return False
 
     last_names = accused_info["last_names"]
     full_names = accused_info["full_names"]
@@ -440,7 +461,8 @@ def convert_single_doc(doc_path: Path) -> str | None:
 # Line Number Stripping
 # ---------------------------------------------------------------------------
 
-LINE_NUMBER_RE = re.compile(r"^\s*(\d{1,2})\s{2,}")
+# number followed by 2+ spaces, or a single tab (1996-era format: "23\tJUDGE STEPHEN:")
+LINE_NUMBER_RE = re.compile(r"^\s*(\d{1,2})(?:\s{2,}|\t)")
 
 
 def strip_line_numbers(text: str) -> list[str]:

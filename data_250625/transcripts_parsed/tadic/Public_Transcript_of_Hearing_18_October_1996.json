@@ -6,14 +6,1576 @@
   "utterances": [
     {
       "id": 1,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I understand that we will hear from Mr. Vujanovic -- we are not ready yet, Mr. Marro -- and that you will hear regarding Mr. Budimir's presence either via video link or coming to The Hague at noon?"
+    },
+    {
+      "id": 2,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour."
+    },
+    {
+      "id": 3,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "So we thought we would hear Mr. Vujanovic and, depending upon when we finish, then stand in recess until 1.30."
+    },
+    {
+      "id": 4,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour."
+    },
+    {
+      "id": 5,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "But I do not know how long we need for Mr. Vujanovic. Was it just cross-examination?"
+    },
+    {
+      "id": 6,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour."
+    },
+    {
+      "id": 7,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Do you have any idea how long you will need?"
+    },
+    {
+      "id": 8,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I think that schedule will work out fine."
+    },
+    {
+      "id": 9,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "An hour or so?"
+    },
+    {
+      "id": 10,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I do not think it will be any longer than that."
+    },
+    {
+      "id": 11,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "OK. I thought an hour without even remembering the testimony. OK, so if we then finish up at maybe 11.30 or quarter to 12, as long as we have an hour and a half recess, then we would stand in recess until 1.30. Let us see. Mr. Marro, would you bring in Mr. Vujanovic, please? ^^ MIRKO VUJANOVIC, recalled."
+    },
+    {
+      "id": 12,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Vujanovic, you understand that you are still under the oath that you took when you last testified to tell the truth, do you not? Mr. Vujanovic, can you hear me? Mr. Vujanovic, you are still under the oath that you took when you last testified to tell the truth. Do you understand that? Mr. Marro -- Mr. Vujanovic, can you hear me? Mr. Vujanovic, you are still under the oath that you took when you last testified to tell the truth. Do you understand that?"
+    },
+    {
+      "id": 13,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, it is quite clear."
+    },
+    {
+      "id": 14,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. Mr. Tieger, you may continue."
+    },
+    {
+      "id": 15,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, your Honour."
+    },
+    {
+      "id": 16,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Good morning, Mr. Vujanovic, during your previous testimony ----",
+      "examination": "cross"
+    },
+    {
+      "id": 17,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Good morning.",
+      "reply_to": 16
+    },
+    {
+      "id": 18,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "--- you discussed the register or timetable of shifts which you prepared, and explained to us how that document was supposed to be prepared. As I understand it, you would obtain your information from a daily schedule which was prepared by the station Commander?",
+      "examination": "cross"
+    },
+    {
+      "id": 19,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 18
+    },
+    {
+      "id": 20,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That daily schedule was prepared a day before the shifts were actually supposed to work?",
+      "examination": "cross"
+    },
+    {
+      "id": 21,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 20
+    },
+    {
+      "id": 22,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Then after the scheduled shift ----",
+      "examination": "cross"
+    },
+    {
+      "id": 23,
+      "speaker": "MR. MARRO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, may I just, please, we have no transcript. Would you mind to stop just a little moment, please, because it is very difficult to follow? If you could just stop for a few seconds?"
+    },
+    {
+      "id": 24,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, we will."
+    },
+    {
+      "id": 25,
+      "speaker": "MR. MARRO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Oh, it is working. Thank you very much. It is now working."
+    },
+    {
+      "id": 26,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "How much have you missed or what is the last entry that you have on your transcript?"
+    },
+    {
+      "id": 27,
+      "speaker": "MR. MARRO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "None. We have none. We have none until now."
+    },
+    {
+      "id": 28,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "OK. Then we will begin again. Mr. Tieger, would you begin, please?"
+    },
+    {
+      "id": 29,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Vujanovic, because the earlier questions and answers did not appear on the written transcript, I am going to ask you those questions once more. The information ----"
+    },
+    {
+      "id": 30,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "All right.",
+      "reply_to": 22
+    },
+    {
+      "id": 31,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "--- which you used to prepare the timetable of shifts or register of shifts was obtained from a daily schedule which was prepared by the station Commander?",
+      "examination": "cross"
+    },
+    {
+      "id": 32,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 31
+    },
+    {
+      "id": 33,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That daily schedule was prepared the day before the shifts were actually supposed to work?",
+      "examination": "cross"
+    },
+    {
+      "id": 34,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 33
+    },
+    {
+      "id": 35,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "After the scheduled shift, the shift leader was supposed to report to the station Commander if someone had missed the shift, is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 36,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Any change would be entered in the timetable.",
+      "reply_to": 35
+    },
+    {
+      "id": 37,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "By the \"timetable\" you mean the daily schedule?",
+      "examination": "cross"
+    },
+    {
+      "id": 38,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, the daily schedule.",
+      "reply_to": 37
+    },
+    {
+      "id": 39,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Then that daily schedule was passed on to you and you entered the information the day after the scheduled shift?",
+      "examination": "cross"
+    },
+    {
+      "id": 40,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 39
+    },
+    {
+      "id": 41,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The daily schedule was supposed to be thrown out or discarded after a period of time and probably not more than two years, I believe you indicated?",
+      "examination": "cross"
+    },
+    {
+      "id": 42,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, yes. Yes, that is right.",
+      "reply_to": 41
+    },
+    {
+      "id": 43,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The timetable or register of shifts which you prepared was preserved?",
+      "examination": "cross"
+    },
+    {
+      "id": 44,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, the work list was preserved.",
+      "reply_to": 43
+    },
+    {
+      "id": 45,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "OK, and by \"work list\" you are referring to the document which you prepared and which you discussed in your earlier testimony?",
+      "examination": "cross"
+    },
+    {
+      "id": 46,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 45
+    },
+    {
+      "id": 47,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "For clarification, I will continue to call that a work list and that is the document which you prepared on the basis of the daily schedule?",
+      "examination": "cross"
+    },
+    {
+      "id": 48,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 47
+    },
+    {
+      "id": 49,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This Court heard from major of police, Djuro Prpos, that there is an official duty plan that was prepared by or under the authority of the Commander. Are you familiar with that document?",
+      "examination": "cross"
+    },
+    {
+      "id": 50,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Djuro worked in a different station and I do not know what kind of a timetable they had.",
+      "reply_to": 49
+    },
+    {
+      "id": 51,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know whether the Commander of your station prepared an official duty plan which was contained in a book and which was preserved?",
+      "examination": "cross"
+    },
+    {
+      "id": 52,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I think that he would only make a draft, and then on the basis of that draft a daily schedule was made.",
+      "reply_to": 51
+    },
+    {
+      "id": 53,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You are not familiar with any book known as Raspored Sluzbe?",
+      "examination": "cross"
+    },
+    {
+      "id": 54,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, no.",
+      "reply_to": 53
+    },
+    {
+      "id": 55,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know one way or another whether the Commander of your station prepared a document for his own purposes or for other record keeping purposes from which the daily timetable or the daily schedule was taken?",
+      "examination": "cross"
+    },
+    {
+      "id": 56,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I kept the records that I am familiar with. As far as other records are concerned, whether they kept them for their own purposes, for their own personal needs, I really do not know.",
+      "reply_to": 55
+    },
+    {
+      "id": 57,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So in your particular case, you did not have access to any document from which the daily schedule might have been taken?",
+      "examination": "cross"
+    },
+    {
+      "id": 58,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I would only get the daily schedule as it was prepared, and then after the duty was performed I would simply enter this into the work list.",
+      "reply_to": 57
+    },
+    {
+      "id": 59,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was that daily schedule posted anywhere in the station, for example, on a bulletin board so that police officers would know what their next duty assignment was?",
+      "examination": "cross"
+    },
+    {
+      "id": 60,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The daily timetable after having been written by the Commander and signed by the Commander is given to the shift leader and then it is there in the duty station and then the policemen come in and see whatever may be of interest to them.",
+      "reply_to": 59
+    },
+    {
+      "id": 61,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "We also heard from Mr. Prpos and from other officers that there are duty reports or patrol reports which are prepared by the officers engaged in that particular patrol or by the shift leader. Are you aware of those documents?",
+      "examination": "cross"
+    },
+    {
+      "id": 62,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Such documents existed only in the case of extraordinary affairs conducted by the police, but there are no patrol orders within the regular police affairs.",
+      "reply_to": 61
+    },
+    {
+      "id": 63,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "For record keeping purposes, they would not be submitted to you, is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 64,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I did not have an opportunity to receive such documents.",
+      "reply_to": 63
+    },
+    {
+      "id": 65,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "But you are aware that such documents existed and were prepared?",
+      "examination": "cross"
+    },
+    {
+      "id": 66,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Specifically in this period during which I worked, no, I am not familiar with that.",
+      "reply_to": 65
+    },
+    {
+      "id": 67,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You are aware of duty reports in general?",
+      "examination": "cross"
+    },
+    {
+      "id": 68,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not quite understand your question.",
+      "reply_to": 67
+    },
+    {
+      "id": 69,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In general, you are aware that there are reports, duty reports or patrol reports, which are filled out by shift leaders or officers in the field?",
+      "examination": "cross"
+    },
+    {
+      "id": 70,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I only know that there are patrol reports or patrol orders. I am not aware of duty reports or work reports or work orders.",
+      "reply_to": 69
+    },
+    {
+      "id": 71,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The patrol reports or patrol orders or patrol warrants contain information such as the duty to be performed, what happened on the shift, at what times those things happened, where they occurred and so on?",
+      "examination": "cross"
+    },
+    {
+      "id": 72,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, this is part of the patrol reports. After the duty performed and after regular service, then there are reports that are filed in.",
+      "reply_to": 71
+    },
+    {
+      "id": 73,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Vujanovic, let me ask you at this point to look for a moment at Exhibit 74A, the August 1992 work list. You now have that document in front of you, sir?",
+      "examination": "cross"
+    },
+    {
+      "id": 74,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do.",
+      "reply_to": 73
+    },
+    {
+      "id": 75,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Looking at August 21st on that work list, it indicates that Dusko Tadic was working out of Prijedor station 1 on patrol 4, which was the area of the bus and railway station?",
+      "examination": "cross"
+    },
+    {
+      "id": 76,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 75
+    },
+    {
+      "id": 77,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On the shift from ----",
+      "examination": "cross"
+    },
+    {
+      "id": 78,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 77
+    },
+    {
+      "id": 79,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "--- 6.00 to 1400 hours?",
+      "examination": "cross"
+    },
+    {
+      "id": 80,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 79
+    },
+    {
+      "id": 81,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That information was taken from the daily schedule?",
+      "examination": "cross"
+    },
+    {
+      "id": 82,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 81
+    },
+    {
+      "id": 83,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Its accuracy depends on whether the shift leader accurately reported whether Mr. Tadic was there, assuming that the shift Commander accurately conveyed that information on the schedule and assuming that it was all written down accurately?",
+      "examination": "cross"
+    },
+    {
+      "id": 84,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "When the entire procedure is completed, then I enter this into the work list on the basis of the daily schedule.",
+      "reply_to": 83
+    },
+    {
+      "id": 85,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Its accuracy depends on some of the factors I just mentioned?",
+      "examination": "cross"
+    },
+    {
+      "id": 86,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is the way it should be.",
+      "reply_to": 85
+    },
+    {
+      "id": 87,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, at this point may the witness be presented with a document, a copy of which is present in Banja Luka and which is marked PA1? The translation is PA2."
+    },
+    {
+      "id": 88,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You have that, Miss de Bertodano, Mr. Kay? You do have that in front of you PA1."
+    },
+    {
+      "id": 89,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Not as supplied, but we do have a copy of the particular document that is going to be produced."
+    },
+    {
+      "id": 90,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, I would like that marked for identification as Prosecution 356. Mr. Vujanovic, I do not know if other daily schedules have survived, but this is a document which was provided to the Prosecution by the Defence and which they explained they received from the Prijedor police. This document states in the upper right-hand corner that it is page 5 of the daily schedule of shifts for Prijedor station 1 for August 21st 1992, is that right?"
+    },
+    {
+      "id": 91,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On the basis of this timetable I cannot -- I mean, I have to look at the work list that I kept also. I have to compare.",
+      "reply_to": 85
+    },
+    {
+      "id": 92,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "We will be doing that in just a moment, sir. But this appears to be the daily schedule for August 21st, 1992, correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 93,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is what it says here, but I cannot before seeing the work list, it is only on that basis that I can draw a conclusion.",
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This document bears the stamp of Republika Srpska, Banja Luka security service, Prijedor police station?",
+      "examination": "cross"
+    },
+    {
+      "id": 95,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 94
+    },
+    {
+      "id": 96,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, I tender this document for admission."
+    },
+    {
+      "id": 97,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Any objection?"
+    },
+    {
+      "id": 98,
       "speaker": "MISS DE BERTODANO",
       "role": "counsel",
       "is_accused": false,
       "type": "statement",
-      "text": "Your Honour, it appears from the witness's 2 answers to the previous questions that he has not seen these 3 documents before, that he has had no connection with them, that 4 they, in fact, come from another police station and, therefore, 5 they cannot be admitted through this witness."
+      "text": "No, your Honour."
     },
     {
-      "id": 2,
+      "id": 99,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Prosecution 356 will be admitted. A will be in Serbo-Croatian and B the translation?"
+    },
+    {
+      "id": 100,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour."
+    },
+    {
+      "id": 101,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, if I could have a copy of the translation as well?"
+    },
+    {
+      "id": 102,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We have copies for the Court. I am just passing out copies to the Court at the moment, Mr. Vujanovic. Mr. Vujanovic, can you still hear me? Mr. Vujanovic, the policemen on this daily schedule for sector 4 are listed in three different groups of eight or seven, is that correct?"
+    },
+    {
+      "id": 103,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 94
+    },
+    {
+      "id": 104,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Those groups represent the three different shifts?",
+      "examination": "cross"
+    },
+    {
+      "id": 105,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is right.",
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "At the top of the page in the first above those columns the times of the shifts are listed? At the far left 6 to 1400, in the middle the 14 to 2100 shift and in the right the 2100 to 6.00 a.m. shift?",
+      "examination": "cross"
+    },
+    {
+      "id": 107,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that is the time spent on duty.",
+      "reply_to": 106
+    },
+    {
+      "id": 108,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Looking at the 1400 to 2100 shift for August 21st, who was the third policeman listed for group 4?",
+      "examination": "cross"
+    },
+    {
+      "id": 109,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Could you please repeat your question? I have not quite understood it.",
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sure. For sector 4, the railway and bus station area, who was the third policeman listed for the 1400 to 2100 shift?",
+      "examination": "cross"
+    },
+    {
+      "id": 111,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The third policeman is Tadic, Dusko.",
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you remember the time which appeared for Dusko Tadic for August 21st on the August work list which you prepared?",
+      "examination": "cross"
+    },
+    {
+      "id": 113,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I would have to have a look at it, if possible. If I can have a look at an excerpt from the work list, please?",
+      "reply_to": 112
+    },
+    {
+      "id": 114,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Please. It is Exhibit 74A. Now that you are looking at the work list, Mr. Vujanovic, which shift does it show that Dusko Tadic worked on on August 21st?",
+      "examination": "cross"
+    },
+    {
+      "id": 115,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On 21st August it says that he worked in the fourth sector from 6 to 1400 hours.",
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So the work list says he worked from 6 to 1400 hours and the daily schedule for the same day says he worked from 1400 to 2100 hours?",
+      "examination": "cross"
+    },
+    {
+      "id": 117,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "According to this information here, if you look at the right-hand box on the top, this was written in subsequently because regularly it is not entered as such.",
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What was written subsequently?",
+      "examination": "cross"
+    },
+    {
+      "id": 119,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We attach the fifth page of the daily timetable of services in the police station of August 21st 1992 with the remark that daily timetables of the police employees were -- and the rest is illegible.",
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes, I understand that. That is a note from the police station indicating what this document is. That is the Prijedor police station saying that this is ----",
+      "examination": "cross"
+    },
+    {
+      "id": 121,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not know who signed this document, I mean, who wrote in -- wrote this in subsequently.",
+      "reply_to": 120
+    },
+    {
+      "id": 122,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "No, I appreciate that, sir, but this is the document which was provided by the Prijedor police station as the daily schedule, as a copy of the daily schedule, for August 21st 1992, bearing the stamp of the police station for Republika Srpska, Banja Luka security services, Prijedor station?",
+      "examination": "cross"
+    },
+    {
+      "id": 123,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Also there is a stamp, a seal, at the bottom of the page where the Commander signed this daily schedule.",
+      "reply_to": 122
+    },
+    {
+      "id": 124,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So you do not know who is responsible for the discrepancy between the two, sir -- you or the person who provided this document?",
+      "examination": "cross"
+    },
+    {
+      "id": 125,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Most probably it is a technical error, a typographical error when it was typed out, the schedule. Perhaps it is 12th August 1992, because if you look at the date of 12th of this same month it says that Tadic worked in sector 4 from 14 to 2100 hours. So, probably it is a technical error when it was typed out because the schedule that is signed by the Commander has to be accurate.",
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Certainly there is no possibility of any human error in transcribing these things or any purposeful change of the schedule?",
+      "examination": "cross"
+    },
+    {
+      "id": 127,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not think so; only perhaps a technical error when typing it out, the Secretary who typed this out, the typist.",
+      "reply_to": 126
+    },
+    {
+      "id": 128,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, let us move on for a moment then to Exhibit 78A, the September work list. Do you have that document in front of you now, sir?",
+      "examination": "cross"
+    },
+    {
+      "id": 129,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do.",
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This document indicates that on September 1st Dusko Tadic worked at patrol 4, the railway and bus station area, on the 600 to 1400 hour shift. Correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 131,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 130
+    },
+    {
+      "id": 132,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I am sorry, which Exhibit is this now?"
+    },
+    {
+      "id": 133,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "78A, your Honour. [To the witness]: The same shift on September 2nd, at the same place. The 2100 to 600 hour shift on September 3rd to the morning of September 4th at the same place. Then on the 5th ----"
+    },
+    {
+      "id": 134,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There was a break in the link so I did not quite understand your question.",
+      "reply_to": 130
+    },
+    {
+      "id": 135,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I am just trying to run quickly through the information shown on the work list. I had mentioned that on September 2nd the work list indicates that he worked at sector 4 on the 600 to 1400 hour shift; that on 3rd September he worked ----",
+      "examination": "cross"
+    },
+    {
+      "id": 136,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 135
+    },
+    {
+      "id": 137,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "--- again at the railway and bus station area on the 2100 hour shift which began on September 3rd to 600 hours on September 4th?",
+      "examination": "cross"
+    },
+    {
+      "id": 138,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 137
+    },
+    {
+      "id": 139,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On the 4th from 2100 to 600?",
+      "examination": "cross"
+    },
+    {
+      "id": 140,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 139
+    },
+    {
+      "id": 141,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On 5th he did not show up to work, although he was scheduled to do so?",
+      "examination": "cross"
+    },
+    {
+      "id": 142,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "According to the previous shift, he should have been working from 14 to 2100 hours but he did not work that day.",
+      "reply_to": 141
+    },
+    {
+      "id": 143,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "OK. Then so on until through 8th and until 9th?",
+      "examination": "cross"
+    },
+    {
+      "id": 144,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 143
+    },
+    {
+      "id": 145,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Those were all at the railway and bus station area in central Prijedor?",
+      "examination": "cross"
+    },
+    {
+      "id": 146,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that is correct.",
+      "reply_to": 145
+    },
+    {
+      "id": 147,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "For Prijedor station 1?",
+      "examination": "cross"
+    },
+    {
+      "id": 148,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Police station Prijedor 1.",
+      "reply_to": 147
+    },
+    {
+      "id": 149,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Again all that information is supposed to show where Dusko Tadic was, assuming that the shift leader accurately reported his presence or absence, that the shift Commander accurately recorded it on the daily schedule or reported it to you and assuming that it was accurately recorded?",
+      "examination": "cross"
+    },
+    {
+      "id": 150,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The shift leader's duty was to inform the station Commander of any change which the Commander would take over from the shift leader every morning when he came to work.",
+      "reply_to": 149
+    },
+    {
+      "id": 151,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That was one of the factors on which the accuracy of the work list was dependent?",
+      "examination": "cross"
+    },
+    {
+      "id": 152,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Precisely so.",
+      "reply_to": 151
+    },
+    {
+      "id": 153,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, I would like to have a number of documents marked as the next Prosecution Exhibit for identification. Those documents in Banja Luka and here have been marked as PC1 and 1A, PC2. The translations are marked as PC4, PC5, PC6 and PC7. I mention that both for the benefit of the persons in Banja Luka and also so the Court will understand the notations on these documents."
+    },
+    {
+      "id": 154,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Do you have a copy of those, Miss de Bertodano?"
+    },
+    {
+      "id": 155,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I believe I do, your Honour."
+    },
+    {
+      "id": 156,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "OK. Those then will be marked as -- what Prosecution Exhibit then, Mr. Tieger?"
+    },
+    {
+      "id": 157,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "357."
+    },
+    {
+      "id": 158,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "357."
+    },
+    {
+      "id": 159,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Perhaps if we could have copies anyway just so I can check that the documents I have in front of me are the ones Mr. Tieger is referring to?"
+    },
+    {
+      "id": 160,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "When those are tendered and marked for identification purposes, then the usher -- he can actually show them to you first. Do you have a copy of those, Mr. Tieger?"
+    },
+    {
+      "id": 161,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour, we do. For the Registrar's purposes, it might be best to indicate PC1, PC1A and PC2 as 357A, and PC4 through 7 which are the translations as 357B."
+    },
+    {
+      "id": 162,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Miss de Bertodano, are you marking on the copy that the usher gave you to look at?"
+    },
+    {
+      "id": 163,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I thought that was a copy for the Defence, your Honour."
+    },
+    {
+      "id": 164,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I thought it was going to be marked. Is there another copy?"
+    },
+    {
+      "id": 165,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, there is, your Honour."
+    },
+    {
+      "id": 166,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That will be then marked for identification purposes as Prosecution 357A and then B will be the translation. You may proceed, Mr. Tieger."
+    },
+    {
+      "id": 167,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, your Honour. [To the witness]: Could PC1, the page which has that reference, be presented to the witness, please? In fact, let us show the witness PC1, 1A and PC2. Mr. Vujanovic, these are also documents which were provided to the Prosecution by the Defence and which we were advised by them they received from the Prijedor police. You can see marked on those documents that they are from the Ministry of the Interior for the Serbian Republic of Bosnia and Herzegovina, security services Banja Luka, and they bear the stamp of Republika Srpska, is that right?"
+    },
+    {
+      "id": 168,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I see that.",
+      "reply_to": 151
+    },
+    {
+      "id": 169,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, I tender these for admission."
+    },
+    {
+      "id": 170,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Is there any objection?"
+    },
+    {
+      "id": 171,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, your Honour."
+    },
+    {
+      "id": 172,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "357A and B will be admitted."
+    },
+    {
+      "id": 173,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Vujanovic, these are the patrol reports or patrol warrants of the type we discussed earlier, correct?"
+    },
+    {
+      "id": 174,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 151
+    },
+    {
+      "id": 175,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Let me direct your attention to the page which is marked \"PC1\". Let us look at the report which is on the left side. This is a patrol report or a patrol warrant for a group which worked on September 1st, 1992, correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 176,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This patrol orders something I am not familiar with. They do not belong to the police station Prijedor 1 and, as far as I can see, they belong to the Kozarac police station, so that I am not familiar with them.",
+      "reply_to": 175
+    },
+    {
+      "id": 177,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Just looking at the document, sir, you can see that it indicates a patrol for September 1st 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 178,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, with regard to the admission of these documents, having said that there was no objection, it seems that these cannot be admitted through this witness because he has never seen them before."
+    },
+    {
+      "id": 179,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Vujanovic, would you take your earphones off, please?"
+    },
+    {
+      "id": 180,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Go ahead, Miss de Bertodano."
+    },
+    {
+      "id": 181,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, it appears from the witness's answers to the previous questions that he has not seen these documents before, that he has had no connection with them, that they, in fact, come from another police station and, therefore, they cannot be admitted through this witness."
+    },
+    {
+      "id": 182,
       "speaker": "THE PRESIDING JUDGE",
       "role": "judge",
       "is_accused": false,
@@ -21,23 +1583,1259 @@
       "text": "Mr. Tieger?"
     },
     {
-      "id": 3,
+      "id": 183,
       "speaker": "MR. TIEGER",
       "role": "counsel",
       "is_accused": false,
       "type": "statement",
-      "text": "Your Honour, this is a rather extraordinary objection, 8 not only in terms of its timing, but in terms of its content. 9 These are documents which were provided to the Prosecution by 10 the Defence and which they represented to us had come from the 11 Prijedor police and for which they had seen the originals. The Court will recall very early in this trial 13 documents were admitted on the very basis of that representation 14 by the Defence. I refer specifically to the mobilization list 15 which was introduced and admitted quite some time ago and 16 presented to a witness who knew nothing about it. But based on 17 those representations by the Defence, the document was, in fact, 18 admitted. This is a document for which a foundation has been 20 laid, and that is that it came from the Prijedor police, the 21 same organisation which provided the documents which have been 22 the subject of some discussion for several days this week. Any 23 objection about this witness's knowledge or lack of knowledge 24 could only go to the weight to be given this document as well as 25 the other documents. I have no problem with the argument that, in so far as 27 all these documents are concerned, there may be a serious 28 question about the weight, but clearly this particular document or this particular set of documents provided by the Prijedor police shed light on the weight to be given the other documents. 4 MISS DE BERTODANO: Your Honour, if I might just respond to that? The mobilization lists to which Mr. Tieger referred were presented through an expert witness to comment on the lists. That is a quite different situation from a witness of fact commenting on something which he has never, in fact, seen before. I am not objecting in principle to these documents, but only to the fact that they cannot be brought in through this witness because he cannot comment on them. 12 MR. TIEGER: Your Honour, if I may say, they are not being brought in through this witness, they are being presented to this witness and brought into the foundation laid by the Defence. 15 THE PRESIDING JUDGE: OK. I will overrule your objection. It will go to the weight. 357A and B are still in. The only problem that you will have, of course, since he did not prepare these entries, I do not know how you are going to impeach any prior testimony or whatever that he may have given. I do not know what your intent was, but in any case let us see where you are going. Mr. Vujanovic, thank you. Mr. Vujanovic, can you hear me? 24 THE WITNESS: Yes, I can. 25 THE PRESIDING JUDGE: You may continue. 26 MR. TIEGER: Thank you, your Honour. 27 Q. Mr. Vujanovic, looking again at the patrol report on the left side of the page of PC1, that indicates, does it not, that it is a patrol report for a shift of September 1st 1992? Is that right, sir? I did not hear any answer. 3 A. I have not understood the question. Would you please be so kind as to repeat it? 5 Q. Certainly. I am directing your attention to the patrol report on the left side of the page and simply asking whether it indicates that is a patrol for September 1st 1992. 8 THE PRESIDING JUDGE: It appears we have lost the sound. 9 THE WITNESS: The sound was lost. 10 THE PRESIDING JUDGE: Mr. Vujanovic, would you please repeat your answer? We did not have the sound. 12 THE WITNESS: Since I am working on these things and I know of such documents, patrol instructions and so on, but these documents that I have before me I am not familiar with, nor am I competent or authorised to provide any kind of information regarding those documents. 17 MR. TIEGER: Let me quickly direct your attention then to the page marked \"PC2\". On the left side of the page we see a patrol report. The date on that patrol report on this document is September 3rd 1992, correct? 21 A. September 3rd 1992, yes. 22 Q. The hours indicated are 17.30 to 600? 23 A. From 17 to 600. 24 Q. In the area of Vidovici? 25 A. I am not familiar with that. 26 Q. That is what the document says, however, right? 27 A. I do not even know whether Vidovici exists in that region there. 28 Q. The particular duty is reconnaissance duty; that is listed at the top of the document? 2 A. Yes. 3 Q. The leader of the patrol of a total of six people is Dusko Tadic? 5 A. That is what it says in this document. 6 Q. So this document shows Dusko Tadic patrolling in Vidovici, whether or not it exists, at the same time that your work list has him working at the bus and railway station in central Prijedor? 10 A. Could I please receive an extract from the work list? 11 Q. Please, that is 78A. What time does your work list, Exhibit 78A, say that Dusko Tadic was working at the railway and bus station? 14 A. On September 3rd he worked from 21 to 6 hours in the morning. 15 Q. According to the work list? 16 A. Yes. 17 MR. TIEGER: Your Honour, that is all I have. 18 THE PRESIDING JUDGE: Miss de Bertodano? 19 MISS DE BERTODANO: Thank you, your Honour."
+      "text": "Your Honour, this is a rather extraordinary objection, not only in terms of its timing, but in terms of its content. These are documents which were provided to the Prosecution by the Defence and which they represented to us had come from the Prijedor police and for which they had seen the originals. The Court will recall very early in this trial documents were admitted on the very basis of that representation by the Defence. I refer specifically to the mobilization list which was introduced and admitted quite some time ago and presented to a witness who knew nothing about it. But based on those representations by the Defence, the document was, in fact, admitted. This is a document for which a foundation has been laid, and that is that it came from the Prijedor police, the same organisation which provided the documents which have been the subject of some discussion for several days this week. Any objection about this witness's knowledge or lack of knowledge could only go to the weight to be given this document as well as the other documents. I have no problem with the argument that, in so far as all these documents are concerned, there may be a serious question about the weight, but clearly this particular document or this particular set of documents provided by the Prijedor police shed light on the weight to be given the other documents."
     },
     {
-      "id": 4,
+      "id": 184,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, if I might just respond to that? The mobilization lists to which Mr. Tieger referred were presented through an expert witness to comment on the lists. That is a quite different situation from a witness of fact commenting on something which he has never, in fact, seen before. I am not objecting in principle to these documents, but only to the fact that they cannot be brought in through this witness because he cannot comment on them."
+    },
+    {
+      "id": 185,
       "speaker": "MR. TIEGER",
       "role": "counsel",
       "is_accused": false,
       "type": "statement",
-      "text": "21 Q. Mr. Vujanovic, if I could take you back to the daily schedule which was marked Prosecution 356, and if a copy of that could be put in front of you? If we look at the note in the top right-hand corner, you told us that you thought that would have been written on later, is that right? 26 A. Yes, the regular daily schedule does not include any such remarks, so this was written in later. 28 Q. You cannot see who has signed that part at the top right-hand corner? 2 A. According to this signature, I cannot tell who signed it. 3 Q. You also pointed out that there was another stamp at the bottom right-hand side of the page. Do you see that? 5 A. Yes, I do. 6 Q. Would that stamp normally be on a daily schedule? 7 A. In the lower right-hand corner it is normal and not in the upper right-hand corner. 9 Q. Would the schedule normally be signed by someone? 10 A. The daily schedule is signed by the station Commander. 11 Q. Can you see a signature of that sort on that daily schedule? 12 A. Because the copy is highly illegible I cannot tell whose signature it is. 14 Q. But do you see that there is a signature there? 15 A. I do, I do, yes. 16 Q. In your evidence you suggested that there might be a confusion between 21st and 12th August, is that right? 18 A. According to the schedule for the date of 21st, it says that Dusko Tadic was working from 6 to 1400 hours. 20 Q. Mr. Vujanovic, I am afraid we lost some sound there so I am going to ask you to repeat your previous answer. I had asked you about the possible confusion between 12th and 21st August. 23 A. A technical error in typing was probably made; instead of \"12\" the typist typed \"21\" because, according to the date, the 12th, it appears that Dusko Tadic worked from 9 to 21 hours. 26 Q. I would like to draw your attention to some other names on that list. Could you look at the 14 to 21 hour shift at the fourth police region and the person listed at No. 5? Can you read out what you can of his name there? 2 A. Boro. 3 Q. Can you see a first letter of the surname? 4 A. The first letter is a P or an R. 5 Q. If I could ask for Exhibit 74A to be put in front of you again. If I could draw your attention to the name at 320 on that list. 7 A. I see it. 8 Q. What is the name there, so far as you can read it? 9 A. Boro. 10 Q. Again can you read an initial for the surname? 11 A. P. 12 Q. If you go along the schedule against that name to 12th August, can you tell me when and where this person was working on 12th August from that duty list? 15 A. On the basis of this work list and the daily schedule, it emerges that this person worked with Dusko Tadic in the Fourth District. 18 Q. What hours was he working according to the duty list? 19 A. From 1400 to 2100 hours. 20 Q. If you could look along a few boxes to his entry for 21st August, what hours was he working on 21st August? 22 A. Does the question refer to Boro? 23 Q. Yes, it does. 24 A. On 21st August he worked in the Fourth District from 6.00 to 1400 hours. 26 Q. Thank you. If we could go back to the daily schedule and if you would look again with regard to the Fourth Police Region, the shift from 2100 hours to 06 hours, and the seventh name listed on that shift? 2 A. Simo. 3 Q. Can you read the first letter of the surname? 4 A. S. 5 Q. On Exhibit 74, the August duty book, can I ask you to look at the name at 321? 7 A. I see it. 8 Q. What is the name written there? 9 A. \"Simo\" it says. 10 Q. Again can you read the initial of the surname? 11 A. Also S. 12 Q. If you look along his duty shifts to his shift on 12th August, can you tell us what shift he was performing on that day, according to the duty list? 15 A. On the basis of the list, he was working from 2100 to 06 hours. 16 Q. Is that the same time as he is listed as working on the daily schedule? 18 A. Yes, it is the same. 19 Q. If we look along to 21st August on the duty list, what hours is he listed as working on 21st August? 21 A. For the person under 7, under No. 7? 22 Q. Yes, but I am asking you with regard to the August '92 duty list where he is at No. 321. 24 A. For August 21st he worked in the Fourth District from 1400 to 2100 hours. 26 Q. Thank you. If I could get you to turn back to the daily schedule and look at one more name. In the Fifth Police Region on the 1400 to 2100 hours shift, could you read me the name that you see at No. 3? 2 A. It applies to the Fifth Police District. 3 Q. That is right, yes, 1400 to 2100-hour shift, and the name No. 3 on that shift? 5 A. Miroslav. 6 Q. Can you read the first initial of the surname? 7 A. S. 8 Q. I think you may be reading at No. 4. If I could ask you to look at No. 3. 10 A. In the period from 1400 to 2100 hours? 11 Q. Yes, at No. 3 in the Fifth Police Region. 12 A. Miroslav? 13 Q. Yes, and the initial of the surname? 14 A. C. 15 Q. Thank you. 16 A. C. 17 Q. If we look to the August 1992 duty list and we look to No. 318 on that list? 19 A. I see it. 20 Q. Can you read the name that appears there? 21 A. Miroslav. 22 Q. And the initial of the surname, if you can see it? 23 A. I see it, C. 24 Q. If we look along his hours for August to 12th August, can you tell us what hours he was working on 12th August? 26 A. On 12th August he was working from 1400 to 2200 hours. 27 Q. If we look further along to 21st August, what hours was he working on that day? 1 A. On 21st August, from 6 to 1400 hours. 2 Q. Thank you very much. Those Exhibits can now be returned to the Registry. 4 THE PRESIDING JUDGE: Mr. Tieger, do you have additional -- I am sorry. 6 MISS DE BERTODANO: I had not finished, your Honour. 7 THE PRESIDING JUDGE: I am just rushing you right along! I am sorry. 8 MISS DE BERTODANO: (To the witness): You were shown by Mr. Tieger some patrol warrants and you told us that you were not familiar with these warrants, is that right? 11 A. That is right. 12 Q. Were you familiar with anything that happened at Kozarac police station? 14 A. I had no contact with them. 15 Q. Do you know who wrote those warrants? 16 A. I do not know. 17 Q. Can you say whether they are genuine or not? 18 A. I cannot say anything. 19 Q. However, the records that you have shown us from Prijedor police station are based on a system, as you have outlined to us, and a system which you had worked at regularly during 1992, is that right? 23 A. Yes. 24 MISS DE BERTODANO: Nothing further, your Honour. 25 THE PRESIDING JUDGE: Mr. Tieger? 26 MR. TIEGER: No, your Honour, nothing further. 27 THE PRESIDING JUDGE: Is there any objection to Mr. Vujanovic being permanently excused? 1 MR. TIEGER: Yes, your Honour, there is. 2 THE PRESIDING JUDGE: Mr. Vujanovic, you are free to leave. However, you are not permanently excused. You may be recalled for testimony. So, please keep in touch with Mr. Wladimiroff and, if it is necessary for you to return to give additional testimony before the Tribunal, we will tell you. Will you do that? 8 THE WITNESS: There is no problem whatsoever. If necessary I will be there. 10 THE PRESIDING JUDGE: Thank you, Mr. Vujanovic. You are now excused. 12 THE WITNESS: You are welcome. (The witness withdrew). 14 THE PRESIDING JUDGE: Well, the timing worked well. It is 10 minutes to 12.00. I understand you will hear something regarding Mr. Budimir at 12.00. We will stand in recess for lunch, but if you will let us now what you hear we will be here in the building. 19 MR. KAY: Your Honour, I heard slightly earlier that it would be 1.00 or after 1.00 o'clock from the Registry. Miss Featherstone had spoken directly to Mr. Marro. 22 THE PRESIDING JUDGE: Mr. Bos told me 12.00. Where are we? 23 MR. KAY: Let them fight it out! 24 THE PRESIDING JUDGE: That is OK. You spoke last to Mr. Marro. 25 MISS FEATHERSTONE: I did, yes. He said 1.00 o'clock. 26 THE PRESIDING JUDGE: He said 1.00 o'clock. Does that pose a problem? We could still begin at 1.30. We will either begin with Mr. Budimir testifying via video link or we will not hear 1 any more testimony, as I understand it, this afternoon since you 2 do not have any more witnesses. They are coming this weekend 3 and then Mr. Budimir would come next week."
+      "text": "Your Honour, if I may say, they are not being brought in through this witness, they are being presented to this witness and brought into the foundation laid by the Defence."
     },
     {
-      "id": 5,
+      "id": 186,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "OK. I will overrule your objection. It will go to the weight. 357A and B are still in. The only problem that you will have, of course, since he did not prepare these entries, I do not know how you are going to impeach any prior testimony or whatever that he may have given. I do not know what your intent was, but in any case let us see where you are going. Mr. Vujanovic, thank you. Mr. Vujanovic, can you hear me?"
+    },
+    {
+      "id": 187,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, I can."
+    },
+    {
+      "id": 188,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You may continue."
+    },
+    {
+      "id": 189,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, your Honour."
+    },
+    {
+      "id": 190,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Vujanovic, looking again at the patrol report on the left side of the page of PC1, that indicates, does it not, that it is a patrol report for a shift of September 1st 1992? Is that right, sir? I did not hear any answer.",
+      "examination": "cross"
+    },
+    {
+      "id": 191,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I have not understood the question. Would you please be so kind as to repeat it?",
+      "reply_to": 190
+    },
+    {
+      "id": 192,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Certainly. I am directing your attention to the patrol report on the left side of the page and simply asking whether it indicates that is a patrol for September 1st 1992.",
+      "examination": "cross"
+    },
+    {
+      "id": 193,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It appears we have lost the sound."
+    },
+    {
+      "id": 194,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The sound was lost."
+    },
+    {
+      "id": 195,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Vujanovic, would you please repeat your answer? We did not have the sound."
+    },
+    {
+      "id": 196,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Since I am working on these things and I know of such documents, patrol instructions and so on, but these documents that I have before me I am not familiar with, nor am I competent or authorised to provide any kind of information regarding those documents."
+    },
+    {
+      "id": 197,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Let me quickly direct your attention then to the page marked \"PC2\". On the left side of the page we see a patrol report. The date on that patrol report on this document is September 3rd 1992, correct?"
+    },
+    {
+      "id": 198,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "September 3rd 1992, yes.",
+      "reply_to": 192
+    },
+    {
+      "id": 199,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The hours indicated are 17.30 to 600?",
+      "examination": "cross"
+    },
+    {
+      "id": 200,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "From 17 to 600.",
+      "reply_to": 199
+    },
+    {
+      "id": 201,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In the area of Vidovici?",
+      "examination": "cross"
+    },
+    {
+      "id": 202,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I am not familiar with that.",
+      "reply_to": 201
+    },
+    {
+      "id": 203,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That is what the document says, however, right?",
+      "examination": "cross"
+    },
+    {
+      "id": 204,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not even know whether Vidovici exists in that region there.",
+      "reply_to": 203
+    },
+    {
+      "id": 205,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The particular duty is reconnaissance duty; that is listed at the top of the document?",
+      "examination": "cross"
+    },
+    {
+      "id": 206,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 205
+    },
+    {
+      "id": 207,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The leader of the patrol of a total of six people is Dusko Tadic?",
+      "examination": "cross"
+    },
+    {
+      "id": 208,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is what it says in this document.",
+      "reply_to": 207
+    },
+    {
+      "id": 209,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So this document shows Dusko Tadic patrolling in Vidovici, whether or not it exists, at the same time that your work list has him working at the bus and railway station in central Prijedor?",
+      "examination": "cross"
+    },
+    {
+      "id": 210,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Could I please receive an extract from the work list?",
+      "reply_to": 209
+    },
+    {
+      "id": 211,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Please, that is 78A. What time does your work list, Exhibit 78A, say that Dusko Tadic was working at the railway and bus station?",
+      "examination": "cross"
+    },
+    {
+      "id": 212,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On September 3rd he worked from 21 to 6 hours in the morning.",
+      "reply_to": 211
+    },
+    {
+      "id": 213,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "According to the work list?",
+      "examination": "cross"
+    },
+    {
+      "id": 214,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 213
+    },
+    {
+      "id": 215,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, that is all I have."
+    },
+    {
+      "id": 216,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Miss de Bertodano?"
+    },
+    {
+      "id": 217,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, your Honour."
+    },
+    {
+      "id": 218,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Vujanovic, if I could take you back to the daily schedule which was marked Prosecution 356, and if a copy of that could be put in front of you? If we look at the note in the top right-hand corner, you told us that you thought that would have been written on later, is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 219,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, the regular daily schedule does not include any such remarks, so this was written in later.",
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You cannot see who has signed that part at the top right-hand corner?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 221,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "According to this signature, I cannot tell who signed it.",
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You also pointed out that there was another stamp at the bottom right-hand side of the page. Do you see that?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 223,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I do.",
+      "reply_to": 222
+    },
+    {
+      "id": 224,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Would that stamp normally be on a daily schedule?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 225,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In the lower right-hand corner it is normal and not in the upper right-hand corner.",
+      "reply_to": 224
+    },
+    {
+      "id": 226,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Would the schedule normally be signed by someone?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 227,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The daily schedule is signed by the station Commander.",
+      "reply_to": 226
+    },
+    {
+      "id": 228,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you see a signature of that sort on that daily schedule?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 229,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Because the copy is highly illegible I cannot tell whose signature it is.",
+      "reply_to": 228
+    },
+    {
+      "id": 230,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "But do you see that there is a signature there?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 231,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do, I do, yes.",
+      "reply_to": 230
+    },
+    {
+      "id": 232,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In your evidence you suggested that there might be a confusion between 21st and 12th August, is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 233,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "According to the schedule for the date of 21st, it says that Dusko Tadic was working from 6 to 1400 hours.",
+      "reply_to": 232
+    },
+    {
+      "id": 234,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Mr. Vujanovic, I am afraid we lost some sound there so I am going to ask you to repeat your previous answer. I had asked you about the possible confusion between 12th and 21st August.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 235,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "A technical error in typing was probably made; instead of \"12\" the typist typed \"21\" because, according to the date, the 12th, it appears that Dusko Tadic worked from 9 to 21 hours.",
+      "reply_to": 234
+    },
+    {
+      "id": 236,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I would like to draw your attention to some other names on that list. Could you look at the 14 to 21 hour shift at the fourth police region and the person listed at No. 5? Can you read out what you can of his name there?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 237,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Boro.",
+      "reply_to": 236
+    },
+    {
+      "id": 238,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you see a first letter of the surname?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 239,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The first letter is a P or an R.",
+      "reply_to": 238
+    },
+    {
+      "id": 240,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If I could ask for Exhibit 74A to be put in front of you again. If I could draw your attention to the name at 320 on that list.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 241,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I see it.",
+      "reply_to": 240
+    },
+    {
+      "id": 242,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What is the name there, so far as you can read it?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 243,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Boro.",
+      "reply_to": 242
+    },
+    {
+      "id": 244,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Again can you read an initial for the surname?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 245,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "P.",
+      "reply_to": 244
+    },
+    {
+      "id": 246,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If you go along the schedule against that name to 12th August, can you tell me when and where this person was working on 12th August from that duty list?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 247,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On the basis of this work list and the daily schedule, it emerges that this person worked with Dusko Tadic in the Fourth District.",
+      "reply_to": 246
+    },
+    {
+      "id": 248,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What hours was he working according to the duty list?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 249,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "From 1400 to 2100 hours.",
+      "reply_to": 248
+    },
+    {
+      "id": 250,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If you could look along a few boxes to his entry for 21st August, what hours was he working on 21st August?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 251,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Does the question refer to Boro?",
+      "reply_to": 250
+    },
+    {
+      "id": 252,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes, it does.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 253,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On 21st August he worked in the Fourth District from 6.00 to 1400 hours.",
+      "reply_to": 252
+    },
+    {
+      "id": 254,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. If we could go back to the daily schedule and if you would look again with regard to the Fourth Police Region, the shift from 2100 hours to 06 hours, and the seventh name listed on that shift?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 255,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Simo.",
+      "reply_to": 254
+    },
+    {
+      "id": 256,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you read the first letter of the surname?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 257,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "S.",
+      "reply_to": 256
+    },
+    {
+      "id": 258,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On Exhibit 74, the August duty book, can I ask you to look at the name at 321?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 259,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I see it.",
+      "reply_to": 258
+    },
+    {
+      "id": 260,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What is the name written there?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 261,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "\"Simo\" it says.",
+      "reply_to": 260
+    },
+    {
+      "id": 262,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Again can you read the initial of the surname?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 263,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Also S.",
+      "reply_to": 262
+    },
+    {
+      "id": 264,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If you look along his duty shifts to his shift on 12th August, can you tell us what shift he was performing on that day, according to the duty list?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 265,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On the basis of the list, he was working from 2100 to 06 hours.",
+      "reply_to": 264
+    },
+    {
+      "id": 266,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that the same time as he is listed as working on the daily schedule?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 267,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it is the same.",
+      "reply_to": 266
+    },
+    {
+      "id": 268,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If we look along to 21st August on the duty list, what hours is he listed as working on 21st August?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 269,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "For the person under 7, under No. 7?",
+      "reply_to": 268
+    },
+    {
+      "id": 270,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes, but I am asking you with regard to the August '92 duty list where he is at No. 321.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 271,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "For August 21st he worked in the Fourth District from 1400 to 2100 hours.",
+      "reply_to": 270
+    },
+    {
+      "id": 272,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. If I could get you to turn back to the daily schedule and look at one more name. In the Fifth Police Region on the 1400 to 2100 hours shift, could you read me the name that you see at No. 3?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 273,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It applies to the Fifth Police District.",
+      "reply_to": 272
+    },
+    {
+      "id": 274,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That is right, yes, 1400 to 2100-hour shift, and the name No. 3 on that shift?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 275,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Miroslav.",
+      "reply_to": 274
+    },
+    {
+      "id": 276,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you read the first initial of the surname?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 277,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "S.",
+      "reply_to": 276
+    },
+    {
+      "id": 278,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I think you may be reading at No. 4. If I could ask you to look at No. 3.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 279,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In the period from 1400 to 2100 hours?",
+      "reply_to": 278
+    },
+    {
+      "id": 280,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes, at No. 3 in the Fifth Police Region.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 281,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Miroslav?",
+      "reply_to": 280
+    },
+    {
+      "id": 282,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes, and the initial of the surname?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 283,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "C.",
+      "reply_to": 282
+    },
+    {
+      "id": 284,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 285,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "C.",
+      "reply_to": 284
+    },
+    {
+      "id": 286,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If we look to the August 1992 duty list and we look to No. 318 on that list?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 287,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I see it.",
+      "reply_to": 286
+    },
+    {
+      "id": 288,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you read the name that appears there?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 289,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Miroslav.",
+      "reply_to": 288
+    },
+    {
+      "id": 290,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "And the initial of the surname, if you can see it?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 291,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I see it, C.",
+      "reply_to": 290
+    },
+    {
+      "id": 292,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If we look along his hours for August to 12th August, can you tell us what hours he was working on 12th August?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 293,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On 12th August he was working from 1400 to 2200 hours.",
+      "reply_to": 292
+    },
+    {
+      "id": 294,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If we look further along to 21st August, what hours was he working on that day?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 295,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On 21st August, from 6 to 1400 hours.",
+      "reply_to": 294
+    },
+    {
+      "id": 296,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you very much. Those Exhibits can now be returned to the Registry.",
+      "examination": "re-direct"
+    },
+    {
+      "id": 297,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tieger, do you have additional -- I am sorry."
+    },
+    {
+      "id": 298,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I had not finished, your Honour."
+    },
+    {
+      "id": 299,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I am just rushing you right along! I am sorry."
+    },
+    {
+      "id": 300,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "(To the witness): You were shown by Mr. Tieger some patrol warrants and you told us that you were not familiar with these warrants, is that right?"
+    },
+    {
+      "id": 301,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is right.",
+      "reply_to": 296
+    },
+    {
+      "id": 302,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you familiar with anything that happened at Kozarac police station?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 303,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I had no contact with them.",
+      "reply_to": 302
+    },
+    {
+      "id": 304,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know who wrote those warrants?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 305,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not know.",
+      "reply_to": 304
+    },
+    {
+      "id": 306,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you say whether they are genuine or not?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 307,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I cannot say anything.",
+      "reply_to": 306
+    },
+    {
+      "id": 308,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "However, the records that you have shown us from Prijedor police station are based on a system, as you have outlined to us, and a system which you had worked at regularly during 1992, is that right?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 309,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 308
+    },
+    {
+      "id": 310,
+      "speaker": "MISS DE BERTODANO",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Nothing further, your Honour."
+    },
+    {
+      "id": 311,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Tieger?"
+    },
+    {
+      "id": 312,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, your Honour, nothing further."
+    },
+    {
+      "id": 313,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Is there any objection to Mr. Vujanovic being permanently excused?"
+    },
+    {
+      "id": 314,
+      "speaker": "MR. TIEGER",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour, there is."
+    },
+    {
+      "id": 315,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Vujanovic, you are free to leave. However, you are not permanently excused. You may be recalled for testimony. So, please keep in touch with Mr. Wladimiroff and, if it is necessary for you to return to give additional testimony before the Tribunal, we will tell you. Will you do that?"
+    },
+    {
+      "id": 316,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "There is no problem whatsoever. If necessary I will be there."
+    },
+    {
+      "id": 317,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, Mr. Vujanovic. You are now excused."
+    },
+    {
+      "id": 318,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You are welcome. (The witness withdrew)."
+    },
+    {
+      "id": 319,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Well, the timing worked well. It is 10 minutes to 12.00. I understand you will hear something regarding Mr. Budimir at 12.00. We will stand in recess for lunch, but if you will let us now what you hear we will be here in the building."
+    },
+    {
+      "id": 320,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, I heard slightly earlier that it would be 1.00 or after 1.00 o'clock from the Registry. Miss Featherstone had spoken directly to Mr. Marro."
+    },
+    {
+      "id": 321,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Bos told me 12.00. Where are we?"
+    },
+    {
+      "id": 322,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Let them fight it out!"
+    },
+    {
+      "id": 323,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That is OK. You spoke last to Mr. Marro."
+    },
+    {
+      "id": 324,
+      "speaker": "MISS FEATHERSTONE",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I did, yes. He said 1.00 o'clock."
+    },
+    {
+      "id": 325,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "He said 1.00 o'clock. Does that pose a problem? We could still begin at 1.30. We will either begin with Mr. Budimir testifying via video link or we will not hear any more testimony, as I understand it, this afternoon since you do not have any more witnesses. They are coming this weekend and then Mr. Budimir would come next week."
+    },
+    {
+      "id": 326,
       "speaker": "MR. KAY",
       "role": "counsel",
       "is_accused": false,
@@ -45,12 +2843,12 @@
       "text": "That is right."
     },
     {
-      "id": 6,
+      "id": 327,
       "speaker": "THE PRESIDING JUDGE",
       "role": "judge",
       "is_accused": false,
       "type": "statement",
-      "text": "So 1.30 will work, if you hear at 1.00. If you 6 do not hear, of course, then we will be here and we will see 7 whether we will actually begin at 1.30 or whether we will have a 8 delay of waiting for a response. We do not want to lose too 9 much time because you have listed Mr. Budimir for three hours 10 and we do not want to wait too long. If we have not heard it 11 would be better for Mr. Budimir to be there available rather 12 than to lose that time and then have to use it next week, 13 because next week is pretty full. We will stand in recess until 1.30."
+      "text": "So 1.30 will work, if you hear at 1.00. If you do not hear, of course, then we will be here and we will see whether we will actually begin at 1.30 or whether we will have a delay of waiting for a response. We do not want to lose too much time because you have listed Mr. Budimir for three hours and we do not want to wait too long. If we have not heard it would be better for Mr. Budimir to be there available rather than to lose that time and then have to use it next week, because next week is pretty full. We will stand in recess until 1.30."
     }
   ],
   "procedural_notes": [
@@ -60,22 +2858,26 @@
     },
     {
       "after_utterance": 0,
+      "text": "(10.30 a.m.)"
+    },
+    {
+      "after_utterance": 15,
       "text": "Cross-examined by MR. TIEGER"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 179,
       "text": "(The witness removed his earphones)"
     },
     {
-      "after_utterance": 3,
+      "after_utterance": 217,
       "text": "Re-Examined by MISS DE BERTODANO"
     },
     {
-      "after_utterance": 6,
+      "after_utterance": 327,
       "text": "(11.55 a.m.)"
     },
     {
-      "after_utterance": 6,
+      "after_utterance": 327,
       "text": "(Luncheon Adjournment)"
     }
   ],

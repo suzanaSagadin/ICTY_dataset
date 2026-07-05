@@ -1,18 +1,23 @@
 # TODO
 
-## In progress
+## Current state (2026-07-05)
 
-- [x] **Parse transcripts** (DOC/DOCX → JSON) — currently running
-  ```
-  .venv/bin/python3 parser/run_parser.py --archive-dir archive_250625/ --output-dir data_250625/transcripts_parsed --txt-dir data_250625/transcripts_txt
-  ```
+Pipeline is complete and rerun end-to-end: **250,529 accused utterances**
+(deduped, counsel collisions excluded) in `dataset_creation/accused_utterances.csv`.
+Rebuild order: `run_parser.py` → `dedup_hearings.py` → `chunk_extracton.py` (see README).
 
-## Next steps
+## Open items
 
-- [ ] **Check transcript parser quality** on new archive results
+- [ ] **Review the 5 flagged `jankovic_g_et_al` files** (25 bare utterances) and record results in `data_250625/reports/accused_attribution_overrides.csv` (columns: `case, source_file, attributed_accused, note`) — only needed for plea filtering
+- [ ] **Wire `accused_attribution.csv` into `chunk_extracton.py`** as an `accused_name` column (named label → direct; bare label → attribution table)
+- [ ] **Regression test suite** — pin ~8 known-bad files as golden tests (plan below)
+- [ ] **Review 22 new/changed pleas rows** — see `data_250625/reports/pleas_comparison.csv`
+
+## Next steps (older)
+
+- [x] **Check transcript parser quality** on new archive results — done 2026-07-05: validator re-run clean; utterance-recognition audit + fixes (see "Data quality findings" below)
 - [x] **Update `dataset_creation/chunk_extracton.py`** — paths updated to `data_250625/`, accused detection now uses parser's `is_accused` flag instead of re-implementing matching
 - [x] **Update `dataset_overview.md`** with parser results once available
-- [ ] **Review 22 new/changed pleas rows** — see `data_250625/cis_parsed/pleas_comparison.csv`
 - [ ] **Manually check 16 cases with icty_slug but no CIS file on icty.org:**
   - IT-01-43  Obrenovic (obrenovic_old)
   - IT-01-44  Jokic (jokic_old)
@@ -57,6 +62,59 @@ That's 362 utterances out of 384,299 `is_accused=True` total (<0.1%).
 3. **Name format mismatch** — `pleas.csv` uses full names with diacritics (`ZLATKO ALEKSOVSKI`, `RADOVAN KARADŽIĆ`), speakers use labels (`MR. ALEKSOVSKI`, `THE ACCUSED`, `THE APPELLANT KORDIC`). Matching requires last-name extraction and fuzzy diacritic handling.
 
 **Decision pending:** Given guilty pleas affect <0.1% of data, plea filtering may not be worth the complexity. If needed, the simplest approach would be to hard-code exclusion of the 3 guilty-plea cases/accused rather than building general plea-matching infrastructure.
+
+**Update (2026-07-05):** Attribution of bare `THE ACCUSED`/`THE APPELLANT` labels is now solved by `parser/attribute_accused.py` → `data_250625/reports/accused_attribution.csv` (one row per transcript file with accused utterances; see dataset overview for method details). Findings:
+
+- Only **one** multi-accused case has non-uniform pleas: `jankovic_g_et_al` (Stanković guilty; Janković, Zelenović not guilty). Its hearings are per-accused (separate arrests), and the registrar's case call resolves 269/294 bare utterances; 25 remain in 5 `needs_review` files.
+- **Caveat on "guilty pleas are rare":** that counted *initial* pleas. `pleas.csv` notes show **18 more accused later changed plea to guilty** (Plavšić, both Obrenović entries, M. Nikolić, D. Nikolić, Zelenović, Jelisić, Banović, Bralo, Češić, Deronjić, Jokić, Mrđa, Rajić, M. Simić, Todorović, …). If "ever pled guilty" is the filter, ~21 people are affected, not 3 — but nearly all are single-accused cases, so attribution stays trivial.
+- Remaining work tracked under "Open items" at the top: review the 5 flagged `jankovic_g_et_al` files; wire `accused_attribution.csv` into `chunk_extracton.py`.
+
+---
+
+## Data quality findings (2026-07-05 error hunt)
+
+Validator re-run: no regressions vs. documented final state. Three new error classes found beyond the validator's coverage:
+
+### 1. Cross-folder duplicate hearings — BIG
+
+UCR files the same hearing under multiple related case numbers (joined/severed cases), so the per-case scraper downloaded them multiple times. Verified by full-text hash: **937,925 excess utterances (15.4% of corpus)** across 1,912 duplicate groups. In `accused_utterances.csv`, 225,397 rows (58.7%) sit in duplicated files → **~112k redundant rows (~29% of the dataset)**. Top pairs by excess utterances:
+
+| Pair | Excess utterances |
+|---|---|
+| karadzic_and_mladic_95-5 ↔ 95-5_18 | 311,996 (537 identical files) |
+| blaskic ↔ kordic_and_cerkez | 153,443 |
+| popovic_et_al ↔ zdravko_tolimir | 112,115 |
+| dokmanovic ↔ mrksic | 103,905 |
+| dordevic_vlastimir ↔ milutinovic_et_al_05-87 | 97,148 |
+| galic ↔ milosevic_dragomir | 71,415 |
+| lukic_et_al ↔ vasiljevic | 53,316 |
+| aleksovski ↔ blaskic | 26,034 |
+
+- [x] **Built dedup table** — `parser/dedup_hearings.py` → `data_250625/reports/hearing_dedup.csv` (1,854 groups; ownership via transcript case number > pleas data > date range > pair majority; 1 group on alphabetical fallback: Milošević 01-50/01-51 status conf, either owner fine). `chunk_extracton.py` skips non-canonical copies.
+- Note: the overview's claim that the new scraper avoids duplication only holds for *identical case numbers*, not related-case filings.
+- Within-folder duplicates are negligible (8 files, 1,253 excess utterances).
+
+### 2. `is_accused` false positives — counsel sharing the accused's surname
+
+The `MR. <lastname>` rule matches defense counsel with the same surname as their client:
+
+- `milutinovic_et_al_05-87` / `MR. LUKIC` = **Branko Lukić, counsel** for accused Sreten Lukić — 8,853 rows (conducts 109 examinations; appearance lines confirm)
+- `popovic_et_al` / `MR. NIKOLIC` = **Predrag Nikolić, attorney on Beara's team** — 1,077 rows (self-introductions in transcripts confirm)
+
+~10k rows ≈ 2.6% of `accused_utterances.csv`. (`MR. JELISIC` in jelisic_and_cesic checked and genuine: 67 statements, no examinations.)
+
+- [x] **Fixed via `parser/counsel_exclusions.csv`** — checked by `check_is_accused()` (takes effect on next re-parse) AND applied directly in `chunk_extracton.py` (effective now). Verified: counsel self-introduce ("I am Branko Lukic; I represent General Sreten Lukic"). Dataset after dedup + exclusions: 384,299 → **250,529 rows**.
+
+### 3. Files parsing to 0 utterances — NOT an error
+
+346 files parse to zero utterances; sampled ones are fully closed/private sessions ("Page 8113 to 8243 redacted - in closed session"). Correct behavior, just documenting.
+
+### 4. Utterance recognition audit (2026-07-05)
+
+- **Text coverage**: 400-file sample, parsed output vs. line-number-stripped source txt — median coverage 103% (speaker names counted on output side), no file below 94%. No text loss.
+- **Merged turns**: utterances containing another speaker's label mid-text and *not* inside a quote: 369 of 6.07M (0.006%). 277 caused by 1996-era line-number format (`23<TAB>JUDGE STEPHEN:` — single tab, `LINE_NUMBER_RE` required 2+ spaces), 255 of those in `tadic`.
+- [x] **Fixed `LINE_NUMBER_RE`** to accept a single tab after the number. Re-parse recovered +23,654 utterances (6,071,387 → 6,095,041); suspicious merges 369 → 101; inline-line-number merges 277 → 12. Accused dataset unchanged (merged turns were witness/judge/counsel speech): still **250,529 rows**.
+- Residual 101 merges (top: stakic 17) are same-line quirks like `[Trial Chamber confers]JUDGE LIU:` (no space after bracket) and `* THE WITNESS:` (stray asterisk) — rare, not worth new parser rules; many mid-text labels are legitimate read-back quotes that *should* stay embedded.
 
 ---
 

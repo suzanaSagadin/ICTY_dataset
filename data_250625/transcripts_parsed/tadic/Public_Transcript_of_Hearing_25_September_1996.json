@@ -3,7 +3,5492 @@
   "case_id_base": "IT-94-1",
   "case_id_transcript": null,
   "date": "1996-09-25",
-  "utterances": [],
+  "utterances": [
+    {
+      "id": 1,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, I call witness X. Witness X, called."
+    },
+    {
+      "id": 2,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Do you have the oath? Would you please take the oath that is being handed to you?"
+    },
+    {
+      "id": 3,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I solemnly declare that I will speak the truth, the whole truth and nothing but the truth."
+    },
+    {
+      "id": 4,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. You may be seated."
+    },
+    {
+      "id": 5,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Madam, in Court you shall be known as \"witness X\". Can you confirm the following details: do you live in [redacted]?",
+      "examination": "direct"
+    },
+    {
+      "id": 6,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 5
+    },
+    {
+      "id": 7,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "For how long have you lived there?",
+      "examination": "direct"
+    },
+    {
+      "id": 8,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Since I was born.",
+      "reply_to": 7
+    },
+    {
+      "id": 9,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Are you married or single?",
+      "examination": "direct"
+    },
+    {
+      "id": 10,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Married.",
+      "reply_to": 9
+    },
+    {
+      "id": 11,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What is your religious and ethnic background?",
+      "examination": "direct"
+    },
+    {
+      "id": 12,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "[redacted].",
+      "reply_to": 11
+    },
+    {
+      "id": 13,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, we have given personal details here that will need to be redacted and I believe a redaction mark has been set. Your Honour, if the details concerning the place where the witness lives could be removed from the public record?"
+    },
+    {
+      "id": 14,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, that request will be granted."
+    },
+    {
+      "id": 15,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "As well as the religious and ethnic background?"
+    },
+    {
+      "id": 16,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If possible."
+    },
+    {
+      "id": 17,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "When you say \"public record\", you mean the video?"
+    },
+    {
+      "id": 18,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "The transcript that is to be released and the video."
+    },
+    {
+      "id": 19,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Any objection?"
+    },
+    {
+      "id": 20,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No objection, your Honour."
+    },
+    {
+      "id": 21,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No."
+    },
+    {
+      "id": 22,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That will be granted."
+    },
+    {
+      "id": 23,
+      "speaker": "THE INTERPRETER",
+      "role": "interpreter",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Could we please ask the witness to speak into the microphone?"
+    },
+    {
+      "id": 24,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Madam, if you would come a little bit closer to the microphones, if your chair could be brought forward a little bit, because what you tell us has to be heard by the Court and translated for us. Do you know Dusko Tadic?"
+    },
+    {
+      "id": 25,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 11
+    },
+    {
+      "id": 26,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "For how long have you known him?",
+      "examination": "direct"
+    },
+    {
+      "id": 27,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Over 20 years.",
+      "reply_to": 26
+    },
+    {
+      "id": 28,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you friendly with the Tadic family?",
+      "examination": "direct"
+    },
+    {
+      "id": 29,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 28
+    },
+    {
+      "id": 30,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you related to the Tadic family?",
+      "examination": "direct"
+    },
+    {
+      "id": 31,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 30
+    },
+    {
+      "id": 32,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "[redacted]",
+      "examination": "direct"
+    },
+    {
+      "id": 33,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "[redacted]",
+      "reply_to": 32
+    },
+    {
+      "id": 34,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "[redacted]",
+      "examination": "direct"
+    },
+    {
+      "id": 35,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "[redacted]",
+      "reply_to": 34
+    },
+    {
+      "id": 36,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "[redacted]",
+      "examination": "direct"
+    },
+    {
+      "id": 37,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "[redacted]",
+      "reply_to": 36
+    },
+    {
+      "id": 38,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "[redacted]",
+      "examination": "direct"
+    },
+    {
+      "id": 39,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We are in open session. Of course, if you truly want it redacted -- you can handle it any way you want. I do not understand why the religious and ethnic background should be redacted. For all of the other witnesses we have asked that question, even those that have been protected, even those who were anonymous. I do not understand that. Then just in terms of the redaction, well, you can handle it however you want."
+    },
+    {
+      "id": 40,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It is because this witness is capable of being identified through that information."
+    },
+    {
+      "id": 41,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Through the religious and ethnic background?"
+    },
+    {
+      "id": 42,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, as a result of where she lives currently."
+    },
+    {
+      "id": 43,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If that is redacted, where she lives currently, then is the religious and ethnic background relevant? I guess my question is that in the motion that you filed at the end of the Prosecutor's case in chief, you had indicated that all of the witnesses had a bias because of their religious and ethnic background. I am wondering now whether this is something at least relevant for the Trial Chamber. That is why I asked whether you wanted it redacted just from the video or from the transcript as well."
+    },
+    {
+      "id": 44,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It is information for the Trial Chamber. It may be important to know about the background of this witness, but experience over the last few days has taught us to be very careful about the information we leave on the record concerning witnesses. We have had great concerns which had to be acted upon last night."
+    },
+    {
+      "id": 45,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "As I have indicated, in terms of the ethnic and the religious background, I do not understand the reason, but certainly as to the others, Mr. Niemann, what is your position? But I have granted it as to the religious and ethnic background."
+    },
+    {
+      "id": 46,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 47,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honours. In relation to it being material available to the Chamber, then we have no objection."
+    },
+    {
+      "id": 48,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. I am proceeding with an abundance of caution here, your Honour, because of our experience. [To the witness]: How well did you know Dusko Tadic?"
+    },
+    {
+      "id": 49,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Quite well enough. I knew him very well.",
+      "reply_to": 38
+    },
+    {
+      "id": 50,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Before the conflict started in Kozarac in 1992, how regularly would you see him?",
+      "examination": "direct"
+    },
+    {
+      "id": 51,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Very often.",
+      "reply_to": 50
+    },
+    {
+      "id": 52,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Whereabouts would that be, where you live or did you visit the family home in Kozarac?",
+      "examination": "direct"
+    },
+    {
+      "id": 53,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "There were two cases of deaths in our family and he came to see us.",
+      "reply_to": 52
+    },
+    {
+      "id": 54,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Had you visited his family home in Kozarac?",
+      "examination": "direct"
+    },
+    {
+      "id": 55,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 54
+    },
+    {
+      "id": 56,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you know his mother, Staka?",
+      "examination": "direct"
+    },
+    {
+      "id": 57,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I did.",
+      "reply_to": 56
+    },
+    {
+      "id": 58,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you know his wife, Mira?",
+      "examination": "direct"
+    },
+    {
+      "id": 59,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 58
+    },
+    {
+      "id": 60,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you have a friendship with Mira that was separate from your friendship with Dusko?",
+      "examination": "direct"
+    },
+    {
+      "id": 61,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 60
+    },
+    {
+      "id": 62,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you see the children of Dusko Tadic and his wife Mira?",
+      "examination": "direct"
+    },
+    {
+      "id": 63,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, yes.",
+      "reply_to": 62
+    },
+    {
+      "id": 64,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Your husband, did he know the Tadic family?",
+      "examination": "direct"
+    },
+    {
+      "id": 65,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, they were very good friends.",
+      "reply_to": 64
+    },
+    {
+      "id": 66,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When building works were undertaken on Dusko Tadic's family home, did your husband have anything to do with that?",
+      "examination": "direct"
+    },
+    {
+      "id": 67,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, he did.",
+      "reply_to": 66
+    },
+    {
+      "id": 68,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What did he do?",
+      "examination": "direct"
+    },
+    {
+      "id": 69,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "He joined in when work was going on there and helped.",
+      "reply_to": 68
+    },
+    {
+      "id": 70,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you remember when that was?",
+      "examination": "direct"
+    },
+    {
+      "id": 71,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In 1990.",
+      "reply_to": 70
+    },
+    {
+      "id": 72,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In 1992 did you become aware of a conflict in Kozarac?",
+      "examination": "direct"
+    },
+    {
+      "id": 73,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Personally not, but I heard some rumours but we did not know anything for certain, but there was talk.",
+      "reply_to": 72
+    },
+    {
+      "id": 74,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you in Banja Luka at that time?",
+      "examination": "direct"
+    },
+    {
+      "id": 75,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 74
+    },
+    {
+      "id": 76,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The rumours and talk that you heard about the conflict in Kozarac, do you know if that was at the time that the conflict was happening or later?",
+      "examination": "direct"
+    },
+    {
+      "id": 77,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "A little before the conflict there were rumours, but we did not know exactly what was happening.",
+      "reply_to": 76
+    },
+    {
+      "id": 78,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What were the rumours that you heard a little before the conflict?",
+      "examination": "direct"
+    },
+    {
+      "id": 79,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That there were disturbances. We did not know exactly what kind because we did not have any detailed information.",
+      "reply_to": 78
+    },
+    {
+      "id": 80,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know at the time of the conflict in Kozarac where Dusko Tadic was?",
+      "examination": "direct"
+    },
+    {
+      "id": 81,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "He was in my house.",
+      "reply_to": 80
+    },
+    {
+      "id": 82,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you tell us, first of all, about the Tadic family, his wife Mira, the children? Do you know where they were at that time?",
+      "examination": "direct"
+    },
+    {
+      "id": 83,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "At the beginning of May they were in Banja Luka in Starcevica.",
+      "reply_to": 82
+    },
+    {
+      "id": 84,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Where is Starcevica?",
+      "examination": "direct"
+    },
+    {
+      "id": 85,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is a district in Banja Luka.",
+      "reply_to": 84
+    },
+    {
+      "id": 86,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know whereabouts in Starcevica they were?",
+      "examination": "direct"
+    },
+    {
+      "id": 87,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I do not know because I did not visit them. We were in touch by telephone.",
+      "reply_to": 86
+    },
+    {
+      "id": 88,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you say the beginning of May, are you able to pinpoint that by a date or perhaps a week in May when that would have been?",
+      "examination": "direct"
+    },
+    {
+      "id": 89,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think it was around 10th May.",
+      "reply_to": 88
+    },
+    {
+      "id": 90,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you see the Tadic family, being Mira and the children, in those days in May before the conflict in Kozarac?",
+      "examination": "direct"
+    },
+    {
+      "id": 91,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 90
+    },
+    {
+      "id": 92,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I will just repeat the question. Did you see the Tadic family before the conflict in Kozarac during that time in May in Banja Luka?",
+      "examination": "direct"
+    },
+    {
+      "id": 93,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes. On 23rd she came to visit me and she spent the night together with her whole family.",
+      "reply_to": 92
+    },
+    {
+      "id": 94,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you say she spent the night with her family, who was that? Who was there?",
+      "examination": "direct"
+    },
+    {
+      "id": 95,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Dusko's mother, his wife, the two children and Dusko.",
+      "reply_to": 94
+    },
+    {
+      "id": 96,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you know in relation to that date when the conflict in Kozarac started?",
+      "examination": "direct"
+    },
+    {
+      "id": 97,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We learnt afterwards, I think it was a Sunday, a Sunday afternoon, I think that must have been the 24th.",
+      "reply_to": 96
+    },
+    {
+      "id": 98,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Why did Dusko and his family come to see you then on 23rd?",
+      "examination": "direct"
+    },
+    {
+      "id": 99,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They came because the conditions of life in the house in which they were accommodated were very poor.",
+      "reply_to": 98
+    },
+    {
+      "id": 100,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Which house was that? Where were they staying?",
+      "examination": "direct"
+    },
+    {
+      "id": 101,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think it belonged to the Alic family, but I do not know the first name.",
+      "reply_to": 100
+    },
+    {
+      "id": 102,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Which house is that? Where is that house?",
+      "examination": "direct"
+    },
+    {
+      "id": 103,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In Starcevica.",
+      "reply_to": 102
+    },
+    {
+      "id": 104,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That is in Banja Luka, is it?",
+      "examination": "direct"
+    },
+    {
+      "id": 105,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 104
+    },
+    {
+      "id": 106,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know how long the family had been living in Banja Luka for?",
+      "examination": "direct"
+    },
+    {
+      "id": 107,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think about one and a half to two months. I am not sure, but I think that is about right.",
+      "reply_to": 106
+    },
+    {
+      "id": 108,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Dusko Tadic, when you saw him on 23rd May, do you know where he been before, where he had been living?",
+      "examination": "direct"
+    },
+    {
+      "id": 109,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "He brought his family at the beginning of May and then I think he went back to Kozarac and came back again on 23rd May.",
+      "reply_to": 108
+    },
+    {
+      "id": 110,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What was the reason for why you can remember these details about when they came to stay with you?",
+      "examination": "direct"
+    },
+    {
+      "id": 111,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They came about 8.30. They were highly depressed. Dusko said that he did not want to put on a uniform because he did not want to participate in the attack against Kozarac, against his neighbours.",
+      "reply_to": 110
+    },
+    {
+      "id": 112,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How long did they stay at your house for?",
+      "examination": "direct"
+    },
+    {
+      "id": 113,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Two days.",
+      "reply_to": 112
+    },
+    {
+      "id": 114,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Who else was in your house at this time? You have mentioned the Tadic family. You were there. Was there anyone else in the house as well?",
+      "examination": "direct"
+    },
+    {
+      "id": 115,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "My husband, my mother-in-law (but she died) and no one else.",
+      "reply_to": 114
+    },
+    {
+      "id": 116,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You said that the conditions were poor in the house that they were living in in Starcevica. Did they tell you anything about those conditions?",
+      "examination": "direct"
+    },
+    {
+      "id": 117,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They did not have the essentials in order to be able to live. They would have to purchase things and to clean it up because there was no one living there, apparently, for some time.",
+      "reply_to": 116
+    },
+    {
+      "id": 118,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The house where you live, is that a comfortable and modern home?",
+      "examination": "direct"
+    },
+    {
+      "id": 119,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 118
+    },
+    {
+      "id": 120,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you saw Dusko with his family on that occasion and you told us that they stayed for two days, when they left, do you know where they went or where they were going to after they left your home?",
+      "examination": "direct"
+    },
+    {
+      "id": 121,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They went to that flat.",
+      "reply_to": 120
+    },
+    {
+      "id": 122,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that the one at Starcevica that you told us about?",
+      "examination": "direct"
+    },
+    {
+      "id": 123,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 122
+    },
+    {
+      "id": 124,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How often did you see the Tadic family in Banja Luka?",
+      "examination": "direct"
+    },
+    {
+      "id": 125,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Very often, very often.",
+      "reply_to": 124
+    },
+    {
+      "id": 126,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know how long Dusko Tadic stayed in Banja Luka for?",
+      "examination": "direct"
+    },
+    {
+      "id": 127,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "When they left my house on 24th they came again a week later on a Sunday for lunch.",
+      "reply_to": 126
+    },
+    {
+      "id": 128,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was Dusko Tadic with his family?",
+      "examination": "direct"
+    },
+    {
+      "id": 129,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, he was.",
+      "reply_to": 128
+    },
+    {
+      "id": 130,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "For how long did Mira Tadic and the children and the mother live in Banja Luka?",
+      "examination": "direct"
+    },
+    {
+      "id": 131,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I cannot tell you exactly, but I will try. I think at the end of June they went to Prijedor and Dusko got an apartment there. Whether it was June or July, I cannot tell you exactly. I cannot remember.",
+      "reply_to": 130
+    },
+    {
+      "id": 132,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did Dusko Tadic remain with his family in Banja Luka, do you know, until they left and moved to Prijedor?",
+      "examination": "direct"
+    },
+    {
+      "id": 133,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 132
+    },
+    {
+      "id": 134,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did there come a time when Dusko Tadic left Banja Luka?",
+      "examination": "direct"
+    },
+    {
+      "id": 135,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not believe so. I am not aware of it.",
+      "reply_to": 134
+    },
+    {
+      "id": 136,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did Dusko Tadic have any work in Banja Luka at this time when you saw him there?",
+      "examination": "direct"
+    },
+    {
+      "id": 137,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "He was working in Cajevac, but I think in that period that he was not working.",
+      "reply_to": 136
+    },
+    {
+      "id": 138,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you aware of any job that Dusko Tadic had, for instance, later on in the year?",
+      "examination": "direct"
+    },
+    {
+      "id": 139,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not know.",
+      "reply_to": 138
+    },
+    {
+      "id": 140,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You told us that you did not visit the house in Starcevica where they lived. Was there any reason for that?",
+      "examination": "direct"
+    },
+    {
+      "id": 141,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, there was because at that time it was very difficult to move around in Banja Luka.",
+      "reply_to": 140
+    },
+    {
+      "id": 142,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was this house in Starcevica or this place where they lived -- I think you called it an apartment -- in a different part of the town?",
+      "examination": "direct"
+    },
+    {
+      "id": 143,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it was.",
+      "reply_to": 142
+    },
+    {
+      "id": 144,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you saw Dusko Tadic in Banja Luka, was that when he was on his own or in the company of his family or with anyone else when you saw him, during this time around the conflict in Kozarac?",
+      "examination": "direct"
+    },
+    {
+      "id": 145,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "He came twice with his whole family and a couple of times he came by with his brothers, Ljubo Tadic -- with Ljubo Tadic who also lives in Starcevica.",
+      "reply_to": 144
+    },
+    {
+      "id": 146,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were the brothers and Dusko friendly with your husband?",
+      "examination": "direct"
+    },
+    {
+      "id": 147,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, they were.",
+      "reply_to": 146
+    },
+    {
+      "id": 148,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you saw Dusko Tadic at this time in May 1992, could you tell at all whether he was involved in politics?",
+      "examination": "direct"
+    },
+    {
+      "id": 149,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 148
+    },
+    {
+      "id": 150,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How was his behaviour? How did he present himself to you when you spoke to him?",
+      "examination": "direct"
+    },
+    {
+      "id": 151,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Absolutely normal, quite normal.",
+      "reply_to": 150
+    },
+    {
+      "id": 152,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was he dressed in military uniform in any way?",
+      "examination": "direct"
+    },
+    {
+      "id": 153,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 152
+    },
+    {
+      "id": 154,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Or was he carrying a weapon, any form of gun?",
+      "examination": "direct"
+    },
+    {
+      "id": 155,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 154
+    },
+    {
+      "id": 156,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. That is all I ask, your Honour."
+    },
+    {
+      "id": 157,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Cross-examination, Mr. Niemann?"
+    },
+    {
+      "id": 158,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Madam, when Mr. Tadic and his family came to see you on 23rd May, how did they get to your house?",
+      "examination": "cross"
+    },
+    {
+      "id": 159,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They came around 9 o'clock in the evening, quite late. They came on foot and were very tired.",
+      "reply_to": 158
+    },
+    {
+      "id": 160,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "So that was the night-time of 23rd?",
+      "examination": "cross"
+    },
+    {
+      "id": 161,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 160
+    },
+    {
+      "id": 162,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "They then left on 24th, the next day?",
+      "examination": "cross"
+    },
+    {
+      "id": 163,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 162
+    },
+    {
+      "id": 164,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Had you seen the Tadic family prior to that date, actually met them?",
+      "examination": "cross"
+    },
+    {
+      "id": 165,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We only talked on the phone.",
+      "reply_to": 164
+    },
+    {
+      "id": 166,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you talk to his wife, Mira?",
+      "examination": "cross"
+    },
+    {
+      "id": 167,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 166
+    },
+    {
+      "id": 168,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know whether Mira was working at the time in Banja Luka?",
+      "examination": "cross"
+    },
+    {
+      "id": 169,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 168
+    },
+    {
+      "id": 170,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You say that they stayed there until the end of June. Is that the end of June/early July, is it?",
+      "examination": "cross"
+    },
+    {
+      "id": 171,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think so, yes, I think so.",
+      "reply_to": 170
+    },
+    {
+      "id": 172,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "During all of that time, so far as you know, Dule Tadic was not in any form of employment or working?",
+      "examination": "cross"
+    },
+    {
+      "id": 173,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 172
+    },
+    {
+      "id": 174,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "At no stage during that time did you ever see him in a military uniform or any other form of uniform, military or police uniform?",
+      "examination": "cross"
+    },
+    {
+      "id": 175,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 174
+    },
+    {
+      "id": 176,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "At no stage during June did you see him carrying weapons of any form?",
+      "examination": "cross"
+    },
+    {
+      "id": 177,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, no.",
+      "reply_to": 176
+    },
+    {
+      "id": 178,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When your husband assisted in the building work that was carried on at Tadic's house, that was the restaurant they were building, was it?",
+      "examination": "cross"
+    },
+    {
+      "id": 179,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 178
+    },
+    {
+      "id": 180,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Or perhaps I should have called it a cafe?",
+      "examination": "cross"
+    },
+    {
+      "id": 181,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 180
+    },
+    {
+      "id": 182,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "A lot of people from the town participated in that, did they not? The town of Kozarac assisted with that?",
+      "examination": "cross"
+    },
+    {
+      "id": 183,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 182
+    },
+    {
+      "id": 184,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That included Muslim people as well as Croats, possibly, and Serbian people as well?",
+      "examination": "cross"
+    },
+    {
+      "id": 185,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 184
+    },
+    {
+      "id": 186,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Madam, I am wondering if you would look at the piece of paper I am now going to show you -- if it could be shown to the Defence first -- and also would you confirm whether or not that is your name? (Handed). Show it to the Defence first.",
+      "examination": "cross"
+    },
+    {
+      "id": 187,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 186
+    },
+    {
+      "id": 188,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Madam, I am wondering if you could write down the name of your husband on that piece of paper for me, please? Thank you.",
+      "examination": "cross"
+    },
+    {
+      "id": 189,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Niemann, may the Judges see that?"
+    },
+    {
+      "id": 190,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour. (Handed). Madam, does your husband have a christening certificate?"
+    },
+    {
+      "id": 191,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 188
+    },
+    {
+      "id": 192,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I am not sure that this may perhaps need to be written down, but I would like you to tell us the religion of your husband. If it is easier for it to be written down, then I will hand you a piece of paper and you might do that for me.",
+      "examination": "cross"
+    },
+    {
+      "id": 193,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Could I just see that other piece of paper? Thank you."
+    },
+    {
+      "id": 194,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "With a pen could you write down your husband's religion? Perhaps show that to the Defence and then perhaps bring it to me. Madam, do you recall an occasion when Dule Tadic requested a copy of your husband's christening certificate?"
+    },
+    {
+      "id": 195,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 192
+    },
+    {
+      "id": 196,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you recall on any occasion when details of your husband's religion were requested by Dule Tadic or a member of his family?",
+      "examination": "cross"
+    },
+    {
+      "id": 197,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 196
+    },
+    {
+      "id": 198,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Madam, have you ever given an interview to the media about the circumstances of what happened in Banja Luka and the area in 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 199,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, no.",
+      "reply_to": 198
+    },
+    {
+      "id": 200,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I think you said that the Tadic family came to Banja Luka on 10th May, is that right?",
+      "examination": "cross"
+    },
+    {
+      "id": 201,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, it is.",
+      "reply_to": 200
+    },
+    {
+      "id": 202,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What day of the week was that?",
+      "examination": "cross"
+    },
+    {
+      "id": 203,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I cannot remember.",
+      "reply_to": 202
+    },
+    {
+      "id": 204,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How do you remember the day?",
+      "examination": "cross"
+    },
+    {
+      "id": 205,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "When the 10th was?",
+      "reply_to": 204
+    },
+    {
+      "id": 206,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How do you remember it was that date, the 10th?",
+      "examination": "cross"
+    },
+    {
+      "id": 207,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Mira told me when she came that it was around the 10th.",
+      "reply_to": 206
+    },
+    {
+      "id": 208,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When did she tell you that?",
+      "examination": "cross"
+    },
+    {
+      "id": 209,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "When she came to me on 23rd.",
+      "reply_to": 208
+    },
+    {
+      "id": 210,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "She has not discussed that with you since that time, has she, the particular date, when she first arrived in Banja Luka?",
+      "examination": "cross"
+    },
+    {
+      "id": 211,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 210
+    },
+    {
+      "id": 212,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Have you seen Mira Tadic at all since 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 213,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 212
+    },
+    {
+      "id": 214,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Have you ever spoken to her on the telephone?",
+      "examination": "cross"
+    },
+    {
+      "id": 215,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 214
+    },
+    {
+      "id": 216,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know where she is now? Do not tell me where it is, just answer if you know where she is?",
+      "examination": "cross"
+    },
+    {
+      "id": 217,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do.",
+      "reply_to": 216
+    },
+    {
+      "id": 218,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "But you have not seen her since 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 219,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 218
+    },
+    {
+      "id": 220,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "At no stage did you speak to Dule Tadic himself on the telephone during 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 221,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 220
+    },
+    {
+      "id": 222,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No further questions, your Honour."
+    },
+    {
+      "id": 223,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Kay?"
+    },
+    {
+      "id": 224,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Witness X, in answer to my questions you said it was about 10th May when the Tadic family arrived in Banja Luka?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 225,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 224
+    },
+    {
+      "id": 226,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you have any way of connecting that date with other events at the time?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 227,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "All I know is that I felt that something ugly was going to happen in Kozarac and they had to leave because they had received threats. They had been threatened that they had to leave Kozarac.",
+      "reply_to": 226
+    },
+    {
+      "id": 228,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. I ask no further questions. Do your Honours have any questions?"
+    },
+    {
+      "id": 229,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No."
+    },
+    {
+      "id": 230,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Any objection to the witness being permanently excused?"
+    },
+    {
+      "id": 231,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, your Honour, except that I think I would like to tender that sheet of paper with the name and details on it, if that could be a Prosecution Exhibit?"
+    },
+    {
+      "id": 232,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It should be in a sealed envelope, your Honour."
+    },
+    {
+      "id": 233,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It is 350 under seal, your Honour."
+    },
+    {
+      "id": 234,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Any objection, Mr. Kay?"
+    },
+    {
+      "id": 235,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "There is no objection, your Honour."
+    },
+    {
+      "id": 236,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "350 will be admitted under seal. Is there any objection to the witness being permanently excused, Mr. Niemann?"
+    },
+    {
+      "id": 237,
+      "speaker": "MR. NIEMANN",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, your Honour."
+    },
+    {
+      "id": 238,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Fine. You are permanently excused. That means you are free to leave. Thank you for coming."
+    },
+    {
+      "id": 239,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Before the witness leaves, the screens have to be placed down. Thank you."
+    },
+    {
+      "id": 240,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Kay, would you call your next witness?"
+    },
+    {
+      "id": 241,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, the next is Dragolje Balta."
+    },
+    {
+      "id": 242,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This will be in open session."
+    },
+    {
+      "id": 243,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "This is open session."
+    },
+    {
+      "id": 244,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We have to raise the blinds again."
+    },
+    {
+      "id": 245,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "And remove the protected screen, your Honour. Dragolje Balta, please, your Honour. MR. DRAGOLJE BALTA, called."
+    },
+    {
+      "id": 246,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Sir, would you please take the oath that is being given to you?"
+    },
+    {
+      "id": 247,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I solemnly declare that I will speak the truth, the whole truth and nothing but the truth."
+    },
+    {
+      "id": 248,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Fine. Thank you. You may be seated."
+    },
+    {
+      "id": 249,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Is your name Dragolje Balta?"
+    },
+    {
+      "id": 250,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 226
+    },
+    {
+      "id": 251,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you live in Banja Luka?",
+      "examination": "direct"
+    },
+    {
+      "id": 252,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do.",
+      "reply_to": 251
+    },
+    {
+      "id": 253,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What is your occupation? What is your job?",
+      "examination": "direct"
+    },
+    {
+      "id": 254,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "My job, I am a locksmith. I look after locks and things.",
+      "reply_to": 253
+    },
+    {
+      "id": 255,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What is your ethnic background?",
+      "examination": "direct"
+    },
+    {
+      "id": 256,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Serb.",
+      "reply_to": 255
+    },
+    {
+      "id": 257,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Have you always lived in Banja Luka?",
+      "examination": "direct"
+    },
+    {
+      "id": 258,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 257
+    },
+    {
+      "id": 259,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Have you ever been mobilized in the JNA?",
+      "examination": "direct"
+    },
+    {
+      "id": 260,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well -- no, to a certain extent.",
+      "reply_to": 259
+    },
+    {
+      "id": 261,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Have you ever done service in the JNA?",
+      "examination": "direct"
+    },
+    {
+      "id": 262,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 261
+    },
+    {
+      "id": 263,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What year was that?",
+      "examination": "direct"
+    },
+    {
+      "id": 264,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In 1968.",
+      "reply_to": 263
+    },
+    {
+      "id": 265,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Have you ever done any service in the JNA since that date?",
+      "examination": "direct"
+    },
+    {
+      "id": 266,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 265
+    },
+    {
+      "id": 267,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What other years were your service in the JNA?",
+      "examination": "direct"
+    },
+    {
+      "id": 268,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, I was in '77, in '80, '85. Those were the military drills.",
+      "reply_to": 267
+    },
+    {
+      "id": 269,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. In 1992 were you serving in any military unit?",
+      "examination": "direct"
+    },
+    {
+      "id": 270,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 269
+    },
+    {
+      "id": 271,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Or army force?",
+      "examination": "direct"
+    },
+    {
+      "id": 272,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I went for a drill only, only for a military drill.",
+      "reply_to": 271
+    },
+    {
+      "id": 273,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When was that in 1992?",
+      "examination": "direct"
+    },
+    {
+      "id": 274,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It was sometime between mid April and mid May '92.",
+      "reply_to": 273
+    },
+    {
+      "id": 275,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How old are you today?",
+      "examination": "direct"
+    },
+    {
+      "id": 276,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, I was born on 8th October 1945.",
+      "reply_to": 275
+    },
+    {
+      "id": 277,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "50. Did other males of your age also have to undertake drill at that time as a result of some sort of command?",
+      "examination": "direct"
+    },
+    {
+      "id": 278,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I guess so.",
+      "reply_to": 277
+    },
+    {
+      "id": 279,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Which part of Banja Luka do you live in?",
+      "examination": "direct"
+    },
+    {
+      "id": 280,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That part is Starcevica.",
+      "reply_to": 279
+    },
+    {
+      "id": 281,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know Dusko Tadic?",
+      "examination": "direct"
+    },
+    {
+      "id": 282,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 281
+    },
+    {
+      "id": 283,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know other members of Dusko Tadic's family?",
+      "examination": "direct"
+    },
+    {
+      "id": 284,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I do know only his relatives. I mean, mother (sic) and children and mother, and Ljubo, with him I had some contacts.",
+      "reply_to": 283
+    },
+    {
+      "id": 285,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When did you first meet Dusko Tadic?",
+      "examination": "direct"
+    },
+    {
+      "id": 286,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In the first half of May '92.",
+      "reply_to": 285
+    },
+    {
+      "id": 287,
+      "speaker": "JUDGE STEPHEN",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If you look at the second last answer, that cannot be right? There is some mistranslation."
+    },
+    {
+      "id": 288,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Perhaps I will explore that, your Honour. [To the witness]: Which members of Dusko Tadic's family do you know?"
+    },
+    {
+      "id": 289,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I know his wife, his mother and two children.",
+      "reply_to": 285
+    },
+    {
+      "id": 290,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I think you also mentioned Ljubo?",
+      "examination": "direct"
+    },
+    {
+      "id": 291,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, Ljubo too, yes.",
+      "reply_to": 290
+    },
+    {
+      "id": 292,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is Ljubo his brother?",
+      "examination": "direct"
+    },
+    {
+      "id": 293,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "He is.",
+      "reply_to": 292
+    },
+    {
+      "id": 294,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You told us that you first met Dusko Tadic in May 1992. How did you come to meet him?",
+      "examination": "direct"
+    },
+    {
+      "id": 295,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 294
+    },
+    {
+      "id": 296,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How was it that you met him?",
+      "examination": "direct"
+    },
+    {
+      "id": 297,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, because I saw him because he was in my neighbour's house and I wondered what he was doing there and that is how we met, where he was staying.",
+      "reply_to": 296
+    },
+    {
+      "id": 298,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How long did he stay in that house for?",
+      "examination": "direct"
+    },
+    {
+      "id": 299,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, until about the end of the seventh month -- what do you call it -- July.",
+      "reply_to": 298
+    },
+    {
+      "id": 300,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know how it was that he came to be in that house, your neighbour's house?",
+      "examination": "direct"
+    },
+    {
+      "id": 301,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, well, that is I wondered and I asked them and they told me that there were some troubles in Kozarac and that they had to leave it.",
+      "reply_to": 300
+    },
+    {
+      "id": 302,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Your neighbour, was he living in that house at the same time as the Tadic family?",
+      "examination": "direct"
+    },
+    {
+      "id": 303,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 302
+    },
+    {
+      "id": 304,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Where was your neighbour?",
+      "examination": "direct"
+    },
+    {
+      "id": 305,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I did not understand the question.",
+      "reply_to": 304
+    },
+    {
+      "id": 306,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Where was your neighbour at the time the Tadic family were living in that house?",
+      "examination": "direct"
+    },
+    {
+      "id": 307,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "He was in Germany then.",
+      "reply_to": 306
+    },
+    {
+      "id": 308,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What was his name?",
+      "examination": "direct"
+    },
+    {
+      "id": 309,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Let me see, the husband, he was killed before the war, and the wife was called Ljubica, Ljubica Gorgi.",
+      "reply_to": 308
+    },
+    {
+      "id": 310,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Where was she at that time in May 1992?",
+      "examination": "direct"
+    },
+    {
+      "id": 311,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "In Germany.",
+      "reply_to": 310
+    },
+    {
+      "id": 312,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you remember whether they came back to that house ever? Have they ever returned to that house?",
+      "examination": "direct"
+    },
+    {
+      "id": 313,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 312
+    },
+    {
+      "id": 314,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How did the Tadic family get into the house?",
+      "examination": "direct"
+    },
+    {
+      "id": 315,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, they had a friend, Nedim, and I guess he gave them keys because that woman left her keys with Nedim when she went to Germany, and as the house was empty they simply did him a service, that is, gave him the keys so that he could move in.",
+      "reply_to": 314
+    },
+    {
+      "id": 316,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Before this meeting in May 1992, had you ever seen Dusko Tadic before?",
+      "examination": "direct"
+    },
+    {
+      "id": 317,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 316
+    },
+    {
+      "id": 318,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "After you met him for the first time, how often did you see him?",
+      "examination": "direct"
+    },
+    {
+      "id": 319,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, how shall I put it? I cannot really count all the times, but we met often because we were next door neighbours. How shall I put it? Four or five times during that time, I mean, during his stay there.",
+      "reply_to": 318
+    },
+    {
+      "id": 320,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you in your work as a locksmith at this time?",
+      "examination": "direct"
+    },
+    {
+      "id": 321,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 320
+    },
+    {
+      "id": 322,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you out at work during the day?",
+      "examination": "direct"
+    },
+    {
+      "id": 323,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 322
+    },
+    {
+      "id": 324,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "About what time did you return from work usually?",
+      "examination": "direct"
+    },
+    {
+      "id": 325,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, around 3 o'clock.",
+      "reply_to": 324
+    },
+    {
+      "id": 326,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "On those occasions you have described seeing Dusko Tadic, did you spend long in his company?",
+      "examination": "direct"
+    },
+    {
+      "id": 327,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 326
+    },
+    {
+      "id": 328,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What were you and he doing?",
+      "examination": "direct"
+    },
+    {
+      "id": 329,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, from time to time, a little, for half an hour, an hour, that would be meetings, have a cup of coffee or a drink, something like that, nothing more than that.",
+      "reply_to": 328
+    },
+    {
+      "id": 330,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you get to know his wife?",
+      "examination": "direct"
+    },
+    {
+      "id": 331,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 330
+    },
+    {
+      "id": 332,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you see her on occasions when you saw Dusko Tadic?",
+      "examination": "direct"
+    },
+    {
+      "id": 333,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, yes.",
+      "reply_to": 332
+    },
+    {
+      "id": 334,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you see her on other occasions on her own without Dusko Tadic being there?",
+      "examination": "direct"
+    },
+    {
+      "id": 335,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, I did not, no.",
+      "reply_to": 334
+    },
+    {
+      "id": 336,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you ever go and see how they were in this house next to yours that belonged to your neighbour?",
+      "examination": "direct"
+    },
+    {
+      "id": 337,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, yes, I did. I did visit them in the house.",
+      "reply_to": 336
+    },
+    {
+      "id": 338,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Which part of the house were they staying in?",
+      "examination": "direct"
+    },
+    {
+      "id": 339,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "They were staying in the lower part, in what we call \"cellar\". I do not know how to explain it.",
+      "reply_to": 338
+    },
+    {
+      "id": 340,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What were the conditions like of this house? How good was it?",
+      "examination": "direct"
+    },
+    {
+      "id": 341,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "None at all. I mean, that was a house unfurnished, unequipped.",
+      "reply_to": 340
+    },
+    {
+      "id": 342,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was it a house that had been completely built at this time? Was it a finished house?",
+      "examination": "direct"
+    },
+    {
+      "id": 343,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, I do not know in what sense. It had a roof on it but nothing else, the facade had not been done, nor had it anything in it, not windows, not anything -- just a building, just a skeleton.",
+      "reply_to": 342
+    },
+    {
+      "id": 344,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "I would like you to look at this photograph and tell me if you recognise it which I tender to the Court now as Exhibit D62.",
+      "examination": "direct"
+    },
+    {
+      "id": 345,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, that is Dusko.",
+      "reply_to": 344
+    },
+    {
+      "id": 346,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you recognise that photograph?",
+      "examination": "direct"
+    },
+    {
+      "id": 347,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I do, I do. This is the upper part.",
+      "reply_to": 346
+    },
+    {
+      "id": 348,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Perhaps if this can be put on the overhead projector, your Honour? A copy has been served on the Prosecution."
+    },
+    {
+      "id": 349,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Has it been offered and marked?"
+    },
+    {
+      "id": 350,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I do not think it has been marked yet, your Honour."
+    },
+    {
+      "id": 351,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Would you mark it D62?"
+    },
+    {
+      "id": 352,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. 62A would be appropriate."
+    },
+    {
+      "id": 353,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "62A. Is there any objection to 62A?"
+    },
+    {
+      "id": 354,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, I am not sure what it is yet."
+    },
+    {
+      "id": 355,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I am sorry. The Defence, though, said they tendered it to you, I thought."
+    },
+    {
+      "id": 356,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "But I mean the witness has not -- I do not know what it is a picture of."
+    },
+    {
+      "id": 357,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "OK. Show it to the Prosecutor first."
+    },
+    {
+      "id": 358,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I still do not know what it is a picture of."
+    },
+    {
+      "id": 359,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "He has told a moment ago that it was the photograph of his neighbour's house."
+    },
+    {
+      "id": 360,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I am sorry, your Honour. We have no objection if it is a photograph of the house."
+    },
+    {
+      "id": 361,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 362,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "D62A will be admitted."
+    },
+    {
+      "id": 363,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, that is the building, my neighbour's house, where Dusko lived."
+    },
+    {
+      "id": 364,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You described that as being the upper part of the house?"
+    },
+    {
+      "id": 365,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, right up to the street.",
+      "reply_to": 346
+    },
+    {
+      "id": 366,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "We can see there that there are three floors, is that right?",
+      "examination": "direct"
+    },
+    {
+      "id": 367,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is.",
+      "reply_to": 366
+    },
+    {
+      "id": 368,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were the Tadic family living in any part of that house that is in the photograph?",
+      "examination": "direct"
+    },
+    {
+      "id": 369,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 368
+    },
+    {
+      "id": 370,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You said earlier that they were living in the basement of the house?",
+      "examination": "direct"
+    },
+    {
+      "id": 371,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 370
+    },
+    {
+      "id": 372,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "To get to the basement of the house do you go around to the back of the house?",
+      "examination": "direct"
+    },
+    {
+      "id": 373,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "May I show it? May I show it? Here -- is there something that I can show it with?",
+      "reply_to": 372
+    },
+    {
+      "id": 374,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If you just point to something, on the right, there is a photograph on the right on the projector and if you just ----",
+      "examination": "direct"
+    },
+    {
+      "id": 375,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, sure.",
+      "reply_to": 374
+    },
+    {
+      "id": 376,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "--- point to what you wanted to point to.",
+      "examination": "direct"
+    },
+    {
+      "id": 377,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is down, you have to descend there. Did you get me? Did you understand that?",
+      "reply_to": 376
+    },
+    {
+      "id": 378,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes.",
+      "examination": "direct"
+    },
+    {
+      "id": 379,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That you have to go down?",
+      "reply_to": 378
+    },
+    {
+      "id": 380,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "That is right. Do you go through the front gate and turn right and go down to the back of the house?",
+      "examination": "direct"
+    },
+    {
+      "id": 381,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Quite, yes, down there behind the house. It is the bank there, if you understood my meaning.",
+      "reply_to": 380
+    },
+    {
+      "id": 382,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Perhaps if would you like to look at this photograph which I tender as 60B, your Honour, D60B?",
+      "examination": "direct"
+    },
+    {
+      "id": 383,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "62?"
+    },
+    {
+      "id": 384,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "62B. It is marked on the back as photograph 17 for the Prosecution. [To the witness]: Could you just look at this photograph, please, Mr. Balta, and tell me if you recognise it?"
+    },
+    {
+      "id": 385,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do.",
+      "reply_to": 382
+    },
+    {
+      "id": 386,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What is it a photograph of?",
+      "examination": "direct"
+    },
+    {
+      "id": 387,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is the photograph of that part of the house, its lower part, the basement. This is the entrance and here was the kitchen and then next to it was the bedroom.",
+      "reply_to": 386
+    },
+    {
+      "id": 388,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Perhaps if you could put that on the overhead projector as well? Is that the back of the house where the basement is that you told us about?",
+      "examination": "direct"
+    },
+    {
+      "id": 389,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "That is correct.",
+      "reply_to": 388
+    },
+    {
+      "id": 390,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, that is an appropriate time and at this stage, perhaps, if we take our break?"
+    },
+    {
+      "id": 391,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Is there any objection to 62B? Do you wish to offer it?"
+    },
+    {
+      "id": 392,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I was going to, yes, your Honour."
+    },
+    {
+      "id": 393,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No objection, your Honour."
+    },
+    {
+      "id": 394,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "62B will be admitted. We will stand in recess for 20 minutes."
+    },
+    {
+      "id": 395,
+      "speaker": "MR. WLADIMIROFF",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We apologise, your Honour. There was an urgent matter we had to take care of."
+    },
+    {
+      "id": 396,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Kay?"
+    },
+    {
+      "id": 397,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, your Honour. I would like you now to look at another photograph, please, Mr. Balta. This is marked No. 15 for the Prosecution. If I tender it as D62C. (Handed). Mr. Balta, if you could tell me if you recognise the view in this photograph?"
+    },
+    {
+      "id": 398,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 388
+    },
+    {
+      "id": 399,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What is it a picture of?",
+      "examination": "direct"
+    },
+    {
+      "id": 400,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I did not understand the question. Could you repeat it, please?",
+      "reply_to": 399
+    },
+    {
+      "id": 401,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Could you tell me what it is a picture of? What do we see in that photograph?",
+      "examination": "direct"
+    },
+    {
+      "id": 402,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I see here my house and my balcony. I could point at it, but how do I do it? With a finger or?",
+      "reply_to": 401
+    },
+    {
+      "id": 403,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do not worry. If you answer a few questions from me, I will be able to get you to point things out. Are there any other houses in that photograph as well?",
+      "examination": "direct"
+    },
+    {
+      "id": 404,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I see.",
+      "reply_to": 403
+    },
+    {
+      "id": 405,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What are the other houses in that photograph?",
+      "examination": "direct"
+    },
+    {
+      "id": 406,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Could you point them with a finger?",
+      "reply_to": 405
+    },
+    {
+      "id": 407,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If you can just tell me and then I will get you to point to it so we can see it on our video screens?",
+      "examination": "direct"
+    },
+    {
+      "id": 408,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Behind my balcony, this is my house and then this is the neighbour's house where Tadic lived.",
+      "reply_to": 407
+    },
+    {
+      "id": 409,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. If that could now be put on the overhead projector? Thank you. Is that there a photograph of the back of your house with the balcony you told us about?",
+      "examination": "direct"
+    },
+    {
+      "id": 410,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I am sorry, I did not understand the question.",
+      "reply_to": 409
+    },
+    {
+      "id": 411,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that a photograph of your balcony at the back of your house?",
+      "examination": "direct"
+    },
+    {
+      "id": 412,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is.",
+      "reply_to": 411
+    },
+    {
+      "id": 413,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The house that you said the Tadic family stayed in, could you indicate that then, which house that is, on the photograph by using that pointer?",
+      "examination": "direct"
+    },
+    {
+      "id": 414,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I can. It is ----",
+      "reply_to": 413
+    },
+    {
+      "id": 415,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Perhaps if you could indicate it ----",
+      "examination": "direct"
+    },
+    {
+      "id": 416,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Here, this is it. This is the house where Mr. Tadic stayed.",
+      "reply_to": 415
+    },
+    {
+      "id": 417,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Is that the front or the back of the house that you indicated there with the pointer?",
+      "examination": "direct"
+    },
+    {
+      "id": 418,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is the back of the house. The basement is down there.",
+      "reply_to": 417
+    },
+    {
+      "id": 419,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Thank you. Your Honour, I offer that now to the Court as Exhibit 62C.",
+      "examination": "direct"
+    },
+    {
+      "id": 420,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Is there any objection to 62C?"
+    },
+    {
+      "id": 421,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No objection, your Honour."
+    },
+    {
+      "id": 422,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "62C will be admitted."
+    },
+    {
+      "id": 423,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. [To the witness]: Were you aware of the conflict that occurred in Kozarac in 1992?"
+    },
+    {
+      "id": 424,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, yes, up to a certain point, yes, I heard about it. There was news and things like that.",
+      "reply_to": 419
+    },
+    {
+      "id": 425,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you say you heard about it, there was the news, was that through the media, through television or radio or newspapers or from what people told you?",
+      "examination": "direct"
+    },
+    {
+      "id": 426,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "On the radio, mostly radio and television, not through people.",
+      "reply_to": 425
+    },
+    {
+      "id": 427,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know if you saw Dusko Tadic at that time in Banja Luka?",
+      "examination": "direct"
+    },
+    {
+      "id": 428,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "You mean when the attack on that Kozarac occurred?",
+      "reply_to": 427
+    },
+    {
+      "id": 429,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Yes.",
+      "examination": "direct"
+    },
+    {
+      "id": 430,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "At that time he was in Banja Luka.",
+      "reply_to": 429
+    },
+    {
+      "id": 431,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know if he ever left Banja Luka for any substantial period of time, as far as you knew?",
+      "examination": "direct"
+    },
+    {
+      "id": 432,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I think -- I could not really say whether he was there for some substantial time. I did see him quite often, but .....",
+      "reply_to": 431
+    },
+    {
+      "id": 433,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you aware of the Tadic family moving out of that house in Starcevica?",
+      "examination": "direct"
+    },
+    {
+      "id": 434,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 433
+    },
+    {
+      "id": 435,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know or did they tell you where they were going to and where they were moving to from that house in Banja Luka?",
+      "examination": "direct"
+    },
+    {
+      "id": 436,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, as a matter of fact, I happened to be at home when we met so that we said, \"Hello\".",
+      "reply_to": 435
+    },
+    {
+      "id": 437,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What did you become aware of?",
+      "examination": "direct"
+    },
+    {
+      "id": 438,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "How do you mean?",
+      "reply_to": 437
+    },
+    {
+      "id": 439,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Well, when you were at home and you were there at that time, do you know if they were moving from the house?",
+      "examination": "direct"
+    },
+    {
+      "id": 440,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Let me see. They came by car, and I saw how children and wife and mother were going and he came to say \"goodbye\". He said, \"We are going to Prijedor, we are being given a flat there\" and so we said \"goodbye\".",
+      "reply_to": 439
+    },
+    {
+      "id": 441,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Can you remember when that was?",
+      "examination": "direct"
+    },
+    {
+      "id": 442,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, it was some time in the latter half of July. I could not be more precise.",
+      "reply_to": 441
+    },
+    {
+      "id": 443,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you ever see Dusko Tadic in military uniform?",
+      "examination": "direct"
+    },
+    {
+      "id": 444,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Me, no, I mean, I cannot remember.",
+      "reply_to": 443
+    },
+    {
+      "id": 445,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. That is all I ask. Wait there, please."
+    },
+    {
+      "id": 446,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. Cross-examination, Miss Hollis?"
+    },
+    {
+      "id": 447,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, your Honour."
+    },
+    {
+      "id": 448,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, you had indicated you had lived in Banja Luka all of your life. Could you tell us what was your place of birth?",
+      "examination": "cross"
+    },
+    {
+      "id": 449,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I was born in the village Balta which is near Banja Luka.",
+      "reply_to": 448
+    },
+    {
+      "id": 450,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How long did you live in Balta before you moved to Banja Luka?",
+      "examination": "cross"
+    },
+    {
+      "id": 451,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "About 15 years or so until I went to school.",
+      "reply_to": 450
+    },
+    {
+      "id": 452,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In what opstina is Balta?",
+      "examination": "cross"
+    },
+    {
+      "id": 453,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is in the municipality of Celinac, but it is very near Banja Luka.",
+      "reply_to": 452
+    },
+    {
+      "id": 454,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "In what opstina is that Celinac?",
+      "examination": "cross"
+    },
+    {
+      "id": 455,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "What do you mean?",
+      "reply_to": 454
+    },
+    {
+      "id": 456,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Opstina? Is it in the Banja Luka opstina or is it in a different opstina?",
+      "examination": "cross"
+    },
+    {
+      "id": 457,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes, I mean Banja Luka.",
+      "reply_to": 456
+    },
+    {
+      "id": 458,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You indicated that in, perhaps, mid April or mid May 1992 you performed military drill. Where did you perform that military drill?",
+      "examination": "cross"
+    },
+    {
+      "id": 459,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "How shall I put it? We were -- I was in this Starcevica where I was born and that is where the drill was, I mean, where I lived.",
+      "reply_to": 458
+    },
+    {
+      "id": 460,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What were your duties during this military drill?",
+      "examination": "cross"
+    },
+    {
+      "id": 461,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, we were to guard our Local Commune, I mean where I live.",
+      "reply_to": 460
+    },
+    {
+      "id": 462,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You were provided weapons to do this?",
+      "examination": "cross"
+    },
+    {
+      "id": 463,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 462
+    },
+    {
+      "id": 464,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What type of weapons were you provided?",
+      "examination": "cross"
+    },
+    {
+      "id": 465,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Infantry weapons.",
+      "reply_to": 464
+    },
+    {
+      "id": 466,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What type would those be?",
+      "examination": "cross"
+    },
+    {
+      "id": 467,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This is PAP rifle, semi-automatic rifle.",
+      "reply_to": 466
+    },
+    {
+      "id": 468,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "How long did you perform that military drill?",
+      "examination": "cross"
+    },
+    {
+      "id": 469,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, until about the first half of May.",
+      "reply_to": 468
+    },
+    {
+      "id": 470,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "After the first half of May did you perform any additional military duties during 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 471,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 470
+    },
+    {
+      "id": 472,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you perform any police duties during 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 473,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 472
+    },
+    {
+      "id": 474,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you a member of any paramilitary organisation during 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 475,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 474
+    },
+    {
+      "id": 476,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What was your father's name, first name?",
+      "examination": "cross"
+    },
+    {
+      "id": 477,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Savo.",
+      "reply_to": 476
+    },
+    {
+      "id": 478,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, do you have sons?",
+      "examination": "cross"
+    },
+    {
+      "id": 479,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "One.",
+      "reply_to": 478
+    },
+    {
+      "id": 480,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Could you tell us his name and his date of birth?",
+      "examination": "cross"
+    },
+    {
+      "id": 481,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "5th May '76, and his name is Sinisa.",
+      "reply_to": 480
+    },
+    {
+      "id": 482,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, during 1992 did your son perform any military duties?",
+      "examination": "cross"
+    },
+    {
+      "id": 483,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 482
+    },
+    {
+      "id": 484,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did your son perform any police duties during 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 485,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 484
+    },
+    {
+      "id": 486,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Was your son a member of any paramilitary organisation during 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 487,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 486
+    },
+    {
+      "id": 488,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, during 1992 did you perform any duties at any of the camps in opstina Prijedor?",
+      "examination": "cross"
+    },
+    {
+      "id": 489,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 488
+    },
+    {
+      "id": 490,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You talked on direct examination about a house next to yours where Dule Tadic and his family stayed for a time. What was the last name of your neighbour whose house Dule Tadic's family stayed in?",
+      "examination": "cross"
+    },
+    {
+      "id": 491,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Gorgi, late Stefan Gorgi, and his wife, Ljubica.",
+      "reply_to": 490
+    },
+    {
+      "id": 492,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You indicated that you believed that they had obtained keys to that house. You guessed that Nedim had given them the keys. Were you present when Nedim gave them the keys to this house?",
+      "examination": "cross"
+    },
+    {
+      "id": 493,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 492
+    },
+    {
+      "id": 494,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, what is the ethnic group of that family that owned that home in which Dule Tadic's family stayed?",
+      "examination": "cross"
+    },
+    {
+      "id": 495,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Let me see. Late Stefan was Ukrainian and his wife is a Croat or a Catholic, whichever way you like.",
+      "reply_to": 494
+    },
+    {
+      "id": 496,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, were you a member of the SDS Party during 1992?",
+      "examination": "cross"
+    },
+    {
+      "id": 497,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 496
+    },
+    {
+      "id": 498,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You were shown three photographs during your direct examination. Can you tell us what month and year those photographs were taken?",
+      "examination": "cross"
+    },
+    {
+      "id": 499,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Where are they, the photographs? Where are the photographs? I cannot see them.",
+      "reply_to": 498
+    },
+    {
+      "id": 500,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "We will retrieve those for you to look at, sir. That will be 62A, B and C.",
+      "examination": "cross"
+    },
+    {
+      "id": 501,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "This was taken now in August, '96.",
+      "reply_to": 500
+    },
+    {
+      "id": 502,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, the other two photographs, when were they taken?",
+      "examination": "cross"
+    },
+    {
+      "id": 503,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "All three of them -- no, this one was taken in '95, and this was in '95 and I think it was August again, and these, these were taken this August, '96.",
+      "reply_to": 502
+    },
+    {
+      "id": 504,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, did you take the photographs?",
+      "examination": "cross"
+    },
+    {
+      "id": 505,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 504
+    },
+    {
+      "id": 506,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you present when they were taken?",
+      "examination": "cross"
+    },
+    {
+      "id": 507,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 506
+    },
+    {
+      "id": 508,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You indicated that you were aware of a conflict in Kozarac because you heard about it on radio and television. What radio stations did you hear about the conflict on?",
+      "examination": "cross"
+    },
+    {
+      "id": 509,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Well, radio, Radio Banja Luka.",
+      "reply_to": 508
+    },
+    {
+      "id": 510,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Sir, what television station did you hear about the conflict on?",
+      "examination": "cross"
+    },
+    {
+      "id": 511,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Likewise, I mean Banja Luka has its television station, so we had it on Banja Luka television.",
+      "reply_to": 510
+    },
+    {
+      "id": 512,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What were the dates that you heard those broadcasts?",
+      "examination": "cross"
+    },
+    {
+      "id": 513,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I cannot say that. I do not remember it. I cannot remember everything.",
+      "reply_to": 512
+    },
+    {
+      "id": 514,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you, your Honour. No further questions."
+    },
+    {
+      "id": 515,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Kay?"
+    },
+    {
+      "id": 516,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Just a few matters in re-examination:"
+    },
+    {
+      "id": 517,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Nedim whom you were told gave the Tadic family the keys to the basement of the house we have seen in the photographs, did you ever talk to Nedim about this matter?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 518,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 517
+    },
+    {
+      "id": 519,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Did you see Nedim at the time?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 520,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 519
+    },
+    {
+      "id": 521,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Either then or after this date?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 522,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, Nedim was with the army then or was absent.",
+      "reply_to": 521
+    },
+    {
+      "id": 523,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you were in Banja Luka in 1992 you told us about the military drill. What was your job at the time? Were you doing your ordinary job?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 524,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 523
+    },
+    {
+      "id": 525,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "You told us you were a locksmith?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 526,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 525
+    },
+    {
+      "id": 527,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Were you working as a locksmith in 1992?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 528,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 527
+    },
+    {
+      "id": 529,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "When you were doing your military drill, at the time of doing the drill, were you still working as a locksmith?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 530,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No.",
+      "reply_to": 529
+    },
+    {
+      "id": 531,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "For how long did the military drill take?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 532,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Sometime in the former half of May we were simply guarding that Local Commune. It was no drill.",
+      "reply_to": 531
+    },
+    {
+      "id": 533,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What was the purpose for guarding the Local Commune?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 534,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "I do not know.",
+      "reply_to": 533
+    },
+    {
+      "id": 535,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "Do you know why people told you to perform this function, what the reason was?",
+      "examination": "re-direct"
+    },
+    {
+      "id": 536,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "No, people were to be there on duty and stand sentry there and so we did. We executed orders.",
+      "reply_to": 535
+    },
+    {
+      "id": 537,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 538,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Any recross?"
+    },
+    {
+      "id": 539,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 540,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "If we could clarify again what commune was it that you were guarding?",
+      "examination": "cross"
+    },
+    {
+      "id": 541,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "The Local Commune of Starcevica.",
+      "reply_to": 540
+    },
+    {
+      "id": 542,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "The other people there with you who were guarding this commune, were they also armed as you were armed?",
+      "examination": "cross"
+    },
+    {
+      "id": 543,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 542
+    },
+    {
+      "id": 544,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "This commune that you were guarding, that was where your home is located, is that correct?",
+      "examination": "cross"
+    },
+    {
+      "id": 545,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "It is.",
+      "reply_to": 544
+    },
+    {
+      "id": 546,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "question",
+      "text": "What is your exact address in [redacted]",
+      "examination": "cross"
+    },
+    {
+      "id": 547,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "[redacted]",
+      "reply_to": 546
+    },
+    {
+      "id": 548,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 549,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Kay?"
+    },
+    {
+      "id": 550,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, if that could be redacted from the material?"
+    },
+    {
+      "id": 551,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Miss Hollis, there is no objection or is there?"
+    },
+    {
+      "id": 552,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, I do not know that this was asked for before, but we certainly have no objection to anything to protect a witness."
+    },
+    {
+      "id": 553,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I am grateful to Miss Hollis."
+    },
+    {
+      "id": 554,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Very good. Thank you. It will be redacted. Do you have any additional questions, Mr. Kay?"
+    },
+    {
+      "id": 555,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I have no additional questions."
+    },
+    {
+      "id": 556,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Is there any objection to the witness being permanently excused?"
+    },
+    {
+      "id": 557,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I am sorry, your Honour, may I confer?"
+    },
+    {
+      "id": 558,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 559,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, we would ask that he be subject to recall."
+    },
+    {
+      "id": 560,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "There is no objection, I gather, to the witness returning home, but just subject to recall."
+    },
+    {
+      "id": 561,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No objection to his returning home."
+    },
+    {
+      "id": 562,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No difficulty with that, your Honour."
+    },
+    {
+      "id": 563,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Balta, you are free to return home. However, you are subject to recall which means that you should make yourself available because you may be asked to return to the Tribunal for testimony. If you are asked, then you are to return. You are now excused. Excuse me, I forgot, I am sorry, Judge Stephen. But make yourself available because you may be recalled. Excuse me, Judge Stephen has a question."
+    },
+    {
+      "id": 564,
+      "speaker": "JUDGE STEPHEN",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Balta, I wanted to ask you about the drill that you undertook guarding your Local Commune in mid April or May. Did that mean that you slept away from home or were you still living in your house during that period of guarding your Local Commune?"
+    },
+    {
+      "id": 565,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "We simply went on duty. I mean, we were -- we stood sentry so there would be -- sometimes, for instance, you would be on night duty and then, of course, we would be away from home and then the next night you would sleep at home.",
+      "reply_to": 546
+    },
+    {
+      "id": 566,
+      "speaker": "THE COURT",
+      "role": "judge",
+      "is_accused": false,
+      "type": "question",
+      "text": "But apart from night duty or day duty for that matter, the rest of the time you would be living in your house?",
+      "examination": "direct"
+    },
+    {
+      "id": 567,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "answer",
+      "text": "Yes.",
+      "reply_to": 566
+    },
+    {
+      "id": 568,
+      "speaker": "JUDGE STEPHEN",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 569,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Kay?"
+    },
+    {
+      "id": 570,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Nothing arises, thank you, your Honour."
+    },
+    {
+      "id": 571,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Miss Hollis?"
+    },
+    {
+      "id": 572,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, your Honour."
+    },
+    {
+      "id": 573,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Balta, once again you are excused, but make yourself available because you may be recalled to testify. Thank you."
+    },
+    {
+      "id": 574,
+      "speaker": "THE WITNESS",
+      "role": "witness",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Much obliged."
+    },
+    {
+      "id": 575,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you very much for coming. Mr. Kay, you will keep in touch, I suppose, so if necessary he can be recalled."
+    },
+    {
+      "id": 576,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes. Mr. Wladimiroff will explain precisely what it means."
+    },
+    {
+      "id": 577,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Mr. Kay, would you call your next witness?"
+    },
+    {
+      "id": 578,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, that is the only Defence witness we have available at this stage in the proceedings. Due to developments last week, we could not bring over the next batch of witnesses who are now ready to come next Wednesday when the Court resumes the hearing."
+    },
+    {
+      "id": 579,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I suppose I should tell you as I told the Prosecutor -- I did not tell them, I think I probably, well, I did not yell at them because I never raise my voice -- the trial has been long and I ask counsel to please not hold up the proceedings. If you are having problems about bringing witnesses, just tell the Trial Chamber and we will help you, because we did schedule Tuesday for arguments and we went all day, we went even longer than what we thought. Mr. Wladimiroff, do you want to explain more?"
+    },
+    {
+      "id": 580,
+      "speaker": "MR. WLADIMIROFF",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, I would. As a matter of fact we had three witnesses left of last week and we anticipated to continue on L. We told you we would inform you last Monday if we were able to discuss the matter on Tuesday, but that it might also be Wednesday. You indicated that that in that case Wednesday would be available for argument. We were not able to deal with the matter, so we argued the matter last Tuesday. We learned also late that there was a postponement with L, so we were not able to bring our witnesses that quick to The Hague. We conferred with the Witness Unit and, therefore, we settled to what was available, three witnesses and L, and now we found no L and three witnesses we have dealt with. Besides that, let me read what is in the transcript, I informed you last Friday that we only had three witnesses available for next week and that we could continue on L. So you said that we will start on Tuesday and finish as soon as we have dealt with those witnesses. So we were under the impression that you were aware of what was going on."
+    },
+    {
+      "id": 581,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I was very much. On your list of witnesses you had estimated two hours for one and two hours for another and two and a half for the other."
+    },
+    {
+      "id": 582,
+      "speaker": "MR. WLADIMIROFF",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That is right."
+    },
+    {
+      "id": 583,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "So we should still be sitting here listening to testimony. Once again, please have your witnesses available so we will not have any delays. We will adjourn until, next Wednesday, at 10 a.m."
+    },
+    {
+      "id": 584,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Before we do adjourn there was one outstanding matter that the Court was aware of, a motion filed on behalf of the Prosecution which we have since been able to discuss. Your Honour may remember shelving for last Friday."
+    },
+    {
+      "id": 585,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I do understand. I spoke with Miss Featherstone and asked her to ask counsel if they had reached an agreement on the redaction of the material. She told me at one of our breaks today that you were still working on it and I told her, thank you. Now, are you going to tell me that you have finished, I hope?"
+    },
+    {
+      "id": 586,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Indeed I do remember the conversation with Miss Featherstone, but since then I have been able to deal with it with the Prosecution."
+    },
+    {
+      "id": 587,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you. When you reach agreement advise us and then a decision will be entered, I suppose, if agreement has been reached."
+    },
+    {
+      "id": 588,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It has, your Honour, and we do have copies of the redacted version of the purported interview. It depends upon how the Court wishes to deal with that. We can withdraw the entire package and resubmit a new package with the last attachment being redacted or we can simply provide the redacted copies of the interview and have those traded out. Perhaps it might be cleaner to withdraw the entire thing and resubmit the entire thing."
+    },
+    {
+      "id": 589,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You filed the motion?"
+    },
+    {
+      "id": 590,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour."
+    },
+    {
+      "id": 591,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "It is up to you. How do you want to handle it? What would the Registrar say if you wanted to withdraw it? I guess they would say that is OK, would they, Mr. Bos? Fine. Then you will withdraw it, submit a new motion."
+    },
+    {
+      "id": 592,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "With the redaction."
+    },
+    {
+      "id": 593,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Indicating that it is unopposed and then a decision or order will be entered accordingly."
+    },
+    {
+      "id": 594,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour."
+    },
+    {
+      "id": 595,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That is a confidential motion."
+    },
+    {
+      "id": 596,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes, your Honour. After discussions with Defence counsel, Defence counsel has asked that again I clarify that the document which has been redacted is, in our belief, what could amount to a prior statement of the witness, portions of which would be inconsistent, portions of which would be consistent, but that is the character of what we believe that document could be considered to be. That is why we wanted to provide it to the Defence and to the Court. The affidavit from the investigator simply explained the efforts that were made after we became aware of the documents existence."
+    },
+    {
+      "id": 597,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I will not even comment on that."
+    },
+    {
+      "id": 598,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Is that correct, Mr. Kay?"
+    },
+    {
+      "id": 599,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I am grateful for Miss Hollis explaining it in that way. We can accept this is a trial bench that will be able to deal with this material that concerns one of the confidential Prosecution witnesses."
+    },
+    {
+      "id": 600,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "In any case, the parties have agreed as to the attachment and what will be redacted. The motion will be withdrawn and a new motion then will be filed with a redaction and we will enter an order granting it."
+    },
+    {
+      "id": 601,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, since we still have some time perhaps we could also deal with the memoranda dealing with interpretation issues that arose during the trial. We had talked about that earlier."
+    },
+    {
+      "id": 602,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 603,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Again, do you actually want them read into the record? Do you want them submitted as an exhibit or do you want both?"
+    },
+    {
+      "id": 604,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Both, if I understand what you are talking about. If either party considers that there has been an error in interpretation, then you should bring it to the attention of the Trial Chamber in open court so that it can be picked up on the transcript, and then you can file a memorandum, if you wish, but the most important thing is for it to be picked up."
+    },
+    {
+      "id": 605,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "May I do that at this time, your Honour?"
+    },
+    {
+      "id": 606,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes."
+    },
+    {
+      "id": 607,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "If I may pick through this as I go, your Honour. First of all, we are discussing a correction to the transcript that would have been taken on 18th July 1996, page 2405 line 7, page 2406 line 3, and testimony of 17th July 1996, page 2370 line 31. After a review of the audio tapes it was determined there was an error in interpretations. Both witnesses were talking about \"automatic rifle\" not about \"submachine gun\". That is one correction."
+    },
+    {
+      "id": 608,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You have conferred with counsel obviously?"
+    },
+    {
+      "id": 609,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We have provided Defence copies with all of this."
+    },
+    {
+      "id": 610,
+      "speaker": "MR. WLADIMIROFF",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Yes and, we have agreed to that."
+    },
+    {
+      "id": 611,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour the next one would involve testimony of 1st August 1996 page 3007, line 33. Again, after a review of the audio tapes there was an error of interpretation. Line 33 should read as follows: \"Dark green and coffee, light coffee. All colours were rather pale.\" The correction there was that originally the word \"green\" was interpreted as \"blue\". The correct interpretation is \"dark green\". This would refer to testimony on 9th August, page 3359 lines 32, 33. After submitting a request to the Conference and Language Services section the reply is this. As to lines 32, 33 could indeed be interpreted as follows: \"It could be light but maybe it was shining in the sun, but his hair sort of went more in the direction of black.\" The note goes on to indicate that the content makes it possible for the sentence to be interpreted in more than one way. As to 9th August 1996 testimony, page 3294 line 19, line 19 should read as follows: \"I can\" c-a-n. Your Honour, there is one additional matter of a request for verification of interpretation concerning testimony that was given in closed session. Perhaps for that that could simply be submitted as part of the Exhibit which I am about to tender. I will note which part of it is and then perhaps the Registry could make appropriate corrections."
+    },
+    {
+      "id": 612,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You have what, four or so or five? Do you want to admit them as separate exhibits? I suppose they should be admitted into the record, except for the last one which we will handle differently, I suppose, since that was in closed."
+    },
+    {
+      "id": 613,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I was thinking I would admit them as one exhibit but A, B C, and then a portion of that could be sealed which would be the last one."
+    },
+    {
+      "id": 614,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "OK."
+    },
+    {
+      "id": 615,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "That would be the next Prosecution Exhibit in line as Prosecution Exhibit 351. That would be A was the first mention I made about automatic rifle. B was the mention about \"dark green\". C was the mention about the sentence being interpreted as \"light but maybe it was shining in the sun\". D was the correction of the line to read, \"I can\". E would be the correction pertaining to the testimony in closed session."
+    },
+    {
+      "id": 616,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Any objection?"
+    },
+    {
+      "id": 617,
+      "speaker": "MR. WLADIMIROFF",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, your Honour."
+    },
+    {
+      "id": 618,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Exhibits 351A, B, C, D and E will be admitted. E will be handled appropriately since it was in closed session. Is there anything else?"
+    },
+    {
+      "id": 619,
+      "speaker": "MR. WLADIMIROFF",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Just for the reference, your Honour, the page of E is all I need?"
+    },
+    {
+      "id": 620,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Your Honour, it was at page 3567, line 20."
+    },
+    {
+      "id": 621,
+      "speaker": "MR. WLADIMIROFF",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Thank you."
+    },
+    {
+      "id": 622,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "You should provide counsel for the Defence with a copy of those memos."
+    },
+    {
+      "id": 623,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "I have done that, your Honour."
+    },
+    {
+      "id": 624,
+      "speaker": "MR. WLADIMIROFF",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We have them, but as I do not have them here I just wanted to make these notes."
+    },
+    {
+      "id": 625,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "OK, they are admitted. Is there anything else?"
+    },
+    {
+      "id": 626,
+      "speaker": "MISS HOLLIS",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "No, your Honour."
+    },
+    {
+      "id": 627,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Anything from the Defence we can use the day for?"
+    },
+    {
+      "id": 628,
+      "speaker": "MR. KAY",
+      "role": "counsel",
+      "is_accused": false,
+      "type": "statement",
+      "text": "Sorry, no, your Honour."
+    },
+    {
+      "id": 629,
+      "speaker": "THE PRESIDING JUDGE",
+      "role": "judge",
+      "is_accused": false,
+      "type": "statement",
+      "text": "We will adjourn until Wednesday at 10 a.m."
+    }
+  ],
   "procedural_notes": [
     {
       "after_utterance": 0,
@@ -26,83 +5511,95 @@
       "text": "(Hearing in open session)"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 1,
       "text": "Examined by MR. KAY"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 3,
       "text": "(The witness was sworn)"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 33,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 38,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 38,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 38,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 38,
       "text": "[redacted]"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 157,
       "text": "Cross-examined by MR. NIEMANN"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 223,
       "text": "Re-examined by MR. KAY"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 239,
       "text": "(The witness withdrew)"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 245,
       "text": "Examined by MR. KAY"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 247,
       "text": "(The witness was sworn)"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 344,
       "text": "(Handed)"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 394,
+      "text": "(11.30 a.m.)"
+    },
+    {
+      "after_utterance": 394,
       "text": "(The Court adjourned for a short time)"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 394,
+      "text": "(11.50 a.m.)"
+    },
+    {
+      "after_utterance": 447,
       "text": "Cross-Examined by MISS HOLLIS"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 515,
       "text": "Re-examined by MR. KAY"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 539,
       "text": "Further cross-examined by MISS HOLLIS"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 563,
       "text": "Examined by the Court"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 576,
       "text": "(The witness withdrew)"
     },
     {
-      "after_utterance": 0,
+      "after_utterance": 629,
+      "text": "(12.34 p.m.)"
+    },
+    {
+      "after_utterance": 629,
       "text": "(The court adjourned until Wednesday, 2nd October 1996)"
     }
   ],

@@ -179,6 +179,76 @@ Matching rules (applied in order, checked by `check_is_accused()`):
 
 All ICTY accused are male, so the `MS./MRS./MISS` exclusion prevents false positives with female counsel who share a surname with an accused.
 
+*Male* counsel sharing an accused's surname are excluded via
+`parser/counsel_exclusions.csv` (loaded by `load_accused_names()` and checked
+in `check_is_accused()`). Two confirmed cases (2026-07-05): `MR. LUKIC` in
+`milutinovic_et_al_05-87` (Branko Lukić, counsel for accused Sreten Lukić)
+and `MR. NIKOLIC` in `popovic_et_al` (Predrag Nikolić, attorney on Beara's
+team) — together 9,930 utterances that were wrongly flagged before the fix.
+The exclusion is applied at parse time (stored `is_accused` is already
+correct); `chunk_extracton.py` applies the same list again as a safety net,
+so an out-of-date parse cannot silently reintroduce the false positives.
+
+#### Accused attribution (bare speaker labels)
+
+`is_accused` says *an* accused is speaking, but bare labels (`THE ACCUSED` /
+`THE APPELLANT` without a name — 82,503 utterances) don't say *which* one.
+That only matters in multi-accused cases (8,149 utterances); in single-accused
+cases the answer is trivial.
+
+`parser/attribute_accused.py` resolves this per transcript file and writes
+`data_250625/reports/accused_attribution.csv` — one row per file containing
+accused utterances:
+
+| Column | Description |
+|--------|-------------|
+| `case`, `source_file`, `case_id_base`, `date` | File identity |
+| `n_accused_in_case` | Accused count from `pleas.csv`/`case_mapping.csv` |
+| `n_bare` / `n_named` | Accused utterances with bare vs. named labels |
+| `named_accused_speakers` | Named accused labels seen in the file |
+| `attributed_accused` | Who the bare labels belong to (if resolved) |
+| `plea_initial` | `plea` column from `pleas.csv` (initial plea by convention) |
+| `plea_final` | Derived from the `pleas.csv` `note` column ("later changed plea to guilty" → `guilty`); equals `plea_initial` when no change is noted |
+| `plea_note` | The raw `note` string, for provenance |
+| `method` | How (see below) |
+| `evidence` | Registrar case call snippet or mention counts |
+| `needs_review` | `yes` when the method is a heuristic fallback |
+
+Methods, strongest first: `manual` (from `accused_attribution_overrides.csv`,
+survives re-runs) > `single_accused` > `case_call` (registrar announces "the
+Prosecutor versus <name>" in the opening utterances) > `header_scan` /
+`header_multi` / `mention_count` (surname frequency heuristics, always
+flagged) > `joint_hearing` (all accused present — bare labels genuinely
+ambiguous, not attributed) > `unresolved`.
+
+Plea columns are joined at run time, so re-running the script after editing
+`pleas.csv` refreshes the whole table without losing manual overrides.
+
+Results (2026-07-05): 4,686 files. Bare utterances: 52,626 resolved
+authoritatively (`single_accused` + `case_call`), 23,701 resolved heuristically
+(flagged), 6,176 joint/unresolved. For `jankovic_g_et_al` — the only case
+whose accused pled differently — 269 of 294 bare utterances resolve via
+`case_call`; the remaining 25 sit in 5 flagged files.
+
+#### Hearing deduplication
+
+UCR files the same hearing under multiple related case numbers (joined and
+severed cases: Blaškić↔Kordić, Popović↔Tolimir, Đorđević↔Milutinović, both
+Karadžić folders, …), so 15.4% of all parsed utterances are duplicate copies
+(936,374 excess utterances in 1,854 duplicate groups, verified by full-text
+hash).
+
+`parser/dedup_hearings.py` writes `data_250625/reports/hearing_dedup.csv`:
+one row per file in a duplicate group, with a `canonical_case` owner and
+`is_canonical` flag. Ownership rules in order: manual override
+(`hearing_dedup_overrides.csv`) > case number printed in the transcript >
+folder with pleas/CIS data > hearing date within exactly one folder's
+non-duplicated date range > majority owner of the same folder pair >
+alphabetical fallback (flagged `needs_review`; currently 1 group).
+
+`chunk_extracton.py` skips non-canonical copies. Anything computing corpus
+statistics should do the same.
+
 #### Examination type tracking
 
 Examination headers are detected by `EXAM_HEADER_RE`, matching both noun and past-participle forms:
@@ -195,16 +265,33 @@ Supported suffixes: `[Continued]`, `(Continued)`, `[Cont'd]`, `[Contd.]`, `[Resu
 
 Each question utterance gets an `examination` field with one of: `direct`, `cross`, `re-direct`, `re-cross`, or the raw string if unrecognized.
 
-Results (2025-06-29, after parser fixes):
+Results (2026-07-05, current):
 
 | Metric | Value |
 |--------|-------|
 | Files parsed | 12,651 / 12,651 (0 failed) |
 | Cases with transcripts | 96 (of 108 folders) |
-| Total utterances | 6,071,387 |
+| Total utterances (incl. duplicate hearing copies) | 6,095,041 |
 | Null dates | 2 |
-| `is_accused=True` utterances | 384,299 |
+| `is_accused=True` utterances (stored; counsel excluded, incl. duplicates) | 374,369 |
+| **Accused utterances after dedup (final dataset)** | **250,529** |
 | UNKNOWN EXAMINER utterances | 441 |
+
+#### Parse-quality audit (2026-07-05)
+
+- **Text coverage**: parsed output vs. line-number-stripped source txt on a
+  400-file sample — median 103% (speaker names counted on the output side),
+  no file below 94%. No content is lost in parsing.
+- **Utterance boundaries**: utterances containing another speaker's label
+  mid-text *outside* a quote (the signature of two turns wrongly merged):
+  101 of 6.1M (0.002%). Was 369 before fixing `LINE_NUMBER_RE` to accept the
+  1996-era `23<TAB>JUDGE STEPHEN:` line-number format (+23,654 utterances
+  recovered, mostly in `tadic`). The residual are one-off court-reporter
+  quirks (`[Trial Chamber confers]JUDGE LIU:` without a space, stray `*`
+  before a label). Mid-text labels *inside* quotes are correct behaviour —
+  counsel reading a prior transcript into the record.
+- Files parsing to 0 utterances (346) are fully closed/private sessions with
+  no public content — correct behaviour.
 
 Each utterance includes an `is_accused` boolean field, derived from matching speaker names against accused names in `pleas.csv` and `case_mapping.csv`. This identifies utterances by the accused regardless of their functional role (testifying as witness, cross-examining as self-represented counsel, or making statements).
 
@@ -229,8 +316,23 @@ Possible reasons: case was superseded by a joint case number (transcripts filed 
 
 ### Dataset creation
 
-`dataset_creation/chunk_extracton.py` — extracts utterances spoken by the accused from parsed transcript JSONs. Uses the `is_accused` flag computed by the parser (from `pleas.csv` + `case_mapping.csv` + speaker patterns). Outputs `accused_utterances.csv` and `accused_utterances.pkl`.
+`dataset_creation/chunk_extracton.py` — extracts utterances spoken by the accused from parsed transcript JSONs. Uses the `is_accused` flag computed by the parser (from `pleas.csv` + `case_mapping.csv` + speaker patterns), skips non-canonical duplicate copies via `data_250625/reports/hearing_dedup.csv`, and re-applies `parser/counsel_exclusions.csv` as a safety net. Outputs `accused_utterances.csv` and `accused_utterances.pkl` (250,529 rows).
+
+Full rebuild is three steps, in order (see README for details):
 
 ```bash
+.venv/bin/python3 parser/run_parser.py --archive-dir archive_250625/ \
+    --output-dir data_250625/transcripts_parsed --txt-dir data_250625/transcripts_txt
+.venv/bin/python3 parser/dedup_hearings.py
 .venv/bin/python3 dataset_creation/chunk_extracton.py
 ```
+
+Known limitations of the final dataset (documented, not bugs):
+
+- ~24k bare `THE ACCUSED` utterances belong to cases without plea/CIS data
+  (mostly the Karadžić/Mladić folders) — no plea to filter on.
+- ~6k bare labels in joint trials (mostly `popovic_et_al`) cannot be
+  attributed to a specific accused; see `accused_attribution.csv`.
+- `accused_attribution.csv` lists every file including duplicate copies —
+  when computing statistics from it, filter to canonical files via
+  `hearing_dedup.csv`.

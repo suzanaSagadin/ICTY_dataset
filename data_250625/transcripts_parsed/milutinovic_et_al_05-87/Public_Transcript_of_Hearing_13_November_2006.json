@@ -73,8 +73,9 @@
       "speaker": "MR. HANNIS",
       "role": "counsel",
       "is_accused": false,
-      "type": "statement",
-      "text": "2 Q. Good morning, Mr. Tanic. When we finished on Friday, I think we had just talked about a fact-finding mission to Kosova that was undertaken by General Perisic and Jovica Stanisic. Do you recall approximately when that mission occurred?"
+      "type": "question",
+      "text": "Good morning, Mr. Tanic. When we finished on Friday, I think we had just talked about a fact-finding mission to Kosova that was undertaken by General Perisic and Jovica Stanisic. Do you recall approximately when that mission occurred?",
+      "examination": "direct"
     },
     {
       "id": 10,
@@ -82,7 +83,8 @@
       "role": "witness",
       "is_accused": false,
       "type": "answer",
-      "text": "As far as I can remember, in early 1998, but I believe you can find the exact period in my statement."
+      "text": "As far as I can remember, in early 1998, but I believe you can find the exact period in my statement.",
+      "reply_to": 9
     },
     {
       "id": 11,
