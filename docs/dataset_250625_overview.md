@@ -149,6 +149,14 @@ Each utterance gets a `role` field. Classification is done in two stages:
 
 **Important:** The `role` field reflects the speaker label pattern, not the person's actual position. An accused person addressed as `MR. ALEKSOVSKI` gets `role=counsel` even though he is the defendant. Use the `is_accused` field (see below) to identify utterances by the accused regardless of their role label.
 
+One exception is applied at the end: an utterance that would get `role=witness`
+but has `is_accused=true` (the accused speaking in the witness position —
+answering questions during examination) is emitted as **`role=defendant`** —
+so plain `witness` always means a real witness, and the accused's three
+speaking capacities are `defendant` (answering questions), `accused` (dock
+statements), and `counsel` (questioning witnesses / addressing the court,
+mostly self-representers).
+
 **Stage 2 — Q/A context override:**
 
 During examination sections, `Q.` and `A.` lines override the speaker and role:
@@ -293,7 +301,7 @@ Results (2026-07-05, current):
 - Files parsing to 0 utterances (346) are fully closed/private sessions with
   no public content — correct behaviour.
 
-Each utterance includes an `is_accused` boolean field, derived from matching speaker names against accused names in `pleas.csv` and `case_mapping.csv`. This identifies utterances by the accused regardless of their functional role (testifying as witness, cross-examining as self-represented counsel, or making statements).
+Each utterance includes an `is_accused` boolean field, derived from matching speaker names against accused names in `pleas.csv` and `case_mapping.csv`. This identifies utterances by the accused regardless of their functional role (answering questions in the witness position, cross-examining as self-represented counsel, or making statements).
 
 12 case folders have empty `transcripts/` directories (no DOC/DOCX files on UCR):
 
@@ -317,6 +325,15 @@ Possible reasons: case was superseded by a joint case number (transcripts filed 
 ### Dataset creation
 
 `dataset_creation/chunk_extracton.py` — extracts utterances spoken by the accused from parsed transcript JSONs. Uses the `is_accused` flag computed by the parser (from `pleas.csv` + `case_mapping.csv` + speaker patterns), skips non-canonical duplicate copies via `data_250625/reports/hearing_dedup.csv`, and re-applies `parser/counsel_exclusions.csv` as a safety net. Outputs `accused_utterances.csv` and `accused_utterances.pkl` (250,529 rows).
+
+The `role` column comes straight from the parsed JSONs and describes the
+capacity the accused was speaking in:
+
+| Value | Meaning | Rows |
+|---|---|---|
+| `counsel` | Questioning witnesses / addressing the court (mostly self-representers: Karadžić, Milošević, Šešelj, Tolimir, …) | 152,630 |
+| `accused` | Statements from the dock, answers to the judge, initial appearances | 62,807 |
+| `defendant` | Answering questions in the witness position (examinations, questioning by the judges) | 35,092 |
 
 Full rebuild is three steps, in order (see README for details):
 

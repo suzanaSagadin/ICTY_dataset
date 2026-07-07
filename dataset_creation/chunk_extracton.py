@@ -7,6 +7,9 @@ LB:
   using the canonical owner from data_250625/reports/hearing_dedup.csv
 - known counsel sharing an accused's surname (parser/counsel_exclusions.csv) are
   dropped even where the stored is_accused flag is stale
+- the parser labels the accused answering questions in the witness position as
+  role "defendant" ("accused" = dock statements, "counsel" = questioning
+  witnesses / addressing the court); this script passes roles through unchanged
 
 """
 from pathlib import Path

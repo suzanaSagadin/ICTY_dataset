@@ -787,10 +787,16 @@ class ParserState:
         if not text:
             return
 
+        role = self.current_role or "unknown"
+        # The accused answering questions is recorded in the witness position
+        # by the court reporter; label that capacity "defendant"
+        if role == "witness" and self.current_is_accused:
+            role = "defendant"
+
         utt = Utterance(
             id=self.utterance_counter,
             speaker=self.current_speaker,
-            role=self.current_role or "unknown",
+            role=role,
             type=self.current_type,
             text=text,
             is_accused=self.current_is_accused,
