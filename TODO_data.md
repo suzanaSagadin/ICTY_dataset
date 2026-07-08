@@ -8,7 +8,6 @@ Rebuild order: `run_parser.py` → `dedup_hearings.py` → `chunk_extracton.py` 
 
 ## Open items
 
-- [ ] **Review the 5 flagged `jankovic_g_et_al` files** (25 bare utterances) and record results in `data_250625/reports/accused_attribution_overrides.csv` (columns: `case, source_file, attributed_accused, note`) — only needed for plea filtering
 - [ ] **Wire `accused_attribution.csv` into `chunk_extracton.py`** as an `accused_name` column (named label → direct; bare label → attribution table)
 - [ ] **Regression test suite** — pin ~8 known-bad files as golden tests (plan below)
 - [ ] **Review 22 new/changed pleas rows** — see `data_250625/reports/pleas_comparison.csv`
@@ -18,6 +17,7 @@ Rebuild order: `run_parser.py` → `dedup_hearings.py` → `chunk_extracton.py` 
 - [x] **Check transcript parser quality** on new archive results — done 2026-07-05: validator re-run clean; utterance-recognition audit + fixes (see "Data quality findings" below)
 - [x] **Update `dataset_creation/chunk_extracton.py`** — paths updated to `data_250625/`, accused detection now uses parser's `is_accused` flag instead of re-implementing matching
 - [x] **Update `dataset_overview.md`** with parser results once available
+- [x] **Review the 5 flagged `jankovic_g_et_al` files** (25 bare utterances) — done 2026-07-08: recorded in `data_250625/reports/accused_attribution_overrides.csv` (method `manual`). 15th_April_2005 → Gojko Janković (registrar misread case call as Stanković; Judge El Mahdi corrected on the record — Janković's initial appearance); 4th_March_2005_90da15 → Radovan Stanković (status conference); the three 2007 appeal hearings (15 Oct, 31 Oct, 27 Aug) → Dragan Zelenović (`THE APPELLANT`). All 294 bare utterances in the case now resolved; case dropped off `needs_review`. Regenerate the report with a **full** run (`python parser/attribute_accused.py`, no `--case` — `--case` rewrites the whole CSV with only that case's rows).
 - [ ] **Manually check 16 cases with icty_slug but no CIS file on icty.org:**
   - IT-01-43  Obrenovic (obrenovic_old)
   - IT-01-44  Jokic (jokic_old)
@@ -65,9 +65,9 @@ That's 362 utterances out of 384,299 `is_accused=True` total (<0.1%).
 
 **Update (2026-07-05):** Attribution of bare `THE ACCUSED`/`THE APPELLANT` labels is now solved by `parser/attribute_accused.py` → `data_250625/reports/accused_attribution.csv` (one row per transcript file with accused utterances; see dataset overview for method details). Findings:
 
-- Only **one** multi-accused case has non-uniform pleas: `jankovic_g_et_al` (Stanković guilty; Janković, Zelenović not guilty). Its hearings are per-accused (separate arrests), and the registrar's case call resolves 269/294 bare utterances; 25 remain in 5 `needs_review` files.
+- Only **one** multi-accused case has non-uniform pleas: `jankovic_g_et_al` (Stanković guilty; Janković, Zelenović not guilty). Its hearings are per-accused (separate arrests), and the registrar's case call resolves 269/294 bare utterances; the remaining 25 (5 files) were resolved manually on 2026-07-08 (see `accused_attribution_overrides.csv`) — all 294 now attributed.
 - **Caveat on "guilty pleas are rare":** that counted *initial* pleas. `pleas.csv` notes show **18 more accused later changed plea to guilty** (Plavšić, both Obrenović entries, M. Nikolić, D. Nikolić, Zelenović, Jelisić, Banović, Bralo, Češić, Deronjić, Jokić, Mrđa, Rajić, M. Simić, Todorović, …). If "ever pled guilty" is the filter, ~21 people are affected, not 3 — but nearly all are single-accused cases, so attribution stays trivial.
-- Remaining work tracked under "Open items" at the top: review the 5 flagged `jankovic_g_et_al` files; wire `accused_attribution.csv` into `chunk_extracton.py`.
+- Remaining work tracked under "Open items" at the top: wire `accused_attribution.csv` into `chunk_extracton.py`. (The 5 flagged `jankovic_g_et_al` files were resolved 2026-07-08 — see `accused_attribution_overrides.csv`.)
 
 ---
 

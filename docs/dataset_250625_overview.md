@@ -236,7 +236,17 @@ Results (2026-07-05): 4,686 files. Bare utterances: 52,626 resolved
 authoritatively (`single_accused` + `case_call`), 23,701 resolved heuristically
 (flagged), 6,176 joint/unresolved. For `jankovic_g_et_al` — the only case
 whose accused pled differently — 269 of 294 bare utterances resolve via
-`case_call`; the remaining 25 sit in 5 flagged files.
+`case_call`.
+
+Update (2026-07-08): the remaining 25 bare utterances in the 5 flagged
+`jankovic_g_et_al` files were reviewed and recorded in
+`accused_attribution_overrides.csv` (method `manual`, no longer flagged):
+15th_April_2005 → Gojko Janković (registrar misread the case call as Stanković;
+Judge El Mahdi corrected it on the record — this is Janković's initial
+appearance); 4th_March_2005_90da15 → Radovan Stanković (status conference,
+Judge Orie names "Mr. Stankovic"); and the three 2007 appeal hearings
+(15 Oct, 31 Oct, 27 Aug) → Dragan Zelenović (`THE APPELLANT`). This closes
+attribution for the case: all 294 bare utterances are now resolved.
 
 #### Hearing deduplication
 
