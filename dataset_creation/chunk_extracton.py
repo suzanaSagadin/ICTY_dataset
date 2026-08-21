@@ -100,7 +100,8 @@ total_files = 0
 total_utterances = 0
 skipped_duplicates = 0
 excluded_counsel = 0
-
+excluded_interpretation_only = 0
+excluded_short_utterances = 0
 
 # LB: looping through the case folders in the parsed directory
 for case_folder in base_dir.iterdir():
@@ -185,6 +186,21 @@ for case_folder in base_dir.iterdir():
                 ) in counsel_exclusions:
 
                     excluded_counsel += 1
+                    continue
+
+                # LB: dropping utterances that are only an interpretation tag with no actual content following it
+                utt_text = (utt.get("text") or "").strip()
+
+                if utt_text.lower() == "[interpretation]":
+
+                    excluded_interpretation_only += 1
+                    continue
+
+
+                # LB: dropping utterances with less than 10 characters
+                if len(utt_text.split()) <= 7:
+
+                    excluded_short_utterances += 1
                     continue
 
 
@@ -369,6 +385,16 @@ print(
 print(
     f"Counsel utterances excluded: "
     f"{excluded_counsel}"
+)
+
+print(
+    f"Interpretation tag only utterances excluded:"
+    f"{excluded_interpretation_only}"
+)
+
+print(
+    f"Short utterances excluded:"
+    f"{excluded_short_utterances}"
 )
 
 print(
